@@ -3,7 +3,7 @@
 PCゲームお得情報キュレーションサイト - 自動更新スクリプト
 
 機能:
-- 無料ゲーム取得 (Epic Games, Reddit)
+- 無料ゲーム取得 (Epic Games, Reddit r/FreeGameFindings, Reddit r/FreeGamesOnSteam, SteamDB)
 - バンドル取得 (Humble Bundle, Fanatical, IndieGala, Itch.io, Reddit)
 - セール情報取得 (Steam, GOG, IsThereAnyDeal, Reddit)
 - レビュー記事取得 (RSS: AUTOMATON, doope!, インサイド, PC Gamer, RPS, Polygon)
@@ -429,6 +429,172 @@ def fetch_reddit_free_games():
 
     print(f"✅ Found {len(games)} Reddit free games")
     return games
+
+
+@retry_on_failure(max_retries=3, delay=2)
+def fetch_reddit_freegamefindings():
+    """Reddit r/FreeGameFindings から無料ゲーム取得（世界で最も早い情報源）"""
+    print("📥 Fetching Reddit r/FreeGameFindings...")
+
+    url = "https://www.reddit.com/r/FreeGameFindings/hot.json"
+    headers = {**HEADERS, "Accept": "application/json"}
+
+    response = requests.get(url, headers=headers, timeout=30)
+    response.raise_for_status()
+    data = response.json()
+
+    games = []
+    posts = data.get("data", {}).get("children", [])
+
+    for post in posts[:30]:  # 最新30件
+        post_data = post.get("data", {})
+
+        # 固定投稿をスキップ
+        if post_data.get("stickied"):
+            continue
+
+        title = post_data.get("title", "")
+        post_url = post_data.get("url", "")
+        flair = post_data.get("link_flair_text", "")
+
+        # PCゲームのみフィルタリング（Steam, Epic, GOG, Itch.io等）
+        pc_keywords = ["steam", "epic", "gog", "itch", "humble", "indiegala", "fanatical", "pc", "drm-free"]
+        is_pc = any(kw in title.lower() or kw in flair.lower() or kw in post_url.lower() for kw in pc_keywords)
+
+        # 期限切れや無効なものをスキップ
+        skip_keywords = ["expired", "ended", "psa", "other"]
+        should_skip = any(kw in flair.lower() for kw in skip_keywords)
+
+        if not is_pc or should_skip:
+            continue
+
+        # タイトルからプラットフォームとゲーム名を抽出
+        # 形式: [Platform] Game Name (DLC/Free/100% off)
+        platform = "Steam"
+        game_title = title
+
+        # プラットフォーム判定
+        title_lower = title.lower()
+        if "[epic" in title_lower or "epic games" in title_lower:
+            platform = "Epic Games"
+        elif "[gog" in title_lower or "gog.com" in title_lower:
+            platform = "GOG"
+        elif "[itch" in title_lower or "itch.io" in title_lower:
+            platform = "Itch.io"
+        elif "[humble" in title_lower:
+            platform = "Humble Bundle"
+        elif "[indiegala" in title_lower:
+            platform = "IndieGala"
+
+        # ゲームタイトルをクリーンアップ
+        game_title = re.sub(r'\[.*?\]', '', game_title)  # [Platform] を削除
+        game_title = re.sub(r'\(.*?\)', '', game_title)  # (Free/100% off) を削除
+        game_title = game_title.strip()
+
+        if not game_title:
+            continue
+
+        game_data = {
+            "title": game_title,
+            "platform": platform,
+            "type": "free",
+            "description": "",
+            "price": "無料",
+            "originalPrice": "",
+            "discount": "100% OFF",
+            "deadline": "",
+            "url": post_url,
+            "date": datetime.now().strftime("%Y-%m-%d")
+        }
+
+        game_data["description"] = truncate_description(
+            generate_description_with_ai(game_data) if GROQ_API_KEY else f"{game_title}が{platform}で無料配布中です。r/FreeGameFindingsで発見された情報です。"
+        )
+
+        games.append(game_data)
+
+    print(f"✅ Found {len(games)} r/FreeGameFindings free games")
+    return games
+
+
+@retry_on_failure(max_retries=3, delay=2)
+def fetch_steamdb_free_games():
+    """SteamDB から無料/一時無料ゲーム取得"""
+    print("📥 Fetching SteamDB free games...")
+
+    # SteamDB の無料プロモーションページ
+    url = "https://steamdb.info/upcoming/free/"
+
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=30)
+        response.raise_for_status()
+
+        soup = BeautifulSoup(response.text, 'html.parser')
+        games = []
+
+        # テーブルからゲーム情報を抽出
+        table = soup.select_one('table.table')
+        if not table:
+            print("⚠️ SteamDB table not found")
+            return []
+
+        rows = table.select('tbody tr')
+
+        for row in rows[:20]:
+            cells = row.select('td')
+            if len(cells) < 2:
+                continue
+
+            # ゲームタイトルとリンク
+            title_cell = cells[1]
+            link = title_cell.select_one('a')
+            if not link:
+                continue
+
+            title = link.get_text(strip=True)
+            href = link.get('href', '')
+
+            # Steam URLを構築
+            app_id_match = re.search(r'/app/(\d+)', href)
+            if app_id_match:
+                app_id = app_id_match.group(1)
+                game_url = f"https://store.steampowered.com/app/{app_id}"
+            else:
+                game_url = f"https://steamdb.info{href}" if href.startswith('/') else href
+
+            # 期間情報があれば取得
+            deadline = ""
+            if len(cells) >= 4:
+                date_cell = cells[3]
+                date_text = date_cell.get_text(strip=True)
+                if date_text:
+                    deadline = date_text
+
+            game_data = {
+                "title": title,
+                "platform": "Steam",
+                "type": "free",
+                "description": "",
+                "price": "無料",
+                "originalPrice": "",
+                "discount": "100% OFF",
+                "deadline": deadline,
+                "url": game_url,
+                "date": datetime.now().strftime("%Y-%m-%d")
+            }
+
+            game_data["description"] = truncate_description(
+                generate_description_with_ai(game_data) if GROQ_API_KEY else f"{title}がSteamで期間限定無料配布中です。SteamDBで検出された情報です。"
+            )
+
+            games.append(game_data)
+
+        print(f"✅ Found {len(games)} SteamDB free games")
+        return games
+
+    except Exception as e:
+        print(f"⚠️ SteamDB fetch error: {e}")
+        return []
 
 
 @retry_on_failure(max_retries=3, delay=2)
@@ -1135,7 +1301,11 @@ def update_games_data():
     free_games = []
     free_games.extend(fetch_epic_free_games())
     time.sleep(1)
+    free_games.extend(fetch_reddit_freegamefindings())  # 最も早い情報源
+    time.sleep(1)
     free_games.extend(fetch_reddit_free_games())
+    time.sleep(1)
+    free_games.extend(fetch_steamdb_free_games())  # SteamDB無料プロモーション
 
     # バンドル取得
     print("\n📦 Fetching Bundles...")
