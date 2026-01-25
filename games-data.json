@@ -1,9 +1,224 @@
 {
   "pc": {
-    "free": [],
-    "bundle": [],
-    "sale": [],
-    "review": []
+    "free": [
+      {
+        "title": "Rustler - Grand Theft Horse",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "このゲームはポップカルチャーの要素が満載のクレイジーなオープンワールドアクションゲームです。中世の凶悪犯になり、非常識なクエストを完了したり、英雄を殺したり、馬を盗んだり、衛兵と戦ったり、農民から略奪したり、吟遊詩人の音楽を聴いたりすることができます。昔ながらのゲームプレイスタイルがすべて詰め込まれているこのゲームは、SteamやGOGなどのプラットフォームで配布されており。",
+        "price": "無料",
+        "originalPrice": "¥24",
+        "discount": "100% OFF",
+        "deadline": "2026年01月29日まで",
+        "url": "https://store.epicgames.com/ja/p/rustler-grand-theft-horse",
+        "date": "2026-01-25"
+      }
+    ],
+    "bundle": [
+      {
+        "title": "BUNDLES",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、BUNDLESのバンドルが現在販売中です。このバンドルには、主要タイトルとして「Hollow Knight」や「Hyper Light Drifter」、「Celeste」などのインディーゲームが含まれています。ジャンルはアクションアドベンチャーやプラットフォーマーなどが中心で、価格帯はおよそ1000〜2000円と非常に魅力的です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/artsy-pixel-puzzles5-bundle",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "Indie Corp Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Indie Corp Bundleというバンドルが現在販売中です。このバンドルには、主要タイトルとして「Dungeon Defenders」や「Orcs Must Die!」などが含まれており、ジャンルはアクションやアドベンチャーに分類されます。大まかな価格帯は10ドルから20ドル程度で、インディーゲームファンにはおすすめのバンドルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/indie-corp-bundle",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "Psycho Gates Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Psycho Gates Bundleが現在販売中です。このバンドルには、Dying Light、 Layers of Fear、The Vanishing of Ethan Carterなどの主要タイトルが含まれており、主にアクションアドベンチャーやホラーゲームなどのジャンルが中心です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/psycho-gates-bundle",
+        "date": "2026-01-25"
+      }
+    ],
+    "sale": [
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストがSteamで50% OFFセール中です。このゲームはオープンワールドアクションアドベンチャーであり、自由に世界を探索できる特徴があります。通常価格から半額になるこのセールは、大人気のこのゲームをより手軽に体験できる機会です。高い評価と人気度を誇るこのゲームは、多くのユーザーから高い評価を受けており、セール中の価格では非常に魅力的です。",
+        "price": "¥2,190",
+        "originalPrice": "¥4,380",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Red Dead Redemption 2がSteamで75% OFFのセール中です。これはオープンワールドアクションアドベンチャーゲームで、西部開拓時代を舞台に壮大なストーリーを展開します。このゲームは高い評価を受けており、世界中のプレイヤーから人気を博しています。現在のセールでは、通常価格より大幅に安くなっているので、興味がある方はこの機会にチェックしてみてください。",
+        "price": "¥2,154",
+        "originalPrice": "¥8,618",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1174180",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "Red Dead Redemption",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Red Dead RedemptionがSteamで50% OFFセール中です。このゲームはオープンワールドアクションアドベンチャーで、西部開拓時代を舞台にしたストーリーが特徴です。通常価格より半額で購入できます。高い評価と人気を誇るこのゲームは、多くのユーザーから高く評価されており、西部開拓時代を体験したい方にはおすすめです。",
+        "price": "¥3,410",
+        "originalPrice": "¥6,820",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2668510",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "Forza Horizon 5",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Forza Horizon 5がSteamで50% OFFセール中です。このレースゲームは、美しいグラフィックと自由度の高いゲームプレイが特徴で、メキシコの広大な土地を駆け回ることができます。現在の価格は大幅に値下げされており、レースゲームファンにはおすすめです。また、このゲームはSteamでの評価が非常に高く、ユーザーからの人気度も高まっています。",
+        "price": "¥3,795",
+        "originalPrice": "¥7,590",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1551360",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "Resident Evil Village",
+        "platform": "Various",
+        "type": "sale",
+        "description": "バイオハザードシリーズの最新作であるResident Evil Villageが、バラエティーな要素を取り入れたサバイバルホラーゲームです。このゲームは、恐怖とスリルのバランスが取れたゲームプレイや、グラフィックの質の高さで評価されています。現在、78%割引のセール中で、多くのユーザーから人気を博しています。",
+        "price": "$8.78",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-village/info/",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "Dragon's Dogma 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Dragon's Dogma 2は、オープンワールドのアクションRPGです。このゲームでは、プレイヤーは広大な世界を自由に探索し、多種多様なモンスターと戦闘を繰り広げます。現在、Variousで64%の割引セール中で、ファン待望の続編が大幅に安価になっています。このゲームは、ユニークな戦闘システムや豊富なストーリーによって、高い評価を獲得しています。",
+        "price": "$25.53",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
+        "date": "2026-01-25"
+      }
+    ],
+    "review": [
+      {
+        "title": "【俺たちは雰囲気で『アークナイツ：エンドフィールド』をやってい…：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「俺たちは雰囲気で『アークナイツ：エンドフィールド』をやってい…：レビュー」のレビュー記事では、ゲームの評価ポイントとして、ストーリーの深さやグラフィックの美しさが高く評価されています。また、レビューの内容概要として、ゲームの操作性やサウンドトラックの質も高く評価されています。このレビュー記事は、ゲームファンや『アークナイツ』シリーズの愛好家にとって非常に参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260125-411016/",
+        "date": "2026-01-25",
+        "is_translated": false
+      },
+      {
+        "title": "【Steamセールで、：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamセールで注目されるゲームのレビュー記事について紹介します。この記事では、ゲームの評価ポイントとして、グラフィックの美しさや、ゲームプレイの面白さ、ストーリーの深さなどが取り上げられています。また、レビューの内容概要として、ゲームの操作性や、難易度の適切さ、音楽の素晴らしさなどが説明されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260124-410887/",
+        "date": "2026-01-25",
+        "is_translated": false
+      },
+      {
+        "title": "【コミュニティ投票で新キラーと生存者の外観を決定する「Dead…：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、コミュニティ投票で新キラーと生存者の外観を決定する「Dead by Daylight」の魅力を紹介しています。ゲームの評価ポイントとして、ユーザー参加型のコンテンツ更新や、プレイヤー同士の緊張感溢れる対戦があげられます。また、レビューの内容として、ゲームのグラフィックのクオリティや、操作のスムーズさも評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163569.html",
+        "date": "2026-01-24",
+        "is_translated": false
+      },
+      {
+        "title": "【「FBC: Firebreak」が無料でプレイできるStea…：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「FBC: Firebreak」のレビュー記事では、ゲームの評価ポイントとして、スリリングなゲームプレイexperienceやユニークなゲームデザインが挙げられます。また、レビューでは、プレイヤーが自由に戦略を立てることができる点や、グラフィックの質の高さも評価されています。このレビューは、FPSゲームファンやアクションゲーム好きに向けて、ゲームの概要や魅力を紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163584.html",
+        "date": "2026-01-24",
+        "is_translated": false
+      },
+      {
+        "title": "【発売10周年を迎える「Job Simulator」のインスト…：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Job Simulator」の10周年を記念してのレビュー記事では、ゲームのユーモアとグラフィックの向上、プレイヤーの自由度の高さなどが評価ポイントとして挙げられます。レビューの内容は、ゲームの面白さや操作性の良さ、ストーリーの魅力などを包括的に紹介しています。このレビュー記事は、ゲームファンや「Job Simulator」のシリーズを愛する人に向けて、ゲームの全体像を把握できるコンテンツです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163577.html",
+        "date": "2026-01-23",
+        "is_translated": false
+      },
+      {
+        "title": "【台湾のホラーゲーム『Devotion』を2020年に販売中止…：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "台湾のホラーゲーム『Devotion』は、2020年に販売中止となった作品ですが、その評価ポイントとしては、独特のストーリーテリングや、恐怖を感じさせる雰囲気などがあります。レビューの内容概要としては、ゲームの世界観や音響効果が高く評価されていますが、一部のプレイヤーからは難易度が高いと指摘されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/after-pulling-taiwanese-horror-game-devotion-from-sale-in-2020-gog-say-they-find-their-decision-difficult-to-reflect-on",
+        "date": "2026-01-24",
+        "is_translated": true
+      },
+      {
+        "title": "【250時間経ってもアークレイダーズに何度も戻ってくるのは、そ…：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、人気オンラインゲーム「アークレイダーズ」について紹介しています。記事では、ゲームの評価ポイントとして、豊富なコンテンツ、魅力的なグラフィック、そして奥深いゲームシステムが挙げられています。レビューの内容概要として、記事は約250時間プレイしても飽きずに何度も戻ってくる魅力に焦点を当てています。対象読者は、このゲームに興味のある人やオンラインゲームファン向けです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/after-250-hours-i-keep-coming-back-to-arc-raiders-not-because-its-surprising-but-because-its-predictable",
+        "date": "2026-01-24",
+        "is_translated": true
+      }
+    ]
   },
-  "last_updated": ""
+  "last_updated": "2026-01-25T08:37:11.054436"
 }
