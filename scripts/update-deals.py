@@ -274,6 +274,51 @@ def normalize_title(title):
     return ' '.join(words)
 
 
+def is_valid_entry(item, entry_type):
+    """エントリーが有効かどうかをチェック（不完全なデータを除外）"""
+    title = item.get('title', '').strip()
+
+    if not title:
+        return False
+
+    # 汎用的すぎるタイトルを除外
+    invalid_titles = [
+        'bundle', 'bundles', 'sale', 'sales', 'free', 'review', 'reviews',
+        'deal', 'deals', 'game', 'games', 'offer', 'offers',
+        'バンドル', 'セール', '無料', 'レビュー', 'ゲーム'
+    ]
+
+    title_lower = title.lower()
+    if title_lower in invalid_titles:
+        return False
+
+    # レビュータイトルのチェック: ゲーム名が含まれているか
+    if entry_type == 'review':
+        # 【〜：レビュー】形式の場合、〜の部分が実質的に空かチェック
+        match = re.match(r'【(.*)：レビュー】', title)
+        if match:
+            game_name = match.group(1).strip()
+            # ゲーム名が短すぎる、または汎用的な単語のみの場合は無効
+            if len(game_name) < 3:
+                return False
+            # 「、」で終わっている場合は不完全（例: 「Steamセールで、」）
+            if game_name.endswith('、') or game_name.endswith('…'):
+                return False
+            # 汎用的な単語のみの場合は無効
+            generic_words = ['steam', 'セール', 'sale', 'free', '無料', 'new', '新作']
+            game_name_lower = game_name.lower()
+            if all(word in game_name_lower for word in game_name_lower.split() if word in generic_words):
+                return False
+
+    # バンドルタイトルのチェック: 具体的な名前が含まれているか
+    if entry_type == 'bundle':
+        # タイトルが短すぎる場合は無効
+        if len(title) < 5:
+            return False
+
+    return True
+
+
 # =============================================================================
 # データ取得関数
 # =============================================================================
@@ -1233,6 +1278,20 @@ def remove_duplicates(games_list):
     return unique_games
 
 
+def remove_incomplete_entries(games_list, category):
+    """不完全なエントリーを削除"""
+    if not games_list:
+        return []
+
+    valid_games = [game for game in games_list if is_valid_entry(game, category)]
+
+    removed_count = len(games_list) - len(valid_games)
+    if removed_count > 0:
+        print(f"🧹 Removed {removed_count} incomplete {category} entries")
+
+    return valid_games
+
+
 def load_existing_data():
     """既存データを読み込み"""
     if DATA_FILE.exists():
@@ -1269,8 +1328,14 @@ def merge_data(existing, new_items, category):
 
     merged = list(existing)
     added_count = 0
+    skipped_count = 0
 
     for item in new_items:
+        # 不完全なデータをスキップ
+        if not is_valid_entry(item, category):
+            skipped_count += 1
+            continue
+
         norm_title = normalize_title(item.get('title', ''))
         if norm_title and norm_title not in existing_titles:
             merged.append(item)
@@ -1279,6 +1344,8 @@ def merge_data(existing, new_items, category):
 
     if added_count > 0:
         print(f"➕ Added {added_count} new {category} entries")
+    if skipped_count > 0:
+        print(f"⏭️ Skipped {skipped_count} incomplete {category} entries")
 
     return merged
 
@@ -1348,6 +1415,13 @@ def update_games_data():
     data["pc"]["bundle"] = remove_duplicates(data["pc"]["bundle"])
     data["pc"]["sale"] = remove_duplicates(data["pc"]["sale"])
     data["pc"]["review"] = remove_duplicates(data["pc"]["review"])
+
+    # 不完全なエントリーを削除
+    print("\n🧹 Removing incomplete entries...")
+    data["pc"]["free"] = remove_incomplete_entries(data["pc"]["free"], "free")
+    data["pc"]["bundle"] = remove_incomplete_entries(data["pc"]["bundle"], "bundle")
+    data["pc"]["sale"] = remove_incomplete_entries(data["pc"]["sale"], "sale")
+    data["pc"]["review"] = remove_incomplete_entries(data["pc"]["review"], "review")
 
     # 古いデータ削除
     print("\n🗑️ Cleaning old data...")

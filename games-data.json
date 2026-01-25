@@ -16,18 +16,6 @@
     ],
     "bundle": [
       {
-        "title": "BUNDLES",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、BUNDLESのバンドルが現在販売中です。このバンドルには、主要タイトルとして「Hollow Knight」や「Hyper Light Drifter」、「Celeste」などのインディーゲームが含まれています。ジャンルはアクションアドベンチャーやプラットフォーマーなどが中心で、価格帯はおよそ1000〜2000円と非常に魅力的です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/artsy-pixel-puzzles5-bundle",
-        "date": "2026-01-25"
-      },
-      {
         "title": "Indie Corp Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -161,19 +149,6 @@
         "discount": "",
         "deadline": "",
         "url": "https://automaton-media.com/articles/now-gaming/20260125-411016/",
-        "date": "2026-01-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamセールで、：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamセールで注目されるゲームのレビュー記事について紹介します。この記事では、ゲームの評価ポイントとして、グラフィックの美しさや、ゲームプレイの面白さ、ストーリーの深さなどが取り上げられています。また、レビューの内容概要として、ゲームの操作性や、難易度の適切さ、音楽の素晴らしさなどが説明されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260124-410887/",
         "date": "2026-01-25",
         "is_translated": false
       },
