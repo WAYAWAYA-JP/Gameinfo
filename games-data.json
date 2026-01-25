@@ -12,6 +12,18 @@
         "deadline": "2026年1月31日まで",
         "url": "https://store.epicgames.com/ja/free-games",
         "date": "2026-01-25"
+      },
+      {
+        "title": "Rustler - Grand Theft Horse",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "このゲームは、ポップカルチャーの要素が満載されたクレイジーなオープンワールドアクションゲームです。中世の凶悪犯になり、非常識なクエストを完了したり、英雄を殺したり、馬を盗んだり、衛兵と戦ったり、農民から略奪したり、吟遊詩人の音楽を楽しんだりすることができます。昔ながらのゲームプレイスタイルがすべて詰め込まれており、様々なアクションを体験することができます。",
+        "price": "無料",
+        "originalPrice": "¥24",
+        "discount": "100% OFF",
+        "deadline": "2026年01月29日まで",
+        "url": "https://store.epicgames.com/ja/p/rustler-grand-theft-horse",
+        "date": "2026-01-25"
       }
     ],
     "bundle": [
@@ -26,6 +38,42 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/bundles",
         "date": "2026-01-25"
+      },
+      {
+        "title": "BUNDLES",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、BUNDLESのバンドルが現在販売中です。このバンドルには、インディーゲームの主要タイトルである「Game1」、「Game2」、「Game3」などが含まれています。ジャンルはアクションやアドベンチャーにフォーカスされており、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/artsy-pixel-puzzles5-bundle",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "Indie Corp Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Indie Corp Bundleというバンドルが販売中です。このバンドルには、主要タイトルとして「DreadOut」や「Mythic Pearls」、「Rise of the Argonauts」が含まれています。ジャンルはアクションやアドベンチャーが中心で、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/indie-corp-bundle",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "Psycho Gates Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Psycho Gates Bundleが販売中です。このバンドルには、主要タイトルとして「Doorways」や「The Infectious Madness of Doctor Dekker」などが含まれています。ジャンルは主にホラーやアドベンチャーに分類され、価格帯は大まかに1000円から2000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/psycho-gates-bundle",
+        "date": "2026-01-25"
       }
     ],
     "sale": [
@@ -39,6 +87,66 @@
         "discount": "90% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストは、オープンワールドアクションアドベンチャーゲームであり、グラフィックやサウンドの質が向上しています。現在、Steamで50%OFFのセール中であり、通常価格よりも大幅に安くなっています。このゲームは、壮大な世界や豊富なゲームプレイが特徴であり、世界中のプレイヤーから高い評価を得ています。人気度も高く、多くのユーザーがこのゲームを楽しんでいます。",
+        "price": "¥2,190",
+        "originalPrice": "¥4,380",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Red Dead Redemption 2がSteamで75% OFFセール中です。このオープンワールドアクションアドベンチャーゲームは、幅広い評価と高い人気度を誇り、ゲームの世界では大きな話題となっています。通常価格よりも大幅に安くなったこのゲームは、75%の割引により非常に魅力的な価格設定となっています。興味がある方は、この機会に購入してみてください。",
+        "price": "¥2,154",
+        "originalPrice": "¥8,618",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1174180",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "Red Dead Redemption",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Red Dead RedemptionがSteamで50% OFFセール中です。このオープンワールドアクションアドベンチャーゲームは、ロッキー山脈を舞台にした西部開拓時代の世界を描き、自由に探索できる広大なマップや、リアルなグラフィック、そして豊富なストーリーが特徴です。現在、通常価格の半額で購入することができ、非常に魅力的です。",
+        "price": "¥3,410",
+        "originalPrice": "¥6,820",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2668510",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "Resident Evil Village",
+        "platform": "Various",
+        "type": "sale",
+        "description": "バイオハザードシリーズの最新作であるResident Evil Villageが、Variousで78%割引の激安セール中です。このゲームは、ホラーとアクションが融合したサバイバルホラーゲームで、恐怖とスリルのあるゲームプレイを楽しむことができます。非常に人気の高いゲームで、評価も高く、ゲームファンから高い評価を得ています。",
+        "price": "$8.78",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-village/info/",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "Monster Hunter Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Monster Hunterシリーズの新作『Monster Hunter Wilds』が、現在Variousで53%オフでのセール中です。このアクションパッケージゲームは、巨大なモンスターとのバトルや、多彩な武器のカスタマイズが特徴です。セール価格で購入することで、通常よりも大幅に安くプレイすることができます。",
+        "price": "$32.88",
+        "originalPrice": "",
+        "discount": "-53%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
         "date": "2026-01-25"
       }
     ],
@@ -55,8 +163,86 @@
         "url": "https://automaton-media.com/",
         "date": "2026-01-25",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料オンラインハクスラTPS『Warframe』つ…：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料オンラインハクスラTPS『Warframe』のレビュー記事では、ゲームの評価ポイントとして、グラフィックやサウンドのクオリティ、キャラクターのカスタマイズ性などが取り上げられています。また、レビューの内容概要としては、ゲームの操作性やストーリーの深さ、オンライン機能の充実度などが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/warframe-20260124-410806/",
+        "date": "2026-01-24",
+        "is_translated": false
+      },
+      {
+        "title": "【コミュニティ投票で新キラーと生存者の外観を決定する「Dead…：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Dead by Daylightの最新キラーと生存者の外観をコミュニティ投票で決定するというユニークなシステムが評価されます。このゲームのレビューでは、新しいキラーの恐ろしさや生存者のデザインの独創性が高く評価されています。また、プレイヤー同士の戦略的な駆け引きやサスペンス溢れる雰囲気も称賛されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163569.html",
+        "date": "2026-01-24",
+        "is_translated": false
+      },
+      {
+        "title": "【「FBC: Firebreak」が無料でプレイできるStea…：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「FBC: Firebreak」は、無料でプレイできるSteamゲームで、レビュー記事ではこのゲームの評価ポイントとして、グラフィックやサウンドの質、ゲームプレイの面白さなどが挙げられています。さらに、レビューでは、ゲームの難易度やストーリーの面白さについても触れています。このレビュー記事は、Steamゲームに興味のある人や、新しいゲームを探している人にとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163584.html",
+        "date": "2026-01-24",
+        "is_translated": false
+      },
+      {
+        "title": "【発売10周年を迎える「Job Simulator」のインスト…：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気ゲーム「Job Simulator」の10周年を記念して、インストールのレビュー記事が公開されています。このゲームは、ユーモアあふれるグラフィックと面白いゲームプレイが特徴で、プレイヤーは様々な職業に就いて、日常的なタスクをこなしていきます。評価ポイントとしては、グラフィックの品質、ゲームの難易度、再生性の高さが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163577.html",
+        "date": "2026-01-23",
+        "is_translated": false
+      },
+      {
+        "title": "【台湾のホラーゲーム『Devotion』を2020年に販売中止…：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "台湾で制作されたホラーゲーム『Devotion』についてのレビュー記事です。このゲームは2020年に販売が中止されましたが、その評価ポイントとしては、独特なストーリーや効果的なサウンドデザインが挙げられます。また、ゲームの雰囲気を高めるグラフィックや、プレイヤーが思わず身震いするような恐怖体験も特徴的です。このレビュー記事は、ホラーゲームファンや、独特なゲーム体験を求める人向けに書かれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/after-pulling-taiwanese-horror-game-devotion-from-sale-in-2020-gog-say-they-find-their-decision-difficult-to-reflect-on",
+        "date": "2026-01-24",
+        "is_translated": true
+      },
+      {
+        "title": "【250時間経ってもアークレイダーズに何度も戻ってくるのは、そ…：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、オンラインゲーム「アークレイダーズ」の魅力を紹介しています。250時間以上プレイしても、引き寄せられるゲーム性や、毎日更新されるイベント、そして多様なキャラクターが特徴です。オンラインゲームファンやアクションゲーム好きの方にとって、是非一度プレイしてみることをお勧めします。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/after-250-hours-i-keep-coming-back-to-arc-raiders-not-because-its-surprising-but-because-its-predictable",
+        "date": "2026-01-24",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-01-25T00:00:00.000000"
+  "last_updated": "2026-01-25T01:46:01.751651"
 }
