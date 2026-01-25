@@ -124,6 +124,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
         "date": "2026-01-25"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サイバーパンク2077は、オープンワールドのアクションRPGゲームで、このゲームでは、近未来の世界を舞台に、プレイヤーが自由に探索してストーリーを進めていくことができます。現在、Variousで65%割引のセール中で、非常に魅力的な価格になっています。サイバーパンク2077は、グラフィックやゲーム性、ストーリーなどが高く評価されており、ゲームファンから人気を博しています。",
+        "price": "$20.99",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
+        "date": "2026-01-25"
+      },
+      {
+        "title": "Blue Prince",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Blue PrinceがVariousで開催中のセールでは、45%割引されています。このゲームは、シミュレーションジャンルの特徴を備えており、プレイヤーに人気があります。現在の価格は、割引により大幅に値下げされています。レビューでは高い評価を受けており、ゲームの内容は非常に面白いと評判です。",
+        "price": "$16.61",
+        "originalPrice": "",
+        "discount": "-45%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/blue-prince/info/",
+        "date": "2026-01-25"
       }
     ],
     "review": [
@@ -217,8 +241,21 @@
         "url": "https://www.rockpapershotgun.com/after-250-hours-i-keep-coming-back-to-arc-raiders-not-because-its-surprising-but-because-its-predictable",
         "date": "2026-01-24",
         "is_translated": true
+      },
+      {
+        "title": "【NVIDIAの新技術「RTX AI PC」は、結局ゲームにど…：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "NVIDIAの新技術「RTX AI PC」は、ゲームにどのような影響を与えるのか、レビュー記事ではその評価ポイントを詳しく紹介しています。記事では、RTX AI PCの性能とグラフィックスの向上、ゲームプレイの快適性の改善などの評価ポイントを取り上げ、その内容概要を紹介しています。ゲーム愛好家や最新技術に興味がある方は、必読のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/nvidia-20260125-411037/",
+        "date": "2026-01-25",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-01-25T08:37:11.054436"
+  "last_updated": "2026-01-25T12:56:06.386148"
 }
