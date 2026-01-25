@@ -33,6 +33,10 @@
       --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
     }
 
+    html {
+      scroll-behavior: smooth;
+    }
+
     body {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Sans', 'Noto Sans JP', sans-serif;
       background: var(--background);
@@ -73,9 +77,9 @@
     }
 
     /* ========================================
-       タブナビゲーション
+       ナビゲーション（ページ内リンク）
     ======================================== */
-    .tabs {
+    .nav {
       display: flex;
       justify-content: center;
       gap: 0.5rem;
@@ -87,7 +91,7 @@
       flex-wrap: wrap;
     }
 
-    .tab {
+    .nav-link {
       padding: 0.75rem 1.5rem;
       border: none;
       border-radius: 30px;
@@ -100,26 +104,21 @@
       display: flex;
       align-items: center;
       gap: 0.5rem;
+      text-decoration: none;
     }
 
-    .tab:hover {
+    .nav-link:hover {
       background: var(--primary-color);
       color: white;
       transform: translateY(-2px);
     }
 
-    .tab.active {
-      background: var(--primary-color);
-      color: white;
-      box-shadow: 0 4px 12px rgba(99, 102, 241, 0.4);
-    }
+    .nav-link[href="#free"]:hover { background: var(--accent-free); }
+    .nav-link[href="#bundle"]:hover { background: var(--accent-bundle); }
+    .nav-link[href="#sale"]:hover { background: var(--accent-sale); }
+    .nav-link[href="#review"]:hover { background: var(--accent-review); }
 
-    .tab[data-category="free"].active { background: var(--accent-free); }
-    .tab[data-category="bundle"].active { background: var(--accent-bundle); }
-    .tab[data-category="sale"].active { background: var(--accent-sale); }
-    .tab[data-category="review"].active { background: var(--accent-review); }
-
-    .tab-count {
+    .nav-count {
       background: rgba(255, 255, 255, 0.2);
       padding: 0.1rem 0.5rem;
       border-radius: 10px;
@@ -132,7 +131,55 @@
     .main-content {
       max-width: 1400px;
       margin: 0 auto;
-      padding: 2rem 1rem;
+      padding: 1rem;
+    }
+
+    /* ========================================
+       セクション
+    ======================================== */
+    .section {
+      margin-bottom: 3rem;
+      scroll-margin-top: 180px;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 2px solid var(--surface-light);
+    }
+
+    .section-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .section-title-icon {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.2rem;
+    }
+
+    .section[id="free"] .section-title-icon { background: var(--accent-free); }
+    .section[id="bundle"] .section-title-icon { background: var(--accent-bundle); }
+    .section[id="sale"] .section-title-icon { background: var(--accent-sale); }
+    .section[id="review"] .section-title-icon { background: var(--accent-review); }
+
+    .section-count {
+      background: var(--surface-light);
+      padding: 0.25rem 0.75rem;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      color: var(--text-secondary);
     }
 
     .games-container {
@@ -314,8 +361,9 @@
 
     .no-data {
       text-align: center;
-      padding: 4rem 1rem;
+      padding: 2rem 1rem;
       color: var(--text-secondary);
+      grid-column: 1 / -1;
     }
 
     /* ========================================
@@ -347,15 +395,23 @@
         font-size: 1.4rem;
       }
 
-      .tabs {
+      .nav {
         top: 85px;
         padding: 0.75rem;
         gap: 0.4rem;
       }
 
-      .tab {
+      .nav-link {
         padding: 0.6rem 1rem;
         font-size: 0.85rem;
+      }
+
+      .section {
+        scroll-margin-top: 160px;
+      }
+
+      .section-title {
+        font-size: 1.25rem;
       }
 
       .games-container {
@@ -413,31 +469,29 @@
     <div class="last-updated" id="lastUpdated">最終更新: 読み込み中...</div>
   </header>
 
-  <nav class="tabs">
-    <button class="tab active" data-category="free">
+  <nav class="nav">
+    <a class="nav-link" href="#free">
       無料
-      <span class="tab-count" id="freeCount">0</span>
-    </button>
-    <button class="tab" data-category="bundle">
+      <span class="nav-count" id="freeCount">0</span>
+    </a>
+    <a class="nav-link" href="#bundle">
       バンドル
-      <span class="tab-count" id="bundleCount">0</span>
-    </button>
-    <button class="tab" data-category="sale">
+      <span class="nav-count" id="bundleCount">0</span>
+    </a>
+    <a class="nav-link" href="#sale">
       セール
-      <span class="tab-count" id="saleCount">0</span>
-    </button>
-    <button class="tab" data-category="review">
+      <span class="nav-count" id="saleCount">0</span>
+    </a>
+    <a class="nav-link" href="#review">
       レビュー
-      <span class="tab-count" id="reviewCount">0</span>
-    </button>
+      <span class="nav-count" id="reviewCount">0</span>
+    </a>
   </nav>
 
-  <main class="main-content">
-    <div class="games-container" id="gamesContainer">
-      <div class="loading">
-        <div class="loading-spinner"></div>
-        <p>データを読み込んでいます...</p>
-      </div>
+  <main class="main-content" id="mainContent">
+    <div class="loading">
+      <div class="loading-spinner"></div>
+      <p>データを読み込んでいます...</p>
     </div>
   </main>
 
@@ -449,11 +503,10 @@
   <script>
     // グローバル変数
     let gamesData = {};
-    let currentCategory = 'free';
 
     // データ読み込み
     async function loadGamesData() {
-      const container = document.getElementById('gamesContainer');
+      const mainContent = document.getElementById('mainContent');
 
       try {
         const response = await fetch('games-data.json');
@@ -471,12 +524,12 @@
             `最終更新: ${lastUpdated.toLocaleString('ja-JP')}`;
         }
 
-        // 初期表示
-        displayGames('free');
+        // 全セクション表示
+        displayAllSections();
 
       } catch (error) {
         console.error('データ読み込みエラー:', error);
-        container.innerHTML = `
+        mainContent.innerHTML = `
           <div class="error-message">
             <p>データの読み込みに失敗しました</p>
             <p>しばらくしてから再度お試しください</p>
@@ -494,27 +547,45 @@
       document.getElementById('reviewCount').textContent = (pc.review || []).length;
     }
 
-    // ゲーム一覧表示
-    function displayGames(category) {
-      currentCategory = category;
-      const container = document.getElementById('gamesContainer');
-      const games = (gamesData.pc && gamesData.pc[category]) || [];
+    // 全セクション表示
+    function displayAllSections() {
+      const mainContent = document.getElementById('mainContent');
+      const pc = gamesData.pc || {};
 
-      if (games.length === 0) {
-        container.innerHTML = `
-          <div class="no-data">
-            <p>現在、このカテゴリのデータはありません</p>
-          </div>
-        `;
-        return;
-      }
+      const sections = [
+        { id: 'free', title: '無料ゲーム', icon: '🎁', data: pc.free || [] },
+        { id: 'bundle', title: 'バンドル', icon: '📦', data: pc.bundle || [] },
+        { id: 'sale', title: 'セール', icon: '💰', data: pc.sale || [] },
+        { id: 'review', title: 'レビュー', icon: '📰', data: pc.review || [] }
+      ];
 
-      // 日付で降順ソート
-      const sortedGames = [...games].sort((a, b) => {
+      mainContent.innerHTML = sections.map(section => createSection(section)).join('');
+    }
+
+    // セクション生成
+    function createSection(section) {
+      const sortedGames = [...section.data].sort((a, b) => {
         return new Date(b.date || 0) - new Date(a.date || 0);
       });
 
-      container.innerHTML = sortedGames.map(game => createGameCard(game)).join('');
+      const cardsHtml = sortedGames.length > 0
+        ? sortedGames.map(game => createGameCard(game)).join('')
+        : '<div class="no-data"><p>現在、このカテゴリのデータはありません</p></div>';
+
+      return `
+        <section class="section" id="${section.id}">
+          <div class="section-header">
+            <h2 class="section-title">
+              <span class="section-title-icon">${section.icon}</span>
+              ${section.title}
+            </h2>
+            <span class="section-count">${section.data.length}件</span>
+          </div>
+          <div class="games-container">
+            ${cardsHtml}
+          </div>
+        </section>
+      `;
     }
 
     // ゲームカード生成
@@ -595,22 +666,6 @@
       div.textContent = text;
       return div.innerHTML;
     }
-
-    // タブ切り替え
-    document.querySelectorAll('.tab').forEach(tab => {
-      tab.addEventListener('click', (e) => {
-        // アクティブクラス切り替え
-        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-        e.currentTarget.classList.add('active');
-
-        // ゲーム表示更新
-        const category = e.currentTarget.dataset.category;
-        displayGames(category);
-
-        // スムーズスクロール
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-      });
-    });
 
     // 初期化
     document.addEventListener('DOMContentLoaded', loadGamesData);
