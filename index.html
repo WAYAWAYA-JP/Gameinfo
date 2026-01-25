@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="PCゲームの無料配布、バンドル、セール、レビュー記事を自動収集・整理して提供するキュレーションサイト">
+  <title>PCゲームお得情報キュレーション</title>
+  <style>
+    /* ========================================
+       リセット & 基本設定
+    ======================================== */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --primary-color: #6366f1;
+      --primary-dark: #4f46e5;
+      --secondary-color: #10b981;
+      --background: #0f172a;
+      --surface: #1e293b;
+      --surface-light: #334155;
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --accent-free: #22c55e;
+      --accent-bundle: #f59e0b;
+      --accent-sale: #ef4444;
+      --accent-review: #8b5cf6;
+      --border-radius: 12px;
+      --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+      --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Sans', 'Noto Sans JP', sans-serif;
+      background: var(--background);
+      color: var(--text-primary);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* ========================================
+       ヘッダー
+    ======================================== */
+    .header {
+      background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
+      padding: 2rem 1rem;
+      text-align: center;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: var(--shadow-lg);
+    }
+
+    .header h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+
+    .header p {
+      color: rgba(255, 255, 255, 0.9);
+      font-size: 0.9rem;
+    }
+
+    .last-updated {
+      margin-top: 0.5rem;
+      font-size: 0.8rem;
+      color: rgba(255, 255, 255, 0.7);
+    }
+
+    /* ========================================
+       タブナビゲーション
+    ======================================== */
+    .tabs {
+      display: flex;
+      justify-content: center;
+      gap: 0.5rem;
+      padding: 1rem;
+      background: var(--surface);
+      position: sticky;
+      top: 100px;
+      z-index: 99;
+      flex-wrap: wrap;
+    }
+
+    .tab {
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 30px;
+      background: var(--surface-light);
+      color: var(--text-secondary);
+      font-size: 0.95rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .tab:hover {
+      background: var(--primary-color);
+      color: white;
+      transform: translateY(-2px);
+    }
+
+    .tab.active {
+      background: var(--primary-color);
+      color: white;
+      box-shadow: 0 4px 12px rgba(99, 102, 241, 0.4);
+    }
+
+    .tab[data-category="free"].active { background: var(--accent-free); }
+    .tab[data-category="bundle"].active { background: var(--accent-bundle); }
+    .tab[data-category="sale"].active { background: var(--accent-sale); }
+    .tab[data-category="review"].active { background: var(--accent-review); }
+
+    .tab-count {
+      background: rgba(255, 255, 255, 0.2);
+      padding: 0.1rem 0.5rem;
+      border-radius: 10px;
+      font-size: 0.8rem;
+    }
+
+    /* ========================================
+       メインコンテンツ
+    ======================================== */
+    .main-content {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2rem 1rem;
+    }
+
+    .games-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.5rem;
+    }
+
+    /* ========================================
+       ゲームカード
+    ======================================== */
+    .game-card {
+      background: var(--surface);
+      border-radius: var(--border-radius);
+      overflow: hidden;
+      transition: all 0.3s ease;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .game-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-lg);
+    }
+
+    .game-card[data-type="free"] { border-top: 3px solid var(--accent-free); }
+    .game-card[data-type="bundle"] { border-top: 3px solid var(--accent-bundle); }
+    .game-card[data-type="sale"] { border-top: 3px solid var(--accent-sale); }
+    .game-card[data-type="review"] { border-top: 3px solid var(--accent-review); }
+
+    .game-header {
+      padding: 1.25rem 1.25rem 0.75rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 0.75rem;
+    }
+
+    .game-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text-primary);
+      line-height: 1.4;
+      flex: 1;
+    }
+
+    .platform-badge {
+      padding: 0.25rem 0.75rem;
+      border-radius: 20px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .platform-badge[data-platform="Steam"] { background: #1b2838; color: #66c0f4; }
+    .platform-badge[data-platform="Epic Games"] { background: #2a2a2a; color: #fff; }
+    .platform-badge[data-platform="GOG"] { background: #86328a; color: #fff; }
+    .platform-badge[data-platform="Humble Bundle"],
+    .platform-badge[data-platform="Humble Store"] { background: #cc2929; color: #fff; }
+    .platform-badge[data-platform="Fanatical"] { background: #ff6600; color: #fff; }
+    .platform-badge[data-platform="IndieGala"] { background: #e91e63; color: #fff; }
+    .platform-badge[data-platform="Itch.io"] { background: #fa5c5c; color: #fff; }
+    .platform-badge[data-platform="AUTOMATON"] { background: #1a1a2e; color: #fff; }
+    .platform-badge[data-platform="PC Gamer"] { background: #ff4444; color: #fff; }
+    .platform-badge[data-platform="Rock Paper Shotgun"] { background: #333; color: #fff; }
+    .platform-badge[data-platform="Polygon"] { background: #ff0066; color: #fff; }
+    .platform-badge[data-platform="doope!"] { background: #0066cc; color: #fff; }
+    .platform-badge[data-platform*="インサイド"] { background: #00aa00; color: #fff; }
+    .platform-badge[data-platform="Various"] { background: var(--surface-light); color: var(--text-primary); }
+
+    .game-description {
+      padding: 0 1.25rem;
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+      line-height: 1.7;
+      flex: 1;
+    }
+
+    .game-pricing {
+      padding: 1rem 1.25rem;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+
+    .price {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--secondary-color);
+    }
+
+    .price.free {
+      color: var(--accent-free);
+    }
+
+    .original-price {
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+      text-decoration: line-through;
+    }
+
+    .discount {
+      background: var(--accent-sale);
+      color: white;
+      padding: 0.2rem 0.6rem;
+      border-radius: 4px;
+      font-size: 0.8rem;
+      font-weight: 700;
+    }
+
+    .game-footer {
+      padding: 1rem 1.25rem;
+      background: rgba(0, 0, 0, 0.2);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .deadline {
+      color: var(--text-secondary);
+      font-size: 0.85rem;
+    }
+
+    .date {
+      color: var(--text-secondary);
+      font-size: 0.8rem;
+    }
+
+    .btn-details {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.6rem 1.2rem;
+      background: var(--primary-color);
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      transition: all 0.3s ease;
+    }
+
+    .btn-details:hover {
+      background: var(--primary-dark);
+      transform: translateX(4px);
+    }
+
+    /* ========================================
+       ローディング & エラー
+    ======================================== */
+    .loading {
+      text-align: center;
+      padding: 4rem 1rem;
+    }
+
+    .loading-spinner {
+      width: 50px;
+      height: 50px;
+      border: 3px solid var(--surface-light);
+      border-top-color: var(--primary-color);
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 1rem;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    .error-message {
+      text-align: center;
+      padding: 4rem 1rem;
+      color: var(--accent-sale);
+    }
+
+    .no-data {
+      text-align: center;
+      padding: 4rem 1rem;
+      color: var(--text-secondary);
+    }
+
+    /* ========================================
+       フッター
+    ======================================== */
+    .footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      background: var(--surface);
+      color: var(--text-secondary);
+      font-size: 0.85rem;
+      margin-top: 2rem;
+    }
+
+    .footer a {
+      color: var(--primary-color);
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    /* ========================================
+       レスポンシブ
+    ======================================== */
+    @media (max-width: 768px) {
+      .header h1 {
+        font-size: 1.4rem;
+      }
+
+      .tabs {
+        top: 85px;
+        padding: 0.75rem;
+        gap: 0.4rem;
+      }
+
+      .tab {
+        padding: 0.6rem 1rem;
+        font-size: 0.85rem;
+      }
+
+      .games-container {
+        grid-template-columns: 1fr;
+      }
+
+      .game-header {
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+
+      .game-footer {
+        flex-direction: column;
+        align-items: stretch;
+        text-align: center;
+      }
+
+      .btn-details {
+        justify-content: center;
+      }
+    }
+
+    @media (min-width: 769px) and (max-width: 1024px) {
+      .games-container {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (min-width: 1025px) {
+      .games-container {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+
+    /* ========================================
+       翻訳バッジ
+    ======================================== */
+    .translated-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+      background: rgba(139, 92, 246, 0.2);
+      color: #a78bfa;
+      padding: 0.15rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.7rem;
+      margin-left: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <h1>PCゲームお得情報キュレーション</h1>
+    <p>無料配布・バンドル・セール・レビュー記事を自動収集</p>
+    <div class="last-updated" id="lastUpdated">最終更新: 読み込み中...</div>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab active" data-category="free">
+      無料
+      <span class="tab-count" id="freeCount">0</span>
+    </button>
+    <button class="tab" data-category="bundle">
+      バンドル
+      <span class="tab-count" id="bundleCount">0</span>
+    </button>
+    <button class="tab" data-category="sale">
+      セール
+      <span class="tab-count" id="saleCount">0</span>
+    </button>
+    <button class="tab" data-category="review">
+      レビュー
+      <span class="tab-count" id="reviewCount">0</span>
+    </button>
+  </nav>
+
+  <main class="main-content">
+    <div class="games-container" id="gamesContainer">
+      <div class="loading">
+        <div class="loading-spinner"></div>
+        <p>データを読み込んでいます...</p>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <p>PCゲームお得情報キュレーション | 毎日朝9時・夜9時に自動更新</p>
+    <p>データソース: Epic Games, Steam, GOG, Humble Bundle, Fanatical, IndieGala, Itch.io, Reddit, RSS</p>
+  </footer>
+
+  <script>
+    // グローバル変数
+    let gamesData = {};
+    let currentCategory = 'free';
+
+    // データ読み込み
+    async function loadGamesData() {
+      const container = document.getElementById('gamesContainer');
+
+      try {
+        const response = await fetch('games-data.json');
+        if (!response.ok) throw new Error('データの読み込みに失敗しました');
+
+        gamesData = await response.json();
+
+        // カウント更新
+        updateCounts();
+
+        // 最終更新日時表示
+        if (gamesData.last_updated) {
+          const lastUpdated = new Date(gamesData.last_updated);
+          document.getElementById('lastUpdated').textContent =
+            `最終更新: ${lastUpdated.toLocaleString('ja-JP')}`;
+        }
+
+        // 初期表示
+        displayGames('free');
+
+      } catch (error) {
+        console.error('データ読み込みエラー:', error);
+        container.innerHTML = `
+          <div class="error-message">
+            <p>データの読み込みに失敗しました</p>
+            <p>しばらくしてから再度お試しください</p>
+          </div>
+        `;
+      }
+    }
+
+    // カウント更新
+    function updateCounts() {
+      const pc = gamesData.pc || {};
+      document.getElementById('freeCount').textContent = (pc.free || []).length;
+      document.getElementById('bundleCount').textContent = (pc.bundle || []).length;
+      document.getElementById('saleCount').textContent = (pc.sale || []).length;
+      document.getElementById('reviewCount').textContent = (pc.review || []).length;
+    }
+
+    // ゲーム一覧表示
+    function displayGames(category) {
+      currentCategory = category;
+      const container = document.getElementById('gamesContainer');
+      const games = (gamesData.pc && gamesData.pc[category]) || [];
+
+      if (games.length === 0) {
+        container.innerHTML = `
+          <div class="no-data">
+            <p>現在、このカテゴリのデータはありません</p>
+          </div>
+        `;
+        return;
+      }
+
+      // 日付で降順ソート
+      const sortedGames = [...games].sort((a, b) => {
+        return new Date(b.date || 0) - new Date(a.date || 0);
+      });
+
+      container.innerHTML = sortedGames.map(game => createGameCard(game)).join('');
+    }
+
+    // ゲームカード生成
+    function createGameCard(game) {
+      const priceSection = createPriceSection(game);
+      const translatedBadge = game.is_translated
+        ? '<span class="translated-badge">翻訳</span>'
+        : '';
+
+      return `
+        <article class="game-card" data-type="${escapeHtml(game.type || '')}">
+          <div class="game-header">
+            <h3 class="game-title">${escapeHtml(game.title || '')}${translatedBadge}</h3>
+            <span class="platform-badge" data-platform="${escapeHtml(game.platform || '')}">${escapeHtml(game.platform || '')}</span>
+          </div>
+          <p class="game-description">${escapeHtml(game.description || '')}</p>
+          ${priceSection}
+          <div class="game-footer">
+            <div>
+              ${game.deadline ? `<span class="deadline">${escapeHtml(game.deadline)}</span>` : ''}
+              ${game.date ? `<span class="date">${formatDate(game.date)}</span>` : ''}
+            </div>
+            <a href="${escapeHtml(game.url || '#')}" class="btn-details" target="_blank" rel="noopener noreferrer">
+              詳細を見る
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M5 12h14M12 5l7 7-7 7"/>
+              </svg>
+            </a>
+          </div>
+        </article>
+      `;
+    }
+
+    // 価格セクション生成
+    function createPriceSection(game) {
+      if (game.type === 'review') {
+        return '';
+      }
+
+      const isFree = game.price === '無料' || game.price === 'Free' || game.price === '$0' || game.price === '¥0';
+
+      let html = '<div class="game-pricing">';
+
+      if (game.price) {
+        html += `<span class="price${isFree ? ' free' : ''}">${escapeHtml(game.price)}</span>`;
+      }
+
+      if (game.originalPrice && game.originalPrice !== game.price) {
+        html += `<span class="original-price">${escapeHtml(game.originalPrice)}</span>`;
+      }
+
+      if (game.discount) {
+        html += `<span class="discount">${escapeHtml(game.discount)}</span>`;
+      }
+
+      html += '</div>';
+      return html;
+    }
+
+    // 日付フォーマット
+    function formatDate(dateStr) {
+      try {
+        const date = new Date(dateStr);
+        return date.toLocaleDateString('ja-JP', {
+          year: 'numeric',
+          month: 'long',
+          day: 'numeric'
+        });
+      } catch {
+        return dateStr;
+      }
+    }
+
+    // HTMLエスケープ
+    function escapeHtml(text) {
+      if (!text) return '';
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    // タブ切り替え
+    document.querySelectorAll('.tab').forEach(tab => {
+      tab.addEventListener('click', (e) => {
+        // アクティブクラス切り替え
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        e.currentTarget.classList.add('active');
+
+        // ゲーム表示更新
+        const category = e.currentTarget.dataset.category;
+        displayGames(category);
+
+        // スムーズスクロール
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    });
+
+    // 初期化
+    document.addEventListener('DOMContentLoaded', loadGamesData);
+  </script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+{
+  "pc": {
+    "free": [
+      {
+        "title": "サンプル無料ゲーム",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "これはサンプルデータです。GitHub Actionsが実行されると、実際のゲーム情報に置き換わります。Epic Games、Steam、Reddit等から最新の無料ゲーム情報を自動収集します。",
+        "price": "無料",
+        "originalPrice": "¥2,000",
+        "discount": "100% OFF",
+        "deadline": "2026年1月31日まで",
+        "url": "https://store.epicgames.com/ja/free-games",
+        "date": "2026-01-25"
+      }
+    ],
+    "bundle": [
+      {
+        "title": "サンプルバンドル",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "これはサンプルデータです。GitHub Actionsが実行されると、Humble Bundle、Fanatical、IndieGala、Itch.io等から最新のバンドル情報を自動収集します。",
+        "price": "$15",
+        "originalPrice": "$100",
+        "discount": "85% OFF",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/bundles",
+        "date": "2026-01-25"
+      }
+    ],
+    "sale": [
+      {
+        "title": "サンプルセールゲーム",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "これはサンプルデータです。GitHub Actionsが実行されると、Steam、GOG、IsThereAnyDeal等から最新のセール情報を自動収集します。50%以上の割引情報を優先的に表示します。",
+        "price": "¥500",
+        "originalPrice": "¥5,000",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/",
+        "date": "2026-01-25"
+      }
+    ],
+    "review": [
+      {
+        "title": "【サンプルゲーム：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "これはサンプルデータです。GitHub Actionsが実行されると、AUTOMATON、doope!、インサイド、PC Gamer、Rock Paper Shotgun、Polygon等のRSSフィードから最新のレビュー記事を自動収集します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/",
+        "date": "2026-01-25",
+        "is_translated": false
+      }
+    ]
+  },
+  "last_updated": "2026-01-25T00:00:00.000000"
+}
