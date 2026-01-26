@@ -304,10 +304,10 @@ def is_valid_entry(item, entry_type):
             # 「、」で終わっている場合は不完全（例: 「Steamセールで、」）
             if game_name.endswith('、') or game_name.endswith('…'):
                 return False
-            # 汎用的な単語のみの場合は無効
-            generic_words = ['steam', 'セール', 'sale', 'free', '無料', 'new', '新作']
-            game_name_lower = game_name.lower()
-            if all(word in game_name_lower for word in game_name_lower.split() if word in generic_words):
+            # 汎用的な単語のみで構成されている場合は無効
+            generic_words = {'steam', 'セール', 'sale', 'free', '無料', 'new', '新作'}
+            words = game_name_lower.split()
+            if words and all(word in generic_words for word in words):
                 return False
 
     # バンドルタイトルのチェック: 具体的な名前が含まれているか
