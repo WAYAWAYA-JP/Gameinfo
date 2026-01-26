@@ -136,101 +136,45 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/blue-prince/info/",
         "date": "2026-01-25"
+      },
+      {
+        "title": "FINAL FANTASY VII REBIRTH",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REBIRTHがSteamで50% OFFセール中です。このゲームは、ロールプレイングゲームのジャンルで人気の高いタイトルであり、グラフィックやストーリーが特徴的です。現在のセールでは、通常価格より半額で購入できます。 FINAL FANTASYシリーズのファンにはもちろん、RPGファンにとってもおすすめのゲームです。",
+        "price": "¥4,939",
+        "originalPrice": "¥9,878",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2909400",
+        "date": "2026-01-26"
+      },
+      {
+        "title": "Cult of the Lamb",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Cult of the Lambは、サンドボックス要素とシミュレーションゲームを組み合わせた独特なゲームで、60%割引のセール中です。このゲームでは、羊のカルトを運営し、信者を集め、村を構築することができます。ユーモアと恐怖を融合させたユニークな世界観が特徴で、評価も高く、人気ゲームとなっています。",
+        "price": "$9.99",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cult-of-the-lamb/info/",
+        "date": "2026-01-26"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ノーマンズスカイがバラエティストアで69%オフのセール中です。このゲームはオープンワールドアドベンチャーに分類され、宇宙を自由に探索することができます。特徴的なプロシージャルジェネレーションシステムにより、無限の星や惑星を発見することができます。現在のセール価格は大幅な割引となっており、評価も非常に高い人気ゲームです。",
+        "price": "$18.79",
+        "originalPrice": "",
+        "discount": "-69%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-01-26"
       }
     ],
-    "review": [
-      {
-        "title": "【俺たちは雰囲気で『アークナイツ：エンドフィールド』をやってい…：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「俺たちは雰囲気で『アークナイツ：エンドフィールド』をやってい…：レビュー」のレビュー記事では、ゲームの評価ポイントとして、ストーリーの深さやグラフィックの美しさが高く評価されています。また、レビューの内容概要として、ゲームの操作性やサウンドトラックの質も高く評価されています。このレビュー記事は、ゲームファンや『アークナイツ』シリーズの愛好家にとって非常に参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260125-411016/",
-        "date": "2026-01-25",
-        "is_translated": false
-      },
-      {
-        "title": "【コミュニティ投票で新キラーと生存者の外観を決定する「Dead…：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、コミュニティ投票で新キラーと生存者の外観を決定する「Dead by Daylight」の魅力を紹介しています。ゲームの評価ポイントとして、ユーザー参加型のコンテンツ更新や、プレイヤー同士の緊張感溢れる対戦があげられます。また、レビューの内容として、ゲームのグラフィックのクオリティや、操作のスムーズさも評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163569.html",
-        "date": "2026-01-24",
-        "is_translated": false
-      },
-      {
-        "title": "【「FBC: Firebreak」が無料でプレイできるStea…：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「FBC: Firebreak」のレビュー記事では、ゲームの評価ポイントとして、スリリングなゲームプレイexperienceやユニークなゲームデザインが挙げられます。また、レビューでは、プレイヤーが自由に戦略を立てることができる点や、グラフィックの質の高さも評価されています。このレビューは、FPSゲームファンやアクションゲーム好きに向けて、ゲームの概要や魅力を紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163584.html",
-        "date": "2026-01-24",
-        "is_translated": false
-      },
-      {
-        "title": "【発売10周年を迎える「Job Simulator」のインスト…：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Job Simulator」の10周年を記念してのレビュー記事では、ゲームのユーモアとグラフィックの向上、プレイヤーの自由度の高さなどが評価ポイントとして挙げられます。レビューの内容は、ゲームの面白さや操作性の良さ、ストーリーの魅力などを包括的に紹介しています。このレビュー記事は、ゲームファンや「Job Simulator」のシリーズを愛する人に向けて、ゲームの全体像を把握できるコンテンツです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163577.html",
-        "date": "2026-01-23",
-        "is_translated": false
-      },
-      {
-        "title": "【台湾のホラーゲーム『Devotion』を2020年に販売中止…：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "台湾のホラーゲーム『Devotion』は、2020年に販売中止となった作品ですが、その評価ポイントとしては、独特のストーリーテリングや、恐怖を感じさせる雰囲気などがあります。レビューの内容概要としては、ゲームの世界観や音響効果が高く評価されていますが、一部のプレイヤーからは難易度が高いと指摘されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/after-pulling-taiwanese-horror-game-devotion-from-sale-in-2020-gog-say-they-find-their-decision-difficult-to-reflect-on",
-        "date": "2026-01-24",
-        "is_translated": true
-      },
-      {
-        "title": "【250時間経ってもアークレイダーズに何度も戻ってくるのは、そ…：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、人気オンラインゲーム「アークレイダーズ」について紹介しています。記事では、ゲームの評価ポイントとして、豊富なコンテンツ、魅力的なグラフィック、そして奥深いゲームシステムが挙げられています。レビューの内容概要として、記事は約250時間プレイしても飽きずに何度も戻ってくる魅力に焦点を当てています。対象読者は、このゲームに興味のある人やオンラインゲームファン向けです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/after-250-hours-i-keep-coming-back-to-arc-raiders-not-because-its-surprising-but-because-its-predictable",
-        "date": "2026-01-24",
-        "is_translated": true
-      },
-      {
-        "title": "【NVIDIAの新技術「RTX AI PC」は、結局ゲームにど…：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "NVIDIAの新技術「RTX AI PC」は、ゲームにどのような影響を与えるのか、レビュー記事ではその評価ポイントを詳しく紹介しています。記事では、RTX AI PCの性能とグラフィックスの向上、ゲームプレイの快適性の改善などの評価ポイントを取り上げ、その内容概要を紹介しています。ゲーム愛好家や最新技術に興味がある方は、必読のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/nvidia-20260125-411037/",
-        "date": "2026-01-25",
-        "is_translated": false
-      }
-    ]
+    "review": []
   },
-  "last_updated": "2026-01-25T12:56:06.386148"
+  "last_updated": "2026-01-26T01:50:16.771054"
 }
