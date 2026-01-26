@@ -196,9 +196,74 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/elden-ring/info/",
         "date": "2026-01-26"
+      },
+      {
+        "title": "Warhammer 40,000: Space Marine 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Warhammer 40,000: Space Marine 2はアクションゲームで、特徴的な戦闘システムと壮大なストーリーが楽しめます。このゲームは現在、Variousで60%割引されており、魅力的な価格でプレイすることができます。評価も高く、人気度も高まっていますので、ゲームファンにはお勧めのタイトルです。",
+        "price": "$23.97",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
+        "date": "2026-01-26"
       }
     ],
-    "review": []
+    "review": [
+      {
+        "title": "【『ロケットリーグ』、かなり久々の「同接100万人」突破。再燃する超次元車サッカー熱：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ロケットリーグは、同接100万人を突破し、超次元車サッカーの熱が再燃しています。このゲームの評価ポイントは、ユニークなゲームプレイ、質の高いグラフィックス、そしてマルチプレイヤー機能です。レビューの内容概要としては、ゲームの面白さ、操作のしやすさ、そしてオンラインプレイの盛り上がりについて触れています。このレビュー記事は、ロケットリーグのファンやサッカーと車のゲームが好きな人に向けています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/rocket-league-20260126-411529/",
+        "date": "2026-01-26",
+        "is_translated": false
+      },
+      {
+        "title": "【最大8人プレイに対応するCo-opアクションローグライク「LORT」の販売が僅か3日で10万本を突破】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Co-opアクションローグライクゲーム「LORT」は、最大8人プレイに対応しており、発売から僅か3日で10万本を突破する人気作品です。このゲームの評価ポイントとしては、協力プレイの面白さや、ローグライク要素の充実度が挙げられます。レビューの内容としては、多人数プレイの戦略的な要素や、ランダムな要素の存在が面白さを倍増させていることが指摘されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163559.html",
+        "date": "2026-01-25",
+        "is_translated": false
+      },
+      {
+        "title": "【台湾のホラーゲーム『Devotion』を2020年に販売中止した後、GOGは自らの決定を「反映...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "GOGが2020年に販売を中止した台湾のホラーゲーム『Devotion』についてのレビュー記事です。この記事ではゲームの評価ポイントとして、独自のストーリー展開や怖さを感じる演出が高い評価を受けていることを紹介しています。また、レビューの内容として、ゲームのグラフィックやサウンドデザインが高く評価されている点や、ホラーゲームファンにとって必見の作品である点が述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/after-pulling-taiwanese-horror-game-devotion-from-sale-in-2020-gog-say-they-find-their-decision-difficult-to-reflect-on",
+        "date": "2026-01-24",
+        "is_translated": true
+      },
+      {
+        "title": "【250時間経ってもアークレイダーズに何度も戻ってくるのは、それが驚くべきことではなく、予想通り...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、アークレイダーズというゲームについて評価しています。ゲームの評価ポイントとして、魅力的なゲームシステムや高い再生性が挙げられます。レビューの内容概要としては、ゲームの内容が予想通りであることや、プレイヤーが何度も戻ってくることの理由が述べられています。対象読者は、ゲームファンやアークレイダーズに興味がある人です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/after-250-hours-i-keep-coming-back-to-arc-raiders-not-because-its-surprising-but-because-its-predictable",
+        "date": "2026-01-24",
+        "is_translated": true
+      }
+    ]
   },
-  "last_updated": "2026-01-26T12:45:00.105115"
+  "last_updated": "2026-01-26T12:55:30.695753"
 }
