@@ -38,6 +38,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/psycho-gates-bundle",
         "date": "2026-01-25"
+      },
+      {
+        "title": "HHPsycho Gates Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、HHPsycho Gates Bundleというバンドルが現在販売中です。このバンドルには、Psycho GatesやPsycho Gates 2などの主要タイトルが含まれており、ジャンルはアクションやアドベンチャーに分類されます。大まかな価格帯は数百円から数千円程度とお手頃です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/psycho-gates-bundle",
+        "date": "2026-01-26"
       }
     ],
     "sale": [
@@ -172,9 +184,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-01-26"
+      },
+      {
+        "title": "Elden Ring",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションRPGゲームのElden RingがVariousで10%割引のセール中です。このゲームは、広大なオープンワールドと深いストーリー、多様なキャラクターで人気を博しています。高い評価を受けており、ゲームファンから絶賛されています。現在、10%の割引で購入できますので、 interessierte 方はこの機会にチェックしてみてください。",
+        "price": "$53.87",
+        "originalPrice": "",
+        "discount": "-10%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/elden-ring/info/",
+        "date": "2026-01-26"
       }
     ],
     "review": []
   },
-  "last_updated": "2026-01-26T01:50:16.771054"
+  "last_updated": "2026-01-26T12:33:33.746124"
 }
