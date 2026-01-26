@@ -243,23 +243,29 @@ def simplify_title(title):
 
 
 def format_review_title(title, media_name=""):
-    """レビュータイトルを【ゲーム名：レビュー】形式に整形"""
+    """レビュータイトルを整形"""
     if not title:
         return "【レビュー】"
 
     # 既に整形済みの場合はそのまま返す
-    if title.startswith('【') and '：' in title:
+    if title.startswith('【') and title.endswith('】'):
         return title
 
-    # "Review:" や "レビュー" などを削除
-    game_name = re.sub(r'(review|レビュー|評価|感想)[：:]\s*', '', title, flags=re.IGNORECASE)
-    game_name = re.sub(r'\s*(review|レビュー|評価|感想).*$', '', game_name, flags=re.IGNORECASE)
-    game_name = game_name.strip()
+    # タイトルをクリーンアップ
+    clean_title = title.strip()
 
-    if len(game_name) > 30:
-        game_name = game_name[:30] + '…'
+    # 長すぎる場合は切り詰め
+    if len(clean_title) > 50:
+        clean_title = clean_title[:47] + '...'
 
-    return f"【{game_name}：レビュー】"
+    # レビュー関連のキーワードが含まれていない場合は追記
+    review_keywords = ['review', 'レビュー', '評価', '感想', 'プレイ']
+    has_review_keyword = any(kw in clean_title.lower() for kw in review_keywords)
+
+    if has_review_keyword:
+        return f"【{clean_title}】"
+    else:
+        return f"【{clean_title}：レビュー】"
 
 
 def normalize_title(title):
@@ -292,22 +298,21 @@ def is_valid_entry(item, entry_type):
     if title_lower in invalid_titles:
         return False
 
-    # レビュータイトルのチェック: ゲーム名が含まれているか
+    # レビュータイトルのチェック: 有効なタイトルか
     if entry_type == 'review':
-        # 【〜：レビュー】形式の場合、〜の部分が実質的に空かチェック
-        match = re.match(r'【(.*)：レビュー】', title)
+        # 【】形式の場合、中身が実質的に空かチェック
+        match = re.match(r'【(.+?)(?:：レビュー)?】', title)
         if match:
-            game_name = match.group(1).strip()
-            # ゲーム名が短すぎる、または汎用的な単語のみの場合は無効
-            if len(game_name) < 3:
+            content = match.group(1).strip()
+            # 中身が空または非常に短い場合は無効
+            if len(content) < 2:
                 return False
             # 「、」で終わっている場合は不完全（例: 「Steamセールで、」）
-            if game_name.endswith('、') or game_name.endswith('…'):
+            if content.endswith('、'):
                 return False
-            # 汎用的な単語のみで構成されている場合は無効
-            generic_words = {'steam', 'セール', 'sale', 'free', '無料', 'new', '新作'}
-            words = game_name.lower().split()
-            if words and all(word in generic_words for word in words):
+        else:
+            # 【】形式でない場合でも、タイトルが短すぎる場合は無効
+            if len(title) < 5:
                 return False
 
     # バンドルタイトルのチェック: 具体的な名前が含まれているか
