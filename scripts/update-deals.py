@@ -306,7 +306,7 @@ def is_valid_entry(item, entry_type):
                 return False
             # 汎用的な単語のみで構成されている場合は無効
             generic_words = {'steam', 'セール', 'sale', 'free', '無料', 'new', '新作'}
-            words = game_name_lower.split()
+            words = game_name.lower().split()
             if words and all(word in generic_words for word in words):
                 return False
 
