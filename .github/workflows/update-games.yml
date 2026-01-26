@@ -43,12 +43,16 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          if git diff --quiet games-data.json 2>/dev/null; then
+          if [ ! -f games-data.json ]; then
+            echo "❌ Error: games-data.json not found"
+            exit 1
+          fi
+          if git diff --quiet games-data.json; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
-            echo "No changes to commit"
+            echo "ℹ️ No changes to commit"
           else
             echo "has_changes=true" >> $GITHUB_OUTPUT
-            echo "Changes detected"
+            echo "✅ Changes detected"
           fi
 
       - name: Commit and push
@@ -73,15 +77,20 @@ jobs:
             # リモートの変更を取得
             git fetch origin ${{ github.ref_name }}
 
-            # コンフリクト回避: リモートをマージしてローカルの変更を優先
-            git reset --soft origin/${{ github.ref_name }}
-            git checkout --theirs games-data.json 2>/dev/null || true
+            # リモートの状態にリセットして、スクリプトを再実行
+            git reset --hard origin/${{ github.ref_name }}
 
-            # 再度スクリプトを実行して最新データを生成
+            echo "🔄 Re-running update script..."
             python scripts/update-deals.py
 
-            git add games-data.json
-            git commit -m "🎮 自動更新: ゲーム情報を更新 ($(date +'%Y-%m-%d %H:%M'))" || true
+            # 変更があれば再コミット
+            if ! git diff --quiet games-data.json; then
+              git add games-data.json
+              git commit -m "🎮 自動更新: ゲーム情報を更新 ($(date +'%Y-%m-%d %H:%M'))"
+            else
+              echo "ℹ️ No changes after re-running script"
+              exit 0
+            fi
           done
 
           echo "❌ Push failed after 5 attempts"
