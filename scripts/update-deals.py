@@ -819,164 +819,132 @@ def fetch_humble_bundle_direct():
 
 @retry_on_failure(max_retries=3, delay=2)
 def fetch_fanatical_bundles():
-    """Fanatical からバンドル取得"""
+    """Fanatical からバンドル取得（IsThereAnyDeal経由）"""
     print("📥 Fetching Fanatical bundles...")
 
     bundles = []
 
-    # 方法1: APIエンドポイントを試す
+    # 方法1: IsThereAnyDealのバンドルページからFanaticalのバンドルを取得
     try:
-        api_urls = [
-            "https://www.fanatical.com/api/bundles",
-            "https://www.fanatical.com/api/products?type=bundle",
-        ]
-        for api_url in api_urls:
-            try:
-                api_headers = {**HEADERS, "Accept": "application/json"}
-                api_response = requests.get(api_url, headers=api_headers, timeout=30)
-                if api_response.status_code == 200:
-                    data = api_response.json()
-                    items = data if isinstance(data, list) else data.get('bundles', data.get('products', []))
-                    for item in items[:10]:
-                        slug = item.get('slug', item.get('id', ''))
-                        title = item.get('name', item.get('title', ''))
-                        if not title or len(title) < 3:
-                            continue
+        itad_url = "https://isthereanydeal.com/bundles/"
+        itad_headers = {
+            **HEADERS,
+            "Referer": "https://isthereanydeal.com/",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+        }
 
-                        href = f"https://www.fanatical.com/en/bundle/{slug}" if slug else "https://www.fanatical.com/en/bundle"
-
-                        price_data = item.get('price', {})
-                        price = price_data.get('display', '') if isinstance(price_data, dict) else str(price_data)
-
-                        bundle_data = {
-                            "title": title,
-                            "platform": "Fanatical",
-                            "type": "bundle",
-                            "description": "",
-                            "price": price,
-                            "originalPrice": "",
-                            "discount": "",
-                            "deadline": "",
-                            "url": href,
-                            "date": datetime.now().strftime("%Y-%m-%d")
-                        }
-                        bundle_data["description"] = truncate_description(
-                            generate_description_with_ai(bundle_data) if GROQ_API_KEY else f"{title}のバンドルがFanaticalで販売中です。Steamキーが含まれるお得なパッケージです。"
-                        )
-                        bundles.append(bundle_data)
-                    if bundles:
-                        break
-            except (json.JSONDecodeError, ValueError, requests.RequestException):
-                continue
-    except Exception as e:
-        print(f"⚠️ Fanatical API attempt failed: {e}")
-
-    # 方法2: HTMLページから __NEXT_DATA__ を抽出 (Next.js)
-    if not bundles:
-        url = "https://www.fanatical.com/en/bundle"
-        response = requests.get(url, headers=HEADERS, timeout=30)
+        response = requests.get(itad_url, headers=itad_headers, timeout=30)
         response.raise_for_status()
 
         soup = BeautifulSoup(response.text, 'html.parser')
 
-        # __NEXT_DATA__ スクリプトタグを探す
-        next_data_script = soup.find('script', id='__NEXT_DATA__')
-        if next_data_script and next_data_script.string:
-            try:
-                next_data = json.loads(next_data_script.string)
-                # props.pageProps からバンドルデータを探す
-                page_props = next_data.get('props', {}).get('pageProps', {})
+        # バンドルカードを探す (IsThereAnyDealの構造に合わせる)
+        bundle_cards = soup.select('.bundle, [data-shop], article, .card')
 
-                # 複数の場所からバンドルデータを探す
-                bundle_sources = [
-                    page_props.get('bundles', []),
-                    page_props.get('products', []),
-                    page_props.get('initialData', {}).get('bundles', []),
-                    page_props.get('dehydratedState', {}).get('queries', []),
-                ]
+        for card in bundle_cards:
+            # Fanaticalのバンドルのみ抽出
+            card_text = card.get_text().lower()
+            card_html = str(card).lower()
 
-                for source in bundle_sources:
-                    if isinstance(source, list) and source:
-                        for item in source[:10]:
-                            if isinstance(item, dict):
-                                # dehydratedState形式の場合
-                                if 'state' in item and 'data' in item.get('state', {}):
-                                    item = item['state']['data']
-                                    if isinstance(item, list):
-                                        for sub_item in item:
-                                            bundles.extend(_parse_fanatical_bundle_item(sub_item))
-                                        continue
+            if 'fanatical' not in card_text and 'fanatical' not in card_html:
+                continue
 
-                                bundles.extend(_parse_fanatical_bundle_item(item))
-                        if bundles:
-                            break
-            except (json.JSONDecodeError, ValueError) as e:
-                print(f"⚠️ Failed to parse __NEXT_DATA__: {e}")
+            # リンクを取得
+            link = card.select_one('a[href*="bundle"], a[href*="fanatical"]')
+            if not link:
+                link = card.select_one('a')
+            if not link:
+                continue
 
-        # 方法3: HTMLページ内の他のJSONデータを探す
-        if not bundles:
-            for script in soup.find_all('script'):
-                if script.string and 'bundle' in script.string.lower():
-                    patterns = [
-                        r'"bundles"\s*:\s*(\[.*?\])',
-                        r'"products"\s*:\s*(\[.*?\])',
-                        r'bundles\s*=\s*(\[.*?\]);',
-                    ]
-                    for pattern in patterns:
-                        match = re.search(pattern, script.string, re.DOTALL)
-                        if match:
-                            try:
-                                data = json.loads(match.group(1))
-                                for item in data[:10]:
-                                    bundles.extend(_parse_fanatical_bundle_item(item))
-                                if bundles:
-                                    break
-                            except (json.JSONDecodeError, ValueError):
-                                continue
-                if bundles:
-                    break
+            href = link.get('href', '')
+            if not href:
+                continue
 
-        # 方法4: フォールバック - 従来のセレクタ + 追加セレクタ
-        if not bundles:
-            selectors = [
-                'a[href*="/bundle/"]',
-                '[data-testid*="bundle"] a',
-                '.bundle-card a',
-                '.product-card a[href*="bundle"]',
-            ]
+            if not href.startswith('http'):
+                href = f"https://isthereanydeal.com{href}"
 
-            bundle_cards = []
-            for selector in selectors:
-                bundle_cards = soup.select(selector)
-                if bundle_cards:
-                    break
-
-            seen_urls = set()
-            for card in bundle_cards[:10]:
-                href = card.get('href', '')
-                if not href or href in seen_urls or '/bundle/' not in href:
-                    continue
-                seen_urls.add(href)
-
-                if not href.startswith('http'):
-                    href = f"https://www.fanatical.com{href}"
-
-                # タイトル取得
-                title = None
-                title_selectors = ['.bundle-card-title', 'h3', 'h4', '.title', '.name', '.product-name']
-                for ts in title_selectors:
-                    title_elem = card.select_one(ts)
-                    if title_elem:
-                        title = title_elem.get_text(strip=True)
+            # タイトルを取得
+            title = None
+            title_selectors = ['.bundle-title', '.title', 'h2', 'h3', 'h4', '.name', '[class*="title"]']
+            for ts in title_selectors:
+                title_elem = card.select_one(ts)
+                if title_elem:
+                    title = title_elem.get_text(strip=True)
+                    if title and len(title) > 3:
                         break
 
-                if not title:
-                    title = card.get('title', card.get('aria-label', ''))
+            if not title:
+                title = link.get_text(strip=True)
 
-                if not title:
-                    title = card.get_text(strip=True)[:60] or "Fanatical Bundle"
+            if not title or len(title) < 3:
+                continue
 
-                if len(title) < 3:
+            # "Fanatical" プレフィックスを削除（タイトルに含まれている場合）
+            title = re.sub(r'^Fanatical\s*[-:]\s*', '', title, flags=re.IGNORECASE).strip()
+
+            bundle_data = {
+                "title": title,
+                "platform": "Fanatical",
+                "type": "bundle",
+                "description": "",
+                "price": "",
+                "originalPrice": "",
+                "discount": "",
+                "deadline": "",
+                "url": href,
+                "date": datetime.now().strftime("%Y-%m-%d")
+            }
+            bundle_data["description"] = truncate_description(
+                generate_description_with_ai(bundle_data) if GROQ_API_KEY else f"{title}のバンドルがFanaticalで販売中です。Steamキーが含まれるお得なパッケージです。"
+            )
+            bundles.append(bundle_data)
+
+            if len(bundles) >= 10:
+                break
+
+    except Exception as e:
+        print(f"⚠️ IsThereAnyDeal bundles fetch failed: {e}")
+
+    # 方法2: Reddit r/GameDeals からFanaticalバンドルを検索
+    if len(bundles) < 3:
+        try:
+            reddit_url = "https://www.reddit.com/r/GameDeals/search.json"
+            params = {
+                "q": "fanatical bundle",
+                "restrict_sr": "on",
+                "sort": "new",
+                "t": "week",
+                "limit": 15
+            }
+            reddit_headers = {**HEADERS, "Accept": "application/json"}
+
+            response = requests.get(reddit_url, params=params, headers=reddit_headers, timeout=30)
+            response.raise_for_status()
+            data = response.json()
+
+            posts = data.get("data", {}).get("children", [])
+
+            for post in posts:
+                post_data = post.get("data", {})
+
+                if post_data.get("stickied"):
+                    continue
+
+                title = post_data.get("title", "")
+                url = post_data.get("url", "")
+
+                # Fanaticalに関連する投稿のみ
+                if "fanatical" not in title.lower() and "fanatical" not in url.lower():
+                    continue
+
+                # バンドルに関連する投稿のみ
+                if "bundle" not in title.lower():
+                    continue
+
+                title = simplify_title(title)
+
+                # 重複チェック
+                if any(normalize_title(title) == normalize_title(b.get('title', '')) for b in bundles):
                     continue
 
                 bundle_data = {
@@ -988,13 +956,72 @@ def fetch_fanatical_bundles():
                     "originalPrice": "",
                     "discount": "",
                     "deadline": "",
-                    "url": href,
+                    "url": url,
                     "date": datetime.now().strftime("%Y-%m-%d")
                 }
                 bundle_data["description"] = truncate_description(
                     generate_description_with_ai(bundle_data) if GROQ_API_KEY else f"{title}のバンドルがFanaticalで販売中です。Steamキーが含まれるお得なパッケージです。"
                 )
                 bundles.append(bundle_data)
+
+        except Exception as e:
+            print(f"⚠️ Reddit Fanatical search failed: {e}")
+
+    # 方法3: Fanatical直接アクセス（フォールバック）
+    if len(bundles) < 3:
+        try:
+            fanatical_headers = {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Accept-Encoding": "gzip, deflate, br",
+                "Cache-Control": "no-cache",
+                "Pragma": "no-cache",
+                "Sec-Ch-Ua": '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+                "Sec-Ch-Ua-Mobile": "?0",
+                "Sec-Ch-Ua-Platform": '"Windows"',
+                "Sec-Fetch-Dest": "document",
+                "Sec-Fetch-Mode": "navigate",
+                "Sec-Fetch-Site": "none",
+                "Sec-Fetch-User": "?1",
+                "Upgrade-Insecure-Requests": "1",
+            }
+
+            url = "https://www.fanatical.com/en/bundle"
+            response = requests.get(url, headers=fanatical_headers, timeout=30)
+
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.text, 'html.parser')
+
+                # __NEXT_DATA__ スクリプトタグを探す
+                next_data_script = soup.find('script', id='__NEXT_DATA__')
+                if next_data_script and next_data_script.string:
+                    try:
+                        next_data = json.loads(next_data_script.string)
+                        page_props = next_data.get('props', {}).get('pageProps', {})
+
+                        # 複数の場所からバンドルデータを探す
+                        bundle_sources = [
+                            page_props.get('bundles', []),
+                            page_props.get('products', []),
+                            page_props.get('initialData', {}).get('bundles', []),
+                        ]
+
+                        for source in bundle_sources:
+                            if isinstance(source, list) and source:
+                                for item in source[:10]:
+                                    if isinstance(item, dict):
+                                        parsed = _parse_fanatical_bundle_item(item)
+                                        for b in parsed:
+                                            if not any(normalize_title(b.get('title', '')) == normalize_title(existing.get('title', '')) for existing in bundles):
+                                                bundles.append(b)
+                                if bundles:
+                                    break
+                    except (json.JSONDecodeError, ValueError) as e:
+                        print(f"⚠️ Failed to parse __NEXT_DATA__: {e}")
+
+        except Exception as e:
+            print(f"⚠️ Fanatical direct access failed: {e}")
 
     print(f"✅ Found {len(bundles)} Fanatical bundles")
     return bundles
