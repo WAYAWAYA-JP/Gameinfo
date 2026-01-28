@@ -170,6 +170,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/garphillgameexpansions_bundle",
         "date": "2026-01-27"
+      },
+      {
+        "title": "Artsy Pixel Puzzles Bundle 5",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Artsy Pixel Puzzles Bundle 5というバンドルが販売中です。このバンドルには、グラフィックや音響の面で優れた、ピクセルアートを特徴とするパズルゲームが数多く含まれています。具体的には、\"The Path of Motus\"や\"Puzzle Puppers\"などのタイトルが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/artsy-pixel-puzzles5-bundle",
+        "date": "2026-01-28"
       }
     ],
     "sale": [
@@ -375,6 +387,42 @@
         "discount": "-60%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/nier-automata-game-of-the-yorha-edition/info/",
+        "date": "2026-01-28"
+      },
+      {
+        "title": "デッドバイデイライト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "デッドバイデイライトは、人気のサバイバルホラーゲームで、Steamで現在60%の割引セール中です。このゲームは、プレイヤーが死神から逃げるか、または他のプレイヤーを死神として狩ることのどちらかを目指す、サスペンス溢れる体験を提供します。高い評価と人気を誇り、多くのユーザーから好評価を得ています。価格は通常時よりも大幅に安くなっているので、気になる方は今すぐチェックしてみてください。",
+        "price": "¥792",
+        "originalPrice": "¥1,980",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/381210",
+        "date": "2026-01-28"
+      },
+      {
+        "title": "Half-Life: Alyx",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気のVRゲームであるHalf-Life: AlyxがSteamで70%OFFのセール中です。このゲームはファーストパーソン・シューティングゲームのジャンルに属し、ストーリーとグラフィックの質の高さが特徴です。現在の価格は大幅に割引されており、非常に魅力的なオファーとなっています。多くのユーザーから高評価を得ており、Steamでの評価は非常に高い人気ゲームです。",
+        "price": "¥1,950",
+        "originalPrice": "¥6,500",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/546560",
+        "date": "2026-01-28"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33は、アドベンチャーゲームの一つで、プレイヤーが未知の世界を探索することができます。現在、53%の割引が適用され、魅力的でお得な価格で購入できます。このゲームは、ユニークなゲームプレイとグラフィックで高く評価されており、人気度も高いですので、興味のある方はぜひチェックしてみてください。",
+        "price": "$33.66",
+        "originalPrice": "",
+        "discount": "-53%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-01-28"
       }
     ],
@@ -638,8 +686,47 @@
         "url": "https://www.polygon.com/highguard-launch-rocky-start/",
         "date": "2026-01-27",
         "is_translated": true
+      },
+      {
+        "title": "【評価苦戦中の新作PvPシューター『Highguard』、Steam不評レビューの過半数9000...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "新作PvPシューター『Highguard』は、Steamでの評価が苦戦を続けており、不評レビューの数は9000を超えています。このゲームの評価ポイントとしては、ゲームプレイのバランスやグラフィックの質が問題視されています。レビューの内容概要としては、不満足なゲーム体験やテクニカルな問題が多く挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/highguard-20260128-412875/",
+        "date": "2026-01-28",
+        "is_translated": false
+      },
+      {
+        "title": "【Nintendo Switch 2、マイニンテンドーストアでついに「先着販売」へ。“Switc...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Nintendo Switch 2の発売が近づき、マイニンテンドーストアでは先着販売が開始されました。このニュースに伴い、先行レビュー記事が公開されており、Switch 2の新機能やグラフィックの向上、ゲームプレイの快適さなどが評価ポイントとして取り上げられています。レビューでは、Switch 2のコントローラーの改良やバッテリーの長寿命、また新しいゲームタイトルの紹介などが行われています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260128-412407/",
+        "date": "2026-01-28",
+        "is_translated": false
+      },
+      {
+        "title": "【Baldur's Gate 3 スタジオの責任者、「有害な」「個人的な」ビデオゲーム レビュア...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Baldur's Gate 3のスタジオ責任者は、ゲームのレビュアーについて有害な個人的な批評を行っていることを批判しています。ゲームの評価ポイントとして、ストーリーの深さやキャラクターの多様性が際立っています。レビューの内容概要として、ゲームのグラフィックの向上やサウンドトラックの質の高さが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/baldurs-gate-3-studio-boss-calls-out-hurtful-personal-videogame-reviewers-sometimes-i-think-itd-be-a-good-idea-for-critics-to-be-scored-metacritic-style",
+        "date": "2026-01-28",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-01-28T01:44:26.069863"
+  "last_updated": "2026-01-28T13:05:25.188391"
 }
