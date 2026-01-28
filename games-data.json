@@ -364,6 +364,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/manor-lords/info/",
         "date": "2026-01-27"
+      },
+      {
+        "title": "Nier: Automata™ Game Of The Yorha Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションRPGの名作「Nier: Automata」の「Game Of The Yorha Edition」が、現在60%オフのセール中です。このゲームは、美しいグラフィックと深いストーリー、独特のバトルシステムで人気を博しています。高い評価を受けており、ゲームファンから高い人気を誇っています。",
+        "price": "$15.99",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/nier-automata-game-of-the-yorha-edition/info/",
+        "date": "2026-01-28"
       }
     ],
     "review": [
@@ -561,8 +573,73 @@
         "url": "https://www.polygon.com/code-vein-2-review/",
         "date": "2026-01-26",
         "is_translated": true
+      },
+      {
+        "title": "【ローグライト横スクロールアクション「Absolum」の累計販売が50万本を突破、大型アップデー...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ローグライト横スクロールアクションの「Absolum」の累計販売本数が50万本を突破したことを記念して、大型アップデートが実施されました。このゲームの評価ポイントは、快適な操作感と豊富なアイテムの種類です。レビューでは、ゲームの難易度やグラフィックの質も高く評価されています。特にアクションゲームファンやローグライトゲーム好きの方にはお勧めできると思います。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163656.html",
+        "date": "2026-01-27",
+        "is_translated": false
+      },
+      {
+        "title": "【日本語版「グリードフォール：滅びゆく世界」のゲームプレイを紹介する解説トレーラーが公開、発売は...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「グリードフォール：滅びゆく世界」の解説トレーラーが公開されました。このゲームでは、プレイヤーは美しくも危険な世界を冒険し、さまざまな敵と戦い、強力な魔法を持ったキャラクターを育成します。ゲームの評価ポイントとしては、壮大なグラフィック、独自のゲームシステム、そして豊富なストーリーが挙げられます。対象読者は、アクションRPGファンやオープンワールドゲームを楽しむ人にお勧めです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163609.html",
+        "date": "2026-01-27",
+        "is_translated": false
+      },
+      {
+        "title": "【ハイガードスタジオが、ディスリスペクト博士がプレスプレビューに参加したと嘘をつき、アクセスバッ...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ハイガードスタジオが、ディスリスペクト博士がプレスプレビューに参加したと嘘をつき、アクセスバックドアを作ったという事件についてのレビュー記事です。この記事では、ゲームの評価ポイントとして、ゲームのストーリーとキャラクターの魅力、ゲームプレイの面白さなどを紹介しています。また、記事では、ハイガードスタジオの対応についても評価しています。対象読者は、ゲームファンやゲーム開発に関心のある方です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/internet-confused-as-highguard-studio-says-dr-disrespect-lied-about-attending-a-press-preview-and-his-photo-of-an-access-badge-was-fake-ddr-was-not-invited-to-any-highguard-event-past-or-present/",
+        "date": "2026-01-27",
+        "is_translated": true
+      },
+      {
+        "title": "【CD Projekt と Nerial が、ゲラルトが何百万ものおいしい死に方をする戦略ゲーム...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "CD ProjektとNerialが共同で開発した戦略ゲームについてのレビュー記事です。このゲームは、主なキャラクターであるゲラルトが様々な方法で死にそうな状況に陥る様子をユーモラスに描いており、プレイヤーは戦略的にキャラクターを操作して、さまざまなステージをクリアすることを目指します。このレビューでは、ゲームのユニークなコンセプトや、戦略的な深み、そしてユーモアのレベルについて評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/cd-projekt-and-nerial-reveal-reigns-the-witcher-a-strategy-game-in-which-geralt-dies-a-million-delicious-ways",
+        "date": "2026-01-27",
+        "is_translated": true
+      },
+      {
+        "title": "【Highguard のローンチは、Steam レビューと同時並行数が少なく、波乱万丈なスタート...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Highguard のローンチは、Steam レビューと同時並行数が少なく、波乱万丈なスタートを切ったというレビュー記事です。このゲームの評価ポイントとして、独自のゲームシステムやグラフィックの美しさが挙げられます。レビューの内容概要として、ゲームの難易度や操作感、ストーリーの評価が行われています。対象読者は、ゲームファンや新作ゲームに興味のある人向けであり、ゲームの魅力を知るのに役立つ記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/highguard-launch-rocky-start/",
+        "date": "2026-01-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-01-27T13:04:57.758691"
+  "last_updated": "2026-01-28T01:42:27.763156"
 }
