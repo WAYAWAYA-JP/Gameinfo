@@ -12,6 +12,18 @@
         "deadline": "2026年01月29日まで",
         "url": "https://store.epicgames.com/ja/p/rustler-grand-theft-horse",
         "date": "2026-01-25"
+      },
+      {
+        "title": "Definitely Not Fried Chicken",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Definitely Not Fried Chickenは、ユニークなひねりを加えた経営シミュレーションゲームです。このゲームの特徴は、ビジネスの両面を管理しながら、合法的な方法で麻薬取引を成長させることができることです。新しい顧客を獲得し、新しい「ビジネス」を開拓し、より強力な麻薬を開発することで、大金を稼ぐことができます。",
+        "price": "無料",
+        "originalPrice": "¥24",
+        "discount": "100% OFF",
+        "deadline": "2026年02月05日まで",
+        "url": "https://store.epicgames.com/ja/p/6b5b8432768a423f848fd85a61c97623",
+        "date": "2026-01-30"
       }
     ],
     "bundle": [
@@ -448,6 +460,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/star-wars-jedi-survivor/info/",
         "date": "2026-01-29"
+      },
+      {
+        "title": "Cairn",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの「Cairn」が、 Variousで25%割引されて販売中です。このゲームは、挑戦的なステージと独特のグラフィックが特徴で、ファンから高い評価を受けています。販売中の価格はお得なので、ゲームファンには注目すべきタイトルです。",
+        "price": "$22.49",
+        "originalPrice": "",
+        "discount": "-25%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cairn/info/",
+        "date": "2026-01-30"
       }
     ],
     "review": [
@@ -892,8 +916,47 @@
         "url": "https://www.inside-games.jp/article/2026/01/29/176713.html",
         "date": "2026-01-29",
         "is_translated": false
+      },
+      {
+        "title": "【プレイヤーキャラクターやロアのアップデート、ホラーのリワークを含む「Phasmophobia」...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、プレイヤーキャラクターやロアのアップデート、ホラーのリワークを含む「Phasmophobia」の評価ポイントを紹介しています。ゲームの恐怖要素やグラフィックの質、そしてアップデートによる変更点が注目されています。ホラーゲームファンや新規プレイヤーにとって、このレビューは「Phasmophobia」の魅力と遊び方を理解するのに役立つでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163731.html",
+        "date": "2026-01-30",
+        "is_translated": false
+      },
+      {
+        "title": "【ディアブロを生んだ最重要人物の1人Erich Schaefer氏が開発を率いる新作アクションR...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム開発の第一人者であるErich Schaefer氏が手がけた新作アクションRPGについて取り上げています。ゲームの評価ポイントとしては、スムーズな操作性や豊富なキャラクターのバリエーションが高く評価されています。また、ゲームの世界観やストーリーも、ユーザーから高い評価を得ています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163703.html",
+        "date": "2026-01-29",
+        "is_translated": false
+      },
+      {
+        "title": "【Turtle Beach Vulcan II TKL ゲーミングキーボードのレビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Turtle Beach Vulcan II TKL ゲーミングキーボードのレビュー記事では、キーボードの評価ポイントとしてデザインと操作性、パフォーマンスと耐久性の3点が取り上げられています。デザインと操作性については、キー配置とキーボードのサイズが優れている点が評価されており、ゲームプレイの際にスムーズに操作できることが強調されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/turtle-beach-vulcan-ii-tkl-gaming-keyboard-review",
+        "date": "2026-01-29",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-01-29T13:12:11.923426"
+  "last_updated": "2026-01-30T01:57:04.700200"
 }
