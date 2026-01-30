@@ -472,6 +472,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cairn/info/",
         "date": "2026-01-30"
+      },
+      {
+        "title": "Kiki",
+        "platform": "Various",
+        "type": "sale",
+        "description": "KikiがVariousでは現在100%割引のセール中です。このゲームはファンタジー要素とアドベンチャー要素を組み合わせたユニークなジャンルで、ユーザーからの評価は非常に高い人気ゲームです。セール期間中は完全無料でプレイすることができ、多くのユーザーから高い評価を得ています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/kiki/info/",
+        "date": "2026-01-30"
+      },
+      {
+        "title": "Monster Hunter: World",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの『Monster Hunter: World』が現在、Variousで71%割引のセール中です。このゲームは、巨大なモンスターを狩るというユニークなゲームプレイが特徴で、多くのプレイヤーから高い評価を得ています。価格も割引により大幅に下がっているので、ゲームファンにはおすすめの 타이틀です。また、シリーズのファンも多く、人気度も非常に高いゲームです。",
+        "price": "$8.69",
+        "originalPrice": "",
+        "discount": "-71%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/monster-hunter-world/info/",
+        "date": "2026-01-30"
       }
     ],
     "review": [
@@ -958,5 +982,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-30T01:57:04.700200"
+  "last_updated": "2026-01-30T04:35:34.194132"
 }
