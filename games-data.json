@@ -508,6 +508,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
         "date": "2026-01-30"
+      },
+      {
+        "title": "Untrusted",
+        "platform": "Various",
+        "type": "sale",
+        "description": "UntrustedがVariousで現在-100%のセール中です。このゲームはアドベンチャーとパズルを融合させたユニークなジャンルで、プレイヤーは謎を解きながら進めていく必要があります。通常価格より大幅に安くなっているこのセールは、ゲームファンにとって大きな機会です。Untrustedは高い評価と人気を誇り、多くのプレイヤーから好評価を得ています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/untrusted/info/",
+        "date": "2026-01-30"
+      },
+      {
+        "title": "Cursedland",
+        "platform": "Various",
+        "type": "sale",
+        "description": "現在、ロールプレイングゲームであるCursedlandがVariousで100%割引されています。このゲームは、独特の世界観と深いストーリーが特徴です。評価は非常に高く、ユーザーから高い人気を誇っています。価格は通常よりも大幅に安くなっており、興味のある方は今すぐチェックしてみてください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cursedland/info/",
+        "date": "2026-01-30"
       }
     ],
     "review": [
@@ -1043,8 +1067,73 @@
         "url": "https://www.inside-games.jp/article/2026/01/30/176767.html",
         "date": "2026-01-30",
         "is_translated": false
+      },
+      {
+        "title": "【傑作Sci-Fi CRPG「Citizen Sleeper 2: Starward Vecto...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Citizen Sleeper 2: Starward Vector」のレビュー記事では、この傑作Sci-Fi CRPGが高い評価を受ける理由を紹介しています。評価ポイントとしては、ゲームのストーリーや世界観の深さ、キャラクターの個性や成長システムの緻密さが挙げられます。さらに、レビューでは、プレイヤーが自由に選択できる多様なルートや、ゲーム内の政治的・社会的なテーマの描写にも触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163711.html",
+        "date": "2026-01-30",
+        "is_translated": false
+      },
+      {
+        "title": "【2026年内の実装を予定しているコンテンツをまとめた早期アクセス版「ENDLESS Legen...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「ENDLESS Legend」は、2026年内の実装を予定しているコンテンツをまとめた早期アクセス版です。このゲームの評価ポイントとしては、豊富なキャラクターのカスタマイズ、広大なマップの探索、戦略的なバトルシステムが挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの高品質、インターフェイスの使い勝手の良さなどが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163743.html",
+        "date": "2026-01-30",
+        "is_translated": false
+      },
+      {
+        "title": "【Turtle Beach Burst II Pro ゲーミングマウスのレビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Turtle Beach Burst II Pro ゲーミングマウスのレビュー記事では、ゲーミングマウスの評価ポイントとして、精度と反応速度、耐久性などが評価されています。この記事では、マウスのデザインと操作性、ゲームでの実践的な使用感についてもレビューされています。ゲーマー向けの情報を探している方に特におすすめの記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/turtle-beach-burst-ii-pro-gaming-mouse-review",
+        "date": "2026-01-30",
+        "is_translated": true
+      },
+      {
+        "title": "【呪術廻戦 52 話レビュー: 映画のような傑作】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "「呪術廻戦 52 話レビュー: 映画のような傑作」というレビュー記事では、人気漫画作品「呪術廻戦」の52話が映画のようなクオリティを持っていることを高く評価しています。このレビューでは、ストーリーの展開やキャラクターの描写が映画的な感覚を醸し出している点や、作画の細かさが作品の世界観をよりリアルに感じさせている点などが指摘されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/jujutsu-kaisen-season-3-episode-52-passion-anime-rotoscoped-sequence/",
+        "date": "2026-01-30",
+        "is_translated": true
+      },
+      {
+        "title": "【ハイガードのレビュー: 1週間後には可能性が無駄になったように感じる】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "「ハイガードのレビュー: 1週間後には可能性が無駄になったように感じる」のレビュー記事では、ゲームの評価ポイントとして、初期の面白さと新しい要素の導入が評価されています。しかし、1週間ほどプレイした後には、ゲームの可能性が無駄になったように感じる点が指摘されています。このレビューは、ゲームの長期的な楽しみ方や、新しい要素の継続的な追加が重要であることを示唆しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/highguard-review/",
+        "date": "2026-01-30",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-01-30T13:10:21.750162"
+  "last_updated": "2026-01-30T21:28:31.216770"
 }
