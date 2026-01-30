@@ -2,11 +2,19 @@ name: Update Game Deals
 
 on:
   schedule:
-    # 毎日朝9時（日本時間）= UTC 0時
+    # スケジュール実行の信頼性向上のため、1日4回に変更
+    # GitHubのcronは遅延・スキップされることがあるため冗長化
+    # 毎日朝6時（日本時間）= UTC 21:00 (前日)
+    - cron: '0 21 * * *'
+    # 毎日朝9時（日本時間）= UTC 0:00
     - cron: '0 0 * * *'
-    # 毎日夜9時（日本時間）= UTC 12時
+    # 毎日夜6時（日本時間）= UTC 9:00
+    - cron: '0 9 * * *'
+    # 毎日夜9時（日本時間）= UTC 12:00
     - cron: '0 12 * * *'
   workflow_dispatch:  # 手動実行
+  repository_dispatch:  # 外部からのトリガー用
+    types: [update-games]
 
 permissions:
   contents: write
