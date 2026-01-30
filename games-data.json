@@ -1017,8 +1017,34 @@
         "url": "https://automaton-media.com/articles/newsjp/horror-20260130-414536/",
         "date": "2026-01-30",
         "is_translated": false
+      },
+      {
+        "title": "【協力プレイ対応ローグライクACT『Neon Abyss 2』“盗み”能力もち新キャラ追加の大型...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "協力プレイ対応のローグライクアクションゲーム「Neon Abyss 2」のレビュー記事では、ゲームの評価ポイントとしてグラフィックのクオリティやサウンドトラックの印象的な演出が高く評価されています。また、新しく追加されたキャラクターの「盗み」能力がゲーム性を高めており、プレイヤーにとって新たな戦略の幅を拡大させています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/coop-roguelike-20260130-414684/",
+        "date": "2026-01-30",
+        "is_translated": false
+      },
+      {
+        "title": "【『ゼンゼロ』NPCか、プレイアブルか？今後の実装を期待させる4人の新キャラクターがチラ見せ】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "本記事は、新作ゲーム「ゼンゼロ」のレビュー記事です。同ゲームでは、4人の新キャラクターが紹介されており、その中にはNPCかプレイアブルキャラクターかがわかりませんでしたが、今後の実装に期待が持てます。ゲームの評価ポイントとしては、グラフィックの美しさや新キャラクターの導入が挙げられます。また、ゲームシステムの改善や物語の展開もレビューの内容に含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/01/30/176767.html",
+        "date": "2026-01-30",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-01-30T09:38:13.564104"
+  "last_updated": "2026-01-30T13:10:21.750162"
 }
