@@ -1,0 +1,24 @@
+name: Keepalive Workflow
+
+# GitHub Actionsのスケジュール実行を維持するためのワークフロー
+# 60日間アクティビティがないとスケジュールが無効化されるため
+
+on:
+  schedule:
+    # 毎週月曜日の朝6時（日本時間）= UTC 21:00 (日曜)
+    - cron: '0 21 * * 0'
+
+permissions:
+  contents: write
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Keep workflow alive
+        run: |
+          echo "Keepalive: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          echo "This workflow keeps the repository active to prevent scheduled workflows from being disabled."
