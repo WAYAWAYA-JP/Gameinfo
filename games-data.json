@@ -496,6 +496,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/monster-hunter-world/info/",
         "date": "2026-01-30"
+      },
+      {
+        "title": "Resident Evil 4 (2023)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "バイオハザードシリーズの最新作である『Resident Evil 4 (2023)』が、Variousで65%オフのセール中です。このゲームは、アクションアドベンチャーとサバイバルホラーの要素を兼ね備えた、サードパーソン・シューティングゲームです。評価は非常に高く、多くのユーザーから人気を博しています。通常価格よりも大幅に安く購入できるこの機会を逃さないでください。",
+        "price": "$13.99",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
+        "date": "2026-01-30"
       }
     ],
     "review": [
@@ -979,8 +991,34 @@
         "url": "https://www.rockpapershotgun.com/turtle-beach-vulcan-ii-tkl-gaming-keyboard-review",
         "date": "2026-01-29",
         "is_translated": true
+      },
+      {
+        "title": "【『怪獣８号 THE GAME』は今後、どうなる？ガチプレイヤーがプロデューサーに訊いた。ハーフ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『怪獣８号 THE GAME』の今後の展開について、ガチプレイヤーがプロデューサーに直撃インタビューを行ったレビュー記事です。この記事では、ゲームの評価ポイントとしてグラフィックやゲーム性、ストーリーの魅力を挙げており、特にストーリーが深く感動できる点が高く評価されています。また、対象読者としては、このゲームをプレイしたことがある人や。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/8-20260130-414490/",
+        "date": "2026-01-30",
+        "is_translated": false
+      },
+      {
+        "title": "【“昼と夜で激変”クラフト系サバイバルホラー『アイヘイト・ディス・プレイス』ついに発売。昼はクラ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "クラフト系サバイバルホラーの『アイヘイト・ディス・プレイス』のレビュー記事では、ゲームの評価ポイントとして、昼と夜で激変するゲームの世界観や、クラフト要素の充実度が高く評価されています。また、レビューの内容概要として、ゲームのグラフィックやサウンドデザインの高さや、サバイバル要素の難易度が適切であると述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/horror-20260130-414536/",
+        "date": "2026-01-30",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-01-30T04:35:34.194132"
+  "last_updated": "2026-01-30T09:38:13.564104"
 }
