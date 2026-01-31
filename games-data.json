@@ -532,6 +532,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cursedland/info/",
         "date": "2026-01-30"
+      },
+      {
+        "title": "Monster Hunter Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションパックされたハンターシリーズの最新作、Monster Hunter WildsがVariousで51%オフのセール中です。この人気ゲームは、自由に狩猟できるオープンワールドや、様々なモンスターと戦うアクション要素が特徴です。現在、セールにより割引価格で購入することができます。高い評価と人気度を誇るこのゲームは、ハンターを目指すあなたの冒険を待っています。",
+        "price": "$34.64",
+        "originalPrice": "",
+        "discount": "-51%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
+        "date": "2026-01-31"
       }
     ],
     "review": [
@@ -1132,8 +1144,34 @@
         "url": "https://www.polygon.com/highguard-review/",
         "date": "2026-01-30",
         "is_translated": true
+      },
+      {
+        "title": "【長寿MMO“RuneScape”のクラフト系オープンワールドサバイバルスピンオフ「RuneSc...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "長寿MMO「RuneScape」のクラフト系オープンワールドサバイバルスピンオフ「RuneScape」のレビュー記事では、ゲームの評価ポイントとしてグラフィックやゲームプレイの面白さ、自由度の高さなどが挙げられています。さらに、レビューの内容概要として、ゲームの世界観やストーリーの深さ、プレイヤー同士の交流の可能性などが紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/01163713.html",
+        "date": "2026-01-31",
+        "is_translated": false
+      },
+      {
+        "title": "【シェルターレビュー：ジェイソン・ステイサムが再び活躍】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "シェルターレビューはジェイソン・ステイサムが主演するアクション映画で、映画の評価ポイントとしてはステイサムの演技が高く評価されています。また、レビューの内容概要としては、映画のストーリーが面白く、視覚的な効果が素晴らしい点が挙げられます。さらに、映画のパースがスリリングで、観客を引き込む力がある点も評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/shelter-review-jason-statham/",
+        "date": "2026-01-30",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-01-30T21:28:31.216770"
+  "last_updated": "2026-01-31T01:52:46.799364"
 }
