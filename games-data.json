@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/definitely-not-fried-chicken/info/",
         "date": "2026-01-31"
+      },
+      {
+        "title": "Darkest Dungeon",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ダンジョン探索を主な要素とするロールプレイングゲームの「Darkest Dungeon」が、現在92%の割引で販売中です。このゲームは、ダンジョンを探索し、モンスターと戦い、キャラクターの精神状態を管理する必要がある、ハードコアなゲームとして知られています。多くのユーザーが高く評価しており、非常に人気のゲームとなっています。",
+        "price": "$1.99",
+        "originalPrice": "",
+        "discount": "-92%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/darkest-dungeon/info/",
+        "date": "2026-01-31"
       }
     ],
     "review": [
@@ -1198,5 +1210,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-31T09:27:47.329211"
+  "last_updated": "2026-01-31T13:01:59.211901"
 }
