@@ -2,18 +2,6 @@
   "pc": {
     "free": [
       {
-        "title": "Rustler - Grand Theft Horse",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "このゲームはポップカルチャーの要素が満載のクレイジーなオープンワールドアクションゲームです。中世の凶悪犯になり、非常識なクエストを完了したり、英雄を殺したり、馬を盗んだり、衛兵と戦ったり、農民から略奪したり、吟遊詩人の音楽を聴いたりすることができます。昔ながらのゲームプレイスタイルがすべて詰め込まれているこのゲームは、SteamやGOGなどのプラットフォームで配布されており。",
-        "price": "無料",
-        "originalPrice": "¥24",
-        "discount": "100% OFF",
-        "deadline": "2026年01月29日まで",
-        "url": "https://store.epicgames.com/ja/p/rustler-grand-theft-horse",
-        "date": "2026-01-25"
-      },
-      {
         "title": "Definitely Not Fried Chicken",
         "platform": "Epic Games",
         "type": "free",
@@ -209,102 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストがSteamで50% OFFセール中です。このゲームはオープンワールドアクションアドベンチャーであり、自由に世界を探索できる特徴があります。通常価格から半額になるこのセールは、大人気のこのゲームをより手軽に体験できる機会です。高い評価と人気度を誇るこのゲームは、多くのユーザーから高い評価を受けており、セール中の価格では非常に魅力的です。",
-        "price": "¥2,190",
-        "originalPrice": "¥4,380",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-01-25"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Red Dead Redemption 2がSteamで75% OFFのセール中です。これはオープンワールドアクションアドベンチャーゲームで、西部開拓時代を舞台に壮大なストーリーを展開します。このゲームは高い評価を受けており、世界中のプレイヤーから人気を博しています。現在のセールでは、通常価格より大幅に安くなっているので、興味がある方はこの機会にチェックしてみてください。",
-        "price": "¥2,154",
-        "originalPrice": "¥8,618",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1174180",
-        "date": "2026-01-25"
-      },
-      {
-        "title": "Red Dead Redemption",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Red Dead RedemptionがSteamで50% OFFセール中です。このゲームはオープンワールドアクションアドベンチャーで、西部開拓時代を舞台にしたストーリーが特徴です。通常価格より半額で購入できます。高い評価と人気を誇るこのゲームは、多くのユーザーから高く評価されており、西部開拓時代を体験したい方にはおすすめです。",
-        "price": "¥3,410",
-        "originalPrice": "¥6,820",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2668510",
-        "date": "2026-01-25"
-      },
-      {
-        "title": "Forza Horizon 5",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Forza Horizon 5がSteamで50% OFFセール中です。このレースゲームは、美しいグラフィックと自由度の高いゲームプレイが特徴で、メキシコの広大な土地を駆け回ることができます。現在の価格は大幅に値下げされており、レースゲームファンにはおすすめです。また、このゲームはSteamでの評価が非常に高く、ユーザーからの人気度も高まっています。",
-        "price": "¥3,795",
-        "originalPrice": "¥7,590",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1551360",
-        "date": "2026-01-25"
-      },
-      {
-        "title": "Resident Evil Village",
-        "platform": "Various",
-        "type": "sale",
-        "description": "バイオハザードシリーズの最新作であるResident Evil Villageが、バラエティーな要素を取り入れたサバイバルホラーゲームです。このゲームは、恐怖とスリルのバランスが取れたゲームプレイや、グラフィックの質の高さで評価されています。現在、78%割引のセール中で、多くのユーザーから人気を博しています。",
-        "price": "$8.78",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-village/info/",
-        "date": "2026-01-25"
-      },
-      {
-        "title": "Dragon's Dogma 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Dragon's Dogma 2は、オープンワールドのアクションRPGです。このゲームでは、プレイヤーは広大な世界を自由に探索し、多種多様なモンスターと戦闘を繰り広げます。現在、Variousで64%の割引セール中で、ファン待望の続編が大幅に安価になっています。このゲームは、ユニークな戦闘システムや豊富なストーリーによって、高い評価を獲得しています。",
-        "price": "$25.53",
-        "originalPrice": "",
-        "discount": "-64%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
-        "date": "2026-01-25"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サイバーパンク2077は、オープンワールドのアクションRPGゲームで、このゲームでは、近未来の世界を舞台に、プレイヤーが自由に探索してストーリーを進めていくことができます。現在、Variousで65%割引のセール中で、非常に魅力的な価格になっています。サイバーパンク2077は、グラフィックやゲーム性、ストーリーなどが高く評価されており、ゲームファンから人気を博しています。",
-        "price": "$20.99",
-        "originalPrice": "",
-        "discount": "-65%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-01-25"
-      },
-      {
-        "title": "Blue Prince",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Blue PrinceがVariousで開催中のセールでは、45%割引されています。このゲームは、シミュレーションジャンルの特徴を備えており、プレイヤーに人気があります。現在の価格は、割引により大幅に値下げされています。レビューでは高い評価を受けており、ゲームの内容は非常に面白いと評判です。",
-        "price": "$16.61",
-        "originalPrice": "",
-        "discount": "-45%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/blue-prince/info/",
-        "date": "2026-01-25"
-      },
       {
         "title": "FINAL FANTASY VII REBIRTH",
         "platform": "Steam",
@@ -568,6 +460,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/darkest-dungeon/info/",
         "date": "2026-01-31"
+      },
+      {
+        "title": "Dead Cells",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲームであるDead Cellsが、現在59%オフのセール中です。このゲームは、ローグライクの要素と美しいグラフィックが特徴で、非常に人気があり、高い評価をされています。セール期間中は、通常価格よりも大幅に安くなっているので、興味がある方は今がチャンスです。",
+        "price": "$12.29",
+        "originalPrice": "",
+        "discount": "-59%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dead-cells/info/",
+        "date": "2026-02-01"
       }
     ],
     "review": [
@@ -1207,8 +1111,34 @@
         "url": "https://doope.jp/2026/01163759.html",
         "date": "2026-01-31",
         "is_translated": false
+      },
+      {
+        "title": "【リメイク版『ドラクエ7』でもワガママ全開な「マリベル」、プレイヤーの反応は三者三様!? 個性派...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "リメイク版『ドラクエ7』のレビュー記事では、マリベルの個性的なキャラクター性が話題となっています。彼女のワガママな行動には、三者三様な反応が見られ、プレイヤーの評価も分かれています。この記事は、ゲームの評価ポイントやレビューの内容を概説し、ドラクエシリーズのファンや新規プレイヤーにとって興味深い内容となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/01/176792.html",
+        "date": "2026-02-01",
+        "is_translated": false
+      },
+      {
+        "title": "【テラ・インヴィクタのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "テラ・インヴィクタのレビュー記事では、ゲームの評価ポイントとしてグラフィックの美しさやゲームプレイの奥深さを高く評価しています。また、レビューの内容としては、ゲームのストーリーやキャラクターの魅力、そしてマルチプレイモードの充実度について言及しています。このレビュー記事は、テラ・インヴィクタをプレイしたことがあるユーザーや、ゲームに興味がある読者に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/strategy/terra-invicta-review/",
+        "date": "2026-01-31",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-01-31T21:22:27.995378"
+  "last_updated": "2026-02-01T02:12:23.254408"
 }
