@@ -472,6 +472,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dead-cells/info/",
         "date": "2026-02-01"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストがSteamで50%オフのセール中です。このオープンワールドアクションゲームは、高い自由度と豊富なゲームプレイが特徴です。通常価格より半額での購入が可能で、大幅な割引となります。グランド・セフト・オートシリーズは人気であり、高い評価を受けています。多くのユーザーから高い評価を得ているため、セール中のこの機会にぜひお試しください。",
+        "price": "¥2,190",
+        "originalPrice": "¥4,380",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-02-01"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "オープンワールドアクションアドベンチャーゲームの『Red Dead Redemption 2』が現在、75%割引でセール中です。このゲームは、広大なオープンワールドを自由に探索できることが特徴で、ストーリーやグラフィックが高い評価を受けています。多くのゲーマーから高い人気を博しており、セール中のこの機会にぜひ一度プレイしてみてください。",
+        "price": "$14.99",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-02-01"
       }
     ],
     "review": [
@@ -1137,8 +1161,47 @@
         "url": "https://www.pcgamer.com/games/strategy/terra-invicta-review/",
         "date": "2026-01-31",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料RPG『怪獣８号 THE GAME』ハーフアニバーサリー開催。最大80連無料ガチ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「怪獣８号 THE GAME」のハーフアニバーサリーイベントが開催されています。このイベントでは、最大80連無料ガチャが実施されるなど、さまざまな特典が用意されています。ゲームの評価ポイントとしては、グラフィックのクオリティやゲームプレイの奥深さが高く評価されています。レビューの内容概要としては、ゲームの自由度やストーリーの面白さが挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/kaiju-no8-20260201-414994/",
+        "date": "2026-02-01",
+        "is_translated": false
+      },
+      {
+        "title": "【『モンスターハンターワイルズ』最適化の恩恵をかなり感じる。『スプラトゥーン3』アプデで結構変わ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "モンスターハンターワイルズやスプラトゥーン3などのゲームの最新情報やレビュー記事では、ゲームの最適化やアップデートによる変化点を評価しています。記事では、グラフィックの向上やパフォーマンスの改善など、ゲームの魅力を高める要素を紹介しています。ゲームファンや最新ゲーム情報に興味がある方にとって、参考になる内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260201-415144/",
+        "date": "2026-02-01",
+        "is_translated": false
+      },
+      {
+        "title": "【Steamセールで、オープンワールド狩猟シム『ウェイ オブ ザ ハンター』が90％オフ。高評価...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamセールでオープンワールドの狩猟シミュレーションゲーム『ウェイ オブ ザ ハンター』が90％オフになっています。このゲームは高評価を受けており、レビューではゲームのリアルなグラフィックや広大なオープンワールド、多様な狩猟のオプションが高く評価されています。また、ゲームの難易度や操作性も好評で、狩猟ゲームのファンやオープンワールドゲームを楽しむ人に特にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260201-415020/",
+        "date": "2026-02-01",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-01T02:12:23.254408"
+  "last_updated": "2026-02-01T09:30:10.888542"
 }
