@@ -194,6 +194,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/naconracingcollection_bundle",
         "date": "2026-01-29"
+      },
+      {
+        "title": "HHIndie Corp Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、HHIndie Corp Bundleのバンドルが現在販売中です。このバンドルには、主要タイトルとして「Rise to Ruins」や「The Amazing Shinsengumi」などのタイトルが含まれています。ジャンルはインディーゲームが中心で、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/indie-corp-bundle",
+        "date": "2026-02-02"
       }
     ],
     "sale": [
@@ -459,6 +471,30 @@
         "discount": "50% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/1551360",
+        "date": "2026-02-02"
+      },
+      {
+        "title": "SunBlockers",
+        "platform": "Various",
+        "type": "sale",
+        "description": "パズルゲームの「SunBlockers」が現在、Variousで100%割引のセール中です。このゲームは、ブロックを並べ替えて日光を遮るようにする、ユニークで面白いゲームです。プレイヤーは、日光をブロックするために、色々なブロックを賢く使わなければなりません。非常に人気があり、高評価のゲームで、多くのプレイヤーに愛されています。セール中のこのゲームは、絶対に手に取っておきたいタイトルです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/sunblockers/info/",
+        "date": "2026-02-02"
+      },
+      {
+        "title": "Atomic Heart",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Atomic Heartは、ユニークな世界観とアクション要素が特徴的なFPSゲームです。現在、Variousで67%の割引セール中で、通常価格より大幅に安くなっています。評価も高く、多くのユーザーから人気を博しており、FPSファンには必見の作品です。",
+        "price": "$19.99",
+        "originalPrice": "",
+        "discount": "-67%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/atomic-heart/info/",
         "date": "2026-02-02"
       }
     ],
@@ -1216,8 +1252,73 @@
         "url": "https://doope.jp/2026/02163766.html",
         "date": "2026-02-01",
         "is_translated": false
+      },
+      {
+        "title": "【『アークナイツ：エンドフィールド』の「レーヴァテイン」と「アルデリア」の言動には、いろんな意味...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『アークナイツ：エンドフィールド』のレビュー記事では、「レーヴァテイン」と「アルデリア」の言動にいろんな意味があると評価しています。ゲームのストーリーやキャラクターの深み、声優の演技力も高く評価されています。このレビュー記事は、アークナイツシリーズのファンや、新しくシリーズに興味を持った人向けに、ゲームの全体的な雰囲気や魅力について知ることができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/columnjp/ae-20260202-415302/",
+        "date": "2026-02-02",
+        "is_translated": false
+      },
+      {
+        "title": "【Nintendo Switch/Switch 2向けセールに100本以上追加。『ペルソナ3 リ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Nintendo SwitchやSwitch 2向けのセールに100本以上のゲームが追加されました。この中には『ペルソナ3 リマスター』のような人気タイトルも含まれています。このゲームのレビューでは、ストーリーやキャラクターの魅力、ゲームシステムの面白さなどが高く評価されています。さらに、グラフィックやサウンドトラックの質も高い-waterと評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/nintendo-switch-sale-20260202-415423/",
+        "date": "2026-02-02",
+        "is_translated": false
+      },
+      {
+        "title": "【2人プレイ対応・物理演算丸太転がしゲーム『Log Riders』発表、2月13日配信へ。加速し...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「Log Riders」というゲームのレビュー記事では、2人プレイに対応した物理演算を含む丸太転がしゲームの魅力を紹介しています。このゲームは、加速した丸太を制御する爽快なプレイ体験や、多様なステージの存在などが評価ポイントです。ゲームファンやアクションゲーム好きの方々が対象読者となり、2月13日の配信開始に期待が高まっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/coop-20260202-415322/",
+        "date": "2026-02-02",
+        "is_translated": false
+      },
+      {
+        "title": "【虚無の司祭となって狂気の世界を生き抜くクトゥルフ系サイコホラー捜査ゲーム「VOID PRIES...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "クトゥルフ系のサイコホラーをベースとした「VOID PRIEST」のレビュー記事では、ゲームの独自の世界観やストーリー、そしてプレイヤーの精神状態が狂気に追い込まれていく様子が評価ポイントとなっています。このゲームでは、プレイヤーは虚無の司祭となり、狂気の世界で生き残るために様々な捜査や戦闘を行います。特に、精神状態の管理や、狂気の世界における選択の重要性がレビューの中心となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163779.html",
+        "date": "2026-02-02",
+        "is_translated": false
+      },
+      {
+        "title": "【ディズニー ロルカーナのウィンタースペルは、愚かなノスタルジーに傾いていたときに私を魅了しました：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ディズニー ロルカーナのウィンタースペルは、ノスタルジーが溢れる雰囲気に私は魅了されました。レビュー記事では、ゲームの評価ポイントとして、物語の深さ、キャラクターの魅力、音楽の美しさが挙げられています。特に、ノスタルジーを感じさせるグラフィックやサウンドトラックは、高く評価されています。このような魅力的なゲームを堪能したい方や、ディズニー作品のファンには、ぜひ一度遊んでみてください。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/lorcana-winterspell-disney-preview-darkwing-duck-deck/",
+        "date": "2026-02-02",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-02T02:04:25.782149"
+  "last_updated": "2026-02-02T09:47:55.149543"
 }
