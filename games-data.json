@@ -198,66 +198,6 @@
     ],
     "sale": [
       {
-        "title": "FINAL FANTASY VII REBIRTH",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY VII REBIRTHがSteamで50% OFFセール中です。このゲームは、ロールプレイングゲームのジャンルで人気の高いタイトルであり、グラフィックやストーリーが特徴的です。現在のセールでは、通常価格より半額で購入できます。 FINAL FANTASYシリーズのファンにはもちろん、RPGファンにとってもおすすめのゲームです。",
-        "price": "¥4,939",
-        "originalPrice": "¥9,878",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2909400",
-        "date": "2026-01-26"
-      },
-      {
-        "title": "Cult of the Lamb",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Cult of the Lambは、サンドボックス要素とシミュレーションゲームを組み合わせた独特なゲームで、60%割引のセール中です。このゲームでは、羊のカルトを運営し、信者を集め、村を構築することができます。ユーモアと恐怖を融合させたユニークな世界観が特徴で、評価も高く、人気ゲームとなっています。",
-        "price": "$9.99",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cult-of-the-lamb/info/",
-        "date": "2026-01-26"
-      },
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ノーマンズスカイがバラエティストアで69%オフのセール中です。このゲームはオープンワールドアドベンチャーに分類され、宇宙を自由に探索することができます。特徴的なプロシージャルジェネレーションシステムにより、無限の星や惑星を発見することができます。現在のセール価格は大幅な割引となっており、評価も非常に高い人気ゲームです。",
-        "price": "$18.79",
-        "originalPrice": "",
-        "discount": "-69%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-01-26"
-      },
-      {
-        "title": "Elden Ring",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションRPGゲームのElden RingがVariousで10%割引のセール中です。このゲームは、広大なオープンワールドと深いストーリー、多様なキャラクターで人気を博しています。高い評価を受けており、ゲームファンから絶賛されています。現在、10%の割引で購入できますので、 interessierte 方はこの機会にチェックしてみてください。",
-        "price": "$53.87",
-        "originalPrice": "",
-        "discount": "-10%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/elden-ring/info/",
-        "date": "2026-01-26"
-      },
-      {
-        "title": "Warhammer 40,000: Space Marine 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Warhammer 40,000: Space Marine 2はアクションゲームで、特徴的な戦闘システムと壮大なストーリーが楽しめます。このゲームは現在、Variousで60%割引されており、魅力的な価格でプレイすることができます。評価も高く、人気度も高まっていますので、ゲームファンにはお勧めのタイトルです。",
-        "price": "$23.97",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
-        "date": "2026-01-26"
-      },
-      {
         "title": "Detroit: Become Human",
         "platform": "Various",
         "type": "sale",
@@ -508,6 +448,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/doom-the-dark-ages/info/",
         "date": "2026-02-01"
+      },
+      {
+        "title": "Forza Horizon 5",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "レーシングゲームの『Forza Horizon 5』がSteamで50%オフのセール中です。このゲームは、オープンワールドを自由に駆け回れる特徴があり、車種も豊富で、高度なグラフィック表現が楽しめます。現在の価格ではかなりお買い得なので、レーシングゲームファンにはおすすめです。評価も非常に高く、人気度も高まっています。",
+        "price": "¥3,795",
+        "originalPrice": "¥7,590",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1551360",
+        "date": "2026-02-02"
       }
     ],
     "review": [
@@ -1225,8 +1177,47 @@
         "url": "https://www.inside-games.jp/article/2026/02/01/176804.html",
         "date": "2026-02-01",
         "is_translated": false
+      },
+      {
+        "title": "【最大8人プレイに対応するCo-opアクションローグライク「LORT」の販売が25万本を突破】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Co-opアクションローグライクゲームの「LORT」は、最大8人プレイに対応しており、販売本数が25万本を突破しました。このゲームの評価ポイントとしては、多人数プレイが可能な点や、アクションローグライクの要素が充実している点などが挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンド、そして多人数プレイ時の協力プレイが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163789.html",
+        "date": "2026-02-02",
+        "is_translated": false
+      },
+      {
+        "title": "【「Call of Duty: Black Ops 7」シーズン02の新マルチプレイヤーマップを...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Call of Dutyシリーズの最新作「Call of Duty: Black Ops 7」のシーズン02の新マルチプレイヤーマップについてのレビュー記事です。この記事では、新マップのデザインやゲームプレイの変更点について評価しています。また、シリーズのファンやマルチプレイヤーゲームを楽しむユーザーにとって、この新マップが何を提供するかについても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163786.html",
+        "date": "2026-02-01",
+        "is_translated": false
+      },
+      {
+        "title": "【Havenを生んだThe Game Bakersの新作登山シミュレーション「Cairn」のプレ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "The Game Bakersの新作登山シミュレーションゲーム「Cairn」のレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンドトラックの美しさや、登山のリアルな体験を提供することなどの点が高く評価されています。また、ゲームの難易度や操作性についても触れられており、登山ゲームファンやアウトドア好きの方におすすめできるレビュー内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163766.html",
+        "date": "2026-02-01",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-01T21:23:31.279320"
+  "last_updated": "2026-02-02T02:04:25.782149"
 }
