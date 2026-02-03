@@ -520,6 +520,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
         "date": "2026-02-03"
+      },
+      {
+        "title": "ドラゴンクエストXI　過ぎ去りし時を求めて S",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ドラゴンクエストXI 過ぎ去りし時を求めては、人気のロールプレイングゲームです。現在、Steamで50% OFFのセール中となっています。このゲームは、壮大なストーリーや美しいグラフィックが特徴で、ファンタジーな世界を冒険するのが楽しいです。多くのユーザーから高い評価を受けており、価格も割引されているので、ぜひおすすめします。",
+        "price": "¥2,739",
+        "originalPrice": "¥5,478",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1295510",
+        "date": "2026-02-03"
+      },
+      {
+        "title": "Lies Of P",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Lies Of Pは、Variousで現在-58%のセール中です。このゲームはアクションアドベンチャーであり、独自のストーリーと快適なゲームプレイが特徴です。現在の価格は大幅に割引されており、多くのユーザーから高評価を得ています。人気度も高く、ゲームファンからの支持が高いことで知られています。",
+        "price": "$29.52",
+        "originalPrice": "",
+        "discount": "-58%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/lies-of-p/info/",
+        "date": "2026-02-03"
       }
     ],
     "review": [
@@ -1445,8 +1469,60 @@
         "url": "https://www.pcgamer.com/hardware/gaming-mice/be-quiet-dark-perk-ergo-review/",
         "date": "2026-02-03",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料SFアクション『パニシング：グレイレイヴン（パニグレ）』なんとSteam版いきな...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『パニシング：グレイレイヴン（パニグレ）』は、基本プレイ無料のSFアクションゲームです。Steam版のレビュー記事では、このゲームの評価ポイントとして、スムーズなゲームプレイや壮大なストーリーが挙げられています。また、レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの質が高く、プレイヤーに没入感を与えることができると述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260204-415879/",
+        "date": "2026-02-03",
+        "is_translated": false
+      },
+      {
+        "title": "【ハイガードのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、人気ゲーム「ハイガード」の魅力を紹介しています。評価ポイントとしては、ゲームのグラフィックやサウンドトラックの高品質、そしてユーザーフレンドリーな操作性が取り上げられています。また、レビューの内容概要としては、ゲームのストーリーやキャラクターの個性、さらにゲームの難易度についても触れています。ゲーム好きの方や、新しいゲームを探している人にとって、参考になりそうな記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/highguard-review/",
+        "date": "2026-02-03",
+        "is_translated": true
+      },
+      {
+        "title": "【iBuyPower RDY Element 9 Pro R07 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "iBuyPower RDY Element 9 Pro R07は、高性能なコンポーネントを搭載したゲーム用デスクトップコンピューターです。このレビュー記事では、 Element 9 Pro R07の評価ポイントとして、優れたグラフィック性能、高速なプロセッサ、豊富なストレージ容量を紹介しています。また、ゲームの実行速度、グラフィックの描画精度、コストパフォーマンスなどを詳しくレビューしています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-pcs/ibuypower-rdy-element-9-pro-r07-review/",
+        "date": "2026-02-03",
+        "is_translated": true
+      },
+      {
+        "title": "【QPAD Flux 65 Model 5 ゲーミングキーボードのレビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "QPAD Flux 65 Model 5 ゲーミングキーボードのレビューでは、キーボードの耐久性や操作性、カスタマイズ性などを評価しています。レビューの内容概要としては、キーボードのデザインや性能、価格帯などが挙げられます。ゲーミングキーボードを探しているゲーマーや、キーボードの性能にこだわるユーザーがこのレビューを参照することで、より適切なキーボード選びを行うことができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/qpad-flux-65-model-5-gaming-keyboard-review",
+        "date": "2026-02-03",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-03T13:16:12.398501"
+  "last_updated": "2026-02-03T21:35:14.733170"
 }
