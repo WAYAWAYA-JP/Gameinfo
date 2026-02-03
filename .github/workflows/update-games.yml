@@ -26,6 +26,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 15  # ジョブが長時間ハングするのを防止
 
     steps:
       - name: Checkout
