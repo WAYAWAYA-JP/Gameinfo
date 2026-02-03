@@ -1432,8 +1432,21 @@
         "url": "https://automaton-media.com/articles/newsjp/20260203-415664/",
         "date": "2026-02-03",
         "is_translated": false
+      },
+      {
+        "title": "【静かに！ダークパークエルゴのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "静かに！ダークパークエルゴのレビュー記事では、このゲームの評価ポイントとして、独特の世界観や魅力的キャラクターが挙げられます。レビューの内容は、ゲームのストーリーやゲームプレイの面白さ、そしてサウンドトラックの質を評価しています。主に、このゲームに興味を持つファンや、アクションアドベンチャーゲームを好むゲーマーが対象読者です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/be-quiet-dark-perk-ergo-review/",
+        "date": "2026-02-03",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-03T09:40:40.673088"
+  "last_updated": "2026-02-03T13:16:12.398501"
 }
