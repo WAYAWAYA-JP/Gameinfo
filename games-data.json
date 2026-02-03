@@ -508,6 +508,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-02-03"
+      },
+      {
+        "title": "Kingdom Come: Deliverance II",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Kingdom Come: Deliverance IIがVariousで55%オフのセール中です。このオープンワールドアクションRPGは、中世ボヘミアを舞台に、自由に冒険できることが特徴です。通常価格より大幅に安くなっています。非常に高い評価を得ており、ユーザーからの人気も高く、ゲームコミュニティでよく話題に上がります。",
+        "price": "$27.19",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
+        "date": "2026-02-03"
       }
     ],
     "review": [
@@ -1407,8 +1419,21 @@
         "url": "https://doope.jp/2026/02163813.html",
         "date": "2026-02-03",
         "is_translated": false
+      },
+      {
+        "title": "【『シヴィライゼーション VII』春の無料超大型アプデで「時代を超えて同じ文明でプレイする」機能...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "シヴィライゼーションVIIの春の無料超大型アップデートのレビュー記事では、新機能の「時代を超えて同じ文明でプレイする」モードが紹介されています。このモードでは、プレイヤーは同じ文明で異なる時代をプレイすることができるようになり、ゲームの幅が広がります。また、このアップデートでは、新しいユニットやビルディングなどの追加も行われており、ゲームのバランスが調整されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260203-415664/",
+        "date": "2026-02-03",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-03T02:02:57.663072"
+  "last_updated": "2026-02-03T09:40:40.673088"
 }
