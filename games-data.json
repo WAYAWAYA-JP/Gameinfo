@@ -206,45 +206,21 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/indie-corp-bundle",
         "date": "2026-02-02"
+      },
+      {
+        "title": "Sci-Fi Shooters 2.0",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Sci-Fi Shooters 2.0というバンドルが販売中です。このバンドルには、「Wolcen: Lords of Mayhem」や「Remnant: From the Ashes」などの人気タイトルが含まれています。ジャンルは主にSF要素のあるアクションシューティングゲームです。大まかな価格帯は、約2000円から約4000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/scifishootersbundle2025_bundle",
+        "date": "2026-02-03"
       }
     ],
     "sale": [
-      {
-        "title": "Detroit: Become Human",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Detroit: Become Humanは、サイバーパンクをテーマにしたアドベンチャーゲームです。このゲームは、人工知能が人間に代わる世界を描き、プレイヤーはアンダーソン、カーラ、コンナーという3人の主人公を操作して、物語を進めていきます。現在、Variousで19%のセール中であり、通常価格よりも安く購入することができます。評価は高く、ゲーム内のグラフィックやストーリーが高く評価されています。",
-        "price": "$6.47",
-        "originalPrice": "",
-        "discount": "-19%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
-        "date": "2026-01-27"
-      },
-      {
-        "title": "Kingdom Come: Deliverance II",
-        "platform": "Various",
-        "type": "sale",
-        "description": "現在、Kingdom Come: Deliverance IIがVariousで55%割引のセール中です。このゲームはオープンワールドのアクションRPGであり、リアルな中世ヨーロッパの世界を舞台に、プレイヤーはキャラクターを成長させながらストーリーを進めていきます。高評価を受けており、ファンから人気を博しています。価格も割引されているので、興味のある方はぜひチェックしてみてください。",
-        "price": "$27.19",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
-        "date": "2026-01-27"
-      },
-      {
-        "title": "Manor Lords",
-        "platform": "Various",
-        "type": "sale",
-        "description": "中世を舞台にしたシミュレーションゲーム「Manor Lords」が、現在Variousで50%オフのセール中です。このゲームは、都市計画や資源管理、戦略的な戦闘が特徴で、ユーザーから高い評価を得ています。シミュレーションゲームファンにはおすすめのタイトルで、セール中の価格でお得に購入できます。",
-        "price": "$20.11",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/manor-lords/info/",
-        "date": "2026-01-27"
-      },
       {
         "title": "Nier: Automata™ Game Of The Yorha Edition",
         "platform": "Various",
@@ -496,6 +472,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/atomic-heart/info/",
         "date": "2026-02-02"
+      },
+      {
+        "title": "FINAL FANTASY VII REBIRTH",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REBIRTHがSteamで50% OFFセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、ファイナルファンタシーシリーズの名作として知られています。現在の価格は割引により大幅に下がっており、ファンや新規プレイヤーにとって絶好の購入機会です。FINAL FANTASY VII REBIRTHは。",
+        "price": "¥4,939",
+        "originalPrice": "¥9,878",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2909400",
+        "date": "2026-02-03"
+      },
+      {
+        "title": "Divinity: Original Sin 2 - Definitive Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Divinity: Original Sin 2 - Definitive Editionは、ロールプレイングゲームの名作であり、 Variousで現在75%割引のセール中です。このゲームは、複雑なストーリーと深いキャラクター設定、自由度の高いゲームプレイが特徴です。高評価を受けており、多くのゲーマーから人気を博しています。",
+        "price": "$11.24",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/divinity-original-sin-2-definitive-edition/info/",
+        "date": "2026-02-03"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "No Man's Skyは、サイエンスフィクションをテーマにしたアクションアドベンチャーゲームで、宇宙を自由に探索できる特徴があります。現在、Variousで64%割引のセール中であり、通常価格より大幅に安くなっています。このゲームは、ユーザーの評価が高く、人気も高いゲームです。セール中のこの機会に、No Man's Skyを遊んでみるのはいかがでしょうか。",
+        "price": "$21.87",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-02-03"
       }
     ],
     "review": [
@@ -524,32 +536,6 @@
         "url": "https://doope.jp/2026/01163559.html",
         "date": "2026-01-25",
         "is_translated": false
-      },
-      {
-        "title": "【台湾のホラーゲーム『Devotion』を2020年に販売中止した後、GOGは自らの決定を「反映...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "GOGが2020年に販売を中止した台湾のホラーゲーム『Devotion』についてのレビュー記事です。この記事ではゲームの評価ポイントとして、独自のストーリー展開や怖さを感じる演出が高い評価を受けていることを紹介しています。また、レビューの内容として、ゲームのグラフィックやサウンドデザインが高く評価されている点や、ホラーゲームファンにとって必見の作品である点が述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/after-pulling-taiwanese-horror-game-devotion-from-sale-in-2020-gog-say-they-find-their-decision-difficult-to-reflect-on",
-        "date": "2026-01-24",
-        "is_translated": true
-      },
-      {
-        "title": "【250時間経ってもアークレイダーズに何度も戻ってくるのは、それが驚くべきことではなく、予想通り...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、アークレイダーズというゲームについて評価しています。ゲームの評価ポイントとして、魅力的なゲームシステムや高い再生性が挙げられます。レビューの内容概要としては、ゲームの内容が予想通りであることや、プレイヤーが何度も戻ってくることの理由が述べられています。対象読者は、ゲームファンやアークレイダーズに興味がある人です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/after-250-hours-i-keep-coming-back-to-arc-raiders-not-because-its-surprising-but-because-its-predictable",
-        "date": "2026-01-24",
-        "is_translated": true
       },
       {
         "title": "【『ARC Raiders』今日の大型アプデで、「ソロでチームに挑めるモード」実装。高レベルプレ...：レビュー】",
@@ -1317,8 +1303,86 @@
         "url": "https://www.polygon.com/lorcana-winterspell-disney-preview-darkwing-duck-deck/",
         "date": "2026-02-02",
         "is_translated": true
+      },
+      {
+        "title": "【『第五人格』開発元が手がける海賊オープンワールドRPG 『シー・オブ・レムナンツ』では、随所で...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『シー・オブ・レムナンツ』は、第五人格の開発元が手がける海賊オープンワールドRPGです。このゲームでは、自由に海を航行して島を探索したり、海賊同盟を結成して戦闘に臨んだりすることができます。レビューでは、このゲームの広大なオープンワールドと豊富なキャラクターのカスタマイズが高く評価されています。また、ストーリーや戦闘システムも魅力的で。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/sea-of-remnant-20260202-415379/",
+        "date": "2026-02-02",
+        "is_translated": false
+      },
+      {
+        "title": "【スマブラ系インディー格闘ゲーム「Fraymakers」に“Among Us”のインポスターが参...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "スマブラ系インディー格闘ゲーム「Fraymakers」に「Among Us」のインポスターが参戦するというニュースを受けて、レビュー記事ではこのゲームの評価ポイントとして、ゲームの多彩なキャラクターとステージ、そしてオンライン対戦のスムーズさを挙げています。また、レビューでは「Fraymakers」がスマブラファンにはもちろん、格闘ゲームファン全般にもお勧めできるゲームであると述べています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163770.html",
+        "date": "2026-02-03",
+        "is_translated": false
+      },
+      {
+        "title": "【TRPGにインスパイアされたCo-op対応ロールプレイングアドベンチャー「Baladins」の...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Co-op対応ロールプレイングアドベンチャーゲーム「Baladins」は、テーブルトークRPGの要素を取り入れたユニークなゲームです。このゲームの評価ポイントとしては、プレイヤー同士の協力プレイが重要な要素であり、戦略的な思考とチームワークが求められます。レビューでは、ゲームのグラフィックやサウンドトラックの高品質さも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163774.html",
+        "date": "2026-02-03",
+        "is_translated": false
+      },
+      {
+        "title": "【「Marathon」の“アサシン”シェルに焦点を当てる新トレーラーが公開、発売は2026年3月5日：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Marathon」の新トレーラーが公開され、発売日は2026年3月5日となりました。このゲームの評価ポイントとして、グラフィックの質やゲーム性の面が挙げられます。レビューの内容概要としては、新トレーラーでの「アサシン」シェルの活躍や、ストーリーの展開が評価されています。対象読者は、このゲームや同ジャンルのファンである方に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163769.html",
+        "date": "2026-02-02",
+        "is_translated": false
+      },
+      {
+        "title": "【『ドラクエVII R』は「ガンガンいこうぜ」だけでイケるのか？ オート戦闘のみで35時間走って...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "「ドラクエVII R」のレビュー記事では、オート戦闘のみで35時間プレイした結果を紹介しています。記事では、ゲームの評価ポイントとして、オート戦闘の有用性やストーリーの面白さを取り上げています。また、レビューの内容として、ゲームのシステムや操作のしやすさについても触れています。この記事は、ドラクエシリーズのファンや、RPGゲームに興味がある人に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/03/176861.html",
+        "date": "2026-02-02",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam コントローラーの再レビュー: 欠陥はあるが影響力を持った Valve の 10 年...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Steam コントローラーは、Valve によって開発された革新的なゲーム機器で、10 年前に登場しました。この機器は、ゲームプレイの体験を変える影響力を持っていますが、欠陥もあります。Steam コントローラーの評価ポイントとしては、独自の設計、多機能性、そしてゲームとの互換性が挙げられます。レビューの内容概要としては、コントローラーの性能、操作性、そしてゲームとの相性について述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/controllers/steam-controller-re-review-a-fresh-look-at-valves-flawed-but-influential-10-year-old-controller/",
+        "date": "2026-02-02",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-02T13:15:14.675147"
+  "last_updated": "2026-02-03T01:00:24.253460"
 }
