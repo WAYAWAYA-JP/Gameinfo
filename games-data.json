@@ -16,30 +16,6 @@
     ],
     "bundle": [
       {
-        "title": "Indie Corp Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Indie Corp Bundleというバンドルが現在販売中です。このバンドルには、主要タイトルとして「Dungeon Defenders」や「Orcs Must Die!」などが含まれており、ジャンルはアクションやアドベンチャーに分類されます。大まかな価格帯は10ドルから20ドル程度で、インディーゲームファンにはおすすめのバンドルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/indie-corp-bundle",
-        "date": "2026-01-25"
-      },
-      {
-        "title": "Psycho Gates Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Psycho Gates Bundleが現在販売中です。このバンドルには、Dying Light、 Layers of Fear、The Vanishing of Ethan Carterなどの主要タイトルが含まれており、主にアクションアドベンチャーやホラーゲームなどのジャンルが中心です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/psycho-gates-bundle",
-        "date": "2026-01-25"
-      },
-      {
         "title": "HHPsycho Gates Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -221,54 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Nier: Automata™ Game Of The Yorha Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションRPGの名作「Nier: Automata」の「Game Of The Yorha Edition」が、現在60%オフのセール中です。このゲームは、美しいグラフィックと深いストーリー、独特のバトルシステムで人気を博しています。高い評価を受けており、ゲームファンから高い人気を誇っています。",
-        "price": "$15.99",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/nier-automata-game-of-the-yorha-edition/info/",
-        "date": "2026-01-28"
-      },
-      {
-        "title": "デッドバイデイライト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "デッドバイデイライトは、人気のサバイバルホラーゲームで、Steamで現在60%の割引セール中です。このゲームは、プレイヤーが死神から逃げるか、または他のプレイヤーを死神として狩ることのどちらかを目指す、サスペンス溢れる体験を提供します。高い評価と人気を誇り、多くのユーザーから好評価を得ています。価格は通常時よりも大幅に安くなっているので、気になる方は今すぐチェックしてみてください。",
-        "price": "¥792",
-        "originalPrice": "¥1,980",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/381210",
-        "date": "2026-01-28"
-      },
-      {
-        "title": "Half-Life: Alyx",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "人気のVRゲームであるHalf-Life: AlyxがSteamで70%OFFのセール中です。このゲームはファーストパーソン・シューティングゲームのジャンルに属し、ストーリーとグラフィックの質の高さが特徴です。現在の価格は大幅に割引されており、非常に魅力的なオファーとなっています。多くのユーザーから高評価を得ており、Steamでの評価は非常に高い人気ゲームです。",
-        "price": "¥1,950",
-        "originalPrice": "¥6,500",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/546560",
-        "date": "2026-01-28"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33は、アドベンチャーゲームの一つで、プレイヤーが未知の世界を探索することができます。現在、53%の割引が適用され、魅力的でお得な価格で購入できます。このゲームは、ユニークなゲームプレイとグラフィックで高く評価されており、人気度も高いですので、興味のある方はぜひチェックしてみてください。",
-        "price": "$33.66",
-        "originalPrice": "",
-        "discount": "-53%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-01-28"
-      },
       {
         "title": "STAR WARS Jedi: Survivor™‎",
         "platform": "Various",
@@ -544,6 +472,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/lies-of-p/info/",
         "date": "2026-02-03"
+      },
+      {
+        "title": "Fallout 4: Game of the Year Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Fallout 4: Game of the Year EditionがSteamで75% OFFのセール中です。このゲームはオープンワールドRPGの傑作であり、高自由度のゲームプレイと豊富なストーリーが特徴です。現在の価格は大幅に割引されており、非常に魅力的です。また、Metacriticでの評価は高く、ユーザーからの評価も非常に高い人気ゲームです。",
+        "price": "¥1,210",
+        "originalPrice": "¥4,840",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/199943",
+        "date": "2026-02-04"
+      },
+      {
+        "title": "Fallout 4",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Fallout 4がSteamで75% OFFセール中です。これはオープンワールドRPGの傑作で、ポストアポカリプス世界を舞台に、自由に探索と戦闘が楽しめるゲームです。現在、通常価格より75%割引されており、非常に魅力的な価格になっています。高い評価と人気度を誇るこのゲームは、ファンから非常に高い評価を得ており。",
+        "price": "¥561",
+        "originalPrice": "¥2,246",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/377160",
+        "date": "2026-02-04"
+      },
+      {
+        "title": "Warhammer 40,000: Space Marine 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Warhammer 40,000: Space Marine 2がVariousで60%オフのセール中です。このアクションゲームは、人気のWarhammer 40,000シリーズを基にしており、プレイヤーは宇宙の戦場で戦いを繰り広げます。高評価を受けており、ファンやアクションゲーム好きから人気を博しています。価格は通常より60%割引されています。",
+        "price": "$23.99",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
+        "date": "2026-02-04"
       }
     ],
     "review": [
@@ -558,19 +522,6 @@
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/rocket-league-20260126-411529/",
         "date": "2026-01-26",
-        "is_translated": false
-      },
-      {
-        "title": "【最大8人プレイに対応するCo-opアクションローグライク「LORT」の販売が僅か3日で10万本を突破】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Co-opアクションローグライクゲーム「LORT」は、最大8人プレイに対応しており、発売から僅か3日で10万本を突破する人気作品です。このゲームの評価ポイントとしては、協力プレイの面白さや、ローグライク要素の充実度が挙げられます。レビューの内容としては、多人数プレイの戦略的な要素や、ランダムな要素の存在が面白さを倍増させていることが指摘されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163559.html",
-        "date": "2026-01-25",
         "is_translated": false
       },
       {
@@ -1521,8 +1472,34 @@
         "url": "https://www.rockpapershotgun.com/qpad-flux-65-model-5-gaming-keyboard-review",
         "date": "2026-02-03",
         "is_translated": true
+      },
+      {
+        "title": "【「Apex Legends」“Breach”シーズンのゲームプレイトレーラーがお披露目、開幕は...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Apex Legends」の「Breach」シーズンのゲームプレイトレーラーが公開されました。このトレーラーでは、新しいキャラクターのスキルやシーズンのストーリーが紹介されています。ゲームの評価ポイントとしては、新しいキャラクターの魅力やシーズンのストーリーの展開が見どころです。また、ゲームのバランス調整や新しいマップの追加も注目されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163831.html",
+        "date": "2026-02-04",
+        "is_translated": false
+      },
+      {
+        "title": "【サンドボックスオープンワールドRPG続編「Outward 2」期間限定プレイテストの参加者が1...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "サンドボックスオープンワールドRPGの続編「Outward 2」の期間限定プレイテストに参加した人のレビュー記事を紹介します。この記事では、ゲームの評価ポイントとしてグラフィックの向上や新しいキャラクターの追加などが取り上げられています。また、レビューの内容としては、ゲームの世界観やストーリーがより一層深化していることや、プレイヤーの自由度が高まっていることが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163851.html",
+        "date": "2026-02-04",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-03T21:35:14.733170"
+  "last_updated": "2026-02-04T01:57:51.387947"
 }
