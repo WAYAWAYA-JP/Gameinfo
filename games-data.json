@@ -544,6 +544,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/superliminal/info/",
         "date": "2026-02-04"
+      },
+      {
+        "title": "デッドバイデイライト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サバイバルホラーのデッドバイデイライトがSteamで60%オフのセール中です。このゲームは、殺人鬼となり他のプレイヤーを追跡するか、逆に殺人鬼から逃げるサバイバルバトルを楽しむことができます。非常に人気の高いゲームで、Steamの評価も非常に高いです。セール中の価格は、通常価格より大幅に安くなっています。",
+        "price": "¥792",
+        "originalPrice": "¥1,980",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/381210",
+        "date": "2026-02-04"
+      },
+      {
+        "title": "Blue Prince",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Blue PrinceがVariousで41%割引のセール中です。このゲームは高い評価と人気度を誇り、多くのユーザーから支持されています。アクションアドベンチャーゲームとして知られており、魅力的でスリリングなゲームプレイが特徴です。セール期間中は、通常価格よりも大幅に安く購入できるので、興味がある方はこの機会にぜひお試しください。",
+        "price": "$17.55",
+        "originalPrice": "",
+        "discount": "-41%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/blue-prince/info/",
+        "date": "2026-02-04"
       }
     ],
     "review": [
@@ -1638,8 +1662,47 @@
         "url": "https://www.polygon.com/the-muppet-show-disney-special-review/",
         "date": "2026-02-04",
         "is_translated": true
+      },
+      {
+        "title": "【仁王3 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "仁王3のレビュー記事では、ゲームの評価ポイントとしてストーリーやキャラクターの魅力、ゲームプレイの奥深さなどが紹介されています。このレビューは、特にアクションゲームファンや仁王シリーズの愛好者にとって有益な情報を提供しており、ゲームの内容や魅力を網羅的に概説しています。さらに、レビューではゲームのグラフィックやサウンドトラックの質も高く評価されており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/nioh-3-review/",
+        "date": "2026-02-04",
+        "is_translated": true
+      },
+      {
+        "title": "【仁王 3 レビュー - 魂のような素晴らしさが見事に融合】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "仁王3は、魂のような素晴らしさが見事に融合しているゲームです。このレビュー記事では、ゲームの評価ポイントとして、ストーリーやキャラクターの深み、戦闘システムの充実度などが取り上げられています。さらに、レビューの内容概要では、ゲームの世界観やサウンドトラックの素晴らしさも紹介されています。特に、仁王シリーズのファンやアクションゲームを楽しむことが好きな方にはおすすめの記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/nioh-3-review-a-superb-blend-of-soulslike-splendour",
+        "date": "2026-02-04",
+        "is_translated": true
+      },
+      {
+        "title": "【シムズ 4 ロイヤルティ & レガシーのレビュー: 豪華さとスキャンダルはあるが、それ以外はほ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "シムズ4のロイヤルティ＆レガシーのレビュー記事では、豪華さとスキャンダルが特徴的であると評価していますが、その他の点ではやや物足りないように感じられることがあげられています。このレビューは、シムズシリーズのファンや、生活シミュレーションゲームに興味のある方に向けて、ゲームの評価ポイントや内容の概要を紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/sims-4-royalty-and-legacy-review/",
+        "date": "2026-02-04",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-04T13:15:11.896682"
+  "last_updated": "2026-02-04T21:34:03.778605"
 }
