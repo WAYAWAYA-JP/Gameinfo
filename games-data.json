@@ -194,6 +194,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/scifishootersbundle2025_bundle",
         "date": "2026-02-03"
+      },
+      {
+        "title": "Power Shock Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Power Shock Bundleが現在販売中です。このバンドルには、主にアクションやアドベンチャー要素のあるゲームが含まれており、代表的なタイトルとして「Dead Cells」や「Hyper Light Drifter」があります。ジャンルはアクションアドベンチャーが中心となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/power-shock-bundle",
+        "date": "2026-02-04"
       }
     ],
     "sale": [
@@ -519,6 +531,18 @@
         "discount": "50% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/1462040",
+        "date": "2026-02-04"
+      },
+      {
+        "title": "Superliminal",
+        "platform": "Various",
+        "type": "sale",
+        "description": "パズルゲームの「Superliminal」が現在、Variousで71%割引のセール中です。このゲームは、独特の視覚効果と挑戦的なパズルが特徴で、プレイヤーは視覚的な錯覚を利用して、部屋を移動し、パズルを解決する必要があります。評価は非常に高く、ユーザーから高い人気度を得ています。",
+        "price": "$5.87",
+        "originalPrice": "",
+        "discount": "-71%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/superliminal/info/",
         "date": "2026-02-04"
       }
     ],
@@ -1588,8 +1612,34 @@
         "url": "https://www.inside-games.jp/article/2026/02/04/176937.html",
         "date": "2026-02-04",
         "is_translated": false
+      },
+      {
+        "title": "【スクエニ騙し合いマルチ『KILLER INN（キラーイン）』では、人狼がバレても“力”で圧倒で...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "スクエニの新作ゲーム「KILLER INN（キラーイン）」は、人狼がバレても「力」で圧倒できるというユニークなシステムが特徴です。このゲームの評価ポイントとしては、プレイヤー同士の駆け引きや戦略が重要となること、そしてマルチプレイヤーでのバトルが非常に面白いことなどが挙げられます。このレビューは、マルチプレイヤーゲームを楽しむことが好きな人や、戦略性の高いゲームを求める人にお勧めです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/killerin-20260204-416012/",
+        "date": "2026-02-04",
+        "is_translated": false
+      },
+      {
+        "title": "【マペット ショー 2026 レビュー: 新しいディズニー スペシャルでマペットたちが再びエッチ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "マペット ショー 2026 レビュー記事は、最新のディズニー スペシャルを紹介しています。この記事では、マペットたちが再び活躍する新しいスペシャルの内容を評価しています。記事の評価ポイントとしては、スペシャルのストーリー、キャラクターの魅力、音楽やダンスの演出などが取り上げられています。対象読者は、ディズニー ファンやマペット シリーズの愛好者向けで。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/the-muppet-show-disney-special-review/",
+        "date": "2026-02-04",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-04T09:42:46.902599"
+  "last_updated": "2026-02-04T13:15:11.896682"
 }
