@@ -194,6 +194,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/power-shock-bundle",
         "date": "2026-02-04"
+      },
+      {
+        "title": "Best of Humble Bundle: The Sid Meier Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Best of Humble Bundle: The Sid Meier Collectionというバンドルが販売中です。このバンドルには、シド・マイヤーの名作ゲームであるシヴィライゼーションシリーズを含む、代表的なタイトルがいくつか含まれています。ジャンルは、ストラテジーゲームが中心です。大まかな価格帯は、およそ2,000〜3,000円程度になります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/bestofhumble_thesidmeiercollection",
+        "date": "2026-02-05"
       }
     ],
     "sale": [
@@ -567,6 +579,18 @@
         "discount": "-15%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/nioh-3/info/",
+        "date": "2026-02-05"
+      },
+      {
+        "title": "Control Ultimate Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「Control Ultimate Edition」がバラエティストアで90%割引のセール中です。このゲームは、独特の時間制御能力と、サードパーソンシューティングの要素が特徴です。通常価格より大幅に安くなっているので、注目してください。プレイヤーの評価も高く、人気のゲームとなっています。",
+        "price": "$3.89",
+        "originalPrice": "",
+        "discount": "-90%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/control-ultimate-edition/info/",
         "date": "2026-02-05"
       }
     ],
@@ -1623,8 +1647,60 @@
         "url": "https://www.polygon.com/sims-4-royalty-and-legacy-review/",
         "date": "2026-02-04",
         "is_translated": true
+      },
+      {
+        "title": "【協力プレイ対応“人間なりすまし”ガソスタ経営ゲーム『Roadside Research』2月1...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "協力プレイ対応の「人間なりすまし」ガソリンスタンド経営ゲーム『Roadside Research』のレビュー記事では、ゲームの評価ポイントとして、ユニークなゲームコンセプトや協力プレイの面白さが高く評価されています。また、レビューの内容として、ゲームのグラフィックやサウンドトラックの質の高さや、プレイヤー同士のコミュニケーションが重要な要素である点が紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/coop-20260205-416386/",
+        "date": "2026-02-05",
+        "is_translated": false
+      },
+      {
+        "title": "【Nintendo Switch向けセールにどっさり約520本追加。『ニーア オートマタ』や『バ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、Nintendo Switch向けのセールに約520本の新しいタイトルが追加されたことを取り上げているようです。セールの対象となるゲームの評価ポイントとしては、『ニーア オートマタ』や『バ...：レビュー』の評価が注目されることが予想されます。このレビュー記事は、ゲームファンやNintendo Switchのユーザーにとって参考になる情報を提供しているようです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/nintendo-switch-sale-20260205-416345/",
+        "date": "2026-02-05",
+        "is_translated": false
+      },
+      {
+        "title": "【PUBG Studiosが開発を手がける見下ろし型F2Pタクティカルシューター「PUBG: B...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "PUBG Studiosが開発した見下ろし型のフリートゥプレイタクティカルシューター「PUBG: B...」のレビュー記事では、ゲームの評価ポイントとして、戦略的な戦闘システムやグラフィックの質が高く評価されています。さらに、レビューでは、ゲームの自由度やプレイヤーの戦術的な選択肢の多さも評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163877.html",
+        "date": "2026-02-05",
+        "is_translated": false
+      },
+      {
+        "title": "【2Dゲームモードを導入する「Stick it to the Stickman」の最新アップデー...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Stick it to the Stickman」の最新アップデートでは、2Dゲームモードが導入されており、ゲーム性が大幅に強化されています。このレビュー記事では、新しいゲームモードの評価ポイントとして、操作性の向上、グラフィックの改善、挑戦要素の増加を取り上げています。また、レビューの内容としては、新しいモードの導入によってゲームの再プレイ価値が高まっていることや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163842.html",
+        "date": "2026-02-05",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-05T01:59:14.806207"
+  "last_updated": "2026-02-05T09:43:23.205263"
 }
