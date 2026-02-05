@@ -12,6 +12,30 @@
         "deadline": "2026年02月05日まで",
         "url": "https://store.epicgames.com/ja/p/6b5b8432768a423f848fd85a61c97623",
         "date": "2026-01-30"
+      },
+      {
+        "title": "Botany Manor",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Botany Manorは、パズル要素を含むアドベンチャーゲームです。このゲームの特徴は、美しい植物のイラストを鑑賞することができ、また、植物を研究して新しい種を発見することができます。また、ゲーム内の探索要素も魅力的です。Epic Gamesプラットフォームで無料配布中なので、気軽に遊ぶことができます。",
+        "price": "無料",
+        "originalPrice": "¥24",
+        "discount": "100% OFF",
+        "deadline": "2026年02月12日まで",
+        "url": "https://store.epicgames.com/ja/p/61eca1a9e42243d29e93b02510d88d83",
+        "date": "2026-02-05"
+      },
+      {
+        "title": "ポイズンレトロセット",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "ポイズンレトロセットは、現在Epic Gamesで無料配布中のアクションアドベンチャーゲームです。このゲームの特徴としては、レトロ風のグラフィックや、複数のキャラクターから選択してプレイできること、そしてさまざまなステージをクリアしながらストーリーが進んでいくことが挙げられます。また、難易度が高く、プレイヤーに挑戦心を呼び起こす魅力もあります。",
+        "price": "無料",
+        "originalPrice": "¥28",
+        "discount": "100% OFF",
+        "deadline": "2026年02月12日まで",
+        "url": "https://store.epicgames.com/ja/p/poison-retro-set",
+        "date": "2026-02-05"
       }
     ],
     "bundle": [
@@ -603,6 +627,42 @@
         "discount": "-87%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
+        "date": "2026-02-05"
+      },
+      {
+        "title": "Rust",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サバイバルゲームとして人気のRustがSteamで50%オフのセール中です。このゲームは、プレイヤーが荒野で生き残るために必要な物資を集め、敵から身を守りながら進めていく、ハイレベルな自由度を特徴としています。現在、かなりの割引率で購入できるので、サバイバルゲームファンにはお勧めです。",
+        "price": "¥2,300",
+        "originalPrice": "¥4,600",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/252490",
+        "date": "2026-02-05"
+      },
+      {
+        "title": "Fallout 76",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Fallout 76は、オープンワールドのアクションRPGです。このゲームでは、広大な世界を自由に探索し、さまざまなクエストやミッションをこなすことができます。現在、Steamで80%オフのセール中です。通常価格より大幅に安くなっているので、興味がある方はお得に購入できます。Falloutシリーズのファンにはもちろん、オープンワールドゲームを楽しむ方にもおすすめです。",
+        "price": "¥960",
+        "originalPrice": "¥4,800",
+        "discount": "80% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1151340",
+        "date": "2026-02-05"
+      },
+      {
+        "title": "Borderlands 4",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションパックされたFPSゲーム「Borderlands 4」がVariousで31%オフのセール中です。このゲームは、ユニークなキャラクターと豊富な武器、広大なオープンワールドが特徴的で、ファンから高い評価を得ています。現在、通常価格より大幅に安くなっているので、シリーズファンやFPSゲーム好きにはおすすめです。",
+        "price": "$48.15",
+        "originalPrice": "",
+        "discount": "-31%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/borderlands-4/info/",
         "date": "2026-02-05"
       }
     ],
@@ -1737,8 +1797,86 @@
         "url": "https://www.polygon.com/iron-lung-movie-game-markiplier-industry-disruption/",
         "date": "2026-02-05",
         "is_translated": true
+      },
+      {
+        "title": "【『Horizon Hunters Gathering（仮）』発表。「Horizon」シリーズ最...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本記事は「Horizon Hunters Gathering（仮）」の発表に関するレビュー記事で、ゲームの評価ポイントとしてグラフィックやゲーム性が高く評価されており、シリーズファンには必見の作品となっています。また、レビュー内容としては、新しいキャラクターの登場やストーリーの展開が紹介されており、ゲームの世界観をより深く理解できる内容となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/horizon-hunters-20260206-416633/",
+        "date": "2026-02-05",
+        "is_translated": false
+      },
+      {
+        "title": "【“Horizon”ユニバースのCo-opアクションスピンオフ「Horizon Hunters ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Horizon」ユニバースのCo-opアクションスピンオフ「Horizon Hunters ...：レビュー」では、ゲームの評価ポイントとして、協力プレイの充実度やストーリーの展開が注目されています。レビューの内容概要としては、ゲームのグラフィックやサウンドデザインの高さ、そして遊びやすさが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02131250.html",
+        "date": "2026-02-05",
+        "is_translated": false
+      },
+      {
+        "title": "【パズルアドベンチャー続編「Planet of Lana II」の発売日が2026年3月5日に決...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Planet of Lana II」のレビュー記事では、ゲームの評価ポイントとして、美しいグラフィックや深いストーリーが高い評価を得ていることがわかります。また、レビューの内容概要として、ゲームの操作性や難易度のバランスが良好であると述べられています。このレビューは、パズルアドベンチャーゲームファンや「Planet of Lana」シリーズの続編を待ち望んでいたプレイヤーにとって。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163887.html",
+        "date": "2026-02-05",
+        "is_translated": false
+      },
+      {
+        "title": "【日本の90年代アニメにインスパイアされたNintendo Switch 2向けCo-opアドベ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、日本の90年代アニメにインスパイアされたCo-opアドベンチャーゲームを紹介しています。このゲームはNintendo Switch 2向けにリリースされており、協力プレイの要素が特徴です。評価ポイントとしては、魅力的なグラフィックや、スムーズなゲームプレイが挙げられます。また、レビューでは、このゲームのユニークな世界観や、協力プレイでの楽しさも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163885.html",
+        "date": "2026-02-05",
+        "is_translated": false
+      },
+      {
+        "title": "【レトロアニメ風グラフィックが特徴のスイッチ2向け協力ADV『オービタルズ』3つのツールを駆使し...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "レトロアニメ風のグラフィックが特徴的なスイッチ用の協力型アドベンチャーゲーム『オービタルズ』のレビュー記事があります。このゲームでは、3つのツールを駆使してプレイヤーは協力してゲームを進めていきます。このレビューでは、ゲームの評価ポイントとしてグラフィックやサウンド、ゲームプレイの面白さを取り上げています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/05/177025.html",
+        "date": "2026-02-05",
+        "is_translated": false
+      },
+      {
+        "title": "【呪術廻戦、第 7 話のスリル満点の東京コロニー 1 編をプレビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "呪術廻戦の第7話の東京コロニー1編を紹介するレビュー記事です。このゲームはスリル満点の内容でプレイヤーを魅了します。まず、ゲームの評価ポイントとしては、独自のストーリー展開とキャラクター設定が際立っていることが挙げられます。また、レビューの内容概要としては、ゲームのグラフィックやサウンド設計が高く評価されている点や、難易度が適切に調整されている点が言及されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/jujutsu-kaisen-episode-7-tokyo-colony-arc-preview-culling-game/",
+        "date": "2026-02-05",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-05T13:17:28.848018"
+  "last_updated": "2026-02-05T21:29:20.592758"
 }
