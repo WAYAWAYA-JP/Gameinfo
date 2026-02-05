@@ -592,6 +592,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/control-ultimate-edition/info/",
         "date": "2026-02-05"
+      },
+      {
+        "title": "Hogwarts Legacy",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Hogwarts Legacyがバリュー（Various）で87%オフのセール中です。このゲームは、アクションアドベンチャー要素を含むオープンワールドRPGで、ハリー・ポッターの魔法世界を自由に探索できます。高い評価と人気を得ているこのゲームは、ファンからの支持が高く、非常に面白いと評判です。セール中の価格では大変お得なので、興味がある方はおすすめです。",
+        "price": "$7.56",
+        "originalPrice": "",
+        "discount": "-87%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
+        "date": "2026-02-05"
       }
     ],
     "review": [
@@ -1699,8 +1711,34 @@
         "url": "https://doope.jp/2026/02163842.html",
         "date": "2026-02-05",
         "is_translated": false
+      },
+      {
+        "title": "【高評価・推理ゲーム『Staffer Case』シリーズ公式、新作『Staffer Retro:...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "推理ゲーム『Staffer Case』シリーズの新作『Staffer Retro』は高い評価を得ているゲームです。このゲームの評価ポイントとしては、ユーザーの推理能力を試す難易度が高く、ストーリーが面白いこと、グラフィックやサウンドトラックがレトロな雰囲気を醸し出していることが挙げられます。レビューの内容概要としては、ゲームの難易度やストーリーの面白さ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260205-416502/",
+        "date": "2026-02-05",
+        "is_translated": false
+      },
+      {
+        "title": "【映画『アイアン・ラング』は怖い - 観客にとってもハリウッドにとっても：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "映画『アイアン・ラング』のレビュー記事では、この映画は観客にとって怖いものであるだけでなく、ハリウッドにとっても新たな挑戦を与える作品であると評価されています。レビューの内容としては、映画の独自のストーリー、登場人物の深み、サスペンスFULな演出が高く評価されています。また、映画の評価ポイントとしては、視覚的な効果、音響の効果、監督の手腕があげられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/iron-lung-movie-game-markiplier-industry-disruption/",
+        "date": "2026-02-05",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-05T09:43:23.205263"
+  "last_updated": "2026-02-05T13:17:28.848018"
 }
