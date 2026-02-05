@@ -16,18 +16,6 @@
     ],
     "bundle": [
       {
-        "title": "HHPsycho Gates Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、HHPsycho Gates Bundleというバンドルが現在販売中です。このバンドルには、Psycho GatesやPsycho Gates 2などの主要タイトルが含まれており、ジャンルはアクションやアドベンチャーに分類されます。大まかな価格帯は数百円から数千円程度とお手頃です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/psycho-gates-bundle",
-        "date": "2026-01-26"
-      },
-      {
         "title": "D3 Waifus 4U",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -209,18 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "STAR WARS Jedi: Survivor™‎",
-        "platform": "Various",
-        "type": "sale",
-        "description": "STAR WARS Jedi: Survivor™‎は、アクションアドベンチャーゲームの1つで、スター・ウォーズの世界を舞台に、ジェダイの生存を描いたゲームです。現在、88%の割引で販売中で、大幅に安くなっています。このゲームは、高い評価と人気度を誇り、スター・ウォーズファンの間で大きな注目を集めています。",
-        "price": "$8.39",
-        "originalPrice": "",
-        "discount": "-88%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/star-wars-jedi-survivor/info/",
-        "date": "2026-01-29"
-      },
       {
         "title": "Cairn",
         "platform": "Various",
@@ -568,22 +544,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/blue-prince/info/",
         "date": "2026-02-04"
+      },
+      {
+        "title": "V Rising",
+        "platform": "Various",
+        "type": "sale",
+        "description": "V RisingはオープンワールドアクションRPGであり、ドラキュラとしてさまざまな能力を会得し、城を建設し、夜の世界を支配することを目指すゲームです。このゲームは現在、Variousで77%割引されており、大幅な値下げで購入する機会です。V Risingは、ユーザーからの評価が非常に高く、人気度も高いゲームであり、ファンタジーとアクションを好むプレイヤーに特にお勧めです。",
+        "price": "$7.90",
+        "originalPrice": "",
+        "discount": "-77%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/v-rising/info/",
+        "date": "2026-02-05"
+      },
+      {
+        "title": "Nioh 3",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるNioh 3が、現在Variousで15%割引のセール中です。このゲームは、ダークファンタジーな世界を舞台に、スリリングな戦闘と豊富なストーリーが楽しめることで人気を博しています。多くのプレイヤーから高評価を得ており、シリーズファンやアクションゲーム好きにはお勧めのタイトルです。",
+        "price": "$59.83",
+        "originalPrice": "",
+        "discount": "-15%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/nioh-3/info/",
+        "date": "2026-02-05"
       }
     ],
     "review": [
-      {
-        "title": "【『ロケットリーグ』、かなり久々の「同接100万人」突破。再燃する超次元車サッカー熱：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ロケットリーグは、同接100万人を突破し、超次元車サッカーの熱が再燃しています。このゲームの評価ポイントは、ユニークなゲームプレイ、質の高いグラフィックス、そしてマルチプレイヤー機能です。レビューの内容概要としては、ゲームの面白さ、操作のしやすさ、そしてオンラインプレイの盛り上がりについて触れています。このレビュー記事は、ロケットリーグのファンやサッカーと車のゲームが好きな人に向けています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/rocket-league-20260126-411529/",
-        "date": "2026-01-26",
-        "is_translated": false
-      },
       {
         "title": "【『ARC Raiders』今日の大型アプデで、「ソロでチームに挑めるモード」実装。高レベルプレ...：レビュー】",
         "platform": "AUTOMATON",
@@ -595,19 +582,6 @@
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/arc-raiders-20260127-411752/",
         "date": "2026-01-27",
-        "is_translated": false
-      },
-      {
-        "title": "【『バイオハザード レクイエム』は今までの『バイオ』と恐怖の質が違う。倒す・逃げるだけではない第...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『バイオハザード レクイエム』は今までのシリーズとは恐怖の質が異なる作品です。このゲームの評価ポイントは、新しいゲームシステムやグラフィックの高さなどが挙げられます。レビューの内容概要としては、従来のシリーズでは倒すか逃げるかしか選択肢がなかったのに対し、この作品ではより多様な選択肢が存在する点が高く評価されています。また、グラフィックの高さやサウンドデザインの迫力も絶賛されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260127-411598/",
-        "date": "2026-01-26",
         "is_translated": false
       },
       {
@@ -637,58 +611,6 @@
         "is_translated": false
       },
       {
-        "title": "【「Marathon」の“デストロイヤー”シェルに焦点を当てるシネマティックトレーラーが公開、発...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム「Marathon」のシネマティックトレーラーが公開されました。このトレーラーは「デストロイヤー」シェルに焦点を当てています。ゲームの評価ポイントとしては、グラフィックやサウンド、ストーリーの面白さが挙げられます。レビューの内容概要としては、トレーラーの内容やゲームの全体的な雰囲気、そしてプレイヤーへの期待が述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163615.html",
-        "date": "2026-01-26",
-        "is_translated": false
-      },
-      {
-        "title": "【Hytale が未完成であるのは問題ありませんが、WIP の兆候以外は何も見たくないのです：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Hytale は現在未完成ですが、その未完成な部分を理解することは大切です。このゲームのレビュー記事では、Hytale が未完成であるということが問題ではなく、むしろワーク・イン・プログレス（WIP）の兆候以外は見せられないことが問題であると指摘しています。ゲームの評価ポイントとしては、ゲームの完成度やバグの存在などが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/hytale-being-unfinished-is-fine-but-id-rather-see-nothing-than-its-wip-signs",
-        "date": "2026-01-26",
-        "is_translated": true
-      },
-      {
-        "title": "【コードヴェイン 2 レビュー: 2026 年の最悪のソウルライクの初期候補】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "コードヴェイン2のレビュー記事では、このゲームは2026年の最悪のソウルライクゲームの初期候補と評価されています。記事では、ゲームの不満点として、難易度の不均衡や操作の煩雑さ、ストーリーの不明瞭さなどの点が挙げられています。また、グラフィックやサウンドトラックの美しさは評価されていますが、全体的なゲーム性や総合的な満足度では不足しているようです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/code-vein-2-review/",
-        "date": "2026-01-26",
-        "is_translated": true
-      },
-      {
-        "title": "【ハイガード プレビュー: ここ数年で最高の新作シューターの 1 人による 4 時間】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事は、最近発売されたシューティングゲーム「ハイガード」のプレビュー版を4時間プレイした感想を紹介しています。ゲームの評価ポイントとして、爽快なアクションや美しいグラフィックが挙げられます。記事では、ゲームの魅力を簡潔にまとめているため、新作シューティングゲームに興味がある読者にはぴったりの内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/highguard-hands-on-preview/",
-        "date": "2026-01-26",
-        "is_translated": true
-      },
-      {
         "title": "【参戦が迫るテックマリーンの武器と能力を紹介する「Warhammer 40,000: SPACE...：レビュー】",
         "platform": "doope!",
         "type": "review",
@@ -712,19 +634,6 @@
         "deadline": "",
         "url": "https://www.pcgamer.com/games/adventure/earth-must-die-review-an-inventive-adventure-game-thats-just-a-bit-too-obsessed-with-orgies/",
         "date": "2026-01-27",
-        "is_translated": true
-      },
-      {
-        "title": "【Code Vein 2 レビュー: 2026 年の最悪のソウルライクの初期候補】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Code Vein 2 は、2026 年の最悪のソウルライクゲームの初期候補と評価されています。このレビュー記事では、ゲームの評価ポイントとして、ストーリーの不明瞭さ、操作の煩雑さ、グラフィックの低さなどが指摘されています。また、ゲームの不満点として、敵の強さの不均衡やステージの繰り返しなどの点が挙げられています。ソウルライクゲームファンやアクションゲーム好きの方に読んでほしい記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/code-vein-2-review/",
-        "date": "2026-01-26",
         "is_translated": true
       },
       {
@@ -1701,8 +1610,21 @@
         "url": "https://www.polygon.com/sims-4-royalty-and-legacy-review/",
         "date": "2026-02-04",
         "is_translated": true
+      },
+      {
+        "title": "【シムズ 4 ロイヤルティ & レガシーのレビュー: 贅沢とスキャンダルはあるが、それ以外はほと...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "シムズ4のロイヤルティとレガシーのレビュー記事では、贅沢とスキャンダルが存在するが、それ以外の要素はほとんどないと評価されています。このレビューは、シムズシリーズのファンや、シミュレーションゲームに興味がある人にとって参考になる内容です。記事では、ゲームの評価ポイントとして、ゲーム内のキャラクターの自由度やストーリーの展開などが取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/sims-4-royalty-and-legacy-review/",
+        "date": "2026-02-04",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-04T21:34:03.778605"
+  "last_updated": "2026-02-05T01:59:14.806207"
 }
