@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/risk-of-rain-2/info/",
         "date": "2026-02-06"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アドベンチャーゲーム「Clair Obscur: Expedition 33」が現在、セール中で36%割引になっています。このゲームは、不気味でスリリングなストーリーが特徴で、プレイヤーは恐怖を感じながら探索します。評価も高く、多くのプレイヤーから人気があります。セール期間中は、通常価格よりも安く購入することができますので、興味がある方はこの機会にチェックしてみてください。",
+        "price": "$32.01",
+        "originalPrice": "",
+        "discount": "-36%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-02-06"
       }
     ],
     "review": [
@@ -1728,8 +1740,60 @@
         "url": "https://automaton-media.com/articles/newsjp/timberborn-20260206-417111/",
         "date": "2026-02-06",
         "is_translated": false
+      },
+      {
+        "title": "【高評価・超能力推理ADV新作『Staffer Retro: 超能力推理クエスト』日本でのクラウ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Staffer Retro: 超能力推理クエスト』は、超能力をテーマにした推理アドベンチャーゲームです。このゲームの評価ポイントとしては、ユニークな超能力システムや、複雑なストーリー展開などが挙げられます。レビューの内容としては、ゲームの雰囲気やグラフィックの美しさ、そして難易度の適切さが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260206-417688/",
+        "date": "2026-02-06",
+        "is_translated": false
+      },
+      {
+        "title": "【凡庸プレイヤーは『仁王3』で生き残れるのか？“10回落命するまで”縛りに、のたれ死ぬ末路の予感が走る】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "「仁王3」のレビュー記事では、このゲームの難易度が非常に高いことが評価ポイントの1つです。プレイヤーは10回死ぬまでのたれ死ぬような状況に陥り、生き残ることができるかどうかが問われます。このゲームは、特に経験が少ないプレイヤーにとっては難易度が高く感じられるでしょう。対象読者はアクションゲームファンや、挑戦的なゲームを楽しむ人向けです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/06/177081.html",
+        "date": "2026-02-06",
+        "is_translated": false
+      },
+      {
+        "title": "【「まるで“映画版CAPTCHA”―観客に人間性を証明するための間違い探しをさせる」海外レビュー...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、映画版CAPTCHAと呼ばれるゲームについて書かれています。このゲームは、観客に人間性を証明するための間違い探しをさせるというユニークな内容です。レビューのポイントとしては、ゲームの新しい試みやユーモアが評価されています。また、ゲームのグラフィックやサウンドトラックも高く評価されています。このレビューは、ゲーム好きや新しい試みを求める人が対象です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/06/177079.html",
+        "date": "2026-02-06",
+        "is_translated": false
+      },
+      {
+        "title": "【「ある程度の混乱を許容する必要がある」: ディアブロ 2 のアート リードがディアブロ 4 の...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "本記事は、ゲーム「ディアブロ4」のレビュー記事です。ゲームの評価ポイントとして、ダークファンタジー世界の魅力や、キャラクターのカスタマイズ性が高く評価されています。また、ゲームのアートリードが語る、ゲーム開発における「ある程度の混乱を許容する必要がある」という考え方も紹介されています。対象読者は、ゲームファンやアクションRPGを好む人向けであり、ゲームの概要や開発裏話を知りたい方にオススメです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/you-gotta-let-some-of-the-chaos-in-diablo-2s-art-lead-explains-what-he-doesnt-like-about-diablo-4",
+        "date": "2026-02-06",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-06T09:42:07.164445"
+  "last_updated": "2026-02-06T13:14:57.729508"
 }
