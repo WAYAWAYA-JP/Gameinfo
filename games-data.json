@@ -568,6 +568,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-02-06"
+      },
+      {
+        "title": "Ready Or Not",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Ready Or Notは、タクティカルファーストパーソンシューティングゲームで、プレイヤーが警察の特殊部隊を操作して、犯罪者を逮捕または排除するという特徴があります。現在、Variousで47%の割引セール中で、通常価格より大幅に安くなっています。このゲームは、リアルな戦闘シミュレーションと緊張感のあるゲームプレイで人気があり、多くのユーザーから高い評価を獲得しています。",
+        "price": "$26.67",
+        "originalPrice": "",
+        "discount": "-47%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ready-or-not/info/",
+        "date": "2026-02-06"
       }
     ],
     "review": [
@@ -1792,8 +1804,73 @@
         "url": "https://www.rockpapershotgun.com/you-gotta-let-some-of-the-chaos-in-diablo-2s-art-lead-explains-what-he-doesnt-like-about-diablo-4",
         "date": "2026-02-06",
         "is_translated": true
+      },
+      {
+        "title": "【人気協力ホラー『R.E.P.O.』次回アプデで、蘇生ロボ「Defibro」実装へ。倒れたプレイ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "人気協力ホラー『R.E.P.O.』の次回アプデでは、蘇生ロボ「Defibro」が実装されることを紹介するレビュー記事です。記事では、新しく実装される機能の詳細や、ゲームプレイの改善点などが説明されています。特に、倒れたプレイヤーを蘇生することができるロボの実装により、ゲームの難易度が調整されることが期待されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/repo-20260207-417768/",
+        "date": "2026-02-06",
+        "is_translated": false
+      },
+      {
+        "title": "【塹壕掘りや建築要素を持つ兵科ベースの第一次世界大戦シューター「Over The Top: WW...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Over The Top: WW...」は、第一次世界大戦を舞台にしたシューティングゲームです。このゲームは塹壕掘りや建築要素を取り入れた兵科ベースのシステムが特徴で、プレイヤーは戦術的な戦闘を楽しむことができます。レビューでは、このゲームの戦闘システムやグラフィックの評価ポイントが高く評価されています。また、歴史的な背景やゲームプレイの自由度も評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163953.html",
+        "date": "2026-02-06",
+        "is_translated": false
+      },
+      {
+        "title": "【スクウェア・エニックス、2023 年の最高のホラー ミステリー ゲームの 1 つの続編である ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "スクウェア・エニックスの2023年の最高のホラーミステリーの1つであるゲームの続編のレビュー記事です。このレビューでは、ゲームの評価ポイントとして、ストーリーの深み、キャラクターの個性、グラフィックの質を取り上げています。また、ミステリー要素やホラーエレメントがうまく組み合わさった点も高く評価されています。ホラーゲームファンやミステリー好きの方に特におすすめのレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/square-enix-announce-paranormasight-the-mermaids-curse-sequel-to-one-of-2023s-best-horror-mystery-games",
+        "date": "2026-02-06",
+        "is_translated": true
+      },
+      {
+        "title": "【Razer BlackShark V3 ゲーミング ヘッドセットのレビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Razer BlackShark V3 ゲーミングヘッドセットのレビュー記事では、サウンドのクオリティやコミュニケーションの機能、デザインと耐久性などを評価ポイントとしています。具体的には、ゲーム中の臨場感を高める高音質サウンド、快適な着用感と長時間のプレイに耐える耐久性、そしてクリアなコミュニケーションを実現するマイクの品質についてレビューしています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/razer-blackshark-v3-gaming-headset-review",
+        "date": "2026-02-06",
+        "is_translated": true
+      },
+      {
+        "title": "【Mewgenics レビュー - 生贄のうじ虫と恐ろしい排便が成功の鍵となるローグライト】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Mewgenicsは、ローグライトゲームとして成功を収めています。このゲームの評価ポイントは、独自のゲームシステムとユニークなグラフィックです。レビューの内容概要としては、プレイヤーは生贄のうじ虫と恐ろしい排便を利用してステージをクリアしていく必要があり、これが成功の鍵となります。対象読者は、ローグライトゲームのファンや、新しいゲーム体験を求めるユーザーです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/mewgenics-review-a-roguelite-where-sacrificial-arse-maggots-and-frightful-defecation-are-the-keys-to-success",
+        "date": "2026-02-06",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-06T13:14:57.729508"
+  "last_updated": "2026-02-06T21:30:52.209745"
 }
