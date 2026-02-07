@@ -28,18 +28,6 @@
     ],
     "bundle": [
       {
-        "title": "Artsy Pixel Puzzles Bundle 5",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Artsy Pixel Puzzles Bundle 5というバンドルが販売中です。このバンドルには、グラフィックや音響の面で優れた、ピクセルアートを特徴とするパズルゲームが数多く含まれています。具体的には、\"The Path of Motus\"や\"Puzzle Puppers\"などのタイトルが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/artsy-pixel-puzzles5-bundle",
-        "date": "2026-01-28"
-      },
-      {
         "title": "Nacon Racing Collection 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -173,42 +161,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Monster Hunter Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションパックされたハンターシリーズの最新作、Monster Hunter WildsがVariousで51%オフのセール中です。この人気ゲームは、自由に狩猟できるオープンワールドや、様々なモンスターと戦うアクション要素が特徴です。現在、セールにより割引価格で購入することができます。高い評価と人気度を誇るこのゲームは、ハンターを目指すあなたの冒険を待っています。",
-        "price": "$34.64",
-        "originalPrice": "",
-        "discount": "-51%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
-        "date": "2026-01-31"
-      },
-      {
-        "title": "Definitely Not Fried Chicken",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Definitely Not Fried ChickenがVariousでセール中です、このセールでは100%割引が適用されており、完全無料でプレイできます。このゲームは、ユニークなコンセプトと面白いゲームプレイが特徴で、ユーザーから高い評価を受けています。人気度も高く、多くのプレイヤーに支持されています。ぜひこの機会に試してみてください。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/definitely-not-fried-chicken/info/",
-        "date": "2026-01-31"
-      },
-      {
-        "title": "Darkest Dungeon",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ダンジョン探索を主な要素とするロールプレイングゲームの「Darkest Dungeon」が、現在92%の割引で販売中です。このゲームは、ダンジョンを探索し、モンスターと戦い、キャラクターの精神状態を管理する必要がある、ハードコアなゲームとして知られています。多くのユーザーが高く評価しており、非常に人気のゲームとなっています。",
-        "price": "$1.99",
-        "originalPrice": "",
-        "discount": "-92%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/darkest-dungeon/info/",
-        "date": "2026-01-31"
-      },
       {
         "title": "Dead Cells",
         "platform": "Various",
@@ -580,48 +532,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ready-or-not/info/",
         "date": "2026-02-06"
+      },
+      {
+        "title": "Arabian Gulf",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるArabian Gulfが、現在Variousで100%オフのセール中です。このゲームは、ユーザーから高い評価を受けており、人気度も高いようです。セール期間中は無料でプレイできますので、興味がある場合はこの機会にチェックしてみてください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/arabian-gulf/info/",
+        "date": "2026-02-07"
       }
     ],
     "review": [
-      {
-        "title": "【評価苦戦中の新作PvPシューター『Highguard』、Steam不評レビューの過半数9000...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "新作PvPシューター『Highguard』は、Steamでの評価が苦戦を続けており、不評レビューの数は9000を超えています。このゲームの評価ポイントとしては、ゲームプレイのバランスやグラフィックの質が問題視されています。レビューの内容概要としては、不満足なゲーム体験やテクニカルな問題が多く挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/highguard-20260128-412875/",
-        "date": "2026-01-28",
-        "is_translated": false
-      },
-      {
-        "title": "【Nintendo Switch 2、マイニンテンドーストアでついに「先着販売」へ。“Switc...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Nintendo Switch 2の発売が近づき、マイニンテンドーストアでは先着販売が開始されました。このニュースに伴い、先行レビュー記事が公開されており、Switch 2の新機能やグラフィックの向上、ゲームプレイの快適さなどが評価ポイントとして取り上げられています。レビューでは、Switch 2のコントローラーの改良やバッテリーの長寿命、また新しいゲームタイトルの紹介などが行われています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260128-412407/",
-        "date": "2026-01-28",
-        "is_translated": false
-      },
-      {
-        "title": "【Baldur's Gate 3 スタジオの責任者、「有害な」「個人的な」ビデオゲーム レビュア...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Baldur's Gate 3のスタジオ責任者は、ゲームのレビュアーについて有害な個人的な批評を行っていることを批判しています。ゲームの評価ポイントとして、ストーリーの深さやキャラクターの多様性が際立っています。レビューの内容概要として、ゲームのグラフィックの向上やサウンドトラックの質の高さが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/baldurs-gate-3-studio-boss-calls-out-hurtful-personal-videogame-reviewers-sometimes-i-think-itd-be-a-good-idea-for-critics-to-be-scored-metacritic-style",
-        "date": "2026-01-28",
-        "is_translated": true
-      },
       {
         "title": "【『仁王3』先行プレイ感想。チーニンが送る戦国死にゲー最新作は、自由度も過去作の知見も山盛り。ス...】",
         "platform": "AUTOMATON",
@@ -647,58 +572,6 @@
         "url": "https://doope.jp/2026/01163683.html",
         "date": "2026-01-29",
         "is_translated": false
-      },
-      {
-        "title": "【高い評価を獲得したスーパーヒーロー職場コメディ「Dispatch」の国内PS5とNintend...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "スーパーヒーロー職場コメディ「Dispatch」の国内PS5とNintendo Switch版が発売され、高い評価を獲得しています。レビューでは、ユニークなゲーム性と面白いストーリーが評価されています。また、キャラクターの個性とコメディ要素も高く評価されています。スーパーヒーローやコメディファンには必見の作品で、ゲーム好きの方にもおすすめできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163679.html",
-        "date": "2026-01-28",
-        "is_translated": false
-      },
-      {
-        "title": "【「Monster Train 2」第1弾DLC“Destiny of the Railforg...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Monster Train 2」の第1弾DLC「Destiny of the Railforged」をレビューする記事です。この記事では、DLCの評価ポイントとして、新しいキャラクターの追加や、新しいステージの導入などが述べられています。また、ゲームの難易度の調整や、新しい要素の導入がどのようにゲーム性に影響を与えるかについても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163619.html",
-        "date": "2026-01-28",
-        "is_translated": false
-      },
-      {
-        "title": "【Earth Must Dieのパブリッシャーらは、「床の上で回転する塊として描かれたエイリアン...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Earth Must Dieのパブリッシャーらは、ユニークなゲームデザインや面白いゲーム性を評価しています。レビュー記事では、床の上で回転する塊として描かれたエイリアンの独特なキャラクターデザインや、プレイヤーが地球を守るために戦う爽快なアクションが高く評価されています。さらに、ゲームの難易度や操作性もよくできていると述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/earth-must-die-publishers-say-an-alien-orgy-depicted-as-a-gyrating-lump-on-the-floor-left-the-games-steam-launch-unclear",
-        "date": "2026-01-28",
-        "is_translated": true
-      },
-      {
-        "title": "【ディスパッチレビュー: このスーパーヒーロー ゲームは映画やテレビから適切なインスピレーション...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事では、スーパーヒーローゲームが映画やテレビ番組から適切なインスピレーションを得ているかどうかを評価しています。評価ポイントとしては、ゲームのストーリー、キャラクターの設定、ゲームプレイの面白さなどがあります。レビューの内容は、ゲームの出来栄えや魅力に焦点を当てており、ゲームファンやスーパーヒーロー好きの方々が参考になる情報を提供しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/dispatch-game-review-adhoc/",
-        "date": "2026-01-28",
-        "is_translated": true
       },
       {
         "title": "【『ファーミングシミュレーター：シグネチャーエディション』紹介。Nintendo Switch ...：レビュー】",
@@ -1869,8 +1742,21 @@
         "url": "https://www.rockpapershotgun.com/mewgenics-review-a-roguelite-where-sacrificial-arse-maggots-and-frightful-defecation-are-the-keys-to-success",
         "date": "2026-02-06",
         "is_translated": true
+      },
+      {
+        "title": "【“スコット・ピルグリム”の新作2Dアクションアドベンチャー「Scott Pilgrim EX」...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Scott Pilgrim EX」のレビュー記事では、この2Dアクションアドベンチャーゲームの評価ポイントとして、魅力的なグラフィックや快適な操作感、そして豊富なキャラクターを挙げています。また、ゲームの内容は、ファンが求める要素を盛り込んだものであり、ストーリーやサウンドトラックも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163961.html",
+        "date": "2026-02-07",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-06T21:30:52.209745"
+  "last_updated": "2026-02-07T01:55:07.522571"
 }
