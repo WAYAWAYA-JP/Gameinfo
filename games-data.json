@@ -158,6 +158,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/garphillgameexpansions_bundle",
         "date": "2026-02-06"
+      },
+      {
+        "title": "February 2026 Humble Choice",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、2026年2月のHumble Choiceバンドルが販売中です。このバンドルには、代表的なタイトルとして「Dead Cells」、「Hyper Light Drifter」、「Cuphead」などが含まれており、ゲームジャンルはアクションやアドベンチャーなど多様です。大まかな価格帯は10ドルから20ドル程度で、バンドルの内容や価格は変動することがあります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/february_2026_choice",
+        "date": "2026-02-07"
+      },
+      {
+        "title": "Artsy Pixel Puzzles Bundle 5",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Artsy Pixel Puzzles Bundle 5というバンドルが販売中です。このバンドルには、グラフィックやゲーム性が豊かなパズルゲームが多数収録されています。主要タイトルとしては、グラフィックが美しい「Golf Peaks」や、挑戦的な「Pipe Push Paradise」、そしてユニークな「The Swapper」などが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/artsy-pixel-puzzles5-bundle",
+        "date": "2026-02-07"
       }
     ],
     "sale": [
@@ -543,6 +567,18 @@
         "discount": "-100%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/arabian-gulf/info/",
+        "date": "2026-02-07"
+      },
+      {
+        "title": "Magellania",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Magellaniaは、 Variousで現在100%割引のセール中です。このゲームは、探索アドベンチャーのジャンルに属し、独自の世界観と魅力的なストーリーが特徴です。セール期間中は無料でプレイすることができ、多くのユーザーから高い評価を得ています。また、ゲームの評価は非常に高い人気度を誇り、プレイヤーから非常に好評です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/magellania/info/",
         "date": "2026-02-07"
       }
     ],
@@ -1755,8 +1791,21 @@
         "url": "https://doope.jp/2026/02163961.html",
         "date": "2026-02-07",
         "is_translated": false
+      },
+      {
+        "title": "【コスプレ】『パルワールド』ブースに美女コスプレイヤーが降臨！ゾーイ、サヤ、リリィがスタイル抜群で美しすぎた【台北ゲームショウ2026】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "台北ゲームショウ2026のレビュー記事では、パルワールドのブースが美女コスプレイヤーに占領された様子が紹介されています。ゾーイ、サヤ、リリィなどのキャラクターを演じたコスプレイヤーたちはスタイル抜群で美しすぎる姿を見せていました。この記事はゲームファンやコスプレ愛好家に特にオススメできると思います。記事では、イベントの雰囲気やコスプレイヤーの姿を通じて、ゲーム文化の豊かさを感じることができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/07/177098.html",
+        "date": "2026-02-07",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-07T01:55:07.522571"
+  "last_updated": "2026-02-07T09:30:07.548047"
 }
