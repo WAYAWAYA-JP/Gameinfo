@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/magellania/info/",
         "date": "2026-02-07"
+      },
+      {
+        "title": "ARMORED CORE VI FIRES OF RUBICON",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ARMORED CORE VI FIRES OF RUBICONがVariousで51%オフのセール中です。このゲームはメカアクションゲームの代表的なタイトルであり、プレイヤーは独自のカスタムメカを操作して様々なミッションを遂行します。現在の価格は割引前の価格より51%割引されており、非常に魅力的です。このゲームは高い評価と人気度を誇り、メカアクションゲームファンには必見のタイトルとなっています。",
+        "price": "$29.69",
+        "originalPrice": "",
+        "discount": "-51%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/armored-core-vi-fires-of-rubicon/info/",
+        "date": "2026-02-07"
       }
     ],
     "review": [
@@ -1830,8 +1842,21 @@
         "url": "https://automaton-media.com/articles/newsjp/nioh-3-418002-20260207/",
         "date": "2026-02-07",
         "is_translated": false
+      },
+      {
+        "title": "【スクウェア・エニックス、2023 年の最高のホラー ミステリー ゲームの 1 つである Par...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "スクウェア・エニックスの2023年の最高のホラー ミステリー ゲームの1つであるPar...のレビュー記事があります。このゲームは、ユーザーからの評価ポイントとして、恐怖心を引き出すストーリーやグラフィック、そしてプレイヤーの選択によって変わる複数のエンディングが評価されています。また、レビューの内容概要として、ゲームの世界観やキャラクターの深み、そしてゲーム性の面白さが取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/square-enix-announce-paranormasight-the-mermaids-curse-sequel-to-one-of-2023s-best-horror-mystery-games",
+        "date": "2026-02-06",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-07T13:03:32.111095"
+  "last_updated": "2026-02-07T21:27:23.077012"
 }
