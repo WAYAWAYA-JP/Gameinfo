@@ -28,18 +28,6 @@
     ],
     "bundle": [
       {
-        "title": "Nacon Racing Collection 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Nacon Racing Collection 2026というバンドルが販売中です。このバンドルには、「WRC 10」、「RiMS Racing」、「TT Isle of Man Ride on the Edge 2」などのレースゲームが含まれています。レースゲームファン向けのコレクションですので、レースゲームジャンルが好きな方はぜひチェックしてみてください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/naconracingcollection_bundle",
-        "date": "2026-01-29"
-      },
-      {
         "title": "HHIndie Corp Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -185,54 +173,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Dead Cells",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲームであるDead Cellsが、現在59%オフのセール中です。このゲームは、ローグライクの要素と美しいグラフィックが特徴で、非常に人気があり、高い評価をされています。セール期間中は、通常価格よりも大幅に安くなっているので、興味がある方は今がチャンスです。",
-        "price": "$12.29",
-        "originalPrice": "",
-        "discount": "-59%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dead-cells/info/",
-        "date": "2026-02-01"
-      },
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストがSteamで50%オフのセール中です。このオープンワールドアクションゲームは、高い自由度と豊富なゲームプレイが特徴です。通常価格より半額での購入が可能で、大幅な割引となります。グランド・セフト・オートシリーズは人気であり、高い評価を受けています。多くのユーザーから高い評価を得ているため、セール中のこの機会にぜひお試しください。",
-        "price": "¥2,190",
-        "originalPrice": "¥4,380",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-02-01"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "オープンワールドアクションアドベンチャーゲームの『Red Dead Redemption 2』が現在、75%割引でセール中です。このゲームは、広大なオープンワールドを自由に探索できることが特徴で、ストーリーやグラフィックが高い評価を受けています。多くのゲーマーから高い人気を博しており、セール中のこの機会にぜひ一度プレイしてみてください。",
-        "price": "$14.99",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-02-01"
-      },
-      {
-        "title": "DOOM: The Dark Ages",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションパックされたファーストパーソン・シューティングゲームであるDOOM: The Dark Agesが、現在53%オフでセール中です。このゲームは、高速なアクションと激しい戦闘が特徴で、ファンから高い評価を受けています。人気度も高く、多くのプレイヤーに支持されています。セール期間中は、通常価格よりも大幅に安くなっているため、興味のある方はお見逃しなくください。",
-        "price": "$32.90",
-        "originalPrice": "",
-        "discount": "-53%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/doom-the-dark-ages/info/",
-        "date": "2026-02-01"
-      },
       {
         "title": "Forza Horizon 5",
         "platform": "Steam",
@@ -596,97 +536,6 @@
     ],
     "review": [
       {
-        "title": "【『仁王3』先行プレイ感想。チーニンが送る戦国死にゲー最新作は、自由度も過去作の知見も山盛り。ス...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『仁王3』のレビュー記事では、先行プレイの感想が紹介されています。このゲームは、自由度が高く、過去作の知見も多く盛り込まれており、戦国死にゲーファンの必見と言える作品です。特に、ゲームの自由度やストーリーの深み、過去作からの継承度などが評価ポイントになっているようです。戦国死にゲーに興味のある人や、過去作をプレイしたことがある人に勧められます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/nioh-3-20260129-412971/",
-        "date": "2026-01-29",
-        "is_translated": false
-      },
-      {
-        "title": "【キャンピングカーでオープンワールド環境を探索する「Outbound」のSteamデモがアナウン...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Outbound」のSteamデモのレビュー記事では、オープンワールド環境をキャンピングカーで探索するゲームの評価ポイントを紹介しています。このゲームの評価ポイントとして、自由に探索できる広大な環境や、ユニークなキャンピングカーのカスタマイズがあげられます。また、レビューでは、ゲームのグラフィックやサウンドトラックの美しさも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163683.html",
-        "date": "2026-01-29",
-        "is_translated": false
-      },
-      {
-        "title": "【『ファーミングシミュレーター：シグネチャーエディション』紹介。Nintendo Switch ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ファーミングシミュレーター：シグネチャーエディション』は、Nintendo Switchでプレイできる農業シミュレーションゲームです。このゲームの評価ポイントは、グラフィックの美しさ、ゲームプレイの奥深さ、そしてリラックスした雰囲気です。レビューの内容概要としては、ゲームの操作性の良さ、農業の実践的かつ楽しい体験、そしてゲームの長期的な魅力があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20250129-414305/",
-        "date": "2026-01-29",
-        "is_translated": false
-      },
-      {
-        "title": "【高評価工場構築ローグライト『ShapeHero Factory』最新アプデで“最高効率工場づく...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "この記事では、ローグライトゲーム『ShapeHero Factory』の最新アップデートを紹介しています。このゲームは、高評価を受けており、工場を効率的に構築することが楽しめます。レビューでは、新しいアップデートの内容や、ゲームの特徴、そして工場を最も効率的に運営するためのヒントなどが紹介されています。ローグライトゲームや工場構築ゲームが好きな人には特におすすめの記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/shapehero-factory-20260129-414232/",
-        "date": "2026-01-29",
-        "is_translated": false
-      },
-      {
-        "title": "【『モンスターハンターワイルズ』Steam版、久しぶりに「大量の好評レビュー」集まる。“最適化ア...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "モンスターハンターワイルズのSteam版についてのレビュー記事があります。この記事では、ゲームの最適化アプデにより、久しぶりに大量の好評レビューが集まっていることが述べられています。具体的には、ゲームのパフォーマンスの向上、グラフィックの改善、バグの修正などが評価ポイントとして挙げられています。このレビューは。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260129-414190/",
-        "date": "2026-01-29",
-        "is_translated": false
-      },
-      {
-        "title": "【「ULTROS」や「Subnautica: Below Zero」、「エースコンバット7 スカ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、人気ゲーム「ULTROS」、「Subnautica: Below Zero」、「エースコンバット7 スカイズ・アンノウン」の魅力を紹介しています。評価ポイントとしては、グラフィックの質やゲームプレイの奥深さ、ストーリーの面白さなどがあげられます。特に「ULTROS」の独自のゲームシステムや「Subnautica: Below Zero」の美しい水中世界が注目されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163690.html",
-        "date": "2026-01-29",
-        "is_translated": false
-      },
-      {
-        "title": "【『凶乱マカイズム』は“アクション版のディスガイア”だった!? 果てしない強化・育成と軽快アクシ...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "『凶乱マカイズム』はアクションゲームの要素とディスガイアシリーズのようなキャラクターの強化・育成システムを組み合わせた作品です。このゲームは軽快なアクションと果てしない強化・育成のシステムを特徴としており、ディスガイアシリーズのファンにもおすすめです。また、ゲームの評価ポイントとしては、キャラクターのカスタマイズの自由度が高く、プレイヤーの創造性を発揮できる点や。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/01/29/176713.html",
-        "date": "2026-01-29",
-        "is_translated": false
-      },
-      {
         "title": "【プレイヤーキャラクターやロアのアップデート、ホラーのリワークを含む「Phasmophobia」...】",
         "platform": "doope!",
         "type": "review",
@@ -698,32 +547,6 @@
         "url": "https://doope.jp/2026/01163731.html",
         "date": "2026-01-30",
         "is_translated": false
-      },
-      {
-        "title": "【ディアブロを生んだ最重要人物の1人Erich Schaefer氏が開発を率いる新作アクションR...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム開発の第一人者であるErich Schaefer氏が手がけた新作アクションRPGについて取り上げています。ゲームの評価ポイントとしては、スムーズな操作性や豊富なキャラクターのバリエーションが高く評価されています。また、ゲームの世界観やストーリーも、ユーザーから高い評価を得ています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163703.html",
-        "date": "2026-01-29",
-        "is_translated": false
-      },
-      {
-        "title": "【Turtle Beach Vulcan II TKL ゲーミングキーボードのレビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Turtle Beach Vulcan II TKL ゲーミングキーボードのレビュー記事では、キーボードの評価ポイントとしてデザインと操作性、パフォーマンスと耐久性の3点が取り上げられています。デザインと操作性については、キー配置とキーボードのサイズが優れている点が評価されており、ゲームプレイの際にスムーズに操作できることが強調されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/turtle-beach-vulcan-ii-tkl-gaming-keyboard-review",
-        "date": "2026-01-29",
-        "is_translated": true
       },
       {
         "title": "【『怪獣８号 THE GAME』は今後、どうなる？ガチプレイヤーがプロデューサーに訊いた。ハーフ...】",
@@ -1858,5 +1681,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-07T21:27:23.077012"
+  "last_updated": "2026-02-08T02:28:21.543059"
 }
