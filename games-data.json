@@ -544,6 +544,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/armored-core-vi-fires-of-rubicon/info/",
         "date": "2026-02-07"
+      },
+      {
+        "title": "ホグワーツ・レガシー",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ホグワーツ・レガシーは、アクションアドベンチャーゲームであり、ハリー・ポッターの世界を舞台に魔法使いの学園生活を体験できるゲームです。このゲームは、オープンワールドの探索や魔法の使い方、キャラクターの育成など、多彩な要素を備えています。現在、Steamで85%オフのセール中であり、通常価格よりも大幅に安く購入できます。",
+        "price": "¥1,316",
+        "originalPrice": "¥8,778",
+        "discount": "85% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/990080",
+        "date": "2026-02-08"
+      },
+      {
+        "title": "ARC Raiders",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ARC Raidersは、協力プレイを重視したアクションゲームで、プレイヤーがチームを組んで強大な敵と戦います。現在、Variousで15%割引のキャンペーン中で、ファン待望のタイミングです。このゲームは、ダイナミックな戦闘システムと美しいグラフィックで高く評価されており、プレイヤーからの評価は非常に良好です。人気度も高く、ゲームコミュニティでは話題になっています。",
+        "price": "$33.99",
+        "originalPrice": "",
+        "discount": "-15%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/arc-raiders/info/",
+        "date": "2026-02-08"
       }
     ],
     "review": [
@@ -1745,5 +1769,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-08T13:04:54.847715"
+  "last_updated": "2026-02-08T21:27:17.881738"
 }
