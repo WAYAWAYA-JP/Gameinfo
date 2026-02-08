@@ -170,6 +170,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/artsy-pixel-puzzles5-bundle",
         "date": "2026-02-07"
+      },
+      {
+        "title": "Nacon Racing Collection 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Nacon Racing Collection 2026というバンドルが販売中です。このバンドルには、WRC Generations、Test Drive Unlimited Solar Crown、TT Isle of Man Ride on the Edge 3などの主要タイトルが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/naconracingcollection_bundle",
+        "date": "2026-02-08"
       }
     ],
     "sale": [
@@ -1678,8 +1690,47 @@
         "url": "https://www.rockpapershotgun.com/square-enix-announce-paranormasight-the-mermaids-curse-sequel-to-one-of-2023s-best-horror-mystery-games",
         "date": "2026-02-06",
         "is_translated": true
+      },
+      {
+        "title": "【『アークナイツ：エンドフィールド』は学問であり模試であり生活破壊。『仁王3』オープンフィールド...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「アークナイツ：エンドフィールド」と「仁王3」のオープンフィールドを比較しながら、レビュアーがどのように評価したのかを紹介しています。ゲームの評価ポイントとして、オープンフィールドの広さや自由度、ストーリーやキャラクターの魅力が挙げられます。また、レビュアーは「アークナイツ：エンドフィールド」に対して、学問や模試のように難しいがやりがいがあると評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260208-418282/",
+        "date": "2026-02-08",
+        "is_translated": false
+      },
+      {
+        "title": "【Steamセールで、ケモミミ喫茶店ゲーム『けものティータイム』が1190円。高評価メトロイドヴ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ケモミミ喫茶店を舞台にしたゲーム『けものティータイム』がSteamセールで1190円で購入できることが分かりました。このゲームは、ユーザーから高評価を得ており、特にゲームシステムやグラフィックの美しさが評価されています。また、ゲームの雰囲気やキャラクターの魅力も高く評価されており、ケモミミファンやカフェゲームを楽しむ人に特にお勧めです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260208-418040/",
+        "date": "2026-02-08",
+        "is_translated": false
+      },
+      {
+        "title": "【『真・三國無双 ORIGINS』張角・董卓・袁紹・呂布の中で、プレイヤーが「主（あるじ）」に選...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "真・三國無双 ORIGINSのレビュー記事では、プレイヤーが主である張角・董卓・袁紹・呂布の中から選ぶことができる点が評価されています。ゲームの魅力は、各キャラクターの独自のストーリーや能力を体験できることです。また、ゲームのグラフィックやサウンドトラックも高く評価されています。このレビューは、真・三國無双シリーズのファンやアクションゲームが好きな人にとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/08/177113.html",
+        "date": "2026-02-08",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-08T02:28:21.543059"
+  "last_updated": "2026-02-08T09:29:50.056587"
 }
