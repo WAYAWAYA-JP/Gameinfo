@@ -532,6 +532,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/arc-raiders/info/",
         "date": "2026-02-08"
+      },
+      {
+        "title": "Starfield",
+        "platform": "Various",
+        "type": "sale",
+        "description": "人気のオープンワールド宇宙探索ゲームであるStarfieldが、現在Variousで48%の割引セール中です。このゲームは、自由に宇宙を探索できる広大な世界と複雑なストーリーが特徴です。多くのユーザーから高評価を得ており、幅広い年齢層からの支持を集めています。セール価格で入手することで、宇宙の冒険をよりお得に楽しむことができます。",
+        "price": "$36.11",
+        "originalPrice": "",
+        "discount": "-48%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/starfield/info/",
+        "date": "2026-02-09"
+      },
+      {
+        "title": "Manor Lords",
+        "platform": "Various",
+        "type": "sale",
+        "description": "中世を舞台にした都市建設シミュレーションゲーム「Manor Lords」が現在、46%割引で販売中です。このゲームは、プレイヤーが中世の村を建設し、管理することを目的とした、シミュレーションゲームの要素とストラテジー要素を組み合わせたユニークなゲームです。多くのユーザーから高評価を獲得しており、都市建設シミュレーションゲームファンにはお勧めのタイトルです。",
+        "price": "$21.74",
+        "originalPrice": "",
+        "discount": "-46%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/manor-lords/info/",
+        "date": "2026-02-09"
       }
     ],
     "review": [
@@ -1626,8 +1650,73 @@
         "url": "https://doope.jp/2026/02163966.html",
         "date": "2026-02-08",
         "is_translated": false
+      },
+      {
+        "title": "【元任天堂開発者の高評価ぷにぷにバトルゲーム『Jelly Troops』初大型アプデ到来。AI対...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "元任天堂開発者が高く評価している『Jelly Troops』は、プレイヤー同士の対戦やAIとの戦いで楽しみが広がるバトルゲームです。このゲームの評価ポイントとしては、簡単な操作で複雑な戦略が楽しめること、対戦モードで友達と一緒に遊ぶことができること、そしてAIの難易度が適切に調整されていることが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/jelly-troops-20260209-418584/",
+        "date": "2026-02-09",
+        "is_translated": false
+      },
+      {
+        "title": "【不気味ほっこりお料理ゲーム『Creature Kitchen』Steamで「100%好評」のま...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Creature Kitchenは、不気味でほっこりするお料理ゲームで、Steamでは「100%好評」と評価されています。このゲームの評価ポイントとしては、ユニークなゲーム性や愛らしいキャラクターが挙げられます。レビューの内容概要としては、ゲームの雰囲気やサウンドトラックの魅力が語られています。対象読者は、不気味な要素を楽しめる人や、リラックスできるゲームを探している人に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260209-418544/",
+        "date": "2026-02-09",
+        "is_translated": false
+      },
+      {
+        "title": "【「圧倒的に好評」料理ローグライク『Omelet You Cook（オムレツにそれ入れる？）』正...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「Omelet You Cook（オムレツにそれ入れる？）」は、圧倒的に好評を博している料理ローグライクゲームです。このゲームの評価ポイントとしては、ユニークな料理システムや、挑戦の度に変化するマップ、そして奥深いストーリーが挙げられます。レビューの内容概要としては、ゲームの面白さやリプレイ性の高さが高く評価されています。また、ローグライクゲームや料理ゲームのファンには特におすすめできるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/omelet-you-cook-20260209-418502/",
+        "date": "2026-02-09",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料『モンスターハンターアウトランダーズ』の「大剣」にさっそく熱い注目。“ブシドー大...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "モンスターハンターアウトランダーズは基本プレイ無料のゲームであり、大剣に熱い注目が集まっています。ゲームの評価ポイントとしては、大剣の操作性や攻撃力、またコラボアイテムの充実度があります。レビューの内容概要としては、大剣の使い勝手やゲーム全体のバランスが良く、コラボアイテムも充実していることが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260209-418489/",
+        "date": "2026-02-09",
+        "is_translated": false
+      },
+      {
+        "title": "【パン屋経営ダンジョン探索アクションRPG『Aeruta（アルタ）』はどんどん面白くなり今こそ遊...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Aeruta（アルタ）』はパン屋経営とダンジョン探索を融合させたアクションRPGです。このゲームの評価ポイントとして、ユニークなゲームシステムやキャラクターの成長要素が挙げられます。レビューの内容概要としては、パン屋経営の面白さやダンジョン探索の奥深さが高く評価されています。対象読者としては、アクションRPGやダンジョン探索ゲームを好む人向けのゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/aeruta-20260207-418060/",
+        "date": "2026-02-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-09T02:06:20.446246"
+  "last_updated": "2026-02-09T10:03:08.855514"
 }
