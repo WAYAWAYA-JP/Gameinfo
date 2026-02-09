@@ -186,42 +186,6 @@
     ],
     "sale": [
       {
-        "title": "Forza Horizon 5",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "レーシングゲームの『Forza Horizon 5』がSteamで50%オフのセール中です。このゲームは、オープンワールドを自由に駆け回れる特徴があり、車種も豊富で、高度なグラフィック表現が楽しめます。現在の価格ではかなりお買い得なので、レーシングゲームファンにはおすすめです。評価も非常に高く、人気度も高まっています。",
-        "price": "¥3,795",
-        "originalPrice": "¥7,590",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1551360",
-        "date": "2026-02-02"
-      },
-      {
-        "title": "SunBlockers",
-        "platform": "Various",
-        "type": "sale",
-        "description": "パズルゲームの「SunBlockers」が現在、Variousで100%割引のセール中です。このゲームは、ブロックを並べ替えて日光を遮るようにする、ユニークで面白いゲームです。プレイヤーは、日光をブロックするために、色々なブロックを賢く使わなければなりません。非常に人気があり、高評価のゲームで、多くのプレイヤーに愛されています。セール中のこのゲームは、絶対に手に取っておきたいタイトルです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/sunblockers/info/",
-        "date": "2026-02-02"
-      },
-      {
-        "title": "Atomic Heart",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Atomic Heartは、ユニークな世界観とアクション要素が特徴的なFPSゲームです。現在、Variousで67%の割引セール中で、通常価格より大幅に安くなっています。評価も高く、多くのユーザーから人気を博しており、FPSファンには必見の作品です。",
-        "price": "$19.99",
-        "originalPrice": "",
-        "discount": "-67%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/atomic-heart/info/",
-        "date": "2026-02-02"
-      },
-      {
         "title": "FINAL FANTASY VII REBIRTH",
         "platform": "Steam",
         "type": "sale",
@@ -572,136 +536,6 @@
     ],
     "review": [
       {
-        "title": "【プレイヤーキャラクターやロアのアップデート、ホラーのリワークを含む「Phasmophobia」...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、プレイヤーキャラクターやロアのアップデート、ホラーのリワークを含む「Phasmophobia」の評価ポイントを紹介しています。ゲームの恐怖要素やグラフィックの質、そしてアップデートによる変更点が注目されています。ホラーゲームファンや新規プレイヤーにとって、このレビューは「Phasmophobia」の魅力と遊び方を理解するのに役立つでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163731.html",
-        "date": "2026-01-30",
-        "is_translated": false
-      },
-      {
-        "title": "【『怪獣８号 THE GAME』は今後、どうなる？ガチプレイヤーがプロデューサーに訊いた。ハーフ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『怪獣８号 THE GAME』の今後の展開について、ガチプレイヤーがプロデューサーに直撃インタビューを行ったレビュー記事です。この記事では、ゲームの評価ポイントとしてグラフィックやゲーム性、ストーリーの魅力を挙げており、特にストーリーが深く感動できる点が高く評価されています。また、対象読者としては、このゲームをプレイしたことがある人や。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/8-20260130-414490/",
-        "date": "2026-01-30",
-        "is_translated": false
-      },
-      {
-        "title": "【“昼と夜で激変”クラフト系サバイバルホラー『アイヘイト・ディス・プレイス』ついに発売。昼はクラ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "クラフト系サバイバルホラーの『アイヘイト・ディス・プレイス』のレビュー記事では、ゲームの評価ポイントとして、昼と夜で激変するゲームの世界観や、クラフト要素の充実度が高く評価されています。また、レビューの内容概要として、ゲームのグラフィックやサウンドデザインの高さや、サバイバル要素の難易度が適切であると述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/horror-20260130-414536/",
-        "date": "2026-01-30",
-        "is_translated": false
-      },
-      {
-        "title": "【協力プレイ対応ローグライクACT『Neon Abyss 2』“盗み”能力もち新キャラ追加の大型...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "協力プレイ対応のローグライクアクションゲーム「Neon Abyss 2」のレビュー記事では、ゲームの評価ポイントとしてグラフィックのクオリティやサウンドトラックの印象的な演出が高く評価されています。また、新しく追加されたキャラクターの「盗み」能力がゲーム性を高めており、プレイヤーにとって新たな戦略の幅を拡大させています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/coop-roguelike-20260130-414684/",
-        "date": "2026-01-30",
-        "is_translated": false
-      },
-      {
-        "title": "【『ゼンゼロ』NPCか、プレイアブルか？今後の実装を期待させる4人の新キャラクターがチラ見せ】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "本記事は、新作ゲーム「ゼンゼロ」のレビュー記事です。同ゲームでは、4人の新キャラクターが紹介されており、その中にはNPCかプレイアブルキャラクターかがわかりませんでしたが、今後の実装に期待が持てます。ゲームの評価ポイントとしては、グラフィックの美しさや新キャラクターの導入が挙げられます。また、ゲームシステムの改善や物語の展開もレビューの内容に含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/01/30/176767.html",
-        "date": "2026-01-30",
-        "is_translated": false
-      },
-      {
-        "title": "【傑作Sci-Fi CRPG「Citizen Sleeper 2: Starward Vecto...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Citizen Sleeper 2: Starward Vector」のレビュー記事では、この傑作Sci-Fi CRPGが高い評価を受ける理由を紹介しています。評価ポイントとしては、ゲームのストーリーや世界観の深さ、キャラクターの個性や成長システムの緻密さが挙げられます。さらに、レビューでは、プレイヤーが自由に選択できる多様なルートや、ゲーム内の政治的・社会的なテーマの描写にも触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163711.html",
-        "date": "2026-01-30",
-        "is_translated": false
-      },
-      {
-        "title": "【2026年内の実装を予定しているコンテンツをまとめた早期アクセス版「ENDLESS Legen...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「ENDLESS Legend」は、2026年内の実装を予定しているコンテンツをまとめた早期アクセス版です。このゲームの評価ポイントとしては、豊富なキャラクターのカスタマイズ、広大なマップの探索、戦略的なバトルシステムが挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの高品質、インターフェイスの使い勝手の良さなどが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163743.html",
-        "date": "2026-01-30",
-        "is_translated": false
-      },
-      {
-        "title": "【Turtle Beach Burst II Pro ゲーミングマウスのレビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Turtle Beach Burst II Pro ゲーミングマウスのレビュー記事では、ゲーミングマウスの評価ポイントとして、精度と反応速度、耐久性などが評価されています。この記事では、マウスのデザインと操作性、ゲームでの実践的な使用感についてもレビューされています。ゲーマー向けの情報を探している方に特におすすめの記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/turtle-beach-burst-ii-pro-gaming-mouse-review",
-        "date": "2026-01-30",
-        "is_translated": true
-      },
-      {
-        "title": "【呪術廻戦 52 話レビュー: 映画のような傑作】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "「呪術廻戦 52 話レビュー: 映画のような傑作」というレビュー記事では、人気漫画作品「呪術廻戦」の52話が映画のようなクオリティを持っていることを高く評価しています。このレビューでは、ストーリーの展開やキャラクターの描写が映画的な感覚を醸し出している点や、作画の細かさが作品の世界観をよりリアルに感じさせている点などが指摘されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/jujutsu-kaisen-season-3-episode-52-passion-anime-rotoscoped-sequence/",
-        "date": "2026-01-30",
-        "is_translated": true
-      },
-      {
-        "title": "【ハイガードのレビュー: 1週間後には可能性が無駄になったように感じる】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "「ハイガードのレビュー: 1週間後には可能性が無駄になったように感じる」のレビュー記事では、ゲームの評価ポイントとして、初期の面白さと新しい要素の導入が評価されています。しかし、1週間ほどプレイした後には、ゲームの可能性が無駄になったように感じる点が指摘されています。このレビューは、ゲームの長期的な楽しみ方や、新しい要素の継続的な追加が重要であることを示唆しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/highguard-review/",
-        "date": "2026-01-30",
-        "is_translated": true
-      },
-      {
         "title": "【長寿MMO“RuneScape”のクラフト系オープンワールドサバイバルスピンオフ「RuneSc...：レビュー】",
         "platform": "doope!",
         "type": "review",
@@ -713,19 +547,6 @@
         "url": "https://doope.jp/2026/01163713.html",
         "date": "2026-01-31",
         "is_translated": false
-      },
-      {
-        "title": "【シェルターレビュー：ジェイソン・ステイサムが再び活躍】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "シェルターレビューはジェイソン・ステイサムが主演するアクション映画で、映画の評価ポイントとしてはステイサムの演技が高く評価されています。また、レビューの内容概要としては、映画のストーリーが面白く、視覚的な効果が素晴らしい点が挙げられます。さらに、映画のパースがスリリングで、観客を引き込む力がある点も評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/shelter-review-jason-statham/",
-        "date": "2026-01-30",
-        "is_translated": true
       },
       {
         "title": "【Havenを生んだThe Game Bakersの登山シム「Cairn」のプレイヤー数が発売か...】",
@@ -1766,8 +1587,47 @@
         "url": "https://www.polygon.com/tamons-b-side-streaming-crunchyroll-jujutsu-kaisen-kpop-demon-hunter/",
         "date": "2026-02-08",
         "is_translated": true
+      },
+      {
+        "title": "【「Fallout 76」のクロスプレイは現在も検討中、Bethesda Game Studio...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Bethesda Game Studioの最新ゲーム「Fallout 76」のクロスプレイについては現在も検討中だということがわかりました。このゲームはオンラインモードが特徴で、プレイヤー同士の交流が重要になっています。ゲームの評価ポイントとしては、グラフィックの美しさ、ストーリーの深さ、そしてオンライン機能の充実度があげられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163940.html",
+        "date": "2026-02-09",
+        "is_translated": false
+      },
+      {
+        "title": "【Diablo系ダーク西部劇アクションRPG「The Dark West」が正式アナウンス、ゲー...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "The Dark Westは、ダークな西部劇の世界を舞台にしたアクションRPGです。このゲームは、Diabloシリーズのファンにもおすすめです。ゲームの評価ポイントとしては、独自の世界観、豊富なキャラクターカスタマイズ、そして激しいアクションが楽しみな点です。レビューの内容概要としては、ゲームのグラフィックやサウンドデザインが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163945.html",
+        "date": "2026-02-09",
+        "is_translated": false
+      },
+      {
+        "title": "【中世騎士の戦いを描くローファンタジーアクションRPG「Knight’s Path」のウィッシュ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "中世騎士の戦いを描くローファンタジーアクションRPG「Knight’s Path」のレビュー記事では、ゲームの評価ポイントとして、戦闘システムのスムーズさやストーリーの深みが高く評価されています。また、レビューの内容概要として、ゲームのグラフィックやサウンドトラックの質も高く評価されています。このレビュー記事は、アクションRPGやローファンタジーに興味のある読者に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163966.html",
+        "date": "2026-02-08",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-08T21:27:17.881738"
+  "last_updated": "2026-02-09T02:06:20.446246"
 }
