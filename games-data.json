@@ -592,6 +592,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
         "date": "2026-02-09"
+      },
+      {
+        "title": "Street Fighter 6",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気格闘ゲームのStreet Fighter 6がSteamで50%オフのセール中です。このゲームは、シリーズの最新作として高い評価を受けており、格闘ゲームファンの間で大きな人気を誇っています。シンプルながら深い戦闘システムと豊富なキャラクター選択が特徴で、プレイヤーはさまざまな戦闘スタイルを楽しみます。",
+        "price": "¥2,495",
+        "originalPrice": "¥4,990",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1364780",
+        "date": "2026-02-09"
+      },
+      {
+        "title": "Marvel's Spider-Man: Miles Morales",
+        "platform": "Various",
+        "type": "sale",
+        "description": "人気のアクションアドベンチャーゲーム「Marvel's Spider-Man: Miles Morales」が、64%の割引で販売中です。このゲームは、スパイダーマンの新しい主人公マイルズ・モラレスを操作して、ニューヨーク市を守るためのアクション満載のストーリーを体験できます。高い評価と人気度を誇るこのゲームは、スパイダーマンのファンにもお勧めです。",
+        "price": "$17.99",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/marvels-spider-man-miles-morales/info/",
+        "date": "2026-02-09"
+      },
+      {
+        "title": "UNCHARTED™: Legacy of Thieves Collection",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるUNCHARTED: Legacy of Thieves Collectionが現在、70%割引のセール中です。このゲームは、グラフィックとストーリーの高さで評価され、人気度も高く、ファンから高い支持を受けています。セール中の価格で購入することができます。",
+        "price": "$14.81",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/uncharted-legacy-of-thieves-collection/info/",
+        "date": "2026-02-09"
       }
     ],
     "review": [
@@ -1764,8 +1800,60 @@
         "url": "https://automaton-media.com/articles/newsjp/arknights-endfield-20260209-418607/",
         "date": "2026-02-09",
         "is_translated": false
+      },
+      {
+        "title": "【遺伝子組み替えネコ育成ローグライク「Mewgenics」のアニメーショントレーラーがお披露目、...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Mewgenics」のレビュー記事では、この遺伝子組み替えネコ育成ローグライクゲームの評価ポイントとして、ユニークなゲームシステムやカスタマイズ要素が高く評価されています。また、ゲームのアニメーショントレーラーも公開されており、ゲームの雰囲気を感じることができます。このレビュー記事は、ローグライクゲームやネコが好きな人にとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163984.html",
+        "date": "2026-02-09",
+        "is_translated": false
+      },
+      {
+        "title": "【珊瑚礁と海洋生態系の回復を描く海底都市建設シム「Life Below」のプレイテストが本日開幕】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "海底都市建設シム「Life Below」のプレイテストレビュー記事では、ゲームの評価ポイントとして、珊瑚礁と海洋生態系の回復を描くグラフィックの美しさや、都市建設の自由度が高く楽しめる点が挙げられます。また、レビューの内容概要として、ゲームのストーリーが海洋の保護に焦点を当てていることや、プレイヤーの選択が海洋生態系に影響を与えることが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163983.html",
+        "date": "2026-02-09",
+        "is_translated": false
+      },
+      {
+        "title": "【Team Ninjaは、神社のチェックポイントで祈るとセーブが破損する恐ろしい「非常にまれな」...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、Team Ninjaのゲームについて評価しています。評価ポイントとして、ゲームのセーブシステムが挙げられます。神社のチェックポイントで祈るとセーブが破損するという不具合が発生することがあり、非常にまれなバグですが、プレイヤーにとっては大きなストレスとなります。さらに、レビューではゲームのグラフィックやサウンドトラックも評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/team-ninja-fix-a-terrifying-very-rare-nioh-3-bug-that-corrupts-your-save-when-you-pray-at-shrine-checkpoints",
+        "date": "2026-02-09",
+        "is_translated": true
+      },
+      {
+        "title": "【『龍が如く 極 3 & Dark Ties』レビュー - 独自の厳しいつながりによって定義され...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "『龍が如く 極 3 & Dark Ties』のレビュー記事では、このゲームの独特なストーリーやキャラクターの深みが評価ポイントとなっています。具体的には、ゲームの世界観やキャラクターの関係性が豊かで、プレイヤーを引き込むことができる点が高く評価されています。また、ゲームのグラフィックやサウンドトラックも高品質で、ゲーム全体の雰囲気を高めています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/yakuza-kiwami-3-dark-ties-review-a-stuffed-remake-defined-by-its-own-grim-connections",
+        "date": "2026-02-09",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-09T13:24:17.911223"
+  "last_updated": "2026-02-09T21:39:27.873730"
 }
