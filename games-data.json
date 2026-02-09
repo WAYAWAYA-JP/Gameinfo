@@ -556,6 +556,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/manor-lords/info/",
         "date": "2026-02-09"
+      },
+      {
+        "title": "Rabbit and Steel",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Rabbit and Steelは、Steamで現在50%オフのセール中です。このゲームは、ユニークなグラフィックと面白いゲームプレイが特徴で、ファンから高く評価されています。一般的に、インディーゲームファンには人気があり、価格も手軽です。セール期間中は通常価格より大幅に安く購入できるので、興味がある方はぜひこの機会にチェックしてみてください。",
+        "price": "¥850",
+        "originalPrice": "¥1,700",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2132850",
+        "date": "2026-02-09"
+      },
+      {
+        "title": "The Elder Scrolls IV: Oblivion Remastered",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Elder Scrolls IV: Oblivion RemasteredがVariousで42%オフのセール中です。このゲームはオープンワールドRPGの傑作で、自由に世界を探索し、さまざまなキャラクターと会話することができます。グラフィックやサウンドがリマスターされており、現代のゲーム機でもプレイに適しています。評価も高く、人気のあるゲームです。",
+        "price": "$28.80",
+        "originalPrice": "",
+        "discount": "-42%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-elder-scrolls-iv-oblivion-remastered/info/",
+        "date": "2026-02-09"
+      },
+      {
+        "title": "Marvel's Spider-Man Remastered",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Marvel's Spider-Man RemasteredがVariousで60%オフのセール中です。このゲームはオープンワールドアクションアドベンチャーで、スパイダーマンの活躍を体験できます。グラフィックやゲームプレイが大幅に改善されたリマスター版です。セール中の価格は大幅に安くなっているので、スパイダーマンのファンやアクションゲームの愛好家にはおすすめです。",
+        "price": "$24.00",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
+        "date": "2026-02-09"
       }
     ],
     "review": [
@@ -1715,8 +1751,21 @@
         "url": "https://automaton-media.com/articles/special-column/aeruta-20260207-418060/",
         "date": "2026-02-09",
         "is_translated": false
+      },
+      {
+        "title": "【『アークナイツ：エンドフィールド』の“思わせぶり閉鎖エリア”、気づいたら開通していた報告続々。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "アークナイツ：エンドフィールドの「思わせぶり閉鎖エリア」についてのレビュー記事では、気づいたら開通していたという報告が寄せられていることが紹介されています。このゲームの評価ポイントとしては、閉鎖エリアの謎や新規開放エリアの探索の面白さが挙げられます。また、レビューの内容としては、閉鎖エリアの解放方法や新規エリアの特徴についての詳細な説明が含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/arknights-endfield-20260209-418607/",
+        "date": "2026-02-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-09T10:03:08.855514"
+  "last_updated": "2026-02-09T13:24:17.911223"
 }
