@@ -592,6 +592,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-last-of-us-part-i/info/",
         "date": "2026-02-10"
+      },
+      {
+        "title": "Horizon Forbidden West Complete Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Horizon Forbidden West Complete Editionは、オープンワールドアクションアドベンチャーゲームで、ロボットと巨大な生物が登場する未来世界を舞台にしているのが特徴です。このゲームは非常に人気があり、評価も高いです。今回はVariousで47%割引されており、通常価格よりも大幅に安い価格で購入できます。",
+        "price": "$31.95",
+        "originalPrice": "",
+        "discount": "-47%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/horizon-forbidden-west-complete-edition/info/",
+        "date": "2026-02-10"
       }
     ],
     "review": [
@@ -1790,8 +1802,60 @@
         "url": "https://doope.jp/2026/02164003.html",
         "date": "2026-02-10",
         "is_translated": false
+      },
+      {
+        "title": "【“『ARC Raiders』のマップと同名の実在ホテル”に、「ロビーで撃たれた」など荒らしレビ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ARC Raidersのマップと同名の実在ホテルのレビュー記事では、ロビーで撃たれたなどの荒らしレビューが話題になっています。この記事では、荒らしレビューの内容と、ホテル側の対応について紹介しています。ゲームファンやホテル利用者の方が参考になる内容です。記事では、レビューの内容概要として、ホテルのマップとARC Raidersのマップの類似点や、荒らしレビューの影響について触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260210-419487/",
+        "date": "2026-02-10",
+        "is_translated": false
+      },
+      {
+        "title": "【Valheimの開発者たちが手がけるダンジョン探索ゲーム「Begraved」の期間限定デモがリ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Valheimの開発チームによる新作ダンジョン探索ゲーム「Begraved」の期間限定デモがリリースされました。このゲームは、独自の探索システムや戦闘メカニクスが特徴です。レビューでは、ゲームのグラフィックやサウンドトラックも高く評価されています。特に、探索システムの自由度や戦闘の緊張感が称賛されています。このゲームは、アクションアドベンチャーやダンジョン探索ゲームのファンに最もお勧めできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02163980.html",
+        "date": "2026-02-10",
+        "is_translated": false
+      },
+      {
+        "title": "【頑張ったらイケメンが褒めてくれる、頑張れない日もイケメンが寄り添ってくれる日常応援アプリ『フル...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、日常の応援が必要な人に向けて、イケメンによる励ましが特徴的なアプリ『フル...』を紹介しています。アプリの評価ポイントとして、イケメンキャラクターのグラフィックや、ユーザーの頑張りを認めてくれるシステムが挙げられます。さらに、レビューでは、イケメンによる寄り添いがストレス解消に効果的であることや、モチベーションを高める効果もあることがわかります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/10/177210.html",
+        "date": "2026-02-10",
+        "is_translated": false
+      },
+      {
+        "title": "【Logitech G Pro X2 スーパーストライク レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Logitech G Pro X2 スーパーストライク レビューでは、ゲーミングマウスの性能やデザインが評価されています。このレビュー記事では、マウスの精密性、耐久性、カスタマイズ性の3点が評価ポイントとして取り上げられています。特に、ゲーミングマウスを探している方や、Logitech Gシリーズのファンにとって、参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/logitech-g-pro-x2-superstrike-review/",
+        "date": "2026-02-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-10T02:23:22.933198"
+  "last_updated": "2026-02-10T10:00:56.453444"
 }
