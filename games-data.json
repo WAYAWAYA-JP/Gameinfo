@@ -186,78 +186,6 @@
     ],
     "sale": [
       {
-        "title": "FINAL FANTASY VII REBIRTH",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY VII REBIRTHがSteamで50% OFFセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、ファイナルファンタシーシリーズの名作として知られています。現在の価格は割引により大幅に下がっており、ファンや新規プレイヤーにとって絶好の購入機会です。FINAL FANTASY VII REBIRTHは。",
-        "price": "¥4,939",
-        "originalPrice": "¥9,878",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2909400",
-        "date": "2026-02-03"
-      },
-      {
-        "title": "Divinity: Original Sin 2 - Definitive Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Divinity: Original Sin 2 - Definitive Editionは、ロールプレイングゲームの名作であり、 Variousで現在75%割引のセール中です。このゲームは、複雑なストーリーと深いキャラクター設定、自由度の高いゲームプレイが特徴です。高評価を受けており、多くのゲーマーから人気を博しています。",
-        "price": "$11.24",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/divinity-original-sin-2-definitive-edition/info/",
-        "date": "2026-02-03"
-      },
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "No Man's Skyは、サイエンスフィクションをテーマにしたアクションアドベンチャーゲームで、宇宙を自由に探索できる特徴があります。現在、Variousで64%割引のセール中であり、通常価格より大幅に安くなっています。このゲームは、ユーザーの評価が高く、人気も高いゲームです。セール中のこの機会に、No Man's Skyを遊んでみるのはいかがでしょうか。",
-        "price": "$21.87",
-        "originalPrice": "",
-        "discount": "-64%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-02-03"
-      },
-      {
-        "title": "Kingdom Come: Deliverance II",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Kingdom Come: Deliverance IIがVariousで55%オフのセール中です。このオープンワールドアクションRPGは、中世ボヘミアを舞台に、自由に冒険できることが特徴です。通常価格より大幅に安くなっています。非常に高い評価を得ており、ユーザーからの人気も高く、ゲームコミュニティでよく話題に上がります。",
-        "price": "$27.19",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
-        "date": "2026-02-03"
-      },
-      {
-        "title": "ドラゴンクエストXI　過ぎ去りし時を求めて S",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ドラゴンクエストXI 過ぎ去りし時を求めては、人気のロールプレイングゲームです。現在、Steamで50% OFFのセール中となっています。このゲームは、壮大なストーリーや美しいグラフィックが特徴で、ファンタジーな世界を冒険するのが楽しいです。多くのユーザーから高い評価を受けており、価格も割引されているので、ぜひおすすめします。",
-        "price": "¥2,739",
-        "originalPrice": "¥5,478",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1295510",
-        "date": "2026-02-03"
-      },
-      {
-        "title": "Lies Of P",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Lies Of Pは、Variousで現在-58%のセール中です。このゲームはアクションアドベンチャーであり、独自のストーリーと快適なゲームプレイが特徴です。現在の価格は大幅に割引されており、多くのユーザーから高評価を得ています。人気度も高く、ゲームファンからの支持が高いことで知られています。",
-        "price": "$29.52",
-        "originalPrice": "",
-        "discount": "-58%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/lies-of-p/info/",
-        "date": "2026-02-03"
-      },
-      {
         "title": "Fallout 4: Game of the Year Edition",
         "platform": "Steam",
         "type": "sale",
@@ -628,35 +556,45 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/uncharted-legacy-of-thieves-collection/info/",
         "date": "2026-02-09"
+      },
+      {
+        "title": "DEATH STRANDING DIRECTOR'S CUT",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「DEATH STRANDING DIRECTOR'S CUT」がSteamで75%割引のセール中です。このゲームは、広大なオープンワールドを探索し、物語を進めることで知られています。高い評価を受けており、人気度も高いゲームです。現在、Steamで大幅な割引を受けることができ、価格は大幅に下がっています。興味がある方は、この機会にぜひチェックしてみてください。",
+        "price": "¥1,245",
+        "originalPrice": "¥4,980",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1850570",
+        "date": "2026-02-10"
+      },
+      {
+        "title": "仁王２ Complete Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "仁王２ Complete EditionがSteamで60% OFFセール中です。このアクションRPGゲームは、戦国時代の日本を舞台に、剣術と魔法を駆使して戦うのが特徴です。通常価格から大幅に値下げされたこのゲームは、非常に人気があり、高い評価を受けています。セール期間中は、通常価格の40%で購入することができます。",
+        "price": "¥2,552",
+        "originalPrice": "¥6,380",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1325200",
+        "date": "2026-02-10"
+      },
+      {
+        "title": "The Last of Us™ Part I",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Last of Us Part Iは、人気アクションアドベンチャーゲームで、感動的なストーリーと心を揺さぶるキャラクターで知られています。このゲームは、批評家とプレイヤーから高く評価されており、多くの賞を受賞しています。現在、Variousで55%オフのセール中で、通常よりも低い価格で購入できます。これは、アクションアドベンチャーゲームファンにとって大きな機会です。",
+        "price": "$26.96",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-last-of-us-part-i/info/",
+        "date": "2026-02-10"
       }
     ],
     "review": [
-      {
-        "title": "【長寿MMO“RuneScape”のクラフト系オープンワールドサバイバルスピンオフ「RuneSc...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "長寿MMO「RuneScape」のクラフト系オープンワールドサバイバルスピンオフ「RuneScape」のレビュー記事では、ゲームの評価ポイントとしてグラフィックやゲームプレイの面白さ、自由度の高さなどが挙げられています。さらに、レビューの内容概要として、ゲームの世界観やストーリーの深さ、プレイヤー同士の交流の可能性などが紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163713.html",
-        "date": "2026-01-31",
-        "is_translated": false
-      },
-      {
-        "title": "【Havenを生んだThe Game Bakersの登山シム「Cairn」のプレイヤー数が発売か...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "The Game Bakersによる新作の登山シミュレーションゲーム「Cairn」のレビューでは、ゲームの評価ポイントとして、ユニークなゲームプレイや美しいグラフィックが高く評価されています。さらに、レビューでは、ゲームの難易度や操作性についても触れています。このレビューは、The Game Bakersのファンや登山シミュレーションゲームに興味のある方に特に役立つ内容となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/01163759.html",
-        "date": "2026-01-31",
-        "is_translated": false
-      },
       {
         "title": "【リメイク版『ドラクエ7』でもワガママ全開な「マリベル」、プレイヤーの反応は三者三様!? 個性派...】",
         "platform": "インサイド",
@@ -669,19 +607,6 @@
         "url": "https://www.inside-games.jp/article/2026/02/01/176792.html",
         "date": "2026-02-01",
         "is_translated": false
-      },
-      {
-        "title": "【テラ・インヴィクタのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "テラ・インヴィクタのレビュー記事では、ゲームの評価ポイントとしてグラフィックの美しさやゲームプレイの奥深さを高く評価しています。また、レビューの内容としては、ゲームのストーリーやキャラクターの魅力、そしてマルチプレイモードの充実度について言及しています。このレビュー記事は、テラ・インヴィクタをプレイしたことがあるユーザーや、ゲームに興味がある読者に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/strategy/terra-invicta-review/",
-        "date": "2026-01-31",
-        "is_translated": true
       },
       {
         "title": "【基本プレイ無料RPG『怪獣８号 THE GAME』ハーフアニバーサリー開催。最大80連無料ガチ...】",
@@ -1852,8 +1777,21 @@
         "url": "https://www.rockpapershotgun.com/yakuza-kiwami-3-dark-ties-review-a-stuffed-remake-defined-by-its-own-grim-connections",
         "date": "2026-02-09",
         "is_translated": true
+      },
+      {
+        "title": "【滅亡後の世界を進むスノーピアサー系超巨大列車が舞台となるマルチプレイヤーサンドボックス「Eng...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "マルチプレイヤーサンドボックスゲーム「Eng...」は、滅亡後の世界を進む超巨大列車が舞台となるユニークなゲームです。このゲームの評価ポイントとしては、広大な列車内での探索や、他のプレイヤーとの協力プレイが楽しめる点が挙げられます。レビューの内容は、ゲームの自由度の高さや、グラフィックの美しさ、そして多人数でのプレイの楽しさについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164003.html",
+        "date": "2026-02-10",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-09T21:39:27.873730"
+  "last_updated": "2026-02-10T02:23:22.933198"
 }
