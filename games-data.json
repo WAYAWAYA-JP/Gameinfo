@@ -186,90 +186,6 @@
     ],
     "sale": [
       {
-        "title": "Fallout 4: Game of the Year Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Fallout 4: Game of the Year EditionがSteamで75% OFFのセール中です。このゲームはオープンワールドRPGの傑作であり、高自由度のゲームプレイと豊富なストーリーが特徴です。現在の価格は大幅に割引されており、非常に魅力的です。また、Metacriticでの評価は高く、ユーザーからの評価も非常に高い人気ゲームです。",
-        "price": "¥1,210",
-        "originalPrice": "¥4,840",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/199943",
-        "date": "2026-02-04"
-      },
-      {
-        "title": "Fallout 4",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Fallout 4がSteamで75% OFFセール中です。これはオープンワールドRPGの傑作で、ポストアポカリプス世界を舞台に、自由に探索と戦闘が楽しめるゲームです。現在、通常価格より75%割引されており、非常に魅力的な価格になっています。高い評価と人気度を誇るこのゲームは、ファンから非常に高い評価を得ており。",
-        "price": "¥561",
-        "originalPrice": "¥2,246",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/377160",
-        "date": "2026-02-04"
-      },
-      {
-        "title": "Warhammer 40,000: Space Marine 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Warhammer 40,000: Space Marine 2がVariousで60%オフのセール中です。このアクションゲームは、人気のWarhammer 40,000シリーズを基にしており、プレイヤーは宇宙の戦場で戦いを繰り広げます。高評価を受けており、ファンやアクションゲーム好きから人気を博しています。価格は通常より60%割引されています。",
-        "price": "$23.99",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
-        "date": "2026-02-04"
-      },
-      {
-        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY VII REMAKE INTERGRADEがSteamで50% OFFのセール中です。このゲームは、ロールプレイングゲームの傑作であるファイナルファンタシーシリーズの7作目のリメイク版であり、壮大なストーリーや美麗なグラフィックが特徴です。通常価格から半額になるこのセールは、ファイナルファンタシーシリーズのファンや新規プレイヤーにとって大きな機会です。",
-        "price": "¥2,739",
-        "originalPrice": "¥5,478",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1462040",
-        "date": "2026-02-04"
-      },
-      {
-        "title": "Superliminal",
-        "platform": "Various",
-        "type": "sale",
-        "description": "パズルゲームの「Superliminal」が現在、Variousで71%割引のセール中です。このゲームは、独特の視覚効果と挑戦的なパズルが特徴で、プレイヤーは視覚的な錯覚を利用して、部屋を移動し、パズルを解決する必要があります。評価は非常に高く、ユーザーから高い人気度を得ています。",
-        "price": "$5.87",
-        "originalPrice": "",
-        "discount": "-71%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/superliminal/info/",
-        "date": "2026-02-04"
-      },
-      {
-        "title": "デッドバイデイライト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サバイバルホラーのデッドバイデイライトがSteamで60%オフのセール中です。このゲームは、殺人鬼となり他のプレイヤーを追跡するか、逆に殺人鬼から逃げるサバイバルバトルを楽しむことができます。非常に人気の高いゲームで、Steamの評価も非常に高いです。セール中の価格は、通常価格より大幅に安くなっています。",
-        "price": "¥792",
-        "originalPrice": "¥1,980",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/381210",
-        "date": "2026-02-04"
-      },
-      {
-        "title": "Blue Prince",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Blue PrinceがVariousで41%割引のセール中です。このゲームは高い評価と人気度を誇り、多くのユーザーから支持されています。アクションアドベンチャーゲームとして知られており、魅力的でスリリングなゲームプレイが特徴です。セール期間中は、通常価格よりも大幅に安く購入できるので、興味がある方はこの機会にぜひお試しください。",
-        "price": "$17.55",
-        "originalPrice": "",
-        "discount": "-41%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/blue-prince/info/",
-        "date": "2026-02-04"
-      },
-      {
         "title": "V Rising",
         "platform": "Various",
         "type": "sale",
@@ -608,71 +524,6 @@
     ],
     "review": [
       {
-        "title": "【リメイク版『ドラクエ7』でもワガママ全開な「マリベル」、プレイヤーの反応は三者三様!? 個性派...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "リメイク版『ドラクエ7』のレビュー記事では、マリベルの個性的なキャラクター性が話題となっています。彼女のワガママな行動には、三者三様な反応が見られ、プレイヤーの評価も分かれています。この記事は、ゲームの評価ポイントやレビューの内容を概説し、ドラクエシリーズのファンや新規プレイヤーにとって興味深い内容となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/02/01/176792.html",
-        "date": "2026-02-01",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料RPG『怪獣８号 THE GAME』ハーフアニバーサリー開催。最大80連無料ガチ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「怪獣８号 THE GAME」のハーフアニバーサリーイベントが開催されています。このイベントでは、最大80連無料ガチャが実施されるなど、さまざまな特典が用意されています。ゲームの評価ポイントとしては、グラフィックのクオリティやゲームプレイの奥深さが高く評価されています。レビューの内容概要としては、ゲームの自由度やストーリーの面白さが挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/kaiju-no8-20260201-414994/",
-        "date": "2026-02-01",
-        "is_translated": false
-      },
-      {
-        "title": "【『モンスターハンターワイルズ』最適化の恩恵をかなり感じる。『スプラトゥーン3』アプデで結構変わ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "モンスターハンターワイルズやスプラトゥーン3などのゲームの最新情報やレビュー記事では、ゲームの最適化やアップデートによる変化点を評価しています。記事では、グラフィックの向上やパフォーマンスの改善など、ゲームの魅力を高める要素を紹介しています。ゲームファンや最新ゲーム情報に興味がある方にとって、参考になる内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260201-415144/",
-        "date": "2026-02-01",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamセールで、オープンワールド狩猟シム『ウェイ オブ ザ ハンター』が90％オフ。高評価...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamセールでオープンワールドの狩猟シミュレーションゲーム『ウェイ オブ ザ ハンター』が90％オフになっています。このゲームは高評価を受けており、レビューではゲームのリアルなグラフィックや広大なオープンワールド、多様な狩猟のオプションが高く評価されています。また、ゲームの難易度や操作性も好評で、狩猟ゲームのファンやオープンワールドゲームを楽しむ人に特にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260201-415020/",
-        "date": "2026-02-01",
-        "is_translated": false
-      },
-      {
-        "title": "【『ヘブバン』最大200連無料の4th Anniversary開始！「手塚咲」のプレイアブル実装...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム『ヘブバン』の4th Anniversaryイベントについて取り上げています。イベントでは最大200連無料が実施され、新キャラクター「手塚咲」のプレイアブル実装も行われています。ゲームの評価ポイントとしては、イベントの内容や新キャラクターの実装が評価されるでしょう。対象読者は、ゲーム『ヘブバン』のプレイヤーやイベントの内容に興味がある方です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/02/01/176804.html",
-        "date": "2026-02-01",
-        "is_translated": false
-      },
-      {
         "title": "【最大8人プレイに対応するCo-opアクションローグライク「LORT」の販売が25万本を突破】",
         "platform": "doope!",
         "type": "review",
@@ -683,32 +534,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/02163789.html",
         "date": "2026-02-02",
-        "is_translated": false
-      },
-      {
-        "title": "【「Call of Duty: Black Ops 7」シーズン02の新マルチプレイヤーマップを...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Call of Dutyシリーズの最新作「Call of Duty: Black Ops 7」のシーズン02の新マルチプレイヤーマップについてのレビュー記事です。この記事では、新マップのデザインやゲームプレイの変更点について評価しています。また、シリーズのファンやマルチプレイヤーゲームを楽しむユーザーにとって、この新マップが何を提供するかについても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02163786.html",
-        "date": "2026-02-01",
-        "is_translated": false
-      },
-      {
-        "title": "【Havenを生んだThe Game Bakersの新作登山シミュレーション「Cairn」のプレ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "The Game Bakersの新作登山シミュレーションゲーム「Cairn」のレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンドトラックの美しさや、登山のリアルな体験を提供することなどの点が高く評価されています。また、ゲームの難易度や操作性についても触れられており、登山ゲームファンやアウトドア好きの方におすすめできるレビュー内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02163766.html",
-        "date": "2026-02-01",
         "is_translated": false
       },
       {
@@ -1932,8 +1757,34 @@
         "url": "https://www.rockpapershotgun.com/pretty-platformer-sequel-planet-of-lana-ii-gets-a-pretty-good-steam-demo-tomorrow-ahead-of-its-surprise-march-release",
         "date": "2026-02-10",
         "is_translated": true
+      },
+      {
+        "title": "【新ヒーロー“エルサ・ブラッドストーン”のゲームプレイをお披露目する「Marvel Rivals...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Marvel Rivalsのレビュー記事では、新ヒーロー「エルサ・ブラッドストーン」のゲームプレイが紹介されています。このゲームは、ヒーロー同士の対戦を楽しむことができるため、対戦ゲームファン向けです。また、ゲームの評価ポイントとしては、グラフィックの質と操作のしやすさが高く評価されています。さらに、ゲームのストーリーやキャラクターの設定も充実しているため。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164033.html",
+        "date": "2026-02-11",
+        "is_translated": false
+      },
+      {
+        "title": "【『勝利の女神：NIKKE』の音楽がプレイ体験を蘇らせる……！第2回オーケストラコンサートが奏で...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "『勝利の女神：NIKKE』の音楽がプレイ体験を蘇らせる第2回オーケストラコンサートのレビュー記事は、ゲームのサウンドトラックや音楽の評価ポイントとして、オーケストラコンサートの演奏の質や、ゲーム内の音楽とコンサートの音楽の違い、音楽がプレイ体験に与える影響を取り上げています。また、ゲームファンや音楽愛好家向けの記事であることがわかります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/11/177235.html",
+        "date": "2026-02-10",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-10T21:42:44.847844"
+  "last_updated": "2026-02-11T02:12:07.902958"
 }
