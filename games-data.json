@@ -182,6 +182,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/naconracingcollection_bundle",
         "date": "2026-02-08"
+      },
+      {
+        "title": "Hentai Pair Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Hentai Pair BundleというバンドルがIndieGalaで販売中です。このバンドルには、Hentai gamesシリーズの「Hentai University」、「Hentai Pussy」、「Sakura Gamer」などのタイトルが含まれています。ジャンルはエロゲーで、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/hentai-pair-bundle",
+        "date": "2026-02-11"
       }
     ],
     "sale": [
@@ -1838,5 +1850,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-11T09:54:11.344040"
+  "last_updated": "2026-02-11T13:25:55.002789"
 }
