@@ -194,6 +194,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/hentai-pair-bundle",
         "date": "2026-02-11"
+      },
+      {
+        "title": "Love You to Death Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Love You to Death Bundleのバンドルが現在販売中です。このバンドルには、主要タイトルとして「Doki Doki Literature Club!」や「Amnesia: Rebirth」、「Saya no Uta」などの人気タイトルが含まれています。ジャンルは主にアドベンチャーやビジュアルノベルに分類され。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/loveyoutodeathbundle_bundle",
+        "date": "2026-02-11"
       }
     ],
     "sale": [
@@ -532,6 +544,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/horizon-forbidden-west-complete-edition/info/",
         "date": "2026-02-10"
+      },
+      {
+        "title": "God of War Ragnarök",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるGod of War Ragnarökが、現在Variousで40%割引セール中です。このゲームは、ストーリーの深みとグラフィックの美しさが高く評価されており、人気度も非常に高いと言えるでしょう。通常価格より大幅に安くなっているので、興味がある方はこの機会にチェックしてみるのが良いのではないでしょうか。",
+        "price": "$35.95",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
+        "date": "2026-02-11"
       }
     ],
     "review": [
@@ -1847,8 +1871,73 @@
         "url": "https://www.rockpapershotgun.com/unleash-the-kraken-bellows-skull-bones-which-somehow-still-exists",
         "date": "2026-02-11",
         "is_translated": true
+      },
+      {
+        "title": "【注目ホラー『リアニマル』を遊んだら、『リトルナイトメア』シリーズから“亜種進化”した次世代ホラ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "注目ホラー『リアニマル』のレビュー記事では、このゲームは『リトルナイトメア』シリーズから“亜種進化”した次世代ホラーであると評価されています。このゲームは、独自の恐怖体験を提供することに成功しており、ホラーゲームファンには必見の作品です。特に、ゲームのグラフィックやサウンドデザインは高い評価を受けており、プレイヤーを恐怖の世界に引き込むことに成功しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/reanimal-20260212-419844/",
+        "date": "2026-02-11",
+        "is_translated": false
+      },
+      {
+        "title": "【サイバーパンク2.5Dアクション「REPLACED」の日本語対応デモが遂にリリース、新トレーラーも：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "サイバーパンクを舞台にした2.5Dアクションゲーム「REPLACED」の日本語対応デモがリリースされました。このゲームは、独自のグラフィックやアクション性、そしてストーリーに重点を置いた内容が特徴です。レビューでは、グラフィックやサウンドトラックの高品質さ、そしてストーリーの深みが評価されています。また、新たなトレーラーも公開されており、ゲームの雰囲気を感じることができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164052.html",
+        "date": "2026-02-11",
+        "is_translated": false
+      },
+      {
+        "title": "【Reanimal レビュー – リトル ナイトメアのドールハウス ホラーは、より悲惨な戦争と虐...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Reanimal レビュー記事では、リトル ナイトメアのドールハウス ホラーが悲惨な戦争と虐待を描いた作品であると評価しています。このゲームの評価ポイントとしては、独特な世界観やストーリーテリングが挙げられます。さらに、ゲームの内容は恐怖や不快感を与えるものであるため、ホラー作品を好む読者やゲームファンに向けてのレビューになっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/reanimal-review-the-dollhouse-horror-of-little-nightmares-gives-way-to-a-grimier-tale-of-war-and-slaughter",
+        "date": "2026-02-11",
+        "is_translated": true
+      },
+      {
+        "title": "【ロミオはデッドマンの最も魅惑的な光景は、そのアストラルフィッシュタンクメニューです：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「ロミオはデッドマン」の魅力的な要素を紹介しています。特に、アストラルフィッシュタンクメニューは最も魅惑的な光景であると評価されています。ゲームの評価ポイントとしては、ユニークなゲームデザイン、美しいグラフィック、そして面白いゲームプレイが挙げられます。レビューの内容概要としては、ゲームのストーリー、ゲームシステム、そして操作感などの点が掘り下げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/romeo-is-a-dead-mans-most-beguiling-spectacle-is-its-astral-fish-tank-menu",
+        "date": "2026-02-11",
+        "is_translated": true
+      },
+      {
+        "title": "【「クラーケンを解き放て」と叫ぶスカル・アンド・ボーンズ、どういうわけかまだ存在している：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム「クラーケンを解き放て」というタイトルの作品を取り上げています。ゲームの評価ポイントとしては、ユニークなゲームデザインや面白いゲーム性が際立っています。レビューの内容概要としては、ゲームのストーリーやキャラクターの魅力、そして難易度の適切さについて触れています。対象読者は、ゲーム好きの方や新しいゲームを探している方に向けてのレビュー記事となります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/unleash-the-kraken-bellows-skull-bones-which-somehow-still-exists",
+        "date": "2026-02-11",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-11T13:25:55.002789"
+  "last_updated": "2026-02-11T21:34:48.097271"
 }
