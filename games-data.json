@@ -1,44 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Botany Manor",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Botany Manorは、パズル要素を含むアドベンチャーゲームです。このゲームの特徴は、美しい植物のイラストを鑑賞することができ、また、植物を研究して新しい種を発見することができます。また、ゲーム内の探索要素も魅力的です。Epic Gamesプラットフォームで無料配布中なので、気軽に遊ぶことができます。",
-        "price": "無料",
-        "originalPrice": "¥24",
-        "discount": "100% OFF",
-        "deadline": "2026年02月12日まで",
-        "url": "https://store.epicgames.com/ja/p/61eca1a9e42243d29e93b02510d88d83",
-        "date": "2026-02-05"
-      },
-      {
-        "title": "ポイズンレトロセット",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "ポイズンレトロセットは、現在Epic Gamesで無料配布中のアクションアドベンチャーゲームです。このゲームの特徴としては、レトロ風のグラフィックや、複数のキャラクターから選択してプレイできること、そしてさまざまなステージをクリアしながらストーリーが進んでいくことが挙げられます。また、難易度が高く、プレイヤーに挑戦心を呼び起こす魅力もあります。",
-        "price": "無料",
-        "originalPrice": "¥28",
-        "discount": "100% OFF",
-        "deadline": "2026年02月12日まで",
-        "url": "https://store.epicgames.com/ja/p/poison-retro-set",
-        "date": "2026-02-05"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "HHIndie Corp Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、HHIndie Corp Bundleのバンドルが現在販売中です。このバンドルには、主要タイトルとして「Rise to Ruins」や「The Amazing Shinsengumi」などのタイトルが含まれています。ジャンルはインディーゲームが中心で、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/indie-corp-bundle",
-        "date": "2026-02-02"
-      },
       {
         "title": "Sci-Fi Shooters 2.0",
         "platform": "Humble Bundle",
@@ -209,90 +172,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "V Rising",
-        "platform": "Various",
-        "type": "sale",
-        "description": "V RisingはオープンワールドアクションRPGであり、ドラキュラとしてさまざまな能力を会得し、城を建設し、夜の世界を支配することを目指すゲームです。このゲームは現在、Variousで77%割引されており、大幅な値下げで購入する機会です。V Risingは、ユーザーからの評価が非常に高く、人気度も高いゲームであり、ファンタジーとアクションを好むプレイヤーに特にお勧めです。",
-        "price": "$7.90",
-        "originalPrice": "",
-        "discount": "-77%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/v-rising/info/",
-        "date": "2026-02-05"
-      },
-      {
-        "title": "Nioh 3",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームであるNioh 3が、現在Variousで15%割引のセール中です。このゲームは、ダークファンタジーな世界を舞台に、スリリングな戦闘と豊富なストーリーが楽しめることで人気を博しています。多くのプレイヤーから高評価を得ており、シリーズファンやアクションゲーム好きにはお勧めのタイトルです。",
-        "price": "$59.83",
-        "originalPrice": "",
-        "discount": "-15%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/nioh-3/info/",
-        "date": "2026-02-05"
-      },
-      {
-        "title": "Control Ultimate Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「Control Ultimate Edition」がバラエティストアで90%割引のセール中です。このゲームは、独特の時間制御能力と、サードパーソンシューティングの要素が特徴です。通常価格より大幅に安くなっているので、注目してください。プレイヤーの評価も高く、人気のゲームとなっています。",
-        "price": "$3.89",
-        "originalPrice": "",
-        "discount": "-90%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/control-ultimate-edition/info/",
-        "date": "2026-02-05"
-      },
-      {
-        "title": "Hogwarts Legacy",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Hogwarts Legacyがバリュー（Various）で87%オフのセール中です。このゲームは、アクションアドベンチャー要素を含むオープンワールドRPGで、ハリー・ポッターの魔法世界を自由に探索できます。高い評価と人気を得ているこのゲームは、ファンからの支持が高く、非常に面白いと評判です。セール中の価格では大変お得なので、興味がある方はおすすめです。",
-        "price": "$7.56",
-        "originalPrice": "",
-        "discount": "-87%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
-        "date": "2026-02-05"
-      },
-      {
-        "title": "Rust",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サバイバルゲームとして人気のRustがSteamで50%オフのセール中です。このゲームは、プレイヤーが荒野で生き残るために必要な物資を集め、敵から身を守りながら進めていく、ハイレベルな自由度を特徴としています。現在、かなりの割引率で購入できるので、サバイバルゲームファンにはお勧めです。",
-        "price": "¥2,300",
-        "originalPrice": "¥4,600",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/252490",
-        "date": "2026-02-05"
-      },
-      {
-        "title": "Fallout 76",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Fallout 76は、オープンワールドのアクションRPGです。このゲームでは、広大な世界を自由に探索し、さまざまなクエストやミッションをこなすことができます。現在、Steamで80%オフのセール中です。通常価格より大幅に安くなっているので、興味がある方はお得に購入できます。Falloutシリーズのファンにはもちろん、オープンワールドゲームを楽しむ方にもおすすめです。",
-        "price": "¥960",
-        "originalPrice": "¥4,800",
-        "discount": "80% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1151340",
-        "date": "2026-02-05"
-      },
-      {
-        "title": "Borderlands 4",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションパックされたFPSゲーム「Borderlands 4」がVariousで31%オフのセール中です。このゲームは、ユニークなキャラクターと豊富な武器、広大なオープンワールドが特徴的で、ファンから高い評価を得ています。現在、通常価格より大幅に安くなっているので、シリーズファンやFPSゲーム好きにはおすすめです。",
-        "price": "$48.15",
-        "originalPrice": "",
-        "discount": "-31%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/borderlands-4/info/",
-        "date": "2026-02-05"
-      },
       {
         "title": "Botany Manor",
         "platform": "Various",
@@ -556,100 +435,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
         "date": "2026-02-11"
+      },
+      {
+        "title": "Mewgenics",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Mewgenicsは、シミュレーションとアドベンチャー要素を兼ね備えたユニークなゲームで、現在Variousで10%割引されています。ユーザーの評価は非常に高く、人気も高まっています。",
+        "price": "$26.99",
+        "originalPrice": "",
+        "discount": "-10%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/mewgenics/info/",
+        "date": "2026-02-12"
+      },
+      {
+        "title": "DOOM: The Dark Ages",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲームであるDOOM: The Dark AgesがVariousで現在セール中です。通常価格から72%割引されています。このゲームは、ダークファンタジー世界を舞台に、プレイヤーが様々な武器や魔法を駆使して敵を倒していく、アクション性に富んだ内容です。評価も高く、ファンから人気を博しており、セール中のこの機会にチャレンジしてみるのはいかがでしょうか。",
+        "price": "$19.87",
+        "originalPrice": "",
+        "discount": "-72%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/doom-the-dark-ages/info/",
+        "date": "2026-02-12"
       }
     ],
     "review": [
-      {
-        "title": "【最大8人プレイに対応するCo-opアクションローグライク「LORT」の販売が25万本を突破】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Co-opアクションローグライクゲームの「LORT」は、最大8人プレイに対応しており、販売本数が25万本を突破しました。このゲームの評価ポイントとしては、多人数プレイが可能な点や、アクションローグライクの要素が充実している点などが挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンド、そして多人数プレイ時の協力プレイが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02163789.html",
-        "date": "2026-02-02",
-        "is_translated": false
-      },
-      {
-        "title": "【『アークナイツ：エンドフィールド』の「レーヴァテイン」と「アルデリア」の言動には、いろんな意味...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『アークナイツ：エンドフィールド』のレビュー記事では、「レーヴァテイン」と「アルデリア」の言動にいろんな意味があると評価しています。ゲームのストーリーやキャラクターの深み、声優の演技力も高く評価されています。このレビュー記事は、アークナイツシリーズのファンや、新しくシリーズに興味を持った人向けに、ゲームの全体的な雰囲気や魅力について知ることができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/columnjp/ae-20260202-415302/",
-        "date": "2026-02-02",
-        "is_translated": false
-      },
-      {
-        "title": "【Nintendo Switch/Switch 2向けセールに100本以上追加。『ペルソナ3 リ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Nintendo SwitchやSwitch 2向けのセールに100本以上のゲームが追加されました。この中には『ペルソナ3 リマスター』のような人気タイトルも含まれています。このゲームのレビューでは、ストーリーやキャラクターの魅力、ゲームシステムの面白さなどが高く評価されています。さらに、グラフィックやサウンドトラックの質も高い-waterと評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/nintendo-switch-sale-20260202-415423/",
-        "date": "2026-02-02",
-        "is_translated": false
-      },
-      {
-        "title": "【2人プレイ対応・物理演算丸太転がしゲーム『Log Riders』発表、2月13日配信へ。加速し...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「Log Riders」というゲームのレビュー記事では、2人プレイに対応した物理演算を含む丸太転がしゲームの魅力を紹介しています。このゲームは、加速した丸太を制御する爽快なプレイ体験や、多様なステージの存在などが評価ポイントです。ゲームファンやアクションゲーム好きの方々が対象読者となり、2月13日の配信開始に期待が高まっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/coop-20260202-415322/",
-        "date": "2026-02-02",
-        "is_translated": false
-      },
-      {
-        "title": "【虚無の司祭となって狂気の世界を生き抜くクトゥルフ系サイコホラー捜査ゲーム「VOID PRIES...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "クトゥルフ系のサイコホラーをベースとした「VOID PRIEST」のレビュー記事では、ゲームの独自の世界観やストーリー、そしてプレイヤーの精神状態が狂気に追い込まれていく様子が評価ポイントとなっています。このゲームでは、プレイヤーは虚無の司祭となり、狂気の世界で生き残るために様々な捜査や戦闘を行います。特に、精神状態の管理や、狂気の世界における選択の重要性がレビューの中心となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02163779.html",
-        "date": "2026-02-02",
-        "is_translated": false
-      },
-      {
-        "title": "【ディズニー ロルカーナのウィンタースペルは、愚かなノスタルジーに傾いていたときに私を魅了しました：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ディズニー ロルカーナのウィンタースペルは、ノスタルジーが溢れる雰囲気に私は魅了されました。レビュー記事では、ゲームの評価ポイントとして、物語の深さ、キャラクターの魅力、音楽の美しさが挙げられています。特に、ノスタルジーを感じさせるグラフィックやサウンドトラックは、高く評価されています。このような魅力的なゲームを堪能したい方や、ディズニー作品のファンには、ぜひ一度遊んでみてください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/lorcana-winterspell-disney-preview-darkwing-duck-deck/",
-        "date": "2026-02-02",
-        "is_translated": true
-      },
-      {
-        "title": "【『第五人格』開発元が手がける海賊オープンワールドRPG 『シー・オブ・レムナンツ』では、随所で...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『シー・オブ・レムナンツ』は、第五人格の開発元が手がける海賊オープンワールドRPGです。このゲームでは、自由に海を航行して島を探索したり、海賊同盟を結成して戦闘に臨んだりすることができます。レビューでは、このゲームの広大なオープンワールドと豊富なキャラクターのカスタマイズが高く評価されています。また、ストーリーや戦闘システムも魅力的で。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/sea-of-remnant-20260202-415379/",
-        "date": "2026-02-02",
-        "is_translated": false
-      },
       {
         "title": "【スマブラ系インディー格闘ゲーム「Fraymakers」に“Among Us”のインポスターが参...：レビュー】",
         "platform": "doope!",
@@ -675,45 +487,6 @@
         "url": "https://doope.jp/2026/02163774.html",
         "date": "2026-02-03",
         "is_translated": false
-      },
-      {
-        "title": "【「Marathon」の“アサシン”シェルに焦点を当てる新トレーラーが公開、発売は2026年3月5日：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Marathon」の新トレーラーが公開され、発売日は2026年3月5日となりました。このゲームの評価ポイントとして、グラフィックの質やゲーム性の面が挙げられます。レビューの内容概要としては、新トレーラーでの「アサシン」シェルの活躍や、ストーリーの展開が評価されています。対象読者は、このゲームや同ジャンルのファンである方に適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02163769.html",
-        "date": "2026-02-02",
-        "is_translated": false
-      },
-      {
-        "title": "【『ドラクエVII R』は「ガンガンいこうぜ」だけでイケるのか？ オート戦闘のみで35時間走って...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "「ドラクエVII R」のレビュー記事では、オート戦闘のみで35時間プレイした結果を紹介しています。記事では、ゲームの評価ポイントとして、オート戦闘の有用性やストーリーの面白さを取り上げています。また、レビューの内容として、ゲームのシステムや操作のしやすさについても触れています。この記事は、ドラクエシリーズのファンや、RPGゲームに興味がある人に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/02/03/176861.html",
-        "date": "2026-02-02",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam コントローラーの再レビュー: 欠陥はあるが影響力を持った Valve の 10 年...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Steam コントローラーは、Valve によって開発された革新的なゲーム機器で、10 年前に登場しました。この機器は、ゲームプレイの体験を変える影響力を持っていますが、欠陥もあります。Steam コントローラーの評価ポイントとしては、独自の設計、多機能性、そしてゲームとの互換性が挙げられます。レビューの内容概要としては、コントローラーの性能、操作性、そしてゲームとの相性について述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/controllers/steam-controller-re-review-a-fresh-look-at-valves-flawed-but-influential-10-year-old-controller/",
-        "date": "2026-02-02",
-        "is_translated": true
       },
       {
         "title": "【Fall Guysのオリジナルクリエイターたちが手がけるドタバタCo-opカエルゲーム「Fro...：レビュー】",
@@ -1936,8 +1709,60 @@
         "url": "https://www.rockpapershotgun.com/unleash-the-kraken-bellows-skull-bones-which-somehow-still-exists",
         "date": "2026-02-11",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料5v5タクティカル突入シューター『PUBG: BLINDSPOT』は“座学・ボイ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "PUBG: BLINDSPOTは、基本プレイ無料の5v5タクティカルシューティングゲームです。このゲームの評価ポイントとしては、戦略的なチームプレイや高度なグラフィックスが挙げられます。また、レビューの内容概要としては、ゲームの難易度や操作性、そしてマルチプレイヤー機能の充実度が述べられています。このゲームは。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/20260212-419947/",
+        "date": "2026-02-12",
+        "is_translated": false
+      },
+      {
+        "title": "【チーム戦塔登りバトロワ『Arkheron（アーケロン）』、2月21日よりSteamデモ版配信へ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamデモ版の配信が開始されたチーム戦塔登りバトロワ『Arkheron（アーケロン）』についてのレビュー記事です。このゲームはチームプレーと戦略を重視しており、プレイヤーはチームメイトと協力して塔を登り、相手チームを倒すことを目標としています。レビューでは、ゲームの評価ポイントとして、チーム戦のバランスと戦略の深さを高く評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/arkheron-20260212-419931/",
+        "date": "2026-02-12",
+        "is_translated": false
+      },
+      {
+        "title": "【島暮らしシム『スターサンド・アイランド』さっそく人気炸裂スタート。注目のリゾート島スローライフ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『スターサンド・アイランド』は島暮らしシムの新作ゲームで、リゾート島でのスローライフが楽しめることが特徴です。このゲームの評価ポイントとしては、リラックスした雰囲気、自由度の高いゲームプレイ、そして美しいグラフィックが挙げられます。レビューでは、これらの点が高く評価されており、ストレス解消やリラクゼーションを求める人が楽しめることが分かります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/starsand-island-20260212-419946/",
+        "date": "2026-02-12",
+        "is_translated": false
+      },
+      {
+        "title": "【クイズの時間: これらの 1 行の Steam レビューは何のゲームのものかわかりますか? (...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、Steam上で公開された1行のレビューを紹介し、そのレビューがどのゲームのものかを読者に推測させるクイズ形式で構成されています。レビューの内容は、ゲームの評価ポイントを簡潔にまとめており、ゲームの面白さや難易度、グラフィックの質などが評価されています。主にSteamユーザーやゲームファン向けの記事であり。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/quiz-time-can-you-guess-what-games-these-one-line-steam-reviews-are-from-part-3/",
+        "date": "2026-02-12",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-11T21:34:48.097271"
+  "last_updated": "2026-02-12T02:05:53.962328"
 }
