@@ -24,6 +24,30 @@
         "deadline": "2026年02月12日まで",
         "url": "https://store.epicgames.com/ja/p/poison-retro-set",
         "date": "2026-02-12"
+      },
+      {
+        "title": "ダークサイド探偵：暗闇の中でのファンブル",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "ダークサイド探偵：暗闇の中でのファンブルは、サバイバルホラー系のアクションゲームです。このゲームの特徴は、暗闇の中で恐怖を感じながら進むこと、様々なアイテムを使用して敵を倒すこと、そしてランダムなイベントが発生することです。プレイヤーは、これらの要素を駆使して生き残りを目指します。Epic Gamesプラットフォームで無料配布中のこのゲームは、ホラーファンやアクションゲーム好きにはお勧めです。",
+        "price": "無料",
+        "originalPrice": "¥14",
+        "discount": "100% OFF",
+        "deadline": "2026年02月19日まで",
+        "url": "https://store.epicgames.com/ja/p/b87bb60e2398412e82ba540e50ac6222",
+        "date": "2026-02-12"
+      },
+      {
+        "title": "Nobody Wants to Die",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "2329年のニューヨークのディストピア世界を舞台に、インタラクティブなノワールストーリーが展開されます。このゲームは、刑事のジェームズ・キャラとして高度な技術を駆使して捜査を進め、都市の支配層を目指してキラーを追い詰めるアクションアドベンチャーゲームです。特徴的な点としては、プレイヤーの選択が物語に大きな影響を与えるインタラクティブなストーリーテリングや。",
+        "price": "無料",
+        "originalPrice": "¥29",
+        "discount": "100% OFF",
+        "deadline": "2026年02月19日まで",
+        "url": "https://store.epicgames.com/ja/p/eea910991d674322b3832f9b7bbefb7b",
+        "date": "2026-02-12"
       }
     ],
     "bundle": [
@@ -519,6 +543,30 @@
         "discount": "60% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/3059520",
+        "date": "2026-02-12"
+      },
+      {
+        "title": "DARK SOULS III - The Fire Fades Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DARK SOULS III - The Fire Fades EditionがSteamで50% OFFセール中です。このアクションRPGゲームは、ダークファンタジーの世界を舞台に、プレイヤーがさまざまな敵と戦いながら、物語を進めていくという特徴があります。セール中の価格は割引前より50%オフで提供されており、大人気のゲームとして知られています。",
+        "price": "¥2,970",
+        "originalPrice": "¥5,940",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/160150",
+        "date": "2026-02-12"
+      },
+      {
+        "title": "Rust",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Rustはサバイバルゲームであり、プレイヤーは荒野で生き残るために様々なアイテムを制作し、他のプレイヤーと協力または対立する必要があります。現在、Steamで50%OFFのセール中となっており、通常価格よりも大幅に安価に購入できます。Rustは、リアルなグラフィックとハードコアなゲーム性が特徴で、サバイバルゲームファンから高い評価を受けています。",
+        "price": "¥2,300",
+        "originalPrice": "¥4,600",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/252490",
         "date": "2026-02-12"
       }
     ],
@@ -1991,8 +2039,112 @@
         "url": "https://www.polygon.com/high-on-life-2-review/",
         "date": "2026-02-12",
         "is_translated": true
+      },
+      {
+        "title": "【『モンスターハンターストーリーズ3 ～運命の双竜～』を“シリーズ累計700時間”プレイヤーが徹...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "モンスターハンターストーリーズ3 ～運命の双竜～は、シリーズの累計700時間をプレイしたプレイヤーがレビューしています。このレビュー記事では、ゲームの評価ポイントとしてストーリーやキャラクターの魅力、戦闘システムの深さを取り上げています。また、シリーズファン向けの要素や、新規プレイヤーにも親しみやすい要素も紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/monster-hunter-stories-3-20260212-420220/",
+        "date": "2026-02-12",
+        "is_translated": false
+      },
+      {
+        "title": "【戦闘システムの進化や新要素に焦点を当てる「Lords of the Fallen II」の本格...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Lords of the Fallen II」のレビュー記事では、戦闘システムの進化や新要素に焦点を当てたゲームの評価ポイントを紹介しています。レビューの内容概要としては、ゲームのグラフィックの向上、戦闘システムの複雑さ、ストーリーの深みなどが取り上げられています。このレビューは、ゲームファンやアクションRPGを好む読者にとって有益な情報を提供する内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164080.html",
+        "date": "2026-02-12",
+        "is_translated": false
+      },
+      {
+        "title": "【現在 Steam で最も評価の高い新作ゲームの 1 つは、不気味な森の家の宇宙的なリンチオーブ...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Steamで現在最も評価の高い新作ゲームの1つは、不気味な森の家の宇宙的なリンチオーブです。このゲームは、独自の世界観やユニークなゲームプレイ性などから、高い評価を得ています。レビューでは、ゲームのグラフィックやサウンドデザインの高さ、また、プレイヤーに不気味な雰囲気を与える能力が高く評価されています。対象読者は、インディーゲームやホラーゲームが好きな人に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/sim/one-of-the-best-reviewed-new-games-on-steam-right-now-is-about-feeding-raccoons-and-cryptids-with-the-cosmic-lynchian-oven-of-your-eerie-woodland-house/",
+        "date": "2026-02-12",
+        "is_translated": true
+      },
+      {
+        "title": "【Lil Gator Game のアンダーグラウンド版『ゼルダ: ティアーズ オブ ザ キングダ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「Lil Gator Game」のアンダーグラウンド版『ゼルダ：ティアーズ オブ ザ キングダム』の魅力を紹介しています。評価ポイントとしては、独自のゲームシステムや美しいグラフィックが挙げられます。レビューの内容概要としては、ゲームの世界観やプレイ感、ストーリーの深みについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/pick-up-a-dose-of-joy-in-lil-gator-games-underground-zelda-tears-of-the-kingdom-esque-expansion-in-the-dark-out-now",
+        "date": "2026-02-12",
+        "is_translated": true
+      },
+      {
+        "title": "【ローンチの翌日、Starsand Island の開発者はユーザー同意、改造、偽レビューの懸念に対処】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、ゲームStarsand Islandのユーザー同意、改造、偽レビューに関する懸念に対処する開発者の対応について取り上げています。評価ポイントとしては、ゲームのユーザー同意への取り組みや、改造の自由度、そして偽レビューへの対策などが含まれます。対象読者は、ゲームの開発や運営に興味のある人や、Starsand Islandをプレイしたことがあるユーザーです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/a-day-after-launch-starsand-islands-devs-address-those-user-agreement-modding-and-fake-review-concerns",
+        "date": "2026-02-12",
+        "is_translated": true
+      },
+      {
+        "title": "【Epomaker G84 HE ゲーミング キーボード レビュー: 磁気スイッチは予算内に収まります】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Epomaker G84 HE ゲーミング キーボードは予算内で高品質な磁気スイッチを搭載しており、ゲーマーのニーズに応える優れた性能を発揮しています。このレビューでは、キーボードの設計と構造、磁気スイッチの特徴、そしてゲームプレイでの実際の使用感について評価しています。特に、予算に厳しいゲーマー向けの優れた選択肢であると言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/epomaker-g84-he-gaming-keyboard-review-magnetic-switches-on-a-budget-kinda",
+        "date": "2026-02-12",
+        "is_translated": true
+      },
+      {
+        "title": "【『Yakuza Kiwami 3 & Dark Ties』は興味深い道を切り開いていますが、R...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "『Yakuza Kiwami 3 & Dark Ties』は、興味深いゲームです。このゲームの評価ポイントとしては、ストーリーの深みやキャラクターの魅力が挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの高品質さが評価されています。また、シリーズのファンやアクションアドベンチャーゲームを楽しみたい方には特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/yakuza-kiwami-3-dark-ties-sets-up-an-intriguing-path-but-rgg-will-need-to-prove-its-worth-joining-them-on-that-road",
+        "date": "2026-02-12",
+        "is_translated": true
+      },
+      {
+        "title": "【『ロミオは死んだ男』のすべてのカツカレーのレシピを再現しましたが、剣の扱いが上達するものはほと...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "本レビュー記事では、ゲーム『ロミオは死んだ男』の特徴的な要素であるカツカレーのレシピを再現したほか、剣の扱いの上達システムについても触れています。ゲームの評価ポイントとして、剣の扱いのシステムやカツカレーのレシピの再現度が取り上げられています。対象読者は、このゲームに興味がある人や、ゲームのシステムや要素に興味がある人向けの記事です。記事では、ゲームの魅力やシステムの詳細についても言及しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/i-recreated-every-katsu-curry-recipe-in-romeo-is-a-dead-man-and-almost-none-of-them-made-me-better-with-swords",
+        "date": "2026-02-12",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-12T13:24:21.292414"
+  "last_updated": "2026-02-12T21:34:07.307710"
 }
