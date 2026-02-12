@@ -508,6 +508,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/god-of-war/info/",
         "date": "2026-02-12"
+      },
+      {
+        "title": "F1® 25",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "F1® 25がSteamで60% OFFセール中です。このレースゲームは、リアルなレース体験を提供することで人気を博しており、グラフィックや操作性が高く評価されています。現在、Steamでの販売価格が大幅に割引されており、レースゲームファンにはおすすめのタイトルです。",
+        "price": "¥3,360",
+        "originalPrice": "¥8,400",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3059520",
+        "date": "2026-02-12"
       }
     ],
     "review": [
@@ -1953,8 +1965,34 @@
         "url": "https://www.inside-games.jp/article/2026/02/12/177275.html",
         "date": "2026-02-12",
         "is_translated": false
+      },
+      {
+        "title": "【エドモンド・マクミレン、ミュウジェニクスのニャーカメオリスト作成について語る：「衝突するイデオ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、エドモンド・マクミレンがミュウジェニクスのニャーカメオリストを作成する過程について語っています。ゲームの評価ポイントとしては、ユニークなゲームシステムやキャラクターの個性が高く評価されています。また、レビューの内容概要としては、ゲームのストーリーやグラフィックの質も高く評価されています。対象読者としては、ミュウジェニクスのファンや新しいゲームを探している人にお勧めできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/edmund-mcmillen-on-assembling-mewgenics-meow-cameo-list-the-inclusion-of-people-with-clashing-ideologies-felt-appropriate",
+        "date": "2026-02-12",
+        "is_translated": true
+      },
+      {
+        "title": "【High on Life 2 レビュー: 過激化した世代のための過激なシューティング ゲーム】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "「High on Life 2」は、過激なアクションとユーモアを備えたシューティングゲームで、最新の世代のプレイヤーに特に合った作品です。このレビューでは、ゲームの評価ポイントとして、グラフィックの進化、ストーリーの独創性、そして快適な操作性を取り上げています。さらに、ゲームの過激な内容や、ユーモアを交えたストーリー展開などが、特に若い世代のプレイヤーに人気があると指摘しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/high-on-life-2-review/",
+        "date": "2026-02-12",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-12T09:48:45.919268"
+  "last_updated": "2026-02-12T13:24:21.292414"
 }
