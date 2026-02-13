@@ -206,6 +206,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/loveyoutodeathbundle_bundle",
         "date": "2026-02-11"
+      },
+      {
+        "title": "Sci-Fi Shooters 2.0",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Sci-Fi Shooters 2.0というバンドルが現在販売中です。このバンドルには、主要タイトルとして「Killsquad」、「HELLION」、「Dusk」などが含まれています。ジャンルはSFをテーマにしたシューティングゲームで、価格帯は大まかに1,000円から3,000円程度と幅があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/scifishootersbundle2025_bundle",
+        "date": "2026-02-13"
       }
     ],
     "sale": [
@@ -555,6 +567,54 @@
         "discount": "60% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/2161700",
+        "date": "2026-02-13"
+      },
+      {
+        "title": "DINO CRISIS",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DINO CRISISがSteamで50% OFFセール中です。このゲームは、恐竜が登場するサバイバルホラーゲームで、プレイヤーは恐竜から逃げながら謎を解く必要があります。現在、半額の割引で購入できます。評価は非常に高く、人気も高まっています。",
+        "price": "¥500",
+        "originalPrice": "¥1,000",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/4249130",
+        "date": "2026-02-13"
+      },
+      {
+        "title": "DINO CRISIS 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DINO CRISIS 2がSteamで50% OFFセール中です。このゲームは、サバイバルホラーのジャンルに分類され、恐竜との闘争を描いたアクションアドベンチャーゲームです。通常価格から半額になるこのセールは、大きな割引です。DINO CRISIS 2は、ゲームファンから高い評価を受けており、人気度も高く、特にホラーゲームのファンにはおすすめです。",
+        "price": "¥500",
+        "originalPrice": "¥1,000",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/4249140",
+        "date": "2026-02-13"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33は、アドベンチャーゲームで、探索と謎解きが特徴です。現在、Variousで40%割引されています。評価は良好で、ユーザーから高い人気を博しています。興味がある方は、セール中のこの機会にチェックしてみてください。",
+        "price": "$35.58",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-02-13"
+      },
+      {
+        "title": "Ghost of Tsushima DIRECTOR'S CUT",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「Ghost of Tsushima DIRECTOR'S CUT」がVariousで48%割引のセール中です。この作品は、美しい日本の風景や、スムーズなアクションが特徴です。現在、48%割引で購入できます。高い評価と人気を誇るこのゲームは、ファンから高い支持を受けています。",
+        "price": "$31.17",
+        "originalPrice": "",
+        "discount": "-48%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
         "date": "2026-02-13"
       }
     ],
@@ -2105,8 +2165,47 @@
         "url": "https://www.polygon.com/marathon-state-of-play-february-2026/",
         "date": "2026-02-12",
         "is_translated": true
+      },
+      {
+        "title": "【「Battlefield 6」シーズン2のゲームプレイトレーラーがお披露目、開幕は2月17日】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Battlefield 6」のシーズン2のゲームプレイトレーラーが公開されました。このレビュー記事では、シーズン2の新要素やゲームプレイの変更点などが紹介されています。ゲームの評価ポイントとしては、グラフィックの向上やマルチプレイモードの拡張が挙げられます。また、レビューでは、シーズン2のストーリーや新しいマップの追加などが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164142.html",
+        "date": "2026-02-13",
+        "is_translated": false
+      },
+      {
+        "title": "【多彩な新要素を導入する「Absolum」アップデート1.1“運命の糸”が配信、新トレーラーも：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Absolum」のアップデート1.1“運命の糸”が配信され、多彩な新要素が導入されました。このアップデートでは、ストーリーやゲームプレイに大きな変化が加わり、プレイヤーに新たな体験を提供します。レビューの評価ポイントとしては、新しいストーリーの深み、ゲームプレイの多様性、グラフィックの向上などがあげられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164141.html",
+        "date": "2026-02-13",
+        "is_translated": false
+      },
+      {
+        "title": "【開発ドキュメンタリーや多彩なゲームプレイ機能を導入する「レイマン 30周年エディション」が正式...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「レイマン 30周年エディション」のレビュー記事では、開発ドキュメンタリーの導入や多彩なゲームプレイ機能が高く評価されています。特に、ゲームのグラフィックやサウンドトラックが美しいこと、そして様々なステージやキャラクターが用意されていることが良い点として挙げられています。このゲームは、ファミリー向けやアクションゲームファンなど、幅広い年齢層のユーザーに楽しんでもらえる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164106.html",
+        "date": "2026-02-13",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-13T02:08:32.862936"
+  "last_updated": "2026-02-13T09:43:48.381320"
 }
