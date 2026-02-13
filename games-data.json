@@ -2204,8 +2204,34 @@
         "url": "https://doope.jp/2026/02164106.html",
         "date": "2026-02-13",
         "is_translated": false
+      },
+      {
+        "title": "【「ゲーム・オブ・スローンズ」オープンワールドRPG『ゲーム・オブ・スローンズ：キングスロード』...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ゲーム・オブ・スローンズの世界を舞台にしたオープンワールドRPG「ゲーム・オブ・スローンズ：キングスロード」のレビュー記事では、ゲームの評価ポイントとしてグラフィックの質やシナリオの深みが高く評価されていること、レビューの内容としてはゲームのストーリーやキャラクターの魅力が述べられていることがわかります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260213-420755/",
+        "date": "2026-02-13",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam レビューはプレイヤーのスペックを表示するように設定されているため、プレイヤーの経験...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、Steamのレビューがプレイヤーのスペックを表示するように設定されているため、プレイヤーの経験を参考にしてゲームを評価することができます。ゲームの評価ポイントとして、グラフィックの品質、ゲームプレイの面白さ、サウンドトラックのクオリティが重要視されています。また、レビューの内容として、ゲームのストーリー、キャラクターの魅力、難易度の適切さが概要として述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/steam-reviews-set-to-show-a-players-specs-so-its-easier-to-know-if-youll-share-their-experience-or-they-misread-the-minimum/",
+        "date": "2026-02-13",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-13T09:43:48.381320"
+  "last_updated": "2026-02-13T13:15:47.324298"
 }
