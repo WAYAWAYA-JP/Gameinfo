@@ -218,6 +218,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/scifishootersbundle2025_bundle",
         "date": "2026-02-13"
+      },
+      {
+        "title": "Best of Humble Bundle: Call of the Wild 9th Anniversary",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Best of Humble Bundle: Call of the Wild 9th Anniversaryというバンドルが販売中です。このバンドルには、Horizon Zero Dawn、Days Gone、Ghost of Tsushimaなどのアクションアドベンチャーゲームが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/callwild9thanniversary_bundle",
+        "date": "2026-02-13"
+      },
+      {
+        "title": "Overwhelming Positive Games Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Overwhelming Positive Games Bundleが販売中で、このバンドルには非常に高い評価を受けているタイトルが含まれています。主なタイトルとしては、例えば「Cuphead」や「Hyper Light Drifter」などのインディーゲームが含まれており、ジャンルはアクションやアドベンチャーが中心です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/overwhelmingpositivegamesbundle_gamesbundle",
+        "date": "2026-02-13"
       }
     ],
     "sale": [
@@ -615,6 +639,18 @@
         "discount": "-48%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
+        "date": "2026-02-13"
+      },
+      {
+        "title": "ペルソナ５ ザ・ロイヤル",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ５ ザ・ロイヤルがSteamで70% OFFセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、社会的なシミュレーションとダンジョン探索を融合させた独自のゲームシステムが特徴です。現在、Steamでは大幅な割引が行われていて、通常価格より70％安く購入することができます。ペルソナシリーズは、深いストーリーや魅力的なキャラクターで知られており、ファンから高い評価を得ています。",
+        "price": "¥2,303",
+        "originalPrice": "¥7,678",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1687950",
         "date": "2026-02-13"
       }
     ],
@@ -2230,8 +2266,47 @@
         "url": "https://www.pcgamer.com/hardware/steam-reviews-set-to-show-a-players-specs-so-its-easier-to-know-if-youll-share-their-experience-or-they-misread-the-minimum/",
         "date": "2026-02-13",
         "is_translated": true
+      },
+      {
+        "title": "【タイムトラベルSci-Fiホラー「Cronos: The New Dawn」向けのイージー難易...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "タイムトラベルをテーマにしたSci-Fiホラーのゲーム「Cronos: The New Dawn」は、イージーな難易度でプレイヤーを楽しませます。このゲームの評価ポイントとしては、ユニークなストーリー展開や、アトモスフィアーの作り込みが特に高く評価されています。さらに、グラフィックのクオリティも高く、ホラー要素を存分に楽しむことができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164171.html",
+        "date": "2026-02-13",
+        "is_translated": false
+      },
+      {
+        "title": "【HyperX FlipCast ゲーミングマイクのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "HyperX FlipCast ゲーミングマイクは、高音質と使い勝手の良さを兼ね備えた優秀なマイクです。このレビュー記事では、音質や操作性、デザインなどを評価ポイントとして取り上げ、ユーザーのニーズに応えるかどうかを検討しています。また、ゲーミングマイクとしての特徴や、他の製品との比較なども含め、ゲーム愛好家やコンテンツクリエイターが参考にできる内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/microphones/hyperx-flipcast-gaming-microphone-review/",
+        "date": "2026-02-13",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam レビューで PC のスペックを添付できるのも Steam Machine の準備の...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、Steam Machine の準備段階として、Steam レビューで PC のスペックを添付できる機能について紹介しています。記事では、この機能の利点として、より具体的なゲームの評価が可能になる点、ユーザーが自分の PC のスペックとレビューのスペックを比較し、ゲームの動作状況を予測できる点が挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/steam-reviews-letting-you-attach-your-pc-specs-is-another-steam-machine-prep-play-and-you-cant-convince-me-otherwise",
+        "date": "2026-02-13",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-13T13:15:47.324298"
+  "last_updated": "2026-02-13T21:35:32.392665"
 }
