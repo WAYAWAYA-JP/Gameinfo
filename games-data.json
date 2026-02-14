@@ -652,6 +652,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/lost-in-anomaly/info/",
         "date": "2026-02-14"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サイバーパンクアクションRPGであるCyberpunk 2077がVariousで65%割引セール中です。このゲームは、2077年の夜の霧に包まれたノーサンオークスを舞台に、非合法なハッキングや戦闘アクションを体験できることで人気です。現在の価格は割引前と比べて大幅に下がっており、興味がある方なら今が買い時かもしれません。",
+        "price": "$20.99",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
+        "date": "2026-02-14"
       }
     ],
     "review": [
@@ -2269,5 +2281,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-14T13:03:46.108072"
+  "last_updated": "2026-02-14T21:24:42.756952"
 }
