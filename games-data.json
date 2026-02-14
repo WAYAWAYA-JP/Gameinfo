@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/overwhelmingpositivegamesbundle_gamesbundle",
         "date": "2026-02-13"
+      },
+      {
+        "title": "Power Shock Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Power Shock Bundleが販売中です。このバンドルには、主要タイトルとして「Rise to Ruins」や「Slipstream」などが含まれており、ジャンルはアクションやアドベンチャーを中心に構成されています。大まかな価格帯は10ドル以下とお手頃な価格で提供されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/power-shock-bundle",
+        "date": "2026-02-14"
       }
     ],
     "sale": [
@@ -2163,8 +2175,99 @@
         "url": "https://www.pcgamer.com/games/fps/high-on-life-2-review/",
         "date": "2026-02-13",
         "is_translated": true
+      },
+      {
+        "title": "【韓国強豪eスポーツチームT1、なんと「韓国海軍」と提携発表。ゲーマーの戦術＆データ活用で、軍事...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "韓国海軍と提携したeスポーツチームT1のレビュー記事があります。この記事では、ゲーマーの戦術とデータの活用が軍事にどのように役立つかを紹介しています。さらに、チームT1の戦略とその成功要因についても詳しく説明しています。eスポーツや軍事技術に興味がある方に特におすすめの記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/t1-20260214-421062/",
+        "date": "2026-02-14",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料RPG『怪獣８号 THE GAME』ハーフアニバーサリー第2弾開幕。豪華記念ログ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料のRPGゲーム「怪獣８号 THE GAME」のハーフアニバーサリー第2弾が始まりました。このイベントでは、豪華な記念ログインボーナスが用意されています。ゲームの評価ポイントとしては、面白いストーリーやキャラクター、そして簡単で楽しいゲームプレイがあげられます。レビューの内容概要としては、ゲームの魅力やイベントの内容、そしておすすめ度が紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/kaiju-no8-20260214-421055/",
+        "date": "2026-02-14",
+        "is_translated": false
+      },
+      {
+        "title": "【『ディアブロ3』開発元いわく、10年以上経ってもいまだに「数百万人」が遊んでいる。シリーズ作品...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ディアブロ3』は、発売から10年以上が経過してもなお、数百万人のプレイヤーが存在する人気ゲームです。このレビュー記事では、ゲームの評価ポイントとして、長期的なプレイの魅力やシリーズ作品の完成度が高く評価されています。また、シリーズファンやアクションRPGを楽しむことが好きな読者に向けて、ゲームの魅力を紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/diablo-20260214-421032/",
+        "date": "2026-02-14",
+        "is_translated": false
+      },
+      {
+        "title": "【協力プレイ対応ホラーゲーム『REANIMAL』2人プレイでクリアまで遊ぶと、ほぼホラー版『It...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "協力プレイ対応のホラーゲーム「REANIMAL」は、2人でクリアまで遊んだレビュー記事です。ゲームの評価ポイントとしては、ホラーエレメントの充実や協力プレイの面白さが高く評価されています。また、映画「IT」のような不気味な雰囲気を醸し出しているのも特徴的です。このレビュー記事は、ホラーゲームファンや協力プレイを楽しむことに興味がある方に読んでほしい内容となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/re-20260214-420829/",
+        "date": "2026-02-14",
+        "is_translated": false
+      },
+      {
+        "title": "【新曲と多数の修正を導入する「UNBEATABLE」の1.7.1パッチが配信、さらなる楽曲の予告...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「UNBEATABLE」の1.7.1パッチの更新内容を紹介しています。このパッチでは、新曲の追加やさまざまな修正が行われており、ゲームの楽しみ方が一層豊かになりました。また、将来的な楽曲追加も予告されており、ゲームファンにとって朗報です。この記事は、ゲームの最新情報に興味がある人や「UNBEATABLE」のプレイヤーに特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164163.html",
+        "date": "2026-02-14",
+        "is_translated": false
+      },
+      {
+        "title": "【海底都市ルルイエを探索するSci-Fi“クトゥルフ”アドベンチャー「Cthulhu: The ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、海底都市ルルイエを探索するSci-Fi「クトゥルフ」アドベンチャーゲーム「Cthulhu: The ...」について評価しています。ゲームの評価ポイントとしては、ゲームのグラフィックやサウンドデザイン、そしてストーリーの深みがあり面白いという点が挙げられます。レビューの内容概要としては、ゲームの世界観やキャラクターの造形が素晴らしいと評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164155.html",
+        "date": "2026-02-14",
+        "is_translated": false
+      },
+      {
+        "title": "【ZA/UMが開発を進めている次回作「ZERO PARADES」の本格的なゲームプレイ映像が公開...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ZA/UMが開発中の新作「ZERO PARADES」のゲームプレイ映像が公開されました。このレビュー記事では、ゲームの評価ポイントとして、ストーリーの深みやゲームシステムの独創性を高く評価しています。また、グラフィックの美しさやサウンドトラックの素晴らしさも評価されています。ゲームファンやZA/UMの前作をプレイしたことがある人には必見の記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164159.html",
+        "date": "2026-02-14",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-14T01:57:17.835215"
+  "last_updated": "2026-02-14T09:30:13.328468"
 }
