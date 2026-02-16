@@ -158,6 +158,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/power-shock-bundle",
         "date": "2026-02-14"
+      },
+      {
+        "title": "Just Cause Complete Collection 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble BundleでJust Cause Complete Collection 2026のバンドルが販売中です。このバンドルには、Just Cause、Just Cause 2、Just Cause 3などの主要タイトルが含まれています。ジャンルはアクションアドベンチャーで、大まかな価格帯は2000円から3000円程度です。Just Causeシリーズのファンにはお勧めのバンドルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/justcausecompletecollection2026_bundle",
+        "date": "2026-02-16"
+      },
+      {
+        "title": "HHPower Shock Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでHHPower Shock Bundleが販売中です。このバンドルには、Hyperspace Invaders、Hyperspace Invaders：Arcade、Hyperspace Invaders：Zeroなどの主要タイトルが含まれており、シューティングゲームのファンに人気のジャンルです。大まかな価格帯は10ドル以下とお手頃な価格設定になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/power-shock-bundle",
+        "date": "2026-02-16"
       }
     ],
     "sale": [
@@ -483,6 +507,18 @@
         "discount": "-15%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/death-stranding-2-on-the-beach/info/",
+        "date": "2026-02-16"
+      },
+      {
+        "title": "Street Fighter 6",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気格闘ゲームのStreet Fighter 6がSteamで50% OFFのセール中です。このゲームは、グラフィックやサウンドが高品質で、プレイヤーがさまざまなキャラクターを操作して対戦することができます。Steamユーザーからの評価は非常に高いです。現在、半額のセール中なので、格闘ゲームファンにはおすすめです。",
+        "price": "¥2,495",
+        "originalPrice": "¥4,990",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1364780",
         "date": "2026-02-16"
       }
     ],
@@ -1864,8 +1900,47 @@
         "url": "https://doope.jp/2026/02164196.html",
         "date": "2026-02-15",
         "is_translated": false
+      },
+      {
+        "title": "【協力プレイ対応“人間なりすまし”ガソスタ経営ゲーム『Roadside Research』初動で...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Roadside Research』は、協力プレイ対応のガソリンスタンド経営ゲームで、プレイヤーが人間に成りすまして、様々なミッションを遂行する必要があります。このゲームの評価ポイントとしては、協力プレイの面白さ、ゲームのストーリーやキャラクターの魅力があります。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの高さ、また。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/roadside-research-20260216-421553/",
+        "date": "2026-02-16",
+        "is_translated": false
+      },
+      {
+        "title": "【須田剛一氏の新作『ロミオ・イズ・ア・デッドマン』公式、メディアからの高評価レビューと一緒に「酷...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "須田剛一氏の新作『ロミオ・イズ・ア・デッドマン』は公式でメディアからの高評価レビューが紹介されています。評価ポイントとしては、ゲームのストーリーやキャラクターの設定が独特で面白いと評価されています。また、レビューの内容概要としては、ゲームのグラフィックやサウンドトラックも高く評価されています。対象読者としては。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260216-421498/",
+        "date": "2026-02-16",
+        "is_translated": false
+      },
+      {
+        "title": "【Discordは「自動検出とAI検証および人間によるレビューを組み合わせて」エージゲートするサ...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事では、Discordのエージゲートシステムについて取り上げています。エージゲートシステムは自動検出とAI検証、そして人間によるレビューを組み合わせて、不適切なコンテンツを検出します。このシステムの評価ポイントとしては、不適切なコンテンツの検出精度や、システムの透明性などが挙げられます。また、レビューでは、システムの有効性や、利用者のセキュリティへの影響についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/software/discord-will-decide-which-servers-to-age-gate-with-a-combination-of-automated-detection-with-ai-validation-and-human-review/",
+        "date": "2026-02-16",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-16T02:03:58.616102"
+  "last_updated": "2026-02-16T09:54:10.685739"
 }
