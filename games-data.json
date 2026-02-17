@@ -158,6 +158,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/power-shock-bundle",
         "date": "2026-02-16"
+      },
+      {
+        "title": "February 2026 Humble Choice",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、2026年2月のHumble Choiceバンドルが販売中です。このバンドルには、主要タイトルとして『The Outer Worlds』、『Desperados III』、『Wasteland 3』などが含まれており、主にアクションアドベンチャーやロールプレイングゲームが収録されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/february_2026_choice",
+        "date": "2026-02-17"
+      },
+      {
+        "title": "Artsy Pixel Puzzles Bundle 5",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Artsy Pixel Puzzles Bundle 5がIndieGalaで販売中です。このバンドルには、Gris、The Swapper、The Talos Principleなどのパズルゲームが含まれています。パズルゲームファンにはたまらないジャンルです。価格帯はおおよそ1000円前後で、コストパフォーマンスの高いバンドルと言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/artsy-pixel-puzzles5-bundle",
+        "date": "2026-02-17"
       }
     ],
     "sale": [
@@ -471,6 +495,42 @@
         "discount": "-60%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
+        "date": "2026-02-17"
+      },
+      {
+        "title": "Monster Hunter Rise + Sunbreak",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Monster Hunter Rise + SunbreakがSteamで84%オフのセール中です。このゲームはアクションアドベンチャー系のハンティングゲームで、モンスターを狩りながら冒険することができます。通常価格より大幅に割引されたこの価格で購入することができます。Steamユーザーの評価では非常に高い人気を誇り、多くのユーザーから高評価を得ています。",
+        "price": "¥958",
+        "originalPrice": "¥5,990",
+        "discount": "84% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/692569",
+        "date": "2026-02-17"
+      },
+      {
+        "title": "Nobody Wants to Die",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「Nobody Wants to Die」が現在、Variousで100%割引されています。このゲームは、ユニークなゲームプレイとストーリーで知られており、プレイヤーから高い評価を得ています。セール中の価格は完全無料なので、興味がある方はこの機会に一度試してみることをお勧めします。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/nobody-wants-to-die/info/",
+        "date": "2026-02-17"
+      },
+      {
+        "title": "Warhammer 40,000: Space Marine 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Warhammer 40,000: Space Marine 2がバリューにラインナップされ、現在62%オフでのセール中です。このアクションパックシューティングゲームは、ダイナミックな戦闘と壮大なストーリーで知られており、ファンからの評価も高く、人気のゲームとなっています。",
+        "price": "$22.95",
+        "originalPrice": "",
+        "discount": "-62%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
         "date": "2026-02-17"
       }
     ],
@@ -1917,8 +1977,60 @@
         "url": "https://doope.jp/2026/02164225.html",
         "date": "2026-02-16",
         "is_translated": false
+      },
+      {
+        "title": "【注目の「世論操作」報道ゲーム『コメンテーター』Steam無料体験版、2月24日に配信へ。選ぶ“...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「世論操作」がテーマのゲーム『コメンテーター』のレビュー記事があります。このゲームは、Steamで無料体験版が配信予定です。ゲームの評価ポイントとしては、プレイヤーが情報を操作して世論を形成するというユニークなゲームシステムが評価されています。さらに、レビューでは、ゲームのストーリーやキャラクターの描写も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260217-421820/",
+        "date": "2026-02-17",
+        "is_translated": false
+      },
+      {
+        "title": "【デスクトップ放置“『Balatro』風”自動ポーカー『Card Corner』発表、3月10日...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Card Cornerは、デスクトップを活用して自動でポーカーをプレイできるゲームです。このゲームの評価ポイントとしては、ユーザーのデスクトップを有効に利用できる点や、自動ポーカー機能が簡単に使用できる点が挙げられます。レビューでは、ゲームの使い方の簡素さや、デスクトップの空きスペースを有効に利用できる点について高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260217-421744/",
+        "date": "2026-02-17",
+        "is_translated": false
+      },
+      {
+        "title": "【「AIしか遊べない」宇宙MMO『SpaceMolt』公開。AIが作りAIが遊ぶ、“人間抜き”の...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、宇宙を舞台にしたMMOゲーム『SpaceMolt』の評価ポイントを紹介しています。記事の内容概要としては、AIがゲームの開発からプレイまで一切を行うユニークなシステムを取り上げています。また、ゲームのグラフィックやサウンドトラックの質も高く評価されています。対象読者は、ゲーム好きやテクノロジーに興味がある人向けで、MMOゲームファンには必読の記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260217-421734/",
+        "date": "2026-02-17",
+        "is_translated": false
+      },
+      {
+        "title": "【Styx: Blades of Greed レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Styx: Blades of Greed レビューは、ゲームの評価ポイントとして、ストイックなゲーム性やキャラクターの魅力を挙げています。レビューの内容概要としては、ゲームのストーリーやグラフィックの 퀄리ティも高く評価されています。また、特にアクションゲームファンや、ダークファンタジーを好む層がこのレビューを参考にすることができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/styx-blades-of-greed-review/",
+        "date": "2026-02-17",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-17T02:01:21.533819"
+  "last_updated": "2026-02-17T09:46:47.153903"
 }
