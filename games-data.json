@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "February 2026 Humble Choice",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、2026年2月のHumble Choiceバンドルが販売中です。このバンドルには、代表的なタイトルとして「Dead Cells」、「Hyper Light Drifter」、「Cuphead」などが含まれており、ゲームジャンルはアクションやアドベンチャーなど多様です。大まかな価格帯は10ドルから20ドル程度で、バンドルの内容や価格は変動することがあります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/february_2026_choice",
-        "date": "2026-02-07"
-      },
-      {
-        "title": "Artsy Pixel Puzzles Bundle 5",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Artsy Pixel Puzzles Bundle 5というバンドルが販売中です。このバンドルには、グラフィックやゲーム性が豊かなパズルゲームが多数収録されています。主要タイトルとしては、グラフィックが美しい「Golf Peaks」や、挑戦的な「Pipe Push Paradise」、そしてユニークな「The Swapper」などが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/artsy-pixel-puzzles5-bundle",
-        "date": "2026-02-07"
-      },
-      {
         "title": "Nacon Racing Collection 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -185,54 +161,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "DEATH STRANDING DIRECTOR'S CUT",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「DEATH STRANDING DIRECTOR'S CUT」がSteamで75%割引のセール中です。このゲームは、広大なオープンワールドを探索し、物語を進めることで知られています。高い評価を受けており、人気度も高いゲームです。現在、Steamで大幅な割引を受けることができ、価格は大幅に下がっています。興味がある方は、この機会にぜひチェックしてみてください。",
-        "price": "¥1,245",
-        "originalPrice": "¥4,980",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1850570",
-        "date": "2026-02-10"
-      },
-      {
-        "title": "仁王２ Complete Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "仁王２ Complete EditionがSteamで60% OFFセール中です。このアクションRPGゲームは、戦国時代の日本を舞台に、剣術と魔法を駆使して戦うのが特徴です。通常価格から大幅に値下げされたこのゲームは、非常に人気があり、高い評価を受けています。セール期間中は、通常価格の40%で購入することができます。",
-        "price": "¥2,552",
-        "originalPrice": "¥6,380",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1325200",
-        "date": "2026-02-10"
-      },
-      {
-        "title": "The Last of Us™ Part I",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Last of Us Part Iは、人気アクションアドベンチャーゲームで、感動的なストーリーと心を揺さぶるキャラクターで知られています。このゲームは、批評家とプレイヤーから高く評価されており、多くの賞を受賞しています。現在、Variousで55%オフのセール中で、通常よりも低い価格で購入できます。これは、アクションアドベンチャーゲームファンにとって大きな機会です。",
-        "price": "$26.96",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-last-of-us-part-i/info/",
-        "date": "2026-02-10"
-      },
-      {
-        "title": "Horizon Forbidden West Complete Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Horizon Forbidden West Complete Editionは、オープンワールドアクションアドベンチャーゲームで、ロボットと巨大な生物が登場する未来世界を舞台にしているのが特徴です。このゲームは非常に人気があり、評価も高いです。今回はVariousで47%割引されており、通常価格よりも大幅に安い価格で購入できます。",
-        "price": "$31.95",
-        "originalPrice": "",
-        "discount": "-47%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/horizon-forbidden-west-complete-edition/info/",
-        "date": "2026-02-10"
-      },
       {
         "title": "God of War Ragnarök",
         "platform": "Various",
@@ -532,61 +460,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/helldivers-2/info/",
         "date": "2026-02-16"
+      },
+      {
+        "title": "SILENT HILL 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サバイバルホラーゲームの名作であるSILENT HILL 2が、現在60％割引のセール中です。このゲームは、独自のストーリーテリングと心を引き付けられるキャラクターで人気があり、批評家からも高く評価されています。プレイヤーは、主人公ジェームズ・サンダーランドが、亡くなった妻のメアリーを探すために、不気味で不安な雰囲気の町シラミを探索するという、ハイクオリティな恐怖体験を味わうことができます。",
+        "price": "$28.00",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
+        "date": "2026-02-17"
       }
     ],
     "review": [
-      {
-        "title": "【“スコット・ピルグリム”の新作2Dアクションアドベンチャー「Scott Pilgrim EX」...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Scott Pilgrim EX」のレビュー記事では、この2Dアクションアドベンチャーゲームの評価ポイントとして、魅力的なグラフィックや快適な操作感、そして豊富なキャラクターを挙げています。また、ゲームの内容は、ファンが求める要素を盛り込んだものであり、ストーリーやサウンドトラックも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02163961.html",
-        "date": "2026-02-07",
-        "is_translated": false
-      },
-      {
-        "title": "【コスプレ】『パルワールド』ブースに美女コスプレイヤーが降臨！ゾーイ、サヤ、リリィがスタイル抜群で美しすぎた【台北ゲームショウ2026】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "台北ゲームショウ2026のレビュー記事では、パルワールドのブースが美女コスプレイヤーに占領された様子が紹介されています。ゾーイ、サヤ、リリィなどのキャラクターを演じたコスプレイヤーたちはスタイル抜群で美しすぎる姿を見せていました。この記事はゲームファンやコスプレ愛好家に特にオススメできると思います。記事では、イベントの雰囲気やコスプレイヤーの姿を通じて、ゲーム文化の豊かさを感じることができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/02/07/177098.html",
-        "date": "2026-02-07",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料『天穂のサクナヒメ～ヒヌカ巡霊譚～』では、無料ガチャ石獲得用「動画広告」も“農業...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『天穂のサクナヒメ～ヒヌカ巡霊譚～』は基本プレイ無料のゲームで、無料ガチャ石を獲得するための動画広告が特徴です。このゲームは、無料でプレイできる点や、動画広告を利用することでガチャ石を入手できる点が評価のポイントです。また、ゲームのレビューでは、ストーリーやキャラクターの魅力も高く評価されています。このゲームは、基本プレイ無料ゲームやガチャシステムに興味があるユーザーに推奨できます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/sakuna-20260207-418014/",
-        "date": "2026-02-07",
-        "is_translated": false
-      },
-      {
-        "title": "【『仁王3』瞬く間にSteam同時接続者数7万人突破。ユーザー評価も上々でスタートを切るオープン...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『仁王3』のレビュー記事では、Steamでの同時接続者数が7万人を突破し、大きな成功を収めたことが評価ポイントの1つです。また、ユーザー評価も上々で、スタートを切ったオープン世界が高い評価を受けています。このレビューは、ゲームファンやオープン世界アクションゲームを楽しみたい人のために、ゲームの内容や評価ポイントについて詳細に紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/nioh-3-418002-20260207/",
-        "date": "2026-02-07",
-        "is_translated": false
-      },
       {
         "title": "【『アークナイツ：エンドフィールド』は学問であり模試であり生活破壊。『仁王3』オープンフィールド...：レビュー】",
         "platform": "AUTOMATON",
@@ -1977,8 +1865,60 @@
         "url": "https://doope.jp/2026/02164193.html",
         "date": "2026-02-16",
         "is_translated": false
+      },
+      {
+        "title": "【旧正月の到来を祝う「Twinkleby」の期間限定イベントと50％オフセールがスタート、“Sh...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Twinkleby」の旧正月イベントとセールが開始されました。このイベントでは、50％オフのセールや期間限定コンテンツを楽しむことができます。ゲームの評価ポイントとしては、イベントの内容やセールの対象商品、プレイヤーへのメリットなどがあります。レビューの内容は、イベントの魅力やセールの利点、ゲーム全体の評価などを含みます。対象読者は、ゲームファンや「Twinkleby」のプレイヤーなどです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164239.html",
+        "date": "2026-02-17",
+        "is_translated": false
+      },
+      {
+        "title": "【33人Co-opローグライクアクション「33 Immortals」の期間限定デモが配信：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「33 Immortals」のレビュー記事では、同作の期間限定デモ版をプレイしての評価ポイントを紹介しています。最大33人でのCo-opプレイが可能なローグライクアクションゲームという点、グラフィックやサウンドのクオリティが高く、臨場感がある点、そして操作性がしっかりと調整されている点が評価される要素です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164254.html",
+        "date": "2026-02-17",
+        "is_translated": false
+      },
+      {
+        "title": "【大規模なプレイテストの開催が迫る新生「Marathon」の本格的なゲームプレイ映像が公開】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "新生「Marathon」の大規模なプレイテストが近づき、本格的なゲームプレイ映像が公開されました。このレビュー記事では、新たなゲームプレイの内容やグラフィックの向上、ゲームの総合的な評価ポイントを紹介しています。特に、ゲームのストーリーや操作性、グラフィックの質について評価しています。また、ゲームファンや新規プレイヤー向けの情報も含まれており、対象読者は幅広いゲーム愛好家です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164201.html",
+        "date": "2026-02-16",
+        "is_translated": false
+      },
+      {
+        "title": "【人気PC自作シム続編「PC Building Simulator 2」の海外コンソール対応がア...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「PC Building Simulator 2」のレビュー記事では、ゲームの評価ポイントとしてグラフィックの向上や新しい機能の追加が挙げられています。また、レビューの内容概要として、ゲームの操作性やリアリティの高さが高く評価されています。このレビュー記事は、PCゲームや自作PCに興味を持つ人にとって参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164225.html",
+        "date": "2026-02-16",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-16T21:29:12.665681"
+  "last_updated": "2026-02-17T02:01:21.533819"
 }
