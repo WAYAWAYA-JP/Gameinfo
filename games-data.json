@@ -556,6 +556,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
         "date": "2026-02-17"
+      },
+      {
+        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "platform": "Various",
+        "type": "sale",
+        "description": "S.T.A.L.K.E.R. 2: Heart of Chornobylは、オープンワールドとFPSの要素を組み合わせたサバイバルホラーゲームで、プレイヤーは放射能で汚染された地域を探索し、さまざまなモンスターと戦いながらストーリーを進めていきます。このゲームは、ストーリーの深さとグラフィックの美しさで評価されており、ファンから高い人気を博しています。",
+        "price": "$34.97",
+        "originalPrice": "",
+        "discount": "-42%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
+        "date": "2026-02-17"
+      },
+      {
+        "title": "Subnautica",
+        "platform": "Various",
+        "type": "sale",
+        "description": "SubnauticaがVariousで67%オフのセール中です。このゲームは、オープンワールドのサバイバルアドベンチャーゲームで、美しい海底世界を探索することができます。現在、非常に人気の高いゲームで、Steamでの評価は「非常に好評」です。価格は大幅に割引されていますので、興味がある方はこの機会にぜひチェックしてみてください。",
+        "price": "$9.89",
+        "originalPrice": "",
+        "discount": "-67%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/subnautica/info/",
+        "date": "2026-02-17"
       }
     ],
     "review": [
@@ -2105,8 +2129,34 @@
         "url": "https://www.polygon.com/paranormasight-mermaids-curse-review-switch/",
         "date": "2026-02-17",
         "is_translated": true
+      },
+      {
+        "title": "【最大8人ペンギン交流サンドボックス『A Game About Penguins』Steamデモ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『A Game About Penguins』は、最大8人でペンギンたちと交流するサンドボックスゲームです。レビューでは、ゲームのユニークなアイデアや、プレイヤー同士のコミュニケーションを促進するゲームデザインが高く評価されています。また、サンドボックスゲームとしての自由度や、ペンギンたちとのやり取りの面白さも評価ポイントとして挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260217-421899/",
+        "date": "2026-02-17",
+        "is_translated": false
+      },
+      {
+        "title": "【コルセア ガレオン 100 SD レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "コルセア ガレオン 100 SD は、ゲーミング用途に最適化された高性能キーボードです。このレビューでは、キーボードのデザインと耐久性、キースイッチの反応性とタイプ感、またカスタマイズ性などの評価ポイントを取り上げています。特に、ゲームプレイの快適さとキーボードの長期的な使用感に対する評価が重点になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/corsair-galleon-100-sd-review/",
+        "date": "2026-02-17",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-17T13:19:00.903211"
+  "last_updated": "2026-02-17T21:36:18.378108"
 }
