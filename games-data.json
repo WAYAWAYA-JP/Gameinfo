@@ -532,6 +532,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
         "date": "2026-02-17"
+      },
+      {
+        "title": "DAVE THE DIVER",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DAVE THE DIVERがVariousで58%オフのセール中です。このゲームは、ユニークなダイビングアクションと美しい海洋のグラフィックが特徴で、ファンから高い評価を得ています。現在の価格は、通常価格より大幅に安くなっています。人気ゲームとして知られており、多くのユーザーから好評価を得ています。",
+        "price": "$8.49",
+        "originalPrice": "",
+        "discount": "-58%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
+        "date": "2026-02-17"
+      },
+      {
+        "title": "Detroit: Become Human",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Detroit: Become Humanは、サイバーパンクを舞台にしたアドベンチャーゲームです。このゲームは、人間に近いアンドロイドが人間と同じ権利を求めるストーリーを描いています。現在、 Variousで84%の割引が行われているので、大幅に安くなっています。評価も高く、プレイヤーから高い人気を博しています。",
+        "price": "$6.49",
+        "originalPrice": "",
+        "discount": "-84%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
+        "date": "2026-02-17"
       }
     ],
     "review": [
@@ -2029,8 +2053,60 @@
         "url": "https://www.pcgamer.com/games/action/styx-blades-of-greed-review/",
         "date": "2026-02-17",
         "is_translated": true
+      },
+      {
+        "title": "【Steam邪悪おじいちゃんハウス脱出ホラー『DEDA』ロシアで爆発的人気。ユーザーレビューのほ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで配信されているおじいちゃんハウス脱出ホラー『DEDA』は、ロシアで爆発的人気を博しています。ユーザーレビューでは、恐怖要素の高さやストーリーの面白さが高く評価されています。また、グラフィックやサウンドデザインも褒められています。ホラーゲームファンや、新しい怖いゲームを探している人にはおすすめできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/deda-20260217-421847/",
+        "date": "2026-02-17",
+        "is_translated": false
+      },
+      {
+        "title": "【コスプレイヤー・えなこの艶っぽ新境地♪オトナな“ホテルグラビア”披露！「MFゴースト」声優デビ...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "コスプレイヤーえなこさんの新しいグラビアが話題になっています。彼女のグラビアでは、オトナなホテルグラビアを披露しています。また、ゲーム「MFゴースト」の声優デビューも発表されました。ゲームの評価ポイントとしては、グラフィックの美しさや声優の演技が高く評価されています。レビューの内容概要としては、えなこさんのグラビアの艶っぽさや新境地への挑戦、そして「MFゴースト」の声優デビューが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/17/177500.html",
+        "date": "2026-02-17",
+        "is_translated": false
+      },
+      {
+        "title": "【Aerial_Knight の DropShot レビュー: プレイ可能なミッション: インポ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Aerial_Knight の DropShot レビューは、プレイ可能なミッションやインポータブルな要素など、ゲームの評価ポイントとして重要な側面を取り上げています。このレビュー記事では、ゲームの操作性やグラフィックの質、ストーリーの魅力など、3つの主要な点が詳しく紹介されています。特に、プレイヤーの体験を重視したデザインや、新しい要素の導入によるゲーム性の向上などが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/aerial-knights-dropshot-review/",
+        "date": "2026-02-17",
+        "is_translated": true
+      },
+      {
+        "title": "【Paranormasight: The Mermaid's Curse レビュー: スクウェア...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Paranormasight: The Mermaid's Curseというゲームのレビュー記事では、スクウェアエニックスの最新作が紹介されています。このゲームは、ユニークなストーリーやキャラクター設定で魅了するものです。評価ポイントとしては、ゲームの雰囲気やサウンドトラック、そしてストーリーの深みが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/paranormasight-mermaids-curse-review-switch/",
+        "date": "2026-02-17",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-17T09:46:47.153903"
+  "last_updated": "2026-02-17T13:19:00.903211"
 }
