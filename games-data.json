@@ -206,6 +206,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/massive-music3-bundle",
         "date": "2026-02-18"
+      },
+      {
+        "title": "Best of Humble Bundle: Beamdog & Owlcat: RPG Masters",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Best of Humble Bundle: Beamdog & Owlcat: RPG Mastersというバンドルが販売中です。このバンドルには、Baldur's GateやPillars of Eternity、Pathfinder: Kingmakerなどの人気RPGゲームが含まれており、ロールプレイングゲームのファンにとっては魅力的な内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/beamdogowlcatrpgmasters2026_bundle",
+        "date": "2026-02-18"
+      },
+      {
+        "title": "Humble 15 Time Capsule",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble 15 Time Capsuleのバンドルが販売中です。このバンドルには、主要タイトルとして「Rise of the Tomb Raider」、「Abzu」、「The Swapper」などが含まれています。ジャンルはアクションアドベンチャーやパズルゲームなど多種多様で、価格帯はおよそ2,000円から3,000円と非常に手頃です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/humble15timecapsule_bundle",
+        "date": "2026-02-18"
       }
     ],
     "sale": [
@@ -615,6 +639,30 @@
         "discount": "-87%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
+        "date": "2026-02-18"
+      },
+      {
+        "title": "Metaphor: ReFantazio",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Metaphor: ReFantazioは、ファンタジーとアドベンチャーを融合させたユニークなゲームで、現在Variousで55%割引のセール中です。ユーザーからの評価は非常に高く、ゲームの世界観やストーリーが特徴的です。価格は割引前の価格から大幅に下がっており、ファンタジーゲームファンにはおすすめの作品です。",
+        "price": "$31.47",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
+        "date": "2026-02-18"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ロックスターゲームズが開発したオープンワールドアクションアドベンチャーゲームの名作「Red Dead Redemption 2」がVariousで78%の割引を受けてセール中です。このゲームは、西部開拓時代を舞台に、主な登場人物アーサー・モーガンの物語を描き、壮大な世界観や豊富なストーリーでファンを魅了しています。高い評価と人気を誇るこのタイトルを、この機会に体験してみてください。",
+        "price": "$13.03",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
         "date": "2026-02-18"
       }
     ],
@@ -2217,8 +2265,47 @@
         "url": "https://automaton-media.com/articles/newsjp/20260218-422144/",
         "date": "2026-02-18",
         "is_translated": false
+      },
+      {
+        "title": "【4XストラテジーRPG「Heart of the Machine」の製品版1.0ローンチが20...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Heart of the Machine」の製品版1.0ローンチのレビュー記事では、ゲームの評価ポイントとして、戦略的深度とストーリーの面白さが取り上げられています。また、レビューの内容概要として、ゲームのシステムやグラフィックのクオリティが高く評価されています。このレビューは、4XストラテジーRPGのファンや、戦略ゲームに興味がある人に向けて書かれており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164289.html",
+        "date": "2026-02-18",
+        "is_translated": false
+      },
+      {
+        "title": "【新たなプレイヤークラスや新チャンピオンモンスター2体を導入する「Aethermancer」の最...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Aethermancer」のレビュー記事では、新たなプレイヤークラスや新チャンピオンモンスター2体を導入するこのゲームの評価ポイントとして、ゲームバランスの改善や新要素の追加が高く評価されていることがわかります。また、グラフィックやサウンドの向上も賞賛されています。このレビューは、ゲームファンや新しいプレイヤーにとって参考になる内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164284.html",
+        "date": "2026-02-18",
+        "is_translated": false
+      },
+      {
+        "title": "【「This Is Not a Test」レビュー：2020年代のゾンビホラーへの大きな後退】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "「This Is Not a Test」は、2020年代のゾンビホラーのジャンルにおいて大きな後退を示す作品であると評価されています。このレビューでは、ゲームの評価ポイントとして、ストーリーの不十分さ、ゲームプレイの単調さ、グラフィックの低さなどが指摘されています。また、レビューの内容概要として、ゲームの不満足な体験、ストーリーの予測可能性、ゲームプレイの不自由さなどが取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/this-is-not-test-review-zombies/",
+        "date": "2026-02-18",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-18T13:20:30.173580"
+  "last_updated": "2026-02-18T21:35:39.337232"
 }
