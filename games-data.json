@@ -170,6 +170,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/artsy-pixel-puzzles5-bundle",
         "date": "2026-02-17"
+      },
+      {
+        "title": "Nacon Racing Collection 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Nacon Racing Collection 2026というバンドルが販売中です。このバンドルには、WRC Generations、TT Isle of Man: Ride on the Edge 3、RiMS Racingなどの主要タイトルが含まれています。レーシングゲームファンには必見のバンドルで、レースの楽しみを存分に味わえるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/naconracingcollection_bundle",
+        "date": "2026-02-18"
+      },
+      {
+        "title": "HHArtsy Pixel Puzzles Bundle 5",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、HHArtsy Pixel Puzzles Bundle 5というバンドルが販売中です。このバンドルには、ピクセルアートのパズルゲームが数多く含まれており、代表的なタイトルとしては、ピクセルパズルシリーズなどがあります。ジャンルはパズルゲームであり、大まかな価格帯は数百円から数千円程度です。興味のある方は、IndieGalaのサイトをチェックしてみてください。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/artsy-pixel-puzzles5-bundle",
+        "date": "2026-02-18"
       }
     ],
     "sale": [
@@ -556,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/subnautica/info/",
         "date": "2026-02-17"
+      },
+      {
+        "title": "Manor Lords",
+        "platform": "Various",
+        "type": "sale",
+        "description": "中世を舞台にしたリアルタイムストラテジーゲーム「Manor Lords」が、現在45%オフのセール中です。このゲームは、都市建設と戦略的な戦闘を組み合わせたユニークな要素を持っており、高評価を得ています。価格も割引により大幅に下がっており、リアルタイムストラテジー系のゲームファンにはおすすめできます。",
+        "price": "$22.00",
+        "originalPrice": "",
+        "discount": "-45%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/manor-lords/info/",
+        "date": "2026-02-18"
       }
     ],
     "review": [
@@ -2092,8 +2128,47 @@
         "url": "https://doope.jp/2026/02164247.html",
         "date": "2026-02-18",
         "is_translated": false
+      },
+      {
+        "title": "【『アークナイツ：エンドフィールド』公式がプレイヤーの「りんごの食べ方」を実態調査をする。なぜな...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『アークナイツ：エンドフィールド』公式がプレイヤーの「りんごの食べ方」を実態調査をするというユニークな事例についてのレビュー記事です。この記事では、プレイヤーの意見や調査結果が紹介されており、ゲームのユーザー参加型イベントの評価ポイントとして、プレイヤーの参加度やコミュニティの活発さが見られます。また。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/ae-20260218-422111/",
+        "date": "2026-02-18",
+        "is_translated": false
+      },
+      {
+        "title": "【『モンスターハンターワイルズ』最終アプデにあわせてSteam直近レビュー「やや好評」に到達。“...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "モンスターハンターワイルズの最終アップデートに合わせて、Steamでの直近のレビューは「やや好評」に到達しました。このゲームの評価ポイントとしては、グラフィックの向上や新しいモンスターの追加が挙げられます。また、レビューではゲームのバランスや難易度の調整も高く評価されています。モンスターハンターシリーズのファンやアクションゲームを楽しむことが好きな方に、このレビュー記事はお勧めです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/monster-hunter-wilds-20260218-422103/",
+        "date": "2026-02-18",
+        "is_translated": false
+      },
+      {
+        "title": "【多彩な新コンテンツを導入する「Battlefield 6|REDSEC」のシーズン2が遂に開幕：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Battlefield 6|REDSEC」のシーズン2が発売されました。このシーズン2では、新しいコンテンツが多数導入されています。たとえば、新しいマップやゲームモードが追加されており、プレイヤーが新たな戦闘体験を楽しむことができます。さらに、グラフィックやサウンドの質も向上しています。シーズン2の導入により、ゲームの全体的なバランスや難易度も調整されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164246.html",
+        "date": "2026-02-18",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-18T02:05:15.685556"
+  "last_updated": "2026-02-18T09:46:18.989447"
 }
