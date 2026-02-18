@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Nacon Racing Collection 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Nacon Racing Collection 2026というバンドルが販売中です。このバンドルには、WRC Generations、Test Drive Unlimited Solar Crown、TT Isle of Man Ride on the Edge 3などの主要タイトルが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/naconracingcollection_bundle",
-        "date": "2026-02-08"
-      },
-      {
         "title": "Hentai Pair Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -185,18 +173,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "God of War Ragnarök",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームであるGod of War Ragnarökが、現在Variousで40%割引セール中です。このゲームは、ストーリーの深みとグラフィックの美しさが高く評価されており、人気度も非常に高いと言えるでしょう。通常価格より大幅に安くなっているので、興味がある方はこの機会にチェックしてみるのが良いのではないでしょうか。",
-        "price": "$35.95",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
-        "date": "2026-02-11"
-      },
       {
         "title": "Mewgenics",
         "platform": "Various",
@@ -584,58 +560,6 @@
     ],
     "review": [
       {
-        "title": "【『アークナイツ：エンドフィールド』は学問であり模試であり生活破壊。『仁王3』オープンフィールド...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム「アークナイツ：エンドフィールド」と「仁王3」のオープンフィールドを比較しながら、レビュアーがどのように評価したのかを紹介しています。ゲームの評価ポイントとして、オープンフィールドの広さや自由度、ストーリーやキャラクターの魅力が挙げられます。また、レビュアーは「アークナイツ：エンドフィールド」に対して、学問や模試のように難しいがやりがいがあると評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260208-418282/",
-        "date": "2026-02-08",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamセールで、ケモミミ喫茶店ゲーム『けものティータイム』が1190円。高評価メトロイドヴ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ケモミミ喫茶店を舞台にしたゲーム『けものティータイム』がSteamセールで1190円で購入できることが分かりました。このゲームは、ユーザーから高評価を得ており、特にゲームシステムやグラフィックの美しさが評価されています。また、ゲームの雰囲気やキャラクターの魅力も高く評価されており、ケモミミファンやカフェゲームを楽しむ人に特にお勧めです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260208-418040/",
-        "date": "2026-02-08",
-        "is_translated": false
-      },
-      {
-        "title": "【『真・三國無双 ORIGINS』張角・董卓・袁紹・呂布の中で、プレイヤーが「主（あるじ）」に選...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "真・三國無双 ORIGINSのレビュー記事では、プレイヤーが主である張角・董卓・袁紹・呂布の中から選ぶことができる点が評価されています。ゲームの魅力は、各キャラクターの独自のストーリーや能力を体験できることです。また、ゲームのグラフィックやサウンドトラックも高く評価されています。このレビューは、真・三國無双シリーズのファンやアクションゲームが好きな人にとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/02/08/177113.html",
-        "date": "2026-02-08",
-        "is_translated": false
-      },
-      {
-        "title": "【タモンのB面レビュー: このサプライズヒットアニメはK-POPデーモンハンターファンに最適】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事は、サプライズヒットとなったアニメ「タモンのB面」の魅力を紹介しています。K-POPファンやデーモンハンターファンに最適な作品であると評価されています。記事では、アニメの独自の音楽性やキャラクター設定などの評価ポイントが紹介されており、音楽やアニメが好きな人にとっては興味深い内容になっていると思います。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/tamons-b-side-streaming-crunchyroll-jujutsu-kaisen-kpop-demon-hunter/",
-        "date": "2026-02-08",
-        "is_translated": true
-      },
-      {
         "title": "【「Fallout 76」のクロスプレイは現在も検討中、Bethesda Game Studio...】",
         "platform": "doope!",
         "type": "review",
@@ -659,19 +583,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/02163945.html",
         "date": "2026-02-09",
-        "is_translated": false
-      },
-      {
-        "title": "【中世騎士の戦いを描くローファンタジーアクションRPG「Knight’s Path」のウィッシュ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "中世騎士の戦いを描くローファンタジーアクションRPG「Knight’s Path」のレビュー記事では、ゲームの評価ポイントとして、戦闘システムのスムーズさやストーリーの深みが高く評価されています。また、レビューの内容概要として、ゲームのグラフィックやサウンドトラックの質も高く評価されています。このレビュー記事は、アクションRPGやローファンタジーに興味のある読者に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02163966.html",
-        "date": "2026-02-08",
         "is_translated": false
       },
       {
@@ -2155,8 +2066,34 @@
         "url": "https://www.pcgamer.com/hardware/gaming-keyboards/corsair-galleon-100-sd-review/",
         "date": "2026-02-17",
         "is_translated": true
+      },
+      {
+        "title": "【ゲラルトの冒険を描くウィッチャーテーマの“Reigns”シリーズ最新作「Reigns: The...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、人気ゲーム「Reigns」シリーズの最新作「Reigns: The...」を紹介しています。このゲームは、ウィッチャーテーマを基に、主人公ゲラルトの冒険を描いています。ゲームの評価ポイントとしては、独自のゲームプレイスタイルや、ストーリーの深みなどが挙げられます。レビューの内容概要としては、ゲームの魅力や、難易度のバランスなどが取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164276.html",
+        "date": "2026-02-18",
+        "is_translated": false
+      },
+      {
+        "title": "【大規模プレイテストの開幕が迫る新生「Marathon」の新トレーラーがお披露目、発売は2026...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "新生「Marathon」の新トレーラーがお披露目されました。このゲームは大規模プレイテストの開幕が迫っており、2026年の発売が予定されています。レビューの内容としては、ゲームのグラフィックやサウンドデザイン、ゲームプレイの面白さなどが評価ポイントです。また、ストーリーの深さやキャラクターの魅力もレビューの重要な要素です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164247.html",
+        "date": "2026-02-18",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-17T21:36:18.378108"
+  "last_updated": "2026-02-18T02:05:15.685556"
 }
