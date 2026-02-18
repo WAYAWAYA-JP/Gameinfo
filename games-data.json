@@ -194,6 +194,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/artsy-pixel-puzzles5-bundle",
         "date": "2026-02-18"
+      },
+      {
+        "title": "Massive Music 3 Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Massive Music 3 Bundleが販売中です。このバンドルには、主にアクションゲームやアドベンチャーゲームを含む「Doorways」や「The Whispered World」、「Randal's Monday」などのタイトルが収録されています。ジャンルはアクションアドベンチャーです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/massive-music3-bundle",
+        "date": "2026-02-18"
       }
     ],
     "sale": [
@@ -591,6 +603,18 @@
         "discount": "-45%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/manor-lords/info/",
+        "date": "2026-02-18"
+      },
+      {
+        "title": "Hogwarts Legacy",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Hogwarts LegacyがVariousで87%オフのセール中です。このゲームはオープンワールドアクションRPGで、ハリー・ポッターの魔法世界を自由に探索できます。評価は非常に高く、人気度も高まっています。価格は大幅に割引されているので、ファンにはお勧めです。",
+        "price": "$7.53",
+        "originalPrice": "",
+        "discount": "-87%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
         "date": "2026-02-18"
       }
     ],
@@ -2167,8 +2191,34 @@
         "url": "https://doope.jp/2026/02164246.html",
         "date": "2026-02-18",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料“街”オープンワールド『NTE』公式、CBTを受けて「麻雀の待ち時間」や「釣りの...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料のオープンワールドゲーム「NTE」の公式レビュー記事では、クローズドベータテストの体験を通じて、ゲーム内の様々な要素が評価されています。まず、ゲームの自由度が高く、プレイヤーがさまざまな活動に参加できる点が評価されています。さらに、待ち時間を利用できる「麻雀」や、リラックスできる「釣り」などのサブクエストも魅力的です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/nte-20260218-422141/",
+        "date": "2026-02-18",
+        "is_translated": false
+      },
+      {
+        "title": "【ゲーム開発者間で「バネ＋トゲ天井系ギミック」を巡り議論白熱。“プレイヤーの学びを裏切る再利用”...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム開発者間で議論を呼んでいる「バネ＋トゲ天井系ギミック」の問題点を取り上げています。ゲームの評価ポイントとして、プレイヤーの学習過程を裏切るギミックの再利用や、ゲームデザインの限界を浮き彫りにしている点が挙げられます。また、ギミックの使い方によってはプレイヤーの興味を失わせてしまう可能性も指摘されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260218-422144/",
+        "date": "2026-02-18",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-18T09:46:18.989447"
+  "last_updated": "2026-02-18T13:20:30.173580"
 }
