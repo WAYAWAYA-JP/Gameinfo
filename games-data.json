@@ -24,6 +24,30 @@
         "deadline": "2026年02月19日まで",
         "url": "https://store.epicgames.com/ja/p/eea910991d674322b3832f9b7bbefb7b",
         "date": "2026-02-19"
+      },
+      {
+        "title": "Return to Ash",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Return to Ashは、アクションアドベンチャーゲームで、自由に探索が出来るオープンワールドを楽しむことができます。特徴としては、美しいグラフィックと、多様なキャラクターのカスタマイズが可能です。また、ストーリーも面白く、プレイヤーを引き付ける魅力があります。このゲームは、Epic Gamesプラットフォームで無料で配布されており、誰でも簡単にダウンロードして遊ぶことができます。",
+        "price": "無料",
+        "originalPrice": "¥5",
+        "discount": "100% OFF",
+        "deadline": "2026年02月26日まで",
+        "url": "https://store.epicgames.com/ja/p/return-to-ash",
+        "date": "2026-02-19"
+      },
+      {
+        "title": "STALCRAFT: X Starter Edition",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "STALCRAFT:Xは、RPGの要素を取り入れた基本プレイ無料のMMOFPSゲームです。このゲームの特徴としては、広大な世界の探索、様々な武器や防具のカスタマイズ、そして多人数での協力プレイが可能なことなどがあります。さらに、スターター パックを購入することで、初心者でも最初のレイドに必要なアイテムを手に入れることができます。",
+        "price": "無料",
+        "originalPrice": "¥24",
+        "discount": "100% OFF",
+        "deadline": "2026年02月26日まで",
+        "url": "https://store.epicgames.com/ja/p/stalcraft-x-starter-edition",
+        "date": "2026-02-19"
       }
     ],
     "bundle": [
@@ -591,6 +615,18 @@
         "discount": "-45%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/blue-prince/info/",
+        "date": "2026-02-19"
+      },
+      {
+        "title": "Dead Cells",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲームの『Dead Cells』が現在、60%割引のセール中です。このゲームは、ローグライク要素と美しいグラフィックが特徴で、プレイヤーはさまざまな敵を倒しながら進んでいきます。評価も非常に高い人気ゲームで、多くのプレイヤーから高評価を得ています。セール中の価格で購入することができますが、期間限定のセールなので、気になる方はお早めにチェックしてみてください。",
+        "price": "$9.95",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dead-cells/info/",
         "date": "2026-02-19"
       }
     ],
@@ -2115,8 +2151,47 @@
         "url": "https://automaton-media.com/articles/newsjp/nintendo-switch-20260219-422363/",
         "date": "2026-02-19",
         "is_translated": false
+      },
+      {
+        "title": "【Beyerdynamic MMX 150 ワイヤレス ゲーミング ヘッドセットのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Beyerdynamic MMX 150 ワイヤレス ゲーミング ヘッドセットは、高音質と快適な装着感で知られています。このヘッドセットの評価ポイントとしては、優れたサウンド性能や長時間のプレイにも適した軽量設計が挙げられます。また、レビューでは、ノイズキャンセリング機能の効果や通話のクリアさも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-headsets/beyerdynamic-mmx-150-wireless-gaming-headset-review/",
+        "date": "2026-02-19",
+        "is_translated": true
+      },
+      {
+        "title": "【ZA/UMの『Zero Parades』はシュレディンガーの『ディスコ・エリジウム』の続編であ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "ZA/UMの『Zero Parades』はシュレディンガーの『ディスコ・エリジウム』の続編であるこのゲームは、独自のストーリーテリングとゲームプレイスタイルが評価ポイントとなります。レビューの内容概要としては、ゲームの物語の深さ、キャラクターの魅力、そしてプレイヤーの選択が物語に与える影響が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/zaums-zero-parades-is-schrodingers-disco-elysium-follow-up-and-it-keeps-yelling-at-me-about-communism",
+        "date": "2026-02-19",
+        "is_translated": true
+      },
+      {
+        "title": "【Aphelion プレビュー: Life Is Strange 開発者が Interstell...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Aphelion プレビュー: Life Is Strange 開発者が Interstellar の世界を舞台にした新作ゲームを発表しました。このレビュー記事では、ゲームの評価ポイントとして、ストーリーの深みやキャラクターの造形が高いと評価されています。また、グラフィックやサウンドトラックの質も高く、プレイヤーを引き込むことができると述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/aphelion-preview-dont-nod/",
+        "date": "2026-02-19",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-19T13:22:00.147607"
+  "last_updated": "2026-02-19T21:33:30.282872"
 }
