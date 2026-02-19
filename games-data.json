@@ -1,55 +1,6 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Botany Manor",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Botany Manorは、パズルアドベンチャーゲームです。このゲームの魅力は、美しい植物のイラストが特徴であり、ユーザーは植物の種を集めて庭を育てていくことができます。また、各ステージで出現する謎を解くことで、物語が進んでいきます。さらに、リラックスできる雰囲気と優しいBGMが心地よいです。Epic Gamesプラットフォームで無料配布中なので。",
-        "price": "無料",
-        "originalPrice": "¥24",
-        "discount": "100% OFF",
-        "deadline": "2026年02月12日まで",
-        "url": "https://store.epicgames.com/ja/p/61eca1a9e42243d29e93b02510d88d83",
-        "date": "2026-02-12"
-      },
-      {
-        "title": "ポイズンレトロセット",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "ポイズンレトロセットはアクションアドベンチャーゲームです。このゲームの特徴として、複数のキャラクターを操作してステージを進めることができます。また、レトロなグラフィックが楽しめることも魅力です。さらに、ステージの構成や難易度が随時変化するため、プレイヤーは常に新しい挑戦に直面します。現在、このゲームはEpic Gamesプラットフォームで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "¥28",
-        "discount": "100% OFF",
-        "deadline": "2026年02月12日まで",
-        "url": "https://store.epicgames.com/ja/p/poison-retro-set",
-        "date": "2026-02-12"
-      },
-      {
-        "title": "ダークサイド探偵：暗闇の中でのファンブル",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "ダークサイド探偵：暗闇の中でのファンブルは、サバイバルホラー系のアクションゲームです。このゲームの特徴は、暗闇の中で恐怖を感じながら進むこと、様々なアイテムを使用して敵を倒すこと、そしてランダムなイベントが発生することです。プレイヤーは、これらの要素を駆使して生き残りを目指します。Epic Gamesプラットフォームで無料配布中のこのゲームは、ホラーファンやアクションゲーム好きにはお勧めです。",
-        "price": "無料",
-        "originalPrice": "¥14",
-        "discount": "100% OFF",
-        "deadline": "2026年02月19日まで",
-        "url": "https://store.epicgames.com/ja/p/b87bb60e2398412e82ba540e50ac6222",
-        "date": "2026-02-12"
-      },
-      {
-        "title": "Nobody Wants to Die",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "2329年のニューヨークのディストピア世界を舞台に、インタラクティブなノワールストーリーが展開されます。このゲームは、刑事のジェームズ・キャラとして高度な技術を駆使して捜査を進め、都市の支配層を目指してキラーを追い詰めるアクションアドベンチャーゲームです。特徴的な点としては、プレイヤーの選択が物語に大きな影響を与えるインタラクティブなストーリーテリングや。",
-        "price": "無料",
-        "originalPrice": "¥29",
-        "discount": "100% OFF",
-        "deadline": "2026年02月19日まで",
-        "url": "https://store.epicgames.com/ja/p/eea910991d674322b3832f9b7bbefb7b",
-        "date": "2026-02-12"
-      }
-    ],
+    "free": [],
     "bundle": [
       {
         "title": "Hentai Pair Bundle",
@@ -233,90 +184,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Mewgenics",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Mewgenicsは、シミュレーションとアドベンチャー要素を兼ね備えたユニークなゲームで、現在Variousで10%割引されています。ユーザーの評価は非常に高く、人気も高まっています。",
-        "price": "$26.99",
-        "originalPrice": "",
-        "discount": "-10%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/mewgenics/info/",
-        "date": "2026-02-12"
-      },
-      {
-        "title": "DOOM: The Dark Ages",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲームであるDOOM: The Dark AgesがVariousで現在セール中です。通常価格から72%割引されています。このゲームは、ダークファンタジー世界を舞台に、プレイヤーが様々な武器や魔法を駆使して敵を倒していく、アクション性に富んだ内容です。評価も高く、ファンから人気を博しており、セール中のこの機会にチャレンジしてみるのはいかがでしょうか。",
-        "price": "$19.87",
-        "originalPrice": "",
-        "discount": "-72%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/doom-the-dark-ages/info/",
-        "date": "2026-02-12"
-      },
-      {
-        "title": "No Man's Sky",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "No Man's SkyがSteamで60%の割引セール中です。このゲームは、オープンワールドとサンドボックス要素を組み合わせたアクションアドベンチャーゲームで、プレイヤーは宇宙を探索し、異世界の生物に遭遇し、リソースを集め、宇宙船をアップグレードすることができます。評価は「Overwhelmingly Positive」で、非常に人気の高いゲームです。",
-        "price": "¥2,600",
-        "originalPrice": "¥6,500",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/275850",
-        "date": "2026-02-12"
-      },
-      {
-        "title": "God of War",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「God of War」がVariousで64%オフのセール中です。このゲームは、激しい戦闘や豊富なストーリーで知られており、批評家やプレイヤーから高い評価を受けています。セール中の価格は大幅に安くなっているので、おすすみです。",
-        "price": "$17.95",
-        "originalPrice": "",
-        "discount": "-64%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/god-of-war/info/",
-        "date": "2026-02-12"
-      },
-      {
-        "title": "F1® 25",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "F1® 25がSteamで60% OFFセール中です。このレースゲームは、リアルなレース体験を提供することで人気を博しており、グラフィックや操作性が高く評価されています。現在、Steamでの販売価格が大幅に割引されており、レースゲームファンにはおすすめのタイトルです。",
-        "price": "¥3,360",
-        "originalPrice": "¥8,400",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3059520",
-        "date": "2026-02-12"
-      },
-      {
-        "title": "DARK SOULS III - The Fire Fades Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DARK SOULS III - The Fire Fades EditionがSteamで50% OFFセール中です。このアクションRPGゲームは、ダークファンタジーの世界を舞台に、プレイヤーがさまざまな敵と戦いながら、物語を進めていくという特徴があります。セール中の価格は割引前より50%オフで提供されており、大人気のゲームとして知られています。",
-        "price": "¥2,970",
-        "originalPrice": "¥5,940",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/160150",
-        "date": "2026-02-12"
-      },
-      {
-        "title": "Rust",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Rustはサバイバルゲームであり、プレイヤーは荒野で生き残るために様々なアイテムを制作し、他のプレイヤーと協力または対立する必要があります。現在、Steamで50%OFFのセール中となっており、通常価格よりも大幅に安価に購入できます。Rustは、リアルなグラフィックとハードコアなゲーム性が特徴で、サバイバルゲームファンから高い評価を受けています。",
-        "price": "¥2,300",
-        "originalPrice": "¥4,600",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/252490",
-        "date": "2026-02-12"
-      },
       {
         "title": "サイバーパンク2077",
         "platform": "Steam",
@@ -667,162 +534,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【「Fallout 76」のクロスプレイは現在も検討中、Bethesda Game Studio...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Bethesda Game Studioの最新ゲーム「Fallout 76」のクロスプレイについては現在も検討中だということがわかりました。このゲームはオンラインモードが特徴で、プレイヤー同士の交流が重要になっています。ゲームの評価ポイントとしては、グラフィックの美しさ、ストーリーの深さ、そしてオンライン機能の充実度があげられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02163940.html",
-        "date": "2026-02-09",
-        "is_translated": false
-      },
-      {
-        "title": "【Diablo系ダーク西部劇アクションRPG「The Dark West」が正式アナウンス、ゲー...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "The Dark Westは、ダークな西部劇の世界を舞台にしたアクションRPGです。このゲームは、Diabloシリーズのファンにもおすすめです。ゲームの評価ポイントとしては、独自の世界観、豊富なキャラクターカスタマイズ、そして激しいアクションが楽しみな点です。レビューの内容概要としては、ゲームのグラフィックやサウンドデザインが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02163945.html",
-        "date": "2026-02-09",
-        "is_translated": false
-      },
-      {
-        "title": "【元任天堂開発者の高評価ぷにぷにバトルゲーム『Jelly Troops』初大型アプデ到来。AI対...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "元任天堂開発者が高く評価している『Jelly Troops』は、プレイヤー同士の対戦やAIとの戦いで楽しみが広がるバトルゲームです。このゲームの評価ポイントとしては、簡単な操作で複雑な戦略が楽しめること、対戦モードで友達と一緒に遊ぶことができること、そしてAIの難易度が適切に調整されていることが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/jelly-troops-20260209-418584/",
-        "date": "2026-02-09",
-        "is_translated": false
-      },
-      {
-        "title": "【不気味ほっこりお料理ゲーム『Creature Kitchen』Steamで「100%好評」のま...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Creature Kitchenは、不気味でほっこりするお料理ゲームで、Steamでは「100%好評」と評価されています。このゲームの評価ポイントとしては、ユニークなゲーム性や愛らしいキャラクターが挙げられます。レビューの内容概要としては、ゲームの雰囲気やサウンドトラックの魅力が語られています。対象読者は、不気味な要素を楽しめる人や、リラックスできるゲームを探している人に適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260209-418544/",
-        "date": "2026-02-09",
-        "is_translated": false
-      },
-      {
-        "title": "【「圧倒的に好評」料理ローグライク『Omelet You Cook（オムレツにそれ入れる？）』正...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「Omelet You Cook（オムレツにそれ入れる？）」は、圧倒的に好評を博している料理ローグライクゲームです。このゲームの評価ポイントとしては、ユニークな料理システムや、挑戦の度に変化するマップ、そして奥深いストーリーが挙げられます。レビューの内容概要としては、ゲームの面白さやリプレイ性の高さが高く評価されています。また、ローグライクゲームや料理ゲームのファンには特におすすめできるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/omelet-you-cook-20260209-418502/",
-        "date": "2026-02-09",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料『モンスターハンターアウトランダーズ』の「大剣」にさっそく熱い注目。“ブシドー大...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "モンスターハンターアウトランダーズは基本プレイ無料のゲームであり、大剣に熱い注目が集まっています。ゲームの評価ポイントとしては、大剣の操作性や攻撃力、またコラボアイテムの充実度があります。レビューの内容概要としては、大剣の使い勝手やゲーム全体のバランスが良く、コラボアイテムも充実していることが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260209-418489/",
-        "date": "2026-02-09",
-        "is_translated": false
-      },
-      {
-        "title": "【パン屋経営ダンジョン探索アクションRPG『Aeruta（アルタ）』はどんどん面白くなり今こそ遊...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Aeruta（アルタ）』はパン屋経営とダンジョン探索を融合させたアクションRPGです。このゲームの評価ポイントとして、ユニークなゲームシステムやキャラクターの成長要素が挙げられます。レビューの内容概要としては、パン屋経営の面白さやダンジョン探索の奥深さが高く評価されています。対象読者としては、アクションRPGやダンジョン探索ゲームを好む人向けのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/aeruta-20260207-418060/",
-        "date": "2026-02-09",
-        "is_translated": false
-      },
-      {
-        "title": "【『アークナイツ：エンドフィールド』の“思わせぶり閉鎖エリア”、気づいたら開通していた報告続々。...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "アークナイツ：エンドフィールドの「思わせぶり閉鎖エリア」についてのレビュー記事では、気づいたら開通していたという報告が寄せられていることが紹介されています。このゲームの評価ポイントとしては、閉鎖エリアの謎や新規開放エリアの探索の面白さが挙げられます。また、レビューの内容としては、閉鎖エリアの解放方法や新規エリアの特徴についての詳細な説明が含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/arknights-endfield-20260209-418607/",
-        "date": "2026-02-09",
-        "is_translated": false
-      },
-      {
-        "title": "【遺伝子組み替えネコ育成ローグライク「Mewgenics」のアニメーショントレーラーがお披露目、...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Mewgenics」のレビュー記事では、この遺伝子組み替えネコ育成ローグライクゲームの評価ポイントとして、ユニークなゲームシステムやカスタマイズ要素が高く評価されています。また、ゲームのアニメーショントレーラーも公開されており、ゲームの雰囲気を感じることができます。このレビュー記事は、ローグライクゲームやネコが好きな人にとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02163984.html",
-        "date": "2026-02-09",
-        "is_translated": false
-      },
-      {
-        "title": "【珊瑚礁と海洋生態系の回復を描く海底都市建設シム「Life Below」のプレイテストが本日開幕】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "海底都市建設シム「Life Below」のプレイテストレビュー記事では、ゲームの評価ポイントとして、珊瑚礁と海洋生態系の回復を描くグラフィックの美しさや、都市建設の自由度が高く楽しめる点が挙げられます。また、レビューの内容概要として、ゲームのストーリーが海洋の保護に焦点を当てていることや、プレイヤーの選択が海洋生態系に影響を与えることが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02163983.html",
-        "date": "2026-02-09",
-        "is_translated": false
-      },
-      {
-        "title": "【Team Ninjaは、神社のチェックポイントで祈るとセーブが破損する恐ろしい「非常にまれな」...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、Team Ninjaのゲームについて評価しています。評価ポイントとして、ゲームのセーブシステムが挙げられます。神社のチェックポイントで祈るとセーブが破損するという不具合が発生することがあり、非常にまれなバグですが、プレイヤーにとっては大きなストレスとなります。さらに、レビューではゲームのグラフィックやサウンドトラックも評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/team-ninja-fix-a-terrifying-very-rare-nioh-3-bug-that-corrupts-your-save-when-you-pray-at-shrine-checkpoints",
-        "date": "2026-02-09",
-        "is_translated": true
-      },
-      {
-        "title": "【『龍が如く 極 3 & Dark Ties』レビュー - 独自の厳しいつながりによって定義され...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "『龍が如く 極 3 & Dark Ties』のレビュー記事では、このゲームの独特なストーリーやキャラクターの深みが評価ポイントとなっています。具体的には、ゲームの世界観やキャラクターの関係性が豊かで、プレイヤーを引き込むことができる点が高く評価されています。また、ゲームのグラフィックやサウンドトラックも高品質で、ゲーム全体の雰囲気を高めています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/yakuza-kiwami-3-dark-ties-review-a-stuffed-remake-defined-by-its-own-grim-connections",
-        "date": "2026-02-09",
-        "is_translated": true
-      },
       {
         "title": "【滅亡後の世界を進むスノーピアサー系超巨大列車が舞台となるマルチプレイヤーサンドボックス「Eng...】",
         "platform": "doope!",
@@ -2304,8 +2015,34 @@
         "url": "https://www.polygon.com/this-is-not-test-review-zombies/",
         "date": "2026-02-18",
         "is_translated": true
+      },
+      {
+        "title": "【おもちゃ工場ホラー『Poppy Playtime』「チャプター5」リリースや否やSteam同接...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Poppy Playtime』の第5章がリリースされ、Steamユーザーから多くの評価が寄せられています。このゲームは、独自のホラーエレメントと、プレイヤーが探索するおもちゃ工場の不気味な雰囲気で高く評価されています。レビューでは、ゲームのグラフィックやサウンドデザインの質が高く評価され、ゲームの難易度も適切であると指摘されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/poppy-playtime-20260219-422303/",
+        "date": "2026-02-19",
+        "is_translated": false
+      },
+      {
+        "title": "【TRPGにインスパイアされたCo-op対応ロールプレイングアドベンチャー「Baladins」の...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "コラボレーション要素が豊富なロールプレイングアドベンチャーゲーム「Baladins」のレビュー記事では、TRPGにインスパイアされたゲームデザインや、Co-opプレイに対応した魅力的なゲームシステムが評価されています。また、ユーザーのレビューでは、ゲームの難易度やストーリーの展開が高く評価されており、TRPGやロールプレイングゲームのファンには特におすすめのゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164322.html",
+        "date": "2026-02-19",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-18T21:35:39.337232"
+  "last_updated": "2026-02-19T02:03:58.497541"
 }
