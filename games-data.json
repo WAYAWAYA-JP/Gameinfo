@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "ダークサイド探偵：暗闇の中でのファンブル",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "ダークサイド探偵：暗闇の中でのファンブルは、ミステリー・アドベンチャーゲームです。このゲームの特徴は、プレイヤーが暗闇の中で探索して謎を解く必要があることです。さらに、ゲームの雰囲気を高めるサウンドトラックや、難易度の高いパズルが楽しめる点も魅力です。このゲームは、Epic Gamesプラットフォームで無料配布中であり、興味のあるプレイヤーは簡単にダウンロードして遊ぶことができます。",
+        "price": "無料",
+        "originalPrice": "¥14",
+        "discount": "100% OFF",
+        "deadline": "2026年02月19日まで",
+        "url": "https://store.epicgames.com/ja/p/b87bb60e2398412e82ba540e50ac6222",
+        "date": "2026-02-19"
+      },
+      {
+        "title": "Nobody Wants to Die",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "2329年のニューヨークのディストピア世界を舞台にしたこのゲームは、インタラクティブなノワールストーリーを体験できます。プレイヤーは、刑事のジェームズ・キャラとして、高度な技術を駆使して捜査を進めます。都市の暗部を探りながら、リスクを負ってキラーを追い詰め、都市の支配層に迫っていきます。このゲームは、アドベンチャーと推理の要素を組み合わせた。",
+        "price": "無料",
+        "originalPrice": "¥29",
+        "discount": "100% OFF",
+        "deadline": "2026年02月19日まで",
+        "url": "https://store.epicgames.com/ja/p/eea910991d674322b3832f9b7bbefb7b",
+        "date": "2026-02-19"
+      }
+    ],
     "bundle": [
       {
         "title": "Hentai Pair Bundle",
@@ -531,6 +556,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
         "date": "2026-02-18"
+      },
+      {
+        "title": "Rust",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Rustは、サバイバル要素を含んだ人気のオンラインアクションゲームで、現在Steamで50%オフのセール中です。このゲームでは、プレイヤーは荒野で生き残るために資源を集め、建物を建て、他のプレイヤーとの戦闘に挑みます。高評価と人気を誇るこのゲームは、50%オフの特別価格でお得に購入できます。",
+        "price": "¥2,300",
+        "originalPrice": "¥4,600",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/252490",
+        "date": "2026-02-19"
+      },
+      {
+        "title": "DARK SOULS III - The Fire Fades Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DARK SOULS III - The Fire Fades EditionがSteamで50% OFFセール中です。このゲームはアクションRPGのジャンルに属し、ダークファンタジーの世界を舞台に、プレイヤーはさまざまな敵と戦いながら進めていきます。通常価格より半額で購入できるこのセールは、ゲームファンにとって大きなお得です。評価も高く、Steamでの評価は「非常に好評」です。",
+        "price": "¥2,970",
+        "originalPrice": "¥5,940",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/160150",
+        "date": "2026-02-19"
+      },
+      {
+        "title": "Blue Prince",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ブルー・プリンスは、バラエティ豊かなゲームです。現在、Variousでのセールで45％割引されています。このゲームは、ユーザーから高い評価を受けており、人気度も高いです。価格は割引により大幅に下がっています。ブルー・プリンスは、ユーザーが楽しめるコンテンツが豊富なので、多くのプレイヤーに愛されています。",
+        "price": "$16.60",
+        "originalPrice": "",
+        "discount": "-45%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/blue-prince/info/",
+        "date": "2026-02-19"
       }
     ],
     "review": [
@@ -2041,8 +2102,21 @@
         "url": "https://doope.jp/2026/02164322.html",
         "date": "2026-02-19",
         "is_translated": false
+      },
+      {
+        "title": "【Nintendo Switch/Switch 2向けセール、500本以上どっさり追加。『ファミ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Nintendo SwitchやSwitch 2向けのセールが大幅に追加され、500本以上のゲームが対象になっています。このセールの評価ポイントは、人気作品が大幅に値下げされていることや、バラエティ豊かなジャンルのラインナップが特徴です。レビューでは、特に『ファミ通』のレビュー記事が参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/nintendo-switch-20260219-422363/",
+        "date": "2026-02-19",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-19T02:03:58.497541"
+  "last_updated": "2026-02-19T09:44:32.886702"
 }
