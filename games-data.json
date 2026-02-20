@@ -592,6 +592,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ready-or-not/info/",
         "date": "2026-02-20"
+      },
+      {
+        "title": "Resident Evil Requiem",
+        "platform": "Various",
+        "type": "sale",
+        "description": "バイオハザードシリーズの最新作「Resident Evil Requiem」が、Variousで18%オフのセール中です。このゲームは、サバイバルホラーのジャンルに属し、恐怖とスリルのバランスが取れた独自のゲームプレイが特徴です。通常価格より18%割引された価格で購入できるのは今だけです。多くのユーザーから高い評価を得ており、ホラーゲームファンの間で人気度も高いので。",
+        "price": "$57.39",
+        "originalPrice": "",
+        "discount": "-18%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
+        "date": "2026-02-20"
+      },
+      {
+        "title": "STALCRAFT: X Starter Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "STALCRAFT: X Starter Editionがバラエティストアで100%割引されています。このゲームは、ストラテジー要素や探索が特徴的なサバイバルゲームであり、通常価格より大幅に安くなっています。プレイヤーから高い評価を得ており、人気度も高まっています。セール中の価格で購入することで、通常価格よりも大幅なお得感を楽しむことができます。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stalcraft-x-starter-edition/info/",
+        "date": "2026-02-20"
       }
     ],
     "review": [
@@ -2102,8 +2126,34 @@
         "url": "https://doope.jp/2026/02164316.html",
         "date": "2026-02-20",
         "is_translated": false
+      },
+      {
+        "title": "【2人協力・異変“凝視”ホラー『みつめ』Steamにて本日無料配信へ。異変を見つめて大学を脱出、...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamにて本日無料配信が開始された2人協力・異変“凝視”ホラー『みつめ』のレビュー記事があります。このゲームの評価ポイントとしては、独特のグラフィックやサウンドデザイン、そしてプレイヤー2人での協力プレイが楽しめる点が挙げられます。レビューの内容では、ゲームの雰囲気や恐怖要素の評価、そして協力プレイのやり込み要素が概要として述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/coop-horror-20260220-422795/",
+        "date": "2026-02-20",
+        "is_translated": false
+      },
+      {
+        "title": "【あまりにも無法…カプコンが不正入手の『バイオハザード レクイエム』プレイ動画投稿に注意喚起―視...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、カプコンのゲーム「バイオハザード レクイエム」の不正入手によるプレイ動画投稿について注意を呼びかけています。ゲームの評価ポイントとしては、不正入手の影響を受けないようにするための対策や、プレイ動画投稿のガイドラインの厳守が重要です。レビューの内容概要としては、不正入手の問題点や対策の必要性が述べられており、対象読者はゲーム愛好者やプレイヤーであると考えられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/20/177654.html",
+        "date": "2026-02-20",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-20T09:40:15.970576"
+  "last_updated": "2026-02-20T13:13:26.657553"
 }
