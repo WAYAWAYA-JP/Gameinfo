@@ -532,6 +532,66 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/2417610",
         "date": "2026-02-20"
+      },
+      {
+        "title": "サイバーパンク2077",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サイバーパンク2077がSteamで55%オフのセール中です。このゲームはサイバーパンクをテーマにしたオープンワールドRPGです。通常価格より大幅に安くなっています。サイバーパンク2077は、高い自由度と豊富なストーリーが特徴で、世界中で人気を博しています。Steamのユーザー評価は「非常に好評」です。",
+        "price": "¥3,950",
+        "originalPrice": "¥8,778",
+        "discount": "55% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1091500",
+        "date": "2026-02-20"
+      },
+      {
+        "title": "ペルソナ５ ザ・ロイヤル",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ５ ザ・ロイヤルがSteamで70％オフのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、深いストーリーと独特のバトルシステムが特徴です。現在の価格は、通常価格より大幅に割引されています。ペルソナシリーズのファンからは高い評価を受けており、人気も高く、ゲームの評価サイトでは高いスコアを獲得しています。",
+        "price": "¥2,303",
+        "originalPrice": "¥7,678",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1687950",
+        "date": "2026-02-20"
+      },
+      {
+        "title": "ペルソナ３ リロード",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ３ リロードがSteamで60% OFFセール中です。このゲームは、人気のRPGシリーズ「ペルソナ」の中の一つで、深いストーリーと魅力的なキャラクターで知られています。現在、通常価格より大幅に安くなっているので、ペルソナシリーズのファンやRPGが好きの方にはお勧めのセールとなります。",
+        "price": "¥3,071",
+        "originalPrice": "¥7,678",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2161700",
+        "date": "2026-02-20"
+      },
+      {
+        "title": "Outer Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Outer Wildsは、さまざまなプラットフォームで56%割引のセール中です。このゲームは、宇宙を探索するアクションアドベンチャーゲームで、繰り返し時間のループを体験する特徴があります。高評価を獲得しており、多くのユーザーから人気を博しています。割引価格でこの高評価ゲームをプレイする機会です。",
+        "price": "$11.09",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
+        "date": "2026-02-20"
+      },
+      {
+        "title": "Ready Or Not",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Ready Or NotがVariousで47%オフのセール中です。このゲームはタクティカルファーストパーソンシューティングゲームのジャンルに属し、戦術的思考が求められる特徴があります。現在の割引率は47%で、魅力的な価格になっています。ユーザーの評価は非常に高く、人気度も高いゲームです。",
+        "price": "$26.69",
+        "originalPrice": "",
+        "discount": "-47%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ready-or-not/info/",
+        "date": "2026-02-20"
       }
     ],
     "review": [
@@ -1977,8 +2037,73 @@
         "url": "https://doope.jp/2026/02162363.html",
         "date": "2026-02-19",
         "is_translated": false
+      },
+      {
+        "title": "【オンライン兵器対戦『World of Warships』などの4タイトル向けDLCがSteam...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本記事はオンライン対戦ゲーム『World of Warships』などの4タイトルのDLCがSteamで発売されたことを紹介するレビュー記事です。この記事では、これらのDLCの内容や新しい要素などについて評価ポイントを示し、ゲームファン向けのレビュー内容を簡潔にまとめています。対象読者は主にオンラインゲームやDLCに興味のある人に向けています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/wargaming-20260220-422744/",
+        "date": "2026-02-20",
+        "is_translated": false
+      },
+      {
+        "title": "【マルチ対応海賊サバイバルクラフト『Windrose』Steamデモ版いきなり「同接1万人超え」...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "マルチ対応海賊サバイバルクラフト『Windrose』のSteamデモ版がリリースされ、同接1万人を超える大人気となりました。このゲームは、海賊の世界を舞台にサバイバル要素とクラフト要素を組み合わせたユニークなゲームプレイが特徴です。レビューでは、ゲームのグラフィックやサウンドデザインの高さ、そしてマルチプレイの面白さが評価されています。また、自由度の高さやストーリーの奥深さも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260220-422703/",
+        "date": "2026-02-20",
+        "is_translated": false
+      },
+      {
+        "title": "【異形世界・敵吸収メトロイドヴァニア『GRIME II』4月1日ついにリリースへ。高評価ゲームが...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "メトロイドヴァニアゲームの『GRIME II』が4月1日にリリースされることを記念したレビュー記事です。このゲームは、異形の世界を舞台に、敵を吸収して新しい能力を得ることができるユニークなシステムが特徴です。評価ポイントとしては、ゲームデザインの独創性、グラフィックの美しさ、そしてゲームの難易度が高いことが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/grime-ii-20260220-422697/",
+        "date": "2026-02-20",
+        "is_translated": false
+      },
+      {
+        "title": "【マルチプレイ対応・早い者勝ちバトルゴルフ『Super Battle Golf』さっそく好評。ク...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "マルチプレイ対応の早い者勝ちバトルゴルフ『Super Battle Golf』が好評を博しています。レビューの内容としては、簡単な操作でプレイヤー同士のバトルが楽しめる点、グラフィックやサウンドの質が高い点、そしてマルチプレイ対応により友人や他の人と一緒にプレイできる点が評価されています。ゲームファンやゴルフゲームを楽しむ人にはおすすめのタイトルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/super-battle-golf-20260220-422679/",
+        "date": "2026-02-20",
+        "is_translated": false
+      },
+      {
+        "title": "【「Marathon」の楽曲制作に焦点を当てる新たな開発映像が公開、発売は2026年3月5日：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Marathon」の新しい開発映像が公開されました。このゲームは、音楽の制作に焦点を当てた内容です。発売は2026年3月5日です。このレビュー記事では、ゲームの評価ポイントとして音楽のクオリティ、ゲームプレイの面白さ、グラフィックの美しさを挙げています。音楽ゲーム好きの方や、新しいゲームを探している方に推薦できます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164316.html",
+        "date": "2026-02-20",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-20T01:59:48.096616"
+  "last_updated": "2026-02-20T09:40:15.970576"
 }
