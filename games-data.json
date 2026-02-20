@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/humble15timecapsule_bundle",
         "date": "2026-02-18"
+      },
+      {
+        "title": "Focus Entertainment Bundle 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Focus Entertainment Bundle 2026がHumble Bundleで販売中です。このバンドルには、A Plague TaleシリーズやGreiftのような人気タイトルが含まれており、主にアクションアドベンチャーやストラテジーゲームが中心のバンドルです。大まかな価格帯は数千円から1万円程度で、ファン向けのコレクションとしておすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/focusentertainmentbundle2026_bundle",
+        "date": "2026-02-20"
       }
     ],
     "sale": [
@@ -615,6 +627,30 @@
         "discount": "-100%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stalcraft-x-starter-edition/info/",
+        "date": "2026-02-20"
+      },
+      {
+        "title": "BIOHAZARD RE:4",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "バイオハザードシリーズの最新作『BIOHAZARD RE:4』がSteamで60%の割引セール中です。このゲームはサバイバルホラーのジャンルに属し、恐怖とスリルのバランスが取れたゲーム性が特徴です。現在、通常価格より大幅に安くなっているので、シリーズファンやホラーゲーム好きの方にはおすすめです。評価も高く、人気度が高いので、ぜひこの機会に購入してみてください。",
+        "price": "¥1,996",
+        "originalPrice": "¥4,990",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2050650",
+        "date": "2026-02-20"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アドベンチャーゲーム「Clair Obscur: Expedition 33」が現在、Variousで34%オフのセール中です。このゲームは、特有のストーリーと不気味な雰囲気でプレイヤーを引き付け、評価も高い人気ゲームです。",
+        "price": "$32.75",
+        "originalPrice": "",
+        "discount": "-34%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-02-20"
       }
     ],
@@ -2152,8 +2188,112 @@
         "url": "https://www.inside-games.jp/article/2026/02/20/177654.html",
         "date": "2026-02-20",
         "is_translated": false
+      },
+      {
+        "title": "【最大8人マルチ空のぼり『Climber Animals: Together』、発売から2年経っ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「Climber Animals: Together」は最大8人で遊べる、マルチプレイヤー対応の空のぼりゲームです。このゲームは発売から2年が経過していますが、依然としてプレイヤーから高い評価を得ています。このレビュー記事では、ゲームの評価ポイントや内容の概要を紹介しています。具体的には、ゲームの爽快な操作感や、協力プレイの面白さなどが取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/climber-animals-together-20260220-422794/",
+        "date": "2026-02-20",
+        "is_translated": false
+      },
+      {
+        "title": "【Stardew Valleyやポケモン ダイアモンド・パールにインスパイアされた洞窟採掘ゲーム...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Stardew Valleyやポケモン ダイアモンド・パールにインスパイアされた洞窟採掘ゲームについてのレビュー記事です。このゲームの評価ポイントとして、洞窟内の資源の採掘や、モンスターとのバトルが面白い点に挙げられます。また、グラフィックやサウンドトラックも高く評価されています。レビューの内容概要としては、ゲームの楽しさや、システムの面白さが介绍されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164312.html",
+        "date": "2026-02-20",
+        "is_translated": false
+      },
+      {
+        "title": "【クロスプレイに対応する「Warframe」のAndroid版が本日リリース、ローンチトレーラーも】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Warframe」のAndroid版がリリースされました。このゲームはクロスプレイに対応しており、他のプラットフォームでプレイするユーザーと一緒にプレイできます。ローンチトレーラーも公開されており、ゲームの世界観やプレイスタイルを紹介しています。レビューのポイントとしては、グラフィックの質、操作のしやすさ、そしてクロスプレイの実現性が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164364.html",
+        "date": "2026-02-20",
+        "is_translated": false
+      },
+      {
+        "title": "【太陽系の第9惑星を探索する新作Sci-Fiアドベンチャー「Aphelion」の本格的なゲームプ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "太陽系の第9惑星を探索するSci-Fiアドベンチャーゲーム「Aphelion」のレビュー記事では、ゲームのグラフィックやサウンドトラック、物語の面白さが評価ポイントとして挙げられています。このゲームは、プレイヤーが未知の惑星を探索し、謎を解くという独自の体験を提供します。対象読者は、Sci-Fiファンやアドベンチャーゲームを好む人向けであり、ゲームの評価は全体的に高く。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164314.html",
+        "date": "2026-02-20",
+        "is_translated": false
+      },
+      {
+        "title": "【SteelSeries Arctis Nova 7X Wireless Gen 2 ゲーミング...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "SteelSeries Arctis Nova 7X Wireless Gen 2 ゲーミングヘッドセットのレビュー記事では、この製品の評価ポイントとして、サウンドのクオリティやバッテリーの持続時間、デザインの洗練度などが挙げられます。また、レビューの内容概要としては、ヘッドセットの実際の使用感やゲームでのパフォーマンス、比較対象製品との違いなどが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/steelseries-arctis-nova-7x-wireless-gen-2-gaming-headset-review",
+        "date": "2026-02-20",
+        "is_translated": true
+      },
+      {
+        "title": "【SteelSeries Arctis Nova 3X Wireless ゲーミング ヘッドセッ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "SteelSeries Arctis Nova 3X Wireless ゲーミングヘッドセットのレビュー記事では、音質やコントロールの使い勝手、デザインなどの評価ポイントが紹介されています。このヘッドセットは、長時間の使用でも快適性が高いことや、ワイヤレス接続の利便性が高く評価されています。ゲームプレイヤーや音楽リスナーにとって魅力的な選択肢となるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/steelseries-arctis-nova-3x-wireless-gaming-headset-review",
+        "date": "2026-02-20",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam デッキに最適な SSD：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Steam デッキに最適な SSD を探している方におすすめするレビュー記事です。この記事では、SSD の性能や容量、価格などの評価ポイントを詳しく紹介しています。記事の内容概要としては、Steam デッキでのゲームのロード時間やパフォーマンスの向上、またコストパフォーマンスの高さなどについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/best-ssds-for-steam-deck",
+        "date": "2026-02-20",
+        "is_translated": true
+      },
+      {
+        "title": "【God of War Sons of Sparta レビュー: 2D メトロイドヴァニアが成長...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム「God of War Sons of Sparta」を紹介し、2Dメトロイドヴァニアゲームの成長を評価しています。記事では、ゲームのグラフィックやサウンド、ゲームプレイの面で評価ポイントを示し、レビューの内容として、ゲームの世界観や難易度、操作性について触れています。ゲーム好きやアクションゲームファンに対象としたレビュー記事で、ゲームの魅力を伝える内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/god-of-war-sons-of-sparta-review/",
+        "date": "2026-02-20",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-20T13:13:26.657553"
+  "last_updated": "2026-02-20T21:25:28.837730"
 }
