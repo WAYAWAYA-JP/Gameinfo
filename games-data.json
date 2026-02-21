@@ -218,6 +218,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/focusentertainmentbundle2026_bundle",
         "date": "2026-02-20"
+      },
+      {
+        "title": "Love You to Death Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Love You to Death Bundleが現在販売中です。このバンドルには、Goetia、The Infectious Madness of Doctor Dekker、The Shapeshifting Detectiveなどの主要タイトルが含まれています。ジャンルは、主にアドベンチャーやパズルゲームです。大まかな価格帯は、数百円から数千円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/loveyoutodeathbundle_bundle",
+        "date": "2026-02-21"
+      },
+      {
+        "title": "Hentai Pair Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Hentai Pair BundleのバンドルがIndieGalaで販売中です。このバンドルには、Hentai gamesのようなエロゲゲームが含まれており、主要タイトルとして「Hentai Girl Division」や「Hentai Neighbors」などが含まれています。ジャンルは成年向けのアダルトゲームです。大まかな価格帯は10ドル以下で、好きなエロゲゲームを安く購入することができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/hentai-pair-bundle",
+        "date": "2026-02-21"
       }
     ],
     "sale": [
@@ -603,6 +627,30 @@
         "discount": "-53%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-02-21"
+      },
+      {
+        "title": "Return to Ash",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「Return to Ash」が、現在Variousで100%割引されています。このゲームは、独自の世界観とスリリングなゲームプレイが特徴で、多くのユーザーから高評価をされています。現在は完全無料なので、興味がある方はぜひこの機会にプレイしてみてください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/return-to-ash/info/",
+        "date": "2026-02-21"
+      },
+      {
+        "title": "BROTHER!!! Save him! - Hardcore Platformer",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ハードコア・プラットフォーマーであるBROTHER!!! Save him!がVariousで100%割引セール中です。このゲームは、難易度が高く、スピード感のあるアクションが特徴です。現在、完全に無料でプレイできます。高い難易度と複雑なステージ構成が評価され、プラットフォーマーのファンから人気を博しています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/brother-save-him-hardcore-platformer/info/",
         "date": "2026-02-21"
       }
     ],
@@ -2127,8 +2175,21 @@
         "url": "https://www.inside-games.jp/article/2026/02/21/177678.html",
         "date": "2026-02-21",
         "is_translated": false
+      },
+      {
+        "title": "【出撃から脱出までの流れが確認できる新生「Marathon」の本格的なプレイスルー映像が公開、大...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、新生「Marathon」のプレイスルー映像が公開されたことを取り上げています。具体的には、出撃から脱出までの流れが確認できる本格的なプレイスルー映像が公開されました。この記事は、ゲームの新しい要素やプレイスタイルに興味がある方に特にオススメです。また、ゲームの評価ポイントとして、グラフィックの質やゲーム性の面での改善点などが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164372.html",
+        "date": "2026-02-21",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-21T01:54:35.302957"
+  "last_updated": "2026-02-21T09:29:06.461161"
 }
