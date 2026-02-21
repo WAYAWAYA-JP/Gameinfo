@@ -652,6 +652,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/brother-save-him-hardcore-platformer/info/",
         "date": "2026-02-21"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "No Man's SkyがSteamで60% OFFのセール中です。このゲームは、オープンワールドのサンドボックスゲームで、プレイヤーは宇宙を自由に探索できます。評価は「Overwhelmingly Positive」で、ユーザーから高い評価を受けています。割引価格でこの人気ゲームを遊ぶことができます。",
+        "price": "¥2,600",
+        "originalPrice": "¥6,500",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/275850",
+        "date": "2026-02-21"
       }
     ],
     "review": [
@@ -2191,5 +2203,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-21T13:02:37.374978"
+  "last_updated": "2026-02-21T21:23:04.398799"
 }
