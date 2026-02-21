@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Hentai Pair Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Hentai Pair BundleというバンドルがIndieGalaで販売中です。このバンドルには、Hentai gamesシリーズの「Hentai University」、「Hentai Pussy」、「Sakura Gamer」などのタイトルが含まれています。ジャンルはエロゲーで、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/hentai-pair-bundle",
-        "date": "2026-02-11"
-      },
-      {
-        "title": "Love You to Death Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Love You to Death Bundleのバンドルが現在販売中です。このバンドルには、主要タイトルとして「Doki Doki Literature Club!」や「Amnesia: Rebirth」、「Saya no Uta」などの人気タイトルが含まれています。ジャンルは主にアドベンチャーやビジュアルノベルに分類され。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/loveyoutodeathbundle_bundle",
-        "date": "2026-02-11"
-      },
-      {
         "title": "Sci-Fi Shooters 2.0",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,54 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "DARK SOULS™ II: Scholar of the First Sin",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DARK SOULS II: Scholar of the First Sinは、アクションRPGの名作で、挑戦的なゲームプレイと深いストーリーが特徴です。現在、Steamで50% OFFセール中で、通常価格よりも大幅に安くなっています。評価も非常に高く、ユーザーから高い人気度を誇っています。セール期間中は、通常価格の半額で購入できるので、興味がある方は今すぐチェックしてみてください。",
-        "price": "¥2,860",
-        "originalPrice": "¥5,720",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/335300",
-        "date": "2026-02-14"
-      },
-      {
-        "title": "Black Myth: Wukong",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「Black Myth: Wukong」が現在、 Variousで30%割引された価格で販売中です。このゲームは、中国の古典文学「西遊記」を基にした独自の世界観と、ダイナミックなアクションを特徴としています。高評価を獲得しており、人気度も高いゲームですので、興味がある方はこの機会にチェックしてみてください。",
-        "price": "$41.99",
-        "originalPrice": "",
-        "discount": "-30%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/black-myth-wukong/info/",
-        "date": "2026-02-14"
-      },
-      {
-        "title": "Lost in Anomaly",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームであるLost in Anomalyが、現在Variousで100%割引されています。このゲームは、ユニークなグラフィックと面白いゲームプレイで人気を博しており、多くのユーザーから好評価を受けています。価格は完全無料となっており、興味がある方は是非この機会に試してみてください。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/lost-in-anomaly/info/",
-        "date": "2026-02-14"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サイバーパンクアクションRPGであるCyberpunk 2077がVariousで65%割引セール中です。このゲームは、2077年の夜の霧に包まれたノーサンオークスを舞台に、非合法なハッキングや戦闘アクションを体験できることで人気です。現在の価格は割引前と比べて大幅に下がっており、興味がある方なら今が買い時かもしれません。",
-        "price": "$20.99",
-        "originalPrice": "",
-        "discount": "-65%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-02-14"
-      },
       {
         "title": "The Darkside Detective: A Fumble in the Dark",
         "platform": "Various",
@@ -652,139 +580,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-02-20"
+      },
+      {
+        "title": "Elden Ring",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションRPGの名作「Elden Ring」がVariousで25％割引のセール中です。このゲームは、壮大な世界と深いストーリー、様々なキャラクターが登場することで人気を博しており、評価も非常に高いです。セール期間中は通常価格より25％安く購入できるので、興味がある方はお見逃しなくください。",
+        "price": "$45.09",
+        "originalPrice": "",
+        "discount": "-25%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/elden-ring/info/",
+        "date": "2026-02-21"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Strayはアクションアドベンチャーゲームで、猫の主人公が廃墟の町を探索するという特徴があります。現在、Variousで53%割引されており、非常に魅力的な価格でプレイすることができます。評価も非常に高く、ユーザーから高い人気を博しています。",
+        "price": "$13.95",
+        "originalPrice": "",
+        "discount": "-53%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-02-21"
       }
     ],
     "review": [
-      {
-        "title": "【新ヒーロー“エルサ・ブラッドストーン”のゲームプレイをお披露目する「Marvel Rivals...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Marvel Rivalsのレビュー記事では、新ヒーロー「エルサ・ブラッドストーン」のゲームプレイが紹介されています。このゲームは、ヒーロー同士の対戦を楽しむことができるため、対戦ゲームファン向けです。また、ゲームの評価ポイントとしては、グラフィックの質と操作のしやすさが高く評価されています。さらに、ゲームのストーリーやキャラクターの設定も充実しているため。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164033.html",
-        "date": "2026-02-11",
-        "is_translated": false
-      },
-      {
-        "title": "【『ウィッシュルーム』手がけた鈴木理香氏最新作アドベンチャー『ダークオークション』ってどんなゲー...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "鈴木理香氏が手がけた最新作のアドベンチャーゲーム『ダークオークション』についてのレビュー記事です。このゲームは、プレイヤーが様々なアイテムを入札するオークション形式で進行し、ストーリーが展開されます。評価ポイントとしては、独自のゲームシステムや、物語の深み、キャラクターの魅力があります。特に、ストーリーの仕掛けや、キャラクターの心理描写が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/da-20260211-419719/",
-        "date": "2026-02-11",
-        "is_translated": false
-      },
-      {
-        "title": "【Co-opマルチプレイヤーに焦点を当てる「Subnautica 2」の開発映像が公開】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Subnautica 2」の開発映像が公開されました。このゲームはCo-opマルチプレイヤーに焦点を当てているので、友達と一緒にプレイすることを楽しむことができます。レビューのポイントは、グラフィックの美しさ、ストーリーの深さ、そしてプレイヤー同士の協力が必要なゲームデザインです。このゲームは、Co-opマルチプレイヤーが好きな人や、ストーリーに興味がある人にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02163995.html",
-        "date": "2026-02-11",
-        "is_translated": false
-      },
-      {
-        "title": "【『冒険家エリオットの千年物語』をプレイ予定の人は要チェック！特典がもらえるセーブデータ連動キャ...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "『冒険家エリオットの千年物語』をプレイ予定の人は要チェック！特典がもらえるセーブデータ連動キャンペーンのレビュー記事を紹介します。この記事では、キャンペーンの内容とセーブデータの連動方法について詳しく説明しています。また、ゲームの評価ポイントや特典の内容についても触れています。特に、セーブデータ連動キャンペーンの利点や注意点について紹介している点が特徴的です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/02/11/177245.html",
-        "date": "2026-02-11",
-        "is_translated": false
-      },
-      {
-        "title": "【「クラーケンを解き放て」と叫ぶスカル・アンド・ボーンズ、なぜか今も存在している：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "クラーケンを解き放てと叫ぶスカル・アンド・ボーンズはなぜか今も存在しているというタイトルのレビュー記事があります。このゲームはユニークなゲーム性と面白いストーリーが特徴です。評価ポイントとしては、ゲームの長さや難易度、そしてプレイヤーの自由度が高いことが挙げられます。レビューの内容概要としては、ゲームの世界観やキャラクターの個性が豊かであること。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/unleash-the-kraken-bellows-skull-bones-which-somehow-still-exists",
-        "date": "2026-02-11",
-        "is_translated": true
-      },
-      {
-        "title": "【注目ホラー『リアニマル』を遊んだら、『リトルナイトメア』シリーズから“亜種進化”した次世代ホラ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "注目ホラー『リアニマル』のレビュー記事では、このゲームは『リトルナイトメア』シリーズから“亜種進化”した次世代ホラーであると評価されています。このゲームは、独自の恐怖体験を提供することに成功しており、ホラーゲームファンには必見の作品です。特に、ゲームのグラフィックやサウンドデザインは高い評価を受けており、プレイヤーを恐怖の世界に引き込むことに成功しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/reanimal-20260212-419844/",
-        "date": "2026-02-11",
-        "is_translated": false
-      },
-      {
-        "title": "【サイバーパンク2.5Dアクション「REPLACED」の日本語対応デモが遂にリリース、新トレーラーも：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "サイバーパンクを舞台にした2.5Dアクションゲーム「REPLACED」の日本語対応デモがリリースされました。このゲームは、独自のグラフィックやアクション性、そしてストーリーに重点を置いた内容が特徴です。レビューでは、グラフィックやサウンドトラックの高品質さ、そしてストーリーの深みが評価されています。また、新たなトレーラーも公開されており、ゲームの雰囲気を感じることができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164052.html",
-        "date": "2026-02-11",
-        "is_translated": false
-      },
-      {
-        "title": "【Reanimal レビュー – リトル ナイトメアのドールハウス ホラーは、より悲惨な戦争と虐...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Reanimal レビュー記事では、リトル ナイトメアのドールハウス ホラーが悲惨な戦争と虐待を描いた作品であると評価しています。このゲームの評価ポイントとしては、独特な世界観やストーリーテリングが挙げられます。さらに、ゲームの内容は恐怖や不快感を与えるものであるため、ホラー作品を好む読者やゲームファンに向けてのレビューになっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/reanimal-review-the-dollhouse-horror-of-little-nightmares-gives-way-to-a-grimier-tale-of-war-and-slaughter",
-        "date": "2026-02-11",
-        "is_translated": true
-      },
-      {
-        "title": "【ロミオはデッドマンの最も魅惑的な光景は、そのアストラルフィッシュタンクメニューです：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム「ロミオはデッドマン」の魅力的な要素を紹介しています。特に、アストラルフィッシュタンクメニューは最も魅惑的な光景であると評価されています。ゲームの評価ポイントとしては、ユニークなゲームデザイン、美しいグラフィック、そして面白いゲームプレイが挙げられます。レビューの内容概要としては、ゲームのストーリー、ゲームシステム、そして操作感などの点が掘り下げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/romeo-is-a-dead-mans-most-beguiling-spectacle-is-its-astral-fish-tank-menu",
-        "date": "2026-02-11",
-        "is_translated": true
-      },
-      {
-        "title": "【「クラーケンを解き放て」と叫ぶスカル・アンド・ボーンズ、どういうわけかまだ存在している：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「クラーケンを解き放て」というタイトルの作品を取り上げています。ゲームの評価ポイントとしては、ユニークなゲームデザインや面白いゲーム性が際立っています。レビューの内容概要としては、ゲームのストーリーやキャラクターの魅力、そして難易度の適切さについて触れています。対象読者は、ゲーム好きの方や新しいゲームを探している方に向けてのレビュー記事となります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/unleash-the-kraken-bellows-skull-bones-which-somehow-still-exists",
-        "date": "2026-02-11",
-        "is_translated": true
-      },
       {
         "title": "【基本プレイ無料5v5タクティカル突入シューター『PUBG: BLINDSPOT』は“座学・ボイ...】",
         "platform": "AUTOMATON",
@@ -2292,8 +2114,21 @@
         "url": "https://www.polygon.com/god-of-war-sons-of-sparta-review/",
         "date": "2026-02-20",
         "is_translated": true
+      },
+      {
+        "title": "【『NTE』モバイル版メインで遊んだプレイレポ　新要素の「お家招待」は叡智だった…メカクレ系イケ...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、モバイル版の『NTE』を遊んだプレイレポートで、ゲームの新要素である「お家招待」について取り上げています。レビューの内容は、ゲームの新要素の評価や、メカクレ系のゲームとしての魅力に焦点を当てています。対象読者は、モバイルゲームやメカクレ系ゲームに興味がある人で、ゲームの評価ポイントとして新要素の評価やゲーム性が重要になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/21/177678.html",
+        "date": "2026-02-21",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-20T21:25:28.837730"
+  "last_updated": "2026-02-21T01:54:35.302957"
 }
