@@ -206,6 +206,42 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/hentai-pair-bundle",
         "date": "2026-02-21"
+      },
+      {
+        "title": "Best of Humble Bundle: Call of the Wild 9th Anniversary",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Best of Humble Bundle: Call of the Wild 9th Anniversaryというバンドルが販売中です。このバンドルには、Horizon Forbidden West、Red Dead Redemption 2、The Witcher 3: Wild Huntなどの主要タイトルが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/callwild9thanniversary_bundle",
+        "date": "2026-02-23"
+      },
+      {
+        "title": "Overwhelming Positive Games Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Overwhelming Positive Games Bundleのバンドルが販売中です。このバンドルには、非常に高い評価を受けたタイトルが数多く含まれており、例えば「Cuphead」や「Hyper Light Drifter」などの人気ゲームが収録されています。ジャンルはアクションやアドベンチャーが中心となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/overwhelmingpositivegamesbundle_gamesbundle",
+        "date": "2026-02-23"
+      },
+      {
+        "title": "Sci-Fi Shooters 2.0",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Sci-Fi Shooters 2.0というバンドルが現在販売中です。このバンドルには、主なタイトルとして「Hard Reset」、「Shadowgrounds」、「Xenoraid」などが含まれています。ジャンルは主にSF要素のあるシューティングゲームが中心となっています。大まかな価格帯は10ドルから20ドル程度で、ゲームファンにはおすすめのバンドルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/scifishootersbundle2025_bundle",
+        "date": "2026-02-23"
       }
     ],
     "sale": [
@@ -591,6 +627,30 @@
         "discount": "75% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/1850570",
+        "date": "2026-02-23"
+      },
+      {
+        "title": "Street Fighter 6",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "格闘ゲームの名作「Street Fighter 6」がSteamで50%オフのセール中です。このゲームは、多様なキャラクターと激しいバトルが特徴で、ファンから高い評価を得ています。現在、通常価格からの割引で購入できるため、格闘ゲームファンにはおすすめのチャンスです。",
+        "price": "¥2,495",
+        "originalPrice": "¥4,990",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1364780",
+        "date": "2026-02-23"
+      },
+      {
+        "title": "DOOM: The Dark Ages",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DOOM: The Dark Agesがバラエティーで73%オフのセール中です。このゲームはファーストパーソン・シューティングゲームであり、ユーザーがデーモンたちと戦うアクション満点の作品です。評価は非常に高い人気ゲームで、多くのユーザーから高く評価されています。セール期間中は通常価格より大幅に安くなっているので、ゲームファンにはお勧めの作品です。",
+        "price": "$19.17",
+        "originalPrice": "",
+        "discount": "-73%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/doom-the-dark-ages/info/",
         "date": "2026-02-23"
       }
     ],
@@ -1728,5 +1788,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-23T02:04:28.581729"
+  "last_updated": "2026-02-23T09:54:27.287219"
 }
