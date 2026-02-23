@@ -664,6 +664,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dark-souls-iii/info/",
         "date": "2026-02-23"
+      },
+      {
+        "title": "God of War",
+        "platform": "Various",
+        "type": "sale",
+        "description": "人気アクションアドベンチャーゲーム「God of War」が、現在Variousで60%割引のセール中です。このゲームは、ハーディなアクションと深いストーリーで知られており、多くのプレイヤーから高い評価を受けています。通常価格より大幅に安い価格で購入できるこのセールは、ゲームファンにとって大きな機会です。",
+        "price": "$19.95",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/god-of-war/info/",
+        "date": "2026-02-23"
+      },
+      {
+        "title": "Marvel's Spider-Man Remastered",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Marvel's Spider-Man RemasteredがVariousでセール中です。これは、アクションアドベンチャーゲームで、スパイダーマンの活躍を体験できます。通常価格より大幅に割引された価格で購入でき、ファンにはおすすめのチャンスです。このゲームは、グラフィックやゲーム性が高く評価されており、人気度も高いです。",
+        "price": "$22.39",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
+        "date": "2026-02-23"
       }
     ],
     "review": [
@@ -1797,8 +1821,47 @@
         "url": "https://doope.jp/2026/02164371.html",
         "date": "2026-02-23",
         "is_translated": false
+      },
+      {
+        "title": "【多数の改善と新コンテンツを導入する「Truckful」の2.0デモがリリース、ピックアップトラ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、トラック運転シミュレーションゲーム「Truckful」の2.0デモ版について評価しています。新しいコンテンツや改善点が盛り込まれたこのデモ版は、ゲームのグラフィックや操作性が大幅に改善されており、よりリアルな運転体験を提供しています。また、レビューではゲームの新しい機能やコンテンツについても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164406.html",
+        "date": "2026-02-23",
+        "is_translated": false
+      },
+      {
+        "title": "【ZA/UMが開発を手がける新作「ZERO PARADES: For Dead Spies」の冒...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ZA/UMが開発を手がける新作「ZERO PARADES: For Dead Spies」のレビュー記事では、ゲームの評価ポイントとして、ストーリーの独創性やゲームプレイの深みが高く評価されています。さらに、レビューの内容概要として、ゲームのグラフィックやサウンドトラックの質も高く評価されています。対象読者としては。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164411.html",
+        "date": "2026-02-23",
+        "is_translated": false
+      },
+      {
+        "title": "【サイコキラーのレビュー: スラッシャー、連続殺人スリラーの一部、すべて愚か】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "サイコキラーのレビュー記事では、スラッシャーと連続殺人スリラーの一部を分析し、すべての要素が愚かであると指摘しています。記事では、このゲームの評価ポイントとして、ストーリーの予測困難さ、キャラクターの独自性、サウンドトラックの効果的な使用を挙げています。また、ゲームの雰囲気やグラフィックの 퀄리ティも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/psycho-killer-serial-killer-versus-slasher/",
+        "date": "2026-02-23",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-23T13:20:09.707372"
+  "last_updated": "2026-02-23T21:44:36.240526"
 }
