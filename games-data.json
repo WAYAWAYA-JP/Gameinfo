@@ -652,6 +652,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/doom-the-dark-ages/info/",
         "date": "2026-02-23"
+      },
+      {
+        "title": "DARK SOULS III",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DARK SOULS IIIがVariousで-60%セール中です。",
+        "price": "$24.01",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dark-souls-iii/info/",
+        "date": "2026-02-23"
       }
     ],
     "review": [
@@ -1788,5 +1800,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-23T09:54:27.287219"
+  "last_updated": "2026-02-23T13:20:09.707372"
 }
