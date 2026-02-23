@@ -52,42 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Sci-Fi Shooters 2.0",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Sci-Fi Shooters 2.0というバンドルが現在販売中です。このバンドルには、主要タイトルとして「Killsquad」、「HELLION」、「Dusk」などが含まれています。ジャンルはSFをテーマにしたシューティングゲームで、価格帯は大まかに1,000円から3,000円程度と幅があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/scifishootersbundle2025_bundle",
-        "date": "2026-02-13"
-      },
-      {
-        "title": "Best of Humble Bundle: Call of the Wild 9th Anniversary",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Best of Humble Bundle: Call of the Wild 9th Anniversaryというバンドルが販売中です。このバンドルには、Horizon Zero Dawn、Days Gone、Ghost of Tsushimaなどのアクションアドベンチャーゲームが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/callwild9thanniversary_bundle",
-        "date": "2026-02-13"
-      },
-      {
-        "title": "Overwhelming Positive Games Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Overwhelming Positive Games Bundleが販売中で、このバンドルには非常に高い評価を受けているタイトルが含まれています。主なタイトルとしては、例えば「Cuphead」や「Hyper Light Drifter」などのインディーゲームが含まれており、ジャンルはアクションやアドベンチャーが中心です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/overwhelmingpositivegamesbundle_gamesbundle",
-        "date": "2026-02-13"
-      },
-      {
         "title": "Power Shock Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -245,42 +209,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "DEATH STRANDING 2: ON THE BEACH",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「DEATH STRANDING 2: ON THE BEACH」がVariousで15％割引でのセール中です。このゲームは、ユニークなゲームプレイとストーリーテリングで知られており、ファンから高い評価を得ています。現在、セール中なので、この機会に遊んでみることができます。価格は割引前と比べて15％安くなり、非常に魅力的なオファーです。",
-        "price": "$59.49",
-        "originalPrice": "",
-        "discount": "-15%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/death-stranding-2-on-the-beach/info/",
-        "date": "2026-02-16"
-      },
-      {
-        "title": "Street Fighter 6",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "人気格闘ゲームのStreet Fighter 6がSteamで50% OFFのセール中です。このゲームは、グラフィックやサウンドが高品質で、プレイヤーがさまざまなキャラクターを操作して対戦することができます。Steamユーザーからの評価は非常に高いです。現在、半額のセール中なので、格闘ゲームファンにはおすすめです。",
-        "price": "¥2,495",
-        "originalPrice": "¥4,990",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1364780",
-        "date": "2026-02-16"
-      },
-      {
-        "title": "HELLDIVERS™ 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "HELLDIVERS 2は、アクションゲームで、プレイヤーが未来の世界で異星人と戦う内容です。このゲームは、 Variousで26%割引されており、現在セール中です。HELLDIVERS 2は、快適なプレイ性と面白いストーリーにより、高評価を得ています。また、オンラインコミュニティでの人気も高く、多くのプレイヤーが参加しています。",
-        "price": "$29.79",
-        "originalPrice": "",
-        "discount": "-26%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/helldivers-2/info/",
-        "date": "2026-02-16"
-      },
       {
         "title": "SILENT HILL 2",
         "platform": "Various",
@@ -652,178 +580,21 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/275850",
         "date": "2026-02-21"
+      },
+      {
+        "title": "DEATH STRANDING DIRECTOR'S CUT",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるDEATH STRANDING DIRECTOR'S CUTがSteamで75％オフのセール中です。このゲームは、独特のストーリーとグラフィックスで高く評価されており、人気ゲームとして知られています。今回のセールでは、通常価格より大幅に安く購入することができますので、ゲームファンにはお勧めです。",
+        "price": "¥1,245",
+        "originalPrice": "¥4,980",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1850570",
+        "date": "2026-02-23"
       }
     ],
     "review": [
-      {
-        "title": "【注目のPvPvE脱出シューター『マラソン（Marathon）』誰でも遊べるプレイテスト2月27...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "注目のPvPvE脱出シューター『マラソン』のプレイテストが2月27日に開催されます。このゲームの評価ポイントとしては、ユーザーが自由にプレイできる脱出要素や、他のプレイヤーと協力して戦うPvPvEモードが魅力です。レビューの内容概要としては、ゲームのグラフィックやサウンドデザイン、そして協力プレイの楽しさについて触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/pvpve-fps-marathon-20260213-420504/",
-        "date": "2026-02-13",
-        "is_translated": false
-      },
-      {
-        "title": "【“Left 4 Dead”を手掛けたMike Booth氏が開発を率いるBad Robot G...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Left 4 Dead」の開発を手掛けたMike Booth氏が率いるBad Robot Gamesの新作ゲームを紹介するレビュー記事です。このレビューでは、ゲームの評価ポイントとしてグラフィックの質やサウンドデザイン、ゲームプレイの面白さなどを取り上げています。また、レビューの内容概要として、ゲームのストーリーやキャラクターの魅力、難易度の適切さなどが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164103.html",
-        "date": "2026-02-13",
-        "is_translated": false
-      },
-      {
-        "title": "【イ・ヨンドの“涙を呑む鳥”をビデオゲーム化する「Project Windless」のゲームプレ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Project Windless」のレビュー記事では、イ・ヨンドの小説「涙を呑む鳥」をビデオゲーム化した作品の評価ポイントを紹介しています。ゲームのストーリーやグラフィック、サウンドトラックなどが高く評価されています。また、レビューではゲームの特徴や魅力などが詳しく解説されており、ファンやゲーム好きには必読の内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164109.html",
-        "date": "2026-02-13",
-        "is_translated": false
-      },
-      {
-        "title": "【主人公の強化システムや日蝕が世界にもたらす変化を紹介する「Saros」のゲームプレイトレーラー...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Saros」のゲームプレイトレーラーでは、主人公の強化システムや日蝕が世界にもたらす変化が紹介されています。このレビュー記事では、ゲームの評価ポイントとして、ストーリーの深みやキャラクターの成長システムが高く評価されています。また、ゲームの雰囲気をそのままに伝えるトレーラーの映像も魅力的です。この記事は、ゲームファンやアクションアドベンチャーゲームを好む読者に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164076.html",
-        "date": "2026-02-13",
-        "is_translated": false
-      },
-      {
-        "title": "【発売が迫る新性「Marathon」のローンチゲームプレイトレーラーがお披露目、待望のプレイテス...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "発売が迫る新作ゲーム「Marathon」のローンチトレーラーが公開され、多くのゲームファンが待望のプレイ内容を垣間見ることができました。このゲームの評価ポイントとしては、スムーズな操作性、グラフィックの高品質、そして面白く加速するゲーム性が挙げられます。レビューの内容概要としては、ゲームの世界観、ストーリーの展開、そしてプレイヤーの自由度が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164122.html",
-        "date": "2026-02-13",
-        "is_translated": false
-      },
-      {
-        "title": "【「Battlefield 6」シーズン2のゲームプレイトレーラーがお披露目、開幕は2月17日】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Battlefield 6」のシーズン2のゲームプレイトレーラーが公開されました。このレビュー記事では、シーズン2の新要素やゲームプレイの変更点などが紹介されています。ゲームの評価ポイントとしては、グラフィックの向上やマルチプレイモードの拡張が挙げられます。また、レビューでは、シーズン2のストーリーや新しいマップの追加などが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164142.html",
-        "date": "2026-02-13",
-        "is_translated": false
-      },
-      {
-        "title": "【多彩な新要素を導入する「Absolum」アップデート1.1“運命の糸”が配信、新トレーラーも：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Absolum」のアップデート1.1“運命の糸”が配信され、多彩な新要素が導入されました。このアップデートでは、ストーリーやゲームプレイに大きな変化が加わり、プレイヤーに新たな体験を提供します。レビューの評価ポイントとしては、新しいストーリーの深み、ゲームプレイの多様性、グラフィックの向上などがあげられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164141.html",
-        "date": "2026-02-13",
-        "is_translated": false
-      },
-      {
-        "title": "【開発ドキュメンタリーや多彩なゲームプレイ機能を導入する「レイマン 30周年エディション」が正式...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「レイマン 30周年エディション」のレビュー記事では、開発ドキュメンタリーの導入や多彩なゲームプレイ機能が高く評価されています。特に、ゲームのグラフィックやサウンドトラックが美しいこと、そして様々なステージやキャラクターが用意されていることが良い点として挙げられています。このゲームは、ファミリー向けやアクションゲームファンなど、幅広い年齢層のユーザーに楽しんでもらえる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164106.html",
-        "date": "2026-02-13",
-        "is_translated": false
-      },
-      {
-        "title": "【「ゲーム・オブ・スローンズ」オープンワールドRPG『ゲーム・オブ・スローンズ：キングスロード』...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ゲーム・オブ・スローンズの世界を舞台にしたオープンワールドRPG「ゲーム・オブ・スローンズ：キングスロード」のレビュー記事では、ゲームの評価ポイントとしてグラフィックの質やシナリオの深みが高く評価されていること、レビューの内容としてはゲームのストーリーやキャラクターの魅力が述べられていることがわかります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260213-420755/",
-        "date": "2026-02-13",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam レビューはプレイヤーのスペックを表示するように設定されているため、プレイヤーの経験...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事は、Steamのレビューがプレイヤーのスペックを表示するように設定されているため、プレイヤーの経験を参考にしてゲームを評価することができます。ゲームの評価ポイントとして、グラフィックの品質、ゲームプレイの面白さ、サウンドトラックのクオリティが重要視されています。また、レビューの内容として、ゲームのストーリー、キャラクターの魅力、難易度の適切さが概要として述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/steam-reviews-set-to-show-a-players-specs-so-its-easier-to-know-if-youll-share-their-experience-or-they-misread-the-minimum/",
-        "date": "2026-02-13",
-        "is_translated": true
-      },
-      {
-        "title": "【タイムトラベルSci-Fiホラー「Cronos: The New Dawn」向けのイージー難易...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "タイムトラベルをテーマにしたSci-Fiホラーのゲーム「Cronos: The New Dawn」は、イージーな難易度でプレイヤーを楽しませます。このゲームの評価ポイントとしては、ユニークなストーリー展開や、アトモスフィアーの作り込みが特に高く評価されています。さらに、グラフィックのクオリティも高く、ホラー要素を存分に楽しむことができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164171.html",
-        "date": "2026-02-13",
-        "is_translated": false
-      },
-      {
-        "title": "【HyperX FlipCast ゲーミングマイクのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "HyperX FlipCast ゲーミングマイクは、高音質と使い勝手の良さを兼ね備えた優秀なマイクです。このレビュー記事では、音質や操作性、デザインなどを評価ポイントとして取り上げ、ユーザーのニーズに応えるかどうかを検討しています。また、ゲーミングマイクとしての特徴や、他の製品との比較なども含め、ゲーム愛好家やコンテンツクリエイターが参考にできる内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/microphones/hyperx-flipcast-gaming-microphone-review/",
-        "date": "2026-02-13",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam レビューで PC のスペックを添付できるのも Steam Machine の準備の...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、Steam Machine の準備段階として、Steam レビューで PC のスペックを添付できる機能について紹介しています。記事では、この機能の利点として、より具体的なゲームの評価が可能になる点、ユーザーが自分の PC のスペックとレビューのスペックを比較し、ゲームの動作状況を予測できる点が挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/steam-reviews-letting-you-attach-your-pc-specs-is-another-steam-machine-prep-play-and-you-cant-convince-me-otherwise",
-        "date": "2026-02-13",
-        "is_translated": true
-      },
       {
         "title": "【「ゲームのレビュー点数を理不尽に厳しくするゲーマー心理」を巡って議論白熱。“目が肥えた”結果な...】",
         "platform": "AUTOMATON",
@@ -862,19 +633,6 @@
         "url": "https://doope.jp/2026/02164156.html",
         "date": "2026-02-14",
         "is_translated": false
-      },
-      {
-        "title": "【ハイ・オン・ライフ 2 レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「ハイ・オン・ライフ 2」の評価ポイントを紹介しています。ゲームのグラフィックやサウンド、ゲームプレイの面白さなどを評価しています。また、レビューでは、ゲームのストーリーやキャラクターの魅力も取り上げられています。ゲーム好きの方や、新しいゲームを探している人に特におすすめの記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/high-on-life-2-review/",
-        "date": "2026-02-13",
-        "is_translated": true
       },
       {
         "title": "【韓国強豪eスポーツチームT1、なんと「韓国海軍」と提携発表。ゲーマーの戦術＆データ活用で、軍事...：レビュー】",
@@ -1928,8 +1686,47 @@
         "url": "https://www.polygon.com/virtual-boy-nintendo-switch-review/",
         "date": "2026-02-22",
         "is_translated": true
+      },
+      {
+        "title": "【海賊ライフを描く新作サバイバルアドベンチャー「Windrose」のウィッシュリスト登録が100...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Windrose」は、海賊ライフを描く新作サバイバルアドベンチャーゲームです。このゲームの評価ポイントは、海賊としての自由な行動や、島でのサバイバル要素が含まれています。レビューの内容概要としては、ゲームの世界観やグラフィックのクオリティが高く評価されています。また、サバイバル要素のバランスや海賊としての冒険の要素も評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164427.html",
+        "date": "2026-02-23",
+        "is_translated": false
+      },
+      {
+        "title": "【「Marathon」のランに役立つ幾つかのコツやディテールをまとめた新たな開発者プレイ映像が公...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、新たな開発者プレイ映像に関するものです。この映像では、「Marathon」のランに役立つコツやディテールがまとめられています。具体的には、ゲームの操作方法やステージの攻略法が紹介されており、ゲームファンにとって非常に有益です。また、開発者のコメントやゲームのグラフィックの美しさも評価されています。ゲーム好きの方や「Marathon」のファンには特にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164413.html",
+        "date": "2026-02-23",
+        "is_translated": false
+      },
+      {
+        "title": "【「Last Epoch」シーズン4“Shattered Omens”の多彩な新コンテンツを紹介...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Last Epoch」シーズン4“Shattered Omens”のレビュー記事では、新しいシーズンの多彩な新コンテンツが紹介されています。このゲームは、アクションRPGのファンにとって必見の内容になっています。評価ポイントとしては、新しいストーリー、キャラクターのバランス調整、そしてグラフィックの向上が挙げられます。また、ゲームの難易度や操作性についてもレビューが行われています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164371.html",
+        "date": "2026-02-23",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-22T21:24:56.027515"
+  "last_updated": "2026-02-23T02:04:28.581729"
 }
