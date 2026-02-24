@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Power Shock Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Power Shock Bundleが販売中です。このバンドルには、主要タイトルとして「Rise to Ruins」や「Slipstream」などが含まれており、ジャンルはアクションやアドベンチャーを中心に構成されています。大まかな価格帯は10ドル以下とお手頃な価格で提供されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/power-shock-bundle",
-        "date": "2026-02-14"
-      },
-      {
         "title": "Just Cause Complete Collection 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,102 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "SILENT HILL 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サバイバルホラーゲームの名作であるSILENT HILL 2が、現在60％割引のセール中です。このゲームは、独自のストーリーテリングと心を引き付けられるキャラクターで人気があり、批評家からも高く評価されています。プレイヤーは、主人公ジェームズ・サンダーランドが、亡くなった妻のメアリーを探すために、不気味で不安な雰囲気の町シラミを探索するという、ハイクオリティな恐怖体験を味わうことができます。",
-        "price": "$28.00",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
-        "date": "2026-02-17"
-      },
-      {
-        "title": "Monster Hunter Rise + Sunbreak",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Monster Hunter Rise + SunbreakがSteamで84%オフのセール中です。このゲームはアクションアドベンチャー系のハンティングゲームで、モンスターを狩りながら冒険することができます。通常価格より大幅に割引されたこの価格で購入することができます。Steamユーザーの評価では非常に高い人気を誇り、多くのユーザーから高評価を得ています。",
-        "price": "¥958",
-        "originalPrice": "¥5,990",
-        "discount": "84% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/692569",
-        "date": "2026-02-17"
-      },
-      {
-        "title": "Nobody Wants to Die",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「Nobody Wants to Die」が現在、Variousで100%割引されています。このゲームは、ユニークなゲームプレイとストーリーで知られており、プレイヤーから高い評価を得ています。セール中の価格は完全無料なので、興味がある方はこの機会に一度試してみることをお勧めします。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/nobody-wants-to-die/info/",
-        "date": "2026-02-17"
-      },
-      {
-        "title": "Warhammer 40,000: Space Marine 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Warhammer 40,000: Space Marine 2がバリューにラインナップされ、現在62%オフでのセール中です。このアクションパックシューティングゲームは、ダイナミックな戦闘と壮大なストーリーで知られており、ファンからの評価も高く、人気のゲームとなっています。",
-        "price": "$22.95",
-        "originalPrice": "",
-        "discount": "-62%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
-        "date": "2026-02-17"
-      },
-      {
-        "title": "DAVE THE DIVER",
-        "platform": "Various",
-        "type": "sale",
-        "description": "DAVE THE DIVERがVariousで58%オフのセール中です。このゲームは、ユニークなダイビングアクションと美しい海洋のグラフィックが特徴で、ファンから高い評価を得ています。現在の価格は、通常価格より大幅に安くなっています。人気ゲームとして知られており、多くのユーザーから好評価を得ています。",
-        "price": "$8.49",
-        "originalPrice": "",
-        "discount": "-58%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
-        "date": "2026-02-17"
-      },
-      {
-        "title": "Detroit: Become Human",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Detroit: Become Humanは、サイバーパンクを舞台にしたアドベンチャーゲームです。このゲームは、人間に近いアンドロイドが人間と同じ権利を求めるストーリーを描いています。現在、 Variousで84%の割引が行われているので、大幅に安くなっています。評価も高く、プレイヤーから高い人気を博しています。",
-        "price": "$6.49",
-        "originalPrice": "",
-        "discount": "-84%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
-        "date": "2026-02-17"
-      },
-      {
-        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-        "platform": "Various",
-        "type": "sale",
-        "description": "S.T.A.L.K.E.R. 2: Heart of Chornobylは、オープンワールドとFPSの要素を組み合わせたサバイバルホラーゲームで、プレイヤーは放射能で汚染された地域を探索し、さまざまなモンスターと戦いながらストーリーを進めていきます。このゲームは、ストーリーの深さとグラフィックの美しさで評価されており、ファンから高い人気を博しています。",
-        "price": "$34.97",
-        "originalPrice": "",
-        "discount": "-42%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
-        "date": "2026-02-17"
-      },
-      {
-        "title": "Subnautica",
-        "platform": "Various",
-        "type": "sale",
-        "description": "SubnauticaがVariousで67%オフのセール中です。このゲームは、オープンワールドのサバイバルアドベンチャーゲームで、美しい海底世界を探索することができます。現在、非常に人気の高いゲームで、Steamでの評価は「非常に好評」です。価格は大幅に割引されていますので、興味がある方はこの機会にぜひチェックしてみてください。",
-        "price": "$9.89",
-        "originalPrice": "",
-        "discount": "-67%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/subnautica/info/",
-        "date": "2026-02-17"
-      },
       {
         "title": "Manor Lords",
         "platform": "Various",
@@ -688,139 +580,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
         "date": "2026-02-23"
+      },
+      {
+        "title": "DARK SOULS™: REMASTERED",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションRPGゲームのDARK SOULS™: REMASTEREDがSteamで50% OFFセール中です。このゲームは、難度の高いプレイと陰気な世界観で知られており、ファンから高い評価を受けています。現在、原价の半額で購入できますので、ゲームファンにはお勧めのセールです。",
+        "price": "¥2,365",
+        "originalPrice": "¥4,730",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/570940",
+        "date": "2026-02-24"
+      },
+      {
+        "title": "God of War Ragnarök",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの『God of War Ragnarök』が、現在40%割引でのセール中です。このゲームは、神話をベースにした壮大なストーリーや、激しい戦闘シーンなど、シリーズの特徴を引き継いでいます。高い評価と人気度を誇り、多くのゲームファンに支持されています。セール中の価格で購入することで、通常価格よりも大幅に安くプレイすることができます。",
+        "price": "$35.95",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
+        "date": "2026-02-24"
       }
     ],
     "review": [
-      {
-        "title": "【「ゲームのレビュー点数を理不尽に厳しくするゲーマー心理」を巡って議論白熱。“目が肥えた”結果な...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、ゲームの評価において理不尽に厳しい点数を付けるゲーマーの心理を取り上げており、評価の厳しさやゲームの内容、そしてプレイヤーが求めるものについて議論が行われているようです。中立的な視点からゲームの長所や短所を分析し、ゲーマーにとっての参考情報を提供する内容です。この記事は、ゲームの評価ポイントやレビューの内容に興味があるゲーマーや。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260214-420967/",
-        "date": "2026-02-14",
-        "is_translated": false
-      },
-      {
-        "title": "【2人プレイ対応協力ホラー『REANIMAL』の「フレンドパス」、Steamでもさっそく提供開始...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、2人プレイ対応の協力ホラーゲーム「REANIMAL」の「フレンドパス」について取り上げています。記事では、ゲームの協力プレイの評価や、フレンドパス機能の内容について触れています。さらに、Steamでの提供開始についても言及しています。ゲーム好きやホラーゲームファンにとって、ゲームの内容や新機能についての情報が得られる記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/reanimal-20260214-420890/",
-        "date": "2026-02-14",
-        "is_translated": false
-      },
-      {
-        "title": "【遺伝子組み替えネコ育成ローグライク「Mewgenics」のプレイヤー数が65万人に到達、新パッ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "遺伝子組み替えネコ育成ローグライクの「Mewgenics」のプレイヤー数が65万人に到達したことを記念して、新しいパックが発売されました。このゲームは、ユニークなゲームシステムと可愛いキャラクターで人気を博しています。レビューでは、ゲームの自由度が高く、ネコの育成が面白いと評価されています。また、グラフィックやサウンドトラックも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164156.html",
-        "date": "2026-02-14",
-        "is_translated": false
-      },
-      {
-        "title": "【韓国強豪eスポーツチームT1、なんと「韓国海軍」と提携発表。ゲーマーの戦術＆データ活用で、軍事...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "韓国海軍と提携したeスポーツチームT1のレビュー記事があります。この記事では、ゲーマーの戦術とデータの活用が軍事にどのように役立つかを紹介しています。さらに、チームT1の戦略とその成功要因についても詳しく説明しています。eスポーツや軍事技術に興味がある方に特におすすめの記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/t1-20260214-421062/",
-        "date": "2026-02-14",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料RPG『怪獣８号 THE GAME』ハーフアニバーサリー第2弾開幕。豪華記念ログ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料のRPGゲーム「怪獣８号 THE GAME」のハーフアニバーサリー第2弾が始まりました。このイベントでは、豪華な記念ログインボーナスが用意されています。ゲームの評価ポイントとしては、面白いストーリーやキャラクター、そして簡単で楽しいゲームプレイがあげられます。レビューの内容概要としては、ゲームの魅力やイベントの内容、そしておすすめ度が紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/kaiju-no8-20260214-421055/",
-        "date": "2026-02-14",
-        "is_translated": false
-      },
-      {
-        "title": "【『ディアブロ3』開発元いわく、10年以上経ってもいまだに「数百万人」が遊んでいる。シリーズ作品...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ディアブロ3』は、発売から10年以上が経過してもなお、数百万人のプレイヤーが存在する人気ゲームです。このレビュー記事では、ゲームの評価ポイントとして、長期的なプレイの魅力やシリーズ作品の完成度が高く評価されています。また、シリーズファンやアクションRPGを楽しむことが好きな読者に向けて、ゲームの魅力を紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/diablo-20260214-421032/",
-        "date": "2026-02-14",
-        "is_translated": false
-      },
-      {
-        "title": "【協力プレイ対応ホラーゲーム『REANIMAL』2人プレイでクリアまで遊ぶと、ほぼホラー版『It...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "協力プレイ対応のホラーゲーム「REANIMAL」は、2人でクリアまで遊んだレビュー記事です。ゲームの評価ポイントとしては、ホラーエレメントの充実や協力プレイの面白さが高く評価されています。また、映画「IT」のような不気味な雰囲気を醸し出しているのも特徴的です。このレビュー記事は、ホラーゲームファンや協力プレイを楽しむことに興味がある方に読んでほしい内容となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/re-20260214-420829/",
-        "date": "2026-02-14",
-        "is_translated": false
-      },
-      {
-        "title": "【新曲と多数の修正を導入する「UNBEATABLE」の1.7.1パッチが配信、さらなる楽曲の予告...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム「UNBEATABLE」の1.7.1パッチの更新内容を紹介しています。このパッチでは、新曲の追加やさまざまな修正が行われており、ゲームの楽しみ方が一層豊かになりました。また、将来的な楽曲追加も予告されており、ゲームファンにとって朗報です。この記事は、ゲームの最新情報に興味がある人や「UNBEATABLE」のプレイヤーに特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164163.html",
-        "date": "2026-02-14",
-        "is_translated": false
-      },
-      {
-        "title": "【海底都市ルルイエを探索するSci-Fi“クトゥルフ”アドベンチャー「Cthulhu: The ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、海底都市ルルイエを探索するSci-Fi「クトゥルフ」アドベンチャーゲーム「Cthulhu: The ...」について評価しています。ゲームの評価ポイントとしては、ゲームのグラフィックやサウンドデザイン、そしてストーリーの深みがあり面白いという点が挙げられます。レビューの内容概要としては、ゲームの世界観やキャラクターの造形が素晴らしいと評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164155.html",
-        "date": "2026-02-14",
-        "is_translated": false
-      },
-      {
-        "title": "【ZA/UMが開発を進めている次回作「ZERO PARADES」の本格的なゲームプレイ映像が公開...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ZA/UMが開発中の新作「ZERO PARADES」のゲームプレイ映像が公開されました。このレビュー記事では、ゲームの評価ポイントとして、ストーリーの深みやゲームシステムの独創性を高く評価しています。また、グラフィックの美しさやサウンドトラックの素晴らしさも評価されています。ゲームファンやZA/UMの前作をプレイしたことがある人には必見の記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164159.html",
-        "date": "2026-02-14",
-        "is_translated": false
-      },
       {
         "title": "【Steamユーザーレビューに「使ってるPCスペックを記載できる新項目」が追加へ。まずはテスト実装中】",
         "platform": "AUTOMATON",
@@ -1860,8 +1646,47 @@
         "url": "https://www.polygon.com/psycho-killer-serial-killer-versus-slasher/",
         "date": "2026-02-23",
         "is_translated": true
+      },
+      {
+        "title": "【大規模テストの開幕が迫る「Marathon」のネットワーク/セキュリティに関する取り組みがアナ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、大規模テストの開幕が迫るゲーム「Marathon」のネットワークとセキュリティに関する取り組みが詳しく紹介されています。記事では、ゲームのセキュリティ対策やネットワークの安定性、ユーザーのプライバシー保護などの評価ポイントが掘り下げられています。特に、ゲームのオンライン機能やマルチプレイヤー要素が注目されており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164378.html",
+        "date": "2026-02-24",
+        "is_translated": false
+      },
+      {
+        "title": "【「レインボーシックス モバイル」が本日配信、ライブアクショントレーラーも：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "レインボーシックス モバイルのレビュー記事では、ゲームの評価ポイントとして、モバイル版独自の操作感やグラフィックの 퀄리ティ、そしてマルチプレイヤー機能の充実度が取り上げられています。また、レビューの内容概要として、ゲームのストレスフリーなプレイ感や、新しいストラテジーが生まれる可能性が指摘されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164440.html",
+        "date": "2026-02-24",
+        "is_translated": false
+      },
+      {
+        "title": "【コスプレ】『ウマ娘』5周年おめでとう！「ウマ年」を迎え更なる飛躍が期待されるウマ娘の美女コスプレイヤーが大集合【写真65枚】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "ウマ娘の5周年を記念したコスプレレビュー記事があります。この記事では、ウマ娘の美しいコスプレイヤーたちが集まって、様々な写真を紹介しています。記事の評価ポイントとしては、コスプレイヤーの技術の高さや、ウマ娘のキャラクターを再現することに成功している点が挙げられます。また、記事ではウマ娘ファンやコスプレファン向けの写真も多数掲載されており、コスプレの魅力を知りたい人の必見記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/24/177732.html",
+        "date": "2026-02-23",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-23T21:44:36.240526"
+  "last_updated": "2026-02-24T02:01:11.901353"
 }
