@@ -230,6 +230,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/scifishootersbundle2025_bundle",
         "date": "2026-02-23"
+      },
+      {
+        "title": "Cartridge Chaos",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Cartridge Chaosというバンドルの販売が行われています。このバンドルには、主要タイトルとして「A Short Hike」、「Hyper Light Drifter」、「Moonlighter」などの作品が含まれており、インディーゲームジャンルを中心に構成されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/cartridgechaos_bundle",
+        "date": "2026-02-25"
+      },
+      {
+        "title": "Last Echoes Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Last Echoes Bundleが現在販売中です。このバンドルには、The Swapper、The Path、The Whispered Worldなどのタイトルが含まれており、インディーゲームファンにとって魅力的な選択肢となっています。ジャンルは主にアドベンチャーゲームやパズルゲームであり、大まかな価格帯は10ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/last-echoes-bundle",
+        "date": "2026-02-25"
       }
     ],
     "sale": [
@@ -639,6 +663,18 @@
         "discount": "-38%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/horizon-forbidden-west-complete-edition/info/",
+        "date": "2026-02-25"
+      },
+      {
+        "title": "Warhammer 40,000: Space Marine 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Warhammer 40,000: Space Marine 2は、人気のアクションゲームで、現在Variousで67%割引されています。このゲームは、ダイナミックなアクションと壮大なストーリーが特徴で、Warhammer 40,000のファンから高い評価を得ています。アクションゲームファンにはおすすめのタイトルです。",
+        "price": "$19.79",
+        "originalPrice": "",
+        "discount": "-67%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
         "date": "2026-02-25"
       }
     ],
@@ -1825,8 +1861,60 @@
         "url": "https://www.polygon.com/final-fantasy-7-new-edition-remastered-steam-bad-reviews/",
         "date": "2026-02-25",
         "is_translated": true
+      },
+      {
+        "title": "【Vampire Survivors公式“ウォーハンマー”スピンオフ「Warhammer Sur...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、Vampire Survivors公式のウォーハンマー スピンオフ「Warhammer Survivors」の評価ポイントを紹介しています。ゲームのグラフィックやサウンド、ゲームプレイの面白さなどが評価ポイントとして挙げられており、ウォーハンマーシリーズのファンやアクションゲーム好きにはおすすめのゲームだと言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164479.html",
+        "date": "2026-02-25",
+        "is_translated": false
+      },
+      {
+        "title": "【バイオハザード レクイエム レビュー - 不気味さと大虐殺が交錯するカタルシス】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "バイオハザード レクイエムは、不気味な雰囲気と激しいアクションが交錯するカタルシスを体験できるゲームです。このレビュー記事では、ゲームの評価ポイントとしてグラフィックの高さ、サウンドデザインの効果的な使用、そしてストーリーの深みを取り上げています。また、ゲームの雰囲気の不気味さと大虐殺の激しさが高く、ホラー要素が強いことを指摘しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/resident-evil-requiem-review-a-cathartic-cross-breed-of-creeps-and-carnage",
+        "date": "2026-02-25",
+        "is_translated": true
+      },
+      {
+        "title": "【『ザ・ブラフ』レビュー: ジョン・ウィックのアクションとカリブ海近くの海賊の出会い】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事は、映画「ザ・ブラフ」の評価を中心に、ジョン・ウィックのようなアクションシーンとカリブ海近くの海賊が出会うユニークな世界観を紹介しています。評価ポイントとしては、アクションの激しさや海賊の魅力的なキャラクター、そしてストーリーの独創性が高く評価されています。ジョン・ウィックシリーズや海賊映画のファンには必見の作品で、映画の魅力を存分に楽しむことができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/the-bluff-review-pirates-priyanka-chopra-jonas-john-wick/",
+        "date": "2026-02-25",
+        "is_translated": true
+      },
+      {
+        "title": "【あなたのタイムゾーンでは、マラソンサーバーのスラムは何時に始まりますか?：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事は、マラソンサーバーのスラムについて、タイムゾーンごとの開始時間を考慮して説明しています。記事では、スラムの開始時間の計算方法や注意点について触れています。また、スラムの参加条件やルールについても詳しく説明しています。マラソンサーバーを利用したことがある人や、スラムに参加しようとしている人は、こちらの記事が参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/marathon-server-slam-beta-start-release-time-est-pst/",
+        "date": "2026-02-25",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-25T13:21:24.462471"
+  "last_updated": "2026-02-25T21:35:56.726395"
 }
