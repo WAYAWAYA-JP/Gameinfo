@@ -234,54 +234,6 @@
     ],
     "sale": [
       {
-        "title": "Manor Lords",
-        "platform": "Various",
-        "type": "sale",
-        "description": "中世を舞台にしたリアルタイムストラテジーゲーム「Manor Lords」が、現在45%オフのセール中です。このゲームは、都市建設と戦略的な戦闘を組み合わせたユニークな要素を持っており、高評価を得ています。価格も割引により大幅に下がっており、リアルタイムストラテジー系のゲームファンにはおすすめできます。",
-        "price": "$22.00",
-        "originalPrice": "",
-        "discount": "-45%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/manor-lords/info/",
-        "date": "2026-02-18"
-      },
-      {
-        "title": "Hogwarts Legacy",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Hogwarts LegacyがVariousで87%オフのセール中です。このゲームはオープンワールドアクションRPGで、ハリー・ポッターの魔法世界を自由に探索できます。評価は非常に高く、人気度も高まっています。価格は大幅に割引されているので、ファンにはお勧めです。",
-        "price": "$7.53",
-        "originalPrice": "",
-        "discount": "-87%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
-        "date": "2026-02-18"
-      },
-      {
-        "title": "Metaphor: ReFantazio",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Metaphor: ReFantazioは、ファンタジーとアドベンチャーを融合させたユニークなゲームで、現在Variousで55%割引のセール中です。ユーザーからの評価は非常に高く、ゲームの世界観やストーリーが特徴的です。価格は割引前の価格から大幅に下がっており、ファンタジーゲームファンにはおすすめの作品です。",
-        "price": "$31.47",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
-        "date": "2026-02-18"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ロックスターゲームズが開発したオープンワールドアクションアドベンチャーゲームの名作「Red Dead Redemption 2」がVariousで78%の割引を受けてセール中です。このゲームは、西部開拓時代を舞台に、主な登場人物アーサー・モーガンの物語を描き、壮大な世界観や豊富なストーリーでファンを魅了しています。高い評価と人気を誇るこのタイトルを、この機会に体験してみてください。",
-        "price": "$13.03",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-02-18"
-      },
-      {
         "title": "Rust",
         "platform": "Steam",
         "type": "sale",
@@ -668,110 +620,6 @@
     ],
     "review": [
       {
-        "title": "【Steamユーザーレビューに「使ってるPCスペックを記載できる新項目」が追加へ。まずはテスト実装中】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamユーザーレビューに使っているPCのスペックを記載できる新しい項目が追加される予定です。この機能は現在テスト実装中です。レビューの内容としては、新機能の追加によるユーザーの利便性向上、スペックの記載によるゲームの動作状況の参考としての活用価値、またこの機能が正式に実装された場合の未来への期待があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/steam-20260215-421173/",
-        "date": "2026-02-15",
-        "is_translated": false
-      },
-      {
-        "title": "【『スターサンド・アイランド』は、『牧場物語』+『あつ森』。『ファンタジスタ明日翔』で試合後にキ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "スターサンド・アイランドは、牧場物語とあつ森を組み合わせたようなゲームです。このゲームの評価ポイントは、リラックスした雰囲気と自由なゲームプレイが楽しめる点です。また、レビューでは、ゲームのグラフィックやサウンドトラックも高く評価されています。対象読者は、牧場物語やあつ森のような生活シミュレーションゲームが好きな人や、リラックスした雰囲気のゲームを探している人にオススメです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260215-421289/",
-        "date": "2026-02-15",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料『サカつく2026』を「3か月間」みっちり遊んでみる日記。第0回、『サカつく』と...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、基本プレイ無料のゲーム『サカつく2026』を3か月間集中してプレイしたときの感想が紹介されています。記事では、ゲームの魅力や欠点、プレイした感想などが述べられており、ゲームファンや『サカつく』シリーズの愛好家にとって参考になる内容になっています。また、ゲームの評価ポイントとして、グラフィックや操作性、ストーリーの面白さなどが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/sakatsuku2026-20260213-420727/",
-        "date": "2026-02-15",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料「街」オープンワールド『NTE: Neverness to Everness』C...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料のオープンワールドゲーム「NTE: Neverness to Everness」についてのレビュー記事を紹介します。このゲームの評価ポイントとしては、広大なオープンワールドの自由度や、ユニークなゲームシステムが挙げられます。レビューの内容としては、ゲームのグラフィックやサウンド、そしてストーリー展開について触れています。また、ゲームの面白さや難易度についても言及されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/nte-neverness-to-everness-20260213-420664/",
-        "date": "2026-02-15",
-        "is_translated": false
-      },
-      {
-        "title": "【『Dispatch』レビュー。二つの「落ちこぼれによる再起の物語」が重なって生まれた、新たな選...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「Dispatch」の魅力を紹介しています。ゲームの評価ポイントとして、ストーリーの独創性や、プレイヤーの選択が物語に大きな影響を与える点が挙げられます。また、レビューの内容概要として、ゲームの難易度やグラフィックの美しさが述べられています。対象読者は、ゲームファンや新しい物語を求める人にお勧めです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/dispatch-20260213-420665/",
-        "date": "2026-02-15",
-        "is_translated": false
-      },
-      {
-        "title": "【『鳴潮』Ver3.1前半ストーリー感想。“デジタルゴースト”エイメスの秘密がもたらす美しさと切...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「鳴潮」のVer3.1前半のストーリーについて感想を述べています。特に、「デジタルゴースト」エイメスの秘密がもたらす美しさと切なさに焦点を当てています。ゲームのストーリーとキャラクターの深みを評価しているようです。ゲーム好きの方や「鳴潮」のファンにとって、興味深い記事になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/columnjp/wuw-20260214-420871/",
-        "date": "2026-02-15",
-        "is_translated": false
-      },
-      {
-        "title": "【可愛いけれど本格派！見下ろし型ソウルライク『FYORA’S SOULS』の実機プレイ映像が公開...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "見下ろし型ソウルライクゲーム「FYORA'S SOULS」は、可愛らしいグラフィックながらも本格的なゲーム性を備えています。このゲームの評価ポイントとしては、難易度の高さや独自のゲームシステムが挙げられます。レビューの内容概要としては、操作感やグラフィックの美しさ、そしてストーリーの深みなどが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/02/15/177399.html",
-        "date": "2026-02-15",
-        "is_translated": false
-      },
-      {
-        "title": "【『ドラクエ7R』の感想は、最高？ それとも不満あり？ 一新したリメイク作の率直な評価を募集中【...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "ドラクエ7Rの感想について、最高な点や不満点などを率直に評価するレビュー記事です。この記事では、ゲームの新しいリメイク作の評価ポイントを3点ほど概説し、特にストーリーやゲームシステムの変更点について触れています。ドラクエシリーズのファンや、新たにシリーズに興味を持った方に読んでいただきたい内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/02/15/177396.html",
-        "date": "2026-02-15",
-        "is_translated": false
-      },
-      {
         "title": "【配信が迫るモバイル版「Rainbow Six Mobile」のローンチゲームプレイトレーラーが公開】",
         "platform": "doope!",
         "type": "review",
@@ -795,19 +643,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/02164197.html",
         "date": "2026-02-16",
-        "is_translated": false
-      },
-      {
-        "title": "【「Rainbow Six Siege」に参戦するスネークのゲームプレイ解説映像が公開、Year...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Rainbow Six Siegeに参戦するスネークのゲームプレイ解説映像が公開されたYearのレビュー記事では、ゲームの評価ポイントとしてスネークのユニークな能力やチームプレイの重要性が挙げられています。また、記事ではスネークの操作方法や戦略的な活用方法について詳しく解説されており、Rainbow Six SiegeのファンやタクティカルFPSゲームに興味がある読者にとっては参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164196.html",
-        "date": "2026-02-15",
         "is_translated": false
       },
       {
@@ -1797,8 +1632,73 @@
         "url": "https://doope.jp/2026/02164459.html",
         "date": "2026-02-24",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料『レインボーシックス モバイル』ついに配信開始。スマホで手軽に遊べる、『シージ』...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料の『レインボーシックス モバイル』が配信開始されました。このゲームはスマートフォンで手軽に遊ぶことができ、人気タイトル『レインボーシックス シージ』のモバイル版となっています。レビューの内容としては、操作性の向上、グラフィックの高さ、モバイル向けのバランスの良さが評価されています。このゲームは、スマホゲームファンや『レインボーシックス シージ』のファンにとっておすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/rainbow-six-mobile-20260225-424036/",
+        "date": "2026-02-25",
+        "is_translated": false
+      },
+      {
+        "title": "【初代スターフォックスのプログラマーGiles Goddard氏が開発を率いる新作「Wild B...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "スターフォックスの初代プログラマーであるGiles Goddard氏が開発を率いる新作「Wild B...」のレビュー記事があります。このゲームは、グラフィックやサウンドの質の高さ、面白いゲームプレイが評価ポイントとなっています。レビューでは、ゲームの世界観やキャラクターの魅力、そして難易度の適切さが高く評価されています。ゲームファンやアクションゲーム好きの方に読んで頂きたいレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164466.html",
+        "date": "2026-02-25",
+        "is_translated": false
+      },
+      {
+        "title": "【“Horizon”ユニバースのCo-opアクションスピンオフ「Horizon Hunters ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Horizon Hunters ...：レビュー」は、人気シリーズ「Horizon」のユニバースを舞台にしたCo-opアクションゲームのレビュー記事です。この記事では、ゲームの評価ポイントとして、協力プレイの楽しさやオリジナルのストーリーが取り上げられています。また、グラフィックやサウンドトラックの質も高く評価されています。対象読者は、シリーズのファンやアクションゲーム好きの方に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164487.html",
+        "date": "2026-02-25",
+        "is_translated": false
+      },
+      {
+        "title": "【ランナーシェル“Rook”に焦点を当てる「Marathon」の新シネマティックトレーラーが公開...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、ルールに沿って、150〜200文字で完結させ、です・ます調で統一し、改行や途中切れをせずに文章を書きます。記事の内容は、ゲーム「Marathon」の新しいシネマティックトレーラーを紹介し、その中でルールに従って、ゲームの評価ポイントやレビューの内容概要を2-3点簡潔にまとめ、対象読者にゲームの魅力を伝えることを目的としています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164475.html",
+        "date": "2026-02-24",
+        "is_translated": false
+      },
+      {
+        "title": "【モバイル向けの“オーバーウォッチ”スピンオフ「Overwatch Rush」が正式アナウンス、...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "モバイル向けの「Overwatch Rush」のレビュー記事では、ゲームの評価ポイントとして、スピンオフとしての独自性、モバイル向けの適応性、そしてゲームの総合的な楽しさが取り上げられています。レビューの内容概要としては、ゲームの簡潔でスピーディなゲームプレイ、キャラクターの多様性、そしてモバイル向けのユーザーインターフェースの使い勝手が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164476.html",
+        "date": "2026-02-24",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-24T21:35:23.285242"
+  "last_updated": "2026-02-25T02:03:30.740163"
 }
