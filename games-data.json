@@ -616,6 +616,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/this-means-warp/info/",
         "date": "2026-02-24"
+      },
+      {
+        "title": "DAVE THE DIVER",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DAVE THE DIVERは、ダイビングアクションゲームで、海の生物を採集したり、海底の遺跡を探索したりすることができます。現在、Variousで45%割引されており、かなりお得な価格で購入することができます。このゲームは、ユニークなゲームプレイとカラー豊かなグラフィックで人気を博しており、多くのユーザーから高い評価をされています。",
+        "price": "$10.99",
+        "originalPrice": "",
+        "discount": "-45%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
+        "date": "2026-02-25"
       }
     ],
     "review": [
@@ -1697,8 +1709,60 @@
         "url": "https://doope.jp/2026/02164476.html",
         "date": "2026-02-24",
         "is_translated": false
+      },
+      {
+        "title": "【“ヴァンサバ×Balatro”風サバイバーアクション『Modo Modo』100%好評のまま評...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Modo Modo』は、ヴァンサバやBalatroを彷彿とさせるサバイバーアクションゲームで、100%の好評価を獲得しています。レビューでは、ゲームの評価ポイントとして、緊張感のあるサバイバル要素や、戦略的なアクションが挙げられています。また、レビューの内容では、ゲームの難易度や操作性についても触れています。このゲームは、アクションゲームやサバイバルゲームのファンに特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260225-424251/",
+        "date": "2026-02-25",
+        "is_translated": false
+      },
+      {
+        "title": "【日常侵食ホラー『悪意』体験版配信中。“謎の視線”から始まる恐怖加速ループ、高評価ホラー『凶寓』...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "日常侵食ホラーの『悪意』の体験版が配信中です。このゲームでは、「謎の視線」から始まる恐怖のループが繰り広げられます。同じ作者による高評価ホラー『凶寅』も話題となっています。このゲームの特徴は、日常生活の中での不気味な出来事が次々と起こり、プレイヤーを不安にさせる点です。また、グラフィックやサウンドデザインもホラーに適した仕様になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260225-424224/",
+        "date": "2026-02-25",
+        "is_translated": false
+      },
+      {
+        "title": "【マックスとクロエの新たな物語を描く「ライフ イズ ストレンジ リユニオン」の日本語吹き替えゲー...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「ライフ イズ ストレンジ リユニオン」のレビュー記事では、このゲームの評価ポイントとしてストーリーの深みやキャラクターの魅力が挙げられます。レビューの内容概要としては、マックスとクロエの新たな物語を描くこのゲームが、プレイヤーに感情を揺さぶることができている点が高く評価されています。また、ゲームの世界観やサウンドトラックの素晴らしさも触れられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164477.html",
+        "date": "2026-02-25",
+        "is_translated": false
+      },
+      {
+        "title": "【シリーズ最新作「アノ 117: パックスロマーナ」が無料でプレイできるフリーウィークエンドがア...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「アノ 117: パックスロマーナ」のフリーウィークエンドのレビュー記事では、ゲームのストーリーやグラフィックの美しさ、プレイヤーの自由度が高く評価されています。特に、シリーズの最新作としての進化が感じられる点や、無料でプレイできることで新しいプレイヤーにも親しみやすい点が強調されています。このレビュー記事は、シリーズのファンや、新しいゲームを探している人にとって参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164493.html",
+        "date": "2026-02-25",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-25T02:03:30.740163"
+  "last_updated": "2026-02-25T09:54:22.245568"
 }
