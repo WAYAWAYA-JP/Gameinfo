@@ -628,6 +628,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
         "date": "2026-02-25"
+      },
+      {
+        "title": "Horizon Forbidden West Complete Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Horizon Forbidden West Complete Editionがバラエティーで38パーセント割引のセール中です。このアクションアドベンチャーゲームは美しいグラフィックと壮大な世界観で知られており、人気のオープンワールドゲームです。プレイヤーはロボットに乗り回すことができ、戦闘システムも充実しています。評価も高く、Metacriticでは86パーセントと高い評価を得ています。",
+        "price": "$36.95",
+        "originalPrice": "",
+        "discount": "-38%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/horizon-forbidden-west-complete-edition/info/",
+        "date": "2026-02-25"
       }
     ],
     "review": [
@@ -1761,8 +1773,60 @@
         "url": "https://doope.jp/2026/02164493.html",
         "date": "2026-02-25",
         "is_translated": false
+      },
+      {
+        "title": "【血みどろロボFPS『ULTRAKILL』大型アプデ直後に「7万人超」で同接記録を大幅更新。『パ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ULTRAKILL』は血みどろロボFPSゲームで、最近の大型アップデート直後にSteamで7万人以上のプレイヤーが同時に参加する記録を達成しました。このゲームの評価ポイントとして、高速なアクションとロボットのカスタマイズの自由度が高いことが挙げられます。レビューでは、このゲームの面白さとシステムの深みが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260225-424290/",
+        "date": "2026-02-25",
+        "is_translated": false
+      },
+      {
+        "title": "【『モンハンワイルズ』PC版、同接プレイヤーが大型アプデ時の7割ほどに―直近レビューは“やや好評...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "『モンハンワイルズ』のPC版について、同接プレイヤーが大型アプデを迎えた際の反応などを取り上げているレビュー記事です。このレビューでは、大型アプデの際にプレイヤーの7割ほどが直接関与していることや、ユーザーの評価ポイントを中心に内容を紹介しています。また、同作のシステムやグラフィックの評価、プレイヤーの対応などについても触れており、ゲームファンやPC版ユーザー向けのレビュー内容となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/25/177829.html",
+        "date": "2026-02-25",
+        "is_translated": false
+      },
+      {
+        "title": "【「METAL BUILD ストライクフリーダムガンダム」がリバイバル！高評価の“聖騎士”アレン...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "METAL BUILD ストライクフリーダムガンダムのリバイバル版について紹介するレビュー記事です。この記事では、ストライクフリーダムガンダムの高品質なデザインや精密なディテール、そして組み立てやすさが評価ポイントとして取り上げられています。また、レビュアーはこの製品を「聖騎士」アレンと称賛しており、ガンダムシリーズのファンやフィギュア収集家にとっては必見の記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/25/177826.html",
+        "date": "2026-02-25",
+        "is_translated": false
+      },
+      {
+        "title": "【ファイナルファンタジー 7 の Steam アップデートはほとんどが否定的なレビューに留まっている】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ファイナルファンタジー7のSteamアップデートについてのレビュー記事では、ほとんどのレビューが否定的な内容になっていることがわかります。このゲームの評価ポイントとしては、グラフィックの低さや操作の不自由さが指摘されています。また、レビューの内容概要としては、アップデートの不十分さやバグの存在が多く挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/final-fantasy-7-new-edition-remastered-steam-bad-reviews/",
+        "date": "2026-02-25",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-25T09:54:22.245568"
+  "last_updated": "2026-02-25T13:21:24.462471"
 }
