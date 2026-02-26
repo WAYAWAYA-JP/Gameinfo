@@ -1,80 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "ダークサイド探偵：暗闇の中でのファンブル",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "ダークサイド探偵：暗闇の中でのファンブルは、ミステリー・アドベンチャーゲームです。このゲームの特徴は、プレイヤーが暗闇の中で探索して謎を解く必要があることです。さらに、ゲームの雰囲気を高めるサウンドトラックや、難易度の高いパズルが楽しめる点も魅力です。このゲームは、Epic Gamesプラットフォームで無料配布中であり、興味のあるプレイヤーは簡単にダウンロードして遊ぶことができます。",
-        "price": "無料",
-        "originalPrice": "¥14",
-        "discount": "100% OFF",
-        "deadline": "2026年02月19日まで",
-        "url": "https://store.epicgames.com/ja/p/b87bb60e2398412e82ba540e50ac6222",
-        "date": "2026-02-19"
-      },
-      {
-        "title": "Nobody Wants to Die",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "2329年のニューヨークのディストピア世界を舞台にしたこのゲームは、インタラクティブなノワールストーリーを体験できます。プレイヤーは、刑事のジェームズ・キャラとして、高度な技術を駆使して捜査を進めます。都市の暗部を探りながら、リスクを負ってキラーを追い詰め、都市の支配層に迫っていきます。このゲームは、アドベンチャーと推理の要素を組み合わせた。",
-        "price": "無料",
-        "originalPrice": "¥29",
-        "discount": "100% OFF",
-        "deadline": "2026年02月19日まで",
-        "url": "https://store.epicgames.com/ja/p/eea910991d674322b3832f9b7bbefb7b",
-        "date": "2026-02-19"
-      },
-      {
-        "title": "Return to Ash",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Return to Ashは、アクションアドベンチャーゲームで、自由に探索が出来るオープンワールドを楽しむことができます。特徴としては、美しいグラフィックと、多様なキャラクターのカスタマイズが可能です。また、ストーリーも面白く、プレイヤーを引き付ける魅力があります。このゲームは、Epic Gamesプラットフォームで無料で配布されており、誰でも簡単にダウンロードして遊ぶことができます。",
-        "price": "無料",
-        "originalPrice": "¥5",
-        "discount": "100% OFF",
-        "deadline": "2026年02月26日まで",
-        "url": "https://store.epicgames.com/ja/p/return-to-ash",
-        "date": "2026-02-19"
-      },
-      {
-        "title": "STALCRAFT: X Starter Edition",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "STALCRAFT:Xは、RPGの要素を取り入れた基本プレイ無料のMMOFPSゲームです。このゲームの特徴としては、広大な世界の探索、様々な武器や防具のカスタマイズ、そして多人数での協力プレイが可能なことなどがあります。さらに、スターター パックを購入することで、初心者でも最初のレイドに必要なアイテムを手に入れることができます。",
-        "price": "無料",
-        "originalPrice": "¥24",
-        "discount": "100% OFF",
-        "deadline": "2026年02月26日まで",
-        "url": "https://store.epicgames.com/ja/p/stalcraft-x-starter-edition",
-        "date": "2026-02-19"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Just Cause Complete Collection 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble BundleでJust Cause Complete Collection 2026のバンドルが販売中です。このバンドルには、Just Cause、Just Cause 2、Just Cause 3などの主要タイトルが含まれています。ジャンルはアクションアドベンチャーで、大まかな価格帯は2000円から3000円程度です。Just Causeシリーズのファンにはお勧めのバンドルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/justcausecompletecollection2026_bundle",
-        "date": "2026-02-16"
-      },
-      {
-        "title": "HHPower Shock Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでHHPower Shock Bundleが販売中です。このバンドルには、Hyperspace Invaders、Hyperspace Invaders：Arcade、Hyperspace Invaders：Zeroなどの主要タイトルが含まれており、シューティングゲームのファンに人気のジャンルです。大まかな価格帯は10ドル以下とお手頃な価格設定になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/power-shock-bundle",
-        "date": "2026-02-16"
-      },
       {
         "title": "February 2026 Humble Choice",
         "platform": "Humble Bundle",
@@ -257,54 +184,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Rust",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Rustは、サバイバル要素を含んだ人気のオンラインアクションゲームで、現在Steamで50%オフのセール中です。このゲームでは、プレイヤーは荒野で生き残るために資源を集め、建物を建て、他のプレイヤーとの戦闘に挑みます。高評価と人気を誇るこのゲームは、50%オフの特別価格でお得に購入できます。",
-        "price": "¥2,300",
-        "originalPrice": "¥4,600",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/252490",
-        "date": "2026-02-19"
-      },
-      {
-        "title": "DARK SOULS III - The Fire Fades Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DARK SOULS III - The Fire Fades EditionがSteamで50% OFFセール中です。このゲームはアクションRPGのジャンルに属し、ダークファンタジーの世界を舞台に、プレイヤーはさまざまな敵と戦いながら進めていきます。通常価格より半額で購入できるこのセールは、ゲームファンにとって大きなお得です。評価も高く、Steamでの評価は「非常に好評」です。",
-        "price": "¥2,970",
-        "originalPrice": "¥5,940",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/160150",
-        "date": "2026-02-19"
-      },
-      {
-        "title": "Blue Prince",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ブルー・プリンスは、バラエティ豊かなゲームです。現在、Variousでのセールで45％割引されています。このゲームは、ユーザーから高い評価を受けており、人気度も高いです。価格は割引により大幅に下がっています。ブルー・プリンスは、ユーザーが楽しめるコンテンツが豊富なので、多くのプレイヤーに愛されています。",
-        "price": "$16.60",
-        "originalPrice": "",
-        "discount": "-45%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/blue-prince/info/",
-        "date": "2026-02-19"
-      },
-      {
-        "title": "Dead Cells",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲームの『Dead Cells』が現在、60%割引のセール中です。このゲームは、ローグライク要素と美しいグラフィックが特徴で、プレイヤーはさまざまな敵を倒しながら進んでいきます。評価も非常に高い人気ゲームで、多くのプレイヤーから高評価を得ています。セール中の価格で購入することができますが、期間限定のセールなので、気になる方はお早めにチェックしてみてください。",
-        "price": "$9.95",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dead-cells/info/",
-        "date": "2026-02-19"
-      },
       {
         "title": "METAL GEAR SOLID Δ: SNAKE EATER",
         "platform": "Steam",
@@ -676,100 +555,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
         "date": "2026-02-25"
+      },
+      {
+        "title": "BIOHAZARD RE:2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "バイオハザードシリーズの名作であるBIOHAZARD RE:2がSteamで75%オフのセール中です。このゲームはサバイバルホラーのジャンルに属し、恐怖とスリルのあるゲームプレイが特徴です。現在の価格は大幅に割引された状態で提供されており、シリーズファンやホラーゲーム好きにはおすすめです。評価も非常に高く、人気度も高まっていますので、ぜひこの機会に購入してみてください。",
+        "price": "¥997",
+        "originalPrice": "¥3,990",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/883710",
+        "date": "2026-02-26"
       }
     ],
     "review": [
-      {
-        "title": "【配信が迫るモバイル版「Rainbow Six Mobile」のローンチゲームプレイトレーラーが公開】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "モバイル版「Rainbow Six Mobile」のローンチゲームプレイトレーラーが公開されたことを紹介するレビュー記事です。この記事では、ゲームの評価ポイントとしてグラフィックの質や操作の感覚などが評価されています。また、レビューの内容概要として、ゲームのストラテジー要素やチームワークの重要性が強調されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164214.html",
-        "date": "2026-02-16",
-        "is_translated": false
-      },
-      {
-        "title": "【遺伝子組み替えネコ育成ローグライク「Mewgenics」のコンソール対応がアナウンス、Stea...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Mewgenics」は遺伝子組み替えネコを育成するローグライクゲームで、コンソール対応が発表されました。このゲームでは、プレイヤーはネコの遺伝子を組み替えて新しい種を作り出すことができます。ゲームの評価ポイントとしては、ユニークなゲームシステムや可愛らしいネコのキャラクターがあげられます。また、ゲームの自由度も高く、プレイヤーは自分の好みに応じてネコを育成することができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164197.html",
-        "date": "2026-02-16",
-        "is_translated": false
-      },
-      {
-        "title": "【協力プレイ対応“人間なりすまし”ガソスタ経営ゲーム『Roadside Research』初動で...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Roadside Research』は、協力プレイ対応のガソリンスタンド経営ゲームで、プレイヤーが人間に成りすまして、様々なミッションを遂行する必要があります。このゲームの評価ポイントとしては、協力プレイの面白さ、ゲームのストーリーやキャラクターの魅力があります。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの高さ、また。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/roadside-research-20260216-421553/",
-        "date": "2026-02-16",
-        "is_translated": false
-      },
-      {
-        "title": "【須田剛一氏の新作『ロミオ・イズ・ア・デッドマン』公式、メディアからの高評価レビューと一緒に「酷...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "須田剛一氏の新作『ロミオ・イズ・ア・デッドマン』は公式でメディアからの高評価レビューが紹介されています。評価ポイントとしては、ゲームのストーリーやキャラクターの設定が独特で面白いと評価されています。また、レビューの内容概要としては、ゲームのグラフィックやサウンドトラックも高く評価されています。対象読者としては。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260216-421498/",
-        "date": "2026-02-16",
-        "is_translated": false
-      },
-      {
-        "title": "【Discordは「自動検出とAI検証および人間によるレビューを組み合わせて」エージゲートするサ...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事では、Discordのエージゲートシステムについて取り上げています。エージゲートシステムは自動検出とAI検証、そして人間によるレビューを組み合わせて、不適切なコンテンツを検出します。このシステムの評価ポイントとしては、不適切なコンテンツの検出精度や、システムの透明性などが挙げられます。また、レビューでは、システムの有効性や、利用者のセキュリティへの影響についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/software/discord-will-decide-which-servers-to-age-gate-with-a-combination-of-automated-detection-with-ai-validation-and-human-review/",
-        "date": "2026-02-16",
-        "is_translated": true
-      },
-      {
-        "title": "【『アークナイツ：エンドフィールド』でゲーム内電線をひたすらきれいに引く「中継タワー整列部」活動...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『アークナイツ：エンドフィールド』のレビュー記事では、中継タワー整列部の活動が紹介されています。この活動では、ゲーム内で電線をきれいに引くことが目的です。レビューのポイントとして、ゲーム内のグラフィックやサウンドデザインの評価、ゲームプレイの面白さなどが挙げられます。この記事は、ゲームファンや『アークナイツ』シリーズの愛好者にとって興味深い内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/arknights-endfield-20260216-421597/",
-        "date": "2026-02-16",
-        "is_translated": false
-      },
-      {
-        "title": "【王が見張っている時だけ国民が働く王国防衛ローグライト「The King is Watching...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「The King is Watching...」は、王が見張っている時だけ国民が働くというユニークな設定のローグライトゲームです。このゲームの評価ポイントとしては、独自のゲーム性や難易度の調整があげられます。レビューの内容概要としては、ゲームのシステムや操作性についての評価が中心になります。対象読者としては、ローグライトゲームのファンや、独自のゲーム性に興味がある方にオススメできるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164193.html",
-        "date": "2026-02-16",
-        "is_translated": false
-      },
       {
         "title": "【旧正月の到来を祝う「Twinkleby」の期間限定イベントと50％オフセールがスタート、“Sh...：レビュー】",
         "platform": "doope!",
@@ -794,32 +594,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/02164254.html",
         "date": "2026-02-17",
-        "is_translated": false
-      },
-      {
-        "title": "【大規模なプレイテストの開催が迫る新生「Marathon」の本格的なゲームプレイ映像が公開】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "新生「Marathon」の大規模なプレイテストが近づき、本格的なゲームプレイ映像が公開されました。このレビュー記事では、新たなゲームプレイの内容やグラフィックの向上、ゲームの総合的な評価ポイントを紹介しています。特に、ゲームのストーリーや操作性、グラフィックの質について評価しています。また、ゲームファンや新規プレイヤー向けの情報も含まれており、対象読者は幅広いゲーム愛好家です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164201.html",
-        "date": "2026-02-16",
-        "is_translated": false
-      },
-      {
-        "title": "【人気PC自作シム続編「PC Building Simulator 2」の海外コンソール対応がア...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「PC Building Simulator 2」のレビュー記事では、ゲームの評価ポイントとしてグラフィックの向上や新しい機能の追加が挙げられています。また、レビューの内容概要として、ゲームの操作性やリアリティの高さが高く評価されています。このレビュー記事は、PCゲームや自作PCに興味を持つ人にとって参考になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164225.html",
-        "date": "2026-02-16",
         "is_translated": false
       },
       {
@@ -1913,8 +1687,34 @@
         "url": "https://www.polygon.com/marathon-server-slam-beta-start-release-time-est-pst/",
         "date": "2026-02-25",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料「街」オープンワールド『NTE: Neverness to Everness』い...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料のオープンワールドゲーム「NTE: Neverness to Everness」のレビュー記事では、ゲームの評価ポイントとしてグラフィックの美しさや自由度の高いゲーム性が高く評価されています。また、レビューの内容概要としては、ゲームの世界観やストーリーの深さ、プレイヤーの自由度が取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/nte-20260225-424311/",
+        "date": "2026-02-26",
+        "is_translated": false
+      },
+      {
+        "title": "【レインズ：ウィッチャーのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "レインズ：ウィッチャーのレビュー記事では、ゲームの評価ポイントとして、物語の深みやキャラクターの魅力、グラフィックの美しさなどが高く評価されています。レビューの内容概要としては、ゲームの世界観や戦闘システムの面白さ、そしてキャラクターの育成システムの充実度などが紹介されています。このレビューは、ファンタジー系ゲームやウィッチャーシリーズのファンに特に興味があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/the-witcher/reigns-the-witcher-review/",
+        "date": "2026-02-25",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-25T21:35:56.726395"
+  "last_updated": "2026-02-26T01:58:57.116078"
 }
