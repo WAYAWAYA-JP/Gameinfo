@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Return to Ash",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Return to Ashは、アクションアドベンチャーゲームです。このゲームの特徴は、美しいグラフィックと、スムーズなゲームプレイが楽しめることです。また、ストーリーも面白く、プレイヤーを引き付けます。Epic Gamesプラットフォームで無料配布中なので、興味がある方はぜひ試してみてください。",
+        "price": "無料",
+        "originalPrice": "¥5",
+        "discount": "100% OFF",
+        "deadline": "2026年02月26日まで",
+        "url": "https://store.epicgames.com/ja/p/return-to-ash",
+        "date": "2026-02-26"
+      },
+      {
+        "title": "STALCRAFT: X Starter Edition",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "STALCRAFT:Xは、RPG要素を備えた基本プレイ無料のMMOFPSゲームです。このゲームの特徴は、多様なキャラクターを作成できること、豊富なコンテンツを無料でプレイできること、そしてグラフィックが美しいことです。スターター パックを購入することで、7 日間のプレミアム、武器、防具、アーティファクト、装飾品など、最初のレイドに必要なアイテムを入手できます。",
+        "price": "無料",
+        "originalPrice": "¥24",
+        "discount": "100% OFF",
+        "deadline": "2026年02月26日まで",
+        "url": "https://store.epicgames.com/ja/p/stalcraft-x-starter-edition",
+        "date": "2026-02-26"
+      }
+    ],
     "bundle": [
       {
         "title": "February 2026 Humble Choice",
@@ -566,6 +591,30 @@
         "discount": "75% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/883710",
+        "date": "2026-02-26"
+      },
+      {
+        "title": "BIOHAZARD RE:3",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでは、人気ホラーゲーム『BIOHAZARD RE:3』が現在75％オフのセール中です。このゲームは、スリリングなサバイバルホラーエクスペリエンスを提供し、高い評価と人気を得ています。通常価格よりも大幅に安くなっているので、ホラーゲームファンにはおすすめです。",
+        "price": "¥997",
+        "originalPrice": "¥3,990",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/952060",
+        "date": "2026-02-26"
+      },
+      {
+        "title": "DARK SOULS III - The Fire Fades Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DARK SOULS III - The Fire Fades EditionがSteamで50% OFFセール中です。このアクションRPGゲームは、難易度の高いゲームプレイと暗いファンタジーの世界で知られています。現在、通常価格の半額で購入できます。DARK SOULSシリーズは、ハードコアなゲーマーから高い評価を受けており、非常に人気のあるゲームです。",
+        "price": "¥2,970",
+        "originalPrice": "¥5,940",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/160150",
         "date": "2026-02-26"
       }
     ],
@@ -1713,8 +1762,34 @@
         "url": "https://www.pcgamer.com/games/the-witcher/reigns-the-witcher-review/",
         "date": "2026-02-25",
         "is_translated": true
+      },
+      {
+        "title": "【「モンスターハンターライズ」や「Slime Rancher 2」を含む2026年3月分のPS ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「モンスターハンターライズ」や「Slime Rancher 2」を含む2026年3月分のPS PLUSの無料ゲームのレビュー記事です。このレビューでは、新作ゲームの評価ポイントとしてグラフィックの質やゲームプレイの奥深さを紹介しています。また、レビューの内容概要としては、ゲームのストーリーや操作感を含む3点が説明されています。特に、ゲーム好きや新作ゲームに興味がある方が対象読者です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164550.html",
+        "date": "2026-02-26",
+        "is_translated": false
+      },
+      {
+        "title": "【eスポーツ「リプレイ」を作る人に迫る―映像職人の地道な工夫…「大谷翔平が生まれる土壌を作りたい...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、eスポーツのリプレイを作る映像職人の仕事に焦点を当てた内容です。リプレイを作る際の地道な工夫や、大谷翔平のような才能を生み出す環境を作ることの重要性について触れています。eスポーツファンや映像制作に興味がある人にとって、リプレイを作る仕事の奥深さを知ることができる記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/26/177882.html",
+        "date": "2026-02-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-26T01:58:57.116078"
+  "last_updated": "2026-02-26T09:49:26.730990"
 }
