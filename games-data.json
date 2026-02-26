@@ -616,6 +616,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/160150",
         "date": "2026-02-26"
+      },
+      {
+        "title": "Resident Evil 4 (2023)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "バイオハザード4（2023）がバラエティストアで66％オフのセール中です。このゲームはサバイバルホラーの傑作として評価されており、強烈なストーリーや心臓破りのサスペンスが特徴です。現在、66パーセントの割引で購入することができ、ファンや新規プレイヤーにとっては大きなチャンスです。バイオハザードシリーズのファンなら必ずプレイしたい一作であり、ゲームの評価や人気度も非常に高いので。",
+        "price": "$13.60",
+        "originalPrice": "",
+        "discount": "-66%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
+        "date": "2026-02-26"
       }
     ],
     "review": [
@@ -1788,8 +1800,34 @@
         "url": "https://www.inside-games.jp/article/2026/02/26/177882.html",
         "date": "2026-02-26",
         "is_translated": false
+      },
+      {
+        "title": "【『テトリス』をプレイすると「トラウマを思い出しづらくなる」との研究結果。頭の中でピースを回転、...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "テトリスをプレイするとトラウマを思い出しづらくなるという研究結果のレビュー記事があります。この記事では、ゲームをプレイすることでストレスを減らし、精神的健康に良い影響を与えることができるという点や、頭の中でピースを回転させながらプレイすることで認知機能を高めることができるという点が評価されています。このようなゲームの評価ポイントを知りたい読者や、ストレスを減らしたい人などにオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/tetris-20260226-424587/",
+        "date": "2026-02-26",
+        "is_translated": false
+      },
+      {
+        "title": "【『バイオハザード レクイエム』レビュー。過去の遺産を光らせる職人技、しかし未来への課題も見える...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "バイオハザードシリーズの最新作『バイオハザード レクイエム』のレビュー記事では、過去の作品の魅力を再現することに成功している点を評価しています。特に、グラフィックやサウンドデザインの高さが際立っており、シリーズファンにとっては思い出を蘇らせるような体験になるでしょう。また、ゲームのストーリーやキャラクターも充実している点が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/20260226-424559/",
+        "date": "2026-02-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-26T09:49:26.730990"
+  "last_updated": "2026-02-26T13:22:13.456981"
 }
