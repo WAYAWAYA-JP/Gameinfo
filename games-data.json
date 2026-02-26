@@ -24,6 +24,30 @@
         "deadline": "2026年02月26日まで",
         "url": "https://store.epicgames.com/ja/p/stalcraft-x-starter-edition",
         "date": "2026-02-26"
+      },
+      {
+        "title": "Boxes: Lost Fragments",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Boxes: Lost Fragmentsは、パズルアドベンチャーゲームです。特徴的な要素として、箱を操作して道を作りながら進むことができます。また、美しいグラフィックと不思議な世界観が魅力です。さらに、ストーリーが面白く、プレイヤーを引き付けます。現在、Epic Gamesプラットフォームで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "¥14",
+        "discount": "100% OFF",
+        "deadline": "2026年03月05日まで",
+        "url": "https://store.epicgames.com/ja/p/a9ef6e969aa249ef936923216909d747",
+        "date": "2026-02-26"
+      },
+      {
+        "title": "My Night Job",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "My Night Jobは、プレイヤーを放棄された建物に送り込むアクションゲームです。このゲームの特徴は、60以上の武器を使用してモンスターの大群と戦い、できるだけ多くの生存者を救うことです。また、プレイヤーはあまりにも多くの部屋を破壊しないように注意しなければなりません。終わりが近づいてしまうからです。このゲームは、PCでのプレイが可能です。",
+        "price": "無料",
+        "originalPrice": "¥9",
+        "discount": "100% OFF",
+        "deadline": "2026年03月05日まで",
+        "url": "https://store.epicgames.com/ja/p/bce593b9b8754aa595ae4123f36ad4a9",
+        "date": "2026-02-26"
       }
     ],
     "bundle": [
@@ -627,6 +651,30 @@
         "discount": "-66%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
+        "date": "2026-02-26"
+      },
+      {
+        "title": "Overcooked! 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Overcooked! 2がSteamで大幅な75%の割引で販売中です。このゲームは、協力プレイを重視したアクションパズルゲームで、最大4人でプレイ可能です。プレイヤーは、料理をしながら障害物を避けながら、タイムアタックを目指します。非常に面白いと評判の、このゲームは、Steamで非常に高い評価を獲得しています。",
+        "price": "¥642",
+        "originalPrice": "¥2,570",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/728880",
+        "date": "2026-02-26"
+      },
+      {
+        "title": "カードファイト!! ヴァンガード ディアデイズ",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "カードファイト!! ヴァンガード ディアデイズがSteamで92% OFFセール中で、カードゲームファンにはおすすめのタイトルです。このゲームは、カードバトルを楽しむことができ、戦略的なプレイが求められます。現在、非常に安い価格で購入できるため、カードゲームやアクションゲームが好きな方は絶対にチェックしてみるべきです。",
+        "price": "¥614",
+        "originalPrice": "¥7,678",
+        "discount": "92% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1881420",
         "date": "2026-02-26"
       }
     ],
@@ -1826,8 +1874,60 @@
         "url": "https://automaton-media.com/articles/impressionjp/20260226-424559/",
         "date": "2026-02-26",
         "is_translated": false
+      },
+      {
+        "title": "【技術官や新オペレーションを導入する「Warhammer 40,000: SPACE MARIN...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Warhammer 40,000: SPACE MARINEのレビュー記事では、ゲームの評価ポイントとして、ストーリーやゲームプレイの面白さ、グラフィックの質などが挙げられています。記事では、ゲームの新しい要素や、既存のシリーズファンへのアピール点も取り上げられています。対象読者は、Warhammerシリーズのファンや、アクションゲームを楽しむ人などです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164517.html",
+        "date": "2026-02-26",
+        "is_translated": false
+      },
+      {
+        "title": "【人気PC自作シム続編「PC Building Simulator 2」のコンソール版が本日発売...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「PC Building Simulator 2」のコンソール版が発売されたことを記念して、レビュー記事を紹介します。このゲームはPC自作シミュレーションの続編で、グラフィックや操作性が大幅に改善されています。レビューのポイントとしては、リアルなPC構築体験、カスタマイズの自由度、チュートリアルモードの充実が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164558.html",
+        "date": "2026-02-26",
+        "is_translated": false
+      },
+      {
+        "title": "【ボクセルサンドボックス破壊ゲーム「Teardown」のマルチプレイヤー実装が3月12日に決定、...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ボクセルサンドボックス破壊ゲーム「Teardown」のマルチプレイヤー実装が3月12日に決定したという情報についてのレビュー記事があります。この記事では、ゲームのマルチプレイヤー機能の評価ポイントとして、プレイヤー同士の協力プレイや対戦プレイの面白さ、グラフィックやサウンドの品質などがあげられます。また、レビューではゲームの操作性やバグの少なさも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164515.html",
+        "date": "2026-02-26",
+        "is_translated": false
+      },
+      {
+        "title": "【バイオハザード レクイエムのゾンビの悪夢が PC 上で夢のように動作します：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "バイオハザード レクイエムはPCで非常に高性能なグラフィックを誇り、恐ろしいゾンビの悪夢を夢のようにリアルに体験できます。このゲームの評価ポイントとしては、グラフィックの高さ、ホラー要素の充実、ストーリーの深さなどがあります。レビューの内容概要としては、ゲームのグラフィックやサウンドデザインが非常に高く評価されており、ホラー要素も非常にリアルに表現されていると述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/resident-evil-requiem-pc-performance-best-settings",
+        "date": "2026-02-26",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-26T13:22:13.456981"
+  "last_updated": "2026-02-26T21:33:14.803416"
 }
