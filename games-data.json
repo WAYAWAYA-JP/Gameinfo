@@ -640,6 +640,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-village/info/",
         "date": "2026-02-27"
+      },
+      {
+        "title": "My Night Job",
+        "platform": "Various",
+        "type": "sale",
+        "description": "My Night Jobは、アクションとサバイバル要素を組み合わせたユニークなゲームで、現在Variousで100%割引セール中です。このゲームでは、プレイヤーは謎の存在を退治しながらステージをクリアしていく必要があり、ハードコアなゲームファンから高い評価を獲得しています。セール中の価格は完全無料となるため、興味のある方はこの機会にぜひお試しください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/my-night-job/info/",
+        "date": "2026-02-27"
       }
     ],
     "review": [
@@ -1864,8 +1876,47 @@
         "url": "https://doope.jp/2026/02164511.html",
         "date": "2026-02-27",
         "is_translated": false
+      },
+      {
+        "title": "【大手レビューサイトMetacriticにて、老舗メディアの『バイオハザード レクイエム』レビュ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "大手レビューサイトMetacriticには、老舗メディアからの『バイオハザード レクイエム』のレビュー記事があります。このレビューでは、ゲームの恐怖要素やグラフィックのクオリティ、ストーリーの深みなどが評価ポイントとして取り上げられています。特に、ゲームの雰囲気やサウンドデザインが高く評価されています。『バイオハザード』シリーズのファンや、ホラーゲームを楽しむ人に読んでほしいレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260227-424922/",
+        "date": "2026-02-27",
+        "is_translated": false
+      },
+      {
+        "title": "【『バイオハザード レクイエム』AI生成レビューがMetacriticから削除―当該メディアでは...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "『バイオハザード レクイエム』のレビュー記事では、MetacriticからAI生成レビューが削除されたことが取り上げられています。この記事は、ゲームの評価ポイントとしてグラフィックやサウンドデザインを高く評価しています。また、レビューの内容概要として、ゲームのストーリーやプレイアビリティについても触れています。この記事は、ゲームファンや『バイオハザード』シリーズの愛好家にとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/27/177953.html",
+        "date": "2026-02-27",
+        "is_translated": false
+      },
+      {
+        "title": "【Netflixの827億ドルでワーナーを買収する契約はパラマウントに劇的に奪われ、1,110億...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Netflixが827億ドルでワーナーを買収する契約が、パラマウントに1100億ドルで劇的に奪われたというニュースのレビュー記事です。この記事では、買収の背景や理由、そしてメディア業界への影響について詳しく分析しています。また、Netflixとパラマウントの戦略や将来の展開についても触れています。このレビューは、メディア業界やビジネスに興味がある人にとって非常に参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/netflixs-827-billion-deal-to-buy-warner-has-been-dramatically-gazumped-by-paramount-to-the-tune-of-111-billion",
+        "date": "2026-02-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-27T09:40:23.578534"
+  "last_updated": "2026-02-27T13:13:35.580363"
 }
