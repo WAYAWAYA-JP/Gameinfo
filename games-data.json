@@ -218,6 +218,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/february_2026_choice",
         "date": "2026-02-27"
+      },
+      {
+        "title": "Mega Man: Charged Up Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Mega Man: Charged Up Collectionのバンドルが販売中です。このコレクションには、メガマンシリーズの主要タイトルであるMega Man X、Mega Man X2、Mega Man X3などが収録されています。ジャンルはアクションゲームで、大まかな価格帯は1,000円前後です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/megamanchargedupcollection_bundle",
+        "date": "2026-02-27"
       }
     ],
     "sale": [
@@ -1915,8 +1927,86 @@
         "url": "https://www.rockpapershotgun.com/netflixs-827-billion-deal-to-buy-warner-has-been-dramatically-gazumped-by-paramount-to-the-tune-of-111-billion",
         "date": "2026-02-27",
         "is_translated": true
+      },
+      {
+        "title": "【マークとソフィアの新たな物語を描く「Until Then」のDLC“Afterimages”が...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「Until Then」のDLC「Afterimages」について評価しています。ゲームの評価ポイントとしては、物語の展開やキャラクターの深みが際立っている点が挙げられます。レビューの内容概要としては、マークとソフィアの新たな物語が描かれていることや、ストーリーの感動度が高く評価されている点が述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164591.html",
+        "date": "2026-02-27",
+        "is_translated": false
+      },
+      {
+        "title": "【ダンディリオンとゲラルトの日帰りパリ旅行を描く「Reigns: The Witcher」の愉快...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、「Reigns: The Witcher」の愉快なゲーム性とユニークなストーリーを紹介しています。評価ポイントとして、ゲームの簡単な操作と面白いストーリー展開が挙げられます。また、ダンディリオンとゲラルトの日帰りパリ旅行を描くユニークな設定も魅力的な要素です。このレビューは、ウィッチャーシリーズのファンや、簡単で面白いゲームを探している人に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164589.html",
+        "date": "2026-02-27",
+        "is_translated": false
+      },
+      {
+        "title": "【Phanteks XT V3 ケースレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Phanteks XT V3 ケースのレビュー記事では、ゲームの評価ポイントとしてデザインと機能性が高く評価されています。レビューの内容概要としては、優れた通気性と静音性、そして高品質の材料使用が挙げられます。これらの点から、PCゲーミング愛好家や高性能PCを求めるユーザーが対象読者となります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/pc-cases/phanteks-xt-v3-case-review/",
+        "date": "2026-02-27",
+        "is_translated": true
+      },
+      {
+        "title": "【ThunderX3 Solo 360 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ThunderX3 Solo 360は、プレイヤーが独自のゲームスタイルを楽しむことができる、独創的なゲームです。このゲームの評価ポイントとしては、グラフィックのクオリティが高く、サウンドトラックが印象的であり、また、操作性が優れています。レビューの内容概要としては、ゲームの難易度が適切で、ストーリーが面白く、また、ゲーム内のグラフィックやサウンドが印象的であることが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-chairs/thunderx3-solo-360-review/",
+        "date": "2026-02-27",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam Deck OLEDの価格は来週、日本、韓国、台湾で上昇するが、それがより広範な値上...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Steam Deck OLEDの価格が来週、日本、韓国、台湾で上昇することが発表されたが、これがより広範な値上げの前触れかどうかについて議論が起こっている。Steam Deck OLEDの評価ポイントとしては、パフォーマンスの向上、バッテリーの持続時間、操作性の良さなどが挙げられる。レビューの内容概要としては、ハードウェアの改良、ソフトウェアの更新、価格の適正さについて言及されている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/steam-deck-oled-prices-will-rise-in-japan-korea-and-taiwan-next-week-but-its-tough-to-tell-whether-thats-a-harbinger-of-wider-hikes",
+        "date": "2026-02-27",
+        "is_translated": true
+      },
+      {
+        "title": "【Netflixの827億ドルでワーナーを買収する契約はパラマウントによって劇的に奪われ、1,1...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、Netflixによるワーナー買収の契約がパラマウントによって奪われたというドラマ的な出来事について取り上げています。記事では、買収の背景や影響について分析し、ビジネス戦略や市場動向に関する評価ポイントを提供しています。特に、メディア業界やビジネスに関心がある読者にとって、興味深い内容となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/netflixs-827-billion-deal-to-buy-warner-has-been-dramatically-gazumped-by-paramount-to-the-tune-of-111-billion",
+        "date": "2026-02-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-02-27T13:13:35.580363"
+  "last_updated": "2026-02-27T21:29:48.984613"
 }
