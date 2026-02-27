@@ -206,6 +206,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/last-echoes-bundle",
         "date": "2026-02-25"
+      },
+      {
+        "title": "February 2026 Humble Choice",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "2026年2月のHumble ChoiceバンドルがHumble Bundleで販売中です。このバンドルには、人気タイトルである「WWE 2K23」や「F1 22」、「Total War: Warhammer III」などが含まれています。ゲームのジャンルはアクションやスポーツ、シミュレーションなど多岐にわたり、価格帯も500円から1000円台と幅広い選択肢があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/february_2026_choice",
+        "date": "2026-02-27"
       }
     ],
     "sale": [
@@ -591,6 +603,42 @@
         "discount": "-65%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
+        "date": "2026-02-27"
+      },
+      {
+        "title": "Lies of P",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Lies of PがSteamで50% OFFのセール中です。このゲームはアクションアドベンチャージャンルに属し、美しいグラフィックと面白いゲームプレイが特徴です。通常価格より半額の価格で購入できるこのチャンスは、評価が高く人気のあるこのゲームをプレイしたい方にはとてもおすすめです。",
+        "price": "¥4,180",
+        "originalPrice": "¥8,360",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1627720",
+        "date": "2026-02-27"
+      },
+      {
+        "title": "Outer Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Outer WildsがVariousで-56%のセールを実施中です。このゲームは、宇宙を探索するアクションアドベンチャーゲームで、時間のループを利用して謎を解くことが特徴です。現在、通常価格よりも56%割引されており、格安でプレイすることができます。評価も高く、人気度は高いゲームであるため、気になる方はぜひこの機会にチェックしてみてください。",
+        "price": "$11.05",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
+        "date": "2026-02-27"
+      },
+      {
+        "title": "Resident Evil Village",
+        "platform": "Various",
+        "type": "sale",
+        "description": "バイオハザードシリーズの最新作『Resident Evil Village』が、現在79%の割引率でセール中です。このホラーアクションゲームは、グラフィックやサウンドのクオリティが高く、プレイヤーからの評価も非常に高い人気ゲームです。バイオハザードシリーズのファンにはもちろん、ホラーゲームファンにもおすすめできます。",
+        "price": "$8.50",
+        "originalPrice": "",
+        "discount": "-79%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-village/info/",
         "date": "2026-02-27"
       }
     ],
@@ -1764,8 +1812,60 @@
         "url": "https://www.rockpapershotgun.com/resident-evil-requiem-pc-performance-best-settings",
         "date": "2026-02-26",
         "is_translated": true
+      },
+      {
+        "title": "【『Slay the Spire 2』開発者いわく、バランス調整は「カッコよくて楽しそうなカード...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Slay the Spire 2』のレビュー記事では、開発者のバランス調整について言及されています。記事では、開発者が「カッコよくて楽しそうなカード」に対するバランス調整に注力している様子が紹介されています。さらに、ゲームの評価ポイントとして、カードのバランスやゲームの難易度の調整が掘り下げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/slay-the-spire-2-20260227-424878/",
+        "date": "2026-02-27",
+        "is_translated": false
+      },
+      {
+        "title": "【マルチプレイ対応リズムゲーム『STAGE TOUR』発表。『ギターヒーロー』の元開発者らが手が...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『STAGE TOUR』は、有名なリズムゲーム『ギターヒーロー』の元開発者が手がけた、マルチプレイ対応のリズムゲームです。このゲームの評価ポイントとしては、ユーザーが一緒に楽曲を演奏できるマルチプレイ機能や、楽曲の豊富なラインナップが挙げられます。レビューの内容概要としては、ゲームの操作性やサウンドの質の高さ、そしてプレイヤーの参加人数に応じたさまざまなゲームモードが介绍されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/stage-tour-20260227-424828/",
+        "date": "2026-02-27",
+        "is_translated": false
+      },
+      {
+        "title": "【新たなキャラクターや旧き神を含む多数の新コンテンツを導入する「恐怖の世界」の1.2アップデート...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「恐怖の世界」の1.2アップデートの内容を紹介しています。このアップデートでは、新しいキャラクターと旧き神を含む多数の新コンテンツが導入されています。レビューでは、このアップデートの評価ポイントとして、新コンテンツの充実度やゲームバランスの変更点が取り上げられています。また、ゲームのストーリーやグラフィックの改善点も評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164468.html",
+        "date": "2026-02-27",
+        "is_translated": false
+      },
+      {
+        "title": "【人気W40kレトロシューター続編「Warhammer 40,000: Boltgun 2」の新...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Warhammer 40,000: Boltgun 2は人気のレトロシューター「Warhammer 40,000: Boltgun」の続編であり、ファンが期待しているタイトルです。このレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンドの改善、ゲームプレイの変化などを取り上げています。また、レビューの内容概要としては、ゲームのストーリーや操作性の向上などが紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164511.html",
+        "date": "2026-02-27",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-27T01:58:01.334445"
+  "last_updated": "2026-02-27T09:40:23.578534"
 }
