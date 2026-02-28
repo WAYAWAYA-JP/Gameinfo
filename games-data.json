@@ -52,66 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Nacon Racing Collection 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Nacon Racing Collection 2026というバンドルが販売中です。このバンドルには、WRC Generations、TT Isle of Man: Ride on the Edge 3、RiMS Racingなどの主要タイトルが含まれています。レーシングゲームファンには必見のバンドルで、レースの楽しみを存分に味わえるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/naconracingcollection_bundle",
-        "date": "2026-02-18"
-      },
-      {
-        "title": "HHArtsy Pixel Puzzles Bundle 5",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、HHArtsy Pixel Puzzles Bundle 5というバンドルが販売中です。このバンドルには、ピクセルアートのパズルゲームが数多く含まれており、代表的なタイトルとしては、ピクセルパズルシリーズなどがあります。ジャンルはパズルゲームであり、大まかな価格帯は数百円から数千円程度です。興味のある方は、IndieGalaのサイトをチェックしてみてください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/artsy-pixel-puzzles5-bundle",
-        "date": "2026-02-18"
-      },
-      {
-        "title": "Massive Music 3 Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Massive Music 3 Bundleが販売中です。このバンドルには、主にアクションゲームやアドベンチャーゲームを含む「Doorways」や「The Whispered World」、「Randal's Monday」などのタイトルが収録されています。ジャンルはアクションアドベンチャーです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/massive-music3-bundle",
-        "date": "2026-02-18"
-      },
-      {
-        "title": "Best of Humble Bundle: Beamdog & Owlcat: RPG Masters",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Best of Humble Bundle: Beamdog & Owlcat: RPG Mastersというバンドルが販売中です。このバンドルには、Baldur's GateやPillars of Eternity、Pathfinder: Kingmakerなどの人気RPGゲームが含まれており、ロールプレイングゲームのファンにとっては魅力的な内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/beamdogowlcatrpgmasters2026_bundle",
-        "date": "2026-02-18"
-      },
-      {
-        "title": "Humble 15 Time Capsule",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Humble 15 Time Capsuleのバンドルが販売中です。このバンドルには、主要タイトルとして「Rise of the Tomb Raider」、「Abzu」、「The Swapper」などが含まれています。ジャンルはアクションアドベンチャーやパズルゲームなど多種多様で、価格帯はおよそ2,000円から3,000円と非常に手頃です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/humble15timecapsule_bundle",
-        "date": "2026-02-18"
-      },
-      {
         "title": "Focus Entertainment Bundle 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,66 +173,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Elden Ring",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションRPGの名作「Elden Ring」がVariousで25％割引のセール中です。このゲームは、壮大な世界と深いストーリー、様々なキャラクターが登場することで人気を博しており、評価も非常に高いです。セール期間中は通常価格より25％安く購入できるので、興味がある方はお見逃しなくください。",
-        "price": "$45.09",
-        "originalPrice": "",
-        "discount": "-25%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/elden-ring/info/",
-        "date": "2026-02-21"
-      },
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Strayはアクションアドベンチャーゲームで、猫の主人公が廃墟の町を探索するという特徴があります。現在、Variousで53%割引されており、非常に魅力的な価格でプレイすることができます。評価も非常に高く、ユーザーから高い人気を博しています。",
-        "price": "$13.95",
-        "originalPrice": "",
-        "discount": "-53%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-02-21"
-      },
-      {
-        "title": "Return to Ash",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「Return to Ash」が、現在Variousで100%割引されています。このゲームは、独自の世界観とスリリングなゲームプレイが特徴で、多くのユーザーから高評価をされています。現在は完全無料なので、興味がある方はぜひこの機会にプレイしてみてください。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/return-to-ash/info/",
-        "date": "2026-02-21"
-      },
-      {
-        "title": "BROTHER!!! Save him! - Hardcore Platformer",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ハードコア・プラットフォーマーであるBROTHER!!! Save him!がVariousで100%割引セール中です。このゲームは、難易度が高く、スピード感のあるアクションが特徴です。現在、完全に無料でプレイできます。高い難易度と複雑なステージ構成が評価され、プラットフォーマーのファンから人気を博しています。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/brother-save-him-hardcore-platformer/info/",
-        "date": "2026-02-21"
-      },
-      {
-        "title": "No Man's Sky",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "No Man's SkyがSteamで60% OFFのセール中です。このゲームは、オープンワールドのサンドボックスゲームで、プレイヤーは宇宙を自由に探索できます。評価は「Overwhelmingly Positive」で、ユーザーから高い評価を受けています。割引価格でこの人気ゲームを遊ぶことができます。",
-        "price": "¥2,600",
-        "originalPrice": "¥6,500",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/275850",
-        "date": "2026-02-21"
-      },
       {
         "title": "DEATH STRANDING DIRECTOR'S CUT",
         "platform": "Steam",
@@ -664,139 +544,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/my-night-job/info/",
         "date": "2026-02-27"
+      },
+      {
+        "title": "レイサラ：サミットキングダム | Laysara: Summit Kingdom",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "レイサラ：サミットキングダムは、ストラテジーとシミュレーションを融合させた、面白くアドベンチャーなゲームです。このゲームでは、プレイヤーは山頂の王国を建設し、管理する役割を担います。現在、Steamで50% OFFのセール中で、通常価格より大幅に安くなっています。ユーザーの評価も非常に高く、多くのプレイヤーから好意的な反応を得ています。ストラテジーゲームファンにはおすすめです。",
+        "price": "¥1,400",
+        "originalPrice": "¥2,800",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1823950",
+        "date": "2026-02-28"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ロックスターゲームズが開発したオープンワールドアクションアドベンチャーゲームであるRed Dead Redemption 2が、現在Variousで78％オフのセール中です。このゲームは、ユーザーから非常に高い評価を受けており、幅広いストーリーや魅力的なグラフィックスが特徴です。現在の価格は大幅に割引されており、ゲームファンには絶対に損しない機会です。",
+        "price": "$13.03",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-02-28"
       }
     ],
     "review": [
-      {
-        "title": "【ゲラルトの冒険を描くウィッチャーテーマの“Reigns”シリーズ最新作「Reigns: The...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、人気ゲーム「Reigns」シリーズの最新作「Reigns: The...」を紹介しています。このゲームは、ウィッチャーテーマを基に、主人公ゲラルトの冒険を描いています。ゲームの評価ポイントとしては、独自のゲームプレイスタイルや、ストーリーの深みなどが挙げられます。レビューの内容概要としては、ゲームの魅力や、難易度のバランスなどが取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164276.html",
-        "date": "2026-02-18",
-        "is_translated": false
-      },
-      {
-        "title": "【大規模プレイテストの開幕が迫る新生「Marathon」の新トレーラーがお披露目、発売は2026...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "新生「Marathon」の新トレーラーがお披露目されました。このゲームは大規模プレイテストの開幕が迫っており、2026年の発売が予定されています。レビューの内容としては、ゲームのグラフィックやサウンドデザイン、ゲームプレイの面白さなどが評価ポイントです。また、ストーリーの深さやキャラクターの魅力もレビューの重要な要素です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164247.html",
-        "date": "2026-02-18",
-        "is_translated": false
-      },
-      {
-        "title": "【『アークナイツ：エンドフィールド』公式がプレイヤーの「りんごの食べ方」を実態調査をする。なぜな...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『アークナイツ：エンドフィールド』公式がプレイヤーの「りんごの食べ方」を実態調査をするというユニークな事例についてのレビュー記事です。この記事では、プレイヤーの意見や調査結果が紹介されており、ゲームのユーザー参加型イベントの評価ポイントとして、プレイヤーの参加度やコミュニティの活発さが見られます。また。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/ae-20260218-422111/",
-        "date": "2026-02-18",
-        "is_translated": false
-      },
-      {
-        "title": "【『モンスターハンターワイルズ』最終アプデにあわせてSteam直近レビュー「やや好評」に到達。“...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "モンスターハンターワイルズの最終アップデートに合わせて、Steamでの直近のレビューは「やや好評」に到達しました。このゲームの評価ポイントとしては、グラフィックの向上や新しいモンスターの追加が挙げられます。また、レビューではゲームのバランスや難易度の調整も高く評価されています。モンスターハンターシリーズのファンやアクションゲームを楽しむことが好きな方に、このレビュー記事はお勧めです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/monster-hunter-wilds-20260218-422103/",
-        "date": "2026-02-18",
-        "is_translated": false
-      },
-      {
-        "title": "【多彩な新コンテンツを導入する「Battlefield 6|REDSEC」のシーズン2が遂に開幕：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Battlefield 6|REDSEC」のシーズン2が発売されました。このシーズン2では、新しいコンテンツが多数導入されています。たとえば、新しいマップやゲームモードが追加されており、プレイヤーが新たな戦闘体験を楽しむことができます。さらに、グラフィックやサウンドの質も向上しています。シーズン2の導入により、ゲームの全体的なバランスや難易度も調整されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164246.html",
-        "date": "2026-02-18",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料“街”オープンワールド『NTE』公式、CBTを受けて「麻雀の待ち時間」や「釣りの...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料のオープンワールドゲーム「NTE」の公式レビュー記事では、クローズドベータテストの体験を通じて、ゲーム内の様々な要素が評価されています。まず、ゲームの自由度が高く、プレイヤーがさまざまな活動に参加できる点が評価されています。さらに、待ち時間を利用できる「麻雀」や、リラックスできる「釣り」などのサブクエストも魅力的です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/nte-20260218-422141/",
-        "date": "2026-02-18",
-        "is_translated": false
-      },
-      {
-        "title": "【ゲーム開発者間で「バネ＋トゲ天井系ギミック」を巡り議論白熱。“プレイヤーの学びを裏切る再利用”...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム開発者間で議論を呼んでいる「バネ＋トゲ天井系ギミック」の問題点を取り上げています。ゲームの評価ポイントとして、プレイヤーの学習過程を裏切るギミックの再利用や、ゲームデザインの限界を浮き彫りにしている点が挙げられます。また、ギミックの使い方によってはプレイヤーの興味を失わせてしまう可能性も指摘されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260218-422144/",
-        "date": "2026-02-18",
-        "is_translated": false
-      },
-      {
-        "title": "【4XストラテジーRPG「Heart of the Machine」の製品版1.0ローンチが20...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Heart of the Machine」の製品版1.0ローンチのレビュー記事では、ゲームの評価ポイントとして、戦略的深度とストーリーの面白さが取り上げられています。また、レビューの内容概要として、ゲームのシステムやグラフィックのクオリティが高く評価されています。このレビューは、4XストラテジーRPGのファンや、戦略ゲームに興味がある人に向けて書かれており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164289.html",
-        "date": "2026-02-18",
-        "is_translated": false
-      },
-      {
-        "title": "【新たなプレイヤークラスや新チャンピオンモンスター2体を導入する「Aethermancer」の最...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Aethermancer」のレビュー記事では、新たなプレイヤークラスや新チャンピオンモンスター2体を導入するこのゲームの評価ポイントとして、ゲームバランスの改善や新要素の追加が高く評価されていることがわかります。また、グラフィックやサウンドの向上も賞賛されています。このレビューは、ゲームファンや新しいプレイヤーにとって参考になる内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164284.html",
-        "date": "2026-02-18",
-        "is_translated": false
-      },
-      {
-        "title": "【「This Is Not a Test」レビュー：2020年代のゾンビホラーへの大きな後退】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "「This Is Not a Test」は、2020年代のゾンビホラーのジャンルにおいて大きな後退を示す作品であると評価されています。このレビューでは、ゲームの評価ポイントとして、ストーリーの不十分さ、ゲームプレイの単調さ、グラフィックの低さなどが指摘されています。また、レビューの内容概要として、ゲームの不満足な体験、ストーリーの予測可能性、ゲームプレイの不自由さなどが取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/this-is-not-test-review-zombies/",
-        "date": "2026-02-18",
-        "is_translated": true
-      },
       {
         "title": "【おもちゃ工場ホラー『Poppy Playtime』「チャプター5」リリースや否やSteam同接...：レビュー】",
         "platform": "AUTOMATON",
@@ -2005,8 +1779,21 @@
         "url": "https://www.rockpapershotgun.com/netflixs-827-billion-deal-to-buy-warner-has-been-dramatically-gazumped-by-paramount-to-the-tune-of-111-billion",
         "date": "2026-02-27",
         "is_translated": true
+      },
+      {
+        "title": "【「Warhammer 40,000: Dark Heresy」の新たなゲームプレイ映像が公開、...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Warhammer 40,000: Dark Heresyの新しいゲームプレイ映像が公開されました。このゲームは、ダークファンタジー世界を舞台に、プレイヤーがインクィジターとなり、悪の勢力に立ち向かっていく内容です。評価ポイントとしては、独自の世界観や、アクションとストラテジーの融合があげられます。また、ゲームシステムの深さや、グラフィックのクオリティも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164603.html",
+        "date": "2026-02-28",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-27T21:29:48.984613"
+  "last_updated": "2026-02-28T01:48:36.433338"
 }
