@@ -604,6 +604,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
         "date": "2026-02-28"
+      },
+      {
+        "title": "Cult of the Lamb",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Cult of the Lambは、独特な神話とユーモアを融合させたサンドボックスゲームです。このゲームでは、羊の姿をしたカルトのリーダーとなり、信者を集め、村を築き、神々を崇拝します。現在、Variousで56%オフのセール中で、通常よりも大幅に安くなっています。評価は非常に高い人気ゲームで、プレイヤーから高い評価を得ています。",
+        "price": "$11.12",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cult-of-the-lamb/info/",
+        "date": "2026-02-28"
+      },
+      {
+        "title": "RESIDENT EVIL 2 (2019)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "RESIDENT EVIL 2は、2019年にリリースされたホラーアクションゲームです。このゲームは、バイオハザードシリーズのリメイクとして制作されており、グラフィックやサウンドが大幅に刷新されています。今回は、Variousで79%のセールが行われており、大幅に割引された価格で購入することができます。ゲームの評価は非常に高く、多くのプレイヤーから人気を博しています。",
+        "price": "$8.50",
+        "originalPrice": "",
+        "discount": "-79%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-2-2019/info/",
+        "date": "2026-02-28"
       }
     ],
     "review": [
@@ -1896,5 +1920,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-28T12:59:24.258435"
+  "last_updated": "2026-02-28T21:21:48.059582"
 }
