@@ -170,6 +170,42 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/megamanchargedupcollection_bundle",
         "date": "2026-02-27"
+      },
+      {
+        "title": "Best of Humble Bundle: Beamdog & Owlcat: RPG Masters",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Best of Humble Bundle: Beamdog & Owlcat: RPG Mastersというバンドルが販売中です。このバンドルには、主要タイトルとして『バルダーズ・ゲート』『パスファインダー：キングメイカー』『ワイルドライフ』などが含まれています。ロールプレイングゲームを中心としたバンドルで、ファンタジーやアドベンチャーが好きな方にぴったりです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/beamdogowlcatrpgmasters2026_bundle",
+        "date": "2026-02-28"
+      },
+      {
+        "title": "Humble 15 Time Capsule",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble 15 Time Capsuleと呼ばれるバンドルが現在販売中です。このバンドルには、The Witness、The Stanley Parable、Gone Homeなどの主要タイトルが含まれています。ジャンルはアドベンチャーやパズルゲームなど多様で、価格帯は約1,500円から2,500円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/humble15timecapsule_bundle",
+        "date": "2026-02-28"
+      },
+      {
+        "title": "Massive Music 3 Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Massive Music 3 Bundleが販売中です。このバンドルには、主にアクションゲームやアドベンチャーゲームが含まれており、ジャンルはアクション、アドベンチャー、RPGなど多岐にわたります。また、主要タイトルとして、ファンタジーRPGの「Eternal Edge」や、サイバーパンクアクションの「Cyber Sentinel」。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/massive-music3-bundle",
+        "date": "2026-02-28"
       }
     ],
     "sale": [
@@ -1792,8 +1828,73 @@
         "url": "https://doope.jp/2026/02164603.html",
         "date": "2026-02-28",
         "is_translated": false
+      },
+      {
+        "title": "【海賊オープンワールド『シー・オブ・レムナンツ』はすべてが「自由」だけど、世界は優しくない。イカ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "海賊オープンワールドゲーム「シー・オブ・レムナンツ」のレビュー記事では、その自由度の高さや世界観の広さが評価ポイントとなっているが、同時に世界が優しくないという点も指摘されている。このゲームのレビューでは、自由な探索や戦闘の楽しさ、そして世界の緻密さが高く評価されている。しかし、ゲームの難易度や世界の厳しさも考慮すべき点であり。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/sol-20260228-425090/",
+        "date": "2026-02-28",
+        "is_translated": false
+      },
+      {
+        "title": "【パーティー情報“復旧”推理ゲーム『ギルド探求団へようこそ！』発売後ほどなく「圧倒的に好評」達成...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「ギルド探求団へようこそ！」は、パーティー情報の復旧を目指す推理ゲームで、発売後ほどなく「圧倒的に好評」を達成しています。レビューでは、ゲームの評価ポイントとして、ユニークなゲームシステムや魅力的なキャラクターが挙げられています。また、ゲームの難易度の適切さや、プレイヤーの想像力を刺激するストーリーも高く評価されています。このゲームは、推理ゲームやパーティーゲームのファンに特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/guild-20260228-425094/",
+        "date": "2026-02-28",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料戦国SLG×RPG『信長の野望 真戦』新シーズンで“『信長の野望･新生』らしさ”...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料の戦国SLG×RPG『信長の野望 真戦』の新シーズンが始まり、その評価ポイントとして新しい要素の導入やグラフィックの向上が見られる点があげられます。また、シナリオの内容が豊かになり、プレイヤーの選択肢も増えた点がレビューの内容概要として挙げられます。このレビューは、戦国時代やSLGゲームが好きな人、また『信長の野望』シリーズのファンにとって参考になる情報を得ることができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260226-424393/",
+        "date": "2026-02-28",
+        "is_translated": false
+      },
+      {
+        "title": "【「Marathon」サーバースラムのSteam同接ピークが14万人を突破、修正と改善に関する情報も：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Marathon」サーバースラムのSteam同接ピークが14万人を突破したことを紹介するレビュー記事です。この記事では、ゲームの評価ポイントとして、サーバーの安定性とゲームプレイのスムーズ性を取り上げています。また、修正と改善に関する情報も提供されており、ゲームの将来的な方向性を示唆しています。この記事は、PCゲームやオンラインゲームに興味のある読者向けに。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/02164600.html",
+        "date": "2026-02-28",
+        "is_translated": false
+      },
+      {
+        "title": "【【特集】マルチプレイが楽しいサバイバルアクション5選！殺人鬼・恐竜・ゾンビなどあらゆる襲ってく...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、マルチプレイが楽しめるサバイバルアクションゲーム5選を紹介しています。対象読者は、マルチプレイを楽しむことを好むゲーマーです。記事の評価ポイントとしては、プレイヤー同士の対戦や協力プレイの面白さ、グラフィックやサウンドの質、ゲームの難易度やリプレイ性があります。また、殺人鬼や恐竜、ゾンビなどが襲ってくる緊張感や恐怖感を味わえるゲームも取り上げられており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/02/28/177986.html",
+        "date": "2026-02-28",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-02-28T01:48:36.433338"
+  "last_updated": "2026-02-28T09:26:16.337266"
 }
