@@ -628,87 +628,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-2-2019/info/",
         "date": "2026-02-28"
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ロールプレイングゲームの名作、Baldur's Gate 3が現在、Variousで25%割引のセール中です。このゲームは、ストーリーとキャラクターの深さ、そして戦略的なバトルシステムで高い評価を獲得しており、ファンから非常に人気があります。価格も割引によりお得なので、ロールプレイングゲームファンには必見の作品です。",
+        "price": "$44.99",
+        "originalPrice": "",
+        "discount": "-25%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/baldurs-gate-3/info/",
+        "date": "2026-03-01"
+      },
+      {
+        "title": "Boxes: Lost Fragments",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Boxes: Lost FragmentsがVariousで-100%セール中です。これはパズルアドベンチャーゲームであり、プレイヤーが箱の中で迷った主人公を導き、パズルを解いて進めていくという特徴があります。現在、100%割引中で、無料でプレイすることができます。 Boxes: Lost Fragmentsは、ユーザーからの評価が高く、パズルゲームファンから人気を博しています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/boxes-lost-fragments/info/",
+        "date": "2026-03-01"
       }
     ],
     "review": [
-      {
-        "title": "【おもちゃ工場ホラー『Poppy Playtime』「チャプター5」リリースや否やSteam同接...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Poppy Playtime』の第5章がリリースされ、Steamユーザーから多くの評価が寄せられています。このゲームは、独自のホラーエレメントと、プレイヤーが探索するおもちゃ工場の不気味な雰囲気で高く評価されています。レビューでは、ゲームのグラフィックやサウンドデザインの質が高く評価され、ゲームの難易度も適切であると指摘されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/poppy-playtime-20260219-422303/",
-        "date": "2026-02-19",
-        "is_translated": false
-      },
-      {
-        "title": "【TRPGにインスパイアされたCo-op対応ロールプレイングアドベンチャー「Baladins」の...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "コラボレーション要素が豊富なロールプレイングアドベンチャーゲーム「Baladins」のレビュー記事では、TRPGにインスパイアされたゲームデザインや、Co-opプレイに対応した魅力的なゲームシステムが評価されています。また、ユーザーのレビューでは、ゲームの難易度やストーリーの展開が高く評価されており、TRPGやロールプレイングゲームのファンには特におすすめのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164322.html",
-        "date": "2026-02-19",
-        "is_translated": false
-      },
-      {
-        "title": "【Nintendo Switch/Switch 2向けセール、500本以上どっさり追加。『ファミ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Nintendo SwitchやSwitch 2向けのセールが大幅に追加され、500本以上のゲームが対象になっています。このセールの評価ポイントは、人気作品が大幅に値下げされていることや、バラエティ豊かなジャンルのラインナップが特徴です。レビューでは、特に『ファミ通』のレビュー記事が参考になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/nintendo-switch-20260219-422363/",
-        "date": "2026-02-19",
-        "is_translated": false
-      },
-      {
-        "title": "【Beyerdynamic MMX 150 ワイヤレス ゲーミング ヘッドセットのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Beyerdynamic MMX 150 ワイヤレス ゲーミング ヘッドセットは、高音質と快適な装着感で知られています。このヘッドセットの評価ポイントとしては、優れたサウンド性能や長時間のプレイにも適した軽量設計が挙げられます。また、レビューでは、ノイズキャンセリング機能の効果や通話のクリアさも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-headsets/beyerdynamic-mmx-150-wireless-gaming-headset-review/",
-        "date": "2026-02-19",
-        "is_translated": true
-      },
-      {
-        "title": "【ZA/UMの『Zero Parades』はシュレディンガーの『ディスコ・エリジウム』の続編であ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "ZA/UMの『Zero Parades』はシュレディンガーの『ディスコ・エリジウム』の続編であるこのゲームは、独自のストーリーテリングとゲームプレイスタイルが評価ポイントとなります。レビューの内容概要としては、ゲームの物語の深さ、キャラクターの魅力、そしてプレイヤーの選択が物語に与える影響が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/zaums-zero-parades-is-schrodingers-disco-elysium-follow-up-and-it-keeps-yelling-at-me-about-communism",
-        "date": "2026-02-19",
-        "is_translated": true
-      },
-      {
-        "title": "【Aphelion プレビュー: Life Is Strange 開発者が Interstell...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Aphelion プレビュー: Life Is Strange 開発者が Interstellar の世界を舞台にした新作ゲームを発表しました。このレビュー記事では、ゲームの評価ポイントとして、ストーリーの深みやキャラクターの造形が高いと評価されています。また、グラフィックやサウンドトラックの質も高く、プレイヤーを引き込むことができると述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/aphelion-preview-dont-nod/",
-        "date": "2026-02-19",
-        "is_translated": true
-      },
       {
         "title": "【ナマコ協力マルチRTS『NAMAKORIUM（ナマコリウム）』ひとりで遊べる「ソロモード」実装...：レビュー】",
         "platform": "AUTOMATON",
@@ -733,19 +679,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/02164309.html",
         "date": "2026-02-20",
-        "is_translated": false
-      },
-      {
-        "title": "【傑作ローグライクデッキビルダー続編「Slay the Spire 2」の早期アクセスローンチが...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Slay the Spire 2」の早期アクセスローンチのレビュー記事では、ゲームの評価ポイントとして、ローグライクな要素とデッキビルディングの相性が良く、戦略的な深みがあることが挙げられています。また、ゲームの難易度の調整や、新しいキャラクターの追加などが評価されています。このレビューは、ローグライクゲームやデッキビルディングゲームのファンにとって。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02162363.html",
-        "date": "2026-02-19",
         "is_translated": false
       },
       {
@@ -1920,5 +1853,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-28T21:21:48.059582"
+  "last_updated": "2026-03-01T02:10:12.184665"
 }
