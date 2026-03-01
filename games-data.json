@@ -652,6 +652,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/boxes-lost-fragments/info/",
         "date": "2026-03-01"
+      },
+      {
+        "title": "Dredge",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DredgeがVariousで64%オフのセール中です。このゲームは、ユニークなフィッシングアクションとサバイバル要素を兼ね備えた、アクションアドベンチャーゲームです。現在の価格は大幅に割引されており、非常に魅力的です。ユーザーからの評価も高く、人気度も高いので、注目すべき作品です。",
+        "price": "$8.99",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dredge/info/",
+        "date": "2026-03-01"
       }
     ],
     "review": [
@@ -1879,5 +1891,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-01T09:29:10.768633"
+  "last_updated": "2026-03-01T13:02:31.394554"
 }
