@@ -664,6 +664,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dredge/info/",
         "date": "2026-03-01"
+      },
+      {
+        "title": "Elden Ring",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションRPGであるElden Ringが現在、Variousで23%割引のセール中です。このゲームは、広大なオープンワールドと独自のストーリー、深いキャラクターカスタマイズが特徴で、多くのユーザーから高評価を得ています。価格も割引されることでより魅力的な選択肢となり、ゲームファンには見逃せないチャンスです。",
+        "price": "$45.95",
+        "originalPrice": "",
+        "discount": "-23%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/elden-ring/info/",
+        "date": "2026-03-01"
       }
     ],
     "review": [
@@ -1891,5 +1903,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-01T13:02:31.394554"
+  "last_updated": "2026-03-01T21:23:38.841739"
 }
