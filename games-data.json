@@ -1748,8 +1748,47 @@
         "url": "https://www.polygon.com/pokemon-pokopia-review/",
         "date": "2026-03-02",
         "is_translated": true
+      },
+      {
+        "title": "【Cloudpunk世界が舞台となるサイバーパンクライフシム「Nivalis」の新たなゲームプレ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "サイバーパンク世界が舞台となる「Nivalis」のレビュー記事では、このゲームがCloudpunkの世界観を活かしながらも、独自の魅力を出すことに成功している点が評価されています。また、ゲーム内のグラフィックやサウンドトラックも高く評価されており、サイバーパンクファンやライフシムゲームを楽しむ人には特にオススメできる作品です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164658.html",
+        "date": "2026-03-02",
+        "is_translated": false
+      },
+      {
+        "title": "【Cherry Xtrfy MX 8.2 Pro TMR TKL レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Cherry Xtrfy MX 8.2 Pro TMR TKL レビューは、ゲーミングキーボードの評価ポイントとして、キーボードの性能、操作性、デザインなどを詳しく紹介しています。記事では、キーボードの特徴的な機能や、ゲームプレイ時の実践的な評価も行っています。ゲーミングキーボードに興味のある方や、キーボードの購入を検討している方に、参考になります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/cherry-xtrfy-mx-8-2-pro-tmr-tkl-review/",
+        "date": "2026-03-02",
+        "is_translated": true
+      },
+      {
+        "title": "【WoW Midnight 早期アクセス レビュー — World of Warcraft ファ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "World of Warcraft ファンのためのレビュー記事「WoW Midnight 早期アクセス レビュー — World of Warcraft ファ」を紹介します。この記事では、ゲームの評価ポイントとして、グラフィックのクオリティや新しい機能の導入が高く評価されています。また、レビューの内容概要として、ゲームのストーリー展開や操作性の向上が取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/wow-world-of-warcraft-midnight-early-access-review/",
+        "date": "2026-03-02",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-02T13:14:26.180409"
+  "last_updated": "2026-03-02T21:34:28.208639"
 }
