@@ -604,6 +604,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/elden-ring/info/",
         "date": "2026-03-01"
+      },
+      {
+        "title": "We Were Here Forever",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "We Were Here ForeverがSteamで60%オフのセール中です。このゲームは、協力プレイを重視したパズルアドベンチャーゲームで、プレイヤー同士で協力して謎を解く必要があります。特徴的なストーリーと難しいパズルが楽しめることで人気を博しており、評価も非常に高いです。通常価格から60%割引された安い価格で購入できるので、興味がある方はぜひこの機会にチェックしてみてください。",
+        "price": "¥800",
+        "originalPrice": "¥2,000",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1341290",
+        "date": "2026-03-02"
+      },
+      {
+        "title": "Dragon's Dogma 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションRPGゲームであるDragon's Dogma 2が、現在Variousで17%割引セール中です。このゲームは、高自由度のオープンワールドと独自の戦闘システムで人気を博しており、多くのプレイヤーから高評価を得ています。セール期間中は通常価格よりも安く購入できるため、興味のある方はお見逃しなくください。",
+        "price": "$58.07",
+        "originalPrice": "",
+        "discount": "-17%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
+        "date": "2026-03-02"
       }
     ],
     "review": [
@@ -1698,8 +1722,34 @@
         "url": "https://www.inside-games.jp/article/2026/03/02/178051.html",
         "date": "2026-03-02",
         "is_translated": false
+      },
+      {
+        "title": "【Steamで無料のバンダイナムコスタジオ新人研修ゲーム6作品、3月31日に配信終了へ。高評価作...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで無料で配信されていたバンダイナムコスタジオの新人研修ゲーム6作品は、3月31日に配信終了予定です。このゲームは高評価を受けており、グラフィックやサウンド、ゲーム性が評価ポイントとなっています。特に、ユーザーからのレビューでは、ゲームのオリジナリティや難易度の適切さが高く評価されています。新作ゲームに興味があり、無料ゲームを探している方にはおすすめの作品です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260302-425726/",
+        "date": "2026-03-02",
+        "is_translated": false
+      },
+      {
+        "title": "【Pokémon Pokopia レビュー: 退屈だが常に魅力的なライフ シム】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Pokémon Pokopiaは、退屈ながらも常に魅力的なライフシミュレーションゲームです。このゲームの評価ポイントとしては、ユニークなゲームシステムや愛らしいキャラクターが挙げられます。レビューの内容概要としては、ゲームのストーリーやゲームプレイの魅力、グラフィックの美しさについて評価しています。対象読者としては、ポケモンシリーズのファンやライフシミュレーションゲームを楽しむ人にすすめます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/pokemon-pokopia-review/",
+        "date": "2026-03-02",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-02T09:48:09.900131"
+  "last_updated": "2026-03-02T13:14:26.180409"
 }
