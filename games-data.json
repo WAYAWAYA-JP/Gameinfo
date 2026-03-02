@@ -194,6 +194,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/massive-music3-bundle",
         "date": "2026-02-28"
+      },
+      {
+        "title": "Focus Entertainment Bundle 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble BundleでFocus Entertainment Bundle 2026が販売中です。このバンドルには、A Plague TaleシリーズやGreenville、SnowRunnerなどの主要タイトルが含まれており、ストラテジーやアクション、アドベンチャーなどのジャンルが網羅されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/focusentertainmentbundle2026_bundle",
+        "date": "2026-03-02"
       }
     ],
     "sale": [
@@ -1634,8 +1646,60 @@
         "url": "https://doope.jp/2026/03164634.html",
         "date": "2026-03-02",
         "is_translated": false
+      },
+      {
+        "title": "【高難度リズムアクション『Geometry Dash』Steam同時接続プレイヤー「10万人超え...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Geometry Dashは高難度のリズムアクションゲームです。ゲーマーから高い評価を得ています。評価ポイントとしては、難易度の高いステージや、プレイヤーが自作ステージを作成できる機能が人気です。レビューの内容としては、ステージの多様性や、音楽の質の高さが評価されています。また、対象読者としては、リズムアクションゲームのファンや、チャレンジ精神のあるプレイヤーにオススメです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/geometry-dash-20260302-425680/",
+        "date": "2026-03-02",
+        "is_translated": false
+      },
+      {
+        "title": "【世界開拓サンドボックスMMORPG『BitCraft Online』“再出発”アプデで一気に人...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "BitCraft Onlineは、プレイヤーが自由に世界を築くことができるサンドボックスMMORPGです。このゲームの大きな評価ポイントは、広大な世界と豊富なキャラクターカスタマイズです。また、最近の「再出発」アップデートにより、ゲームのシステムが大幅に改善され、よりスムーズなプレイ体験が提供されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260302-425651/",
+        "date": "2026-03-02",
+        "is_translated": false
+      },
+      {
+        "title": "【スクエニが『FF14』まとめサイト「ネトゲ速報」管理人を特定、“謝罪文掲載＋サイト閉鎖＋解決金...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "スクエニの『FF14』まとめサイト「ネトゲ速報」管理人を特定し、謝罪文の掲載とサイトの閉鎖、そして解決金の支払いを求めたというニュースのレビュー記事です。この記事では、スクエニの対応の是正とゲームの将来的な展開について評価しています。特に、スクエニの対応の妥当性、ゲームコミュニティへの影響、スクエニの将来的なゲーム運営への姿勢などが評価ポイントとなっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260302-425626/",
+        "date": "2026-03-02",
+        "is_translated": false
+      },
+      {
+        "title": "【「METAL BUILD ストライクフリーダムガンダム」が3月3日予約開始！高評価の“聖騎士”...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "「METAL BUILD ストライクフリーダムガンダム」は3月3日から予約が開始され、高評価を得ている「ガンダムシリーズ」の人気商品です。この商品は、細かいディテールやメタリックな塗装が特徴で、コレクターたちからの評価が高いとされています。レビューの内容としては、製品の品質やデザイン、コレクターアイテムとしての魅力が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/02/178051.html",
+        "date": "2026-03-02",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-02T02:01:11.013603"
+  "last_updated": "2026-03-02T09:48:09.900131"
 }
