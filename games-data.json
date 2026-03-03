@@ -182,6 +182,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/focusentertainmentbundle2026_bundle",
         "date": "2026-03-02"
+      },
+      {
+        "title": "Love You to Death Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Love You to Death Bundleのバンドルが現在販売中です。このバンドルには、\"Doki Doki Literature Club!\"や\"Amnesia: Rebirth\"などの主要タイトルが含まれています。ジャンルは主にアドベンチャーやホラーゲームに分類されるようです。大まかな価格帯は約2,000円から約4,000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/loveyoutodeathbundle_bundle",
+        "date": "2026-03-03"
+      },
+      {
+        "title": "Hentai Pair Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Hentai Pair Bundleと呼ばれるバンドルが現在販売中です。このバンドルには、Hentai Pussy、Hentai Pussy 2、Hentai Pussy 3などの主要タイトルが含まれており、ジャンルはアダルトゲームに分類されます。大まかな価格帯は約10ドルと非常に手頃な価格設定になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/hentai-pair-bundle",
+        "date": "2026-03-03"
       }
     ],
     "sale": [
@@ -520,6 +544,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
         "date": "2026-03-02"
+      },
+      {
+        "title": "スーパーバニーマン",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "スーパーバニーマンは、Steamで現在50%オフのセール中です。このアクションゲームは、ユーモア溢れる雰囲気と簡単な操作で遊ぶことができます。評価は非常に高く、人気も高いので、ファンも多いです。セール期間中は、通常よりも安い価格で購入することができます。",
+        "price": "¥850",
+        "originalPrice": "¥1,700",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/673750",
+        "date": "2026-03-03"
+      },
+      {
+        "title": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Microsoft Flight Simulator (2020) 40th Anniversary EditionがSteamで65% OFFセール中です。このゲームはフライトシミュレーターとして有名で、高度なグラフィックとリアルな飛行体験が特徴です。通常価格から大幅に割引されたこの機会に、空の自由を感じてみてください。ユーザーからの評価も高く、人気度も高まっています。",
+        "price": "¥2,608",
+        "originalPrice": "¥7,452",
+        "discount": "65% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1250410",
+        "date": "2026-03-03"
+      },
+      {
+        "title": "Shadows of Doubt",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Shadows of DoubtがVariousで55%オフのセール中です。これは、探偵ゲームの要素を取り入れたオープンワールドのアクションアドベンチャーゲームで、プレイヤーは未来の都市で事件を解決します。現在の価格は割引前の価格より55%安くなっています。ユーザーの評価は非常に高く、ゲームの評価はとても良好です。人気度も高く、多くのユーザーがプレイしています。",
+        "price": "$8.99",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/shadows-of-doubt/info/",
+        "date": "2026-03-03"
       }
     ],
     "review": [
@@ -1705,8 +1765,73 @@
         "url": "https://doope.jp/2026/03164653.html",
         "date": "2026-03-02",
         "is_translated": false
+      },
+      {
+        "title": "【12年前のオンラインTPS『Plants vs. Zombies: Garden Warfar...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、12年前に発売されたオンラインTPS『Plants vs. Zombies: Garden Warfare』の評価ポイントについて触れています。ゲームのグラフィックやサウンド、そしてゲームプレイの面白さなどをレビューしています。特に、ユーザーインターフェイスの使いやすさや、マルチプレイヤーの実装が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260303-425921/",
+        "date": "2026-03-03",
+        "is_translated": false
+      },
+      {
+        "title": "【『League of Legends』、次回アプデから「非常に悪質なチャット」がBAN対象に。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "League of Legendsの次回アプデでは、非常に悪質なチャットがBAN対象になることが決定しました。この変更は、ゲーム内でのハラスメントを減らし、プレイヤーの体験を向上させることを目的としています。レビュー記事では、この変更の他に、ゲームの新しい機能やバランス調整についても触れています。ゲームの評価ポイントとしては、ハラスメントの削減、ゲームバランスの改善。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/league-of-legends-20260303-425908/",
+        "date": "2026-03-03",
+        "is_translated": false
+      },
+      {
+        "title": "【体験版祭り「Steam Nextフェス」 2月版の人気トップ50発表、1位は発売迫る『マラソン...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steam Nextフェス2月版の人気トップ50が発表されました。1位には発売が迫る『マラソン...：レビュー』が選ばれました。このゲームは、独自のゲーム性やグラフィックが高く評価されています。レビューでは、ゲームの難易度の高さや、ストーリーの面白さなどが評価ポイントとして挙げられています。ゲームファンやアクションゲーム好きの方にはお勧めのゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/steam-next-fes-20260303-425870/",
+        "date": "2026-03-03",
+        "is_translated": false
+      },
+      {
+        "title": "【サイバーパンク2.5Dアクション「REPLACED」Steamデモのプレイヤー数が18万人を突...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "サイバーパンクをテーマにした2.5Dアクションゲーム「REPLACED」のSteamデモが18万人以上のプレイヤーにプレイされたことが話題となり、レビュー記事が公開されています。このレビューでは、ゲームのグラフィックやサウンドトラック、そして独自の戦闘システムが高く評価されています。また、ゲームの難易度や操作性にも触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164682.html",
+        "date": "2026-03-03",
+        "is_translated": false
+      },
+      {
+        "title": "【ベクシンスキーやギーガー的な終末世界を探索する「Necrophosis」のDLC“Subcon...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ベクシンスキーやギーガー的な終末世界を探索するゲーム「Necrophosis」のDLC「Subcon」のレビュー記事です。この記事では、ゲームの評価ポイントとしてグラフィックやサウンドデザイン、ストーリーの深みなどを紹介しています。また、レビューの内容概要としては、ゲームの世界観やプレイヤーの感情への影響などが掘り下げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164649.html",
+        "date": "2026-03-03",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-03T02:03:21.086861"
+  "last_updated": "2026-03-03T09:41:26.261726"
 }
