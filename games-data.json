@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Love You to Death Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Love You to Death Bundleが現在販売中です。このバンドルには、Goetia、The Infectious Madness of Doctor Dekker、The Shapeshifting Detectiveなどの主要タイトルが含まれています。ジャンルは、主にアドベンチャーやパズルゲームです。大まかな価格帯は、数百円から数千円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/loveyoutodeathbundle_bundle",
-        "date": "2026-02-21"
-      },
-      {
-        "title": "Hentai Pair Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Hentai Pair BundleのバンドルがIndieGalaで販売中です。このバンドルには、Hentai gamesのようなエロゲゲームが含まれており、主要タイトルとして「Hentai Girl Division」や「Hentai Neighbors」などが含まれています。ジャンルは成年向けのアダルトゲームです。大まかな価格帯は10ドル以下で、好きなエロゲゲームを安く購入することができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/hentai-pair-bundle",
-        "date": "2026-02-21"
-      },
-      {
         "title": "Best of Humble Bundle: Call of the Wild 9th Anniversary",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -209,90 +185,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "DARK SOULS™: REMASTERED",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションRPGゲームのDARK SOULS™: REMASTEREDがSteamで50% OFFセール中です。このゲームは、難度の高いプレイと陰気な世界観で知られており、ファンから高い評価を受けています。現在、原价の半額で購入できますので、ゲームファンにはお勧めのセールです。",
-        "price": "¥2,365",
-        "originalPrice": "¥4,730",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/570940",
-        "date": "2026-02-24"
-      },
-      {
-        "title": "God of War Ragnarök",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームの『God of War Ragnarök』が、現在40%割引でのセール中です。このゲームは、神話をベースにした壮大なストーリーや、激しい戦闘シーンなど、シリーズの特徴を引き継いでいます。高い評価と人気度を誇り、多くのゲームファンに支持されています。セール中の価格で購入することで、通常価格よりも大幅に安くプレイすることができます。",
-        "price": "$35.95",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
-        "date": "2026-02-24"
-      },
-      {
-        "title": "Kingdom Come: Deliverance II",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "現在、SteamではオープンワールドアクションRPGであるKingdom Come: Deliverance IIが50%OFFのセール中です。このゲームは、中世を舞台にリアルなグラフィックと壮大なストーリーでプレイヤーを魅了し、実際的な戦闘システムや詳細なキャラクターデザインが特徴です。多くのプレイヤーから高評価を受けており、ゲームの評価は非常に高いです。",
-        "price": "¥4,045",
-        "originalPrice": "¥8,090",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1771300",
-        "date": "2026-02-24"
-      },
-      {
-        "title": "Detroit: Become Human",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Detroit: Become Humanは、アドベンチャーゲームのジャンルで大人気のゲームです。このゲームは、近未来のデトロイトを舞台に、アンドロイドたちのドラマチックなストーリーを描いています。現在、Steamで80%オフのセール中であり、大幅な割引価格でプレイすることができます。ユーザーからの評価も非常に高いです。",
-        "price": "¥900",
-        "originalPrice": "¥4,500",
-        "discount": "80% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1222140",
-        "date": "2026-02-24"
-      },
-      {
-        "title": "Monster Hunter Rise + Sunbreak",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションパックアドベンチャーゲームの「Monster Hunter Rise + Sunbreak」が、Steamで84%の割引率で販売中です。このゲームは、高 đồグラフィックとスリリングなモンスターとのバトルが特徴で、人気ゲームとして評価されています。ファンから好評価を得ており、Steamでの評価も非常に高いです。価格も大幅に下がっているので、ゲームファンにはおすすめのセールです。",
-        "price": "¥958",
-        "originalPrice": "¥5,990",
-        "discount": "84% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/692569",
-        "date": "2026-02-24"
-      },
-      {
-        "title": "The Last of Us™ Part I",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Last of Us Part IがVariousで50%オフのセール中です。このゲームはアクションアドベンチャー系のサバイバルホラーゲームで、感動的なストーリーや美しいグラフィックが特徴です。現在の価格は大幅に値下げされており、ファンからの評価も非常に高い人気ゲームとなっています。",
-        "price": "$29.95",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-last-of-us-part-i/info/",
-        "date": "2026-02-24"
-      },
-      {
-        "title": "This Means Warp",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ストラテジーゲームであるThis Means Warpが、現在71%の割引で提供されています。このゲームは、戦略的な思考と迅速な決定が求められる、複雑なゲームシステムを特徴としています。ユーザーの評価は非常に高く、人気度も高いです。セール中の価格で購入することができ、ストラテジーゲームファンにはおすすめできます。",
-        "price": "$5.78",
-        "originalPrice": "",
-        "discount": "-71%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/this-means-warp/info/",
-        "date": "2026-02-24"
-      },
       {
         "title": "DAVE THE DIVER",
         "platform": "Various",
@@ -631,32 +523,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【『NTE』モバイル版メインで遊んだプレイレポ　新要素の「お家招待」は叡智だった…メカクレ系イケ...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事は、モバイル版の『NTE』を遊んだプレイレポートで、ゲームの新要素である「お家招待」について取り上げています。レビューの内容は、ゲームの新要素の評価や、メカクレ系のゲームとしての魅力に焦点を当てています。対象読者は、モバイルゲームやメカクレ系ゲームに興味がある人で、ゲームの評価ポイントとして新要素の評価やゲーム性が重要になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/02/21/177678.html",
-        "date": "2026-02-21",
-        "is_translated": false
-      },
-      {
-        "title": "【出撃から脱出までの流れが確認できる新生「Marathon」の本格的なプレイスルー映像が公開、大...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、新生「Marathon」のプレイスルー映像が公開されたことを取り上げています。具体的には、出撃から脱出までの流れが確認できる本格的なプレイスルー映像が公開されました。この記事は、ゲームの新しい要素やプレイスタイルに興味がある方に特にオススメです。また、ゲームの評価ポイントとして、グラフィックの質やゲーム性の面での改善点などが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164372.html",
-        "date": "2026-02-21",
-        "is_translated": false
-      },
       {
         "title": "【『モンスターハンターワイルズ』歴戦王アルシュベルドが強かった。『エンドフィールド』池の水を吸う...：レビュー】",
         "platform": "AUTOMATON",
@@ -1787,8 +1653,60 @@
         "url": "https://www.polygon.com/wow-world-of-warcraft-midnight-early-access-review/",
         "date": "2026-03-02",
         "is_translated": true
+      },
+      {
+        "title": "【人気採掘/自動化サンドボックスゲーム「Hydroneer」のコンソール対応をアナウンス、発売は...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Hydroneer」は人気の採掘および自動化サンドボックスゲームで、コンソール対応が発表されました。発売は近日予定です。このゲームは、採掘や自動化システムを自由に作成できる独自のシステムが特徴です。評価ポイントとしては、自由度の高いゲーム性、グラフィックの魅力、そしてリプレイ価値の高さが挙げられます。ゲームファンやサンドボックスゲームの愛好家が対象読者です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164676.html",
+        "date": "2026-03-03",
+        "is_translated": false
+      },
+      {
+        "title": "【新モード“Black Ops Royale”を紹介する「Call of Duty: Warzo...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Call of Duty: Warzone」の新モード「Black Ops Royale」について紹介するレビュー記事では、ゲームの評価ポイントとして、新モードのゲームプレイのスリルや、新しい戦略の発見が可能な点が高く評価されています。また、グラフィックやサウンドの質も高く評価されており、総合的なゲームの完成度も高いと述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164650.html",
+        "date": "2026-03-03",
+        "is_translated": false
+      },
+      {
+        "title": "【マーベル格闘ゲーム「MARVEL Tōkon: Fighting Souls」の調整内容を紹介...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "マーベル格闘ゲーム「MARVEL Tōkon: Fighting Souls」の調整内容を紹介するレビュー記事です。このゲームは、キャラクターのバランスや操作性、ステージデザインなどが評価ポイントです。記事では、ゲームの新しい要素や改善点、またシリーズファンや新規プレイヤーにとっての魅力についてレビューしています。格闘ゲームファンやマーベルシリーズの愛好者が対象読者です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164645.html",
+        "date": "2026-03-03",
+        "is_translated": false
+      },
+      {
+        "title": "【ソリッド・スネークが参戦する「Rainbow Six Siege: Operation Sil...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、人気ゲーム「Rainbow Six Siege: Operation Sil...」にソリッド・スネークが参戦するという新しいアップデートに対する評価ポイントを紹介しています。記事では、新しいキャラクターの能力やステージデザインの評価、ゲームバランスの変化などについて詳しく説明しています。ゲームファンや「メタルギアソリッド」シリーズの愛好家にとって、興味深い記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164653.html",
+        "date": "2026-03-02",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-02T21:34:28.208639"
+  "last_updated": "2026-03-03T02:03:21.086861"
 }
