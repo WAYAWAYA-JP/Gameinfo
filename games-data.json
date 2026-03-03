@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/shadows-of-doubt/info/",
         "date": "2026-03-03"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "No Man's Skyがバラエティストアで60%割引のセール中です。このゲームは、オープンワールドのアクションアドベンチャーであり、宇宙を自由に探索でき、多彩な星や惑星を発見することができます。高い評価と人気を誇り、特にグラフィックスやサウンドトラックが高く評価されています。現在の価格は割引前と比較して大幅に下がっていますので、興味がある方はこの機会を逃さないでください。",
+        "price": "$23.95",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-03-03"
       }
     ],
     "review": [
@@ -1833,5 +1845,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-03T09:41:26.261726"
+  "last_updated": "2026-03-03T13:12:33.029328"
 }
