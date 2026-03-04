@@ -592,6 +592,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
         "date": "2026-03-04"
+      },
+      {
+        "title": "Dead Cells",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Dead Cellsは、 roguelikeアクションゲームで、プレイヤーがさまざまなステージを探索し、敵を倒していくことでキャラクターを成長させることができます。現在、Variousで50%割引セール中で、通常価格よりお得に購入できます。Dead Cellsは、ハイスコアを目指すプレイヤーに人気の高いゲームで、Metacriticでは非常に高い評価を得ています。",
+        "price": "$12.49",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dead-cells/info/",
+        "date": "2026-03-04"
       }
     ],
     "review": [
@@ -1946,8 +1958,86 @@
         "url": "https://www.pcgamer.com/games/rpg/esoteric-ebb-review/",
         "date": "2026-03-04",
         "is_translated": true
+      },
+      {
+        "title": "【高評価・不穏“粘土世界”冒険ゲーム『The Midnight Walk』Nintendo Sw...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Nintendo Switch用のゲーム『The Midnight Walk』は、ユニークな粘土世界を舞台にした冒険ゲームです。このゲームは、高評価を得ているものの、不穏な雰囲気も持ち合わせています。レビューでは、ゲームの独自の世界観、不気味ながらも引き付けられる雰囲気、そして自由度の高いゲームプレイが評価されています。また、グラフィックやサウンドトラックも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260304-426421/",
+        "date": "2026-03-04",
+        "is_translated": false
+      },
+      {
+        "title": "【『バイオ レクイエム』レオンとグレースのプレイ体験に差がありすぎる！？ホラー寄りとアクション寄...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「バイオ レクイエム」のキャラクター、ルールとグレースのプレイ体験の違いについて取り上げています。評価ポイントとしては、ホラー要素とアクション要素のバランスが重要です。また、プレイヤーのスキルレベルやゲームスタイルによって、ゲームの難易度や楽しみ方が大きく異なることが指摘されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/04/178148.html",
+        "date": "2026-03-04",
+        "is_translated": false
+      },
+      {
+        "title": "【『バイオハザード レクイエム』メタスコア更新で2026年発売のゲームで暫定トップ評価に。『ぽこ...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "『バイオハザード レクイエム』は2026年発売のゲームの中で、現在メタスコアで暫定トップの評価を獲得しています。このゲームの評価ポイントとしては、グラフィックの高さ、サスペンス溢れるストーリー、緊張感のあるゲームプレイが挙げられます。レビューの内容概要としては、グラフィックの質の高さや、恐怖心を引き出すサウンドデザインが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/04/178147.html",
+        "date": "2026-03-04",
+        "is_translated": false
+      },
+      {
+        "title": "【Acer Nitro V 16 AI レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Acer Nitro V 16 AI レビューの記事では、ゲーミングノートパソコンの性能や機能を評価しています。記事の内容としては、ノートパソコンのハードウェア性能やグラフィック処理能力、またバッテリーの持ち時間などが評価ポイントとして取り上げられています。さらに、ゲームの実行速度や映像のクオリティもレビューの対象になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-laptops/acer-nitro-v-16-ai-review/",
+        "date": "2026-03-04",
+        "is_translated": true
+      },
+      {
+        "title": "【Counter-Strike: Global Offensive が Counter-Stri...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Counter-Strike: Global Offensive のレビュー記事では、このゲームの評価ポイントとして、グラフィックの向上や新しいマップの追加が挙げられます。また、レビューの内容概要としては、ゲームのバランスや難易度の適切さが高く評価されています。この記事は、FPS ゲームファンや Counter-Strike シリーズの愛好者にとって。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/counter-strike-global-offensive-is-now-back-on-steam-as-a-separate-entity-to-counter-strike-2",
+        "date": "2026-03-04",
+        "is_translated": true
+      },
+      {
+        "title": "【Logitech G325 Lightspeed ゲーミング ヘッドセット レビュー: 安価な...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Logitech G325 Lightspeed ゲーミング ヘッドセット レビュー記事は、ゲームプレイヤーにとって非常に参考になる情報を提供しています。このヘッドセットの優れたサウンド質と軽量なデザインが評価されています。また、安価な価格設定にも注目されており、コストパフォーマンスが高いという点も評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/logitech-g325-lightspeed-gaming-headset-review",
+        "date": "2026-03-04",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-04T09:40:28.099803"
+  "last_updated": "2026-03-04T13:11:34.231987"
 }
