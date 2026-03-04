@@ -222,42 +222,6 @@
     ],
     "sale": [
       {
-        "title": "DAVE THE DIVER",
-        "platform": "Various",
-        "type": "sale",
-        "description": "DAVE THE DIVERは、ダイビングアクションゲームで、海の生物を採集したり、海底の遺跡を探索したりすることができます。現在、Variousで45%割引されており、かなりお得な価格で購入することができます。このゲームは、ユニークなゲームプレイとカラー豊かなグラフィックで人気を博しており、多くのユーザーから高い評価をされています。",
-        "price": "$10.99",
-        "originalPrice": "",
-        "discount": "-45%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
-        "date": "2026-02-25"
-      },
-      {
-        "title": "Horizon Forbidden West Complete Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Horizon Forbidden West Complete Editionがバラエティーで38パーセント割引のセール中です。このアクションアドベンチャーゲームは美しいグラフィックと壮大な世界観で知られており、人気のオープンワールドゲームです。プレイヤーはロボットに乗り回すことができ、戦闘システムも充実しています。評価も高く、Metacriticでは86パーセントと高い評価を得ています。",
-        "price": "$36.95",
-        "originalPrice": "",
-        "discount": "-38%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/horizon-forbidden-west-complete-edition/info/",
-        "date": "2026-02-25"
-      },
-      {
-        "title": "Warhammer 40,000: Space Marine 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Warhammer 40,000: Space Marine 2は、人気のアクションゲームで、現在Variousで67%割引されています。このゲームは、ダイナミックなアクションと壮大なストーリーが特徴で、Warhammer 40,000のファンから高い評価を得ています。アクションゲームファンにはおすすめのタイトルです。",
-        "price": "$19.79",
-        "originalPrice": "",
-        "discount": "-67%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
-        "date": "2026-02-25"
-      },
-      {
         "title": "BIOHAZARD RE:2",
         "platform": "Steam",
         "type": "sale",
@@ -619,110 +583,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【『モンスターハンターワイルズ』歴戦王アルシュベルドが強かった。『エンドフィールド』池の水を吸う...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本記事は、ゲーム『モンスターハンターワイルズ』と『エンドフィールド』のレビューを紹介しています。歴戦王アルシュベルドの強さや、池の水を吸うというユニークなシステムが評価ポイントになっています。ゲームファンやアクションゲーム好きの方には、興味がある内容だと思います。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260222-423248/",
-        "date": "2026-02-22",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料『サカつく2026』を軽く始めてみたら、いきなり情緒が壊れる濃厚ドラマ。エース「...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、基本プレイ無料のゲーム『サカつく2026』を紹介しています。このゲームは、序盤から濃厚なドラマが展開され、プレイヤーを引き付けます。レビューでは、ゲームの魅力的なストーリーやキャラクター設定などが評価されています。特に、エースのキャラクターが注目されています。この記事は、スポーツゲームやドラマ的なストーリーが好きな人にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260222-422873/",
-        "date": "2026-02-22",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamセールで、オオカミと少女の成長譚『Neva』が50％オフ。高評価パズルアクション『Ö...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamセールで、オオカミと少女の成長譚『Neva』が50％オフになりました。このゲームは、高評価パズルアクションゲーム『Ö...』と同様の面白さを提供します。レビュー記事では、ゲームの評価ポイントとしてストーリーの深さ、グラフィックの美しさ、そしてプレイヤーへの感情移入の度合いが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260222-423092/",
-        "date": "2026-02-22",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料・モンスター手なづけARPG『モンギル：STAR DIVE』、“猫の日”を記念し...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『モンギル：STAR DIVE』は、基本プレイ無料でモンスターを手なずけることができるARPGです。このゲームの評価ポイントとしては、自由度の高いキャラクターカスタマイズや、多種多様なモンスターたちとのバトルが楽しめます。また、ゲームの世界観やストーリーも魅力的です。このレビューは、ゲーム好きやARPGファンにとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/mongil-20260222-423208/",
-        "date": "2026-02-22",
-        "is_translated": false
-      },
-      {
-        "title": "【サンデー・ペーパーズ：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "サンデー・ペーパーズのレビュー記事では、ゲームの評価ポイントとしてグラフィックやゲームプレイの面白さ、ストーリーの深さなどが評価されています。また、レビューの内容概要としては、ゲームの操作性の良さや、キャラクターの魅力、音楽の素晴らしさなどが取り上げられています。このレビュー記事は、ゲーム好きの方や、新しいゲームを探している方に特にお勧めです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/the-sunday-papers-798",
-        "date": "2026-02-22",
-        "is_translated": true
-      },
-      {
-        "title": "【日曜新聞：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "日曜新聞のレビュー記事では、最新のゲームについて評価ポイントを紹介しています。たとえば、ゲームのグラフィックやサウンド、ゲームプレイの面白さなどが評価ポイントとして挙げられています。また、レビューの内容では、ゲームのストーリーや操作性、難易度についても触れています。この記事は、ゲームファンや新しいゲームを探している人にとって参考になる内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/the-sunday-papers-798",
-        "date": "2026-02-22",
-        "is_translated": true
-      },
-      {
-        "title": "【約ネバ プロローグ レビュー: 前編 DLC が美しいゲームを豊かにする】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「約ネバ プロローグ」の前編DLCについて紹介しています。このゲームは美しいグラフィックと魅力的なストーリーが特徴です。レビューでは、DLCがゲームの世界観をより豊かにしている点や、新しいキャラクターの登場によって物語が深化している点などが評価されています。さらに、ゲームのサウンドトラックも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/neva-prologue-review-nomada-studio-devolver-digital/",
-        "date": "2026-02-22",
-        "is_translated": true
-      },
-      {
-        "title": "【バーチャルボーイ レビュー: 任天堂の新しいアクセサリーは私たちの中の変人のためのものです】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事は、任天堂の新しいアクセサリー「バーチャルボーイ」について取り上げています。評価ポイントとしては、ユニークなゲームプレイ体験、独自の操作感、リトロゲームファンのための魅力的な要素が挙げられます。対象読者は、ゲーム愛好者、特にレトロゲームのファンや、最新のゲーム技术に興味がある人です。記事では、バーチャルボーイの特徴や遊び方について詳しく紹介しており、興味のある人は必読の記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/virtual-boy-nintendo-switch-review/",
-        "date": "2026-02-22",
-        "is_translated": true
-      },
       {
         "title": "【海賊ライフを描く新作サバイバルアドベンチャー「Windrose」のウィッシュリスト登録が100...：レビュー】",
         "platform": "doope!",
@@ -1957,8 +1817,86 @@
         "url": "https://www.pcgamer.com/games/action/scott-pilgrim-ex-review/",
         "date": "2026-03-03",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料オープンワールド“MMO”シューター『ディビジョン リサージェンス』3月31日つ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「ディビジョン リサージェンス」のレビューでは、基本プレイ無料のオープンワールド「MMO」シューターとしての魅力や、グラフィックの質、ストーリーの深みなどが評価ポイントとして挙げられています。このゲームは、自由にオープンワールドを探索できることや、協力プレイや対戦プレイの充実したシステムが特徴です。ゲームファンやアクションシューター好きの方に特にオススメできると思います。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260304-426165/",
+        "date": "2026-03-04",
+        "is_translated": false
+      },
+      {
+        "title": "【最大5人協力対応・お宝捜索ホラードライブ『The Road』発表。お宝積み込みフィールド爆走、...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、最大5人協力対応のお宝捜索ホラードライブゲーム「The Road」の魅力を紹介しています。ゲームの評価ポイントとしては、多人数での協力プレイが可能な点や、恐怖とスリルが同居するホラーエレメントが特徴的です。また、お宝を積み込みながらフィールドを爆走するアクション要素も楽しみです。このレビューは、ホラーゲームファンやアクションゲーム好きの方におすすめできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/the-road-20260304-426137/",
+        "date": "2026-03-04",
+        "is_translated": false
+      },
+      {
+        "title": "【“プレイヤー200万人”から急転落したFPS『Highguard』、わずか2か月足らずでサービ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "FPSゲーム『Highguard』は、プレイヤーが200万人を超えたことがある人気ゲームでしたが、わずか2か月足らずでサービス終了となったことが話題になっています。このゲームの評価ポイントとして、グラフィックの高さやゲームプレイのスピード感などが挙げられます。レビューの内容としては、ゲームの短期間でのサービス終了の理由や、ゲームの内容の面白さなどが語られています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260304-426116/",
+        "date": "2026-03-03",
+        "is_translated": false
+      },
+      {
+        "title": "【工場自動化ロジックパズル続編「shapez 2」の製品版1.0ローンチが2026年4月23日に...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「shapez 2」の製品版1.0が2026年4月23日にローンチされ、レビュー記事が公開されています。このゲームは工場自動化ロジックパズルゲームの続編で、プレイヤーは工場の効率化と最適化を目指してパズルを解く必要があります。レビューの内容を概要すると、ゲームの評価ポイントはグラフィックの向上、ゲームプレイの複雑さ、自由度の高さなどです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164710.html",
+        "date": "2026-03-04",
+        "is_translated": false
+      },
+      {
+        "title": "【ホビット庄ライフシム「Tales of the Shire」のNintendo Switch ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Tales of the Shire」は、ホビット庄を舞台にしたライフシムゲームです。このゲームの評価ポイントとしては、自由度の高いキャラクター作成と、ホビット庄での生活を模倣した豊富なアクティビティが楽しめる点が挙げられます。レビューの内容概要としては、ゲームのグラフィックとサウンドトラックが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164713.html",
+        "date": "2026-03-04",
+        "is_translated": false
+      },
+      {
+        "title": "【ランナーたちの過酷な戦いを描く新生「Marathon」のシネマティックトレーラーがお披露目、エ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、新生「Marathon」のシネマティックトレーラーを紹介しています。ランナーたちの過酷な戦いを描くこのゲームは、ストーリーやグラフィック、サウンドトラックなどで高く評価されています。特に、ゲームの雰囲気を伝えるトレーラーは、視聴者の心を捉えることができます。ランニングゲームファンやアクションゲーム好きの方々にとって、このレビュー記事は参考になります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164712.html",
+        "date": "2026-03-04",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-03T21:34:19.746028"
+  "last_updated": "2026-03-04T01:56:59.778994"
 }
