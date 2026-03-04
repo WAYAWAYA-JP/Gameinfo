@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/just-move-clean-city-messy-battle/info/",
         "date": "2026-03-03"
+      },
+      {
+        "title": "Metaphor: ReFantazio",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Metaphor: ReFantazioは、ファンタジーをテーマにしたアドベンチャーゲームです。現在、Variousで52%の割引セール中で、通常価格より大幅に安くなっています。このゲームは、ユニークなストーリーや美しいグラフィックで評価されており、ファンタジー好きにはお勧めです。",
+        "price": "$33.25",
+        "originalPrice": "",
+        "discount": "-52%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
+        "date": "2026-03-04"
       }
     ],
     "review": [
@@ -1895,8 +1907,47 @@
         "url": "https://doope.jp/2026/03164712.html",
         "date": "2026-03-04",
         "is_translated": false
+      },
+      {
+        "title": "【『バイオハザード レクイエム』販売本数が500万本突破！1週間足らずの爆速売上、高評価が後押しか】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "バイオハザードシリーズの最新作『バイオハザード レクイエム』は販売本数が500万本を突破し、1週間足らずで爆速売上を記録しています。このゲームはグラフィックの高さやスリリングなゲームプレイが評価されており、レビューではストーリーの深みやキャラクターの魅力も高く評価されています。このゲームはバイオハザードシリーズのファンやホラー系ゲームを楽しむ人に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/04/178138.html",
+        "date": "2026-03-04",
+        "is_translated": false
+      },
+      {
+        "title": "【『ぽこ あ ポケモン』で“開発者たちが作った島”を探索！シリーズお馴染みの設置物も垣間見える、...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "本記事は、「ぽこ あ ポケモン」のレビューであり、開発者たちが作った島を探索する内容が評価されています。シリーズお馴染みの設置物も見られる点が特徴的です。このレビューは、ポケモンシリーズのファンや、新しいゲームを探している方に興味を持ってもらえる内容です。ゲームの評価ポイントとしては、島の探索の面白さや、設置物の存在感などがあげられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/04/178134.html",
+        "date": "2026-03-04",
+        "is_translated": false
+      },
+      {
+        "title": "【エソテリック・エブのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "エソテリック・エブのレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンド、ストーリーの面白さを挙げています。レビューの内容概要としては、ゲームの世界観やキャラクターの魅力、そして難易度の適切さについて触れています。このレビュー記事は、ゲームファンや新規参入者にとって参考になる情報を提供しており、特にアクションゲームやRPGが好きな読者にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/esoteric-ebb-review/",
+        "date": "2026-03-04",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-04T01:56:59.778994"
+  "last_updated": "2026-03-04T09:40:28.099803"
 }
