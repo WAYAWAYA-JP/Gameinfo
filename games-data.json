@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Boxes: Lost Fragments",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Boxes: Lost Fragmentsは、パズルゲームジャンルの無料ゲームで、複数の箱をうまく並べて、ゴール地点までたどり着くことを目指します。このゲームの特徴は、箱を正しく配置することで、新しい道が開拓され、ストーリーが進展することです。また、箱を組み合わせることで、様々なパターンが可能になり、プレイヤーの創造性が試される魅力があります。",
+        "price": "無料",
+        "originalPrice": "¥14",
+        "discount": "100% OFF",
+        "deadline": "2026年03月05日まで",
+        "url": "https://store.epicgames.com/ja/p/a9ef6e969aa249ef936923216909d747",
+        "date": "2026-03-05"
+      },
+      {
+        "title": "My Night Job",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "My Night Jobは、放棄された建物の中でモンスターの大群と戦うアクションゲームです。60以上の武器を使用して身を守り、生存者を救うことができます。ただし、部屋の破壊に注意しながら戦う必要があります。ゲームの特徴として、多種多様な武器や部屋の破壊による緊張感、そして生存者の救出による成就感があります。このゲームは、PCプラットフォームで配布されており、ファンはそこで遊ぶことができます。",
+        "price": "無料",
+        "originalPrice": "¥9",
+        "discount": "100% OFF",
+        "deadline": "2026年03月05日まで",
+        "url": "https://store.epicgames.com/ja/p/bce593b9b8754aa595ae4123f36ad4a9",
+        "date": "2026-03-05"
+      }
+    ],
     "bundle": [
       {
         "title": "Cartridge Chaos",
@@ -169,6 +194,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/hentai-pair-bundle",
         "date": "2026-03-04"
+      },
+      {
+        "title": "Best of Humble Bundle: Call of the Wild 9th Anniversary",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Best of Humble Bundle: Call of the Wild 9th Anniversaryというバンドルが現在販売中です。このバンドルには、Horizon Zero Dawn、Days Gone、Ghost of Tsushimaなどの主要タイトルが含まれています。ジャンルはアクションアドベンチャーやオープンワールドゲームが中心です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/callwild9thanniversary_bundle",
+        "date": "2026-03-05"
+      },
+      {
+        "title": "Overwhelming Positive Games Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Overwhelming Positive Games Bundleと呼ばれるバンドルが現在販売中です。このバンドルには、非常に好評を得ているゲームタイトルが収録されています。主要タイトルとしては、例えば、「Factorio」や「RimWorld」などが含まれています。ジャンルは、シミュレーションやストラテジーなどのゲームが中心となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/overwhelmingpositivegamesbundle_gamesbundle",
+        "date": "2026-03-05"
       }
     ],
     "sale": [
@@ -1924,8 +1973,34 @@
         "url": "https://www.polygon.com/the-bride-review-maggie-gyllenhaal/",
         "date": "2026-03-04",
         "is_translated": true
+      },
+      {
+        "title": "【Steamの日本トレンドがわかるサイト「Steamトレンド」本日公開。ジャンル別ランキングで、...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamトレンドというサイトが公開されました。このサイトでは、Steamの日本トレンドがわかります。ジャンル別ランキングでは、人気のゲームをチェックできます。レビュー記事では、サイトの内容や使い方、評価ポイントなどが紹介されています。特に、ゲームの評価ポイントとして、グラフィックやサウンド、ゲームプレイの面白さなどが評価されています。対象読者は、Steamユーザーやゲームファン向けです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/steam-trend-20260305-426656/",
+        "date": "2026-03-05",
+        "is_translated": false
+      },
+      {
+        "title": "【迷子少女のおとぎ話冒険ゲーム『Apopia: スイート・ナイトメア』、好評じわじわ順調スタート...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Apopia: スイート・ナイトメア』は、迷子になった少女を助けるためのおとぎ話のような冒険ゲームです。このゲームは、好評を博しており、順調に始まっています。このレビュー記事では、ゲームの評価ポイントとして、ゲームの世界観やストーリーの魅力、そしてゲームプレイの面白さを取り上げています。また、グラフィックやサウンドトラックの質も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/apopia-20260305-426608/",
+        "date": "2026-03-05",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-05T02:00:02.355790"
+  "last_updated": "2026-03-05T09:41:47.218790"
 }
