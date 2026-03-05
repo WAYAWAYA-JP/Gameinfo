@@ -24,6 +24,30 @@
         "deadline": "2026年03月05日まで",
         "url": "https://store.epicgames.com/ja/p/bce593b9b8754aa595ae4123f36ad4a9",
         "date": "2026-03-05"
+      },
+      {
+        "title": "Idle Champions of the Forgotten Realms",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Epic Gamesでは、 Idle Champions of the Forgotten Realmsが無料で配布されています。このゲームは、ロールプレイングゲームとストラテジーの要素を組み合わせた、アイドルゲームです。特徴的なのは、自動で進行する戦闘システムと、さまざまなキャラクターを集めてパーティーを編成できる点です。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年03月12日まで",
+        "url": "https://store.epicgames.com/ja/p/idle-champions-of-the-forgotten-realms",
+        "date": "2026-03-05"
+      },
+      {
+        "title": "Turnip Boy Robs a Bank",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Turnip Boy Robs a Bankは、ユーモア溢れるアクションゲームで、プレイヤーがターニップボーイというキャラクターを操作して銀行を強盗するという、ユニークなコンセプトを持っています。このゲームの特徴は、コミカルなグラフィックと面白いストーリーが楽しめることです。また、簡単ながらも挑戦的なゲームプレイが魅力です。",
+        "price": "無料",
+        "originalPrice": "¥14",
+        "discount": "100% OFF",
+        "deadline": "2026年03月12日まで",
+        "url": "https://store.epicgames.com/ja/p/000ff62d1877415589bb126e900a88e8",
+        "date": "2026-03-05"
       }
     ],
     "bundle": [
@@ -603,6 +627,42 @@
         "discount": "-43%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-03-05"
+      },
+      {
+        "title": "Slay the Spire",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Slay the SpireがSteamで75%OFFのセール中です。このゲームは、ローグライクとカードゲームを融合させた独特のジャンルで、プレイヤーはカードを駆使してダンジョンを攻略していきます。現在の価格は大幅に割引されており、非常に魅力的なオファーとなっています。Slay the Spireは、ユーザーからの評価が非常に高く、人気度も高いゲームです。",
+        "price": "¥700",
+        "originalPrice": "¥2,800",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/646570",
+        "date": "2026-03-05"
+      },
+      {
+        "title": "Cities: Skylines",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Cities: Skylinesは、都市計画シミュレーションゲームです。 Steamでは現在、90%OFFのセール中で、通常価格より大幅に安くなっています。このゲームは、プレイヤーが自らの都市を計画し、開発することができます。高い自由度とリアルな都市の再現が特徴で、シミュレーションゲームファンから高い評価を受けています。",
+        "price": "¥399",
+        "originalPrice": "¥3,990",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/255710",
+        "date": "2026-03-05"
+      },
+      {
+        "title": "COCOON",
+        "platform": "Various",
+        "type": "sale",
+        "description": "COCOONがVariousで58%オフのセール中です。このゲームはアクションアドベンチャー系のジャンルで、ユニークなグラフィックと面白いストーリーが特徴です。通常価格より大幅に安くなっているので、興味がある方はおすすめです。ユーザーの評価も高い人気ゲームとなっています。",
+        "price": "$10.58",
+        "originalPrice": "",
+        "discount": "-58%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cocoon/info/",
         "date": "2026-03-05"
       }
     ],
@@ -2062,8 +2122,34 @@
         "url": "https://www.inside-games.jp/article/2026/03/05/178203.html",
         "date": "2026-03-05",
         "is_translated": false
+      },
+      {
+        "title": "【パズルアドベンチャー続編「Planet of Lana II」が本日発売、ローンチトレーラーも：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "パズルアドベンチャーゲームの続編「Planet of Lana II」が発売されました。本作は美しいグラフィックと深いストーリーが特徴です。ゲームの評価ポイントとしては、ユニークなゲームシステムやキャラクターの魅力があります。レビューでは、ゲームの世界観やサウンドトラックの素晴らしさも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164800.html",
+        "date": "2026-03-05",
+        "is_translated": false
+      },
+      {
+        "title": "【Diablo 4 Warlock が Blizzard の新しいディープダイブとハンズオンで明らかに：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Diablo 4 WarlockがBlizzardの新しいディープダイブとハンズオンで明らかにされたレビュー記事があります。この記事は、ゲームの評価ポイントとしてWarlockの新しい能力やゲームプレイの深さを紹介しています。さらに、レビューの内容概要として、Warlockのキャラクター設定やストーリーの展開が語られています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/diablo-4-warlock-preview-lord-of-hatred-season-12/",
+        "date": "2026-03-05",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-05T13:15:32.989859"
+  "last_updated": "2026-03-05T21:35:48.351482"
 }
