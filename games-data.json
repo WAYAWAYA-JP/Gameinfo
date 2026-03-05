@@ -580,6 +580,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/esoteric-ebb/info/",
         "date": "2026-03-05"
+      },
+      {
+        "title": "Potion Craft: Alchemist Simulator",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Potion Craft: Alchemist SimulatorがSteamで60% OFFセール中です。このゲームは、プレイヤーが薬剤師となり、様々なポーションを作り上げていくシミュレーションゲームです。ゲームの特徴としては、ポーションのレシピを研究し、材料を調達して作り上げていくことで、自分の店を繁盛させていくことができます。評価は非常に高く、ユーザーから高い人気度を得ています。",
+        "price": "¥920",
+        "originalPrice": "¥2,300",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1210320",
+        "date": "2026-03-05"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるStrayが、現在Variousで43%割引されています。このゲームは、猫の主人公が異世界でさまざまなキャラクターと出会い、協力して冒険するというユニークなストーリーが特徴です。評価も非常に高い人気ゲームで、ファンから高い評価を得ています。",
+        "price": "$16.99",
+        "originalPrice": "",
+        "discount": "-43%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-03-05"
       }
     ],
     "review": [
@@ -1999,8 +2023,47 @@
         "url": "https://automaton-media.com/articles/newsjp/apopia-20260305-426608/",
         "date": "2026-03-05",
         "is_translated": false
+      },
+      {
+        "title": "【高評価ファンタジー雑貨屋シム『Trash Goblin』最新アプデで日本語に正式対応。掘り出し...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ファンタジー要素を取り入れたユニークなシミュレーションゲーム『Trash Goblin』が最新のアップデートで日本語に対応しました。このゲームは、プレイヤーがゴミ拾いのようなキャラクターとなり、様々なアイテムを収集して販売するという面白いシステムが特徴です。ゲームの評価ポイントとしては、独自のゲーム性、グラフィックの魅力、そして自由度の高さが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/trash-goblin-20260305-426700/",
+        "date": "2026-03-05",
+        "is_translated": false
+      },
+      {
+        "title": "【「『Highguard』が評価されなかったからThe Game Awardsが中止になる」とい...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "The Game Awardsの審査方法や評価基準が疑問視されているが、その理由を探るために、ゲーム「Highguard」が評価されなかったことについてレビューを行った記事です。この記事では、The Game Awardsの評価ポイント、ゲーム「Highguard」の特徴、審査方法の問題点などを取り上げています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/05/178204.html",
+        "date": "2026-03-05",
+        "is_translated": false
+      },
+      {
+        "title": "【『ぽこ あ ポケモン』デフォルトキャラクターは「メタモン」色！？キャラクリで戸惑うプレイヤー多数】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "ポケットモンスターのキャラクターをモチーフにしたゲーム「ぽこ あ ポケモン」についてのレビュー記事です。このゲームでは、デフォルトのキャラクターの色が「メタモン」に似ているという点が特徴です。キャラクター作成の際に、色の選択肢が少ないため、プレイヤーが戸惑うことが多く、その点が評価のポイントになっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/05/178203.html",
+        "date": "2026-03-05",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-05T09:41:47.218790"
+  "last_updated": "2026-03-05T13:15:32.989859"
 }
