@@ -1,92 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Return to Ash",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Return to Ashは、アクションアドベンチャーゲームです。このゲームの特徴は、美しいグラフィックと、スムーズなゲームプレイが楽しめることです。また、ストーリーも面白く、プレイヤーを引き付けます。Epic Gamesプラットフォームで無料配布中なので、興味がある方はぜひ試してみてください。",
-        "price": "無料",
-        "originalPrice": "¥5",
-        "discount": "100% OFF",
-        "deadline": "2026年02月26日まで",
-        "url": "https://store.epicgames.com/ja/p/return-to-ash",
-        "date": "2026-02-26"
-      },
-      {
-        "title": "STALCRAFT: X Starter Edition",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "STALCRAFT:Xは、RPG要素を備えた基本プレイ無料のMMOFPSゲームです。このゲームの特徴は、多様なキャラクターを作成できること、豊富なコンテンツを無料でプレイできること、そしてグラフィックが美しいことです。スターター パックを購入することで、7 日間のプレミアム、武器、防具、アーティファクト、装飾品など、最初のレイドに必要なアイテムを入手できます。",
-        "price": "無料",
-        "originalPrice": "¥24",
-        "discount": "100% OFF",
-        "deadline": "2026年02月26日まで",
-        "url": "https://store.epicgames.com/ja/p/stalcraft-x-starter-edition",
-        "date": "2026-02-26"
-      },
-      {
-        "title": "Boxes: Lost Fragments",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Boxes: Lost Fragmentsは、パズルアドベンチャーゲームです。特徴的な要素として、箱を操作して道を作りながら進むことができます。また、美しいグラフィックと不思議な世界観が魅力です。さらに、ストーリーが面白く、プレイヤーを引き付けます。現在、Epic Gamesプラットフォームで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "¥14",
-        "discount": "100% OFF",
-        "deadline": "2026年03月05日まで",
-        "url": "https://store.epicgames.com/ja/p/a9ef6e969aa249ef936923216909d747",
-        "date": "2026-02-26"
-      },
-      {
-        "title": "My Night Job",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "My Night Jobは、プレイヤーを放棄された建物に送り込むアクションゲームです。このゲームの特徴は、60以上の武器を使用してモンスターの大群と戦い、できるだけ多くの生存者を救うことです。また、プレイヤーはあまりにも多くの部屋を破壊しないように注意しなければなりません。終わりが近づいてしまうからです。このゲームは、PCでのプレイが可能です。",
-        "price": "無料",
-        "originalPrice": "¥9",
-        "discount": "100% OFF",
-        "deadline": "2026年03月05日まで",
-        "url": "https://store.epicgames.com/ja/p/bce593b9b8754aa595ae4123f36ad4a9",
-        "date": "2026-02-26"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Best of Humble Bundle: Call of the Wild 9th Anniversary",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Best of Humble Bundle: Call of the Wild 9th Anniversaryというバンドルが販売中です。このバンドルには、Horizon Forbidden West、Red Dead Redemption 2、The Witcher 3: Wild Huntなどの主要タイトルが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/callwild9thanniversary_bundle",
-        "date": "2026-02-23"
-      },
-      {
-        "title": "Overwhelming Positive Games Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Overwhelming Positive Games Bundleのバンドルが販売中です。このバンドルには、非常に高い評価を受けたタイトルが数多く含まれており、例えば「Cuphead」や「Hyper Light Drifter」などの人気ゲームが収録されています。ジャンルはアクションやアドベンチャーが中心となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/overwhelmingpositivegamesbundle_gamesbundle",
-        "date": "2026-02-23"
-      },
-      {
-        "title": "Sci-Fi Shooters 2.0",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Sci-Fi Shooters 2.0というバンドルが現在販売中です。このバンドルには、主なタイトルとして「Hard Reset」、「Shadowgrounds」、「Xenoraid」などが含まれています。ジャンルは主にSF要素のあるシューティングゲームが中心となっています。大まかな価格帯は10ドルから20ドル程度で、ゲームファンにはおすすめのバンドルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/scifishootersbundle2025_bundle",
-        "date": "2026-02-23"
-      },
       {
         "title": "Cartridge Chaos",
         "platform": "Humble Bundle",
@@ -257,78 +172,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "BIOHAZARD RE:2",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "バイオハザードシリーズの名作であるBIOHAZARD RE:2がSteamで75%オフのセール中です。このゲームはサバイバルホラーのジャンルに属し、恐怖とスリルのあるゲームプレイが特徴です。現在の価格は大幅に割引された状態で提供されており、シリーズファンやホラーゲーム好きにはおすすめです。評価も非常に高く、人気度も高まっていますので、ぜひこの機会に購入してみてください。",
-        "price": "¥997",
-        "originalPrice": "¥3,990",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/883710",
-        "date": "2026-02-26"
-      },
-      {
-        "title": "BIOHAZARD RE:3",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでは、人気ホラーゲーム『BIOHAZARD RE:3』が現在75％オフのセール中です。このゲームは、スリリングなサバイバルホラーエクスペリエンスを提供し、高い評価と人気を得ています。通常価格よりも大幅に安くなっているので、ホラーゲームファンにはおすすめです。",
-        "price": "¥997",
-        "originalPrice": "¥3,990",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/952060",
-        "date": "2026-02-26"
-      },
-      {
-        "title": "DARK SOULS III - The Fire Fades Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DARK SOULS III - The Fire Fades EditionがSteamで50% OFFセール中です。このアクションRPGゲームは、難易度の高いゲームプレイと暗いファンタジーの世界で知られています。現在、通常価格の半額で購入できます。DARK SOULSシリーズは、ハードコアなゲーマーから高い評価を受けており、非常に人気のあるゲームです。",
-        "price": "¥2,970",
-        "originalPrice": "¥5,940",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/160150",
-        "date": "2026-02-26"
-      },
-      {
-        "title": "Resident Evil 4 (2023)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "バイオハザード4（2023）がバラエティストアで66％オフのセール中です。このゲームはサバイバルホラーの傑作として評価されており、強烈なストーリーや心臓破りのサスペンスが特徴です。現在、66パーセントの割引で購入することができ、ファンや新規プレイヤーにとっては大きなチャンスです。バイオハザードシリーズのファンなら必ずプレイしたい一作であり、ゲームの評価や人気度も非常に高いので。",
-        "price": "$13.60",
-        "originalPrice": "",
-        "discount": "-66%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
-        "date": "2026-02-26"
-      },
-      {
-        "title": "Overcooked! 2",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Overcooked! 2がSteamで大幅な75%の割引で販売中です。このゲームは、協力プレイを重視したアクションパズルゲームで、最大4人でプレイ可能です。プレイヤーは、料理をしながら障害物を避けながら、タイムアタックを目指します。非常に面白いと評判の、このゲームは、Steamで非常に高い評価を獲得しています。",
-        "price": "¥642",
-        "originalPrice": "¥2,570",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/728880",
-        "date": "2026-02-26"
-      },
-      {
-        "title": "カードファイト!! ヴァンガード ディアデイズ",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "カードファイト!! ヴァンガード ディアデイズがSteamで92% OFFセール中で、カードゲームファンにはおすすめのタイトルです。このゲームは、カードバトルを楽しむことができ、戦略的なプレイが求められます。現在、非常に安い価格で購入できるため、カードゲームやアクションゲームが好きな方は絶対にチェックしてみるべきです。",
-        "price": "¥614",
-        "originalPrice": "¥7,678",
-        "discount": "92% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1881420",
-        "date": "2026-02-26"
-      },
       {
         "title": "Halo: The Master Chief Collection",
         "platform": "Steam",
@@ -676,87 +519,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
         "date": "2026-03-04"
+      },
+      {
+        "title": "Esoteric Ebb",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Esoteric Ebbは、アドベンチャーゲームの一つで、不思議な世界を探索することが特徴です。現在、Variousで20%割引されているため、通常価格より安く購入できます。ユーザーの評価は高く、人気度も高いゲームのようです。",
+        "price": "$19.95",
+        "originalPrice": "",
+        "discount": "-20%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/esoteric-ebb/info/",
+        "date": "2026-03-05"
       }
     ],
     "review": [
-      {
-        "title": "【海賊ライフを描く新作サバイバルアドベンチャー「Windrose」のウィッシュリスト登録が100...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Windrose」は、海賊ライフを描く新作サバイバルアドベンチャーゲームです。このゲームの評価ポイントは、海賊としての自由な行動や、島でのサバイバル要素が含まれています。レビューの内容概要としては、ゲームの世界観やグラフィックのクオリティが高く評価されています。また、サバイバル要素のバランスや海賊としての冒険の要素も評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164427.html",
-        "date": "2026-02-23",
-        "is_translated": false
-      },
-      {
-        "title": "【「Marathon」のランに役立つ幾つかのコツやディテールをまとめた新たな開発者プレイ映像が公...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、新たな開発者プレイ映像に関するものです。この映像では、「Marathon」のランに役立つコツやディテールがまとめられています。具体的には、ゲームの操作方法やステージの攻略法が紹介されており、ゲームファンにとって非常に有益です。また、開発者のコメントやゲームのグラフィックの美しさも評価されています。ゲーム好きの方や「Marathon」のファンには特にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164413.html",
-        "date": "2026-02-23",
-        "is_translated": false
-      },
-      {
-        "title": "【「Last Epoch」シーズン4“Shattered Omens”の多彩な新コンテンツを紹介...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Last Epoch」シーズン4“Shattered Omens”のレビュー記事では、新しいシーズンの多彩な新コンテンツが紹介されています。このゲームは、アクションRPGのファンにとって必見の内容になっています。評価ポイントとしては、新しいストーリー、キャラクターのバランス調整、そしてグラフィックの向上が挙げられます。また、ゲームの難易度や操作性についてもレビューが行われています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164371.html",
-        "date": "2026-02-23",
-        "is_translated": false
-      },
-      {
-        "title": "【多数の改善と新コンテンツを導入する「Truckful」の2.0デモがリリース、ピックアップトラ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、トラック運転シミュレーションゲーム「Truckful」の2.0デモ版について評価しています。新しいコンテンツや改善点が盛り込まれたこのデモ版は、ゲームのグラフィックや操作性が大幅に改善されており、よりリアルな運転体験を提供しています。また、レビューではゲームの新しい機能やコンテンツについても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164406.html",
-        "date": "2026-02-23",
-        "is_translated": false
-      },
-      {
-        "title": "【ZA/UMが開発を手がける新作「ZERO PARADES: For Dead Spies」の冒...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ZA/UMが開発を手がける新作「ZERO PARADES: For Dead Spies」のレビュー記事では、ゲームの評価ポイントとして、ストーリーの独創性やゲームプレイの深みが高く評価されています。さらに、レビューの内容概要として、ゲームのグラフィックやサウンドトラックの質も高く評価されています。対象読者としては。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/02164411.html",
-        "date": "2026-02-23",
-        "is_translated": false
-      },
-      {
-        "title": "【サイコキラーのレビュー: スラッシャー、連続殺人スリラーの一部、すべて愚か】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "サイコキラーのレビュー記事では、スラッシャーと連続殺人スリラーの一部を分析し、すべての要素が愚かであると指摘しています。記事では、このゲームの評価ポイントとして、ストーリーの予測困難さ、キャラクターの独自性、サウンドトラックの効果的な使用を挙げています。また、ゲームの雰囲気やグラフィックの 퀄리ティも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/psycho-killer-serial-killer-versus-slasher/",
-        "date": "2026-02-23",
-        "is_translated": true
-      },
       {
         "title": "【大規模テストの開幕が迫る「Marathon」のネットワーク/セキュリティに関する取り組みがアナ...：レビュー】",
         "platform": "doope!",
@@ -781,19 +558,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/02164440.html",
         "date": "2026-02-24",
-        "is_translated": false
-      },
-      {
-        "title": "【コスプレ】『ウマ娘』5周年おめでとう！「ウマ年」を迎え更なる飛躍が期待されるウマ娘の美女コスプレイヤーが大集合【写真65枚】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "ウマ娘の5周年を記念したコスプレレビュー記事があります。この記事では、ウマ娘の美しいコスプレイヤーたちが集まって、様々な写真を紹介しています。記事の評価ポイントとしては、コスプレイヤーの技術の高さや、ウマ娘のキャラクターを再現することに成功している点が挙げられます。また、記事ではウマ娘ファンやコスプレファン向けの写真も多数掲載されており、コスプレの魅力を知りたい人の必見記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/02/24/177732.html",
-        "date": "2026-02-23",
         "is_translated": false
       },
       {
@@ -2134,8 +1898,34 @@
         "url": "https://www.rockpapershotgun.com/planet-of-lana-2-review-pc",
         "date": "2026-03-04",
         "is_translated": true
+      },
+      {
+        "title": "【『アサクリ4』リメイク『アサシン クリード ブラック フラッグ Resynced』発表。謎の“...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『アサシン クリード ブラック フラッグ Resynced』は、人気シリーズ『アサクリ4』のリメイク作品として発表されました。このゲームの評価ポイントとしては、グラフィックの向上や新しいゲームモードの追加が挙げられます。レビューの内容概要としては、シリーズのファンには必玩との声が上がっていますが、新規プレイヤーには少し難しい部分があるとの意見もあります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/assassin-creed-20260305-426503/",
+        "date": "2026-03-05",
+        "is_translated": false
+      },
+      {
+        "title": "【花嫁さん！レビュー：マギー・ギレンホールは、「Poor Things」でフランケンシュタインで...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事では、マギー・ギレンホールが主演する映画「Poor Things」についてフランケンシュタインの視点から評価しています。映画の独創的なストーリーやキャラクターの深みなどが高く評価されています。また、映画のテーマやメッセージも分析されており、映画ファンや文学愛好者にとって興味深い内容となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/the-bride-review-maggie-gyllenhaal/",
+        "date": "2026-03-04",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-04T21:34:53.664045"
+  "last_updated": "2026-03-05T02:00:02.355790"
 }
