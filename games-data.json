@@ -556,6 +556,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cocoon/info/",
         "date": "2026-03-05"
+      },
+      {
+        "title": "Tom Clancy’s The Division® 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Tom Clancy’s The Division 2は、オープンワールドのアクションRPGゲームです。このゲームは、ワシントンD.C.を舞台に、プレイヤーがエージェントとなり、都市を混沌から守るために戦います。現在、Steamで90%オフのセール中となっており、非常に魅力的な価格で購入することができます。ユーザーの評価は非常に高く、人気度も高いゲームであり、ファンから高い評価を得ています。",
+        "price": "¥418",
+        "originalPrice": "¥4,180",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2221490",
+        "date": "2026-03-06"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33がVariousで-16%セール中です。このゲームはアドベンチャーとパズル要素を兼ね備えたユニークな体験を提供し、プレイヤーたちは未知の世界を探索し、謎を解くために挑戦します。一般的には好評で、ユーザーからは高評価を受けていますが、セール期間中は16%割引で購入することができます。",
+        "price": "$41.95",
+        "originalPrice": "",
+        "discount": "-16%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-03-06"
       }
     ],
     "review": [
@@ -2040,8 +2064,34 @@
         "url": "https://doope.jp/2026/03164776.html",
         "date": "2026-03-05",
         "is_translated": false
+      },
+      {
+        "title": "【遂に発売を迎えた「Slay the Spire 2」の同接ピークが24万5,000人を突破、僅...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Slay the Spire 2」のレビュー記事では、このゲームの評価ポイントとして、独自のゲームシステムや、深い戦略性が高く評価されています。また、レビューの内容概要としては、ゲームの難易度や、ゲームの長さについても触れています。このレビュー記事は、ゲームファンや、新規プレイヤーに向けて、ゲームの魅力や、遊び方についてわかりやすく解説しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164771.html",
+        "date": "2026-03-06",
+        "is_translated": false
+      },
+      {
+        "title": "【ゲームオーバーで「即セーブ削除」のデスゲーム勃発！「SAO」新作家庭用ゲームをあなたはどう生き...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "「SAO」シリーズの新作家庭用ゲームのレビュー記事では、ゲームの難易度が高く、ゲームオーバーになるとセーブデータが削除される「即セーブ削除」のシステムが特徴です。このシステムは、プレイヤーに高い集中力と戦略性を要求するため、ゲームの評価ポイントとなる要素です。さらに、レビューでは、このゲームの魅力や難所について詳しく紹介されており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/06/178249.html",
+        "date": "2026-03-06",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-06T02:00:11.944326"
+  "last_updated": "2026-03-06T09:37:39.701026"
 }
