@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/overwhelmingpositivegamesbundle_gamesbundle",
         "date": "2026-03-05"
+      },
+      {
+        "title": "Games Done Quick: Frost Fatales 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Games Done Quick: Frost Fatales 2026のバンドルが現在販売中です。このバンドルには、主要タイトルとして「Mirror's Edge」、「Life is Strange」、「What Remains of Edith Finch」などの作品が含まれています。ジャンルはアクションアドベンチャーやストーリー重視のゲームが中心です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/gamesdonequickfrostfatales2026_bundle",
+        "date": "2026-03-06"
       }
     ],
     "sale": [
@@ -591,6 +603,18 @@
         "discount": "-17%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/marathon/info/",
+        "date": "2026-03-06"
+      },
+      {
+        "title": "Valheim",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "スサノオ系アクションゲームであるValheimがSteamで50%オフのセール中です。このゲームは、北欧神話を題材に、プレイヤーがさまざまなクエストをこなしながら、世界を探索することができます。バトルシステムやキャラクターのカスタマイズも魅力の一つです。現在のセールでは、大幅な50%の割引が適用されており、通常価格よりもかなり安く購入することができます。",
+        "price": "¥1,295",
+        "originalPrice": "¥2,590",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/892970",
         "date": "2026-03-06"
       }
     ],
@@ -2141,8 +2165,47 @@
         "url": "https://www.rockpapershotgun.com/bungie-asks-marathon-critics-to-delay-full-reviews-till-the-release-of-an-endgame-zone-and-i-am-wistfully-reminded-of-vault-of-glass",
         "date": "2026-03-06",
         "is_translated": true
+      },
+      {
+        "title": "【早期アクセス期間中の新コンテンツや改善をまとめたSci-FiタクティカルRPG「MENACE」...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Sci-FiタクティカルRPG「MENACE」のレビュー記事では、早期アクセス期間中の新コンテンツや改善点がまとめられています。ゲームの評価ポイントとしては、ストーリーやキャラクターの魅力、戦闘システムの複雑さが挙げられます。レビューの内容概要としては、ゲームの世界観やシステムの充実度、プレイヤーの自由度などが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164849.html",
+        "date": "2026-03-06",
+        "is_translated": false
+      },
+      {
+        "title": "【待望の日本語対応を果たしたゾンビパンデミックサバイバル「Into the Dead: Our ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、待望の日本語対応を果たしたゾンビパンデミックサバイバルゲーム「Into the Dead: Our ...」の評価ポイントやレビューの内容概要を紹介しています。主な評価ポイントとしては、ゲームのグラフィックやサウンド、そしてストーリーの面白さがあります。さらに、レビューではゲームの難易度や操作性についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164842.html",
+        "date": "2026-03-06",
+        "is_translated": false
+      },
+      {
+        "title": "【「私たちはすべてを見ている」：報告書によると、メタ社のAIスマートグラスの映像は人間の請負業者...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、メタ社のAIスマートグラスの評価ポイントを取り上げています。特に、人間の請負業者が映像を確認することや、プライバシーに関する懸念が指摘されています。ゲームやテクノロジーに関心がある読者にとって、AIスマートグラスの実際の使用状況や潜在的なリスクについて知る機会となります。記事では、報告書の内容や専門家の見解が紹介されており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/we-see-everything-report-says-metas-ai-smart-glasses-footage-is-reviewed-by-human-contractors-who-see-far-more-than-they-bargained-for-which-has-led-to-a-new-lawsuit-against-the-company/",
+        "date": "2026-03-06",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-06T13:11:03.433570"
+  "last_updated": "2026-03-06T21:29:44.669417"
 }
