@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-03-06"
+      },
+      {
+        "title": "Marathon",
+        "platform": "Various",
+        "type": "sale",
+        "description": "マラソンの様々なゲームがセール中で、17%割引になっています。このシリーズはアクションパックされたFPSゲームとして知られており、プレイヤーは激しい戦闘に挑むことができます。セール中の価格で購入することで、格安でプレイすることができます。マラソンのゲームは、ゲームファンから高い評価を得ており、人気度も高いので、セール中のこの機会を逃さないでください。",
+        "price": "$33.39",
+        "originalPrice": "",
+        "discount": "-17%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/marathon/info/",
+        "date": "2026-03-06"
       }
     ],
     "review": [
@@ -2090,8 +2102,47 @@
         "url": "https://www.inside-games.jp/article/2026/03/06/178249.html",
         "date": "2026-03-06",
         "is_translated": false
+      },
+      {
+        "title": "【日本舞台の『Forza Horizon 6』様々な地域を走る約9分間の新ゲームプレイ映像公開！...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "日本舞台の『Forza Horizon 6』の約9分間の新ゲームプレイ映像が公開されました。このゲームでは、様々な地域を走行することができます。レビューのポイントとしては、グラフィックのクオリティ、ゲームプレイのスムーズ性、そして車のカスタマイズの自由度が高いことが挙げられます。このゲームは、レースゲームファンやオープンワールドゲームを楽しむ ngườiである方であれば、きっと満足できるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/06/178270.html",
+        "date": "2026-03-06",
+        "is_translated": false
+      },
+      {
+        "title": "【「一緒にゲームができる友達」AIを作れる!? 『マインクラフト』『Factorio』もプレイで...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、ゲームの中で「一緒にゲームができる友達」のようなAIを作ることができるという点に焦点が当てられています。具体的には、人気ゲームの『マインクラフト』や『Factorio』でAIと共同プレイすることができる点が評価ポイントとなっています。また、ゲーム愛好家やAI技術に興味のある方にとって、この記事は非常に参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/06/178262.html",
+        "date": "2026-03-06",
+        "is_translated": false
+      },
+      {
+        "title": "【Bungieはマラソン批評家に対し、エンドゲームゾーンのリリースまで「完全なレビュー」を延期す...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Bungieはマラソン批評家に対し、エンドゲームゾーンのリリースまで「完全なレビュー」を延期することを発表しました。このゲームの評価ポイントとしては、ストーリーやキャラクターの魅力、そしてプレイヤーの自由度が高く評価されています。レビューの内容概要としては、エンドゲームゾーンの充実度や難易度の調整、そしてマルチプレイヤーの充実度が重要なポイントとなります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/bungie-asks-marathon-critics-to-delay-full-reviews-till-the-release-of-an-endgame-zone-and-i-am-wistfully-reminded-of-vault-of-glass",
+        "date": "2026-03-06",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-06T09:37:39.701026"
+  "last_updated": "2026-03-06T13:11:03.433570"
 }
