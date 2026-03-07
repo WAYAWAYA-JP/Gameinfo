@@ -628,6 +628,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/crowalt-traces-of-the-lost-colony/info/",
         "date": "2026-03-07"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストは、オープンワールドアクションアドベンチャーゲームとして人気を博しています。Steamでは現在、56%の割引が適用されており、大幅に安価になりました。このゲームは、自由度の高いゲームプレイと豊富なストーリーが特徴で、批評家とプレイヤーからの評価も非常に高いです。多くの人が楽しめる内容であり、セール中のこの価格ではお得な購入となります。",
+        "price": "¥2,851",
+        "originalPrice": "¥6,480",
+        "discount": "56% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-03-07"
+      },
+      {
+        "title": "Turnip Boy Robs a Bank",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ターンにップボーイローブザバンクがバラエティで100％割引セール中です。このゲームは、アクションとアドベンチャーの要素を組み合わせた、ユニークなゲームです。ターンにップボーイローブザバンクは、ユーモアと魅力的なグラフィックで知られており、多くのプレイヤーから高い評価を受けています。セール中の価格で購入することで、プレイヤーはこの面白いゲームを体験できます。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/turnip-boy-robs-a-bank/info/",
+        "date": "2026-03-07"
       }
     ],
     "review": [
@@ -2151,8 +2175,21 @@
         "url": "https://www.inside-games.jp/article/2026/03/07/178298.html",
         "date": "2026-03-07",
         "is_translated": false
+      },
+      {
+        "title": "【「死んだおばあちゃんに恋をしている」レビュー: 思った以上に攻撃的】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事は、「死んだおばあちゃんに恋をしている」というゲームについて、思った以上に攻撃的であると評価しています。ゲームの評価ポイントとしては、ゲームの独特な世界観やキャラクターの深みなどが挙げられます。レビューの内容概要としては、ゲームのストーリーやゲームプレイの面白さ、そしてその独特な要素について触れています。この記事は、ゲームファンやこのゲームに興味がある方におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/im-in-love-with-your-dead-grandmother-impressions/",
+        "date": "2026-03-07",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-07T13:01:17.993966"
+  "last_updated": "2026-03-07T21:21:45.241931"
 }
