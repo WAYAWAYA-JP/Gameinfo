@@ -242,6 +242,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/alisteralliancebundle_bundle",
         "date": "2026-03-07"
+      },
+      {
+        "title": "Cartridge Chaos",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Cartridge Chaosのバンドルが現在販売中です。このバンドルには、主なタイトルとして「A Short Hike」や「Hyper Light Drifter」、「Spelunky」が含まれています。ジャンルはアクションやアドベンチャーに分類され、価格帯はおよそ1,000円から2,000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/cartridgechaos_bundle",
+        "date": "2026-03-07"
+      },
+      {
+        "title": "Last Echoes Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Last Echoes Bundleが現在販売中です。このバンドルには、主要タイトルとして「The Coma 2: Vicious Sisters」、「The Town of Light」、「Those Who Remain」などが含まれています。ジャンルはインディーゲームやホラーゲームを中心に構成されており、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/last-echoes-bundle",
+        "date": "2026-03-07"
       }
     ],
     "sale": [
@@ -579,6 +603,18 @@
         "discount": "-15%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
+        "date": "2026-03-07"
+      },
+      {
+        "title": "BrightGunner",
+        "platform": "Various",
+        "type": "sale",
+        "description": "BrightGunnerがVariousで-100%セール中です。アクションゲームというジャンルで、快適な操作感とスピーディなゲームプレイが特徴です。現在、セール中なので、通常価格よりも大幅に安く購入できます。また、ユーザーの評価も高く、人気のゲームです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/brightgunner/info/",
         "date": "2026-03-07"
       }
     ],
@@ -2025,8 +2061,73 @@
         "url": "https://doope.jp/2026/03164854.html",
         "date": "2026-03-07",
         "is_translated": false
+      },
+      {
+        "title": "【動物脱獄RPG『Back to the Dawn 〜ブレイク･ザ･アニマル･プリズン〜』で“規...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "動物脱獄RPG『Back to the Dawn 〜ブレイク･ザ･アニマル･プリズン〜』のレビュー記事では、ゲームの評価ポイントとして、ストーリーの面白さ、キャラクターの魅力、ゲームプレイの自由度が高く評価されています。ゲームの世界観やグラフィックの美しさも称賛されています。このレビューは、動物を主人公としたゲームに興味がある人や、脱獄シミュレーションゲームのファンにとって参考になります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/back-to-the-dawn-switch-20260307-426996/",
+        "date": "2026-03-07",
+        "is_translated": false
+      },
+      {
+        "title": "【『Counter-Strike 2』ドイツでは「ガチャの中身を見てから開封してもらう」仕様に。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Counter-Strike 2』は、ドイツでは「ガチャの中身を見てから開封してもらう」仕様になっています。このゲームは、グラフィックの向上や新しいゲームモードの追加など、多くの改良点があります。レビューでは、このゲームの新しい機能やグラフィックの質について触れています。ガチャシステムの変更も注目されており、ゲームの収益化戦略について議論されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/counter-strike-2-20260307-427191/",
+        "date": "2026-03-07",
+        "is_translated": false
+      },
+      {
+        "title": "【舞台の大きな変化と続編の制作に焦点を当てる「CONTROL Resonant」の開発映像が公開：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム「CONTROL Resonant」の開発映像を紹介しています。開発映像では、舞台の大きな変化と続編の制作に焦点を当てています。ゲームの評価ポイントとして、ストーリーの展開やグラフィックの品質が挙げられます。また、レビューでは、ゲームの世界観やキャラクターの深みも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164836.html",
+        "date": "2026-03-07",
+        "is_translated": false
+      },
+      {
+        "title": "【塹壕掘りや建築要素を持つ兵科ベースの第一次世界大戦シューター「Over The Top: WW...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "本記事は、第一次世界大戦を舞台にしたシューティングゲーム「Over The Top: WW...」のレビューです。このゲームは、塹壕掘りや建築要素を備えた兵科ベースのゲームプレイが特徴です。評価ポイントとしては、戦略的なゲームプレイ、グラフィックのレベル、サウンドデザインのリアルさなどが挙げられます。対象読者は、第一次世界大戦やシューティングゲームに興味がある方や。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164866.html",
+        "date": "2026-03-07",
+        "is_translated": false
+      },
+      {
+        "title": "【“奈須きのこ”や“イシイジロウ”絶賛の『パラノマサイト』、待望の続編はユーザーの期待に応えたの...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "人気ゲーム「パラノマサイト」の続編が発売され、ユーザーの期待に応えていることがわかりました。ゲームの評価ポイントとしては、ストーリーの深みや新しいシステムの導入が挙げられます。レビューの内容概要としては、続編が前作の良さを引き継いでいることや、新しい要素が加わっていることを評価しています。このレビューは、ゲームファンやシリーズの愛好家にとって参考になる情報を提供しているので。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/07/178280.html",
+        "date": "2026-03-07",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-07T01:52:32.034304"
+  "last_updated": "2026-03-07T09:28:15.901954"
 }
