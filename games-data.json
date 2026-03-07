@@ -616,6 +616,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/brightgunner/info/",
         "date": "2026-03-07"
+      },
+      {
+        "title": "Crowalt: Traces of the Lost Colony",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「Crowalt: Traces of the Lost Colony」が現在、Variousで100%割引のセール中です。このゲームは、探索と戦闘を主な特徴としています。通常価格が大幅に割引されており、現在は無料でプレイすることができます。評価は一般的に良好で、ユーザーから高い人気度を誇っています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/crowalt-traces-of-the-lost-colony/info/",
+        "date": "2026-03-07"
       }
     ],
     "review": [
@@ -2126,8 +2138,21 @@
         "url": "https://www.inside-games.jp/article/2026/03/07/178280.html",
         "date": "2026-03-07",
         "is_translated": false
+      },
+      {
+        "title": "【『バイオハザード レクイエム』プレイヤーが好む主人公は、圧倒的に「レオン」！ しかし、グレース...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "バイオハザードシリーズの最新作「バイオハザード レクイエム」のレビュー記事では、プレイヤーが好む主人公は圧倒的にレオンであると述べられています。しかしその記事では、主人公の選択肢やゲームのストーリー展開などについても触れています。このレビュー記事は、バイオハザードシリーズのファンやアクションアドベンチャーゲームを好む読者にとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/07/178298.html",
+        "date": "2026-03-07",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-07T09:28:15.901954"
+  "last_updated": "2026-03-07T13:01:17.993966"
 }
