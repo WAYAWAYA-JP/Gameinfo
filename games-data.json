@@ -628,6 +628,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/elden-ring/info/",
         "date": "2026-03-08"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Red Dead Redemption 2がVariousで78%オフのセール中です。このゲームはオープンワールドアクションアドベンチャーのジャンルで、豊富なストーリーや自由度の高いプレイが特徴です。非常に高い評価を受けており、人気度も高く、多くのゲームファンに愛されています。",
+        "price": "$13.20",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-03-08"
       }
     ],
     "review": [
@@ -1335,5 +1347,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-08T09:29:03.308771"
+  "last_updated": "2026-03-08T13:02:56.279574"
 }
