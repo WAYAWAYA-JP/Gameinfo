@@ -1756,7 +1756,7 @@ def update_games_data():
     data["pc"]["free"] = clean_old_data(data["pc"]["free"], days=7)
     data["pc"]["bundle"] = clean_old_data(data["pc"]["bundle"], days=10)
     data["pc"]["sale"] = clean_old_data(data["pc"]["sale"], days=7)
-    data["pc"]["review"] = clean_old_data(data["pc"]["review"], days=10)
+    data["pc"]["review"] = clean_old_data(data["pc"]["review"], days=5)
 
     # 保存
     save_data(data)
