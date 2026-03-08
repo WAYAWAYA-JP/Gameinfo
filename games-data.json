@@ -604,6 +604,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/turnip-boy-robs-a-bank/info/",
         "date": "2026-03-07"
+      },
+      {
+        "title": "Red Dead Redemption",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ロックスターゲームスの人気シリーズ「Red Dead Redemption」が現在、Variousで56パーセント割引されています。このオープンワールドアクションアドベンチャーゲームは、西部開拓時代を舞台に、自由に乗馬や銃撃戦を楽しむことができます。高評価を受けており、幅広い年齢層に支持されています。セール中のこの機会に、未プレイの方もぜひお試しください。",
+        "price": "$22.00",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption/info/",
+        "date": "2026-03-08"
+      },
+      {
+        "title": "Elden Ring",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションRPGゲームであるElden RingがVariousで現在23%オフのセール中です。このゲームは、廣瀬叔功の暗いファンタジー世界観とFromSoftwareのアクションゲームのノウハウにより、非常に高く評価されており、多くのプレイヤーから人気を博しています。",
+        "price": "$45.90",
+        "originalPrice": "",
+        "discount": "-23%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/elden-ring/info/",
+        "date": "2026-03-08"
       }
     ],
     "review": [
@@ -1295,8 +1319,21 @@
         "url": "https://www.polygon.com/im-in-love-with-your-dead-grandmother-impressions/",
         "date": "2026-03-07",
         "is_translated": true
+      },
+      {
+        "title": "【『ぽこ あ ポケモン』を遊んでいると泣きそうになる。『炎姫』は爽快3Dアクション。『Tilin...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、様々なゲームの評価ポイントを紹介しています。『ぽこ あ ポケモン』は感動的な要素があり、プレイヤーを泣きそうにするほどの感動を与えてくれるようです。一方、 『炎姫』は爽快な3Dアクションが特徴です。対象読者は、ゲーム好きの方や新作ゲームを楽しみにしている方など、幅広い層が対象です。このレビュー記事では、ゲームの魅力を伝える内容が中心となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260308-427433/",
+        "date": "2026-03-08",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-08T02:01:41.818581"
+  "last_updated": "2026-03-08T09:29:03.308771"
 }
