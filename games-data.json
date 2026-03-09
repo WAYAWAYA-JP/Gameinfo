@@ -242,6 +242,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/last-echoes-bundle",
         "date": "2026-03-07"
+      },
+      {
+        "title": "Mega Man: Charged Up Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Mega Man: Charged Up Collectionのバンドルが販売中です。このバンドルには、主要タイトルとしてMega Man 11やMega Man X Legacy Collectionなどの人気作品が含まれています。アクションゲームファンには必見のジャンルであり、大まかな価格帯は20ドル以下と比較的手頃です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/megamanchargedupcollection_bundle",
+        "date": "2026-03-09"
+      },
+      {
+        "title": "HHMassive Music 3 Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、HHMassive Music 3 Bundleが販売中です。このバンドルには、主要タイトルとして「Massive Music Pack」、「Epic Music Pack」、「Cinematic Music Pack」などが含まれています。ジャンルは、主に映画やゲーム向けのエピックなサウンドトラックです。大まかな価格帯は、10ドルから20ドル程度と見られています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/massive-music3-bundle",
+        "date": "2026-03-09"
       }
     ],
     "sale": [
@@ -603,6 +627,30 @@
         "discount": "-10%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-2-2019/info/",
+        "date": "2026-03-09"
+      },
+      {
+        "title": "Slay the Spire 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Slay the Spire 2がVariousでセール中です。このゲームは、ローグライクとデッキビルディングを組み合わせた独特のジャンルで、プレイヤーはカードを集めてデッキを構築し、ダンジョンを進みながら敵と戦います。現在、割引率は高く、魅力的な価格で購入できます。Slay the Spire 2は、高度な再生性と奥深い戦略性が評価されており、多くのプレイヤーから高い評価を得ています。",
+        "price": "$24.99",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/slay-the-spire-2/info/",
+        "date": "2026-03-09"
+      },
+      {
+        "title": "The Alters",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Altersが、Variousで43%割引のセール中です。このゲームは、ユニークなゲーム性と高品質のグラフィックで人気を博しており、多くのユーザーから高い評価を得ています。現在、セール中なので、通常価格より大幅に安くなっています。興味がある方は、チェックしてみてください。",
+        "price": "$19.99",
+        "originalPrice": "",
+        "discount": "-43%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-alters/info/",
         "date": "2026-03-09"
       }
     ],
@@ -1100,8 +1148,21 @@
         "url": "https://doope.jp/2026/03164875.html",
         "date": "2026-03-09",
         "is_translated": false
+      },
+      {
+        "title": "【リアリズムモードの導入を果たした「Tom Clancy’s The Division 2」がS...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Tom Clancy’s The Division 2」のレビュー記事では、リアリズムモードの導入が高く評価されています。このモードでは、プレイヤーのスキルと戦略がより重要になり、ゲームの難易度が上昇します。また、ゲームのグラフィックやサウンドデザインも高く評価されており、リアルなゲームワールドを体験できることが強みです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164846.html",
+        "date": "2026-03-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-09T02:02:37.660761"
+  "last_updated": "2026-03-09T09:51:19.945664"
 }
