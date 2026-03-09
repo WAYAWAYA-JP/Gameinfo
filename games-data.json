@@ -266,6 +266,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/massive-music3-bundle",
         "date": "2026-03-09"
+      },
+      {
+        "title": "The MIX Spring Showcase: Games Around The World",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、The MIX Spring Showcase: Games Around The Worldというバンドルが販売中です。このバンドルには、世界中のさまざまなゲームが収録されており、インディーゲームファンにはおすすめです。主要タイトルとしては、RPG、パズル、シミュレーションゲームなどが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/mixspringshowcasegamesaroundworld_bundle",
+        "date": "2026-03-09"
       }
     ],
     "sale": [
@@ -651,6 +663,18 @@
         "discount": "-43%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-alters/info/",
+        "date": "2026-03-09"
+      },
+      {
+        "title": "The Riftbreaker",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "The RiftbreakerがSteamで67% OFFセール中です。このゲームは、アクション要素とストラテジー要素を兼ね備えた独自のゲームジャンルを擁し、プレイヤーが新しい惑星を探索し、資源を集め、拠点を築くことを目的としています。通常価格より67%割引された価格で購入できます。The Riftbreakerは、ユーザーの評価が非常に高く。",
+        "price": "¥1,122",
+        "originalPrice": "¥3,400",
+        "discount": "67% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/780310",
         "date": "2026-03-09"
       }
     ],
@@ -1200,8 +1224,34 @@
         "url": "https://www.polygon.com/big-walk-preview/",
         "date": "2026-03-09",
         "is_translated": true
+      },
+      {
+        "title": "【Windows 11 のゲーム UI の刷新である Xbox フル スクリーン エクスペリエン...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Xbox フルスクリーンエクスペリエンスは、Windows 11 のゲーム UI の刷新であり、ユーザーはより統合されたゲーム体験を楽しむことができます。レビューのポイントとしては、ゲームのパフォーマンスの向上、直感的な操作性、そして美しいビジュアルデザインが挙げられます。また、ゲーム愛好家や Windows 11 ユーザーにとって、この機能は大きなメリットとなります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/xbox-full-screen-experience-windows-11s-gaming-ui-overhaul-is-available-to-try-now-on-legion-go-handhelds",
+        "date": "2026-03-09",
+        "is_translated": true
+      },
+      {
+        "title": "【GDC 2026: すべてのニュース、プレビュー、インタビュー、デモなど】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "GDC 2026に関するレビュー記事では、最新のニュース、プレビュー、インタビュー、デモなどが紹介されています。ゲームの評価ポイントとして、グラフィックの品質、ゲームプレイの深み、ストーリーの魅力などが取り上げられています。対象読者は、ゲーム好きの方や最新のゲーム情報を知りたい方にお勧めです。記事では、ゲームの魅力を伝えるインタビューや、デモプレイの感想などが盛り込まれており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/gdc-2026-news-previews-interviews-demos/",
+        "date": "2026-03-09",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-09T13:19:04.696531"
+  "last_updated": "2026-03-09T21:33:22.271320"
 }
