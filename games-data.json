@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "February 2026 Humble Choice",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "2026年2月のHumble ChoiceバンドルがHumble Bundleで販売中です。このバンドルには、人気タイトルである「WWE 2K23」や「F1 22」、「Total War: Warhammer III」などが含まれています。ゲームのジャンルはアクションやスポーツ、シミュレーションなど多岐にわたり、価格帯も500円から1000円台と幅広い選択肢があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/february_2026_choice",
-        "date": "2026-02-27"
-      },
-      {
-        "title": "Mega Man: Charged Up Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Mega Man: Charged Up Collectionのバンドルが販売中です。このコレクションには、メガマンシリーズの主要タイトルであるMega Man X、Mega Man X2、Mega Man X3などが収録されています。ジャンルはアクションゲームで、大まかな価格帯は1,000円前後です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/megamanchargedupcollection_bundle",
-        "date": "2026-02-27"
-      },
-      {
         "title": "Best of Humble Bundle: Beamdog & Owlcat: RPG Masters",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -269,30 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "We Were Here Forever",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "We Were Here ForeverがSteamで60%オフのセール中です。このゲームは、協力プレイを重視したパズルアドベンチャーゲームで、プレイヤー同士で協力して謎を解く必要があります。特徴的なストーリーと難しいパズルが楽しめることで人気を博しており、評価も非常に高いです。通常価格から60%割引された安い価格で購入できるので、興味がある方はぜひこの機会にチェックしてみてください。",
-        "price": "¥800",
-        "originalPrice": "¥2,000",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1341290",
-        "date": "2026-03-02"
-      },
-      {
-        "title": "Dragon's Dogma 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションRPGゲームであるDragon's Dogma 2が、現在Variousで17%割引セール中です。このゲームは、高自由度のオープンワールドと独自の戦闘システムで人気を博しており、多くのプレイヤーから高評価を得ています。セール期間中は通常価格よりも安く購入できるため、興味のある方はお見逃しなくください。",
-        "price": "$58.07",
-        "originalPrice": "",
-        "discount": "-17%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
-        "date": "2026-03-02"
-      },
       {
         "title": "スーパーバニーマン",
         "platform": "Steam",
@@ -640,217 +592,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
         "date": "2026-03-08"
+      },
+      {
+        "title": "RESIDENT EVIL 2 (2019)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "バイオハザードシリーズの最新作であるRESIDENT EVIL 2（2019）が、現在Variousで10％オフのセール中です。この作品は、サバイバルホラーのジャンルで知られており、恐怖とスリルのバランスが取れたゲーム性が特徴です。評価も非常に高く、人気度が高いゲームです。価格は通常時と比べて10％割引されているので、気になる方はお見逃しなく！",
+        "price": "$8.99",
+        "originalPrice": "",
+        "discount": "-10%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-2-2019/info/",
+        "date": "2026-03-09"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料オープンワールド“MMO”シューター『ディビジョン リサージェンス』3月31日つ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「ディビジョン リサージェンス」のレビューでは、基本プレイ無料のオープンワールド「MMO」シューターとしての魅力や、グラフィックの質、ストーリーの深みなどが評価ポイントとして挙げられています。このゲームは、自由にオープンワールドを探索できることや、協力プレイや対戦プレイの充実したシステムが特徴です。ゲームファンやアクションシューター好きの方に特にオススメできると思います。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260304-426165/",
-        "date": "2026-03-04",
-        "is_translated": false
-      },
-      {
-        "title": "【最大5人協力対応・お宝捜索ホラードライブ『The Road』発表。お宝積み込みフィールド爆走、...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、最大5人協力対応のお宝捜索ホラードライブゲーム「The Road」の魅力を紹介しています。ゲームの評価ポイントとしては、多人数での協力プレイが可能な点や、恐怖とスリルが同居するホラーエレメントが特徴的です。また、お宝を積み込みながらフィールドを爆走するアクション要素も楽しみです。このレビューは、ホラーゲームファンやアクションゲーム好きの方におすすめできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/the-road-20260304-426137/",
-        "date": "2026-03-04",
-        "is_translated": false
-      },
-      {
-        "title": "【工場自動化ロジックパズル続編「shapez 2」の製品版1.0ローンチが2026年4月23日に...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「shapez 2」の製品版1.0が2026年4月23日にローンチされ、レビュー記事が公開されています。このゲームは工場自動化ロジックパズルゲームの続編で、プレイヤーは工場の効率化と最適化を目指してパズルを解く必要があります。レビューの内容を概要すると、ゲームの評価ポイントはグラフィックの向上、ゲームプレイの複雑さ、自由度の高さなどです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164710.html",
-        "date": "2026-03-04",
-        "is_translated": false
-      },
-      {
-        "title": "【ホビット庄ライフシム「Tales of the Shire」のNintendo Switch ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Tales of the Shire」は、ホビット庄を舞台にしたライフシムゲームです。このゲームの評価ポイントとしては、自由度の高いキャラクター作成と、ホビット庄での生活を模倣した豊富なアクティビティが楽しめる点が挙げられます。レビューの内容概要としては、ゲームのグラフィックとサウンドトラックが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164713.html",
-        "date": "2026-03-04",
-        "is_translated": false
-      },
-      {
-        "title": "【ランナーたちの過酷な戦いを描く新生「Marathon」のシネマティックトレーラーがお披露目、エ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、新生「Marathon」のシネマティックトレーラーを紹介しています。ランナーたちの過酷な戦いを描くこのゲームは、ストーリーやグラフィック、サウンドトラックなどで高く評価されています。特に、ゲームの雰囲気を伝えるトレーラーは、視聴者の心を捉えることができます。ランニングゲームファンやアクションゲーム好きの方々にとって、このレビュー記事は参考になります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164712.html",
-        "date": "2026-03-04",
-        "is_translated": false
-      },
-      {
-        "title": "【『バイオハザード レクイエム』販売本数が500万本突破！1週間足らずの爆速売上、高評価が後押しか】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "バイオハザードシリーズの最新作『バイオハザード レクイエム』は販売本数が500万本を突破し、1週間足らずで爆速売上を記録しています。このゲームはグラフィックの高さやスリリングなゲームプレイが評価されており、レビューではストーリーの深みやキャラクターの魅力も高く評価されています。このゲームはバイオハザードシリーズのファンやホラー系ゲームを楽しむ人に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/04/178138.html",
-        "date": "2026-03-04",
-        "is_translated": false
-      },
-      {
-        "title": "【『ぽこ あ ポケモン』で“開発者たちが作った島”を探索！シリーズお馴染みの設置物も垣間見える、...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "本記事は、「ぽこ あ ポケモン」のレビューであり、開発者たちが作った島を探索する内容が評価されています。シリーズお馴染みの設置物も見られる点が特徴的です。このレビューは、ポケモンシリーズのファンや、新しいゲームを探している方に興味を持ってもらえる内容です。ゲームの評価ポイントとしては、島の探索の面白さや、設置物の存在感などがあげられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/04/178134.html",
-        "date": "2026-03-04",
-        "is_translated": false
-      },
-      {
-        "title": "【エソテリック・エブのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "エソテリック・エブのレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンド、ストーリーの面白さを挙げています。レビューの内容概要としては、ゲームの世界観やキャラクターの魅力、そして難易度の適切さについて触れています。このレビュー記事は、ゲームファンや新規参入者にとって参考になる情報を提供しており、特にアクションゲームやRPGが好きな読者にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/esoteric-ebb-review/",
-        "date": "2026-03-04",
-        "is_translated": true
-      },
-      {
-        "title": "【高評価・不穏“粘土世界”冒険ゲーム『The Midnight Walk』Nintendo Sw...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Nintendo Switch用のゲーム『The Midnight Walk』は、ユニークな粘土世界を舞台にした冒険ゲームです。このゲームは、高評価を得ているものの、不穏な雰囲気も持ち合わせています。レビューでは、ゲームの独自の世界観、不気味ながらも引き付けられる雰囲気、そして自由度の高いゲームプレイが評価されています。また、グラフィックやサウンドトラックも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260304-426421/",
-        "date": "2026-03-04",
-        "is_translated": false
-      },
-      {
-        "title": "【『バイオ レクイエム』レオンとグレースのプレイ体験に差がありすぎる！？ホラー寄りとアクション寄...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム「バイオ レクイエム」のキャラクター、ルールとグレースのプレイ体験の違いについて取り上げています。評価ポイントとしては、ホラー要素とアクション要素のバランスが重要です。また、プレイヤーのスキルレベルやゲームスタイルによって、ゲームの難易度や楽しみ方が大きく異なることが指摘されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/04/178148.html",
-        "date": "2026-03-04",
-        "is_translated": false
-      },
-      {
-        "title": "【『バイオハザード レクイエム』メタスコア更新で2026年発売のゲームで暫定トップ評価に。『ぽこ...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "『バイオハザード レクイエム』は2026年発売のゲームの中で、現在メタスコアで暫定トップの評価を獲得しています。このゲームの評価ポイントとしては、グラフィックの高さ、サスペンス溢れるストーリー、緊張感のあるゲームプレイが挙げられます。レビューの内容概要としては、グラフィックの質の高さや、恐怖心を引き出すサウンドデザインが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/04/178147.html",
-        "date": "2026-03-04",
-        "is_translated": false
-      },
-      {
-        "title": "【Acer Nitro V 16 AI レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Acer Nitro V 16 AI レビューの記事では、ゲーミングノートパソコンの性能や機能を評価しています。記事の内容としては、ノートパソコンのハードウェア性能やグラフィック処理能力、またバッテリーの持ち時間などが評価ポイントとして取り上げられています。さらに、ゲームの実行速度や映像のクオリティもレビューの対象になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-laptops/acer-nitro-v-16-ai-review/",
-        "date": "2026-03-04",
-        "is_translated": true
-      },
-      {
-        "title": "【Counter-Strike: Global Offensive が Counter-Stri...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Counter-Strike: Global Offensive のレビュー記事では、このゲームの評価ポイントとして、グラフィックの向上や新しいマップの追加が挙げられます。また、レビューの内容概要としては、ゲームのバランスや難易度の適切さが高く評価されています。この記事は、FPS ゲームファンや Counter-Strike シリーズの愛好者にとって。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/counter-strike-global-offensive-is-now-back-on-steam-as-a-separate-entity-to-counter-strike-2",
-        "date": "2026-03-04",
-        "is_translated": true
-      },
-      {
-        "title": "【Logitech G325 Lightspeed ゲーミング ヘッドセット レビュー: 安価な...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Logitech G325 Lightspeed ゲーミング ヘッドセット レビュー記事は、ゲームプレイヤーにとって非常に参考になる情報を提供しています。このヘッドセットの優れたサウンド質と軽量なデザインが評価されています。また、安価な価格設定にも注目されており、コストパフォーマンスが高いという点も評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/logitech-g325-lightspeed-gaming-headset-review",
-        "date": "2026-03-04",
-        "is_translated": true
-      },
-      {
-        "title": "【アシストモードの搭載や戦闘周りのディテールを含む続編「CONTROL Resonant」の新た...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム「CONTROL Resonant」の新たな要素や評価ポイントを紹介しています。アシストモードの搭載や戦闘周りのディテールが含まれる続編の特徴を概説しており、ゲームファンや新規プレイヤーがゲームの魅力を知ることができます。記事では、ゲームの評価ポイントとしてアシストモードの効果や戦闘システムの改善について触れており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164663.html",
-        "date": "2026-03-04",
-        "is_translated": false
-      },
-      {
-        "title": "【Planet of Lana 2 レビュー - 心を掴む、より壮大でダイナミックなプラットフォ...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Planet of Lana 2は心を掴む、一歩先を行くプラットフォームゲームで、壮大でダイナミックな世界観が特徴です。このレビューでは、ゲームの評価ポイントとして、美しいグラフィック、心を揺さぶるストーリー、そしてスムーズな操作性が高く評価されています。また、ゲームの長さや難易度も適切に設定されており、プレイヤーがゲームに没頭できるようになっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/planet-of-lana-2-review-pc",
-        "date": "2026-03-04",
-        "is_translated": true
-      },
       {
         "title": "【『アサクリ4』リメイク『アサシン クリード ブラック フラッグ Resynced』発表。謎の“...：レビュー】",
         "platform": "AUTOMATON",
@@ -863,19 +619,6 @@
         "url": "https://automaton-media.com/articles/newsjp/assassin-creed-20260305-426503/",
         "date": "2026-03-05",
         "is_translated": false
-      },
-      {
-        "title": "【花嫁さん！レビュー：マギー・ギレンホールは、「Poor Things」でフランケンシュタインで...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事では、マギー・ギレンホールが主演する映画「Poor Things」についてフランケンシュタインの視点から評価しています。映画の独創的なストーリーやキャラクターの深みなどが高く評価されています。また、映画のテーマやメッセージも分析されており、映画ファンや文学愛好者にとって興味深い内容となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/the-bride-review-maggie-gyllenhaal/",
-        "date": "2026-03-04",
-        "is_translated": true
       },
       {
         "title": "【Steamの日本トレンドがわかるサイト「Steamトレンド」本日公開。ジャンル別ランキングで、...：レビュー】",
@@ -1344,8 +1087,21 @@
         "url": "https://automaton-media.com/articles/now-gaming/20260308-427433/",
         "date": "2026-03-08",
         "is_translated": false
+      },
+      {
+        "title": "【コロニーシムとダンジョンクローラーを組み合わせたダークファンタジーストラテジー「Dungeon...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "コロニーシムとダンジョンクローラーを組み合わせたダークファンタジーストラテジーゲーム「Dungeon...：レビュー」のレビュー記事では、ゲームの評価ポイントとして、ユニークなゲーム性やストーリーの深みが挙げられています。レビューの内容概要としては、ゲームの難易度や操作性の良さ、またグラフィックやサウンドトラックの質も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164875.html",
+        "date": "2026-03-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-08T21:24:07.036086"
+  "last_updated": "2026-03-09T02:02:37.660761"
 }
