@@ -242,6 +242,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/mixspringshowcasegamesaroundworld_bundle",
         "date": "2026-03-09"
+      },
+      {
+        "title": "Best of Humble Bundle: Beamdog & Owlcat: RPG Masters",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Best of Humble Bundle: Beamdog & Owlcat: RPG Mastersというバンドルが販売中です。このバンドルには、Baldur's GateやPillars of Eternityなどの人気RPGタイトルが含まれており、ロールプレイングゲームファンには必見のアイテムです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/beamdogowlcatrpgmasters2026_bundle",
+        "date": "2026-03-10"
+      },
+      {
+        "title": "Humble 15 Time Capsule",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble 15 Time CapsuleのバンドルがHumble Bundleで販売中です。このバンドルには、The Stanley Parable、The Swapper、Her Storyなどの主要タイトルが含まれており、インディーゲームやパズルゲームなどのジャンルが中心です。大まかな価格帯は10ドル前後と比較的手頃です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/humble15timecapsule_bundle",
+        "date": "2026-03-10"
       }
     ],
     "sale": [
@@ -591,6 +615,54 @@
         "discount": "-57%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
+        "date": "2026-03-10"
+      },
+      {
+        "title": "スーパーダンガンロンパ2 さよなら絶望学園",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "スーパーダンガンロンパ2 さよなら絶望学園はアドベンチャーゲームであり、ユニークなストーリーとキャラクターが特徴です。現在、Steamで90% OFFのセール中であり、大幅に割引された価格でプレイすることができます。このゲームは高い評価を受けており、人気度も高く、ファンから高い支持を得ています。",
+        "price": "¥213",
+        "originalPrice": "¥2,138",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/413420",
+        "date": "2026-03-10"
+      },
+      {
+        "title": "ニューダンガンロンパV3 みんなのコロシアイ新学期",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ニューダンガンロンパV3 みんなのコロシアイ新学期がSteamで80% OFFのセール中です。このゲームは、サバイバルアドベンチャーのジャンルに属し、学園を舞台にしたミステリーを楽しむことができます。現在、80%の割引で購入でき、非常にリーズナブルな価格になっています。人気ゲームシリーズの最新作であり、ファンから高い評価を受けています。",
+        "price": "¥838",
+        "originalPrice": "¥4,190",
+        "discount": "80% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/567640",
+        "date": "2026-03-10"
+      },
+      {
+        "title": "ダンガンロンパ 希望の学園と絶望の高校生",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ダンガンロンパ 希望の学園と絶望の高校生は、 Steamで現在60%オフのセール中です。このゲームは、アドベンチャーとサスペンスの要素を組み合わせたユニークなジャンルを持っており、プレイヤーは学園生活を通じてさまざまなキャラクターと交流し、事件を解決する必要があります。評価は非常に高く、人気も高いゲームで、セール期間中は通常価格より大幅に安く購入できます。",
+        "price": "¥855",
+        "originalPrice": "¥2,138",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/413410",
+        "date": "2026-03-10"
+      },
+      {
+        "title": "絶対絶望少女 ダンガンロンパ Another Episode",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "絶対絶望少女 ダンガンロンパ Another EpisodeがSteamで大幅なセール中です。このゲームはアクションアドベンチャーゲームであり、シリーズのファンには必携の作品です。現在、90%の割引が適用されており、通常価格より大幅に安くなっています。シリーズファンの評価も高く、人気度も高い作品となっています。",
+        "price": "¥380",
+        "originalPrice": "¥3,800",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/555950",
         "date": "2026-03-10"
       }
     ],
@@ -1101,8 +1173,60 @@
         "url": "https://www.polygon.com/fatal-frame-2-remake-impressions/",
         "date": "2026-03-10",
         "is_translated": true
+      },
+      {
+        "title": "【オープンワールドアクション『紅の砂漠』を6時間プレイしてみた感想。めんどくささが最高に面白い、...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "オープンワールドアクションゲーム『紅の砂漠』を6時間プレイしてみたレビュー記事では、このゲームの面白さをめんどくささが最大の魅力として評価しています。また、ゲームの世界観やシステムの充実度も高く評価されています。このレビュー記事は、オープンワールドアクションゲームのファンや新しいゲームを探している人に特に役立つ内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/crds-20260310-427975/",
+        "date": "2026-03-10",
+        "is_translated": false
+      },
+      {
+        "title": "【“反射神経不要”なアクションゲーム『カード魔王：頭だけになっても！』4月29日配信へ。「じっく...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「カード魔王：頭だけになっても！」は、反射神経が必要ないアクションゲームで、4月29日に配信が開始される予定です。このゲームの評価ポイントとしては、独自のゲームシステムやキャラクターの魅力が挙げられます。レビューでは、ゲームのユニークなプレイスタイルや、ストーリーの面白さが高く評価されています。このゲームは、アクションゲームを楽しむことに特化したユーザーや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/roguelite-20260310-427983/",
+        "date": "2026-03-10",
+        "is_translated": false
+      },
+      {
+        "title": "【ローグライク採掘サバイバル「Dome Keeper」のマルチプレイヤーアップデート配信が4月1...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ローグライク採掘サバイバルゲーム「Dome Keeper」のマルチプレイヤーアップデートが4月に配信されることが発表されました。このゲームは、1人用のモードとマルチプレイヤーモードの両方でプレイでき、プレイヤーは資源を採掘して基地を守る必要があります。評価ポイントとしては、ゲームの難易度とリプレイ性が高く、プレイヤーがさまざまな戦略を試すことができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164913.html",
+        "date": "2026-03-10",
+        "is_translated": false
+      },
+      {
+        "title": "【ホロライブ・博衣こより、「WBC」日本対チェコ戦のプレイボールコールを担当へー3月10日19時...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "ホロライブの博衣こよりが、「WBC」日本対チェコ戦のプレイボールコールを担当することになりました。この記事では、彼女のこの試みに対する評価ポイントを紹介します。まず、彼女のボールコールのパフォーマンスが注目されます。また、彼女のファンであるホロライブの視聴者やスポーツファンの反応も見どころです。さらに、彼女のこの試みがホロライブの認知度を高めるきっかけとなるかどうかも興味があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/10/178413.html",
+        "date": "2026-03-10",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-10T01:55:06.482896"
+  "last_updated": "2026-03-10T09:42:52.650475"
 }
