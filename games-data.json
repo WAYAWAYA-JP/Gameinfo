@@ -52,42 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Best of Humble Bundle: Beamdog & Owlcat: RPG Masters",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Best of Humble Bundle: Beamdog & Owlcat: RPG Mastersというバンドルが販売中です。このバンドルには、主要タイトルとして『バルダーズ・ゲート』『パスファインダー：キングメイカー』『ワイルドライフ』などが含まれています。ロールプレイングゲームを中心としたバンドルで、ファンタジーやアドベンチャーが好きな方にぴったりです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/beamdogowlcatrpgmasters2026_bundle",
-        "date": "2026-02-28"
-      },
-      {
-        "title": "Humble 15 Time Capsule",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Humble 15 Time Capsuleと呼ばれるバンドルが現在販売中です。このバンドルには、The Witness、The Stanley Parable、Gone Homeなどの主要タイトルが含まれています。ジャンルはアドベンチャーやパズルゲームなど多様で、価格帯は約1,500円から2,500円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/humble15timecapsule_bundle",
-        "date": "2026-02-28"
-      },
-      {
-        "title": "Massive Music 3 Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Massive Music 3 Bundleが販売中です。このバンドルには、主にアクションゲームやアドベンチャーゲームが含まれており、ジャンルはアクション、アドベンチャー、RPGなど多岐にわたります。また、主要タイトルとして、ファンタジーRPGの「Eternal Edge」や、サイバーパンクアクションの「Cyber Sentinel」。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/massive-music3-bundle",
-        "date": "2026-02-28"
-      },
-      {
         "title": "Focus Entertainment Bundle 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -281,66 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "スーパーバニーマン",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "スーパーバニーマンは、Steamで現在50%オフのセール中です。このアクションゲームは、ユーモア溢れる雰囲気と簡単な操作で遊ぶことができます。評価は非常に高く、人気も高いので、ファンも多いです。セール期間中は、通常よりも安い価格で購入することができます。",
-        "price": "¥850",
-        "originalPrice": "¥1,700",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/673750",
-        "date": "2026-03-03"
-      },
-      {
-        "title": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Microsoft Flight Simulator (2020) 40th Anniversary EditionがSteamで65% OFFセール中です。このゲームはフライトシミュレーターとして有名で、高度なグラフィックとリアルな飛行体験が特徴です。通常価格から大幅に割引されたこの機会に、空の自由を感じてみてください。ユーザーからの評価も高く、人気度も高まっています。",
-        "price": "¥2,608",
-        "originalPrice": "¥7,452",
-        "discount": "65% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1250410",
-        "date": "2026-03-03"
-      },
-      {
-        "title": "Shadows of Doubt",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Shadows of DoubtがVariousで55%オフのセール中です。これは、探偵ゲームの要素を取り入れたオープンワールドのアクションアドベンチャーゲームで、プレイヤーは未来の都市で事件を解決します。現在の価格は割引前の価格より55%安くなっています。ユーザーの評価は非常に高く、ゲームの評価はとても良好です。人気度も高く、多くのユーザーがプレイしています。",
-        "price": "$8.99",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/shadows-of-doubt/info/",
-        "date": "2026-03-03"
-      },
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "No Man's Skyがバラエティストアで60%割引のセール中です。このゲームは、オープンワールドのアクションアドベンチャーであり、宇宙を自由に探索でき、多彩な星や惑星を発見することができます。高い評価と人気を誇り、特にグラフィックスやサウンドトラックが高く評価されています。現在の価格は割引前と比較して大幅に下がっていますので、興味がある方はこの機会を逃さないでください。",
-        "price": "$23.95",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-03-03"
-      },
-      {
-        "title": "Just Move:Clean City Messy Battle",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Just Move:Clean City Messy Battleがバラエティなゲームとしてリリースされ、現在100%割引のセール中です。このゲームは、ユニークなコンセプトと面白いゲームプレイが特徴で、プレイヤーは街を清潔に保つためのバトルに参加します。評価や人気度も高く、多くのプレイヤーから好評価を得ています。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/just-move-clean-city-messy-battle/info/",
-        "date": "2026-03-03"
-      },
       {
         "title": "Metaphor: ReFantazio",
         "platform": "Various",
@@ -676,113 +580,21 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/780310",
         "date": "2026-03-09"
+      },
+      {
+        "title": "Frostpunk 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Frostpunk 2はシティビルディングゲームです。都市を建設・管理しながら、凍てついた世界で生活する人々を守っていく、ストラテジーとサバイバルが融合したゲームです。現在、57%の割引が適用されており、非常に魅力的です。ユーザーの評価は非常に高く、人気ゲームとして知られています。都市の建設と管理、そしてサバイバルの要素が組み合わさるこのゲームは。",
+        "price": "$19.34",
+        "originalPrice": "",
+        "discount": "-57%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
+        "date": "2026-03-10"
       }
     ],
     "review": [
-      {
-        "title": "【『アサクリ4』リメイク『アサシン クリード ブラック フラッグ Resynced』発表。謎の“...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『アサシン クリード ブラック フラッグ Resynced』は、人気シリーズ『アサクリ4』のリメイク作品として発表されました。このゲームの評価ポイントとしては、グラフィックの向上や新しいゲームモードの追加が挙げられます。レビューの内容概要としては、シリーズのファンには必玩との声が上がっていますが、新規プレイヤーには少し難しい部分があるとの意見もあります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/assassin-creed-20260305-426503/",
-        "date": "2026-03-05",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamの日本トレンドがわかるサイト「Steamトレンド」本日公開。ジャンル別ランキングで、...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamトレンドというサイトが公開されました。このサイトでは、Steamの日本トレンドがわかります。ジャンル別ランキングでは、人気のゲームをチェックできます。レビュー記事では、サイトの内容や使い方、評価ポイントなどが紹介されています。特に、ゲームの評価ポイントとして、グラフィックやサウンド、ゲームプレイの面白さなどが評価されています。対象読者は、Steamユーザーやゲームファン向けです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/steam-trend-20260305-426656/",
-        "date": "2026-03-05",
-        "is_translated": false
-      },
-      {
-        "title": "【迷子少女のおとぎ話冒険ゲーム『Apopia: スイート・ナイトメア』、好評じわじわ順調スタート...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Apopia: スイート・ナイトメア』は、迷子になった少女を助けるためのおとぎ話のような冒険ゲームです。このゲームは、好評を博しており、順調に始まっています。このレビュー記事では、ゲームの評価ポイントとして、ゲームの世界観やストーリーの魅力、そしてゲームプレイの面白さを取り上げています。また、グラフィックやサウンドトラックの質も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/apopia-20260305-426608/",
-        "date": "2026-03-05",
-        "is_translated": false
-      },
-      {
-        "title": "【高評価ファンタジー雑貨屋シム『Trash Goblin』最新アプデで日本語に正式対応。掘り出し...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ファンタジー要素を取り入れたユニークなシミュレーションゲーム『Trash Goblin』が最新のアップデートで日本語に対応しました。このゲームは、プレイヤーがゴミ拾いのようなキャラクターとなり、様々なアイテムを収集して販売するという面白いシステムが特徴です。ゲームの評価ポイントとしては、独自のゲーム性、グラフィックの魅力、そして自由度の高さが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/trash-goblin-20260305-426700/",
-        "date": "2026-03-05",
-        "is_translated": false
-      },
-      {
-        "title": "【「『Highguard』が評価されなかったからThe Game Awardsが中止になる」とい...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "The Game Awardsの審査方法や評価基準が疑問視されているが、その理由を探るために、ゲーム「Highguard」が評価されなかったことについてレビューを行った記事です。この記事では、The Game Awardsの評価ポイント、ゲーム「Highguard」の特徴、審査方法の問題点などを取り上げています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/05/178204.html",
-        "date": "2026-03-05",
-        "is_translated": false
-      },
-      {
-        "title": "【『ぽこ あ ポケモン』デフォルトキャラクターは「メタモン」色！？キャラクリで戸惑うプレイヤー多数】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "ポケットモンスターのキャラクターをモチーフにしたゲーム「ぽこ あ ポケモン」についてのレビュー記事です。このゲームでは、デフォルトのキャラクターの色が「メタモン」に似ているという点が特徴です。キャラクター作成の際に、色の選択肢が少ないため、プレイヤーが戸惑うことが多く、その点が評価のポイントになっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/05/178203.html",
-        "date": "2026-03-05",
-        "is_translated": false
-      },
-      {
-        "title": "【パズルアドベンチャー続編「Planet of Lana II」が本日発売、ローンチトレーラーも：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "パズルアドベンチャーゲームの続編「Planet of Lana II」が発売されました。本作は美しいグラフィックと深いストーリーが特徴です。ゲームの評価ポイントとしては、ユニークなゲームシステムやキャラクターの魅力があります。レビューでは、ゲームの世界観やサウンドトラックの素晴らしさも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164800.html",
-        "date": "2026-03-05",
-        "is_translated": false
-      },
-      {
-        "title": "【Diablo 4 Warlock が Blizzard の新しいディープダイブとハンズオンで明らかに：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Diablo 4 WarlockがBlizzardの新しいディープダイブとハンズオンで明らかにされたレビュー記事があります。この記事は、ゲームの評価ポイントとしてWarlockの新しい能力やゲームプレイの深さを紹介しています。さらに、レビューの内容概要として、Warlockのキャラクター設定やストーリーの展開が語られています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/diablo-4-warlock-preview-lord-of-hatred-season-12/",
-        "date": "2026-03-05",
-        "is_translated": true
-      },
       {
         "title": "【サイバーパンクアクションRPG『RUINER 2』発表。人気作続編は「最大3人協力プレイ」に対...】",
         "platform": "AUTOMATON",
@@ -823,19 +635,6 @@
         "is_translated": false
       },
       {
-        "title": "【「ソードアート・オンライン」の新作ゲーム『エコーズ・オブ・アインクラッド』発表。デスゲームと化...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ソードアート・オンラインの新作ゲーム「エコーズ・オブ・アインクラッド」のレビュー記事では、ゲームの評価ポイントとして、デスゲームとしての緊張感やストーリーの深さ、グラフィックの美しさが挙げられています。また、レビューの内容概要として、ゲームの世界観やキャラクターの魅力、ゲームプレイの面白さが紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260306-426782/",
-        "date": "2026-03-05",
-        "is_translated": false
-      },
-      {
         "title": "【日本の美しい街並みと自然が確認できる「Forza Horizon 6」の本格的なゲームプレイ映...】",
         "platform": "doope!",
         "type": "review",
@@ -872,19 +671,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/03164804.html",
         "date": "2026-03-06",
-        "is_translated": false
-      },
-      {
-        "title": "【MicrosoftがXboxとPC両方のゲームがプレイ可能となる次世代コンソール「Projec...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "MicrosoftがXboxとPC両方のゲームがプレイ可能となる次世代コンソール「Project」に関するレビュー記事では、ゲームのグラフィックとサウンドの品質、ゲームパッドの操作性、コンソールの性能などが評価ポイントとして取り上げられています。記事では、コンソールの使い勝手やゲームの互換性についても触れており、XboxやPCゲームのファンには必読の内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164776.html",
-        "date": "2026-03-05",
         "is_translated": false
       },
       {
@@ -1250,8 +1036,73 @@
         "url": "https://www.polygon.com/gdc-2026-news-previews-interviews-demos/",
         "date": "2026-03-09",
         "is_translated": true
+      },
+      {
+        "title": "【人狼系消防マルチプレイアクション『OCTOPinbs』発表。放火魔とバレても“ごり押し可”な人...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "人狼系の消防マルチプレイアクションゲーム「OCTOPinbs」のレビュー記事では、プレイヤーが放火魔としてバレても、他のプレイヤーを押し切ることができる点が評価されています。また、ユーモアのあるグラフィックや、面白いゲームプレイが楽しめる点も高く評価されています。このレビュー記事は、人狼系ゲームやマルチプレイアクションゲームが好きな人に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/octopinbs-20260310-427858/",
+        "date": "2026-03-09",
+        "is_translated": false
+      },
+      {
+        "title": "【ディアブロライトなStardew Valley系2DピクセルアクションアドベンチャーRPG「E...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、2DピクセルアクションアドベンチャーRPG「E...」の評価を行っています。このゲームは、ディアブロとスターデューバレーを融合させたようなユニークな要素を持っており、150〜200文字の文章でゲームの魅力を紹介しています。レビューのポイントとしては、ゲームのグラフィックやサウンド、プレイヤビリティなどの点が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164909.html",
+        "date": "2026-03-10",
+        "is_translated": false
+      },
+      {
+        "title": "【講談社が「Slay the Spire 2」の発売を祝い「1日外出録ハンチョウ」の傑作“Sla...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "講談社の「Slay the Spire 2」の発売を記念して、ゲームの魅力を紹介するレビュー記事があります。このレビューでは、ゲームの評価ポイントとして、新しい要素の追加やゲームバランスの調整が行われている点が高く評価されています。また、ゲームのレビューの内容概要として、ゲームの難易度やリプレイ性が紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164897.html",
+        "date": "2026-03-10",
+        "is_translated": false
+      },
+      {
+        "title": "【人気“X-COM”ライク続編「Xenonauts 2」の製品版1.0ローンチが2026年4月2...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Xenonauts 2は、人気のX-COMライクゲームの続編として注目を集めています。このゲームの製品版1.0が2026年4月2日にローンチされることを受けて、レビュー記事ではゲームの評価ポイントや内容概要が紹介されています。レビューの内容概要としては、ゲームのストーリーやシステム、グラフィックの質などが取り上げられており、ゲームファンやX-COMシリーズの愛好家にとっては必読の記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164903.html",
+        "date": "2026-03-10",
+        "is_translated": false
+      },
+      {
+        "title": "【Fatal Frame 2 リメイク レビュー: 現代の慣習に反する古典ホラー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Fatal Frame 2 リメイクのレビュー記事では、ゲームの評価ポイントとして、現代のホラーゲームと比べて独自の古典的な恐怖感を提供していることが挙げられています。具体的には、恐ろしい状況でのプレーヤーの反応や、ゲームの雰囲気を高めるサウンドデザインなどが評価されています。また、ゲームのストーリーやキャラクターの深みもレビューの内容として取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/fatal-frame-2-remake-impressions/",
+        "date": "2026-03-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-09T21:33:22.271320"
+  "last_updated": "2026-03-10T01:55:06.482896"
 }
