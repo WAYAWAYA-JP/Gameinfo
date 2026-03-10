@@ -664,6 +664,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/555950",
         "date": "2026-03-10"
+      },
+      {
+        "title": "Hearts of Iron IV",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Hearts of Iron IVがSteamで70% OFFセール中です。このゲームは、第二次世界大戦を舞台にしたグランドストラテジーゲームであり、プレイヤーは国を運営して戦争を勝ち抜くことを目指します。通常価格よりも大幅に安くなっているこのセールは、特に戦略ゲームファンにとって魅力的です。Hearts of Iron IVは、ストーリー性や戦略的深度が高く評価されており。",
+        "price": "¥2,097",
+        "originalPrice": "¥6,990",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/394360",
+        "date": "2026-03-10"
       }
     ],
     "review": [
@@ -1225,8 +1237,60 @@
         "url": "https://www.inside-games.jp/article/2026/03/10/178413.html",
         "date": "2026-03-10",
         "is_translated": false
+      },
+      {
+        "title": "【イカダ漂流サバイバル『Raft』Steamにて突如「3年以上ぶりのアプデ」配信開始。ゲーム内ボ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Raftはイカダ漂流サバイバルゲームで、3年以上ぶりに大規模なアップデートが行われました。このゲームは、漂流しながら資源を集め、敵から身を守り、生き残ることを目標にします。評価ポイントとしては、ゲームの新しいシステムやアイテムの追加、グラフィックの向上などが挙げられます。レビューの内容概要としては、新しいアップデートによりゲームの面白さが増したこと、ゲームのバランスが良くなったこと。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260310-428084/",
+        "date": "2026-03-10",
+        "is_translated": false
+      },
+      {
+        "title": "【キャラガチャなし基本プレイ無料ARPG『デュエットナイトアビス』大型アプデで“超真面目黒髪長髪...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『デュエルトナイトアビス』は、キャラガチャがない基本プレイ無料のARPGで、最近の大型アップデートにより新しいキャラクターが追加されました。このゲームは、キャラメイクの自由度が高く、ユーザーが自分好みのキャラクターを作成できます。また、ゲームのストーリーは面白く、キャラクターの個性も豊かです。ゲームの評価ポイントとしては、キャラメイクの自由度、面白いストーリー。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260310-428044/",
+        "date": "2026-03-10",
+        "is_translated": false
+      },
+      {
+        "title": "【Corsair Sabre V2 Pro ワイヤレス CF レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Corsair Sabre V2 Pro ワイヤレス CF レビューでは、ハイスペックPCゲーマー向けのワイヤレスゲーミングマウスの評価ポイントとして、軽量化と高精度なセンシング、長時間のバッテリー寿命などの点が取り上げられています。このレビュー記事では、ゲーミングマウスの性能と操作性、またデザインと耐久性についても詳しく評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/corsair-sabre-v2-pro-wireless-cf-review/",
+        "date": "2026-03-10",
+        "is_translated": true
+      },
+      {
+        "title": "【プロジェクト・ヘイル・メアリーのレビュー: このアンディ・ウィアーの映画化は、あなたが期待して...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "プロジェクト・ヘイル・メアリーのレビュー記事では、このアンディ・ウィアーの映画化作品について評価しています。主な評価ポイントとして、ストーリーの独創性、キャラクターの深み、映画のテンポなどが挙げられます。記事では、ストーリーの展開やキャラクターの関係性について詳細に分析しています。此方の記事は、映画ファンやアンディ・ウィアーの作品を愛する人に向けて書かれており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/project-hail-mary-review-ryan-gosling/",
+        "date": "2026-03-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-10T09:42:52.650475"
+  "last_updated": "2026-03-10T13:16:50.897676"
 }
