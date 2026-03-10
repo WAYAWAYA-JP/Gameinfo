@@ -676,6 +676,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/394360",
         "date": "2026-03-10"
+      },
+      {
+        "title": "Balatro",
+        "platform": "Various",
+        "type": "sale",
+        "description": "バラトロは、バラエティ豊かなゲームであり、現在27パーセント割引セール中です。このゲームは、高評価を得ている人気タイトルであり、多くのユーザーから好評価を得ています。価格も割引されることでより手頃になりましたので、興味のある方はお求めください。",
+        "price": "$10.95",
+        "originalPrice": "",
+        "discount": "-27%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/balatro/info/",
+        "date": "2026-03-10"
       }
     ],
     "review": [
@@ -1289,8 +1301,60 @@
         "url": "https://www.polygon.com/project-hail-mary-review-ryan-gosling/",
         "date": "2026-03-10",
         "is_translated": true
+      },
+      {
+        "title": "【人気ライフシム続編「Cozy Grove: Camp Spirit」のSteam対応がアナウン...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気ライフシム続編「Cozy Grove: Camp Spirit」のSteam対応が発表されたことを受けて、レビュー記事が公開されています。このゲームは、ユーザーの評価ポイントとしてグラフィックやサウンドトラック、ストーリーの面白さが高く評価されています。レビューの内容概要としては、ゲームの雰囲気や操作性、ストーリーの深みなどが取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164922.html",
+        "date": "2026-03-10",
+        "is_translated": false
+      },
+      {
+        "title": "【剣闘士たちの戦いを描くローグライト闘技場シム「Bloodgrounds」の製品版1.0ローンチ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Bloodgrounds」は剣闘士たちの戦いを描くローグライト闘技場シムであり、このゲームの評価ポイントとしては、ゲームプレイの自由度や戦略的深みが高く、プレイヤーに多くの選択肢を提供している点が挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドデザインの高さや、シミュレーション要素の充実度が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164891.html",
+        "date": "2026-03-10",
+        "is_translated": false
+      },
+      {
+        "title": "【プレイアブルキャラクターの1人“Epione Spes”を紹介する「Warhammer 40,...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Warhammer 40,...のレビュー記事では、プレイアブルキャラクターの1人である「Epione Spes」を紹介しています。このゲームの評価ポイントとしては、キャラクターの多様性、ゲームプレイの奥深さ、グラフィックの質が高く評価されています。特に、キャラクターのバリエーションが豊富で、プレイヤーは自分の好みに合わせてキャラクターを選択することができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164892.html",
+        "date": "2026-03-10",
+        "is_translated": false
+      },
+      {
+        "title": "【Anthropic は Claude Code Review を導入しているため、自分の AI...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、Anthropic が導入している Claude Code Review について紹介しています。この機能により、自分の AI モデルがどのようにコードを生成するかを確認できます。記事では、コードの品質、セキュリティ、そして読みやすさという観点から評価しています。また、AI 開発者やプログラマーが参考にすることができる記事であると言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/software/ai/anthropic-introduces-claude-code-review-so-you-dont-even-need-to-check-all-of-your-own-ai-slop/",
+        "date": "2026-03-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-10T13:16:50.897676"
+  "last_updated": "2026-03-10T21:29:29.800755"
 }
