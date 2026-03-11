@@ -266,6 +266,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/humble15timecapsule_bundle",
         "date": "2026-03-10"
+      },
+      {
+        "title": "Skautfold Saga Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでのSkautfold Saga Bundleの販売が開始されています。このバンドルには、Skautfold：Shrouded WildsやSkautfold：Shrouded Wilds - Original Soundtrackなどのタイトルが含まれており、インディーゲームを楽しむファンにはおすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/skautfold-saga-bundle",
+        "date": "2026-03-11"
+      },
+      {
+        "title": "HHLast Echoes Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、HHLast Echoes Bundleのバンドルが販売中です。このバンドルには、主要タイトルとして「Last Echoes」、「The Last Hope」、「Echoes of the Past」などが含まれています。ジャンルはアクションアドベンチャーで、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/last-echoes-bundle",
+        "date": "2026-03-11"
       }
     ],
     "sale": [
@@ -1175,8 +1199,21 @@
         "url": "https://www.inside-games.jp/article/2026/03/11/178463.html",
         "date": "2026-03-11",
         "is_translated": false
+      },
+      {
+        "title": "【インテルの新しい「史上最速」デスクトップ CPU はゲームのパフォーマンスに再び焦点を当てる：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "インテルの新しいデスクトップCPUは史上最速と呼ばれており、ゲームのパフォーマンスに再び焦点を当てています。このレビュー記事では、新しいCPUの評価ポイントを中心に、ゲームのパフォーマンス、性能の向上、価格競争力などの点が評価されています。ゲーム愛好家や高性能PCを求めるユーザーにとって、このレビュー記事は新しいCPUの購入を検討する上で役立つ情報を提供します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/intels-new-fastest-ever-desktop-cpus-put-their-focus-back-on-game-performance",
+        "date": "2026-03-11",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-11T09:41:49.651019"
+  "last_updated": "2026-03-11T13:16:12.821770"
 }
