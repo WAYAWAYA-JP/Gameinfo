@@ -290,6 +290,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/last-echoes-bundle",
         "date": "2026-03-11"
+      },
+      {
+        "title": "Frictional Games: Amnesia, SOMA, Penumbra",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Frictional Gamesのバンドルが販売中です。このバンドルには、Amnesia、SOMA、Penumbraなど、ホラーとサバイバルホラーのジャンルを代表する主要タイトルが含まれています。大まかな価格帯は変動する可能性がありますが、通常は1,000円から2,000円程度です。ホラーゲームファンにはおすすめのバンドルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/frictionalgamesamnesiasomapenumbra_bundle",
+        "date": "2026-03-11"
+      },
+      {
+        "title": "Metroidvania Mayhem Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Metroidvania Mayhem Bundleが販売中です。このバンドルには、Axiom Verge 2、Blasphemous、Ori and the Blind Forestなど、メトロイドバニアジャンルの人気タイトルが収録されています。価格帯は約2,000円から約5,000円と幅がありますが、ゲームファンにとってはお得な買い物の機会となりそうです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/metroidvaniamayhembundle_bundle",
+        "date": "2026-03-11"
       }
     ],
     "sale": [
@@ -663,6 +687,18 @@
         "discount": "-25%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/deliver-at-all-costs/info/",
+        "date": "2026-03-11"
+      },
+      {
+        "title": "CRIMSON DESERT",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム『CRIMSON DESERT』がVariousで15%割引のセール中です。このゲームは、オープンワールドを自由に探索できることが特徴で、壮大なストーリーや美しいグラフィックが評価されています。ユーザーの評価は非常に高く、人気度も高いゲームです。セール期間中は、通常価格より15%安く購入することができますので、おすすめです。",
+        "price": "$59.19",
+        "originalPrice": "",
+        "discount": "-15%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/crimson-desert/info/",
         "date": "2026-03-11"
       }
     ],
@@ -1212,8 +1248,34 @@
         "url": "https://www.rockpapershotgun.com/intels-new-fastest-ever-desktop-cpus-put-their-focus-back-on-game-performance",
         "date": "2026-03-11",
         "is_translated": true
+      },
+      {
+        "title": "【Stardew Valleyやポケモン ダイアモンド・パールにインスパイアされた洞窟採掘ゲーム...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、Stardew Valleyやポケモン ダイアモンド・パールにインスパイアされた洞窟採掘ゲームを紹介しています。ゲームの評価ポイントとして、採掘システムや洞窟の探索の面白さが高く評価されています。また、ゲームのグラフィックやサウンドトラックも魅力的です。対象読者としては、Stardew Valleyやポケモンシリーズのファン、または洞窟採掘ゲームに興味がある人が適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164947.html",
+        "date": "2026-03-11",
+        "is_translated": false
+      },
+      {
+        "title": "【At Fate's End は GDC 2026 の最高のゲームです：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "At Fate's End は GDC 2026 で高い評価を受けたゲームです。このゲームの評価ポイントとしては、独自のゲームプレイスタイルや豊富なストーリーが挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの質が高く、プレイヤーに没入感を与えることができる点が強調されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/at-fates-end-preview-spiritfarer/",
+        "date": "2026-03-11",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-11T13:16:12.821770"
+  "last_updated": "2026-03-11T21:33:47.213633"
 }
