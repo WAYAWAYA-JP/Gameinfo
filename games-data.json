@@ -664,6 +664,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dead-space-2023/info/",
         "date": "2026-03-12"
+      },
+      {
+        "title": "Warhammer 40,000: Space Marine 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Warhammer 40,000: Space Marine 2がVariousで67%割引され、現在セール中です。このゲームはアクションパックされたサードパーソンシューティングゲームで、戦略的戦闘と壮大なストーリーが特徴です。ファンタジーとSF要素を組み合わせた独自の世界観が人気を博しており、ファンから高い評価を受けています。価格が大幅に割引されているので、興味がある方は今がチャンスです。",
+        "price": "$19.79",
+        "originalPrice": "",
+        "discount": "-67%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
+        "date": "2026-03-12"
       }
     ],
     "review": [
@@ -1160,8 +1172,34 @@
         "url": "https://www.inside-games.jp/article/2026/03/12/178503.html",
         "date": "2026-03-12",
         "is_translated": false
+      },
+      {
+        "title": "【サッカー“控え室”激務ゲーム『Kitman』発表。最大4人協力プレイで掃除洗濯スパイク磨き、ス...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このゲーム「Kitman」は、サッカーの控え室での激務を体験できるユニークなゲームです。最大4人で協力プレイが可能で、掃除や洗濯、スパイクの磨きなど、控え室での様々な作業を体験できます。レビューでは、そのユニークなゲーム性や協力プレイの面白さが高く評価されています。対象読者は、サッカーが好きな人やユニークなゲームを楽しむ人向けです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260312-428695/",
+        "date": "2026-03-12",
+        "is_translated": false
+      },
+      {
+        "title": "【Elden Ring Switch 2 のプレビューでは、実際にかなり優れたポートが示されています】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Elden Ring Switch 2のプレビューでは、実際にかなり優れたポートが示されていることがわかります。このゲームの評価ポイントとしては、グラフィックのクオリティ、ゲームプレイのスムーズさ、そしてストーリーの深さがあげられます。レビューの内容概要としては、Switch版でもPC版と同等のゲーム体験ができること、操作性が良好であること、そしてストーリーが引き付けられることが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/elden-ring-switch-2-preview/",
+        "date": "2026-03-12",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-12T09:42:00.827829"
+  "last_updated": "2026-03-12T13:16:35.261276"
 }
