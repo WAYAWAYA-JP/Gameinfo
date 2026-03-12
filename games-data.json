@@ -24,6 +24,30 @@
         "deadline": "2026年03月12日まで",
         "url": "https://store.epicgames.com/ja/p/000ff62d1877415589bb126e900a88e8",
         "date": "2026-03-12"
+      },
+      {
+        "title": "Cozy Grove",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Cozy Groveは、生活シミュレーションゲームで、プレイヤーが幽霊の住む島で生活するというユニークな設定が特徴です。このゲームの魅力は、島を復活させていくことで得られる成就感や、様々な幽霊と交流することができます。また、リラックスした雰囲気で遊ぶことができるのも魅力の一つです。現在、Epic Gamesプラットフォームで無料配布中なので、気軽に遊んでみることができます。",
+        "price": "無料",
+        "originalPrice": "¥15",
+        "discount": "100% OFF",
+        "deadline": "2026年03月19日まで",
+        "url": "https://store.epicgames.com/ja/p/cozy-grove",
+        "date": "2026-03-12"
+      },
+      {
+        "title": "Isonzo",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Isonzoは、Epic Gamesで現在無料配布中の、ファーストパーソン・シューティングゲームです。このゲームの特徴としては、第一次世界大戦を舞台にしたリアルな戦闘シーン、複数のプレイヤーが参加できるマルチプレイモード、そしてグラフィックとサウンドデザインの高いクオリティが挙げられます。プレイヤーは、歴史的な戦争シーンを体験し、戦略的なチームプレイを楽しむことができます。",
+        "price": "無料",
+        "originalPrice": "¥30",
+        "discount": "100% OFF",
+        "deadline": "2026年03月19日まで",
+        "url": "https://store.epicgames.com/ja/p/isonzo",
+        "date": "2026-03-12"
       }
     ],
     "bundle": [
@@ -676,6 +700,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
         "date": "2026-03-12"
+      },
+      {
+        "title": "NieR:Automata™",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションRPGゲームの『NieR:Automata』がSteamで60%オフのセール中です。このゲームは、美しいグラフィックと激しいアクションが特徴で、人間と機械の戦いを描いています。評価も非常に高く、人気度も高いゲームです。通常価格より大幅に安くなっているので、興味がある方はぜひこの機会に購入してみてください。",
+        "price": "¥2,112",
+        "originalPrice": "¥5,280",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/524220",
+        "date": "2026-03-12"
+      },
+      {
+        "title": "STAR WARS Jedi: Survivor™‎",
+        "platform": "Various",
+        "type": "sale",
+        "description": "STAR WARS Jedi: Survivorが現在、バリューに90%割引されて販売中です。このアクションアドベンチャーゲームは、スターウォーズシリーズのファンに人気があり、グラフィックやゲームプレイの質が高く評価されています。価格も割引されているため、興味がある方はぜひこの機会にチェックしてみてください。",
+        "price": "$6.99",
+        "originalPrice": "",
+        "discount": "-90%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/star-wars-jedi-survivor/info/",
+        "date": "2026-03-12"
+      },
+      {
+        "title": "DOOM: The Dark Ages",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションパックされたFPSゲームであるDOOM: The Dark AgesがVariousで現在72%オフのセール中です。このゲームは、激しい戦闘と暗い雰囲気で知られており、ファンからは高く評価されています。価格も割引により大幅に下がっているので、興味のある方はお試しください。",
+        "price": "$19.87",
+        "originalPrice": "",
+        "discount": "-72%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/doom-the-dark-ages/info/",
+        "date": "2026-03-12"
       }
     ],
     "review": [
@@ -1198,8 +1258,34 @@
         "url": "https://www.polygon.com/elden-ring-switch-2-preview/",
         "date": "2026-03-12",
         "is_translated": true
+      },
+      {
+        "title": "【6つのモードと4種のマップがプレイできる「Battlefield 6」のフリートライアルがまも...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Battlefield 6」のフリートライアル版についてのレビュー記事があります。このゲームは6つのモードと4種のマップをプレイすることができ、戦略性とアクションが求められます。ゲームの評価ポイントとしては、グラフィックの質とゲームプレイのスムーズさが高く評価されています。また、レビューではマルチプレイヤー機能とシングルプレイヤー機能の両方が充実していることも強調されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164989.html",
+        "date": "2026-03-12",
+        "is_translated": false
+      },
+      {
+        "title": "【ボクセルサンドボックス破壊ゲーム「Teardown」のマルチプレイヤーが遂に実装、ローンチトレ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ボクセルサンドボックス破壊ゲーム「Teardown」のマルチプレイヤー機能が実装され、ローンチトレーラーも公開されました。このゲームの評価ポイントとしては、破壊の自由度やマルチプレイヤーでの遊び応えが挙げられます。レビューの内容概要としては、破壊のリアルさやマルチプレイヤーでの戦略性が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164950.html",
+        "date": "2026-03-12",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-12T13:16:35.261276"
+  "last_updated": "2026-03-12T21:32:55.187177"
 }
