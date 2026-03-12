@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Idle Champions of the Forgotten Realms",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Idle Champions of the Forgotten Realmsは、Epic Gamesで現在無料配布中のゲームです。このゲームは、アイドルゲームのジャンルに分類され、プレイヤーがキャラクターを集めてパーティーを編成し、自動で戦闘を行うことが特徴です。また、 Forgotten Realmsの世界を舞台にしていることや。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年03月12日まで",
+        "url": "https://store.epicgames.com/ja/p/idle-champions-of-the-forgotten-realms",
+        "date": "2026-03-12"
+      },
+      {
+        "title": "Turnip Boy Robs a Bank",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Turnip Boy Robs a Bankは、Epic Gamesで無料配布中のアクションアドベンチャーゲームです。このゲームの特徴は、ユーモラスなグラフィックと面白いストーリーがあり、プレイヤーはターンニップ・ボーイを操作して銀行を襲撃します。また、ゲームのシステムはシンプルですが、チャレンジングなステージデザインが楽しめます。さらに、ゲームの雰囲気は軽快で、プレイヤーを楽しませます。",
+        "price": "無料",
+        "originalPrice": "¥14",
+        "discount": "100% OFF",
+        "deadline": "2026年03月12日まで",
+        "url": "https://store.epicgames.com/ja/p/000ff62d1877415589bb126e900a88e8",
+        "date": "2026-03-12"
+      }
+    ],
     "bundle": [
       {
         "title": "Love You to Death Bundle",
@@ -253,6 +278,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/metroidvaniamayhembundle_bundle",
         "date": "2026-03-11"
+      },
+      {
+        "title": "Focus Entertainment Bundle 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble BundleでFocus Entertainment Bundle 2026が販売中です。このバンドルには、A Plague TaleシリーズやGreensdaleシリーズなどの主要タイトルが含まれています。アクションアドベンチャーやストラテジーなどのジャンルが収録されており、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/focusentertainmentbundle2026_bundle",
+        "date": "2026-03-12"
       }
     ],
     "sale": [
@@ -578,6 +615,54 @@
         "discount": "-53%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
+        "date": "2026-03-12"
+      },
+      {
+        "title": "Slay the Spire",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Slay the SpireがSteamで大きなセール中です。このゲームは、ローグライクとデッキビルディングの要素を組み合わせた、独特なゲームプレイを提供するロールプレイングゲームです。通常価格より75%オフで提供されており、非常に魅力的です。ユーザーの評価は非常に高い人気ゲームで、Steamでの評価は「非常に好評」です。",
+        "price": "¥700",
+        "originalPrice": "¥2,800",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/646570",
+        "date": "2026-03-12"
+      },
+      {
+        "title": "Cities: Skylines",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Cities: Skylinesは、都市計画シミュレーションゲームの一つで、都市の設計と管理をプレイヤーに任せるという特徴があります。現在、Steamではこのゲームが90%オフのセール中です。評価は非常に高く、ユーザーから高い人気度を誇り、シミュレーションゲームファンには必携のタイトルとなっています。この機会に、低価格で体験することができます。",
+        "price": "¥399",
+        "originalPrice": "¥3,990",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/255710",
+        "date": "2026-03-12"
+      },
+      {
+        "title": "Crusader Kings III",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Crusader Kings IIIがSteamで70% OFFセール中です。このゲームは、ストラテジーとシミュレーションを融合させた中世を舞台にしたグランドストラテジーゲームで、プレイヤーは中世の貴族となり、権力と富を求めて戦略を立てていきます。評価は非常に高く、レビュアーから高い評価を得ています。通常価格よりも大幅に安くなっているので、購入するのに最適な機会です。",
+        "price": "¥2,097",
+        "originalPrice": "¥6,990",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1158310",
+        "date": "2026-03-12"
+      },
+      {
+        "title": "Dead Space (2023)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Dead Space（2023）がVariousで85％オフのセール中で、サバイバルホラーゲームとして人気があり、非常に評価の高い作品です。",
+        "price": "$8.99",
+        "originalPrice": "",
+        "discount": "-85%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dead-space-2023/info/",
         "date": "2026-03-12"
       }
     ],
@@ -1010,8 +1095,73 @@
         "url": "https://doope.jp/2026/03164945.html",
         "date": "2026-03-12",
         "is_translated": false
+      },
+      {
+        "title": "【「ゆるキャン△」のマルチ対応ゲーム『ゆるキャン△ みんなでワチャワチャ！キャンピングクック！』...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ゆるキャン△のマルチ対応ゲーム『ゆるキャン△ みんなでワチャワチャ！キャンピングクック！』のレビュー記事では、ゲームの評価ポイントとして、キャラクターの愛らしさやキャンプの雰囲気の再現度が高いことが挙げられています。また、ゲームのレビューでは、簡単な操作で楽しめるクッキングバトルや、キャラクター同士の会話のやり取りが面白いという点が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/laid-back-camp-20260312-428596/",
+        "date": "2026-03-12",
+        "is_translated": false
+      },
+      {
+        "title": "【Bloober Teamが開発を手がけたリメイク版「SILENT HILL 2」の累計プレイヤ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Bloober Teamが開発を手がけたリメイク版「SILENT HILL 2」のレビュー記事では、ゲームの評価ポイントとしてグラフィックの向上やサウンドデザインの効果的な使用があげられます。また、ストーリーやキャラクターの深みも高く評価されています。このレビューは、ホラーゲームファンやオリジナル版をプレイしたことがある人のほか、サバイバルホラーゲームに興味がある人にも読んでみる価値があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164977.html",
+        "date": "2026-03-12",
+        "is_translated": false
+      },
+      {
+        "title": "【傑作ネコ育成ローグライク「Mewgenics」の小規模な第1弾DLCは300種を超えるアビリテ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Mewgenics」の小規模な第1弾DLCのレビューでは、このゲームの評価ポイントとして、300種を超えるアビリティが追加されたことや、ゲームの自由度が高まったことを挙げています。また、レビューの内容概要として、ローグライクゲームとしての魅力や、ネコの育成要素が充実している点が紹介されています。このレビューは、ローグライクゲームやネコが好きな人に向けて。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164955.html",
+        "date": "2026-03-12",
+        "is_translated": false
+      },
+      {
+        "title": "【『Doki Doki Literature Club!（ドキドキ文芸部！）』に政府機関が注意喚...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム「Doki Doki Literature Club!（ドキドキ文芸部！）」について取り上げています。政府機関がこのゲームに注意を喚起した理由や、その内容について評価しています。特に、ゲームのストーリーやキャラクター、そしてプレイヤーへの心理的影響について触れています。ゲーム好きや心理学に興味のある読者に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/12/178510.html",
+        "date": "2026-03-12",
+        "is_translated": false
+      },
+      {
+        "title": "【リメイク版『SILENT HILL 2』全世界累計プレイヤー数“500万人”突破！PSストアで...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "リメイク版『SILENT HILL 2』は全世界で500万人以上がプレイしており、PSストアでの評価ポイントは高く、レビューの内容概要としては、グラフィックの向上や新しいゲームシステムの導入が高く評価されています。また、ストーリーやサウンドトラックも好評であり、ホラーゲームファンやアクションゲームファンにとっては必-playのタイトルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/12/178503.html",
+        "date": "2026-03-12",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-12T02:01:00.881445"
+  "last_updated": "2026-03-12T09:42:00.827829"
 }
