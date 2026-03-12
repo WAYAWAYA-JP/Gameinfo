@@ -1,68 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Boxes: Lost Fragments",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Boxes: Lost Fragmentsは、パズルゲームジャンルの無料ゲームで、複数の箱をうまく並べて、ゴール地点までたどり着くことを目指します。このゲームの特徴は、箱を正しく配置することで、新しい道が開拓され、ストーリーが進展することです。また、箱を組み合わせることで、様々なパターンが可能になり、プレイヤーの創造性が試される魅力があります。",
-        "price": "無料",
-        "originalPrice": "¥14",
-        "discount": "100% OFF",
-        "deadline": "2026年03月05日まで",
-        "url": "https://store.epicgames.com/ja/p/a9ef6e969aa249ef936923216909d747",
-        "date": "2026-03-05"
-      },
-      {
-        "title": "My Night Job",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "My Night Jobは、放棄された建物の中でモンスターの大群と戦うアクションゲームです。60以上の武器を使用して身を守り、生存者を救うことができます。ただし、部屋の破壊に注意しながら戦う必要があります。ゲームの特徴として、多種多様な武器や部屋の破壊による緊張感、そして生存者の救出による成就感があります。このゲームは、PCプラットフォームで配布されており、ファンはそこで遊ぶことができます。",
-        "price": "無料",
-        "originalPrice": "¥9",
-        "discount": "100% OFF",
-        "deadline": "2026年03月05日まで",
-        "url": "https://store.epicgames.com/ja/p/bce593b9b8754aa595ae4123f36ad4a9",
-        "date": "2026-03-05"
-      },
-      {
-        "title": "Idle Champions of the Forgotten Realms",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Epic Gamesでは、 Idle Champions of the Forgotten Realmsが無料で配布されています。このゲームは、ロールプレイングゲームとストラテジーの要素を組み合わせた、アイドルゲームです。特徴的なのは、自動で進行する戦闘システムと、さまざまなキャラクターを集めてパーティーを編成できる点です。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年03月12日まで",
-        "url": "https://store.epicgames.com/ja/p/idle-champions-of-the-forgotten-realms",
-        "date": "2026-03-05"
-      },
-      {
-        "title": "Turnip Boy Robs a Bank",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Turnip Boy Robs a Bankは、ユーモア溢れるアクションゲームで、プレイヤーがターニップボーイというキャラクターを操作して銀行を強盗するという、ユニークなコンセプトを持っています。このゲームの特徴は、コミカルなグラフィックと面白いストーリーが楽しめることです。また、簡単ながらも挑戦的なゲームプレイが魅力です。",
-        "price": "無料",
-        "originalPrice": "¥14",
-        "discount": "100% OFF",
-        "deadline": "2026年03月12日まで",
-        "url": "https://store.epicgames.com/ja/p/000ff62d1877415589bb126e900a88e8",
-        "date": "2026-03-05"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Focus Entertainment Bundle 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble BundleでFocus Entertainment Bundle 2026が販売中です。このバンドルには、A Plague TaleシリーズやGreenville、SnowRunnerなどの主要タイトルが含まれており、ストラテジーやアクション、アドベンチャーなどのジャンルが網羅されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/focusentertainmentbundle2026_bundle",
-        "date": "2026-03-02"
-      },
       {
         "title": "Love You to Death Bundle",
         "platform": "Humble Bundle",
@@ -317,78 +256,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Esoteric Ebb",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Esoteric Ebbは、アドベンチャーゲームの一つで、不思議な世界を探索することが特徴です。現在、Variousで20%割引されているため、通常価格より安く購入できます。ユーザーの評価は高く、人気度も高いゲームのようです。",
-        "price": "$19.95",
-        "originalPrice": "",
-        "discount": "-20%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/esoteric-ebb/info/",
-        "date": "2026-03-05"
-      },
-      {
-        "title": "Potion Craft: Alchemist Simulator",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Potion Craft: Alchemist SimulatorがSteamで60% OFFセール中です。このゲームは、プレイヤーが薬剤師となり、様々なポーションを作り上げていくシミュレーションゲームです。ゲームの特徴としては、ポーションのレシピを研究し、材料を調達して作り上げていくことで、自分の店を繁盛させていくことができます。評価は非常に高く、ユーザーから高い人気度を得ています。",
-        "price": "¥920",
-        "originalPrice": "¥2,300",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1210320",
-        "date": "2026-03-05"
-      },
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームであるStrayが、現在Variousで43%割引されています。このゲームは、猫の主人公が異世界でさまざまなキャラクターと出会い、協力して冒険するというユニークなストーリーが特徴です。評価も非常に高い人気ゲームで、ファンから高い評価を得ています。",
-        "price": "$16.99",
-        "originalPrice": "",
-        "discount": "-43%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-03-05"
-      },
-      {
-        "title": "Slay the Spire",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Slay the SpireがSteamで75%OFFのセール中です。このゲームは、ローグライクとカードゲームを融合させた独特のジャンルで、プレイヤーはカードを駆使してダンジョンを攻略していきます。現在の価格は大幅に割引されており、非常に魅力的なオファーとなっています。Slay the Spireは、ユーザーからの評価が非常に高く、人気度も高いゲームです。",
-        "price": "¥700",
-        "originalPrice": "¥2,800",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/646570",
-        "date": "2026-03-05"
-      },
-      {
-        "title": "Cities: Skylines",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Cities: Skylinesは、都市計画シミュレーションゲームです。 Steamでは現在、90%OFFのセール中で、通常価格より大幅に安くなっています。このゲームは、プレイヤーが自らの都市を計画し、開発することができます。高い自由度とリアルな都市の再現が特徴で、シミュレーションゲームファンから高い評価を受けています。",
-        "price": "¥399",
-        "originalPrice": "¥3,990",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/255710",
-        "date": "2026-03-05"
-      },
-      {
-        "title": "COCOON",
-        "platform": "Various",
-        "type": "sale",
-        "description": "COCOONがVariousで58%オフのセール中です。このゲームはアクションアドベンチャー系のジャンルで、ユニークなグラフィックと面白いストーリーが特徴です。通常価格より大幅に安くなっているので、興味がある方はおすすめです。ユーザーの評価も高い人気ゲームとなっています。",
-        "price": "$10.58",
-        "originalPrice": "",
-        "discount": "-58%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cocoon/info/",
-        "date": "2026-03-05"
-      },
       {
         "title": "Tom Clancy’s The Division® 2",
         "platform": "Steam",
@@ -700,165 +567,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/crimson-desert/info/",
         "date": "2026-03-11"
+      },
+      {
+        "title": "Monster Hunter Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "モンハンシリーズの最新作「Monster Hunter Wilds」が、現在Variousで53%オフのセール中です。このゲームは、アクションパックされたハンティングゲームで、巨大なモンスターと戦う爽快感が特徴です。価格も割引により大幅に下がっており、シリーズファンや新規プレイヤーにとってはおすすめの買い時です。",
+        "price": "$32.89",
+        "originalPrice": "",
+        "discount": "-53%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
+        "date": "2026-03-12"
       }
     ],
     "review": [
-      {
-        "title": "【『ぽこ あ ポケモン』、「ヤドンのあくび点数上げ」が進まないと一部で悲鳴。71点、74点などや...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ポケモンのゲーム「ぽこ あ ポケモン」のレビュー記事では、このゲームの評価ポイントとしてヤドンのあくび点数上げの進み方が挙げられています。この点数が上がらないとゲームが進まないため、 一部のプレイヤーから悲鳴が上がっています。レビューでは71点や74点など、さまざまな点数がつけられており、ゲームの面白さや難易度についても言及しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260307-426953/",
-        "date": "2026-03-07",
-        "is_translated": false
-      },
-      {
-        "title": "【ランドクルーザーで日本の美しい自然を駆け抜ける「Forza Horizon 6」の新トレーラー...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Forza Horizon 6」の新トレーラーが公開されました。このゲームでは、ランドクルーザーで日本の美しい自然を駆け抜けることができます。レビューでは、グラフィックの美しさ、操作のスムーズさ、そして日本の風景を再現した緻密な世界観が評価されています。特に、リアルな天気や時間帯の変化が、プレイヤーに臨場感を与えることが強調されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164834.html",
-        "date": "2026-03-07",
-        "is_translated": false
-      },
-      {
-        "title": "【「Call of Duty: Black Ops 7」シーズン02リローデッドの新マルチプレイ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Call of Duty: Black Ops 7」のシーズン02リローデッドの新マルチプレイヤーモードのレビュー記事では、ゲームの評価ポイントとしてグラフィックの向上や新しいマップの追加が挙げられています。また、レビューの内容概要として、ゲームのバランスが良く、プレイヤーに幅広い選択肢を提供していることが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164859.html",
-        "date": "2026-03-07",
-        "is_translated": false
-      },
-      {
-        "title": "【待望のローンチを果たした「Slay the Spire 2」の初日同時接続者数が43万人を突破：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Slay the Spire 2」のローンチ日に、43万人を超えるプレイヤーが同時にゲームに接続しました。このゲームは、初日から大きな注目を集めました。レビューでは、ゲームの評価ポイントとして、戦略的なゲームプレイ、独自のカードシステム、そして多様なキャラクターの存在が挙げられています。さらに、ゲームのグラフィックやサウンドトラックも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164844.html",
-        "date": "2026-03-07",
-        "is_translated": false
-      },
-      {
-        "title": "【PS5とNintendo Switch 2版「South of Midnight」の発売日が3...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "PS5とNintendo Switchの新作ゲーム「South of Midnight」の発売日が3月に決まりました。このゲームは、グラフィックやサウンド、ゲームプレイの面で高い評価を受けています。特に、不気味な雰囲気を醸し出すグラフィックや、緊張感を高めるサウンドデザインが評価されています。さらに、ゲームプレイの自由度が高く、プレイヤーが自分の好みに合わせてゲームを進めることができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164854.html",
-        "date": "2026-03-07",
-        "is_translated": false
-      },
-      {
-        "title": "【動物脱獄RPG『Back to the Dawn 〜ブレイク･ザ･アニマル･プリズン〜』で“規...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "動物脱獄RPG『Back to the Dawn 〜ブレイク･ザ･アニマル･プリズン〜』のレビュー記事では、ゲームの評価ポイントとして、ストーリーの面白さ、キャラクターの魅力、ゲームプレイの自由度が高く評価されています。ゲームの世界観やグラフィックの美しさも称賛されています。このレビューは、動物を主人公としたゲームに興味がある人や、脱獄シミュレーションゲームのファンにとって参考になります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/back-to-the-dawn-switch-20260307-426996/",
-        "date": "2026-03-07",
-        "is_translated": false
-      },
-      {
-        "title": "【『Counter-Strike 2』ドイツでは「ガチャの中身を見てから開封してもらう」仕様に。...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Counter-Strike 2』は、ドイツでは「ガチャの中身を見てから開封してもらう」仕様になっています。このゲームは、グラフィックの向上や新しいゲームモードの追加など、多くの改良点があります。レビューでは、このゲームの新しい機能やグラフィックの質について触れています。ガチャシステムの変更も注目されており、ゲームの収益化戦略について議論されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/counter-strike-2-20260307-427191/",
-        "date": "2026-03-07",
-        "is_translated": false
-      },
-      {
-        "title": "【舞台の大きな変化と続編の制作に焦点を当てる「CONTROL Resonant」の開発映像が公開：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「CONTROL Resonant」の開発映像を紹介しています。開発映像では、舞台の大きな変化と続編の制作に焦点を当てています。ゲームの評価ポイントとして、ストーリーの展開やグラフィックの品質が挙げられます。また、レビューでは、ゲームの世界観やキャラクターの深みも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164836.html",
-        "date": "2026-03-07",
-        "is_translated": false
-      },
-      {
-        "title": "【塹壕掘りや建築要素を持つ兵科ベースの第一次世界大戦シューター「Over The Top: WW...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "本記事は、第一次世界大戦を舞台にしたシューティングゲーム「Over The Top: WW...」のレビューです。このゲームは、塹壕掘りや建築要素を備えた兵科ベースのゲームプレイが特徴です。評価ポイントとしては、戦略的なゲームプレイ、グラフィックのレベル、サウンドデザインのリアルさなどが挙げられます。対象読者は、第一次世界大戦やシューティングゲームに興味がある方や。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164866.html",
-        "date": "2026-03-07",
-        "is_translated": false
-      },
-      {
-        "title": "【“奈須きのこ”や“イシイジロウ”絶賛の『パラノマサイト』、待望の続編はユーザーの期待に応えたの...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "人気ゲーム「パラノマサイト」の続編が発売され、ユーザーの期待に応えていることがわかりました。ゲームの評価ポイントとしては、ストーリーの深みや新しいシステムの導入が挙げられます。レビューの内容概要としては、続編が前作の良さを引き継いでいることや、新しい要素が加わっていることを評価しています。このレビューは、ゲームファンやシリーズの愛好家にとって参考になる情報を提供しているので。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/07/178280.html",
-        "date": "2026-03-07",
-        "is_translated": false
-      },
-      {
-        "title": "【『バイオハザード レクイエム』プレイヤーが好む主人公は、圧倒的に「レオン」！ しかし、グレース...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "バイオハザードシリーズの最新作「バイオハザード レクイエム」のレビュー記事では、プレイヤーが好む主人公は圧倒的にレオンであると述べられています。しかしその記事では、主人公の選択肢やゲームのストーリー展開などについても触れています。このレビュー記事は、バイオハザードシリーズのファンやアクションアドベンチャーゲームを好む読者にとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/07/178298.html",
-        "date": "2026-03-07",
-        "is_translated": false
-      },
-      {
-        "title": "【「死んだおばあちゃんに恋をしている」レビュー: 思った以上に攻撃的】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事は、「死んだおばあちゃんに恋をしている」というゲームについて、思った以上に攻撃的であると評価しています。ゲームの評価ポイントとしては、ゲームの独特な世界観やキャラクターの深みなどが挙げられます。レビューの内容概要としては、ゲームのストーリーやゲームプレイの面白さ、そしてその独特な要素について触れています。この記事は、ゲームファンやこのゲームに興味がある方におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/im-in-love-with-your-dead-grandmother-impressions/",
-        "date": "2026-03-07",
-        "is_translated": true
-      },
       {
         "title": "【『ぽこ あ ポケモン』を遊んでいると泣きそうになる。『炎姫』は爽快3Dアクション。『Tilin...：レビュー】",
         "platform": "AUTOMATON",
@@ -1274,8 +997,21 @@
         "url": "https://www.polygon.com/at-fates-end-preview-spiritfarer/",
         "date": "2026-03-11",
         "is_translated": true
+      },
+      {
+        "title": "【次世代“Xbox”コンソール「Project Helix」のアルファ版開発キット提供時期を含む...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Xboxコンソール「Project Helix」のアルファ版開発キットについてのレビュー記事があります。この記事では、開発キットの提供時期や、ゲームの評価ポイントなどについて詳しく紹介しています。具体的には、グラフィックの高さや新しいコントローラーの操作感などについて評価しています。ゲーム開発者やXboxシリーズのファンにとって、興味深い情報が得られると思います。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164945.html",
+        "date": "2026-03-12",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-11T21:33:47.213633"
+  "last_updated": "2026-03-12T02:01:00.881445"
 }
