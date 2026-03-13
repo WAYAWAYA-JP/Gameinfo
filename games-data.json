@@ -278,6 +278,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/focusentertainmentbundle2026_bundle",
         "date": "2026-03-12"
+      },
+      {
+        "title": "Multiplayer Madness 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Multiplayer Madness 2026というバンドルが販売中です。このバンドルには、Among Us、Jackbox Party Pack、Keep Talking and Nobody Explodesなどのタイトルが含まれています。ジャンルは主にマルチプレイヤーゲームで、協力プレイやパーティーゲームが中心です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/multiplayermadness2026_bundle",
+        "date": "2026-03-13"
       }
     ],
     "sale": [
@@ -1404,8 +1416,60 @@
         "url": "https://www.polygon.com/best-games-gdc-2026/",
         "date": "2026-03-13",
         "is_translated": true
+      },
+      {
+        "title": "【『サカつく2026』Ver.1.2は大改修アプデ、快適性ぐんと向上＆ガチャのピックアップ確率ア...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『サカつく2026』Ver.1.2は、大規模な更新により快適性が大幅に向上しています。また、ガチャのピックアップ確率が上がったことでも注目されています。このゲームは、サッカーをテーマにしたシミュレーションゲームで、ユーザーはチームを運営して勝利を目指します。ゲームの評価ポイントとしては、操作性の向上や新しい機能の追加が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260313-429153/",
+        "date": "2026-03-13",
+        "is_translated": false
+      },
+      {
+        "title": "【巨大ロボットと共に灼熱の世界を生きぬくサバイバルRPG「Hello Sunshine」のゲーム...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Hello Sunshine」は、巨大ロボットと共に灼熱の世界でサバイバルを繰り広げるRPGゲームです。このゲームの評価ポイントとして、独自の世界観やロボットとの連携プレイが挙げられます。レビューの内容は、ゲームのストーリーや操作性、グラフィックの美しさに焦点が当てられています。ロボットアクションやサバイバル要素が好きな読者に特にオススメ出来るゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165019.html",
+        "date": "2026-03-13",
+        "is_translated": false
+      },
+      {
+        "title": "【Xbox フル スクリーン エクスペリエンスは、Project Helix がどのように機能す...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Xboxのフルスクリーンエクスペリエンスを提供するProject Helixについてのレビュー記事は、ゲームのグラフィックやサウンド、操作性などの評価ポイントを網羅しています。このレビューでは、Project Helixの利点と欠点を明確にし、Xboxユーザーにとっての利便性や魅力についても言及しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/xbox-full-screen-experience-shows-a-potential-glimpse-of-how-project-helix-will-work-though-right-now-its-a-flawed-pc-platform",
+        "date": "2026-03-13",
+        "is_translated": true
+      },
+      {
+        "title": "【QPAD Mark Model 3 ゲーミングマウスレビュー：画面はかわいいがマウスは中途半端】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "QPAD Mark Model 3 ゲーミングマウスのレビュー記事では、中途半端な性能が課題となっていることが指摘されています。具体的には、マウスのデザインは美しく、画面の表示もきれいですが、実際の使用感や性能がやや物足りないと感じることがあります。ゲーミングマウスを探している人や、高性能のマウスに不満を感じている人には、参考になる記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/qpad-mark-model-3-gaming-mouse-review",
+        "date": "2026-03-13",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-13T13:14:25.149079"
+  "last_updated": "2026-03-13T21:33:21.813331"
 }
