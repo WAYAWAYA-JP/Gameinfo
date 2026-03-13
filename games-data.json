@@ -52,42 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Love You to Death Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Love You to Death Bundleのバンドルが現在販売中です。このバンドルには、\"Doki Doki Literature Club!\"や\"Amnesia: Rebirth\"などの主要タイトルが含まれています。ジャンルは主にアドベンチャーやホラーゲームに分類されるようです。大まかな価格帯は約2,000円から約4,000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/loveyoutodeathbundle_bundle",
-        "date": "2026-03-03"
-      },
-      {
-        "title": "Hentai Pair Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Hentai Pair Bundleと呼ばれるバンドルが現在販売中です。このバンドルには、Hentai Pussy、Hentai Pussy 2、Hentai Pussy 3などの主要タイトルが含まれており、ジャンルはアダルトゲームに分類されます。大まかな価格帯は約10ドルと非常に手頃な価格設定になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/hentai-pair-bundle",
-        "date": "2026-03-03"
-      },
-      {
-        "title": "March 2026 Humble Choice",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、2026年3月のHumble Choiceバンドルが販売中です。このバンドルには、主要タイトルとして「The Outer Worlds」や「Cyberpunk 2077」などの人気ゲームが含まれています。ジャンルはアクションやロールプレイングゲームが中心です。大まかな価格帯は、約1,000円から2,000円程度と予想されます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/march_2026_choice",
-        "date": "2026-03-03"
-      },
-      {
         "title": "Best of Boomer Shooters 5: Penta Boom",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -317,54 +281,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Tom Clancy’s The Division® 2",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Tom Clancy’s The Division 2は、オープンワールドのアクションRPGゲームです。このゲームは、ワシントンD.C.を舞台に、プレイヤーがエージェントとなり、都市を混沌から守るために戦います。現在、Steamで90%オフのセール中となっており、非常に魅力的な価格で購入することができます。ユーザーの評価は非常に高く、人気度も高いゲームであり、ファンから高い評価を得ています。",
-        "price": "¥418",
-        "originalPrice": "¥4,180",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2221490",
-        "date": "2026-03-06"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33がVariousで-16%セール中です。このゲームはアドベンチャーとパズル要素を兼ね備えたユニークな体験を提供し、プレイヤーたちは未知の世界を探索し、謎を解くために挑戦します。一般的には好評で、ユーザーからは高評価を受けていますが、セール期間中は16%割引で購入することができます。",
-        "price": "$41.95",
-        "originalPrice": "",
-        "discount": "-16%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-03-06"
-      },
-      {
-        "title": "Marathon",
-        "platform": "Various",
-        "type": "sale",
-        "description": "マラソンの様々なゲームがセール中で、17%割引になっています。このシリーズはアクションパックされたFPSゲームとして知られており、プレイヤーは激しい戦闘に挑むことができます。セール中の価格で購入することで、格安でプレイすることができます。マラソンのゲームは、ゲームファンから高い評価を得ており、人気度も高いので、セール中のこの機会を逃さないでください。",
-        "price": "$33.39",
-        "originalPrice": "",
-        "discount": "-17%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/marathon/info/",
-        "date": "2026-03-06"
-      },
-      {
-        "title": "Valheim",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "スサノオ系アクションゲームであるValheimがSteamで50%オフのセール中です。このゲームは、北欧神話を題材に、プレイヤーがさまざまなクエストをこなしながら、世界を探索することができます。バトルシステムやキャラクターのカスタマイズも魅力の一つです。現在のセールでは、大幅な50%の割引が適用されており、通常価格よりもかなり安く購入することができます。",
-        "price": "¥1,295",
-        "originalPrice": "¥2,590",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/892970",
-        "date": "2026-03-06"
-      },
       {
         "title": "Heart of the Machine ハート・オブ・ザ・マシーン  ",
         "platform": "Steam",
@@ -736,22 +652,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/doom-the-dark-ages/info/",
         "date": "2026-03-12"
+      },
+      {
+        "title": "Isonzo",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ファーストパーソン・シューティングゲームであるIsonzoが現在、Variousで100%割引されています。このゲームは、第一次世界大戦を題材とし、史実に基づいた戦闘やグラフィックを特徴としています。ユーザーの評価は高く、ゲームのリアルさや戦略的な要素が人気の理由となります。現在のセールでは、完全に無料でプレイすることができ、戦術的な戦闘や歴史的なシナリオを体験することができます。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/isonzo/info/",
+        "date": "2026-03-13"
       }
     ],
     "review": [
-      {
-        "title": "【『ぽこ あ ポケモン』を遊んでいると泣きそうになる。『炎姫』は爽快3Dアクション。『Tilin...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、様々なゲームの評価ポイントを紹介しています。『ぽこ あ ポケモン』は感動的な要素があり、プレイヤーを泣きそうにするほどの感動を与えてくれるようです。一方、 『炎姫』は爽快な3Dアクションが特徴です。対象読者は、ゲーム好きの方や新作ゲームを楽しみにしている方など、幅広い層が対象です。このレビュー記事では、ゲームの魅力を伝える内容が中心となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260308-427433/",
-        "date": "2026-03-08",
-        "is_translated": false
-      },
       {
         "title": "【コロニーシムとダンジョンクローラーを組み合わせたダークファンタジーストラテジー「Dungeon...：レビュー】",
         "platform": "doope!",
@@ -1284,8 +1199,60 @@
         "url": "https://doope.jp/2026/03164950.html",
         "date": "2026-03-12",
         "is_translated": false
+      },
+      {
+        "title": "【トランプ米政権、今度は任天堂の『Wii Sports』映像を“イラン攻撃の空爆映像”と組み合わ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "トランプ米政権は、任天堂の『Wii Sports』の映像をイラン攻撃の空爆映像と組み合わせて発表しました。これについてのレビュー記事では、映像の組み合わせが不適切であることや、政権の信頼性が低下する可能性があること、そしてこのような行為が国際関係に与える影響について言及しています。このレビュー記事は、政治や国際関係に興味がある読者や、任天堂のゲームファンにとって参考になります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260313-428810/",
+        "date": "2026-03-13",
+        "is_translated": false
+      },
+      {
+        "title": "【高い評価を獲得したオープンワールドRPG「Dread Delusion」のコンソール版ローンチ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "高い評価を獲得したオープンワールドRPG「Dread Delusion」のコンソール版ローンチのレビュー記事では、ゲームの自由度の高さ、独特なゲーム世界の魅力、そしてストーリーの深みが評価ポイントとして高く評価されています。また、レビューではゲームシステムやグラフィックの質も触れられており、オープンワールドRPGファンや新しいゲーム体験を求めるユーザーにとっては必読の記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165004.html",
+        "date": "2026-03-13",
+        "is_translated": false
+      },
+      {
+        "title": "【太陽系の第9惑星を探索する新作Sci-Fiアドベンチャー「Aphelion」のリリースが4月2...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "新作のSci-Fiアドベンチャーゲーム「Aphelion」は、太陽系の第9惑星を探索する内容です。このゲームの評価ポイントとしては、独自の世界観やストーリー展開があげられます。レビューの内容概要としては、ゲームのグラフィックの美しさや、探索の自由度の高さが評価されています。対象読者は、Sci-Fiやアドベンチャーゲームが好きな人や、新しいゲームを探している人にすすめられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165003.html",
+        "date": "2026-03-13",
+        "is_translated": false
+      },
+      {
+        "title": "【“D＆D”ルールを用いるタクティカルRPG続編「Solasta II」の早期アクセス版が遂に発...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Solasta IIは、D&Dルールを用いるタクティカルRPGの続編であり、その早期アクセス版がようやく発売されました。このゲームの評価ポイントは、戦略的で深いゲームプレイ、豊富なキャラクターのカスタマイズ、そして美しいグラフィックスです。レビューの内容概要としては、ゲームの難易度やストーリーの面白さ、そしてゲームシステムの完成度が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03164953.html",
+        "date": "2026-03-12",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-12T21:32:55.187177"
+  "last_updated": "2026-03-13T01:59:01.545810"
 }
