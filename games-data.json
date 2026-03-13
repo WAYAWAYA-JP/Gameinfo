@@ -664,6 +664,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/isonzo/info/",
         "date": "2026-03-13"
+      },
+      {
+        "title": "Deponia",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DeponiaシリーズがVariousで100%割引で販売中です。このシリーズはポイント・アンド・クリックアドベンチャーゲームのジャンルに属し、ユーモアとパズルが特徴です。価格は通常価格から大幅に値下げされており、ファンや新規プレイヤーにとってはお買い得です。Deponiaシリーズは高い評価を受けており、ゲームファンの間で人気があります。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/deponia/info/",
+        "date": "2026-03-13"
+      },
+      {
+        "title": "Sid Meier's Civilization® VII",
+        "platform": "Various",
+        "type": "sale",
+        "description": "人気ゲームシド・マイヤーの文明化VIIがバリュー店で17%オフのセール中です。このタクティカルシミュレーションゲームは、世界の歴史を形作るために都市を建設し、リソースを管理し、戦略的な戦闘を戦うことができます。ファンから高評価を受けており、シビライゼーションシリーズを好むユーザーに人気があります。",
+        "price": "$58.07",
+        "originalPrice": "",
+        "discount": "-17%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/sid-meiers-civilization-vii/info/",
+        "date": "2026-03-13"
       }
     ],
     "review": [
@@ -1251,8 +1275,99 @@
         "url": "https://doope.jp/2026/03164953.html",
         "date": "2026-03-12",
         "is_translated": false
+      },
+      {
+        "title": "【Windows 11の次期ビルドでは「リフレッシュレート1000Hz以上のディスプレイ」に対応...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、Windows 11の次期ビルドで「リフレッシュレート1000Hz以上のディスプレイ」に対応する機能について述べており、ゲームのパフォーマンスやグラフィックの品質について評価している点が特徴です。また、対象読者としては、Windows 11を使用しているゲーマーや、高度なグラフィックを必要とするユーザーが対象となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260313-429018/",
+        "date": "2026-03-13",
+        "is_translated": false
+      },
+      {
+        "title": "【最大4人協力脱出ホラー『CORDURA』発表。ゲーム内ボイチャを真似る“人間なりすまし怪異”が...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "CORDURAは最大4人での協力プレイが可能な脱出ホラーゲームです。このゲームでは、プレイヤーは「人間なりすまし怪異」と呼ばれる敵と対決する必要があります。レビューでは、このゲームのユニークな要素や、ゲーム内のボイスチャットの使用が高く評価されています。また、ホラー要素も十分に盛り込まれており、ジャンルファンには必見の作品と言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260313-429000/",
+        "date": "2026-03-13",
+        "is_translated": false
+      },
+      {
+        "title": "【Paradox近代ストラテジー『Victoria 3（Vic3）』“幕末日本”テーマの大型DL...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Paradox近代ストラテジー『Victoria 3（Vic3）』の「幕末日本」テーマの大型DLをレビューする記事です。このゲームの評価ポイントとしては、ゲームのストーリーが日本の幕末期を正確に再現していること、プレイヤーがさまざまな選択肢を通じて日本の歴史を形作ることができること、グラフィックやサウンドトラックが高品質であることが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260313-428977/",
+        "date": "2026-03-13",
+        "is_translated": false
+      },
+      {
+        "title": "【Sci-Fiオープンワールド海洋探索サバイバル続編「Subnautica 2」の高度な拠点建設...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Subnautica 2は、オープンワールドの海洋探索サバイバルゲームの続編です。このゲームでは、プレイヤーは海底で拠点を建設し、資源を集め、モンスターと戦います。レビューでは、拠点建設の高度さや、グラフィックの美しさ、そしてゲームの探索性が高く評価されています。また、ゲームのストーリーやサウンドトラックも魅力的です。対象読者は、サバイバルゲームやオープンワールドゲームのファンである人です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165015.html",
+        "date": "2026-03-13",
+        "is_translated": false
+      },
+      {
+        "title": "【ThiefやDeus Exにインスパイアされた没入型シム「Project Shadowglas...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、ThiefやDeus Exにインスパイアされた没入型シミュレーションゲーム「Project Shadowglass」の評価ポイントをまとめています。ゲームの評価ポイントとして、ユーザーはグラフィックやサウンドデザイン、ストーリーの面白さなどを評価しています。また、レビューの内容概要として、ゲームの操作性や難易度、プレイ時間などの点が取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165016.html",
+        "date": "2026-03-13",
+        "is_translated": false
+      },
+      {
+        "title": "【キャンピングカーでオープンワールド環境を探索する「Outbound」の新たなゲームプレイトレー...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Outbound」のレビュー記事では、キャンピングカーでオープンワールド環境を探索する新たなゲームプレイの魅力を紹介しています。このゲームは、自由に冒険できる広大な環境や、キャンピングカーのカスタマイズオプションなどが評価ポイントです。レビューでは、ゲームのグラフィックやサウンドトラックの質も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165025.html",
+        "date": "2026-03-13",
+        "is_translated": false
+      },
+      {
+        "title": "【迷宮内で食材を集め料理しながら深部を目指すダンジョンRPG「Deep Dish Dungeon...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、ダンジョンRPGの「Deep Dish Dungeon」の魅力を紹介しています。このゲームの特徴は、迷宮内で食材を集めながら料理を作り、深部を目指すという点です。評価ポイントとしては、ゲームのオリジナリティ、料理システムの面白さ、そしてダンジョンの深さなどが挙げられます。料理をしながらダンジョンを進めるという新しいゲーム性が楽しめるため、ダンジョンRPGファンや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165018.html",
+        "date": "2026-03-13",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-13T01:59:01.545810"
+  "last_updated": "2026-03-13T09:38:29.957881"
 }
