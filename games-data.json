@@ -688,6 +688,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/sid-meiers-civilization-vii/info/",
         "date": "2026-03-13"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「Clair Obscur: Expedition 33」がVariousで29%割引されています。このゲームは、ユニークなグラフィックと心臓を躍らせるアクションが特徴で、プレイヤーは未知の世界を探索し、謎を解き明かしていきます。現在、セール中なので、通常価格より安く購入できます。評価も高く、多くのユーザーが楽しんでいる人気ゲームです。",
+        "price": "$35.55",
+        "originalPrice": "",
+        "discount": "-29%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-03-13"
       }
     ],
     "review": [
@@ -1366,8 +1378,34 @@
         "url": "https://doope.jp/2026/03165018.html",
         "date": "2026-03-13",
         "is_translated": false
+      },
+      {
+        "title": "【近未来パルクールゲーム『PANLINE』に大注目集まる。運び屋として理想都市を駆け抜ける、“『...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "近未来を舞台にしたパルクールゲーム『PANLINE』は、プレイヤーが運び屋として理想都市を駆け抜けるアクションゲームです。このゲームの評価ポイントとしては、スピード感のあるゲームプレイや、美しいグラフィックが挙げられます。レビューの内容概要としては、ゲームの操作感やステージデザインの評価が中心です。このゲームは、アクションゲームやパルクールゲームのファンにとって、大変興味深いものになるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/panline-20260313-429031/",
+        "date": "2026-03-13",
+        "is_translated": false
+      },
+      {
+        "title": "【GDC 2026 の最高の新作ゲーム プレビュー: At Fate's End、Mina th...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "GDC 2026で発表された新作ゲームのプレビュー記事の中から、注目される2作品『At Fate's End』と『Mina the Witch』を取り上げています。この記事では、それぞれのゲームの特徴や魅力、またプレイヤーに与える感覚などを評価しています。ゲームファンや新作ゲームに興味がある方に特にお勧めのレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/best-games-gdc-2026/",
+        "date": "2026-03-13",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-13T09:38:29.957881"
+  "last_updated": "2026-03-13T13:14:25.149079"
 }
