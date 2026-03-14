@@ -52,42 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Best of Boomer Shooters 5: Penta Boom",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Best of Boomer Shooters 5: Penta Boomというバンドルが現在販売中です。このバンドルには、Prodeus、Dusk、Amid Evilなどの主要タイトルが含まれており、ファーストパーソン・シューティングゲームファンにとって魅力的な選択肢です。ジャンルはアクションゲームで、大まかな価格帯は1,000円から2,000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/bestboomershooters5pentaboom_bundle",
-        "date": "2026-03-04"
-      },
-      {
-        "title": "Pixel Traditions Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Pixel Traditions Bundleが販売中です。このバンドルには、Retro Grade、Oniken、Odallus: The Dark Callなどの主要タイトルが含まれています。ジャンルはメトロイドバニアやアクションゲームが中心です。大まかな価格帯は約5〜10ドルとリーズナブルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/pixel-traditions-bundle",
-        "date": "2026-03-04"
-      },
-      {
-        "title": "HHHentai Pair Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、HHHentai Pair Bundleと呼ばれるバンドルの販売が行われています。このバンドルには、主要タイトルとして「Hentai Pussy」や「Hentai Pussy 2」、「Hentai Pussy 3」などが含まれており、全てアダルトコンテンツを含むアダルトゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/hentai-pair-bundle",
-        "date": "2026-03-04"
-      },
-      {
         "title": "Best of Humble Bundle: Call of the Wild 9th Anniversary",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -293,78 +257,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Heart of the Machine ハート・オブ・ザ・マシーン  ",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Heart of the Machineは、Steamで50%オフのセール中です。このゲームは、パズルとアクションを組み合わせたユニークなゲームプレイが特徴で、プレイヤーはロボットを操作して様々なステージをクリアします。現在、半額の割引で購入できます。評価も高い人気ゲームで、ユーザーのレビューでは高評価を獲得しています。",
-        "price": "¥1,490",
-        "originalPrice": "¥2,980",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2001070",
-        "date": "2026-03-07"
-      },
-      {
-        "title": "Resident Evil 4 (2023)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "バイオハザードシリーズの最新作である『Resident Evil 4 (2023)』が、Variousで15%オフでのセール中です。このアクションアドベンチャーゲームは、ホラー要素とサバイバル要素を組み合わせた、シリーズの特徴的なゲーム性を提供します。現在、セールにより割引価格で購入可能で、ファンや新規プレイヤーにもおすすめです。",
-        "price": "$33.95",
-        "originalPrice": "",
-        "discount": "-15%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
-        "date": "2026-03-07"
-      },
-      {
-        "title": "BrightGunner",
-        "platform": "Various",
-        "type": "sale",
-        "description": "BrightGunnerがVariousで-100%セール中です。アクションゲームというジャンルで、快適な操作感とスピーディなゲームプレイが特徴です。現在、セール中なので、通常価格よりも大幅に安く購入できます。また、ユーザーの評価も高く、人気のゲームです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/brightgunner/info/",
-        "date": "2026-03-07"
-      },
-      {
-        "title": "Crowalt: Traces of the Lost Colony",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「Crowalt: Traces of the Lost Colony」が現在、Variousで100%割引のセール中です。このゲームは、探索と戦闘を主な特徴としています。通常価格が大幅に割引されており、現在は無料でプレイすることができます。評価は一般的に良好で、ユーザーから高い人気度を誇っています。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/crowalt-traces-of-the-lost-colony/info/",
-        "date": "2026-03-07"
-      },
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストは、オープンワールドアクションアドベンチャーゲームとして人気を博しています。Steamでは現在、56%の割引が適用されており、大幅に安価になりました。このゲームは、自由度の高いゲームプレイと豊富なストーリーが特徴で、批評家とプレイヤーからの評価も非常に高いです。多くの人が楽しめる内容であり、セール中のこの価格ではお得な購入となります。",
-        "price": "¥2,851",
-        "originalPrice": "¥6,480",
-        "discount": "56% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-03-07"
-      },
-      {
-        "title": "Turnip Boy Robs a Bank",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ターンにップボーイローブザバンクがバラエティで100％割引セール中です。このゲームは、アクションとアドベンチャーの要素を組み合わせた、ユニークなゲームです。ターンにップボーイローブザバンクは、ユーモアと魅力的なグラフィックで知られており、多くのプレイヤーから高い評価を受けています。セール中の価格で購入することで、プレイヤーはこの面白いゲームを体験できます。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/turnip-boy-robs-a-bank/info/",
-        "date": "2026-03-07"
-      },
       {
         "title": "Red Dead Redemption",
         "platform": "Various",
@@ -712,113 +604,45 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-03-13"
+      },
+      {
+        "title": "NieR Replicant™ ver.1.22474487139...",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションRPGの名作『NieR Replicant』の最新バージョン「NieR Replicant ver.1.22474487139...」がSteamで60%オフのセール中です。このゲームは独自の世界観と深いストーリーで知られており、ユーザーから非常に高く評価されています。通常価格より大幅に安くなっているので、ゲームファンにはおすすめです。",
+        "price": "¥3,432",
+        "originalPrice": "¥8,580",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1113560",
+        "date": "2026-03-14"
+      },
+      {
+        "title": "ドラゴンクエストXI　過ぎ去りし時を求めて S",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ドラゴンクエストXI 过ぎ去りし時を求めて SがSteamで50% OFFセール中です。このゲームは、伝説的なRPGシリーズの最新作であり、壮大なストーリーと美しいグラフィックが特徴です。通常価格より半額で購入できるこのセールは、大ファンから新規プレイヤーまで、多くのゲーム愛好家にとって魅力的です。ドラゴンクエストシリーズは、長年にわたり高い評価と人気を博しており、この作品も高い評価を得ています。",
+        "price": "¥2,739",
+        "originalPrice": "¥5,478",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1295510",
+        "date": "2026-03-14"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "No Man's SkyがVariousで69%割引されています。このゲームは、オープンワールドのサンドボックスアクションゲームで、プレイヤーは宇宙を自由に探索できることで知られています。ゲームの評価は高く、多くのプレイヤーから好評価を得ています。現在の価格は割引前の価格より69%安くなっており、興味のある方はこの機会にチェックしてみることをお勧めします。",
+        "price": "$18.89",
+        "originalPrice": "",
+        "discount": "-69%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-03-14"
       }
     ],
     "review": [
-      {
-        "title": "【コロニーシムとダンジョンクローラーを組み合わせたダークファンタジーストラテジー「Dungeon...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "コロニーシムとダンジョンクローラーを組み合わせたダークファンタジーストラテジーゲーム「Dungeon...：レビュー」のレビュー記事では、ゲームの評価ポイントとして、ユニークなゲーム性やストーリーの深みが挙げられています。レビューの内容概要としては、ゲームの難易度や操作性の良さ、またグラフィックやサウンドトラックの質も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164875.html",
-        "date": "2026-03-09",
-        "is_translated": false
-      },
-      {
-        "title": "【リアリズムモードの導入を果たした「Tom Clancy’s The Division 2」がS...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Tom Clancy’s The Division 2」のレビュー記事では、リアリズムモードの導入が高く評価されています。このモードでは、プレイヤーのスキルと戦略がより重要になり、ゲームの難易度が上昇します。また、ゲームのグラフィックやサウンドデザインも高く評価されており、リアルなゲームワールドを体験できることが強みです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164846.html",
-        "date": "2026-03-09",
-        "is_translated": false
-      },
-      {
-        "title": "【わちゃわちゃ探し物ゲーム『Lost and Found Co.』Steamで高評価炸裂中。動く...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "わちゃわちゃ探し物ゲーム『Lost and Found Co.』はSteamで高評価を得ています。このゲームの評価ポイントとしては、ユニークな探し物システムや面白いキャラクターが挙げられます。レビューの内容概要としては、ゲームのユーモアやグラフィックの美しさが高く評価されています。また、探し物ゲームファンやリラックスした気分でゲームを楽しむ人にこのゲームはお勧めです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260309-427769/",
-        "date": "2026-03-09",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam Machineのアップデートで発売日への懸念が再燃したが、Valveは新ハードウェ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Steam Machineのアップデートにより発売日への懸念が再燃していますが、Valveは新ハードウェアの開発に注力しています。このレビュー記事では、Steam Machineの評価ポイントとしてその性能とコストのバランス、ゲームの互換性、ユーザーインターフェイスの使いやすさを取り上げています。対象読者は主にSteam Machineを購入を検討しているゲーム愛好家やPCゲーミングファンです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/a-steam-machine-update-reignited-release-date-fears-but-valve-say-the-new-hardware-is-still-shipping-this-year",
-        "date": "2026-03-09",
-        "is_translated": true
-      },
-      {
-        "title": "【Big Walk は「フレンドロップ」ではありません、まったく新しいタイプのマルチプレイヤー ...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Big Walk は「フレンドロップ」ではありません、まったく新しいタイプのマルチプレイヤーゲームです。本レビュー記事では、このゲームのユニークなマルチプレイヤーモードや、独自のゲームプレイスタイル、そしてグラフィックの美しさが評価ポイントとして取り上げられています。また、ゲームのストーリーや操作性についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/big-walk-preview/",
-        "date": "2026-03-09",
-        "is_translated": true
-      },
-      {
-        "title": "【Windows 11 のゲーム UI の刷新である Xbox フル スクリーン エクスペリエン...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Xbox フルスクリーンエクスペリエンスは、Windows 11 のゲーム UI の刷新であり、ユーザーはより統合されたゲーム体験を楽しむことができます。レビューのポイントとしては、ゲームのパフォーマンスの向上、直感的な操作性、そして美しいビジュアルデザインが挙げられます。また、ゲーム愛好家や Windows 11 ユーザーにとって、この機能は大きなメリットとなります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/xbox-full-screen-experience-windows-11s-gaming-ui-overhaul-is-available-to-try-now-on-legion-go-handhelds",
-        "date": "2026-03-09",
-        "is_translated": true
-      },
-      {
-        "title": "【GDC 2026: すべてのニュース、プレビュー、インタビュー、デモなど】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "GDC 2026に関するレビュー記事では、最新のニュース、プレビュー、インタビュー、デモなどが紹介されています。ゲームの評価ポイントとして、グラフィックの品質、ゲームプレイの深み、ストーリーの魅力などが取り上げられています。対象読者は、ゲーム好きの方や最新のゲーム情報を知りたい方にお勧めです。記事では、ゲームの魅力を伝えるインタビューや、デモプレイの感想などが盛り込まれており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gdc-2026-news-previews-interviews-demos/",
-        "date": "2026-03-09",
-        "is_translated": true
-      },
-      {
-        "title": "【人狼系消防マルチプレイアクション『OCTOPinbs』発表。放火魔とバレても“ごり押し可”な人...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "人狼系の消防マルチプレイアクションゲーム「OCTOPinbs」のレビュー記事では、プレイヤーが放火魔としてバレても、他のプレイヤーを押し切ることができる点が評価されています。また、ユーモアのあるグラフィックや、面白いゲームプレイが楽しめる点も高く評価されています。このレビュー記事は、人狼系ゲームやマルチプレイアクションゲームが好きな人に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/octopinbs-20260310-427858/",
-        "date": "2026-03-09",
-        "is_translated": false
-      },
       {
         "title": "【ディアブロライトなStardew Valley系2DピクセルアクションアドベンチャーRPG「E...：レビュー】",
         "platform": "doope!",
@@ -1468,8 +1292,47 @@
         "url": "https://www.rockpapershotgun.com/qpad-mark-model-3-gaming-mouse-review",
         "date": "2026-03-13",
         "is_translated": true
+      },
+      {
+        "title": "【『モンスターハンターストーリーズ3』初動でSteam同接「4万2000人超え」の快調スタート。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『モンスターハンターストーリーズ3』はSteamでの初動が快調であり、4万2000人以上のプレイヤーが参加しています。レビュー記事では、このゲームの評価ポイントとして、ゲームのグラフィックやストーリーの魅力が高く評価されています。また、ゲームの操作性や難易度も高く評価されており、シリーズのファンや新規プレイヤーにもお勧めできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260314-429227/",
+        "date": "2026-03-14",
+        "is_translated": false
+      },
+      {
+        "title": "【GDCのオーディエンスアワードを獲得した「ダレカレ」の世界販売が10万本を突破、評価トレーラーも】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "GDCのオーディエンスアワードを獲得した「ダレカレ」の世界販売が10万本を突破し、評価トレーラーも公開されています。このゲームは、ユニークなゲームデザインや物語、そしてキャラクターの魅力が評価ポイントとなっています。レビューでは、ゲームのストーリーテリングやキャラクターの深み、そしてゲームプレイの面白さが高く評価されています。この記事は、ゲーム好きや新しいゲームを探している人に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165043.html",
+        "date": "2026-03-14",
+        "is_translated": false
+      },
+      {
+        "title": "【マックスとクロエの新たな物語を描く「ライフ イズ ストレンジ リユニオン」の本格的なゲームプレ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「ライフ イズ ストレンジ リユニオン」のレビュー記事では、マックスとクロエの新たな物語が描かれており、ゲームの評価ポイントとしてストーリーの深みやキャラクターの成長が挙げられています。レビューでは、ゲームの雰囲気やグラフィックの美しさも高く評価されています。また、ゲームのストーリーが複雑で予測できないことや、プレイヤーの選択が物語に大きな影響を与えることも指摘されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165039.html",
+        "date": "2026-03-14",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-13T21:33:21.813331"
+  "last_updated": "2026-03-14T01:56:42.485882"
 }
