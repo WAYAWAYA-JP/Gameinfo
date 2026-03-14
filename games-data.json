@@ -676,6 +676,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/3240220",
         "date": "2026-03-14"
+      },
+      {
+        "title": "Resident Evil Requiem",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Resident Evil RequiemがVariousで18%オフのセール中です。このゲームはサバイバルホラーのジャンルに属し、恐怖とスリルの組み合わせが特徴です。現在の価格は割引により大幅に下がっており、ファンにはおすすめの購入機会です。しかも、このゲームはシリーズファンから高い評価を受けており、人気度も非常に高いので、ホラーゲーム好きの方には必見の作品と言えるでしょう。",
+        "price": "$57.39",
+        "originalPrice": "",
+        "discount": "-18%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
+        "date": "2026-03-14"
       }
     ],
     "review": [
@@ -1370,5 +1382,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-14T13:06:54.966581"
+  "last_updated": "2026-03-14T21:27:05.586718"
 }
