@@ -254,6 +254,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/multiplayermadness2026_bundle",
         "date": "2026-03-13"
+      },
+      {
+        "title": "Best of Boomer Shooters 5: Penta Boom",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Best of Boomer Shooters 5: Penta Boomというバンドルが販売中です。このバンドルには、主要タイトルとして「Prodeus」、「Dusk」、「Amid Evil」などのアクション満点のシューティングゲームが含まれています。ジャンルはアクションゲームで、大まかな価格帯は1,000円から2,000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/bestboomershooters5pentaboom_bundle",
+        "date": "2026-03-14"
+      },
+      {
+        "title": "Pixel Traditions Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Pixel Traditions Bundleが販売中です。このバンドルには、A Short Hike、Eastward、Foragerなどの主要タイトルが含まれており、レトロなピクセルアートが特徴のインディーゲームを楽しむことができます。ジャンルはアクションやアドベンチャーが中心で、価格帯はおおよそ500円から1000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/pixel-traditions-bundle",
+        "date": "2026-03-14"
       }
     ],
     "sale": [
@@ -639,6 +663,18 @@
         "discount": "-69%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-03-14"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストがSteamで56% OFFセール中です。このゲームは、オープンワールドアクションアドベンチャーであることが特徴で、自由に街を歩き回り、さまざまなミッションをプレイすることができます。現在の価格は割引で大幅に下がっています。評価も非常に高く、人気のゲームです。",
+        "price": "¥2,851",
+        "originalPrice": "¥6,480",
+        "discount": "56% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
         "date": "2026-03-14"
       }
     ],
@@ -1334,5 +1370,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-14T01:56:42.485882"
+  "last_updated": "2026-03-14T09:32:03.953330"
 }
