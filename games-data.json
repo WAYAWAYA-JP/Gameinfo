@@ -652,6 +652,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-dread-x-collections/info/",
         "date": "2026-03-15"
+      },
+      {
+        "title": "FINAL FANTASY XVI コンプリートエディション",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY XVI コンプリートエディションがSteamで50% OFFセール中です。このゲームは、人気の高いファイナルファンタシーシリーズの最新作で、オープンワールドアクションRPGの要素を備えており、シリーズファンやアクションゲーム好きにはおすすめです。コンプリートエディションには、ゲーム本編のほかにも、追加コンテンツやサウンドトラックが含まれています。",
+        "price": "¥4,950",
+        "originalPrice": "¥9,900",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1111230",
+        "date": "2026-03-15"
       }
     ],
     "review": [
@@ -1164,5 +1176,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-15T13:07:33.057352"
+  "last_updated": "2026-03-15T21:29:07.488335"
 }
