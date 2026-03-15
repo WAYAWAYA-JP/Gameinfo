@@ -640,6 +640,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/990080",
         "date": "2026-03-15"
+      },
+      {
+        "title": "The Dread X Collections",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Dread X Collectionsは、インディーゲームの傑作を集めたコレクションです。このコレクションは、ホラーゲームやアクションゲームを中心に、様々なジャンルのゲームが収録されています。現在、Variousで30%割引のセール中です。ゲームの評価は非常に高く、プレイヤーからの評価はほぼ満足しています。特に、ホラーゲームのファンにはおすすめのコレクションです。",
+        "price": "$32.95",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-dread-x-collections/info/",
+        "date": "2026-03-15"
       }
     ],
     "review": [
@@ -1110,8 +1122,47 @@
         "url": "https://doope.jp/2026/03165039.html",
         "date": "2026-03-14",
         "is_translated": false
+      },
+      {
+        "title": "【『ぽこ あ ポケモン』は『マイクラ』というより『ぶつ森』派。無料短編『佐藤さん暇つぶしチャット...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ぽこ あ ポケモン』は、グラフィックとゲーム性が『ぶつ森』に近いゲームです。無料でプレイできる短編ゲーム『佐藤さん暇つぶしチャット』のレビューでは、ユニークなゲーム性と簡単な操作性が評価されています。グラフィックもシンプルながらも愛らしいキャラクターが登場するため、カジュアルゲームファンや『ぶつ森』シリーズのファンにはお勧めです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260315-429505/",
+        "date": "2026-03-15",
+        "is_translated": false
+      },
+      {
+        "title": "【『サカつく2026』約2年続いた無敗記録が、惨敗で途切れた日。荒んだ心が“アイドル”アンタンシ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『サカつく2026』のレビュー記事では、約2年間続いた無敗記録が惨敗で途切れた様子が紹介されています。この記事では、ゲームの評価ポイントとして、無敗記録の途切れや、プレイヤーの心の荒れなどが取り上げられています。また、アイドルアンタンシとの出会いがストーリーの重要な要素になっていることも紹介されています。このレビュー記事は、サッカーゲームやアイドルゲームのファンにとって興味深い内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260315-429123/",
+        "date": "2026-03-15",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam戦車アクション×RTS『Sherman Commander』は、恐怖すら抱くほど緊張...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで配信中の戦車アクションとリアルタイムストラテジーを融合させたゲーム『Sherman Commander』のレビュー記事があります。このゲームは、プレイヤーに恐怖すら抱かせるほどの緊張感を提供することが評価ポイントの1つです。ゲームの内容は、戦車の操作と部隊の指揮を同時に行うことで、戦略性とアクション性が高いことが特徴です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/sherman-20260315-429470/",
+        "date": "2026-03-15",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-15T02:13:37.810772"
+  "last_updated": "2026-03-15T09:33:57.654000"
 }
