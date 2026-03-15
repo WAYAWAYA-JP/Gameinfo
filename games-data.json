@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Best of Humble Bundle: Call of the Wild 9th Anniversary",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Best of Humble Bundle: Call of the Wild 9th Anniversaryというバンドルが現在販売中です。このバンドルには、Horizon Zero Dawn、Days Gone、Ghost of Tsushimaなどの主要タイトルが含まれています。ジャンルはアクションアドベンチャーやオープンワールドゲームが中心です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/callwild9thanniversary_bundle",
-        "date": "2026-03-05"
-      },
-      {
-        "title": "Overwhelming Positive Games Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Overwhelming Positive Games Bundleと呼ばれるバンドルが現在販売中です。このバンドルには、非常に好評を得ているゲームタイトルが収録されています。主要タイトルとしては、例えば、「Factorio」や「RimWorld」などが含まれています。ジャンルは、シミュレーションやストラテジーなどのゲームが中心となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/overwhelmingpositivegamesbundle_gamesbundle",
-        "date": "2026-03-05"
-      },
-      {
         "title": "Games Done Quick: Frost Fatales 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -281,42 +257,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Red Dead Redemption",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ロックスターゲームスの人気シリーズ「Red Dead Redemption」が現在、Variousで56パーセント割引されています。このオープンワールドアクションアドベンチャーゲームは、西部開拓時代を舞台に、自由に乗馬や銃撃戦を楽しむことができます。高評価を受けており、幅広い年齢層に支持されています。セール中のこの機会に、未プレイの方もぜひお試しください。",
-        "price": "$22.00",
-        "originalPrice": "",
-        "discount": "-56%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption/info/",
-        "date": "2026-03-08"
-      },
-      {
-        "title": "Elden Ring",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションRPGゲームであるElden RingがVariousで現在23%オフのセール中です。このゲームは、廣瀬叔功の暗いファンタジー世界観とFromSoftwareのアクションゲームのノウハウにより、非常に高く評価されており、多くのプレイヤーから人気を博しています。",
-        "price": "$45.90",
-        "originalPrice": "",
-        "discount": "-23%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/elden-ring/info/",
-        "date": "2026-03-08"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Red Dead Redemption 2がVariousで78%オフのセール中です。このゲームはオープンワールドアクションアドベンチャーのジャンルで、豊富なストーリーや自由度の高いプレイが特徴です。非常に高い評価を受けており、人気度も高く、多くのゲームファンに愛されています。",
-        "price": "$13.20",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-03-08"
-      },
       {
         "title": "RESIDENT EVIL 2 (2019)",
         "platform": "Various",
@@ -688,230 +628,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
         "date": "2026-03-14"
+      },
+      {
+        "title": "ホグワーツ・レガシー",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ホグワーツ・レガシーがSteamで大幅な85%の割引セール中です。このアクションアドベンチャーゲームは、ハリー・ポッターの魔法世界を舞台に、プレイヤーがホグワーツ魔法学校の学生となり、魔法の勉強や友情を経験することができます。高い評価と人気を誇るこのゲームは、ファンからも高い評価を受けており、ゲームの質やグラフィックも高く評価されています。",
+        "price": "¥1,316",
+        "originalPrice": "¥8,778",
+        "discount": "85% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/990080",
+        "date": "2026-03-15"
       }
     ],
     "review": [
-      {
-        "title": "【ディアブロライトなStardew Valley系2DピクセルアクションアドベンチャーRPG「E...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、2DピクセルアクションアドベンチャーRPG「E...」の評価を行っています。このゲームは、ディアブロとスターデューバレーを融合させたようなユニークな要素を持っており、150〜200文字の文章でゲームの魅力を紹介しています。レビューのポイントとしては、ゲームのグラフィックやサウンド、プレイヤビリティなどの点が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164909.html",
-        "date": "2026-03-10",
-        "is_translated": false
-      },
-      {
-        "title": "【講談社が「Slay the Spire 2」の発売を祝い「1日外出録ハンチョウ」の傑作“Sla...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "講談社の「Slay the Spire 2」の発売を記念して、ゲームの魅力を紹介するレビュー記事があります。このレビューでは、ゲームの評価ポイントとして、新しい要素の追加やゲームバランスの調整が行われている点が高く評価されています。また、ゲームのレビューの内容概要として、ゲームの難易度やリプレイ性が紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164897.html",
-        "date": "2026-03-10",
-        "is_translated": false
-      },
-      {
-        "title": "【人気“X-COM”ライク続編「Xenonauts 2」の製品版1.0ローンチが2026年4月2...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Xenonauts 2は、人気のX-COMライクゲームの続編として注目を集めています。このゲームの製品版1.0が2026年4月2日にローンチされることを受けて、レビュー記事ではゲームの評価ポイントや内容概要が紹介されています。レビューの内容概要としては、ゲームのストーリーやシステム、グラフィックの質などが取り上げられており、ゲームファンやX-COMシリーズの愛好家にとっては必読の記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164903.html",
-        "date": "2026-03-10",
-        "is_translated": false
-      },
-      {
-        "title": "【Fatal Frame 2 リメイク レビュー: 現代の慣習に反する古典ホラー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Fatal Frame 2 リメイクのレビュー記事では、ゲームの評価ポイントとして、現代のホラーゲームと比べて独自の古典的な恐怖感を提供していることが挙げられています。具体的には、恐ろしい状況でのプレーヤーの反応や、ゲームの雰囲気を高めるサウンドデザインなどが評価されています。また、ゲームのストーリーやキャラクターの深みもレビューの内容として取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/fatal-frame-2-remake-impressions/",
-        "date": "2026-03-10",
-        "is_translated": true
-      },
-      {
-        "title": "【オープンワールドアクション『紅の砂漠』を6時間プレイしてみた感想。めんどくささが最高に面白い、...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "オープンワールドアクションゲーム『紅の砂漠』を6時間プレイしてみたレビュー記事では、このゲームの面白さをめんどくささが最大の魅力として評価しています。また、ゲームの世界観やシステムの充実度も高く評価されています。このレビュー記事は、オープンワールドアクションゲームのファンや新しいゲームを探している人に特に役立つ内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/crds-20260310-427975/",
-        "date": "2026-03-10",
-        "is_translated": false
-      },
-      {
-        "title": "【“反射神経不要”なアクションゲーム『カード魔王：頭だけになっても！』4月29日配信へ。「じっく...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「カード魔王：頭だけになっても！」は、反射神経が必要ないアクションゲームで、4月29日に配信が開始される予定です。このゲームの評価ポイントとしては、独自のゲームシステムやキャラクターの魅力が挙げられます。レビューでは、ゲームのユニークなプレイスタイルや、ストーリーの面白さが高く評価されています。このゲームは、アクションゲームを楽しむことに特化したユーザーや。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/roguelite-20260310-427983/",
-        "date": "2026-03-10",
-        "is_translated": false
-      },
-      {
-        "title": "【ローグライク採掘サバイバル「Dome Keeper」のマルチプレイヤーアップデート配信が4月1...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ローグライク採掘サバイバルゲーム「Dome Keeper」のマルチプレイヤーアップデートが4月に配信されることが発表されました。このゲームは、1人用のモードとマルチプレイヤーモードの両方でプレイでき、プレイヤーは資源を採掘して基地を守る必要があります。評価ポイントとしては、ゲームの難易度とリプレイ性が高く、プレイヤーがさまざまな戦略を試すことができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164913.html",
-        "date": "2026-03-10",
-        "is_translated": false
-      },
-      {
-        "title": "【ホロライブ・博衣こより、「WBC」日本対チェコ戦のプレイボールコールを担当へー3月10日19時...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "ホロライブの博衣こよりが、「WBC」日本対チェコ戦のプレイボールコールを担当することになりました。この記事では、彼女のこの試みに対する評価ポイントを紹介します。まず、彼女のボールコールのパフォーマンスが注目されます。また、彼女のファンであるホロライブの視聴者やスポーツファンの反応も見どころです。さらに、彼女のこの試みがホロライブの認知度を高めるきっかけとなるかどうかも興味があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/10/178413.html",
-        "date": "2026-03-10",
-        "is_translated": false
-      },
-      {
-        "title": "【イカダ漂流サバイバル『Raft』Steamにて突如「3年以上ぶりのアプデ」配信開始。ゲーム内ボ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Raftはイカダ漂流サバイバルゲームで、3年以上ぶりに大規模なアップデートが行われました。このゲームは、漂流しながら資源を集め、敵から身を守り、生き残ることを目標にします。評価ポイントとしては、ゲームの新しいシステムやアイテムの追加、グラフィックの向上などが挙げられます。レビューの内容概要としては、新しいアップデートによりゲームの面白さが増したこと、ゲームのバランスが良くなったこと。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260310-428084/",
-        "date": "2026-03-10",
-        "is_translated": false
-      },
-      {
-        "title": "【キャラガチャなし基本プレイ無料ARPG『デュエットナイトアビス』大型アプデで“超真面目黒髪長髪...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『デュエルトナイトアビス』は、キャラガチャがない基本プレイ無料のARPGで、最近の大型アップデートにより新しいキャラクターが追加されました。このゲームは、キャラメイクの自由度が高く、ユーザーが自分好みのキャラクターを作成できます。また、ゲームのストーリーは面白く、キャラクターの個性も豊かです。ゲームの評価ポイントとしては、キャラメイクの自由度、面白いストーリー。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260310-428044/",
-        "date": "2026-03-10",
-        "is_translated": false
-      },
-      {
-        "title": "【Corsair Sabre V2 Pro ワイヤレス CF レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Corsair Sabre V2 Pro ワイヤレス CF レビューでは、ハイスペックPCゲーマー向けのワイヤレスゲーミングマウスの評価ポイントとして、軽量化と高精度なセンシング、長時間のバッテリー寿命などの点が取り上げられています。このレビュー記事では、ゲーミングマウスの性能と操作性、またデザインと耐久性についても詳しく評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/corsair-sabre-v2-pro-wireless-cf-review/",
-        "date": "2026-03-10",
-        "is_translated": true
-      },
-      {
-        "title": "【プロジェクト・ヘイル・メアリーのレビュー: このアンディ・ウィアーの映画化は、あなたが期待して...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "プロジェクト・ヘイル・メアリーのレビュー記事では、このアンディ・ウィアーの映画化作品について評価しています。主な評価ポイントとして、ストーリーの独創性、キャラクターの深み、映画のテンポなどが挙げられます。記事では、ストーリーの展開やキャラクターの関係性について詳細に分析しています。此方の記事は、映画ファンやアンディ・ウィアーの作品を愛する人に向けて書かれており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/project-hail-mary-review-ryan-gosling/",
-        "date": "2026-03-10",
-        "is_translated": true
-      },
-      {
-        "title": "【人気ライフシム続編「Cozy Grove: Camp Spirit」のSteam対応がアナウン...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "人気ライフシム続編「Cozy Grove: Camp Spirit」のSteam対応が発表されたことを受けて、レビュー記事が公開されています。このゲームは、ユーザーの評価ポイントとしてグラフィックやサウンドトラック、ストーリーの面白さが高く評価されています。レビューの内容概要としては、ゲームの雰囲気や操作性、ストーリーの深みなどが取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164922.html",
-        "date": "2026-03-10",
-        "is_translated": false
-      },
-      {
-        "title": "【剣闘士たちの戦いを描くローグライト闘技場シム「Bloodgrounds」の製品版1.0ローンチ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Bloodgrounds」は剣闘士たちの戦いを描くローグライト闘技場シムであり、このゲームの評価ポイントとしては、ゲームプレイの自由度や戦略的深みが高く、プレイヤーに多くの選択肢を提供している点が挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドデザインの高さや、シミュレーション要素の充実度が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164891.html",
-        "date": "2026-03-10",
-        "is_translated": false
-      },
-      {
-        "title": "【プレイアブルキャラクターの1人“Epione Spes”を紹介する「Warhammer 40,...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Warhammer 40,...のレビュー記事では、プレイアブルキャラクターの1人である「Epione Spes」を紹介しています。このゲームの評価ポイントとしては、キャラクターの多様性、ゲームプレイの奥深さ、グラフィックの質が高く評価されています。特に、キャラクターのバリエーションが豊富で、プレイヤーは自分の好みに合わせてキャラクターを選択することができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164892.html",
-        "date": "2026-03-10",
-        "is_translated": false
-      },
-      {
-        "title": "【Anthropic は Claude Code Review を導入しているため、自分の AI...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事は、Anthropic が導入している Claude Code Review について紹介しています。この機能により、自分の AI モデルがどのようにコードを生成するかを確認できます。記事では、コードの品質、セキュリティ、そして読みやすさという観点から評価しています。また、AI 開発者やプログラマーが参考にすることができる記事であると言えるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/software/ai/anthropic-introduces-claude-code-review-so-you-dont-even-need-to-check-all-of-your-own-ai-slop/",
-        "date": "2026-03-10",
-        "is_translated": true
-      },
-      {
-        "title": "【続編「CONTROL Resonant」のDLSS 4.5とパストレーシング対応がアナウンス、...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム「CONTROL Resonant」のDLSS 4.5とパストレーシングに対応したことを紹介しています。評価ポイントとしては、グラフィックの質の向上やパフォーマンスの改善などがあります。レビューの内容は、ゲームのグラフィックやサウンドの評価、そして新しい機能の紹介などから成り立っています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164832.html",
-        "date": "2026-03-10",
-        "is_translated": false
-      },
       {
         "title": "【“キーボード破壊系”超絶連打リズムゲーム『PROJEKT GODHAND』正式リリース、高評価...】",
         "platform": "AUTOMATON",
@@ -1382,5 +1113,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-14T21:27:05.586718"
+  "last_updated": "2026-03-15T02:13:37.810772"
 }
