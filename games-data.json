@@ -1098,8 +1098,34 @@
         "url": "https://automaton-media.com/articles/newsjp/timberborn-20260316-429643/",
         "date": "2026-03-16",
         "is_translated": false
+      },
+      {
+        "title": "【2人協力対応・手つなぎ共同アクション『GooNECT√2』発表。高評価無料ゲームが「買い切り型...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、2人協力プレイに対応したゲーム「GooNECT√2」の発表が紹介されています。このゲームは、手つなぎ共同アクションが特徴的で、高評価を受けていますが、無料ゲームであったものが「買い切り型」に変わったことが話題になっています。ゲームの評価ポイントとしては、協力プレイの面白さや、共同アクションの爽快感が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260316-429766/",
+        "date": "2026-03-16",
+        "is_translated": false
+      },
+      {
+        "title": "【パルサー X3 クレイジーライト ミニ レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "パルサーX3クレイジーライトミニは、ユーザーの評価ポイントとして、スピード感のあるゲーム性やカラフルなグラフィック、サウンドトラックの魅力が高く評価されています。レビューの内容概要としては、簡単に遊べる一方で、高度なテクニックが求められる難易度のバランスが取れていることや、色鮮やかなグラフィックが目に鮮やかで楽しいことが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/pulsar-x3-crazylight-mini-review/",
+        "date": "2026-03-16",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-16T10:06:03.439692"
+  "last_updated": "2026-03-16T13:28:07.233717"
 }
