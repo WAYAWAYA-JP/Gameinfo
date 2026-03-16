@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Games Done Quick: Frost Fatales 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Games Done Quick: Frost Fatales 2026のバンドルが現在販売中です。このバンドルには、主要タイトルとして「Mirror's Edge」、「Life is Strange」、「What Remains of Edith Finch」などの作品が含まれています。ジャンルはアクションアドベンチャーやストーリー重視のゲームが中心です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/gamesdonequickfrostfatales2026_bundle",
-        "date": "2026-03-06"
-      },
-      {
         "title": "The ESA All-Star Alliance Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,54 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "RESIDENT EVIL 2 (2019)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "バイオハザードシリーズの最新作であるRESIDENT EVIL 2（2019）が、現在Variousで10％オフのセール中です。この作品は、サバイバルホラーのジャンルで知られており、恐怖とスリルのバランスが取れたゲーム性が特徴です。評価も非常に高く、人気度が高いゲームです。価格は通常時と比べて10％割引されているので、気になる方はお見逃しなく！",
-        "price": "$8.99",
-        "originalPrice": "",
-        "discount": "-10%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-2-2019/info/",
-        "date": "2026-03-09"
-      },
-      {
-        "title": "Slay the Spire 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Slay the Spire 2がVariousでセール中です。このゲームは、ローグライクとデッキビルディングを組み合わせた独特のジャンルで、プレイヤーはカードを集めてデッキを構築し、ダンジョンを進みながら敵と戦います。現在、割引率は高く、魅力的な価格で購入できます。Slay the Spire 2は、高度な再生性と奥深い戦略性が評価されており、多くのプレイヤーから高い評価を得ています。",
-        "price": "$24.99",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/slay-the-spire-2/info/",
-        "date": "2026-03-09"
-      },
-      {
-        "title": "The Alters",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Altersが、Variousで43%割引のセール中です。このゲームは、ユニークなゲーム性と高品質のグラフィックで人気を博しており、多くのユーザーから高い評価を得ています。現在、セール中なので、通常価格より大幅に安くなっています。興味がある方は、チェックしてみてください。",
-        "price": "$19.99",
-        "originalPrice": "",
-        "discount": "-43%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-alters/info/",
-        "date": "2026-03-09"
-      },
-      {
-        "title": "The Riftbreaker",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "The RiftbreakerがSteamで67% OFFセール中です。このゲームは、アクション要素とストラテジー要素を兼ね備えた独自のゲームジャンルを擁し、プレイヤーが新しい惑星を探索し、資源を集め、拠点を築くことを目的としています。通常価格より67%割引された価格で購入できます。The Riftbreakerは、ユーザーの評価が非常に高く。",
-        "price": "¥1,122",
-        "originalPrice": "¥3,400",
-        "discount": "67% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/780310",
-        "date": "2026-03-09"
-      },
       {
         "title": "Frostpunk 2",
         "platform": "Various",
@@ -664,87 +604,21 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/1111230",
         "date": "2026-03-15"
+      },
+      {
+        "title": "Dragon's Dogma 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションRPGの名作「Dragon's Dogma 2」がVariousで63%オフのセール中です。このゲームは、広大なオープンワールドと独自の戦闘システムで人気を博しています。現在の価格は大幅に割引された状態なので、ゲームファンにはおすすめのチャンスです。また、このゲームは高い評価を受けており、多くのユーザーから好評価を得ていますので、是非この機会にプレイしてみてください。",
+        "price": "$25.89",
+        "originalPrice": "",
+        "discount": "-63%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
+        "date": "2026-03-16"
       }
     ],
     "review": [
-      {
-        "title": "【“キーボード破壊系”超絶連打リズムゲーム『PROJEKT GODHAND』正式リリース、高評価...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「PROJEKT GODHAND」はキーボード破壊系と呼ばれる超絶連打リズムゲームで、高評価を得ている。このゲームの評価ポイントとしては、激しい連打が必要なリズムゲームである点や、音楽とシンクロする爽快な演出が楽しめる点が挙げられる。レビューの内容概要としては、ゲームの難易度や音楽の選曲が評価されており、リズムゲームファンやアクションゲーム好きの方にもおすすめできるゲームである。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/projekt-godhand-20260311-428258/",
-        "date": "2026-03-11",
-        "is_translated": false
-      },
-      {
-        "title": "【巨大なアヴァロンマップのPOIを紹介する「Call of Duty: Warzone」のフライ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Call of Duty: Warzoneのレビュー記事では、巨大なアヴァロンマップのPOIを紹介するフライを取り上げています。ゲームの評価ポイントとしては、広大なマップの探索の自由度や、POIのバリエーションの豊かさが高く評価されています。また、レビューでは、戦略的なプレイやチームワークの重要性も強調されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164933.html",
-        "date": "2026-03-11",
-        "is_translated": false
-      },
-      {
-        "title": "【『Forza Horizon 6』新要素が紹介。他プレイヤーと緩く繋がり気づいたら報酬も!?リ...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "Forza Horizon 6のレビューでは、新要素が紹介されており、他プレイヤーと緩く繋がることで気づいたら報酬がもらえる機能が評価ポイントのひとつです。また、ゲームのグラフィックやサウンドトラックも高く評価されています。このレビューは、レースゲームファンやオープンワールドゲームを楽しむ人向けの内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/11/178463.html",
-        "date": "2026-03-11",
-        "is_translated": false
-      },
-      {
-        "title": "【インテルの新しい「史上最速」デスクトップ CPU はゲームのパフォーマンスに再び焦点を当てる：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "インテルの新しいデスクトップCPUは史上最速と呼ばれており、ゲームのパフォーマンスに再び焦点を当てています。このレビュー記事では、新しいCPUの評価ポイントを中心に、ゲームのパフォーマンス、性能の向上、価格競争力などの点が評価されています。ゲーム愛好家や高性能PCを求めるユーザーにとって、このレビュー記事は新しいCPUの購入を検討する上で役立つ情報を提供します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/intels-new-fastest-ever-desktop-cpus-put-their-focus-back-on-game-performance",
-        "date": "2026-03-11",
-        "is_translated": true
-      },
-      {
-        "title": "【Stardew Valleyやポケモン ダイアモンド・パールにインスパイアされた洞窟採掘ゲーム...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、Stardew Valleyやポケモン ダイアモンド・パールにインスパイアされた洞窟採掘ゲームを紹介しています。ゲームの評価ポイントとして、採掘システムや洞窟の探索の面白さが高く評価されています。また、ゲームのグラフィックやサウンドトラックも魅力的です。対象読者としては、Stardew Valleyやポケモンシリーズのファン、または洞窟採掘ゲームに興味がある人が適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164947.html",
-        "date": "2026-03-11",
-        "is_translated": false
-      },
-      {
-        "title": "【At Fate's End は GDC 2026 の最高のゲームです：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "At Fate's End は GDC 2026 で高い評価を受けたゲームです。このゲームの評価ポイントとしては、独自のゲームプレイスタイルや豊富なストーリーが挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの質が高く、プレイヤーに没入感を与えることができる点が強調されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/at-fates-end-preview-spiritfarer/",
-        "date": "2026-03-11",
-        "is_translated": true
-      },
       {
         "title": "【次世代“Xbox”コンソール「Project Helix」のアルファ版開発キット提供時期を含む...：レビュー】",
         "platform": "doope!",
@@ -1173,8 +1047,34 @@
         "url": "https://automaton-media.com/articles/special-column/sherman-20260315-429470/",
         "date": "2026-03-15",
         "is_translated": false
+      },
+      {
+        "title": "【1980年代の九龍城砦で犯罪組織に立ち向かう新作アクション「The 9th Dragon」がア...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "1980年代の九龍城砦を舞台にしたアクションゲーム「The 9th Dragon」は、犯罪組織に立ち向かうアクションシーンが特徴的です。このゲームの評価ポイントとしては、緊張感のあるストーリーや、複雑なキャラクター設定が挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの高品質さも評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165064.html",
+        "date": "2026-03-16",
+        "is_translated": false
+      },
+      {
+        "title": "【「American Truck Simulator」のイリノイ州DLCを紹介する本格的なゲーム...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "アメリカを舞台にトラック運転を体験できる「American Truck Simulator」のイリノイ州DLCを紹介するレビュー記事です。このレビューでは、ゲームのグラフィックや操作性、そしてイリノイ州の魅力が評価ポイントとして取り上げられています。特に、イリノイ州の風景や道路のリアルさが高く評価されています。トラック運転の体験やアメリカの風景を楽しみたい方にはお勧めのゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165060.html",
+        "date": "2026-03-15",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-15T21:29:07.488335"
+  "last_updated": "2026-03-16T02:14:37.680489"
 }
