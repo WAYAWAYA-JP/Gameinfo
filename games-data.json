@@ -628,6 +628,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
         "date": "2026-03-16"
+      },
+      {
+        "title": "Cozy Grove",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Cozy Groveがバラエティーに100%割引されています。このゲームは、リラックスした雰囲気とユニークなゲームプレイが特徴です。通常価格が大幅に割引されたので、ファンや新規プレイヤーにとってお買い得です。Cozy Groveは、ユーザーから高い評価を受けており、人気ゲームとして知られています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cozy-grove/info/",
+        "date": "2026-03-16"
       }
     ],
     "review": [
@@ -1124,8 +1136,21 @@
         "url": "https://www.pcgamer.com/hardware/gaming-mice/pulsar-x3-crazylight-mini-review/",
         "date": "2026-03-16",
         "is_translated": true
+      },
+      {
+        "title": "【The Seven Deadly Sins: Origin is a free-to-play...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "本レビュー記事は、人気ゲーム「The Seven Deadly Sins: Origin」の評価ポイントやレビューの内容をまとめたものです。記事では、ゲームの魅力や欠点、グラフィックやゲームプレイの評価などが紹介されています。また、ゲームファンやアクションゲームを楽しむ人にとって、参考になる情報が含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-seven-deadly-sins-origin-is-a-free-to-play-open-world-anime-rpg-with-flying-pigs-and-minecart-levels",
+        "date": "2026-03-16",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-16T13:28:07.233717"
+  "last_updated": "2026-03-16T21:39:47.741063"
 }
