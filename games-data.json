@@ -556,6 +556,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/split-fiction/info/",
         "date": "2026-03-17"
+      },
+      {
+        "title": "バトルフィールド 1 ",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "バトルフィールド1がSteamで95%オフのセール中です。このゲームはファーストパーソンシューティングゲームであり、第一次世界大戦を舞台にした壮大な戦闘を体験できます。通常価格よりも大幅に安くなっているので、ゲームファンにはおすすめのセールです。評価も高く、ユーザーから高い人気度を誇っています。",
+        "price": "¥215",
+        "originalPrice": "¥4,300",
+        "discount": "95% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1238840",
+        "date": "2026-03-17"
+      },
+      {
+        "title": "Dredge",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Dredgeは、Variousで現在65パーセントオフのセール中です。このゲームは、ユニークなフィッシングアクションと、暗い海底世界を探索することができる特徴があり、ファンタジーとホラーの要素を組み合わせた、オリジナルのゲームです。評価は高く、多くのプレイヤーから好評価を得ています。人気度も高いので、セールを逃すことはないでしょう。",
+        "price": "$8.73",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dredge/info/",
+        "date": "2026-03-17"
       }
     ],
     "review": [
@@ -1000,8 +1024,47 @@
         "url": "https://www.inside-games.jp/article/2026/03/17/178706.html",
         "date": "2026-03-17",
         "is_translated": false
+      },
+      {
+        "title": "【アレックスと大規模なバランス調整を導入した「ストリートファイター6」のPC Steam版が過去...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「ストリートファイター6」のPC Steam版についてのレビュー記事では、アレックスと大規模なバランス調整を導入した内容が評価されています。このゲームの評価ポイントとして、ゲームバランスの見直しや新しいキャラクターの追加が挙げられます。レビューの内容概要では、ゲームの操作性やグラフィックの向上も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165116.html",
+        "date": "2026-03-17",
+        "is_translated": false
+      },
+      {
+        "title": "【ローグライト横スクロールアクション「Absolum」のXbox Series X|S対応がアナ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Absolum」はローグライト要素を取り入れた横スクロールアクションゲームで、Xbox Series X|Sへの対応が発表されています。このゲームの評価ポイントとしては、快適な操作性と豊富なアイテムの種類が挙げられます。また、レビューにおいては、ステージのランダム性や難易度の調整が称賛されています。このレビュー記事は、アクションゲームファンやローグライトゲームに興味のある読者に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165120.html",
+        "date": "2026-03-17",
+        "is_translated": false
+      },
+      {
+        "title": "【あなたが肘掛け椅子の語源学者なら、『ファークライ』の名前はとても皮肉なものです：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "『ファークライ』というゲームの名前は、実はとても皮肉なものであることがわかります。このゲームのレビュー記事では、その名前の意味やゲームの内容などについて評価しています。例えば、ゲームの世界観やストーリー、グラフィックの 퀄리ティなどが評価ポイントとなっています。また、このレビューはゲームファンや新規プレイヤーに向けて書かれており、ゲームの魅力や面白さを伝える内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/far-crys-name-is-very-ironic-if-youre-an-armchair-etymologist",
+        "date": "2026-03-17",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-17T13:26:31.099192"
+  "last_updated": "2026-03-17T21:38:16.466404"
 }
