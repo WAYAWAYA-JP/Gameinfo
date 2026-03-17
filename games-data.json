@@ -52,42 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "The ESA All-Star Alliance Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、The ESA All-Star Alliance Bundleというバンドルの販売が行われています。このバンドルには、主要タイトルとして「Guacamelee!」、「Rogue Legacy」、「Axiom Verge」などが含まれており、ゲームのジャンルはアクションやアドベンチャーです。大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/alisteralliancebundle_bundle",
-        "date": "2026-03-07"
-      },
-      {
-        "title": "Cartridge Chaos",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Cartridge Chaosのバンドルが現在販売中です。このバンドルには、主なタイトルとして「A Short Hike」や「Hyper Light Drifter」、「Spelunky」が含まれています。ジャンルはアクションやアドベンチャーに分類され、価格帯はおよそ1,000円から2,000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/cartridgechaos_bundle",
-        "date": "2026-03-07"
-      },
-      {
-        "title": "Last Echoes Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Last Echoes Bundleが現在販売中です。このバンドルには、主要タイトルとして「The Coma 2: Vicious Sisters」、「The Town of Light」、「Those Who Remain」などが含まれています。ジャンルはインディーゲームやホラーゲームを中心に構成されており、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/last-echoes-bundle",
-        "date": "2026-03-07"
-      },
-      {
         "title": "Mega Man: Charged Up Collection",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,90 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Frostpunk 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Frostpunk 2はシティビルディングゲームです。都市を建設・管理しながら、凍てついた世界で生活する人々を守っていく、ストラテジーとサバイバルが融合したゲームです。現在、57%の割引が適用されており、非常に魅力的です。ユーザーの評価は非常に高く、人気ゲームとして知られています。都市の建設と管理、そしてサバイバルの要素が組み合わさるこのゲームは。",
-        "price": "$19.34",
-        "originalPrice": "",
-        "discount": "-57%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
-        "date": "2026-03-10"
-      },
-      {
-        "title": "スーパーダンガンロンパ2 さよなら絶望学園",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "スーパーダンガンロンパ2 さよなら絶望学園はアドベンチャーゲームであり、ユニークなストーリーとキャラクターが特徴です。現在、Steamで90% OFFのセール中であり、大幅に割引された価格でプレイすることができます。このゲームは高い評価を受けており、人気度も高く、ファンから高い支持を得ています。",
-        "price": "¥213",
-        "originalPrice": "¥2,138",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/413420",
-        "date": "2026-03-10"
-      },
-      {
-        "title": "ニューダンガンロンパV3 みんなのコロシアイ新学期",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ニューダンガンロンパV3 みんなのコロシアイ新学期がSteamで80% OFFのセール中です。このゲームは、サバイバルアドベンチャーのジャンルに属し、学園を舞台にしたミステリーを楽しむことができます。現在、80%の割引で購入でき、非常にリーズナブルな価格になっています。人気ゲームシリーズの最新作であり、ファンから高い評価を受けています。",
-        "price": "¥838",
-        "originalPrice": "¥4,190",
-        "discount": "80% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/567640",
-        "date": "2026-03-10"
-      },
-      {
-        "title": "ダンガンロンパ 希望の学園と絶望の高校生",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ダンガンロンパ 希望の学園と絶望の高校生は、 Steamで現在60%オフのセール中です。このゲームは、アドベンチャーとサスペンスの要素を組み合わせたユニークなジャンルを持っており、プレイヤーは学園生活を通じてさまざまなキャラクターと交流し、事件を解決する必要があります。評価は非常に高く、人気も高いゲームで、セール期間中は通常価格より大幅に安く購入できます。",
-        "price": "¥855",
-        "originalPrice": "¥2,138",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/413410",
-        "date": "2026-03-10"
-      },
-      {
-        "title": "絶対絶望少女 ダンガンロンパ Another Episode",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "絶対絶望少女 ダンガンロンパ Another EpisodeがSteamで大幅なセール中です。このゲームはアクションアドベンチャーゲームであり、シリーズのファンには必携の作品です。現在、90%の割引が適用されており、通常価格より大幅に安くなっています。シリーズファンの評価も高く、人気度も高い作品となっています。",
-        "price": "¥380",
-        "originalPrice": "¥3,800",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/555950",
-        "date": "2026-03-10"
-      },
-      {
-        "title": "Hearts of Iron IV",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Hearts of Iron IVがSteamで70% OFFセール中です。このゲームは、第二次世界大戦を舞台にしたグランドストラテジーゲームであり、プレイヤーは国を運営して戦争を勝ち抜くことを目指します。通常価格よりも大幅に安くなっているこのセールは、特に戦略ゲームファンにとって魅力的です。Hearts of Iron IVは、ストーリー性や戦略的深度が高く評価されており。",
-        "price": "¥2,097",
-        "originalPrice": "¥6,990",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/394360",
-        "date": "2026-03-10"
-      },
-      {
-        "title": "Balatro",
-        "platform": "Various",
-        "type": "sale",
-        "description": "バラトロは、バラエティ豊かなゲームであり、現在27パーセント割引セール中です。このゲームは、高評価を得ている人気タイトルであり、多くのユーザーから好評価を得ています。価格も割引されることでより手頃になりましたので、興味のある方はお求めください。",
-        "price": "$10.95",
-        "originalPrice": "",
-        "discount": "-27%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/balatro/info/",
-        "date": "2026-03-10"
-      },
       {
         "title": "Deliver At All Costs",
         "platform": "Various",
@@ -644,136 +524,6 @@
     ],
     "review": [
       {
-        "title": "【次世代“Xbox”コンソール「Project Helix」のアルファ版開発キット提供時期を含む...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Xboxコンソール「Project Helix」のアルファ版開発キットについてのレビュー記事があります。この記事では、開発キットの提供時期や、ゲームの評価ポイントなどについて詳しく紹介しています。具体的には、グラフィックの高さや新しいコントローラーの操作感などについて評価しています。ゲーム開発者やXboxシリーズのファンにとって、興味深い情報が得られると思います。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164945.html",
-        "date": "2026-03-12",
-        "is_translated": false
-      },
-      {
-        "title": "【「ゆるキャン△」のマルチ対応ゲーム『ゆるキャン△ みんなでワチャワチャ！キャンピングクック！』...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ゆるキャン△のマルチ対応ゲーム『ゆるキャン△ みんなでワチャワチャ！キャンピングクック！』のレビュー記事では、ゲームの評価ポイントとして、キャラクターの愛らしさやキャンプの雰囲気の再現度が高いことが挙げられています。また、ゲームのレビューでは、簡単な操作で楽しめるクッキングバトルや、キャラクター同士の会話のやり取りが面白いという点が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/laid-back-camp-20260312-428596/",
-        "date": "2026-03-12",
-        "is_translated": false
-      },
-      {
-        "title": "【Bloober Teamが開発を手がけたリメイク版「SILENT HILL 2」の累計プレイヤ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Bloober Teamが開発を手がけたリメイク版「SILENT HILL 2」のレビュー記事では、ゲームの評価ポイントとしてグラフィックの向上やサウンドデザインの効果的な使用があげられます。また、ストーリーやキャラクターの深みも高く評価されています。このレビューは、ホラーゲームファンやオリジナル版をプレイしたことがある人のほか、サバイバルホラーゲームに興味がある人にも読んでみる価値があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164977.html",
-        "date": "2026-03-12",
-        "is_translated": false
-      },
-      {
-        "title": "【傑作ネコ育成ローグライク「Mewgenics」の小規模な第1弾DLCは300種を超えるアビリテ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Mewgenics」の小規模な第1弾DLCのレビューでは、このゲームの評価ポイントとして、300種を超えるアビリティが追加されたことや、ゲームの自由度が高まったことを挙げています。また、レビューの内容概要として、ローグライクゲームとしての魅力や、ネコの育成要素が充実している点が紹介されています。このレビューは、ローグライクゲームやネコが好きな人に向けて。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164955.html",
-        "date": "2026-03-12",
-        "is_translated": false
-      },
-      {
-        "title": "【『Doki Doki Literature Club!（ドキドキ文芸部！）』に政府機関が注意喚...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「Doki Doki Literature Club!（ドキドキ文芸部！）」について取り上げています。政府機関がこのゲームに注意を喚起した理由や、その内容について評価しています。特に、ゲームのストーリーやキャラクター、そしてプレイヤーへの心理的影響について触れています。ゲーム好きや心理学に興味のある読者に適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/12/178510.html",
-        "date": "2026-03-12",
-        "is_translated": false
-      },
-      {
-        "title": "【リメイク版『SILENT HILL 2』全世界累計プレイヤー数“500万人”突破！PSストアで...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "リメイク版『SILENT HILL 2』は全世界で500万人以上がプレイしており、PSストアでの評価ポイントは高く、レビューの内容概要としては、グラフィックの向上や新しいゲームシステムの導入が高く評価されています。また、ストーリーやサウンドトラックも好評であり、ホラーゲームファンやアクションゲームファンにとっては必-playのタイトルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/12/178503.html",
-        "date": "2026-03-12",
-        "is_translated": false
-      },
-      {
-        "title": "【サッカー“控え室”激務ゲーム『Kitman』発表。最大4人協力プレイで掃除洗濯スパイク磨き、ス...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このゲーム「Kitman」は、サッカーの控え室での激務を体験できるユニークなゲームです。最大4人で協力プレイが可能で、掃除や洗濯、スパイクの磨きなど、控え室での様々な作業を体験できます。レビューでは、そのユニークなゲーム性や協力プレイの面白さが高く評価されています。対象読者は、サッカーが好きな人やユニークなゲームを楽しむ人向けです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260312-428695/",
-        "date": "2026-03-12",
-        "is_translated": false
-      },
-      {
-        "title": "【Elden Ring Switch 2 のプレビューでは、実際にかなり優れたポートが示されています】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Elden Ring Switch 2のプレビューでは、実際にかなり優れたポートが示されていることがわかります。このゲームの評価ポイントとしては、グラフィックのクオリティ、ゲームプレイのスムーズさ、そしてストーリーの深さがあげられます。レビューの内容概要としては、Switch版でもPC版と同等のゲーム体験ができること、操作性が良好であること、そしてストーリーが引き付けられることが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/elden-ring-switch-2-preview/",
-        "date": "2026-03-12",
-        "is_translated": true
-      },
-      {
-        "title": "【6つのモードと4種のマップがプレイできる「Battlefield 6」のフリートライアルがまも...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Battlefield 6」のフリートライアル版についてのレビュー記事があります。このゲームは6つのモードと4種のマップをプレイすることができ、戦略性とアクションが求められます。ゲームの評価ポイントとしては、グラフィックの質とゲームプレイのスムーズさが高く評価されています。また、レビューではマルチプレイヤー機能とシングルプレイヤー機能の両方が充実していることも強調されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164989.html",
-        "date": "2026-03-12",
-        "is_translated": false
-      },
-      {
-        "title": "【ボクセルサンドボックス破壊ゲーム「Teardown」のマルチプレイヤーが遂に実装、ローンチトレ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ボクセルサンドボックス破壊ゲーム「Teardown」のマルチプレイヤー機能が実装され、ローンチトレーラーも公開されました。このゲームの評価ポイントとしては、破壊の自由度やマルチプレイヤーでの遊び応えが挙げられます。レビューの内容概要としては、破壊のリアルさやマルチプレイヤーでの戦略性が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164950.html",
-        "date": "2026-03-12",
-        "is_translated": false
-      },
-      {
         "title": "【トランプ米政権、今度は任天堂の『Wii Sports』映像を“イラン攻撃の空爆映像”と組み合わ...：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -810,19 +560,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/03165003.html",
         "date": "2026-03-13",
-        "is_translated": false
-      },
-      {
-        "title": "【“D＆D”ルールを用いるタクティカルRPG続編「Solasta II」の早期アクセス版が遂に発...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Solasta IIは、D&Dルールを用いるタクティカルRPGの続編であり、その早期アクセス版がようやく発売されました。このゲームの評価ポイントは、戦略的で深いゲームプレイ、豊富なキャラクターのカスタマイズ、そして美しいグラフィックスです。レビューの内容概要としては、ゲームの難易度やストーリーの面白さ、そしてゲームシステムの完成度が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03164953.html",
-        "date": "2026-03-12",
         "is_translated": false
       },
       {
@@ -1149,8 +886,34 @@
         "url": "https://www.rockpapershotgun.com/the-seven-deadly-sins-origin-is-a-free-to-play-open-world-anime-rpg-with-flying-pigs-and-minecart-levels",
         "date": "2026-03-16",
         "is_translated": true
+      },
+      {
+        "title": "【The Seven Deadly Sins: Origin は、空飛ぶ豚やトロッコのレベルを備...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "The Seven Deadly Sins: Origin は、空飛ぶ豚やトロッコのレベルを備えたアクションゲームであり、レビューではその独自のゲームプレイスタイルやグラフィックの美しさが評価されています。さらに、ゲームのストーリーやキャラクターの深みも高く評価されており、ファンタジー系ゲームファンには特にオススメできると言えるでしょう。また、ゲームの操作性や難易度調整も適切だと評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-seven-deadly-sins-origin-is-a-free-to-play-open-world-anime-rpg-with-flying-pigs-and-minecart-levels",
+        "date": "2026-03-16",
+        "is_translated": true
+      },
+      {
+        "title": "【魔女の帽子のアトリエ レビュー: フリーレンの憂鬱を乗り越えるのに最適なファンタジー アニメ】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事は、ファンタジー・アニメの「魔女の帽子のアトリエ」を紹介しており、ファンタジー・アニメのファンや、ストーリーに興味がある人にとっては最適な記事です。評価ポイントとしては、ストーリーの魅力、キャラクターの深み、音楽の美しさが挙げられます。また、この記事では、主人公の成長や友情、冒険の喜びなどが描かれており、読者はアニメの世界に没頭することができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/witch-hat-atelier-episodes-1-2-review-impressions/",
+        "date": "2026-03-17",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-16T21:39:47.741063"
+  "last_updated": "2026-03-17T02:01:45.702151"
 }
