@@ -218,6 +218,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/gamesdonequickfrostfatales2026_bundle",
         "date": "2026-03-16"
+      },
+      {
+        "title": "The ESA All-Star Alliance Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、The ESA All-Star Alliance Bundleが現在販売中です。このバンドルには、主要タイトルとして「Tom Clancy's Ghost Recon: Wildlands」、「South Park: The Stick of Truth」、「Far Cry 5」のような人気ゲームが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/alisteralliancebundle_bundle",
+        "date": "2026-03-17"
+      },
+      {
+        "title": "Cartridge Chaos",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Cartridge Chaosと呼ばれるバンドルの販売が行われています。このバンドルには、ファイティング・フューリー、スプラッシャー、デモニック・ダッシュなどの主要タイトルが含まれており、主にアクションゲームや横スクロールアクションゲームが中心となっています。大まかな価格帯は10ドルから20ドル程度で、バンドルによって価格が異なりますが。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/cartridgechaos_bundle",
+        "date": "2026-03-17"
       }
     ],
     "sale": [
@@ -520,6 +544,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cozy-grove/info/",
         "date": "2026-03-16"
+      },
+      {
+        "title": "Split Fiction",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アドベンチャーゲーム「Split Fiction」が、Variousで30%オフのセール中です。このゲームは、ユニークなストーリーテリングと難解なパズルが特徴で、プレイヤーは複数の視点から物語を進めていきます。現在、通常価格より30%割引された価格で購入できます。評価は高く、ユーザーからの人気度も高いゲームで、ファンから高い評価を得ています。",
+        "price": "$34.99",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/split-fiction/info/",
+        "date": "2026-03-17"
       }
     ],
     "review": [
@@ -912,8 +948,34 @@
         "url": "https://www.polygon.com/witch-hat-atelier-episodes-1-2-review-impressions/",
         "date": "2026-03-17",
         "is_translated": true
+      },
+      {
+        "title": "【“昆虫型異星生物”掃討シューター『Starship Troopers: Ultimate Bu...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、シューティングゲーム「Starship Troopers: Ultimate Bundle」の評価ポイントを紹介しています。ゲームの評価ポイントとして、グラフィックの質、ゲームプレイのスピード、ストーリーの面白さなどが挙げられます。レビューの内容概要としては、ゲームの難易度、操作のしやすさ、ステージの多様性などが説明されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260317-429955/",
+        "date": "2026-03-17",
+        "is_translated": false
+      },
+      {
+        "title": "【『ドラクエ』4人マルチプレイも対応のローグライトRPG！新作アプリ『ドラゴンクエストスマッシュ...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、ローグライトRPGの新作アプリ『ドラゴンクエストスマッシュ』について評価しています。このゲームは、『ドラクエ』の世界観をベースに4人マルチプレイも対応している点が特徴です。ゲームの評価ポイントとしては、独自のゲームシステムやグラフィックの美しさ、そしてマルチプレイの楽しさが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/17/178696.html",
+        "date": "2026-03-17",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-17T02:01:45.702151"
+  "last_updated": "2026-03-17T09:55:34.043997"
 }
