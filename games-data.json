@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/cartridgechaos_bundle",
         "date": "2026-03-17"
+      },
+      {
+        "title": "Geeks & Chicks Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Geeks & Chicks Bundleが販売中です。このバンドルには、主要タイトルとして「Gnomes vs. Fairies」や「The Whispered World」などが含まれており、ゲームのジャンルはアドベンチャーやパズルゲームが中心です。大まかな価格帯は数ドルから10ドル程度で、バンドルの中には様々なゲームが収録されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/geeks-and-chicks-bundle",
+        "date": "2026-03-18"
       }
     ],
     "sale": [
@@ -592,6 +604,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
         "date": "2026-03-18"
+      },
+      {
+        "title": "Deliver At All Costs",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Deliver At All Costsは、ストラテジーゲームであり、現在Variousで25%割引のセール中です。このゲームは、戦略的思考とリソース管理が求められるため、ストラテジーファンにはおすすめです。評価も良好で、ユーザーから高い人気度を誇っています。",
+        "price": "$22.49",
+        "originalPrice": "",
+        "discount": "-25%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/deliver-at-all-costs/info/",
+        "date": "2026-03-18"
       }
     ],
     "review": [
@@ -906,8 +930,47 @@
         "url": "https://www.inside-games.jp/article/2026/03/18/178717.html",
         "date": "2026-03-18",
         "is_translated": false
+      },
+      {
+        "title": "【古代壁画がぬるぬる動くゲーム『Fresco』、にわかに大注目集めバイラル化。“壁画内の人”と協...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「Fresco」は、古代壁画が動き出すというユニークなゲームで、最近急に注目されてバイラル化しています。このゲームでは、壁画の中の人々と協力して課題を克服していきます。レビューでは、ゲームのグラフィックやサウンドトラックが高く評価されています。また、壁画の中の人々との協力プレイが面白いという意見もあります。このゲームは、グラフィックやサウンドトラックを重視するゲーマーに特にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/fresco-20260318-430379/",
+        "date": "2026-03-18",
+        "is_translated": false
+      },
+      {
+        "title": "【『グラブル リリンク：エンドレスラグナロク』CBTの「ベアトリクス」で体感した“圧倒的な猛進ぶ...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "グラブル リリンク：エンドレスラグナロクのクローズドベータテストで使える「ベアトリクス」についてのレビュー記事です。このゲームは、圧倒的な猛進ぶりやスキル系統の多さなどが特徴です。ゲームの評価ポイントとしては、キャラクターの能力の高さやバトルシステムの複雑さがあります。さらに、キャラクターの成長要素やストーリーの深みも魅力的です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/18/178747.html",
+        "date": "2026-03-18",
+        "is_translated": false
+      },
+      {
+        "title": "【アークレイダーズスタジオの共同創設者、性的違法行為の申し立てを受けて辞任、しかしエンバークは法...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム開発会社アークレイダーズスタジオの創設者が性的違法行為の申し立てを受けて辞任した事件について取り上げています。記事では、この事件がゲームの評価に与える影響や、同社の今後の展開について考察しています。特に、ゲームファンや業界関係者にとって、ゲーム開発会社の社会的責任や倫理観の重要性を強調しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/arc-raiders-studio-co-founder-resigns-following-sexual-misconduct-claims-but-embark-say-a-legal-review-did-not-substantiate-the-allegations",
+        "date": "2026-03-18",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-18T09:55:03.422379"
+  "last_updated": "2026-03-18T13:27:49.446238"
 }
