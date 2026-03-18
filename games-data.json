@@ -568,6 +568,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-alters/info/",
         "date": "2026-03-18"
+      },
+      {
+        "title": "デッドバイデイライト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "デッドバイデイライトは、サバイバルホラーゲームとして人気を博しており、現在Steamで60%オフのセール中です。このゲームは、プレイヤーが殺人鬼となり、他のプレイヤーを捕まえるという独特の要素が特徴です。評価も高く、ユーザーから非常に好評価を得ています。価格も割引によりかなり安くなっているので、ホラーゲームファンにはお勧めです。",
+        "price": "¥792",
+        "originalPrice": "¥1,980",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/381210",
+        "date": "2026-03-18"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ロックスター・ゲームズのオープンワールドアクションアドベンチャーゲーム「Red Dead Redemption 2」がVariousで78%の割引で販売中です。このゲームは、西部開拓時代を舞台に、ガンアクションやストーリーが評価されており、非常に人気の高いゲームです。",
+        "price": "$13.20",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-03-18"
       }
     ],
     "review": [
@@ -885,5 +909,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-18T02:05:49.571959"
+  "last_updated": "2026-03-18T09:55:03.422379"
 }
