@@ -254,6 +254,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/geeks-and-chicks-bundle",
         "date": "2026-03-18"
+      },
+      {
+        "title": "Checkmate! A Chess Games Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、チェスゲームのコレクションである「Checkmate! A Chess Games Collection」のバンドルが販売中です。このバンドルには、チェスゲームを中心としたタイトルが含まれており、主なタイトルとしては「Chess Ultra」や「Battle vs Chess」などが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/checkmatechessgamescollection_bundle",
+        "date": "2026-03-18"
       }
     ],
     "sale": [
@@ -616,6 +628,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/deliver-at-all-costs/info/",
         "date": "2026-03-18"
+      },
+      {
+        "title": "RimWorld",
+        "platform": "Various",
+        "type": "sale",
+        "description": "シミュレーションゲームのRimWorldが現在、Variousで27%割引のセール中です。このゲームは、荒野に漂着したキャラクターを生存させ、コミュニティを築くことを目的とした、面白く挑戦的な経験を提供します。プレイヤーは、さまざまなイベントや状況に応じて、キャラクターの行動や生活を管理する必要があります。",
+        "price": "$25.54",
+        "originalPrice": "",
+        "discount": "-27%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/rimworld/info/",
+        "date": "2026-03-18"
       }
     ],
     "review": [
@@ -972,5 +996,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-18T13:27:49.446238"
+  "last_updated": "2026-03-18T21:34:43.517210"
 }
