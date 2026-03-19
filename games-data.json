@@ -1,92 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Idle Champions of the Forgotten Realms",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Idle Champions of the Forgotten Realmsは、Epic Gamesで現在無料配布中のゲームです。このゲームは、アイドルゲームのジャンルに分類され、プレイヤーがキャラクターを集めてパーティーを編成し、自動で戦闘を行うことが特徴です。また、 Forgotten Realmsの世界を舞台にしていることや。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年03月12日まで",
-        "url": "https://store.epicgames.com/ja/p/idle-champions-of-the-forgotten-realms",
-        "date": "2026-03-12"
-      },
-      {
-        "title": "Turnip Boy Robs a Bank",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Turnip Boy Robs a Bankは、Epic Gamesで無料配布中のアクションアドベンチャーゲームです。このゲームの特徴は、ユーモラスなグラフィックと面白いストーリーがあり、プレイヤーはターンニップ・ボーイを操作して銀行を襲撃します。また、ゲームのシステムはシンプルですが、チャレンジングなステージデザインが楽しめます。さらに、ゲームの雰囲気は軽快で、プレイヤーを楽しませます。",
-        "price": "無料",
-        "originalPrice": "¥14",
-        "discount": "100% OFF",
-        "deadline": "2026年03月12日まで",
-        "url": "https://store.epicgames.com/ja/p/000ff62d1877415589bb126e900a88e8",
-        "date": "2026-03-12"
-      },
-      {
-        "title": "Cozy Grove",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Cozy Groveは、生活シミュレーションゲームで、プレイヤーが幽霊の住む島で生活するというユニークな設定が特徴です。このゲームの魅力は、島を復活させていくことで得られる成就感や、様々な幽霊と交流することができます。また、リラックスした雰囲気で遊ぶことができるのも魅力の一つです。現在、Epic Gamesプラットフォームで無料配布中なので、気軽に遊んでみることができます。",
-        "price": "無料",
-        "originalPrice": "¥15",
-        "discount": "100% OFF",
-        "deadline": "2026年03月19日まで",
-        "url": "https://store.epicgames.com/ja/p/cozy-grove",
-        "date": "2026-03-12"
-      },
-      {
-        "title": "Isonzo",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Isonzoは、Epic Gamesで現在無料配布中の、ファーストパーソン・シューティングゲームです。このゲームの特徴としては、第一次世界大戦を舞台にしたリアルな戦闘シーン、複数のプレイヤーが参加できるマルチプレイモード、そしてグラフィックとサウンドデザインの高いクオリティが挙げられます。プレイヤーは、歴史的な戦争シーンを体験し、戦略的なチームプレイを楽しむことができます。",
-        "price": "無料",
-        "originalPrice": "¥30",
-        "discount": "100% OFF",
-        "deadline": "2026年03月19日まで",
-        "url": "https://store.epicgames.com/ja/p/isonzo",
-        "date": "2026-03-12"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Mega Man: Charged Up Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Mega Man: Charged Up Collectionのバンドルが販売中です。このバンドルには、主要タイトルとしてMega Man 11やMega Man X Legacy Collectionなどの人気作品が含まれています。アクションゲームファンには必見のジャンルであり、大まかな価格帯は20ドル以下と比較的手頃です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/megamanchargedupcollection_bundle",
-        "date": "2026-03-09"
-      },
-      {
-        "title": "HHMassive Music 3 Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、HHMassive Music 3 Bundleが販売中です。このバンドルには、主要タイトルとして「Massive Music Pack」、「Epic Music Pack」、「Cinematic Music Pack」などが含まれています。ジャンルは、主に映画やゲーム向けのエピックなサウンドトラックです。大まかな価格帯は、10ドルから20ドル程度と見られています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/massive-music3-bundle",
-        "date": "2026-03-09"
-      },
-      {
-        "title": "The MIX Spring Showcase: Games Around The World",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、The MIX Spring Showcase: Games Around The Worldというバンドルが販売中です。このバンドルには、世界中のさまざまなゲームが収録されており、インディーゲームファンにはおすすめです。主要タイトルとしては、RPG、パズル、シミュレーションゲームなどが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/mixspringshowcasegamesaroundworld_bundle",
-        "date": "2026-03-09"
-      },
       {
         "title": "Best of Humble Bundle: Beamdog & Owlcat: RPG Masters",
         "platform": "Humble Bundle",
@@ -266,117 +181,21 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/checkmatechessgamescollection_bundle",
         "date": "2026-03-18"
+      },
+      {
+        "title": "March 2026 Humble Choice",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、2026年3月のHumble Choiceバンドルが現在販売中です。このバンドルには、「Dead Cells」や「Returnal」などの主要タイトルが含まれています。ジャンルはアクションやアドベンチャーに重点を置いており、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/march_2026_choice",
+        "date": "2026-03-19"
       }
     ],
     "sale": [
-      {
-        "title": "Monster Hunter Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "モンハンシリーズの最新作「Monster Hunter Wilds」が、現在Variousで53%オフのセール中です。このゲームは、アクションパックされたハンティングゲームで、巨大なモンスターと戦う爽快感が特徴です。価格も割引により大幅に下がっており、シリーズファンや新規プレイヤーにとってはおすすめの買い時です。",
-        "price": "$32.89",
-        "originalPrice": "",
-        "discount": "-53%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
-        "date": "2026-03-12"
-      },
-      {
-        "title": "Slay the Spire",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Slay the SpireがSteamで大きなセール中です。このゲームは、ローグライクとデッキビルディングの要素を組み合わせた、独特なゲームプレイを提供するロールプレイングゲームです。通常価格より75%オフで提供されており、非常に魅力的です。ユーザーの評価は非常に高い人気ゲームで、Steamでの評価は「非常に好評」です。",
-        "price": "¥700",
-        "originalPrice": "¥2,800",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/646570",
-        "date": "2026-03-12"
-      },
-      {
-        "title": "Cities: Skylines",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Cities: Skylinesは、都市計画シミュレーションゲームの一つで、都市の設計と管理をプレイヤーに任せるという特徴があります。現在、Steamではこのゲームが90%オフのセール中です。評価は非常に高く、ユーザーから高い人気度を誇り、シミュレーションゲームファンには必携のタイトルとなっています。この機会に、低価格で体験することができます。",
-        "price": "¥399",
-        "originalPrice": "¥3,990",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/255710",
-        "date": "2026-03-12"
-      },
-      {
-        "title": "Crusader Kings III",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Crusader Kings IIIがSteamで70% OFFセール中です。このゲームは、ストラテジーとシミュレーションを融合させた中世を舞台にしたグランドストラテジーゲームで、プレイヤーは中世の貴族となり、権力と富を求めて戦略を立てていきます。評価は非常に高く、レビュアーから高い評価を得ています。通常価格よりも大幅に安くなっているので、購入するのに最適な機会です。",
-        "price": "¥2,097",
-        "originalPrice": "¥6,990",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1158310",
-        "date": "2026-03-12"
-      },
-      {
-        "title": "Dead Space (2023)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Dead Space（2023）がVariousで85％オフのセール中で、サバイバルホラーゲームとして人気があり、非常に評価の高い作品です。",
-        "price": "$8.99",
-        "originalPrice": "",
-        "discount": "-85%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dead-space-2023/info/",
-        "date": "2026-03-12"
-      },
-      {
-        "title": "Warhammer 40,000: Space Marine 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Warhammer 40,000: Space Marine 2がVariousで67%割引され、現在セール中です。このゲームはアクションパックされたサードパーソンシューティングゲームで、戦略的戦闘と壮大なストーリーが特徴です。ファンタジーとSF要素を組み合わせた独自の世界観が人気を博しており、ファンから高い評価を受けています。価格が大幅に割引されているので、興味がある方は今がチャンスです。",
-        "price": "$19.79",
-        "originalPrice": "",
-        "discount": "-67%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
-        "date": "2026-03-12"
-      },
-      {
-        "title": "NieR:Automata™",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションRPGゲームの『NieR:Automata』がSteamで60%オフのセール中です。このゲームは、美しいグラフィックと激しいアクションが特徴で、人間と機械の戦いを描いています。評価も非常に高く、人気度も高いゲームです。通常価格より大幅に安くなっているので、興味がある方はぜひこの機会に購入してみてください。",
-        "price": "¥2,112",
-        "originalPrice": "¥5,280",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/524220",
-        "date": "2026-03-12"
-      },
-      {
-        "title": "STAR WARS Jedi: Survivor™‎",
-        "platform": "Various",
-        "type": "sale",
-        "description": "STAR WARS Jedi: Survivorが現在、バリューに90%割引されて販売中です。このアクションアドベンチャーゲームは、スターウォーズシリーズのファンに人気があり、グラフィックやゲームプレイの質が高く評価されています。価格も割引されているため、興味がある方はぜひこの機会にチェックしてみてください。",
-        "price": "$6.99",
-        "originalPrice": "",
-        "discount": "-90%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/star-wars-jedi-survivor/info/",
-        "date": "2026-03-12"
-      },
-      {
-        "title": "DOOM: The Dark Ages",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションパックされたFPSゲームであるDOOM: The Dark AgesがVariousで現在72%オフのセール中です。このゲームは、激しい戦闘と暗い雰囲気で知られており、ファンからは高く評価されています。価格も割引により大幅に下がっているので、興味のある方はお試しください。",
-        "price": "$19.87",
-        "originalPrice": "",
-        "discount": "-72%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/doom-the-dark-ages/info/",
-        "date": "2026-03-12"
-      },
       {
         "title": "Isonzo",
         "platform": "Various",
@@ -640,48 +459,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/rimworld/info/",
         "date": "2026-03-18"
+      },
+      {
+        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "platform": "Various",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REMAKE INTERGRADEがVariousで50%割引のセール中です。ロールプレイングゲームとして人気の高いこの作品は、グラフィックやサウンドが高質なものになっており、ファイナルファンタシーシリーズのファンに贈る最高の体験を提供します。評価も非常に高く、多くのユーザーから高評価を得ています。",
+        "price": "$19.99",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/final-fantasy-vii-remake-intergrade/info/",
+        "date": "2026-03-19"
       }
     ],
     "review": [
-      {
-        "title": "【『モンスターハンターストーリーズ3』初動でSteam同接「4万2000人超え」の快調スタート。...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『モンスターハンターストーリーズ3』はSteamでの初動が快調であり、4万2000人以上のプレイヤーが参加しています。レビュー記事では、このゲームの評価ポイントとして、ゲームのグラフィックやストーリーの魅力が高く評価されています。また、ゲームの操作性や難易度も高く評価されており、シリーズのファンや新規プレイヤーにもお勧めできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260314-429227/",
-        "date": "2026-03-14",
-        "is_translated": false
-      },
-      {
-        "title": "【GDCのオーディエンスアワードを獲得した「ダレカレ」の世界販売が10万本を突破、評価トレーラーも】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "GDCのオーディエンスアワードを獲得した「ダレカレ」の世界販売が10万本を突破し、評価トレーラーも公開されています。このゲームは、ユニークなゲームデザインや物語、そしてキャラクターの魅力が評価ポイントとなっています。レビューでは、ゲームのストーリーテリングやキャラクターの深み、そしてゲームプレイの面白さが高く評価されています。この記事は、ゲーム好きや新しいゲームを探している人に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165043.html",
-        "date": "2026-03-14",
-        "is_translated": false
-      },
-      {
-        "title": "【マックスとクロエの新たな物語を描く「ライフ イズ ストレンジ リユニオン」の本格的なゲームプレ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「ライフ イズ ストレンジ リユニオン」のレビュー記事では、マックスとクロエの新たな物語が描かれており、ゲームの評価ポイントとしてストーリーの深みやキャラクターの成長が挙げられています。レビューでは、ゲームの雰囲気やグラフィックの美しさも高く評価されています。また、ゲームのストーリーが複雑で予測できないことや、プレイヤーの選択が物語に大きな影響を与えることも指摘されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165039.html",
-        "date": "2026-03-14",
-        "is_translated": false
-      },
       {
         "title": "【『ぽこ あ ポケモン』は『マイクラ』というより『ぶつ森』派。無料短編『佐藤さん暇つぶしチャット...：レビュー】",
         "platform": "AUTOMATON",
@@ -993,8 +785,112 @@
         "url": "https://www.rockpapershotgun.com/arc-raiders-studio-co-founder-resigns-following-sexual-misconduct-claims-but-embark-say-a-legal-review-did-not-substantiate-the-allegations",
         "date": "2026-03-18",
         "is_translated": true
+      },
+      {
+        "title": "【「1000xRESIST」を生んだ“sunset visitor 斜陽過客”がThe Trip...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「1000xRESIST」を生んだ開発チーム「sunset visitor 斜陽過客」が手がけた新作「The Trip...」の評価ポイントを紹介しています。まず、ゲームのストーリーやグラフィックの独自性が高く評価されており、また、プレイヤーの感情を揺さぶるような感動的なシナリオも特徴的です。此外、ゲームの操作性やサウンドトラックの 퀄리ティも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165163.html",
+        "date": "2026-03-19",
+        "is_translated": false
+      },
+      {
+        "title": "【元BioWareのベテランたちが開発を率いる“Mass Effect”系アクションRPG「EX...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "元BioWareのベテランたちが開発を率いる「EX...」のレビュー記事は、150〜200文字で構成されています。このゲームは「Mass Effect」系のアクションRPGであり、その評価ポイントとして、ストーリーやキャラクターの深さ、ゲームプレイのスムーズさが挙げられます。レビューの内容概要としては、ゲームの世界観、戦闘システム、キャラクターの成長性などが説明されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165165.html",
+        "date": "2026-03-18",
+        "is_translated": false
+      },
+      {
+        "title": "【クリムゾンデザートのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "クリムゾンデザートのレビュー記事では、ゲームのグラフィックやサウンド、ストーリーなどを評価しています。特に、美しい砂漠の世界や、キャラクターの個性的な声を称賛しています。また、ゲームの難易度や操作性も高く評価されています。このレビュー記事は、クリムゾンデザートに興味がある人や、アクションゲームファン向けに適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/crimson-desert-review/",
+        "date": "2026-03-18",
+        "is_translated": true
+      },
+      {
+        "title": "【Crimson Desert に対する私たちの初期の評決: 悪い虫、素晴らしい猫、そして大きな...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Crimson Desert に関するレビュー記事では、このゲームの評価ポイントとして、キャラクターのデザインやストーリーの魅力が高く評価されている点、ゲームプレイの自由度が高く、プレイヤーが自分で冒険を楽しむことができる点、そしてキャットコンパニオンシステムがユニークで面白い点が挙げられているようです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/our-early-verdict-on-crimson-desert-bad-bugs-great-cats-and-an-open-world-that-could-use-a-big-bucket-of-yellow-paint",
+        "date": "2026-03-18",
+        "is_translated": true
+      },
+      {
+        "title": "【アークレイダーズスタジオの共同創設者、性的違法行為の申し立てを受けて辞任するも、エンバーク社は...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "アークレイダーズスタジオの共同創設者が性的違法行為の申し立てを受けて辞任したことを受けて、エンバーク社の対応が注目されています。レビュー記事では、この事件がゲーム開発に与える影響や、ゲームの評価ポイントであるストーリーやグラフィックの質について触れています。さらに、ゲームの完成度やプレイヤーへの配慮についても評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/arc-raiders-studio-co-founder-resigns-following-sexual-misconduct-claims-but-embark-say-a-legal-review-did-not-substantiate-the-allegations",
+        "date": "2026-03-18",
+        "is_translated": true
+      },
+      {
+        "title": "【Crimson Desert のレビューは、オープンワールド ゲームの再来ではないと述べています】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Crimson Desert のレビューでは、オープンワールドゲームの再来ではないと述べています。このゲームは、プレイヤーが自由に探索できる広大な世界を提供し、独自のストーリーとキャラクターで魅了します。評価ポイントとしては、グラフィックの質の高さ、戦闘システムの複雑さ、そしてキャラクターの深みが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/crimson-desert-review-round-up/",
+        "date": "2026-03-18",
+        "is_translated": true
+      },
+      {
+        "title": "【Crimson DesertのレビューではPS5、Xbox版のパフォーマンスが見落とされている】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Crimson Desertのレビュー記事では、PS5、Xbox版のパフォーマンスが見落とされているといった点が指摘されています。このゲームの評価ポイントとしては、グラフィックのクオリティやゲームプレイのスムーズ性が重要です。また、レビューの内容概要としては、ハードウェアの性能やゲームの最適化が評価の鍵を握っていると言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/crimson-desert-ps5-xbox-reviews/",
+        "date": "2026-03-18",
+        "is_translated": true
+      },
+      {
+        "title": "【Crimson Desert レビュー: 20 時間プレイ、より大きなオープンワールドが良いと...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Crimson Desert のレビュー記事では、20 時間のプレイを通じてゲームの評価ポイントを紹介しています。記事では、ゲームのオープンワールドの拡大が必要であると指摘し、より大きな世界観を求めています。また、ゲームのグラフィックやサウンドデザインも高く評価しています。対象読者は、オープンワールドゲームのファンやアクションゲーム愛好者向けです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/crimson-desert-impressions-early-hours/",
+        "date": "2026-03-18",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-18T21:34:43.517210"
+  "last_updated": "2026-03-19T02:06:59.195454"
 }
