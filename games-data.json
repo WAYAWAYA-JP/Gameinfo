@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Cozy Grove",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Cozy Groveは、生活シミュレーションゲームです。このゲームの特徴としては、かわいいキャラクターが登場すること、緑豊かな島での生活を楽しむことができること、そしてリラックスした雰囲気でプレイできることが挙げられます。また、Epic Gamesプラットフォームで無料配布中であり、誰でも簡単にダウンロードしてプレイすることができます。",
+        "price": "無料",
+        "originalPrice": "¥15",
+        "discount": "100% OFF",
+        "deadline": "2026年03月19日まで",
+        "url": "https://store.epicgames.com/ja/p/cozy-grove",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "Isonzo",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "現在、Epic Gamesではファーストパーソン・シューティングゲームであるIsonzoが無料配布中です。このゲームの特徴は、第一次世界大戦を舞台にしたリアルな戦闘シミュレーションや、多様な兵器と戦術を駆使して戦うことができる点です。また、オンラインマルチプレイ機能により、友達と協力して戦うこともできます。",
+        "price": "無料",
+        "originalPrice": "¥30",
+        "discount": "100% OFF",
+        "deadline": "2026年03月19日まで",
+        "url": "https://store.epicgames.com/ja/p/isonzo",
+        "date": "2026-03-19"
+      }
+    ],
     "bundle": [
       {
         "title": "Best of Humble Bundle: Beamdog & Owlcat: RPG Masters",
@@ -192,6 +217,30 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.humblebundle.com/games/march_2026_choice",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "Mega Man: Charged Up Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Mega Manシリーズのバンドル「Mega Man: Charged Up Collection」が販売中です。このバンドルには、「Mega Man 11」、「Mega Man X Legacy Collection」、「Mega Man Zero/ZX Legacy Collection」などの主要タイトルが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/megamanchargedupcollection_bundle",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "The MIX Spring Showcase: Games Around The World",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは「The MIX Spring Showcase: Games Around The World」というバンドルが販売中です。このバンドルには、インディーゲームを中心に様々なタイトルが収録されています。代表的なタイトルとしては、「Paralives」や「Kena: Bridge of Spirits」などがあります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/mixspringshowcasegamesaroundworld_bundle",
         "date": "2026-03-19"
       }
     ],
@@ -470,6 +519,66 @@
         "discount": "-50%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/final-fantasy-vii-remake-intergrade/info/",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "NieR:Automata™",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "NieR:Automata™は、アクションRPGのジャンルで人気の高いゲームです。現在、Steamで60%オフのセール中で、通常価格より大幅に安くなっています。評価も非常に高く、多くのユーザーから高い評価を受けています。世界観やストーリーも高く評価され、ゲームの内容は非常に充実しています。セール中のこの機会に、NieR:Automata™をプレイしてみるのはいかがでしょうか。",
+        "price": "¥2,112",
+        "originalPrice": "¥5,280",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/524220",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "Titanfall® 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Titanfall® 2がSteamで大幅な90% OFFのセール中です。このゲームはアクションパックのファーストパーソンシューティングゲームで、壮大なストーリーやスムーズな操作が特徴です。通常価格より大幅に安くなっているので、ファンや新規プレイヤーともにおすすめです。ゲームの評価は非常に高い人気ゲームであり、多くのプレイヤーから高く評価されています。",
+        "price": "¥300",
+        "originalPrice": "¥3,000",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1237970",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "Battlefield™ V",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでは、人気ファーストパーソン・シューティングゲームであるBattlefield Vが、現在95%オフのセール中です。このゲームは、第二次世界大戦を舞台に、グラフィックスと音響効果が高いレベルの戦闘体験を提供します。多くの評価サイトで高評価を獲得しており、ファンからも高い人気を誇っています。価格は大幅に割引されており、ファンや新規プレイヤーにとって大きなチャンスです。",
+        "price": "¥280",
+        "originalPrice": "¥5,600",
+        "discount": "95% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1238810",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "DAVE THE DIVER",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DAVE THE DIVERがVariousで52%割引のセール中であり、ダイビングアクションゲームのファンならお見逃しできない魅力的な作品です。このゲームは、ユニークなゲームプレイと美しいグラフィックで知られており、プレイヤーから高い評価を得ています。現在、非常に魅力的な価格での提供となっており、購入する絶好の機会となっています。",
+        "price": "$9.66",
+        "originalPrice": "",
+        "discount": "-52%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "Detroit: Become Human",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Detroit: Become HumanがVariousで86%オフのセール中です。このアドベンチャーゲームは、ロボットの視点から人間とロボットの関係を描いた独特の物語が特徴です。高評価を得たこの作品は、多くのユーザーから人気を博しています。",
+        "price": "$5.60",
+        "originalPrice": "",
+        "discount": "-86%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
         "date": "2026-03-19"
       }
     ],
@@ -889,8 +998,34 @@
         "url": "https://www.polygon.com/crimson-desert-impressions-early-hours/",
         "date": "2026-03-18",
         "is_translated": true
+      },
+      {
+        "title": "【協力2人プレイ対応ローグライトアクション『Dark Scrolls』発表。クセ強ヒーローが敵の...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、協力2人プレイ対応のローグライトアクションゲーム『Dark Scrolls』について取り上げています。ゲームの評価ポイントとしては、クセの強いヒーローや独自のゲームシステムが挙げられます。記事では、ゲームの魅力や難易度についても触れています。対象読者は、ローグライトアクションゲームのファンや、新しいゲームを探している人です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/dark-scrolls-20260319-430604/",
+        "date": "2026-03-19",
+        "is_translated": false
+      },
+      {
+        "title": "【「No Rest for the Wicked」にPvPデュエルや自宅の快適度システムを導入す...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「No Rest for the Wicked」の新しい機能を紹介しています。特にPvPデュエルや自宅の快適度システムの導入が評価ポイントになっています。レビューでは、これらの新機能がゲームの楽しみ方をどのように変えるかを詳しく説明しています。また、ゲームの評価ポイントとして、グラフィックやサウンドの質も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165162.html",
+        "date": "2026-03-19",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-19T02:06:59.195454"
+  "last_updated": "2026-03-19T09:42:41.504439"
 }
