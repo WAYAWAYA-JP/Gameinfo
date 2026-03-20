@@ -628,6 +628,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/baldurs-gate-3/info/",
         "date": "2026-03-20"
+      },
+      {
+        "title": "Terraria",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるTerrariaがSteamで50%オフのセール中です。このゲームは、2Dの横スクロールアクションと、砂漠やジャングルなどのさまざまな環境を探索することが特徴です。非常に人気があり、高評価のゲームであり、Steamでの平均評価は「非常に好意的」です。現在、通常価格より50%割引されていますので、気になる方はぜひこの機会に購入してみてください。",
+        "price": "¥600",
+        "originalPrice": "¥1,200",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/105600",
+        "date": "2026-03-20"
+      },
+      {
+        "title": "Marvel's Spider-Man Remastered",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Marvel's Spider-Man RemasteredがVariousで65%オフのセール中です。このアクションアドベンチャーゲームは、スパイダーマンを操作してニューヨーク市を巡り、様々なヴィランと戦います。非常に高く評価されており、人気も高いゲームです。通常価格より大幅に安くなっているので、スパイダーマンファンやアクションゲーム好きにはおすすめのセールです。",
+        "price": "$20.95",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
+        "date": "2026-03-20"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サイバーパンク2077は、オープンワールドRPGの傑作として知られており、現在Variousで65%割引のセール中です。このゲームは、未来的な世界を舞台に、プレイヤーが自由に探索し、ストーリーを進めていくことができます。サイバーパンク2077は、グラフィックやサウンドデザインが高く評価されており、ゲームファンから高い人気を博しています。セール中の価格でこの優れたゲームを手に入れることができます。",
+        "price": "$20.99",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
+        "date": "2026-03-20"
       }
     ],
     "review": [
@@ -1072,8 +1108,34 @@
         "url": "https://doope.jp/2026/03165224.html",
         "date": "2026-03-20",
         "is_translated": false
+      },
+      {
+        "title": "【期待のオープンワールドアクション『紅の砂漠』、“同接23万人超え”のロケットスタート切るも「賛...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "新作オープンワールドアクションゲーム『紅の砂漠』は、発売直後から大きな注目を集め、同接23万人を超えるロケットスタートを切った。しかし、レビュー記事では賛否両論が見られ、ゲームの評価ポイントとしてグラフィックやゲーム性の高さが評価されている一方で、バグやサーバーの不安定さが指摘されている。対象読者としては、アクションゲームファンやオープンワールドゲームを好む人向けのレビュー記事となり。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/crimson-desert-20260320-430887/",
+        "date": "2026-03-20",
+        "is_translated": false
+      },
+      {
+        "title": "【スクエニ騙し合いマルチ『KILLER INN（キラーイン）』に “不平等性”改善アプデ配信、ソ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "スクエニのマルチプレイヤーゲーム『KILLER INN（キラーイン）』のレビュー記事では、ゲームの評価ポイントとして「不平等性」の改善が取り上げられています。このゲームは、プレイヤー同士の戦略的な駆け引きを楽しむことができる点が評価されています。レビューでは、最新のアップデートにより「不平等性」の問題が改善されたことが強調されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/killer-inn-20260320-430875/",
+        "date": "2026-03-20",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-20T02:00:50.520702"
+  "last_updated": "2026-03-20T09:40:30.938709"
 }
