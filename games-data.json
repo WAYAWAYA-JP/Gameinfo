@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Best of Humble Bundle: Beamdog & Owlcat: RPG Masters",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Best of Humble Bundle: Beamdog & Owlcat: RPG Mastersというバンドルが販売中です。このバンドルには、Baldur's GateやPillars of Eternityなどの人気RPGタイトルが含まれており、ロールプレイングゲームファンには必見のアイテムです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/beamdogowlcatrpgmasters2026_bundle",
-        "date": "2026-03-10"
-      },
-      {
-        "title": "Humble 15 Time Capsule",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble 15 Time CapsuleのバンドルがHumble Bundleで販売中です。このバンドルには、The Stanley Parable、The Swapper、Her Storyなどの主要タイトルが含まれており、インディーゲームやパズルゲームなどのジャンルが中心です。大まかな価格帯は10ドル前後と比較的手頃です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/humble15timecapsule_bundle",
-        "date": "2026-03-10"
-      },
-      {
         "title": "Skautfold Saga Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -281,54 +257,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Isonzo",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ファーストパーソン・シューティングゲームであるIsonzoが現在、Variousで100%割引されています。このゲームは、第一次世界大戦を題材とし、史実に基づいた戦闘やグラフィックを特徴としています。ユーザーの評価は高く、ゲームのリアルさや戦略的な要素が人気の理由となります。現在のセールでは、完全に無料でプレイすることができ、戦術的な戦闘や歴史的なシナリオを体験することができます。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/isonzo/info/",
-        "date": "2026-03-13"
-      },
-      {
-        "title": "Deponia",
-        "platform": "Various",
-        "type": "sale",
-        "description": "DeponiaシリーズがVariousで100%割引で販売中です。このシリーズはポイント・アンド・クリックアドベンチャーゲームのジャンルに属し、ユーモアとパズルが特徴です。価格は通常価格から大幅に値下げされており、ファンや新規プレイヤーにとってはお買い得です。Deponiaシリーズは高い評価を受けており、ゲームファンの間で人気があります。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/deponia/info/",
-        "date": "2026-03-13"
-      },
-      {
-        "title": "Sid Meier's Civilization® VII",
-        "platform": "Various",
-        "type": "sale",
-        "description": "人気ゲームシド・マイヤーの文明化VIIがバリュー店で17%オフのセール中です。このタクティカルシミュレーションゲームは、世界の歴史を形作るために都市を建設し、リソースを管理し、戦略的な戦闘を戦うことができます。ファンから高評価を受けており、シビライゼーションシリーズを好むユーザーに人気があります。",
-        "price": "$58.07",
-        "originalPrice": "",
-        "discount": "-17%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/sid-meiers-civilization-vii/info/",
-        "date": "2026-03-13"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「Clair Obscur: Expedition 33」がVariousで29%割引されています。このゲームは、ユニークなグラフィックと心臓を躍らせるアクションが特徴で、プレイヤーは未知の世界を探索し、謎を解き明かしていきます。現在、セール中なので、通常価格より安く購入できます。評価も高く、多くのユーザーが楽しんでいる人気ゲームです。",
-        "price": "$35.55",
-        "originalPrice": "",
-        "discount": "-29%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-03-13"
-      },
       {
         "title": "NieR Replicant™ ver.1.22474487139...",
         "platform": "Steam",
@@ -664,48 +592,45 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/1144200",
         "date": "2026-03-19"
+      },
+      {
+        "title": "BIOHAZARD RE:3",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気のサバイバルホラーゲーム「BIOHAZARD RE:3」がSteamで大幅な割引セール中です。このゲームは、激しいアクションと恐怖を体験できることで知られており、ファンからの評価も非常に高いです。現在90%オフの特価で提供されており、通常の価格より大幅に安くなっています。ホラーゲームファンやシリーズのファンにとってはおすすめのチャンスです。",
+        "price": "¥399",
+        "originalPrice": "¥3,990",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/952060",
+        "date": "2026-03-20"
+      },
+      {
+        "title": "SILENT HILL f",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "SILENT HILL fがSteamで50% OFFセール中です。このゲームはホラーゲームの名作であり、恐怖体験を求めるプレイヤーに人気があります。現在、50%の割引により購入できます。評価も高く、ファンから高い評価を得ています。",
+        "price": "¥4,290",
+        "originalPrice": "¥8,580",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2947440",
+        "date": "2026-03-20"
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Baldur's Gate 3はロールプレイングゲームで、ストーリーが豊かで深い世界観が特徴です。現在、Variousで25%割引のセール中で、ファンタジーを愛する人にはおすすめです。評価も高く、ユーザーから人気を博しており、ロールプレイングゲームファンには必ずプレイしてみるべき作品です。",
+        "price": "$44.99",
+        "originalPrice": "",
+        "discount": "-25%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/baldurs-gate-3/info/",
+        "date": "2026-03-20"
       }
     ],
     "review": [
-      {
-        "title": "【『ぽこ あ ポケモン』は『マイクラ』というより『ぶつ森』派。無料短編『佐藤さん暇つぶしチャット...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ぽこ あ ポケモン』は、グラフィックとゲーム性が『ぶつ森』に近いゲームです。無料でプレイできる短編ゲーム『佐藤さん暇つぶしチャット』のレビューでは、ユニークなゲーム性と簡単な操作性が評価されています。グラフィックもシンプルながらも愛らしいキャラクターが登場するため、カジュアルゲームファンや『ぶつ森』シリーズのファンにはお勧めです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260315-429505/",
-        "date": "2026-03-15",
-        "is_translated": false
-      },
-      {
-        "title": "【『サカつく2026』約2年続いた無敗記録が、惨敗で途切れた日。荒んだ心が“アイドル”アンタンシ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『サカつく2026』のレビュー記事では、約2年間続いた無敗記録が惨敗で途切れた様子が紹介されています。この記事では、ゲームの評価ポイントとして、無敗記録の途切れや、プレイヤーの心の荒れなどが取り上げられています。また、アイドルアンタンシとの出会いがストーリーの重要な要素になっていることも紹介されています。このレビュー記事は、サッカーゲームやアイドルゲームのファンにとって興味深い内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260315-429123/",
-        "date": "2026-03-15",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam戦車アクション×RTS『Sherman Commander』は、恐怖すら抱くほど緊張...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamで配信中の戦車アクションとリアルタイムストラテジーを融合させたゲーム『Sherman Commander』のレビュー記事があります。このゲームは、プレイヤーに恐怖すら抱かせるほどの緊張感を提供することが評価ポイントの1つです。ゲームの内容は、戦車の操作と部隊の指揮を同時に行うことで、戦略性とアクション性が高いことが特徴です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/sherman-20260315-429470/",
-        "date": "2026-03-15",
-        "is_translated": false
-      },
       {
         "title": "【1980年代の九龍城砦で犯罪組織に立ち向かう新作アクション「The 9th Dragon」がア...：レビュー】",
         "platform": "doope!",
@@ -717,19 +642,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/03165064.html",
         "date": "2026-03-16",
-        "is_translated": false
-      },
-      {
-        "title": "【「American Truck Simulator」のイリノイ州DLCを紹介する本格的なゲーム...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "アメリカを舞台にトラック運転を体験できる「American Truck Simulator」のイリノイ州DLCを紹介するレビュー記事です。このレビューでは、ゲームのグラフィックや操作性、そしてイリノイ州の魅力が評価ポイントとして取り上げられています。特に、イリノイ州の風景や道路のリアルさが高く評価されています。トラック運転の体験やアメリカの風景を楽しみたい方にはお勧めのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165060.html",
-        "date": "2026-03-15",
         "is_translated": false
       },
       {
@@ -1147,8 +1059,21 @@
         "url": "https://www.rockpapershotgun.com/join-the-circus-and-swing-an-election-in-moves-of-the-diamond-hand-the-rpg-follow-up-to-betrayal-at-club-low-which-hits-pc-early-access-in-april",
         "date": "2026-03-19",
         "is_translated": true
+      },
+      {
+        "title": "【新たなプレイヤークラスや新チャンピオンモンスター2体を導入する「Aethermancer」の最...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、「Aethermancer」の新要素を取り上げており、特に新たなプレイヤークラスや新しいチャンピオンモンスター2体の導入が評価ポイントとなっています。また、ゲームの新要素がプレイヤーに与える影響や、ゲーム全体のバランスへの影響についても触れています。この記事は、「Aethermancer」の新要素に興味を持つプレイヤーや、ゲームの最新情報を知りたい人に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165224.html",
+        "date": "2026-03-20",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-19T21:35:46.613840"
+  "last_updated": "2026-03-20T02:00:50.520702"
 }
