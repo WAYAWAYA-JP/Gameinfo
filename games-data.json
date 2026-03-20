@@ -254,6 +254,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/humbleheroinesechoesvoidsandvisions_bundle",
         "date": "2026-03-19"
+      },
+      {
+        "title": "Metro Mania: Planes, Trains, and Automobiles!",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、メトロマニアのパック「Metro Mania: Planes, Trains, and Automobiles!」が販売中です。このバンドルには、メトロマニアを含む3つの主要タイトルが収録されており、シミュレーションゲームのファンに人気です。大まかな価格帯は10ドルから20ドル程度で。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/metromaniaplanestrainsandautomobiles_bundle",
+        "date": "2026-03-20"
       }
     ],
     "sale": [
@@ -675,6 +687,18 @@
         "discount": "-56%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-last-of-us-part-i/info/",
+        "date": "2026-03-20"
+      },
+      {
+        "title": "God of War",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるGod of Warが、現在Variousで67%割引されています。このゲームは、格闘や探索が特徴で、非常に人気があり、高い評価を得ています。さまざまな賞を受賞しており、シリーズファンやアクションゲームファンに強く推奨されています。現在のセール価格でこのゲームを購入することができます。",
+        "price": "$16.62",
+        "originalPrice": "",
+        "discount": "-67%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/god-of-war/info/",
         "date": "2026-03-20"
       }
     ],
@@ -1185,8 +1209,47 @@
         "url": "https://www.rockpapershotgun.com/steamos-update-preview-brings-initial-support-for-the-steam-machine-steam-deck-features",
         "date": "2026-03-20",
         "is_translated": true
+      },
+      {
+        "title": "【Slay the Spire 2 プレイヤーは、まだ正式版にもなっていないカードナーフをめぐっ...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Slay the Spire 2のレビュー記事では、ゲームの評価ポイントとしてカードナーフの扱いが注目されています。特に、まだ正式版にもなっていないカードナーフの変更点について、プレイヤーがどう感じるかが焦点になっています。レビューの内容概要としては、カードナーフの影響を受けるゲームバランスの変化や、新しい戦略の登場などが取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-players-leave-over-9-000-negative-steam-reviews-in-one-day-over-a-card-nerf-that-hasnt-even-gone-live-yet-but-chinas-steam-restrictions-might-bear-some-of-the-blame/",
+        "date": "2026-03-20",
+        "is_translated": true
+      },
+      {
+        "title": "【パール・アビス、『クリムゾン・デザート』が24時間以内に200万本以上売れたと発表、「迅速な改...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "パール・アビスによるゲーム『クリムゾン・デザート』は発売24時間以内に200万本以上を売り上げたと発表しています。レビュー記事では、このゲームの評価ポイントとして、ストーリーやグラフィックの高さを挙げています。また、ゲームの迅速な改善やユーザーの要望への対応も評価されています。このレビューは、ゲームに興味のある人やパール・アビスのファンにとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/pearl-abyss-announces-crimson-desert-has-sold-more-than-2-million-copies-in-less-than-24-hours-promises-to-work-to-make-improvements-quickly/",
+        "date": "2026-03-20",
+        "is_translated": true
+      },
+      {
+        "title": "【Expedition 33 のクリエイターはゲームのレビュー スコアに賭けましたが、全員が負けました】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Expedition 33 のクリエイターはゲームのレビュー スコアに賭けましたが、全員が負けました、このレビュー記事ではゲームの評価ポイントとして、ゲームプレイの面白さやグラフィックの質などがあげられます。また、レビューの内容概要として、ゲームの難易度やストーリーの深さなどが述べられています。この記事は、ゲームファンや Expeditions シリーズの愛好家など。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/expedition-33-devs-metacritic-review-score-bets/",
+        "date": "2026-03-20",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-20T13:14:31.685695"
+  "last_updated": "2026-03-20T21:30:53.437417"
 }
