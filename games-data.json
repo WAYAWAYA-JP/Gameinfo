@@ -664,6 +664,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-03-20"
+      },
+      {
+        "title": "The Last of Us™ Part I",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Last of Us Part IがVariousで56%オフのセール中です。このアクションアドベンチャーゲームは、感動的なストーリーとリアルなグラフィックスで知られており、非常に評価が高い人気ゲームです。通常価格より大幅に安く手に入れることができ、ファンや新規プレイヤーにとっては絶好のチャンスです。",
+        "price": "$26.29",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-last-of-us-part-i/info/",
+        "date": "2026-03-20"
       }
     ],
     "review": [
@@ -1134,8 +1146,47 @@
         "url": "https://automaton-media.com/articles/newsjp/killer-inn-20260320-430875/",
         "date": "2026-03-20",
         "is_translated": false
+      },
+      {
+        "title": "【Steam探し物“ドカ盛り”ゲーム『Find Matt’s Cats』ほぼ100％好評のまま評...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで人気の「ドカ盛り」ゲーム『Find Matt’s Cats』はほぼ100％の好評評価を得ています。このレビュー記事では、ゲームの評価ポイントとして、ユニークなゲームプレイや愛らしいグラフィックが高く評価されています。また、レビューの内容概要として、プレイヤーが猫を探すためのさまざまなアイテムを購入して、猫を探すための環境を整えることや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260320-430918/",
+        "date": "2026-03-20",
+        "is_translated": false
+      },
+      {
+        "title": "【Crimson Desert は Steam で 239,000 人のプレイヤーに向けてリリー...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Crimson Desert は Steam で 239,000 人のプレイヤーに向けてリリースされ、そのレビュー記事では、ゲームの評価ポイントとしてグラフィックの高品質さやストーリーの深みが挙げられている。レビューの内容概要としては、ゲームの世界観やキャラクターの造形が絶賛されている。また、ゲームプレイの自由度や戦闘システムの複雑さも評価されている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/crimson-desert-launches-to-239-000-players-on-steam-but-mixed-reviews-and-its-mostly-because-of-how-dense-and-cryptic-the-whole-thing-is/",
+        "date": "2026-03-20",
+        "is_translated": true
+      },
+      {
+        "title": "【SteamOS アップデート プレビューでは、Steam Machine の「初期サポート」に...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、SteamOSのアップデートプレビューにおけるSteam Machineの初期サポートに関する内容です。記事では、SteamOSの新しい機能や改善点について評価しています。ゲームの評価ポイントとしては、パフォーマンスの向上やユーザーインターフェイスの改善が見られます。対象読者は、Steam MachineやSteamOSに興味を持つユーザーで。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/steamos-update-preview-brings-initial-support-for-the-steam-machine-steam-deck-features",
+        "date": "2026-03-20",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-20T09:40:30.938709"
+  "last_updated": "2026-03-20T13:14:31.685695"
 }
