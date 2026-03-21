@@ -218,6 +218,42 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/metromaniaplanestrainsandautomobiles_bundle",
         "date": "2026-03-20"
+      },
+      {
+        "title": "Metroidvania Mayhem Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Metroidvania Mayhem Bundleというバンドルが販売中です。このバンドルには、Axiom Verge、Guacamelee!、Ori and the Blind Forestなどの主要タイトルが含まれており、Metroidvaniaジャンルのファンにとっては大変魅力的なものです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/metroidvaniamayhembundle_bundle",
+        "date": "2026-03-21"
+      },
+      {
+        "title": "Frictional Games: Amnesia, SOMA, Penumbra",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Frictional Gamesのバンドルが販売中です。このバンドルには、サバイバルホラーの名作「Amnesia」や、SFホラーの「SOMA」、および「Penumbra」などが含まれています。ジャンルはホラーゲームで、大まかな価格帯は1000円から2000円です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/frictionalgamesamnesiasomapenumbra_bundle",
+        "date": "2026-03-21"
+      },
+      {
+        "title": "Skautfold Saga Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Skautfold Saga BundleがIndieGalaで販売中です。このバンドルには、The Battle of Polytopia、Forager、Starboundなどの人気タイトルが含まれています。ジャンルは、ストラテジーやアクション、アドベンチャーなど多様なものがあります。大まかな価格帯は、約1000円と非常にリーズナブルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/skautfold-saga-bundle",
+        "date": "2026-03-21"
       }
     ],
     "sale": [
@@ -1101,8 +1137,60 @@
         "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-players-leave-over-9-000-negative-steam-reviews-in-one-day-over-a-card-nerf-that-hasnt-even-gone-live-yet-but-chinas-steam-restrictions-might-bear-some-of-the-blame/",
         "date": "2026-03-20",
         "is_translated": true
+      },
+      {
+        "title": "【Steamゲームのお手軽検索サイト「Steam Relics」公開。“好評率×レビュー数”フィ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steam Relicsは、Steamゲームの検索を簡単に行えるサイトです。このサイトでは、「好評率×レビュー数」という独自の評価システムを採用しており、ユーザーがゲームの評価ポイントを簡単に確認できます。レビューの内容概要としては、ゲームのプレイ性やグラフィックの質、そしてユーザーの評価ポイントが高いゲームを紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/steam-relics-20260321-431133/",
+        "date": "2026-03-21",
+        "is_translated": false
+      },
+      {
+        "title": "【『Marathon』レビュー。「脱出シューター」の枠に収まらない“異質”ゲーム、鮮烈なデザイン...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「Marathon」の評価ポイントを紹介しています。まず、「脱出シューター」の枠に収まらない「Marathon」の独自性や、鮮烈なデザインが注目されています。さらに、ゲームのストーリーや操作性も評価されており、シューティングゲームファンや、ハードコアなゲームを求めるプレイヤーにとってはおすすめのタイトルであると言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/marathon-20260321-431075/",
+        "date": "2026-03-21",
+        "is_translated": false
+      },
+      {
+        "title": "【『Slay the Spire 2』アプデ配信後に、“1日で約1万件”の不評レビュー殺到。開発...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Slay the Spire 2』のアップデート後、約1万件の不評レビューが殺到し、開発チームは対応に追われる状況です。この記事では、ゲームの評価ポイントとして、新しいアップデートの内容とそれに伴うバグや不満点について触れています。さらに、レビューの内容概要として、プレイヤーからの批判的な意見や要望も紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/slay-the-spire-2-20260321-431063/",
+        "date": "2026-03-21",
+        "is_translated": false
+      },
+      {
+        "title": "【リアル戦術サッカーシム『Football Manager 26』で、4月にあるマンチェスター・...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「Football Manager 26」はリアルな戦術サッカーシミュレーションゲームで、ユーザーはマンチェスター・ユナイテッドなどのチームを運営して勝利を目指します。このゲームの評価ポイントとしては、リアルなチーム運営や戦略的思考が必要である点が挙げられます。また、レビューの内容概要としては、グラフィックの向上や新しい戦術の追加などが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/fm26-20260320-430895/",
+        "date": "2026-03-21",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-21T01:54:55.448791"
+  "last_updated": "2026-03-21T09:31:09.542212"
 }
