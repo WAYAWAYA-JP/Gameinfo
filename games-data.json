@@ -628,6 +628,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/god-of-war/info/",
         "date": "2026-03-20"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストがSteamで50%OFFのセール中です。このゲームはオープンワールドアクションアドベンチャーで、高度なグラフィックスとスリリングなゲームプレイが特徴です。通常価格よりも大幅に安くなっているので、ファンや新規プレイヤーにとっては絶好のチャンスです。このゲームは高い評価を受けており、人気も高いので、 セール期間中に購入することをお勧めします。",
+        "price": "¥2,190",
+        "originalPrice": "¥4,380",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-03-21"
       }
     ],
     "review": [
@@ -1192,5 +1204,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-21T09:31:09.542212"
+  "last_updated": "2026-03-21T13:03:45.171008"
 }
