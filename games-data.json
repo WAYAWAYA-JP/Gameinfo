@@ -52,54 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Skautfold Saga Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでのSkautfold Saga Bundleの販売が開始されています。このバンドルには、Skautfold：Shrouded WildsやSkautfold：Shrouded Wilds - Original Soundtrackなどのタイトルが含まれており、インディーゲームを楽しむファンにはおすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/skautfold-saga-bundle",
-        "date": "2026-03-11"
-      },
-      {
-        "title": "HHLast Echoes Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、HHLast Echoes Bundleのバンドルが販売中です。このバンドルには、主要タイトルとして「Last Echoes」、「The Last Hope」、「Echoes of the Past」などが含まれています。ジャンルはアクションアドベンチャーで、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/last-echoes-bundle",
-        "date": "2026-03-11"
-      },
-      {
-        "title": "Frictional Games: Amnesia, SOMA, Penumbra",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Frictional Gamesのバンドルが販売中です。このバンドルには、Amnesia、SOMA、Penumbraなど、ホラーとサバイバルホラーのジャンルを代表する主要タイトルが含まれています。大まかな価格帯は変動する可能性がありますが、通常は1,000円から2,000円程度です。ホラーゲームファンにはおすすめのバンドルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/frictionalgamesamnesiasomapenumbra_bundle",
-        "date": "2026-03-11"
-      },
-      {
-        "title": "Metroidvania Mayhem Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Metroidvania Mayhem Bundleが販売中です。このバンドルには、Axiom Verge 2、Blasphemous、Ori and the Blind Forestなど、メトロイドバニアジャンルの人気タイトルが収録されています。価格帯は約2,000円から約5,000円と幅がありますが、ゲームファンにとってはお得な買い物の機会となりそうです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/metroidvaniamayhembundle_bundle",
-        "date": "2026-03-11"
-      },
-      {
         "title": "Focus Entertainment Bundle 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -269,66 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "NieR Replicant™ ver.1.22474487139...",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションRPGの名作『NieR Replicant』の最新バージョン「NieR Replicant ver.1.22474487139...」がSteamで60%オフのセール中です。このゲームは独自の世界観と深いストーリーで知られており、ユーザーから非常に高く評価されています。通常価格より大幅に安くなっているので、ゲームファンにはおすすめです。",
-        "price": "¥3,432",
-        "originalPrice": "¥8,580",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1113560",
-        "date": "2026-03-14"
-      },
-      {
-        "title": "ドラゴンクエストXI　過ぎ去りし時を求めて S",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ドラゴンクエストXI 过ぎ去りし時を求めて SがSteamで50% OFFセール中です。このゲームは、伝説的なRPGシリーズの最新作であり、壮大なストーリーと美しいグラフィックが特徴です。通常価格より半額で購入できるこのセールは、大ファンから新規プレイヤーまで、多くのゲーム愛好家にとって魅力的です。ドラゴンクエストシリーズは、長年にわたり高い評価と人気を博しており、この作品も高い評価を得ています。",
-        "price": "¥2,739",
-        "originalPrice": "¥5,478",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1295510",
-        "date": "2026-03-14"
-      },
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "No Man's SkyがVariousで69%割引されています。このゲームは、オープンワールドのサンドボックスアクションゲームで、プレイヤーは宇宙を自由に探索できることで知られています。ゲームの評価は高く、多くのプレイヤーから好評価を得ています。現在の価格は割引前の価格より69%安くなっており、興味のある方はこの機会にチェックしてみることをお勧めします。",
-        "price": "$18.89",
-        "originalPrice": "",
-        "discount": "-69%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-03-14"
-      },
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストがSteamで56% OFFセール中です。このゲームは、オープンワールドアクションアドベンチャーであることが特徴で、自由に街を歩き回り、さまざまなミッションをプレイすることができます。現在の価格は割引で大幅に下がっています。評価も非常に高く、人気のゲームです。",
-        "price": "¥2,851",
-        "originalPrice": "¥6,480",
-        "discount": "56% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-03-14"
-      },
-      {
-        "title": "Resident Evil Requiem",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Resident Evil RequiemがVariousで18%オフのセール中です。このゲームはサバイバルホラーのジャンルに属し、恐怖とスリルの組み合わせが特徴です。現在の価格は割引により大幅に下がっており、ファンにはおすすめの購入機会です。しかも、このゲームはシリーズファンから高い評価を受けており、人気度も非常に高いので、ホラーゲーム好きの方には必見の作品と言えるでしょう。",
-        "price": "$57.39",
-        "originalPrice": "",
-        "discount": "-18%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
-        "date": "2026-03-14"
-      },
       {
         "title": "ホグワーツ・レガシー",
         "platform": "Steam",
@@ -703,84 +595,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【1980年代の九龍城砦で犯罪組織に立ち向かう新作アクション「The 9th Dragon」がア...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "1980年代の九龍城砦を舞台にしたアクションゲーム「The 9th Dragon」は、犯罪組織に立ち向かうアクションシーンが特徴的です。このゲームの評価ポイントとしては、緊張感のあるストーリーや、複雑なキャラクター設定が挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの高品質さも評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165064.html",
-        "date": "2026-03-16",
-        "is_translated": false
-      },
-      {
-        "title": "【高評価ビーバーコロニー運営シム『Timberborn』、正式リリースでSteam同接「2万50...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "高評価を得ているビーバーコロニー運営シム『Timberborn』のレビュー記事では、ゲームの評価ポイントとして、独自のビーバーの生活を通じて自然と技術のバランスを取ること、コロニーの発展と管理の面白さ、ユニークなゲームシステムが挙げられます。このレビューは、シミュレーションゲームや建設ゲームが好きな人にとって参考になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/timberborn-20260316-429643/",
-        "date": "2026-03-16",
-        "is_translated": false
-      },
-      {
-        "title": "【2人協力対応・手つなぎ共同アクション『GooNECT√2』発表。高評価無料ゲームが「買い切り型...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、2人協力プレイに対応したゲーム「GooNECT√2」の発表が紹介されています。このゲームは、手つなぎ共同アクションが特徴的で、高評価を受けていますが、無料ゲームであったものが「買い切り型」に変わったことが話題になっています。ゲームの評価ポイントとしては、協力プレイの面白さや、共同アクションの爽快感が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260316-429766/",
-        "date": "2026-03-16",
-        "is_translated": false
-      },
-      {
-        "title": "【パルサー X3 クレイジーライト ミニ レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "パルサーX3クレイジーライトミニは、ユーザーの評価ポイントとして、スピード感のあるゲーム性やカラフルなグラフィック、サウンドトラックの魅力が高く評価されています。レビューの内容概要としては、簡単に遊べる一方で、高度なテクニックが求められる難易度のバランスが取れていることや、色鮮やかなグラフィックが目に鮮やかで楽しいことが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/pulsar-x3-crazylight-mini-review/",
-        "date": "2026-03-16",
-        "is_translated": true
-      },
-      {
-        "title": "【The Seven Deadly Sins: Origin is a free-to-play...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "本レビュー記事は、人気ゲーム「The Seven Deadly Sins: Origin」の評価ポイントやレビューの内容をまとめたものです。記事では、ゲームの魅力や欠点、グラフィックやゲームプレイの評価などが紹介されています。また、ゲームファンやアクションゲームを楽しむ人にとって、参考になる情報が含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/the-seven-deadly-sins-origin-is-a-free-to-play-open-world-anime-rpg-with-flying-pigs-and-minecart-levels",
-        "date": "2026-03-16",
-        "is_translated": true
-      },
-      {
-        "title": "【The Seven Deadly Sins: Origin は、空飛ぶ豚やトロッコのレベルを備...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "The Seven Deadly Sins: Origin は、空飛ぶ豚やトロッコのレベルを備えたアクションゲームであり、レビューではその独自のゲームプレイスタイルやグラフィックの美しさが評価されています。さらに、ゲームのストーリーやキャラクターの深みも高く評価されており、ファンタジー系ゲームファンには特にオススメできると言えるでしょう。また、ゲームの操作性や難易度調整も適切だと評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/the-seven-deadly-sins-origin-is-a-free-to-play-open-world-anime-rpg-with-flying-pigs-and-minecart-levels",
-        "date": "2026-03-16",
-        "is_translated": true
-      },
       {
         "title": "【魔女の帽子のアトリエ レビュー: フリーレンの憂鬱を乗り越えるのに最適なファンタジー アニメ】",
         "platform": "Polygon",
@@ -1248,8 +1062,47 @@
         "url": "https://www.polygon.com/expedition-33-devs-metacritic-review-score-bets/",
         "date": "2026-03-20",
         "is_translated": true
+      },
+      {
+        "title": "【オンラインマルチプレイヤー陶芸乱闘バトル「Kiln」の発売日が4月23日に決定、Double ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "オンラインマルチプレイヤー陶芸乱闘バトル「Kiln」の発売日が4月23日に決定しました。このゲームは、プレイヤーが陶芸作品を作りながら戦うユニークなゲームです。評価ポイントとしては、創造性に富んだゲームプレイや多彩な陶芸作品の作成があげられます。レビューの内容としては、ゲームのオリジナリティやグラフィックの美しさが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165254.html",
+        "date": "2026-03-21",
+        "is_translated": false
+      },
+      {
+        "title": "【XCOM系西部劇ターンベースストラテジー続編「Hard West 2」のPS5/Xbox Se...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Hard West 2」は、XCOM系の西部劇ターンベースストラテジーゲームの続編です。このゲームは、ターン制の戦闘システムと、西部開拓時代の雰囲気を融合させた独特の世界観が特徴です。レビューでは、ゲームの評価ポイントとして、戦略的な戦闘システム、豊富なキャラクターのカスタマイズ、そしてアトモスフィアーのあるサウンドトラックが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165206.html",
+        "date": "2026-03-21",
+        "is_translated": false
+      },
+      {
+        "title": "【「Slay the Spire 2」プレイヤーは、まだ正式版にもなっていないカード弱体化に関し...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "「Slay the Spire 2」のレビュー記事では、カードゲームの評価ポイントとして、ゲームバランスやカードの弱体化が重要な要素であることが指摘されています。特に、まだ正式版にもなっていないカードの弱体化について、プレイヤーからの意見や不満が集められています。このレビュー記事は、ゲームファンやカードゲーム愛好家にとって、ゲームの現在の状況や将来の展開について理解を深めるのに役立つ内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-players-leave-over-9-000-negative-steam-reviews-in-one-day-over-a-card-nerf-that-hasnt-even-gone-live-yet-but-chinas-steam-restrictions-might-bear-some-of-the-blame/",
+        "date": "2026-03-20",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-20T21:30:53.437417"
+  "last_updated": "2026-03-21T01:54:55.448791"
 }
