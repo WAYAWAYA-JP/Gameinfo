@@ -628,6 +628,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-03-22"
+      },
+      {
+        "title": "Pet Lands",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Pet LandsがVariousで100%割引された価格で提供されています。このゲームは、ペットと共に冒険することで知られており、独自のゲーム性と魅力的なグラフィックで人気を博しています。ユーザーの評価は非常に高く、多くのプレイヤーから好評価を得ています。現在、無料でプレイできるため、興味がある方はぜひこの機会に試してみてください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/pet-lands/info/",
+        "date": "2026-03-22"
       }
     ],
     "review": [
@@ -1098,8 +1110,21 @@
         "url": "https://www.rockpapershotgun.com/this-progress-will-not-be-linear-mega-crit-outline-their-patching-process-for-slay-the-spire-2-after-ruffling-some-feathers",
         "date": "2026-03-21",
         "is_translated": true
+      },
+      {
+        "title": "【オープンワールド『紅の砂漠』は物量勝負。『Slay the Spire 2』は友人と遊ぶのも楽...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、オープンワールドゲーム『紅の砂漠』とローグライクゲーム『Slay the Spire 2』の魅力を紹介しています。『紅の砂漠』は広大な世界を自由に探索できる点が評価ポイントの1つです。また、ゲーム内の豊富なコンテンツが楽しみ方を増やしています。一方、『Slay the Spire 2』は友人と遊ぶことで新たな楽しみを発見できる点が特徴的です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260322-431329/",
+        "date": "2026-03-22",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-22T02:07:01.422801"
+  "last_updated": "2026-03-22T09:33:18.785153"
 }
