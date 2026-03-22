@@ -640,6 +640,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/pet-lands/info/",
         "date": "2026-03-22"
+      },
+      {
+        "title": "DEATH STRANDING 2: ON THE BEACH",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「DEATH STRANDING 2: ON THE BEACH」がVariousで15%割引のセール中です。このゲームは、ユニークなゲームプレイと壮大なストーリーで人気を博しており、多くのプレイヤーから高く評価されています。セール価格で購入することで、通常価格よりも安くプレイすることができますので、気になる方はぜひこの機会にチェックしてみてください。",
+        "price": "$59.49",
+        "originalPrice": "",
+        "discount": "-15%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/death-stranding-2-on-the-beach/info/",
+        "date": "2026-03-22"
       }
     ],
     "review": [
@@ -1123,8 +1135,34 @@
         "url": "https://automaton-media.com/articles/now-gaming/20260322-431329/",
         "date": "2026-03-22",
         "is_translated": false
+      },
+      {
+        "title": "【スクリーマーのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "スクリーマーのレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンドの質を高く評価しています。また、レビューの内容概要としては、ゲームの難易度やストーリーの面白さを掘り下げており、特にホラー要素が際立っている点を強調しています。これは、ホラーゲームファンやアドベンチャーゲームを楽しむ読者にとって、参考になる情報が多く含まれているため、対象読者にはお勧めの記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/racing/screamer-review/",
+        "date": "2026-03-22",
+        "is_translated": true
+      },
+      {
+        "title": "【RPS 評決: アニメ レーサー スクリーマーがカラフルで特徴的なドライビングで横滑りして成功...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、アニメレーサースクリーマーというゲームの評価ポイントを紹介しています。同ゲームはカラフルで特徴的なドライビングシステムが魅力で、横滑りしながら進むのが楽しい特徴があります。レビューの内容は、ゲームのグラフィックやサウンド、そしてユニークなゲームプレイスタイルが評価されており、ドライビングゲームファンやアニメファンに特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/rps-verdict-screamer-review",
+        "date": "2026-03-22",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-22T09:33:18.785153"
+  "last_updated": "2026-03-22T13:05:52.066623"
 }
