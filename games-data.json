@@ -652,6 +652,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/death-stranding-2-on-the-beach/info/",
         "date": "2026-03-22"
+      },
+      {
+        "title": "Elden Ring",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションRPGの名作「Elden Ring」がVariousで43%オフのセール中です。このゲームは、広大な世界を自由に探索できるオープンワールドの特徴と、深いストーリー、そして激しい戦闘が人気の理由です。現在の価格は割引によって大幅に下がっており、多くのユーザーから高い評価を得ています。",
+        "price": "$34.27",
+        "originalPrice": "",
+        "discount": "-43%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/elden-ring/info/",
+        "date": "2026-03-22"
       }
     ],
     "review": [
@@ -1161,8 +1173,21 @@
         "url": "https://www.rockpapershotgun.com/rps-verdict-screamer-review",
         "date": "2026-03-22",
         "is_translated": true
+      },
+      {
+        "title": "【Steam レビュー「Mixed」で、Half Sword の開発者は早期アクセス ゲームとそ...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、Steamで「Mixed」と評価されているHalf Swordについて、開発者が早期アクセスゲームとそれに関連する問題点を説明しています。ゲームの評価ポイントとして、ユーザーの評価は賛否両論で、グラフィックやサウンドは評価されているものの、ゲームバランスや操作性には改善点があるとされています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/with-steam-reviews-at-mixed-the-developer-of-half-sword-addresses-differences-between-the-early-access-game-and-its-hugely-popular-tech-demo-the-final-version-of-the-game-will-differ-from-what-has-been-shown-previously/",
+        "date": "2026-03-22",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-22T13:05:52.066623"
+  "last_updated": "2026-03-22T21:27:28.699169"
 }
