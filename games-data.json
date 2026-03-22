@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Focus Entertainment Bundle 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble BundleでFocus Entertainment Bundle 2026が販売中です。このバンドルには、A Plague TaleシリーズやGreensdaleシリーズなどの主要タイトルが含まれています。アクションアドベンチャーやストラテジーなどのジャンルが収録されており、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/focusentertainmentbundle2026_bundle",
-        "date": "2026-03-12"
-      },
-      {
         "title": "Multiplayer Madness 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,42 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "ホグワーツ・レガシー",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ホグワーツ・レガシーがSteamで大幅な85%の割引セール中です。このアクションアドベンチャーゲームは、ハリー・ポッターの魔法世界を舞台に、プレイヤーがホグワーツ魔法学校の学生となり、魔法の勉強や友情を経験することができます。高い評価と人気を誇るこのゲームは、ファンからも高い評価を受けており、ゲームの質やグラフィックも高く評価されています。",
-        "price": "¥1,316",
-        "originalPrice": "¥8,778",
-        "discount": "85% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/990080",
-        "date": "2026-03-15"
-      },
-      {
-        "title": "The Dread X Collections",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Dread X Collectionsは、インディーゲームの傑作を集めたコレクションです。このコレクションは、ホラーゲームやアクションゲームを中心に、様々なジャンルのゲームが収録されています。現在、Variousで30%割引のセール中です。ゲームの評価は非常に高く、プレイヤーからの評価はほぼ満足しています。特に、ホラーゲームのファンにはおすすめのコレクションです。",
-        "price": "$32.95",
-        "originalPrice": "",
-        "discount": "-30%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-dread-x-collections/info/",
-        "date": "2026-03-15"
-      },
-      {
-        "title": "FINAL FANTASY XVI コンプリートエディション",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY XVI コンプリートエディションがSteamで50% OFFセール中です。このゲームは、人気の高いファイナルファンタシーシリーズの最新作で、オープンワールドアクションRPGの要素を備えており、シリーズファンやアクションゲーム好きにはおすすめです。コンプリートエディションには、ゲーム本編のほかにも、追加コンテンツやサウンドトラックが含まれています。",
-        "price": "¥4,950",
-        "originalPrice": "¥9,900",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1111230",
-        "date": "2026-03-15"
-      },
       {
         "title": "Dragon's Dogma 2",
         "platform": "Various",
@@ -664,113 +616,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
         "date": "2026-03-21"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33は、Variousで現在30%割引のセール中です。このゲームは、ユニークなゲームプレイとストーリーが特徴で、ファンから高い評価を受けています。セール中の価格では、通常価格よりも大幅に安くなっています。人気度も高く、多くのプレイヤーがこのゲームを楽しんでいます。",
+        "price": "$34.77",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-03-22"
       }
     ],
     "review": [
-      {
-        "title": "【魔女の帽子のアトリエ レビュー: フリーレンの憂鬱を乗り越えるのに最適なファンタジー アニメ】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事は、ファンタジー・アニメの「魔女の帽子のアトリエ」を紹介しており、ファンタジー・アニメのファンや、ストーリーに興味がある人にとっては最適な記事です。評価ポイントとしては、ストーリーの魅力、キャラクターの深み、音楽の美しさが挙げられます。また、この記事では、主人公の成長や友情、冒険の喜びなどが描かれており、読者はアニメの世界に没頭することができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/witch-hat-atelier-episodes-1-2-review-impressions/",
-        "date": "2026-03-17",
-        "is_translated": true
-      },
-      {
-        "title": "【“昆虫型異星生物”掃討シューター『Starship Troopers: Ultimate Bu...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、シューティングゲーム「Starship Troopers: Ultimate Bundle」の評価ポイントを紹介しています。ゲームの評価ポイントとして、グラフィックの質、ゲームプレイのスピード、ストーリーの面白さなどが挙げられます。レビューの内容概要としては、ゲームの難易度、操作のしやすさ、ステージの多様性などが説明されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260317-429955/",
-        "date": "2026-03-17",
-        "is_translated": false
-      },
-      {
-        "title": "【『ドラクエ』4人マルチプレイも対応のローグライトRPG！新作アプリ『ドラゴンクエストスマッシュ...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、ローグライトRPGの新作アプリ『ドラゴンクエストスマッシュ』について評価しています。このゲームは、『ドラクエ』の世界観をベースに4人マルチプレイも対応している点が特徴です。ゲームの評価ポイントとしては、独自のゲームシステムやグラフィックの美しさ、そしてマルチプレイの楽しさが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/17/178696.html",
-        "date": "2026-03-17",
-        "is_translated": false
-      },
-      {
-        "title": "【『紅の砂漠』最新ゲームプレイ映像をPS公式が公開―空中に浮かぶ領域「アビス」のギミックや最初に...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "PS公式が最新ゲームプレイ映像を公開した『紅の砂漠』は、空中に浮かぶ領域「アビス」のギミックや最初に体験できるエリアなどが紹介されています。このゲームの評価ポイントとしては、ユニークな世界観やスムーズなゲームプレイが挙げられます。また、レビューでは、グラフィックの美しさやサウンドトラックの素晴らしさも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/17/178707.html",
-        "date": "2026-03-17",
-        "is_translated": false
-      },
-      {
-        "title": "【『パルワールド』正式版Ver.1.0は驚きの規模になる―「新規キャラでのプレイを緩やかに推奨す...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "パルワールドの正式版Ver.1.0は驚くほどの大規模なゲームになりました。このゲームの評価ポイントとしては、ゲームのスケールや新規キャラでのプレイの導入が挙げられます。レビューの内容は、新規キャラでのプレイを推奨する点やゲームの世界観が広がる点が高く評価されています。パルワールドのファンや新規プレイヤーの方にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/17/178706.html",
-        "date": "2026-03-17",
-        "is_translated": false
-      },
-      {
-        "title": "【アレックスと大規模なバランス調整を導入した「ストリートファイター6」のPC Steam版が過去...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「ストリートファイター6」のPC Steam版についてのレビュー記事では、アレックスと大規模なバランス調整を導入した内容が評価されています。このゲームの評価ポイントとして、ゲームバランスの見直しや新しいキャラクターの追加が挙げられます。レビューの内容概要では、ゲームの操作性やグラフィックの向上も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165116.html",
-        "date": "2026-03-17",
-        "is_translated": false
-      },
-      {
-        "title": "【ローグライト横スクロールアクション「Absolum」のXbox Series X|S対応がアナ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Absolum」はローグライト要素を取り入れた横スクロールアクションゲームで、Xbox Series X|Sへの対応が発表されています。このゲームの評価ポイントとしては、快適な操作性と豊富なアイテムの種類が挙げられます。また、レビューにおいては、ステージのランダム性や難易度の調整が称賛されています。このレビュー記事は、アクションゲームファンやローグライトゲームに興味のある読者に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165120.html",
-        "date": "2026-03-17",
-        "is_translated": false
-      },
-      {
-        "title": "【あなたが肘掛け椅子の語源学者なら、『ファークライ』の名前はとても皮肉なものです：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "『ファークライ』というゲームの名前は、実はとても皮肉なものであることがわかります。このゲームのレビュー記事では、その名前の意味やゲームの内容などについて評価しています。例えば、ゲームの世界観やストーリー、グラフィックの 퀄리ティなどが評価ポイントとなっています。また、このレビューはゲームファンや新規プレイヤーに向けて書かれており、ゲームの魅力や面白さを伝える内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/far-crys-name-is-very-ironic-if-youre-an-armchair-etymologist",
-        "date": "2026-03-17",
-        "is_translated": true
-      },
       {
         "title": "【キングスフィールドやMorrowindにインスパイアされたオープンワールドRPG「Dread ...：レビュー】",
         "platform": "doope!",
@@ -1241,5 +1101,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-21T21:25:46.247116"
+  "last_updated": "2026-03-22T02:07:01.422801"
 }
