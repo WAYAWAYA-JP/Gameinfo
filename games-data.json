@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/skautfold-saga-bundle",
         "date": "2026-03-21"
+      },
+      {
+        "title": "Multiplayer Madness 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Multiplayer Madness 2026というバンドルが現在販売中です。このバンドルには、主に『Among Us』や『Jackbox Party Pack』、『Keep Talking and Nobody Explodes』などのタイトルが含まれており、主にパーティーやマルチプレイに焦点を当てたゲームが中心となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/multiplayermadness2026_bundle",
+        "date": "2026-03-23"
       }
     ],
     "sale": [
@@ -981,8 +993,47 @@
         "url": "https://www.pcgamer.com/games/action/with-steam-reviews-at-mixed-the-developer-of-half-sword-addresses-differences-between-the-early-access-game-and-its-hugely-popular-tech-demo-the-final-version-of-the-game-will-differ-from-what-has-been-shown-previously/",
         "date": "2026-03-22",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料『サカつく2026』は“プレイ100時間超え”でも学ぶことがいっぱい。ポリシーや...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料の「サカつく2026」は、100時間以上プレイしても学ぶことがたくさんあります。このゲームの評価ポイントとしては、自由度の高いポリシー設定や、チームメンバーの育成システムが挙げられます。また、ゲームのレビューでは、グラフィックやサウンドトラックの高品質も称賛されています。このレビュー記事は、スポーツゲームファンや、チーム育成シミュレーションゲームに興味がある人に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260323-431501/",
+        "date": "2026-03-23",
+        "is_translated": false
+      },
+      {
+        "title": "【高評価武装少女ローグライクACT『Million Depth』大型アプデで“ローグライク体験強...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "この記事では、ローグライクACTゲーム『Million Depth』の大型アップデートによる強化されたローグライク体験を紹介しています。ゲームの評価ポイントとしては、ダンジョンの探索や戦闘システムが改善された点が挙げられます。また、レビューでは、新しい要素の追加やバグの修正により、ゲームの全体的な完成度が向上したことが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260323-431530/",
+        "date": "2026-03-23",
+        "is_translated": false
+      },
+      {
+        "title": "【『Call of Duty: Modern Warfare（2019）』Steam版、今になっ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Call of Dutyシリーズの最新作『Call of Duty: Modern Warfare（2019）』のSteam版についてのレビュー記事があります。この記事では、ゲームの評価ポイントとしてグラフィックやサウンドデザインの高さ、そしてマルチプレイモードの充実度が挙げられています。また、ゲームのストーリーやキャラクターの深みも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260323-431479/",
+        "date": "2026-03-23",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-23T02:09:26.215058"
+  "last_updated": "2026-03-23T10:04:10.071496"
 }
