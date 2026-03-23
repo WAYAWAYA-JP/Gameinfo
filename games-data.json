@@ -652,6 +652,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/elden-ring/info/",
         "date": "2026-03-22"
+      },
+      {
+        "title": "Wave Gods: Ammo Night",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Wave Gods: Ammo Nightは、アクションゲームの Various で現在100%割引されており、通常価格より大幅に安くなっています。このゲームは、高速な動作と激しい戦闘が特徴で、プレイヤーはさまざまなステージで敵を倒して進んでいきます。ユーザーの評価は高く、人気度も高いゲームです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/wave-gods-ammo-night/info/",
+        "date": "2026-03-23"
       }
     ],
     "review": [
@@ -1070,8 +1082,60 @@
         "url": "https://www.pcgamer.com/hardware/processors/intel-core-ultra-5-250k-plus-review/",
         "date": "2026-03-23",
         "is_translated": true
+      },
+      {
+        "title": "【ゴールドラッシュ時代のカリフォルニアを描くオープンワールドサバイバル「The Legend o...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ゴールドラッシュ時代のカリフォルニアを舞台にしたオープンワールドサバイバルゲーム「The Legend of...」のレビュー記事があります。このゲームは、広大な開拓地を自由に探索できる点や、サバイバル要素が豊富な点が評価ポイントです。また、レビューでは、ゲームのグラフィックやサウンドトラックも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165279.html",
+        "date": "2026-03-23",
+        "is_translated": false
+      },
+      {
+        "title": "【“STRANGER THAN HEAVEN”や“The Expanse: Osiris Reb...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム「STRANGER THAN HEAVEN」や「The Expanse: Osiris」などの作品について評価しています。評価ポイントとしては、ゲームのストーリーやグラフィックの質、そしてゲームプレイの面白さなどが含まれています。レビューの内容概要としては、ゲームの全体的な雰囲気やユーザーへのおすすめポイント、そしてゲームの弱点などが掘り下げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165286.html",
+        "date": "2026-03-23",
+        "is_translated": false
+      },
+      {
+        "title": "【“Boxes: Lost Fragments”を生んだBig Loop Studiosの新作パ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、Big Loop Studiosが制作したゲーム「Boxes: Lost Fragments」の評価ポイントを紹介しています。レビューの内容概要としては、ゲームのグラフィックやサウンド、そしてゲームプレイの面白さを評価しています。また、ゲームの難易度やストーリーの魅力も評価の対象になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165280.html",
+        "date": "2026-03-23",
+        "is_translated": false
+      },
+      {
+        "title": "【Intel Core Ultra 7 270K Plus および Intel Core Ult...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Intel Core Ultra 7 270K Plus および Intel Core Ultra のレビュー記事では、パフォーマンス、消費電力、価格帯などの評価ポイントが紹介されています。記事では、これらのプロセッサの性能とエネルギー効率に関する詳細なレビューが行われており、購入を検討しているユーザーにとって参考になる情報が提供されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/intel-core-ultra-7-270k-plus-and-intel-core-ultra-5-250k-plus-review",
+        "date": "2026-03-23",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-23T13:23:09.701225"
+  "last_updated": "2026-03-23T21:37:11.086064"
 }
