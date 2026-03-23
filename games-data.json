@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Multiplayer Madness 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Multiplayer Madness 2026というバンドルが販売中です。このバンドルには、Among Us、Jackbox Party Pack、Keep Talking and Nobody Explodesなどのタイトルが含まれています。ジャンルは主にマルチプレイヤーゲームで、協力プレイやパーティーゲームが中心です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/multiplayermadness2026_bundle",
-        "date": "2026-03-13"
-      },
-      {
         "title": "Best of Boomer Shooters 5: Penta Boom",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,30 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Dragon's Dogma 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションRPGの名作「Dragon's Dogma 2」がVariousで63%オフのセール中です。このゲームは、広大なオープンワールドと独自の戦闘システムで人気を博しています。現在の価格は大幅に割引された状態なので、ゲームファンにはおすすめのチャンスです。また、このゲームは高い評価を受けており、多くのユーザーから好評価を得ていますので、是非この機会にプレイしてみてください。",
-        "price": "$25.89",
-        "originalPrice": "",
-        "discount": "-63%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
-        "date": "2026-03-16"
-      },
-      {
-        "title": "Cozy Grove",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Cozy Groveがバラエティーに100%割引されています。このゲームは、リラックスした雰囲気とユニークなゲームプレイが特徴です。通常価格が大幅に割引されたので、ファンや新規プレイヤーにとってお買い得です。Cozy Groveは、ユーザーから高い評価を受けており、人気ゲームとして知られています。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cozy-grove/info/",
-        "date": "2026-03-16"
-      },
       {
         "title": "Split Fiction",
         "platform": "Various",
@@ -668,84 +632,6 @@
     ],
     "review": [
       {
-        "title": "【キングスフィールドやMorrowindにインスパイアされたオープンワールドRPG「Dread ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "キングスフィールドやMorrowindにインスパイアされたオープンワールドRPG「Dread ...」のレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンド、ゲームプレイの自由度などが取り上げられています。レビューの内容概要としては、広大なオープンワールドを自由に探索できる点や、複雑なストーリーやキャラクターの深みなどが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165141.html",
-        "date": "2026-03-18",
-        "is_translated": false
-      },
-      {
-        "title": "【「Battlefield 6|REDSEC」に多彩な新コンテンツを導入するシーズン2フェーズ2...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Battlefield 6|REDSEC」のシーズン2フェーズ2は、多彩な新コンテンツを導入しており、ゲームの評価ポイントとしては、新しいマップやゲームモードの追加が注目されています。レビューの内容概要としては、新しいコンテンツがゲームのバランスを改善していることや、グラフィックの向上が見られると評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165142.html",
-        "date": "2026-03-18",
-        "is_translated": false
-      },
-      {
-        "title": "【『スト6』「アレックス」参戦&全キャラ調整でSteam同時プレイヤー数が過去最高に！「豪鬼」ア...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事は、人気ゲーム『スト6』の最新情報を紹介しています。アレックスの参戦や全キャラの調整により、Steamでの同時プレイヤー数が過去最高に達しました。また、豪鬼のアプデやゲームの評価ポイントについても触れています。ゲームファンや『スト6』をプレイしている方に興味を持って頂ける内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/18/178717.html",
-        "date": "2026-03-18",
-        "is_translated": false
-      },
-      {
-        "title": "【古代壁画がぬるぬる動くゲーム『Fresco』、にわかに大注目集めバイラル化。“壁画内の人”と協...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「Fresco」は、古代壁画が動き出すというユニークなゲームで、最近急に注目されてバイラル化しています。このゲームでは、壁画の中の人々と協力して課題を克服していきます。レビューでは、ゲームのグラフィックやサウンドトラックが高く評価されています。また、壁画の中の人々との協力プレイが面白いという意見もあります。このゲームは、グラフィックやサウンドトラックを重視するゲーマーに特にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/fresco-20260318-430379/",
-        "date": "2026-03-18",
-        "is_translated": false
-      },
-      {
-        "title": "【『グラブル リリンク：エンドレスラグナロク』CBTの「ベアトリクス」で体感した“圧倒的な猛進ぶ...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "グラブル リリンク：エンドレスラグナロクのクローズドベータテストで使える「ベアトリクス」についてのレビュー記事です。このゲームは、圧倒的な猛進ぶりやスキル系統の多さなどが特徴です。ゲームの評価ポイントとしては、キャラクターの能力の高さやバトルシステムの複雑さがあります。さらに、キャラクターの成長要素やストーリーの深みも魅力的です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/18/178747.html",
-        "date": "2026-03-18",
-        "is_translated": false
-      },
-      {
-        "title": "【アークレイダーズスタジオの共同創設者、性的違法行為の申し立てを受けて辞任、しかしエンバークは法...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム開発会社アークレイダーズスタジオの創設者が性的違法行為の申し立てを受けて辞任した事件について取り上げています。記事では、この事件がゲームの評価に与える影響や、同社の今後の展開について考察しています。特に、ゲームファンや業界関係者にとって、ゲーム開発会社の社会的責任や倫理観の重要性を強調しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/arc-raiders-studio-co-founder-resigns-following-sexual-misconduct-claims-but-embark-say-a-legal-review-did-not-substantiate-the-allegations",
-        "date": "2026-03-18",
-        "is_translated": true
-      },
-      {
         "title": "【「1000xRESIST」を生んだ“sunset visitor 斜陽過客”がThe Trip...：レビュー】",
         "platform": "doope!",
         "type": "review",
@@ -757,97 +643,6 @@
         "url": "https://doope.jp/2026/03165163.html",
         "date": "2026-03-19",
         "is_translated": false
-      },
-      {
-        "title": "【元BioWareのベテランたちが開発を率いる“Mass Effect”系アクションRPG「EX...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "元BioWareのベテランたちが開発を率いる「EX...」のレビュー記事は、150〜200文字で構成されています。このゲームは「Mass Effect」系のアクションRPGであり、その評価ポイントとして、ストーリーやキャラクターの深さ、ゲームプレイのスムーズさが挙げられます。レビューの内容概要としては、ゲームの世界観、戦闘システム、キャラクターの成長性などが説明されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165165.html",
-        "date": "2026-03-18",
-        "is_translated": false
-      },
-      {
-        "title": "【クリムゾンデザートのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "クリムゾンデザートのレビュー記事では、ゲームのグラフィックやサウンド、ストーリーなどを評価しています。特に、美しい砂漠の世界や、キャラクターの個性的な声を称賛しています。また、ゲームの難易度や操作性も高く評価されています。このレビュー記事は、クリムゾンデザートに興味がある人や、アクションゲームファン向けに適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/crimson-desert-review/",
-        "date": "2026-03-18",
-        "is_translated": true
-      },
-      {
-        "title": "【Crimson Desert に対する私たちの初期の評決: 悪い虫、素晴らしい猫、そして大きな...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Crimson Desert に関するレビュー記事では、このゲームの評価ポイントとして、キャラクターのデザインやストーリーの魅力が高く評価されている点、ゲームプレイの自由度が高く、プレイヤーが自分で冒険を楽しむことができる点、そしてキャットコンパニオンシステムがユニークで面白い点が挙げられているようです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/our-early-verdict-on-crimson-desert-bad-bugs-great-cats-and-an-open-world-that-could-use-a-big-bucket-of-yellow-paint",
-        "date": "2026-03-18",
-        "is_translated": true
-      },
-      {
-        "title": "【アークレイダーズスタジオの共同創設者、性的違法行為の申し立てを受けて辞任するも、エンバーク社は...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "アークレイダーズスタジオの共同創設者が性的違法行為の申し立てを受けて辞任したことを受けて、エンバーク社の対応が注目されています。レビュー記事では、この事件がゲーム開発に与える影響や、ゲームの評価ポイントであるストーリーやグラフィックの質について触れています。さらに、ゲームの完成度やプレイヤーへの配慮についても評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/arc-raiders-studio-co-founder-resigns-following-sexual-misconduct-claims-but-embark-say-a-legal-review-did-not-substantiate-the-allegations",
-        "date": "2026-03-18",
-        "is_translated": true
-      },
-      {
-        "title": "【Crimson Desert のレビューは、オープンワールド ゲームの再来ではないと述べています】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Crimson Desert のレビューでは、オープンワールドゲームの再来ではないと述べています。このゲームは、プレイヤーが自由に探索できる広大な世界を提供し、独自のストーリーとキャラクターで魅了します。評価ポイントとしては、グラフィックの質の高さ、戦闘システムの複雑さ、そしてキャラクターの深みが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/crimson-desert-review-round-up/",
-        "date": "2026-03-18",
-        "is_translated": true
-      },
-      {
-        "title": "【Crimson DesertのレビューではPS5、Xbox版のパフォーマンスが見落とされている】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Crimson Desertのレビュー記事では、PS5、Xbox版のパフォーマンスが見落とされているといった点が指摘されています。このゲームの評価ポイントとしては、グラフィックのクオリティやゲームプレイのスムーズ性が重要です。また、レビューの内容概要としては、ハードウェアの性能やゲームの最適化が評価の鍵を握っていると言えるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/crimson-desert-ps5-xbox-reviews/",
-        "date": "2026-03-18",
-        "is_translated": true
-      },
-      {
-        "title": "【Crimson Desert レビュー: 20 時間プレイ、より大きなオープンワールドが良いと...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Crimson Desert のレビュー記事では、20 時間のプレイを通じてゲームの評価ポイントを紹介しています。記事では、ゲームのオープンワールドの拡大が必要であると指摘し、より大きな世界観を求めています。また、ゲームのグラフィックやサウンドデザインも高く評価しています。対象読者は、オープンワールドゲームのファンやアクションゲーム愛好者向けです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/crimson-desert-impressions-early-hours/",
-        "date": "2026-03-18",
-        "is_translated": true
       },
       {
         "title": "【協力2人プレイ対応ローグライトアクション『Dark Scrolls』発表。クセ強ヒーローが敵の...】",
@@ -1189,5 +984,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-22T21:27:28.699169"
+  "last_updated": "2026-03-23T02:09:26.215058"
 }
