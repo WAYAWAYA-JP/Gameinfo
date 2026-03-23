@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/multiplayermadness2026_bundle",
         "date": "2026-03-23"
+      },
+      {
+        "title": "HHPixel Traditions Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "HHPixel Traditions BundleがIndieGalaで販売中です。このバンドルには『Echoes of the Fey』や『The Lost Valley』などのタイトルが含まれており、インディーゲーム好きにはお勧めです。ジャンルはアドベンチャーやRPGが中心で、大まかな価格帯は1,000円から2,000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/pixel-traditions-bundle",
+        "date": "2026-03-23"
       }
     ],
     "sale": [
@@ -1032,8 +1044,34 @@
         "url": "https://automaton-media.com/articles/newsjp/20260323-431479/",
         "date": "2026-03-23",
         "is_translated": false
+      },
+      {
+        "title": "【インテル Core Ultra 7 270K Plus レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "インテル Core Ultra 7 270K Plus レビュー記事では、このプロセッサの性能や機能を評価しています。記事では、コア数やクロック速度などのハードウェアのスペック、ゲームやビデオ編集などのアプリケーションの性能、また、消費電力や発熱量などの点から評価しています。ゲームや動画編集など、ハイパフォーマンスが必要なユーザー向けの情報として、記事は参考になります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/processors/intel-core-ultra-7-270k-plus-review/",
+        "date": "2026-03-23",
+        "is_translated": true
+      },
+      {
+        "title": "【インテル Core Ultra 5 250K Plus レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "インテル Core Ultra 5 250K Plus レビューの記事は、ゲームの評価ポイントとして、パフォーマンス、グラフィックのクオリティ、コストパフォーマンスを考察しています。レビューの内容概要としては、ゲームのスムーズな動作、グラフィックの美しさ、価格帯とのバランスが良好であることを評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/processors/intel-core-ultra-5-250k-plus-review/",
+        "date": "2026-03-23",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-23T10:04:10.071496"
+  "last_updated": "2026-03-23T13:23:09.701225"
 }
