@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/pixel-traditions-bundle",
         "date": "2026-03-23"
+      },
+      {
+        "title": "Best of Boomer Shooters 5: Penta Boom",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Best of Boomer Shooters 5: Penta Boomというバンドルが販売中です。このバンドルには、Prodeus、Hellbound、Duskのようなアクション満点のシューティングゲームが含まれています。ジャンルは主にFPSです。価格帯は、およそ2,000円から3,000円程度で購入できるようです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/bestboomershooters5pentaboom_bundle",
+        "date": "2026-03-24"
       }
     ],
     "sale": [
@@ -604,6 +616,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/wave-gods-ammo-night/info/",
         "date": "2026-03-23"
+      },
+      {
+        "title": "Manor Lords",
+        "platform": "Various",
+        "type": "sale",
+        "description": "中世をテーマにしたシティビルダーであるManor Lordsが、現在Variousで44%オフのセール中です。このゲームは、都市の設計と管理、資源の管理、戦争への対応など、シティビルダーの典型的な要素を備えており、ストラテジーゲームファンに人気があります。Steamでの評価は「非常に好評」で、プレイヤーからの評価は非常に高いです。価格は通常30ドルですが、セール中は16.80ドルで購入できます。",
+        "price": "$22.37",
+        "originalPrice": "",
+        "discount": "-44%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/manor-lords/info/",
+        "date": "2026-03-24"
       }
     ],
     "review": [
@@ -1035,8 +1059,47 @@
         "url": "https://doope.jp/2026/03165314.html",
         "date": "2026-03-23",
         "is_translated": false
+      },
+      {
+        "title": "【カエルの物理演算2Dアクション『RUBATO』が高評価発進。ジャンプと舌で太陽系を救う、“奇抜...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『RUBATO』は、カエルの物理演算2Dアクションゲームで、高評価を獲得しています。ジャンプと舌を使って太陽系を救うというユニークなゲーム性が特徴です。多くのレビューでは、ゲームの独創的なアイデア、スムーズな操作性、そして面白いゲームプレイが評価されています。これらのポイントから、ゲームに興味がある方や、2Dアクションゲームのファンにはおすすめのゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/rubato-20260324-431824/",
+        "date": "2026-03-24",
+        "is_translated": false
+      },
+      {
+        "title": "【オープンワールド『紅の砂漠』は「何もわからない」が楽しいゲーム。NPC450人、動物400種類...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "オープンワールドゲーム「紅の砂漠」は、広大な世界を自由に探索できることで楽しさを感じることができます。NPCが450人も登場するので、さまざまなキャラクターと交流することができ、400種類の動物も登場するので、自然の中で生活感を味わうことができます。このゲームは、ストーリーやシステムを理解することに集中するのではなく、自分で発見して探索することに重点を置いたデザインになっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/crimson-desert-20260324-431674/",
+        "date": "2026-03-24",
+        "is_translated": false
+      },
+      {
+        "title": "【愚者の宴 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "『愚者の宴』のレビュー記事では、ゲームの評価ポイントとして、ストーリーの独創性やキャラクターの深み、ゲームプレイの多様性などが評価されています。レビューの内容概要としては、ゲームの世界観やキャラクターの魅力、プレイヤーが自由に選択できる要素について言及されています。このレビュー記事は、『愚者の宴』のファンやアドベンチャーゲームに興味のある方にとって、ゲームの魅力を知るのに役立つでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/banquet-for-fools-review/",
+        "date": "2026-03-24",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-24T01:59:48.769183"
+  "last_updated": "2026-03-24T09:55:44.256071"
 }
