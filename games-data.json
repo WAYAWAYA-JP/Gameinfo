@@ -640,6 +640,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/nier-automata-game-of-the-yorha-edition/info/",
         "date": "2026-03-24"
+      },
+      {
+        "title": "RESIDENT EVIL 3 (2020)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "RESIDENT EVIL 3は、2020年に発売されたサバイバルホラーゲームで、恐怖と緊張感漂う世界でプレイヤーがさまざまなミッションを遂行する必要があります。このゲームは、 Variousプラットフォームで現在-90%の割引セール中で、非常に魅力的です。多くのゲーマーから高い評価を受けており、人気ゲームとして知られています。",
+        "price": "$3.99",
+        "originalPrice": "",
+        "discount": "-90%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-3-2020/info/",
+        "date": "2026-03-24"
       }
     ],
     "review": [
@@ -1162,8 +1174,34 @@
         "url": "https://www.rockpapershotgun.com/arcade-racer-screamers-first-update-nerfs-ai-difficulty-with-an-additional-balance-pass-coming-soon",
         "date": "2026-03-24",
         "is_translated": true
+      },
+      {
+        "title": "【『ポケモン チャンピオンズ』4月8日配信へ。基本プレイ無料“ポケモンバトル特化”ゲームがついに】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ポケモン チャンピオンズ』は、4月8日に配信される基本プレイ無料のゲームで、ポケモンバトルを特化させた内容です。このゲームは、ポケモンシリーズのファンにとっては必玩のタイトルで、バトルシステムやグラフィックのクオリティが高く評価されています。また、ゲームの_Free_to_Playモデルにより、新しいプレーヤーも簡単に参加できるようになっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260324-431845/",
+        "date": "2026-03-24",
+        "is_translated": false
+      },
+      {
+        "title": "【テレビスタジオテーマの新シーズンを導入する「The Outlast Trials」の“Proj...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「The Outlast Trials」のレビューでは、テレビスタジオテーマの新シーズンを紹介し、ゲームの怖さやサスペンスが高く評価されています。さらに、ゲームのグラフィックやサウンドデザインも高く評価されており、ホラーゲームファンにとっては必見の作品です。このレビューは、ホラーゲームのファンや、サイコロジカルホラーに興味がある人にとって、ゲームの内容や評価ポイントを知るのに役立つでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165308.html",
+        "date": "2026-03-24",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-24T13:26:55.622652"
+  "last_updated": "2026-03-24T21:38:27.636454"
 }
