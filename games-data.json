@@ -628,6 +628,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/manor-lords/info/",
         "date": "2026-03-24"
+      },
+      {
+        "title": "Nier: Automata™ Game Of The Yorha Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションRPGの名作『Nier: Automata』のゲームオブザイヤー版が、現在60%の割引で販売中です。このゲームは、独特のストーリーと深いキャラクター設定が特徴で、批評家とプレイヤーから高い評価を受けています。人気度も非常に高く、多くのゲームファンに愛され続けています。",
+        "price": "$15.99",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/nier-automata-game-of-the-yorha-edition/info/",
+        "date": "2026-03-24"
       }
     ],
     "review": [
@@ -1098,8 +1110,60 @@
         "url": "https://www.pcgamer.com/games/rpg/banquet-for-fools-review/",
         "date": "2026-03-24",
         "is_translated": true
+      },
+      {
+        "title": "【Lian Li Lancool 217 のケースレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Lian Li Lancool 217 のケースレビュー記事では、ゲームの評価ポイントとしてケースのデザインや性能、また冷却システムの効果などが取り上げられています。この記事では、ケースの使い勝手や耐久性、価格とのバランスなどについてレビューされており、PCゲーマーやパソコン愛好家向けの参考情報として役立ちます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/pc-cases/lian-li-lancool-217-case-review/",
+        "date": "2026-03-24",
+        "is_translated": true
+      },
+      {
+        "title": "【Hyperkin の競合他社のレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Hyperkin の競合他社の製品についてのレビュー記事です。この記事では、競合他社の製品の評価ポイントとして、製品の性能やデザイン、価格帯などを比較検討しています。また、レビューの内容概要としては、製品の優れた点や欠点、ユーザーからの評価などを紹介しています。対象読者は、Hyperkin の製品や競合他社の製品に興味のある方や、ゲーム機器の購入を検討している方などが対象です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/game-pads/hyperkin-competitor-review/",
+        "date": "2026-03-24",
+        "is_translated": true
+      },
+      {
+        "title": "【Asus ROG Falchion Ace 75 HE レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Asus ROG Falchion Ace 75 HE レビューは、ゲームパッドの性能や操作性、デザインなどを評価しています。このレビューでは、ハイスペックなゲームに適した高い精度や反応速度、ユーザーが好みの設定にカスタマイズできる機能などが高く評価されています。また、デザインや耐久性も評価ポイントになっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/asus-rog-falchion-ace-75-he-review/",
+        "date": "2026-03-24",
+        "is_translated": true
+      },
+      {
+        "title": "【アーケード レーサー Screamer の最初のアップデートで AI の難易度がナーフされ、「...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "アーケードレーサーScreamerの最初のアップデートで、AIの難易度がナーフされました。このゲームの評価ポイントとしては、スピード感のあるレース体験や、グラフィックの質が高く美しいこと、そしてアップデートによって改善されたゲームバランスの調整が挙げられます。レビューの内容概要としては、ゲームの難易度の調整や、新しいコンテンツの追加が期待できると述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/arcade-racer-screamers-first-update-nerfs-ai-difficulty-with-an-additional-balance-pass-coming-soon",
+        "date": "2026-03-24",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-24T09:55:44.256071"
+  "last_updated": "2026-03-24T13:26:55.622652"
 }
