@@ -592,6 +592,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-3-2020/info/",
         "date": "2026-03-24"
+      },
+      {
+        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "platform": "Various",
+        "type": "sale",
+        "description": "S.T.A.L.K.E.R. 2: Heart of Chornobylは、オープンワールドとFPSの要素を組み合わせたサバイバルホラーゲームで、プレイヤーは放射能に汚染された地域で生き延びるために闘争する必要があります。現在、41%の割引で購入できます。高い評価と人気を誇るこのゲームは、グラフィックとサウンドデザインが高く評価されており、プレイヤーから非常に好評です。",
+        "price": "$35.20",
+        "originalPrice": "",
+        "discount": "-41%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
+        "date": "2026-03-25"
       }
     ],
     "review": [
@@ -1036,8 +1048,47 @@
         "url": "https://www.polygon.com/daredevil-born-again-season-2-review/",
         "date": "2026-03-25",
         "is_translated": true
+      },
+      {
+        "title": "【高評価百合ビジュアルノベル『Love Curse』3月26日から値上げへ。“ボリューム3割増し...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "高評価を得ている百合ビジュアルノベル『Love Curse』は、3月26日から値上げされることが発表されました。このゲームは、女性同士の恋愛を描いたストーリーや、美麗なグラフィックが特徴です。レビューでは、ゲームのボリュームが3割増しになったことや、キャラクターの深みが増したことが評価されています。また、ストーリーの展開や、サウンドトラックの質も高い評価を得ています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/love-curse-20260325-431956/",
+        "date": "2026-03-25",
+        "is_translated": false
+      },
+      {
+        "title": "【円谷プロ公式“ゼットンのホームランダービー”ゲーム無料公開、その名も『ゼットンの1兆度ホームラ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "円谷プロ公式のゲーム「ゼットンのホームランダービー」が無料公開されました。このゲームは、人気キャラクターのゼットンを主人公にしたホームランダービーゲームです。レビューでは、ゲームの簡単さ、キャラクターの魅力、無料での公開などが評価されています。このゲームは、ゼットンファンや家族で楽しめる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260325-431948/",
+        "date": "2026-03-25",
+        "is_translated": false
+      },
+      {
+        "title": "【発売1周年を迎えるFallout系サバイバルアクション「Atomfall」の累計プレイヤー数が...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Fallout系のサバイバルアクションゲーム「Atomfall」は発売から1周年を迎え、累計プレイヤー数が増加しています。このゲームの評価ポイントとして、広大なオープンワールドと自由度の高いゲームプレイが上げられます。また、レビューではグラフィックの高さやサウンドトラックのクオリティも高く評価されています。対象読者としてはアクションゲームやサバイバルゲームのファンにオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165351.html",
+        "date": "2026-03-25",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-25T02:05:50.000343"
+  "last_updated": "2026-03-25T09:53:58.097169"
 }
