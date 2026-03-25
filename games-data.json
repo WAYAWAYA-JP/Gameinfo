@@ -242,6 +242,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/bestboomershooters5pentaboom_bundle",
         "date": "2026-03-24"
+      },
+      {
+        "title": "Humble 15 for $15 - Spring 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは「Humble 15 for $15 - Spring 2026」というバンドルが販売中です。このバンドルには、ダンジョンズ＆ドラゴンズオンライン、Age of Wonders IV、Frostpunk 2などの主要タイトルが含まれています。ジャンルはアクション、ロールプレイング、シミュレーションなど多岐にわたり、バンドルの価格帯は約2000円ととてもお手頃です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/humble15for15spring2026_bundle",
+        "date": "2026-03-25"
+      },
+      {
+        "title": "Superhero 2 Tales Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Superhero 2 Tales Bundleというバンドルが販売中です。このバンドルには、スーパーヒーローをテーマにしたゲームが収録されています。主要タイトルとしては、スーパーヒーローを扱ったアクションゲームや、ヒーローを育成するシミュレーションゲームなどが含まれています。ジャンルはアクションやアドベンチャーに属し、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/superhero2-tales-bundle",
+        "date": "2026-03-25"
       }
     ],
     "sale": [
@@ -615,6 +639,18 @@
         "discount": "-54%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-03-25"
+      },
+      {
+        "title": "ペルソナ３ リロード",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ３ リロードがSteamで60% OFFセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、深いストーリーとキャラクターの成長が特徴です。現在のセールにより、通常価格より大幅に安くなっています。ペルソナシリーズは、ファンから高い評価と人気を博しており、ペルソナ３ リロードも高い評価を受けています。",
+        "price": "¥3,071",
+        "originalPrice": "¥7,678",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2161700",
         "date": "2026-03-25"
       }
     ],
@@ -1151,8 +1187,60 @@
         "url": "https://www.polygon.com/super-mario-bros-wonder-meetup-bellabel-park-switch-2-review/",
         "date": "2026-03-25",
         "is_translated": true
+      },
+      {
+        "title": "【スクエニが「メタスコアによる2025年ゲーム会社ランキング」トップを飾る。“高評価作品率100...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "スクエニは「メタスコアによる2025年ゲーム会社ランキング」でトップに立ちました。スクエニのゲーム作品は高評価を得ていますが、その理由を探ってみましょう。まず、スクエニのゲームはグラフィックやサウンドが高品質で、ストーリーやキャラクターも魅力的です。また、プレイヤーのニーズに応えたゲームデザインも評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260325-432127/",
+        "date": "2026-03-25",
+        "is_translated": false
+      },
+      {
+        "title": "【「Rainbow Six Siege」の“METAL GEAR SOLID”コラボイベントがス...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Rainbow Six Siege」の「METAL GEAR SOLID」コラボイベントのレビュー記事では、イベントの評価ポイントとして、コラボレーションの独創性やゲームプレイの変化が取り上げられている。記事では、イベントの内容やゲームの新要素についても触れられており、ファンやゲーム愛好家にとって興味深い内容となっている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165374.html",
+        "date": "2026-03-25",
+        "is_translated": false
+      },
+      {
+        "title": "【伊Milestoneが開発を手がける人気シリーズ最新作「MotoGP 26」のゲームプレイを1...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "MotoGP 26は、伊Milestoneが開発を手がける人気シリーズの最新作です。このゲームの評価ポイントは、リアルなグラフィック、スリリングなレース体験、そしてカスタマイズ性の高さです。レビューの内容概要としては、操作性の向上、グラフィックの美しさ、そして様々なモードの豊富さが高い評価を受けています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165358.html",
+        "date": "2026-03-25",
+        "is_translated": false
+      },
+      {
+        "title": "【私はビッグ ウォークの無題のガチョウでした。House House の心地よい新しいオープンワ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、House House の新しいオープンワールドゲーム「ビッグ ウォーク」の評価ポイントを紹介しています。ゲームの自由度やグラフィックの美しさが高く評価されており、ユーザーはゲームの世界観やゲーム性に満足しているようです。対象読者は、このゲームに興味がある人や、オープンワールドゲームのファンであれば、ぜひこのレビュー記事を読んでみることをお勧めします。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/i-was-the-untitled-goose-in-big-walk-the-balmy-new-open-world-co-op-puzzler-from-house-house",
+        "date": "2026-03-25",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-25T13:26:03.047918"
+  "last_updated": "2026-03-25T21:39:40.347965"
 }
