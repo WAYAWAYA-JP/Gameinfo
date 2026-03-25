@@ -604,6 +604,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
         "date": "2026-03-25"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームのStrayが、現在Variousで54%のセール中です。このゲームは、高評価を得ており、人気も高く、ユーザーからも好評価されています。セール期間中は、割引価格で購入することができます。",
+        "price": "$13.75",
+        "originalPrice": "",
+        "discount": "-54%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-03-25"
       }
     ],
     "review": [
@@ -1087,8 +1099,60 @@
         "url": "https://doope.jp/2026/03165351.html",
         "date": "2026-03-25",
         "is_translated": false
+      },
+      {
+        "title": "【『鳴潮』Ver3.2前半ストーリー感想。挫折を乗り越えた少女シグリカが天才から英雄になる“成長...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『鳴潮』Ver3.2前半ストーリーのレビュー記事では、挫折を乗り越えた少女シグリカが天才から英雄になる成長を描いたストーリーが高く評価されています。このゲームは、キャラクターの成長やストーリーの展開が見所であり、シグリカの強さや勇気を感じることができます。特に、ゲームをプレイしたことがある人やファンタジー系のゲームが好きな人におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/ww-20260325-432061/",
+        "date": "2026-03-25",
+        "is_translated": false
+      },
+      {
+        "title": "【立て直し中のFPS『SPLITGATE: Arena Reloaded』開発元、“新作FPSの...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "FPSゲーム『SPLITGATE: Arena Reloaded』は立て直しが進んでいます。開発元の1047 Gamesは新作FPSの開発を進めています。レビュー記事では、このゲームの評価ポイントとして、グラフィックの向上や新しいゲームモードの追加などを取り上げています。また、ゲームのレビューの内容概要として、ゲームの操作性やマルチプレイヤー機能の充実などを紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/1047-games-20260325-432026/",
+        "date": "2026-03-25",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam で非常に好評を博し、販売数が 300 万に達するにつれて、プレイヤーは Crims...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Steamで非常に好評を博し、販売数が300万に達したゲーム「Crims...」のレビュー記事では、ゲームの評価ポイントとしてグラフィックやゲームプレイの面白さが高く評価されています。また、レビューの内容としては、ユーザーインターフェイスの使いやすさやサウンドトラックの魅力も評価されています。対象読者は、Steamでのアクションゲームを探している方や。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/players-are-starting-to-click-with-crimson-desert-as-it-climbs-up-to-very-positive-on-steam-and-reaches-3-million-sales-but-pearl-abyss-promises-more-improvements/",
+        "date": "2026-03-25",
+        "is_translated": true
+      },
+      {
+        "title": "【スーパーマリオブラザーズ ワンダーベラベルパーク Switch 2 レビュー: 楽しいが本質的...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "スーパーマリオブラザーズ ワンダーベラベルパーク Switch 2 は、シリーズのファンである人向けに作られたゲームです。このゲームは、楽しい要素が多く含まれていますが、本質的な面ではシリーズの他の作品とあまり変化はありません。ゲームの評価ポイントとしては、グラフィックの美しさや新しいキャラクターの追加が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/super-mario-bros-wonder-meetup-bellabel-park-switch-2-review/",
+        "date": "2026-03-25",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-25T09:53:58.097169"
+  "last_updated": "2026-03-25T13:26:03.047918"
 }
