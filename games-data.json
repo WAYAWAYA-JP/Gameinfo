@@ -24,6 +24,30 @@
         "deadline": "2026年03月26日まで",
         "url": "https://store.epicgames.com/ja/p/world-of-warships-tachibana-lima-pack",
         "date": "2026-03-26"
+      },
+      {
+        "title": "Hyper Echelon",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "シアン銀河は危機に瀕していますが、あなたの頼れる小さなスターファイターと僚機の寄せ集め部隊が、邪悪なエクソドンに立ち向かう唯一の希望です。このゲームは、ロールプレイングゲームとシューティングゲームの要素を兼ね備えたアクションゲームで、多くの素晴らしいロケールでの熱狂的な戦闘が特徴です。また、豆鉄砲から攻撃力の強いプレイヤーにレベルアップすることができ、戦闘のスリルやキャラクターの成長が魅力です。",
+        "price": "無料",
+        "originalPrice": "¥12",
+        "discount": "100% OFF",
+        "deadline": "2026年04月02日まで",
+        "url": "https://store.epicgames.com/ja/p/39e8285c09224707ab83d5c256e9b41b",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "Havendock",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Havendockは、ストラテジー系のゲームです。このゲームの特徴は、プレイヤーが船を操り、海上で戦闘を行うことです。また、グラフィックが美しく、戦略的な戦いが楽しめます。さらに、ゲームの進行に応じて、新しい船やアイテムを入手できることです。現在、Epic Gamesプラットフォームで無料配布されています。",
+        "price": "無料",
+        "originalPrice": "¥19",
+        "discount": "100% OFF",
+        "deadline": "2026年04月02日まで",
+        "url": "https://store.epicgames.com/ja/p/454bc0b5893f46a885bd86a6589ee67a",
+        "date": "2026-03-26"
       }
     ],
     "bundle": [
@@ -1245,8 +1269,164 @@
         "url": "https://www.rockpapershotgun.com/forza-horizon-6-system-requirements-confirm-its-no-ram-guzzler-and-itll-run-on-steam-deck-too",
         "date": "2026-03-26",
         "is_translated": true
+      },
+      {
+        "title": "【人気豪快マッチョFPS最新作『Serious Sam: Shatterverse』発表。開発は...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Serious Sam: Shatterverse』は、人気のマッチョFPSシリーズの最新作です。ゲームの評価ポイントとしては、快-pacedなアクション、豊富なマルチプレイヤーモード、グラフィックの向上などがあります。レビューの内容概要としては、ゲームのストーリー、操作性、総評などが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260326-432355/",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
+        "title": "【高難度3D弾幕ローグライトシューター『SAROS』先行プレイ感想。「回避」も「位置取り」も「強...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "高難度3D弾幕ローグライトシューター『SAROS』の先行プレイ感想を紹介するレビュー記事です。このゲームの評価ポイントとして、回避、位置取り、強さなどの要素が重要であることがわかります。記事では、ゲームの難易度や操作感などについてレビューされています。対象読者は、ローグライトシューター系のゲームに興味がある人や、難易度の高いゲームを求める人に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/saros-20260327-432391/",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
+        "title": "【人類が死滅した世界で少女と出会ったロボット探偵を描く新作「Artificial Detecti...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人類が死滅した世界を舞台に、ロボット探偵と少女が出会い、さまざまな事件を解決していく「Artificial Detective」のレビュー記事です。このゲームは、独自の世界観やキャラクター設定が特徴で、ゲームの評価ポイントとしては、ストーリーの深みやゲーム性の魅力が挙げられます。レビューの内容概要としては、ゲームの雰囲気やグラフィックの美しさ、そしてキャラクターの描写の細かさが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165442.html",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
+        "title": "【驚異的なアニメーションでおじさんの冒険を描く「The Eternal Life of Gold...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「The Eternal Life of Gold...」は、惊異的なアニメーションでおじさんの冒険を描くゲームです。このレビュー記事では、ゲームの評価ポイントとして、アニメーションの質、ストーリーの深み、ゲームプレイの楽しさを取り上げます。また、レビューの内容概要として、ゲームの世界観、キャラクターの魅力、サウンドトラックの素晴らしさについて説明しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165436.html",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
+        "title": "【ワールド・オブ・ダークネスの人気TRPGをビデオゲーム化する「Hunter: The Reck...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Hunter: The Reckoning」は、人気TRPG「ワールド・オブ・ダークネス」のビデオゲーム化作品です。このゲームでは、プレイヤーは吸血鬼やその他の超自然的な存在と戦うハンターとなり、さまざまなミッションを遂行します。レビューの内容としては、ゲームのストーリーやキャラクターの魅力、そしてアクション要素の充実度が評価ポイントとなります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165373.html",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
+        "title": "【Atomfallを生んだRebellionの新作Sci-Fiアクションホラー「Alien De...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Rebellionが開発した新作Sci-Fiアクションホラー「Alien De...」のレビュー記事について紹介します。このゲームは、ストーリーの独創性、グラフィックの質の高さ、プレイヤーの恐怖を誘うサウンドデザインなどが評価ポイントです。レビューでは、これらの要素が組み合わさることで、プレイヤーに强い臨場感と緊張感を与えることができていると述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165367.html",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
+        "title": "【“エクスパンス”シリーズをビデオゲーム化する「The Expanse: Osiris Rebo...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「エクスパンス」シリーズをビデオゲーム化した「The Expanse: Osiris Reborn」のレビュー記事では、ゲームの評価ポイントとして、ストーリーの引き付け方やゲームプレイの奥深さなどが取り上げられています。レビューの内容概要として、シリーズファン向けの新しい要素や、ゲームのグラフィックの質の高さなどが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165361.html",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
+        "title": "【Supergiant Gamesの新たな傑作「Hades II」のXboxとPS5対応がアナウ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Supergiant Gamesの新作「Hades II」がXboxとPS5に対応することが発表されました。このゲームはストーリーやグラフィック、サウンドトラックなどで高く評価されています。特に、ゲームの難易度や操作性、キャラクターの設定などが評価ポイントになっています。レビューでは、ゲームの世界観やプレイヤーの選択肢の自由度などが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165430.html",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
+        "title": "【高い評価を獲得したスーパーヒーロー職場コメディ「Dispatch」のXbox対応がアナウンス、...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "スーパーヒーロー職場コメディ「Dispatch」のXbox対応が発表されたことを受けて、そのレビュー記事を紹介します。このゲームは高い評価を獲得しており、面白いストーリーやユニークなキャラクター、そしてスリリングなミッションが評価ポイントとなっています。レビューでは、ゲームのユーモアやアクション要素が高く評価されています。また、グラフィックやサウンドトラックもよくできているとされています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165427.html",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
+        "title": "【【ゲムぼく。のプレイレポ】地獄で図太く気高くハッピーライフ！死してなお生きざまが「太い」最強令...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「地獄で図太く気高くハッピーライフ！死してなお生きざまが「太い」最強令」をプレイした際の評価ポイントを紹介しています。具体的には、ゲームのストーリーやシステム、キャラクターの個性などが評価されています。ゲームの魅力を引き出している要素として、ユニークな世界観やキャラクターの設定が挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/26/179096.html",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
+        "title": "【STALKER 2: Cost of Hope は、基本ゲームでは時間が取れなかったチェルノブ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "STALKER 2: Cost of Hope は、チェルノブイリの世界を舞台にしたアクションアドベンチャーゲームです。このゲームは、グラフィックやサウンドデザインなど、技術的な面で高く評価されています。さらに、ゲームのストーリーやキャラクターの深みも、プレイヤーを引き付ける要素になっています。特に、チェルノブイリの世界を愛好するファンや、アクションアドベンチャーゲームを好むプレイヤーには。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/stalker-2-cost-of-hope-expansion-announced",
+        "date": "2026-03-26",
+        "is_translated": true
+      },
+      {
+        "title": "【良くも悪くも、マックスとクロエは現在公開中の『ライフ イズ ストレンジ: リユニオン』で再び一...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、現在公開中の「ライフ イズ ストレンジ: リユニオン」の評価ポイントについて取り上げていて、ストーリーやキャラクター、ゲームプレイの面で評価しています。記事では、マックスとクロエの再会がどう描かれているかなど、ゲームの内容概要についても触れています。この記事は、同じゲームシリーズを楽しんだことがある人や、ゲームのストーリーやキャラクターに興味がある人が読むのに適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/for-better-or-worse-max-and-chloe-are-together-again-in-life-is-strange-reunion-which-is-out-right-now",
+        "date": "2026-03-26",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-26T13:44:05.388314"
+  "last_updated": "2026-03-26T21:32:01.331511"
 }
