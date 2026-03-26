@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Electrician Simulator",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "このゲームでは、電気技師の役割を引き受けて、職業の基礎を学びます。顧客の家にコンセントを設置したり、老朽化した機器を修理したり、壊れた家電を組み立てたり、電球を交換したり、配線を敷設したりすることができます。すべての作業を2回確認する必要があり、電気には冗談が通用しないため、慎重さが求められます。このゲームは、シミュレーションゲームとしての特徴があり、電気工事の実践的な経験を提供します。",
+        "price": "無料",
+        "originalPrice": "¥17",
+        "discount": "100% OFF",
+        "deadline": "2026年03月26日まで",
+        "url": "https://store.epicgames.com/ja/p/d4645b0dc574438e95d20c6a31d3a0f7",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "『World of Warships』– Epic アニバーサリー橘パック",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『World of Warships』は、海洋を舞台に戦艦を操り戦う戦略アクションゲームです。このゲームの特徴としては、グラフィックの美しさ、戦艦のカスタマイズの自由度、オンラインでのマルチプレイ機能があります。魅力としては、史実に基づいた戦艦の再現、戦略的な戦い方が求められること、そしてプレイヤー同士のコミュニケーションが重要になる点があります。",
+        "price": "無料",
+        "originalPrice": "¥27",
+        "discount": "100% OFF",
+        "deadline": "2026年03月26日まで",
+        "url": "https://store.epicgames.com/ja/p/world-of-warships-tachibana-lima-pack",
+        "date": "2026-03-26"
+      }
+    ],
     "bundle": [
       {
         "title": "The ESA All-Star Alliance Bundle",
@@ -494,6 +519,66 @@
         "discount": "70% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/1687950",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームのSekiro: Shadows Die Twice - GOTY EditionがSteamで50% OFFセール中で、通常価格より大幅に安くなっています。このゲームは、激しいアクションと陰険なステルスプレイを特徴とし、高い評価と人気を博しています。",
+        "price": "¥4,180",
+        "originalPrice": "¥8,360",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/814380",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "サイバーパンク2077",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サイバーパンク2077は、オープンワールドとRPGの要素を備えたアクションアドベンチャーゲームで、現在Steamで65%の割引セール中です。このゲームは、未来的な世界を舞台に、プレイヤーが自由に探索し、ストーリーを進めていくことができます。高い評価と人気度を誇り、ゲームファンから高い評価を得ています。",
+        "price": "¥3,072",
+        "originalPrice": "¥8,778",
+        "discount": "65% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1091500",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "Stardew Valley",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Stardew ValleyがSteamで50% OFFセール中です。このゲームは、ファーミングシミュレーションとRPGの要素を組み合わせた、オープンワールドのサンドボックスゲームです。プレイヤーは、農業、牧畜、採掘、釣りなど、さまざまな活動に従事しながら、田園町の生活を楽しむことができます。非常に人気のあるゲームであり、高い評価を得ています。",
+        "price": "¥740",
+        "originalPrice": "¥1,480",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/413150",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "Ready or Not",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "『Ready or Not』は、Steamで現在50%オフのセール中です。このゲームは、タクティカルファーストパーソンシューティングゲームとして知られ、プレイヤーがSWATチームを率いて、さまざまなミッションを遂行します。ストラテジーと協力プレイが重要な要素です。評価は非常に高く、ユーザーから高い人気を博しています。現在、セール中の価格で購入することができ、ファンには見逃せないチャンスです。",
+        "price": "¥3,575",
+        "originalPrice": "¥7,150",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1144200",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "DAVE THE DIVER",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DAVE THE DIVERがVariousで58%オフのセール中です。このゲームはアクションアドベンチャー要素が豊富で、ユーザーからの評価も非常に高い人気ゲームです。現在、セール中のため、通常価格よりも大幅に安く購入することができます。",
+        "price": "$8.45",
+        "originalPrice": "",
+        "discount": "-58%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
         "date": "2026-03-26"
       }
     ],
@@ -1043,8 +1128,73 @@
         "url": "https://www.inside-games.jp/article/2026/03/26/179048.html",
         "date": "2026-03-26",
         "is_translated": false
+      },
+      {
+        "title": "【「最大200人協力」MMOローグライク『Minimo』発表。みんなで決めるビルドが鍵に、 料理...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、最大200人で協力プレイが可能なMMOローグライクゲーム「Minimo」を紹介しています。特徴的なビルドシステムや、プレイヤー同士で協力してクリアを目指す楽しさが評価されています。また、ユニークな料理システムも魅力的な要素です。この記事は、MMOローグライクゲームファンや、新しいゲームに興味がある方に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/minimo-20260326-432283/",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
+        "title": "【『トモダチコレクション わくわく生活』で“住民を引きこもらせない”体験版延長テクニックが脚光浴...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「トモダチコレクション わくわく生活」のレビュー記事では、住民を引きこもらせないための体験版延長テクニックが紹介されています。このゲームの評価ポイントとしては、テクニックの有効性やゲームの楽しさが挙げられます。また、レビューではゲームのシステムやグラフィックの魅力も評価されています。この記事は、同ゲームのファンやゲーム好きの方にとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/tomodachi-life-20260326-432255/",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
+        "title": "【Nintendo Switch 2版発売ホラーゲーム『The Midnight Walk』は「...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Nintendo Switch 2版のホラーゲーム『The Midnight Walk』のレビュー記事では、ゲームの評価ポイントとして、サスペンス溢れるストーリーや、心を震わせるサウンドデザインが高く評価されています。また、レビューでは、ゲームの雰囲気を高めるグラフィックや、プレイヤーを怖がらせる効果的なジャンプスキャリーシーンも紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/the-midnight-walk-20260326-432167/",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
+        "title": "【フィリピン文化をモチーフにほろ苦い高校生活を描くアドベンチャー「Until Then」の日本語...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、アドベンチャーゲーム「Until Then」の日本語版を紹介しています。このゲームはフィリピン文化をモチーフにしており、高校生活のほろ苦い一面を描き出しています。ゲームの評価ポイントとしては、ユニークなストーリー、多彩なキャラクター、そして文化的な深みがあることが挙げられます。フィリピン文化やアドベンチャーゲームに興味がある人にはおすすめのレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165406.html",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
+        "title": "【名探偵スヌーピーの活躍を描く「スヌーピーとワクワクひみつクラブ」のゲームプレイトレーラーが公開...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「スヌーピーとワクワクひみつクラブ」のゲームプレイトレーラーが公開されました。このゲームでは、名探偵スヌーピーの活躍を描いており、ファンには必見の作品となります。評価ポイントとしては、スヌーピーの愛らしいキャラクター、ワクワクするミステリー要素、そしてユーザーフレンドリーなゲームシステムが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165404.html",
+        "date": "2026-03-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-26T02:11:27.463573"
+  "last_updated": "2026-03-26T10:01:15.485246"
 }
