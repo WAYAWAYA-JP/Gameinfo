@@ -1,68 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Cozy Grove",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Cozy Groveは、生活シミュレーションゲームです。このゲームの特徴としては、かわいいキャラクターが登場すること、緑豊かな島での生活を楽しむことができること、そしてリラックスした雰囲気でプレイできることが挙げられます。また、Epic Gamesプラットフォームで無料配布中であり、誰でも簡単にダウンロードしてプレイすることができます。",
-        "price": "無料",
-        "originalPrice": "¥15",
-        "discount": "100% OFF",
-        "deadline": "2026年03月19日まで",
-        "url": "https://store.epicgames.com/ja/p/cozy-grove",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "Isonzo",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "現在、Epic Gamesではファーストパーソン・シューティングゲームであるIsonzoが無料配布中です。このゲームの特徴は、第一次世界大戦を舞台にしたリアルな戦闘シミュレーションや、多様な兵器と戦術を駆使して戦うことができる点です。また、オンラインマルチプレイ機能により、友達と協力して戦うこともできます。",
-        "price": "無料",
-        "originalPrice": "¥30",
-        "discount": "100% OFF",
-        "deadline": "2026年03月19日まで",
-        "url": "https://store.epicgames.com/ja/p/isonzo",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "Electrician Simulator",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "このゲームでは、電気技師の役割を引き受けて、電気の基礎知識を学びます。顧客の家にコンセントを設置したり、機器を修理したり、家電を組み立てたり、電球を交換したり、配線を敷設したりすることができます。特徴としては、シミュレーションゲームであること、電気の基礎知識を学べること、さまざまな作業を体験できることが挙げられます。",
-        "price": "無料",
-        "originalPrice": "¥17",
-        "discount": "100% OFF",
-        "deadline": "2026年03月26日まで",
-        "url": "https://store.epicgames.com/ja/p/d4645b0dc574438e95d20c6a31d3a0f7",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "『World of Warships』– Epic アニバーサリー橘パック",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『World of Warships』は、戦艦を操作して戦う戦略性の高いゲームです。このゲームの特徴は、歴史的な戦艦を再現したグラフィックと、戦略的な戦闘システムです。また、多様な戦艦とマップを提供しており、プレイヤーに幅広い選択肢を与えます。さらに、オンラインマルチプレイヤー機能が搭載されており、他のプレイヤーと共に戦うことができます。",
-        "price": "無料",
-        "originalPrice": "¥27",
-        "discount": "100% OFF",
-        "deadline": "2026年03月26日まで",
-        "url": "https://store.epicgames.com/ja/p/world-of-warships-tachibana-lima-pack",
-        "date": "2026-03-19"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Games Done Quick: Frost Fatales 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Games Done Quick: Frost Fatales 2026のバンドルが販売中です。このバンドルには、主要タイトルとして「Hollow Knight」や「Cuphead」、「Hyper Light Drifter」などが含まれています。ジャンルはアクションアドベンチャーやインディーゲームが中心です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/gamesdonequickfrostfatales2026_bundle",
-        "date": "2026-03-16"
-      },
       {
         "title": "The ESA All-Star Alliance Bundle",
         "platform": "Humble Bundle",
@@ -269,126 +208,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
-        "platform": "Various",
-        "type": "sale",
-        "description": "FINAL FANTASY VII REMAKE INTERGRADEがVariousで50%割引のセール中です。ロールプレイングゲームとして人気の高いこの作品は、グラフィックやサウンドが高質なものになっており、ファイナルファンタシーシリーズのファンに贈る最高の体験を提供します。評価も非常に高く、多くのユーザーから高評価を得ています。",
-        "price": "$19.99",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/final-fantasy-vii-remake-intergrade/info/",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "NieR:Automata™",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "NieR:Automata™は、アクションRPGのジャンルで人気の高いゲームです。現在、Steamで60%オフのセール中で、通常価格より大幅に安くなっています。評価も非常に高く、多くのユーザーから高い評価を受けています。世界観やストーリーも高く評価され、ゲームの内容は非常に充実しています。セール中のこの機会に、NieR:Automata™をプレイしてみるのはいかがでしょうか。",
-        "price": "¥2,112",
-        "originalPrice": "¥5,280",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/524220",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "Titanfall® 2",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Titanfall® 2がSteamで大幅な90% OFFのセール中です。このゲームはアクションパックのファーストパーソンシューティングゲームで、壮大なストーリーやスムーズな操作が特徴です。通常価格より大幅に安くなっているので、ファンや新規プレイヤーともにおすすめです。ゲームの評価は非常に高い人気ゲームであり、多くのプレイヤーから高く評価されています。",
-        "price": "¥300",
-        "originalPrice": "¥3,000",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1237970",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "Battlefield™ V",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでは、人気ファーストパーソン・シューティングゲームであるBattlefield Vが、現在95%オフのセール中です。このゲームは、第二次世界大戦を舞台に、グラフィックスと音響効果が高いレベルの戦闘体験を提供します。多くの評価サイトで高評価を獲得しており、ファンからも高い人気を誇っています。価格は大幅に割引されており、ファンや新規プレイヤーにとって大きなチャンスです。",
-        "price": "¥280",
-        "originalPrice": "¥5,600",
-        "discount": "95% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1238810",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "DAVE THE DIVER",
-        "platform": "Various",
-        "type": "sale",
-        "description": "DAVE THE DIVERがVariousで52%割引のセール中であり、ダイビングアクションゲームのファンならお見逃しできない魅力的な作品です。このゲームは、ユニークなゲームプレイと美しいグラフィックで知られており、プレイヤーから高い評価を得ています。現在、非常に魅力的な価格での提供となっており、購入する絶好の機会となっています。",
-        "price": "$9.66",
-        "originalPrice": "",
-        "discount": "-52%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "Detroit: Become Human",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Detroit: Become HumanがVariousで86%オフのセール中です。このアドベンチャーゲームは、ロボットの視点から人間とロボットの関係を描いた独特の物語が特徴です。高評価を得たこの作品は、多くのユーザーから人気を博しています。",
-        "price": "$5.60",
-        "originalPrice": "",
-        "discount": "-86%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームの「Sekiro: Shadows Die Twice - GOTY Edition」がSteamで50%の割引セール中です。このゲームは、陰気な日本の世界を舞台に、強敵との激闘を繰り広げることで知られています。高い評価と人気を博しており、ゲームオブザイヤー賞を受賞しています。現在、半額の価格で購入することが可能ですので、注目しておきたいゲームです。",
-        "price": "¥4,180",
-        "originalPrice": "¥8,360",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/814380",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "サイバーパンク2077",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サイバーパンク2077は、オープンワールドのアクションRPGで、未来的な世界を舞台に、自由に冒険できるゲームです。このゲームは、Steamで現在65％オフのセール中で、通常価格からの大幅な割引になります。サイバーパンク2077は、グラフィックやストーリー、ゲームプレイなどの面で高い評価を受けており、人気ゲームとして知られています。",
-        "price": "¥3,072",
-        "originalPrice": "¥8,778",
-        "discount": "65% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1091500",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "Stardew Valley",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Stardew ValleyがSteamで50% OFFセール中です。このゲームは、農園を経営して生活する農業シミュレーションゲームで、リラックスした雰囲気と深いゲーム性が特徴です。現在の価格は大幅に割引されています。評価は非常に高く、人気度も高いので、農業シミュレーションゲームのファンにはおすすめできます。",
-        "price": "¥740",
-        "originalPrice": "¥1,480",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/413150",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "Ready or Not",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Ready or Notは、タクティカルファーストパーソンシューティングゲームであり、プレイヤーが警察の特殊部隊を率いて、さまざまなミッションを遂行することができます。現在、Steamで50%の割引セール中で、ファンからの評価も非常に高い人気ゲームです。",
-        "price": "¥3,575",
-        "originalPrice": "¥7,150",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1144200",
-        "date": "2026-03-19"
-      },
       {
         "title": "BIOHAZARD RE:3",
         "platform": "Steam",
@@ -652,100 +471,33 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/2161700",
         "date": "2026-03-25"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "オープンワールドアクションアドベンチャーゲームであるRed Dead Redemption 2がSteamで75%オフのセール中です。このゲームは、美しいグラフィックと豊富なストーリーで知られており、非常に高い評価と人気度を誇っています。通常価格と比較して大幅に安くなっているので、ゲームファンには絶好のチャンスです。",
+        "price": "¥2,154",
+        "originalPrice": "¥8,618",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1174180",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "ペルソナ５ ザ・ロイヤル",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ５ ザ・ロイヤルは、Steamで現在70%オフのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、深いストーリーと魅力的なキャラクターで知られています。ゲームの評価は非常に高く、人気も高いです。通常価格より大幅に安くなっているので、ゲームファンには見逃せない機会です。",
+        "price": "¥2,303",
+        "originalPrice": "¥7,678",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1687950",
+        "date": "2026-03-26"
       }
     ],
     "review": [
-      {
-        "title": "【オンラインマルチプレイヤー陶芸乱闘バトル「Kiln」の発売日が4月23日に決定、Double ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "オンラインマルチプレイヤー陶芸乱闘バトル「Kiln」の発売日が4月23日に決定しました。このゲームは、プレイヤーが陶芸作品を作りながら戦うユニークなゲームです。評価ポイントとしては、創造性に富んだゲームプレイや多彩な陶芸作品の作成があげられます。レビューの内容としては、ゲームのオリジナリティやグラフィックの美しさが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165254.html",
-        "date": "2026-03-21",
-        "is_translated": false
-      },
-      {
-        "title": "【XCOM系西部劇ターンベースストラテジー続編「Hard West 2」のPS5/Xbox Se...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Hard West 2」は、XCOM系の西部劇ターンベースストラテジーゲームの続編です。このゲームは、ターン制の戦闘システムと、西部開拓時代の雰囲気を融合させた独特の世界観が特徴です。レビューでは、ゲームの評価ポイントとして、戦略的な戦闘システム、豊富なキャラクターのカスタマイズ、そしてアトモスフィアーのあるサウンドトラックが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165206.html",
-        "date": "2026-03-21",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamゲームのお手軽検索サイト「Steam Relics」公開。“好評率×レビュー数”フィ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steam Relicsは、Steamゲームの検索を簡単に行えるサイトです。このサイトでは、「好評率×レビュー数」という独自の評価システムを採用しており、ユーザーがゲームの評価ポイントを簡単に確認できます。レビューの内容概要としては、ゲームのプレイ性やグラフィックの質、そしてユーザーの評価ポイントが高いゲームを紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/steam-relics-20260321-431133/",
-        "date": "2026-03-21",
-        "is_translated": false
-      },
-      {
-        "title": "【『Marathon』レビュー。「脱出シューター」の枠に収まらない“異質”ゲーム、鮮烈なデザイン...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム「Marathon」の評価ポイントを紹介しています。まず、「脱出シューター」の枠に収まらない「Marathon」の独自性や、鮮烈なデザインが注目されています。さらに、ゲームのストーリーや操作性も評価されており、シューティングゲームファンや、ハードコアなゲームを求めるプレイヤーにとってはおすすめのタイトルであると言えるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/marathon-20260321-431075/",
-        "date": "2026-03-21",
-        "is_translated": false
-      },
-      {
-        "title": "【『Slay the Spire 2』アプデ配信後に、“1日で約1万件”の不評レビュー殺到。開発...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Slay the Spire 2』のアップデート後、約1万件の不評レビューが殺到し、開発チームは対応に追われる状況です。この記事では、ゲームの評価ポイントとして、新しいアップデートの内容とそれに伴うバグや不満点について触れています。さらに、レビューの内容概要として、プレイヤーからの批判的な意見や要望も紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/slay-the-spire-2-20260321-431063/",
-        "date": "2026-03-21",
-        "is_translated": false
-      },
-      {
-        "title": "【リアル戦術サッカーシム『Football Manager 26』で、4月にあるマンチェスター・...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「Football Manager 26」はリアルな戦術サッカーシミュレーションゲームで、ユーザーはマンチェスター・ユナイテッドなどのチームを運営して勝利を目指します。このゲームの評価ポイントとしては、リアルなチーム運営や戦略的思考が必要である点が挙げられます。また、レビューの内容概要としては、グラフィックの向上や新しい戦術の追加などが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/fm26-20260320-430895/",
-        "date": "2026-03-21",
-        "is_translated": false
-      },
-      {
-        "title": "【「この進歩は直線的ではありません」: Mega Crit、いくつかの羽を乱した後の Slay ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Mega Critのゲーム「Slay the Spire」のレビュー記事では、ゲームの評価ポイントとして、プレイヤーのスキルと戦略の重要性が強調されています。また、レビューでは、ゲームの難易度とリプレイ性についても触れています。この記事は、ロールプレイゲームやカードゲームのファンに特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/this-progress-will-not-be-linear-mega-crit-outline-their-patching-process-for-slay-the-spire-2-after-ruffling-some-feathers",
-        "date": "2026-03-21",
-        "is_translated": true
-      },
       {
         "title": "【オープンワールド『紅の砂漠』は物量勝負。『Slay the Spire 2』は友人と遊ぶのも楽...：レビュー】",
         "platform": "AUTOMATON",
@@ -1239,8 +991,60 @@
         "url": "https://www.rockpapershotgun.com/i-was-the-untitled-goose-in-big-walk-the-balmy-new-open-world-co-op-puzzler-from-house-house",
         "date": "2026-03-25",
         "is_translated": true
+      },
+      {
+        "title": "【ミステリー釣りゲーム「About Fishing」のオープンプレイテスト2.0が始動、極寒の目...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ミステリー釣りゲーム「About Fishing」のオープンプレイテスト2.0が始まりました。このゲームでは、極寒の環境下で釣りをするというユニークな設定が特徴です。レビューでは、ゲームの雰囲気、グラフィック、釣りシステムの評価ポイントが掘り下げられています。釣りゲームやミステリー要素が好きな方にはおすすめの記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165401.html",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
+        "title": "【ホビット庄ライフシム「ホビット庄の物語 ～指輪物語の世界から～」のNintendo Switc...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ホビット庄ライフシム「ホビット庄の物語 ～指輪物語の世界から～」のNintendo Switch版のレビュー記事では、ゲームの評価ポイントとして、ゲームの世界観やストーリー、キャラクターの魅力などが挙げられています。このレビューは、ライフシムゲームファンや指輪物語の世界を愛する人向けで、ゲームの内容や魅力をまとめた概要が紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165397.html",
+        "date": "2026-03-26",
+        "is_translated": false
+      },
+      {
+        "title": "【Havenを生んだThe Game Bakersの新作登山シム「Cairn」のプレイヤー数が5...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "The Game Bakersの新作登山シム「Cairn」のプレイヤー数が5万人を超えたという記事のレビューでは、ゲームの評価ポイントとしてグラフィックやサウンドトラックの美しさ、そして独自のゲームシステムが高く評価されています。また、レビューの内容概要として、ゲームのストーリーやキャラクターの魅力を紹介するとともに、ゲームの難易度や操作性についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165387.html",
+        "date": "2026-03-25",
+        "is_translated": false
+      },
+      {
+        "title": "【PS5の車内リモートプレイも幻に。「AFEELA 1」開発・発売中止を発表―ホンダのEV戦略見...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、PS5の車内リモートプレイが期待されていた「AFEELA 1」の開発・発売中止を発表したことを取り上げています。記事では、ホンダのEV戦略の見直しについても触れています。読者は、この記事を通じて「AFEELA 1」の開発中止の背景や、ホンダのEV戦略の変化について理解することができます。特に、EVやゲームの最新動向に興味がある方に読んでいただくことをお勧めします。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/26/179048.html",
+        "date": "2026-03-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-25T21:39:40.347965"
+  "last_updated": "2026-03-26T02:11:27.463573"
 }
