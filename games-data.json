@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/alisteralliancebundle_bundle",
         "date": "2026-03-27"
+      },
+      {
+        "title": "Sekai Project 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Sekai Project 2026のバンドルがHumble Bundleで販売中です。このバンドルには、「Root Letter」や「London Detective Mysteria」などの主要タイトルが含まれています。ジャンルはビジュアルノベルを中心に構成されており、大まかな価格帯は1,000円から2,000円です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/sekaiproject2026_bundle",
+        "date": "2026-03-27"
       }
     ],
     "sale": [
@@ -579,6 +591,18 @@
         "discount": "-69%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-03-27"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サイバーパンク2077がバリアスで65%割引されています。サイバーパンク2077はアクションアドベンチャーゲームで、オープンワールドのゲームです。このゲームは、2077年の暗い未来世界を舞台に、プレイヤーがカスタマイズ可能なキャラクターを操作して、さまざまなミッションを遂行します。サイバーパンク2077は、高度なグラフィックスと壮大なストーリーにより、高い評価を得ています。",
+        "price": "$20.99",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-03-27"
       }
     ],
@@ -1453,8 +1477,73 @@
         "url": "https://doope.jp/2026/03165460.html",
         "date": "2026-03-27",
         "is_translated": false
+      },
+      {
+        "title": "【製品版ローンチが迫る「Soulmask」のエジプトDLC“Shifting Sands”が期間...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Soulmask」のエジプトDLC「Shifting Sands」は、製品版ローンチ前に期間限定でプレイできる状態になっています。このレビュー記事では、このDLCの新しいステージやキャラクター、ゲームシステムの変更点などについて評価しています。特に、エジプトを舞台にした新しいストーリーや、難易度の調整が行われた点が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165482.html",
+        "date": "2026-03-27",
+        "is_translated": false
+      },
+      {
+        "title": "【連続殺人鬼が潜む町で新たな人生の一歩を踏み出すホラー農業ライフシム「Grave Seasons...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、ホラー要素を取り入れた農業ライフシムのゲーム「Grave Seasons」を取り上げています。ゲームの評価ポイントとして、恐怖感と農業のバランスが取れている点や、ストーリーの深みが際立っている点があげられます。さらに、ゲームの雰囲気を高めるグラフィックやサウンドトラックも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165470.html",
+        "date": "2026-03-27",
+        "is_translated": false
+      },
+      {
+        "title": "【待望のローンチを果たした現世代リメイク版「OFF」の日本語トレーラーがお披露目：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "待望のローンチを果たした現世代リメイク版「OFF」の日本語トレーラーがお披露目されたレビュー記事です。このゲームの評価ポイントとしては、リメイク版のグラフィックの向上や新しいストーリーの追加などが挙げられます。レビューの内容概要としては、ゲームの世界観やキャラクターの魅力が高く評価されています。対象読者は、このゲームのファンや新規プレイヤーであれば、ぜひ一度読んでみるべき記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165469.html",
+        "date": "2026-03-27",
+        "is_translated": false
+      },
+      {
+        "title": "【Linux カーネルの管理者は、AI が開発者にとって突然役立つようになったと述べ、「これを無...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Linux カーネルの管理者は、AI が開発者にとって突然役立つようになったことを高く評価しています。本記事は、このように突然の変化をもたらした AI の機能や使いやすさなどを中心にレビューしています。対象読者は、IT 関連の情報に興味がある人や開発者、テクノロジー好きの方などです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/software/linux/linux-kernel-maintainer-says-ai-has-suddenly-become-useful-for-devs-we-cant-ignore-this-stuff-its-coming-up-and-its-getting-better/",
+        "date": "2026-03-27",
+        "is_translated": true
+      },
+      {
+        "title": "【Slay the Spire 2 の「反無限」バランス パッチ自体がパッチされ、一部の Sil...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Slay the Spire 2 の「反無限」バランス パッチがアップデートされ、一部の Sil 系カードが変更されました。このゲームの評価ポイントは、ゲームバランスの調整や新しいカードの追加などです。レビューの内容概要としては、ゲームの難易度調整やカードのバランスなどが含まれています。対象読者は、このゲームをプレイしたことがある人や、ゲームのバランス調整に興味がある人などです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-anti-infinite-balance-patch-has-now-itself-been-patched-much-to-the-relief-of-some-silent-and-necrobinder-players",
+        "date": "2026-03-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-27T13:21:02.193799"
+  "last_updated": "2026-03-27T21:35:03.259569"
 }
