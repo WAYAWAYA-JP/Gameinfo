@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "The ESA All-Star Alliance Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、The ESA All-Star Alliance Bundleが現在販売中です。このバンドルには、主要タイトルとして「Tom Clancy's Ghost Recon: Wildlands」、「South Park: The Stick of Truth」、「Far Cry 5」のような人気ゲームが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/alisteralliancebundle_bundle",
-        "date": "2026-03-17"
-      },
-      {
-        "title": "Cartridge Chaos",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Cartridge Chaosと呼ばれるバンドルの販売が行われています。このバンドルには、ファイティング・フューリー、スプラッシャー、デモニック・ダッシュなどの主要タイトルが含まれており、主にアクションゲームや横スクロールアクションゲームが中心となっています。大まかな価格帯は10ドルから20ドル程度で、バンドルによって価格が異なりますが。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/cartridgechaos_bundle",
-        "date": "2026-03-17"
-      },
-      {
         "title": "Geeks & Chicks Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -257,102 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "BIOHAZARD RE:3",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "人気のサバイバルホラーゲーム「BIOHAZARD RE:3」がSteamで大幅な割引セール中です。このゲームは、激しいアクションと恐怖を体験できることで知られており、ファンからの評価も非常に高いです。現在90%オフの特価で提供されており、通常の価格より大幅に安くなっています。ホラーゲームファンやシリーズのファンにとってはおすすめのチャンスです。",
-        "price": "¥399",
-        "originalPrice": "¥3,990",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/952060",
-        "date": "2026-03-20"
-      },
-      {
-        "title": "SILENT HILL f",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "SILENT HILL fがSteamで50% OFFセール中です。このゲームはホラーゲームの名作であり、恐怖体験を求めるプレイヤーに人気があります。現在、50%の割引により購入できます。評価も高く、ファンから高い評価を得ています。",
-        "price": "¥4,290",
-        "originalPrice": "¥8,580",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2947440",
-        "date": "2026-03-20"
-      },
-      {
-        "title": "Baldur's Gate 3",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Baldur's Gate 3はロールプレイングゲームで、ストーリーが豊かで深い世界観が特徴です。現在、Variousで25%割引のセール中で、ファンタジーを愛する人にはおすすめです。評価も高く、ユーザーから人気を博しており、ロールプレイングゲームファンには必ずプレイしてみるべき作品です。",
-        "price": "$44.99",
-        "originalPrice": "",
-        "discount": "-25%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/baldurs-gate-3/info/",
-        "date": "2026-03-20"
-      },
-      {
-        "title": "Terraria",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームであるTerrariaがSteamで50%オフのセール中です。このゲームは、2Dの横スクロールアクションと、砂漠やジャングルなどのさまざまな環境を探索することが特徴です。非常に人気があり、高評価のゲームであり、Steamでの平均評価は「非常に好意的」です。現在、通常価格より50%割引されていますので、気になる方はぜひこの機会に購入してみてください。",
-        "price": "¥600",
-        "originalPrice": "¥1,200",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/105600",
-        "date": "2026-03-20"
-      },
-      {
-        "title": "Marvel's Spider-Man Remastered",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Marvel's Spider-Man RemasteredがVariousで65%オフのセール中です。このアクションアドベンチャーゲームは、スパイダーマンを操作してニューヨーク市を巡り、様々なヴィランと戦います。非常に高く評価されており、人気も高いゲームです。通常価格より大幅に安くなっているので、スパイダーマンファンやアクションゲーム好きにはおすすめのセールです。",
-        "price": "$20.95",
-        "originalPrice": "",
-        "discount": "-65%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
-        "date": "2026-03-20"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サイバーパンク2077は、オープンワールドRPGの傑作として知られており、現在Variousで65%割引のセール中です。このゲームは、未来的な世界を舞台に、プレイヤーが自由に探索し、ストーリーを進めていくことができます。サイバーパンク2077は、グラフィックやサウンドデザインが高く評価されており、ゲームファンから高い人気を博しています。セール中の価格でこの優れたゲームを手に入れることができます。",
-        "price": "$20.99",
-        "originalPrice": "",
-        "discount": "-65%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-03-20"
-      },
-      {
-        "title": "The Last of Us™ Part I",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Last of Us Part IがVariousで56%オフのセール中です。このアクションアドベンチャーゲームは、感動的なストーリーとリアルなグラフィックスで知られており、非常に評価が高い人気ゲームです。通常価格より大幅に安く手に入れることができ、ファンや新規プレイヤーにとっては絶好のチャンスです。",
-        "price": "$26.29",
-        "originalPrice": "",
-        "discount": "-56%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-last-of-us-part-i/info/",
-        "date": "2026-03-20"
-      },
-      {
-        "title": "God of War",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームであるGod of Warが、現在Variousで67%割引されています。このゲームは、格闘や探索が特徴で、非常に人気があり、高い評価を得ています。さまざまな賞を受賞しており、シリーズファンやアクションゲームファンに強く推奨されています。現在のセール価格でこのゲームを購入することができます。",
-        "price": "$16.62",
-        "originalPrice": "",
-        "discount": "-67%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/god-of-war/info/",
-        "date": "2026-03-20"
-      },
       {
         "title": "グランド・セフト・オートV エンハンスト",
         "platform": "Steam",
@@ -604,61 +484,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
         "date": "2026-03-26"
+      },
+      {
+        "title": "CRIMSON DESERT",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームのCRIMSON DESERTがVariousでセール中です。このゲームは、美しい砂漠の世界を舞台に、戦闘や探索が楽しめる特徴があります。現在、セールのため割引価格で購入できます。ユーザーの評価は高く、人気のゲームとなっています。",
+        "price": "$69.99",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/crimson-desert/info/",
+        "date": "2026-03-27"
+      },
+      {
+        "title": "Chip ‘n Clawz vs. The Brainioids Friend's Pass",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Chip ‘n Clawz vs. The Brainioids Friend's Passがバラエティーなゲームとしてセール中です。このゲームは、ユニークなゲームプレイと面白いストーリーが特徴です。現在、Friend's Passが特別な価格で提供されており、友達と一緒にプレイすることができます。評価は非常に高く、ユーザーからの人気度も高いので、おすすめのゲームです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/chip-n-clawz-vs-the-brainioids-friends-pass/info/",
+        "date": "2026-03-27"
       }
     ],
     "review": [
-      {
-        "title": "【オープンワールド『紅の砂漠』は物量勝負。『Slay the Spire 2』は友人と遊ぶのも楽...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、オープンワールドゲーム『紅の砂漠』とローグライクゲーム『Slay the Spire 2』の魅力を紹介しています。『紅の砂漠』は広大な世界を自由に探索できる点が評価ポイントの1つです。また、ゲーム内の豊富なコンテンツが楽しみ方を増やしています。一方、『Slay the Spire 2』は友人と遊ぶことで新たな楽しみを発見できる点が特徴的です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260322-431329/",
-        "date": "2026-03-22",
-        "is_translated": false
-      },
-      {
-        "title": "【スクリーマーのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "スクリーマーのレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンドの質を高く評価しています。また、レビューの内容概要としては、ゲームの難易度やストーリーの面白さを掘り下げており、特にホラー要素が際立っている点を強調しています。これは、ホラーゲームファンやアドベンチャーゲームを楽しむ読者にとって、参考になる情報が多く含まれているため、対象読者にはお勧めの記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/racing/screamer-review/",
-        "date": "2026-03-22",
-        "is_translated": true
-      },
-      {
-        "title": "【RPS 評決: アニメ レーサー スクリーマーがカラフルで特徴的なドライビングで横滑りして成功...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、アニメレーサースクリーマーというゲームの評価ポイントを紹介しています。同ゲームはカラフルで特徴的なドライビングシステムが魅力で、横滑りしながら進むのが楽しい特徴があります。レビューの内容は、ゲームのグラフィックやサウンド、そしてユニークなゲームプレイスタイルが評価されており、ドライビングゲームファンやアニメファンに特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/rps-verdict-screamer-review",
-        "date": "2026-03-22",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam レビュー「Mixed」で、Half Sword の開発者は早期アクセス ゲームとそ...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事は、Steamで「Mixed」と評価されているHalf Swordについて、開発者が早期アクセスゲームとそれに関連する問題点を説明しています。ゲームの評価ポイントとして、ユーザーの評価は賛否両論で、グラフィックやサウンドは評価されているものの、ゲームバランスや操作性には改善点があるとされています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/with-steam-reviews-at-mixed-the-developer-of-half-sword-addresses-differences-between-the-early-access-game-and-its-hugely-popular-tech-demo-the-final-version-of-the-game-will-differ-from-what-has-been-shown-previously/",
-        "date": "2026-03-22",
-        "is_translated": true
-      },
       {
         "title": "【基本プレイ無料『サカつく2026』は“プレイ100時間超え”でも学ぶことがいっぱい。ポリシーや...】",
         "platform": "AUTOMATON",
@@ -1425,8 +1277,47 @@
         "url": "https://www.rockpapershotgun.com/for-better-or-worse-max-and-chloe-are-together-again-in-life-is-strange-reunion-which-is-out-right-now",
         "date": "2026-03-26",
         "is_translated": true
+      },
+      {
+        "title": "【ゲームをプレイすると「現実の運転に関するスキルが向上するのか」を探る研究分析。“車線維持”や“...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、ゲームをプレイすると「現実の運転に関するスキルが向上するのか」を探る研究分析の結果が紹介されています。具体的には、「車線維持」や「信号の遵守」などの運転スキルに関する分析が行われており、ゲームが実際の運転スキルに与える影響について調査しています。ゲーム愛好者や運転免許を取得しようとする人にとって、参考になる内容となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260327-432508/",
+        "date": "2026-03-27",
+        "is_translated": false
+      },
+      {
+        "title": "【“ダイイングライト：ザ・ビースト”に大規模な拡張を導入する新エディション「Dying Ligh...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Dying Light：The Beast」は大規模な拡張を導入した新エディションで、ゲームの評価ポイントとしては、拡張コンテンツの充実度や新要素の追加が見られる点が挙げられます。レビューの内容概要としては、新しいストーリーやキャラクターの追加、グラフィックの向上などが評価されています。対象読者はアクションゲームやサバイバルゲームのファンで。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165456.html",
+        "date": "2026-03-27",
+        "is_translated": false
+      },
+      {
+        "title": "【マックスとクロエの新たな物語を描く「ライフ イズ ストレンジ リユニオン」が本日発売、ローンチ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「ライフ イズ ストレンジ リユニオン」のレビュー記事では、本作はマックスとクロエの新たな物語を描く内容であり、ゲームの物語やキャラクターの深み、グラフィックの美しさが評価ポイントとなっています。レビューでは、ゲームのストーリーが感動的なもので、キャラクターの関係性が深く描かれていることが高く評価されています。また、グラフィックの美しさもゲームの世界観を引き立てていると言及されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165444.html",
+        "date": "2026-03-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-26T21:32:01.331511"
+  "last_updated": "2026-03-27T02:12:40.181941"
 }
