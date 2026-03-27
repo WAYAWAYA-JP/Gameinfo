@@ -556,6 +556,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/horizon-forbidden-west-complete-edition/info/",
         "date": "2026-03-27"
+      },
+      {
+        "title": "Marvel's Spider-Man Remastered",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Marvel's Spider-Man RemasteredがVariousで50%割引のセール中です。このアクションアドベンチャーゲームは、スパイダーマンの活躍を描き、グラフィックやゲームプレイが高く評価されています。通常価格から50%オフになるので、ファンや新規プレイヤーにもおすすめです。また、Metacriticなどのレビューサイトでは、高い評価を得ている人気ゲームです。",
+        "price": "$29.99",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
+        "date": "2026-03-27"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "No Man's SkyがVariousで69%割引されています。このゲームは、オープンワールドのサンドボックス要素を備えたアクションアドベンチャーゲームで、プレイヤーは銀河を探索し、惑星を発見し、資源を採集することができます。ゲームのグラフィックとサウンドトラックは高く評価されていますが、リリース当初は批判も受けました。",
+        "price": "$18.89",
+        "originalPrice": "",
+        "discount": "-69%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-03-27"
       }
     ],
     "review": [
@@ -1432,5 +1456,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-27T09:54:28.435018"
+  "last_updated": "2026-03-27T13:21:02.193799"
 }
