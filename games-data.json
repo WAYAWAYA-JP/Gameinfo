@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Geeks & Chicks Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Geeks & Chicks Bundleが販売中です。このバンドルには、主要タイトルとして「Gnomes vs. Fairies」や「The Whispered World」などが含まれており、ゲームのジャンルはアドベンチャーやパズルゲームが中心です。大まかな価格帯は数ドルから10ドル程度で、バンドルの中には様々なゲームが収録されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/geeks-and-chicks-bundle",
-        "date": "2026-03-18"
-      },
-      {
-        "title": "Checkmate! A Chess Games Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、チェスゲームのコレクションである「Checkmate! A Chess Games Collection」のバンドルが販売中です。このバンドルには、チェスゲームを中心としたタイトルが含まれており、主なタイトルとしては「Chess Ultra」や「Battle vs Chess」などが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/checkmatechessgamescollection_bundle",
-        "date": "2026-03-18"
-      },
-      {
         "title": "March 2026 Humble Choice",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,42 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストがSteamで50%OFFのセール中です。このゲームはオープンワールドアクションアドベンチャーで、高度なグラフィックスとスリリングなゲームプレイが特徴です。通常価格よりも大幅に安くなっているので、ファンや新規プレイヤーにとっては絶好のチャンスです。このゲームは高い評価を受けており、人気も高いので、 セール期間中に購入することをお勧めします。",
-        "price": "¥2,190",
-        "originalPrice": "¥4,380",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-03-21"
-      },
-      {
-        "title": "It Takes Two",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "It Takes TwoがSteamで大幅なセール中です。このコオペレーションアクションゲームは、2人で協力して様々なステージをクリアすることを目的とした、ユニークなゲームプレイが特徴です。現在、80%の割引で提供されており、非常に魅力的です。高い評価と人気度を誇るこのゲームは、ファンからも高い支持を得ています。セール期間中は、通常価格よりも大幅に安く入手できますので、興味がある方はお勧めです。",
-        "price": "¥860",
-        "originalPrice": "¥4,300",
-        "discount": "80% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1426210",
-        "date": "2026-03-21"
-      },
-      {
-        "title": "Ghost of Tsushima DIRECTOR'S CUT",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Ghost of Tsushima DIRECTOR'S CUTが現在、Variousで50%割引のセール中です。このゲームはアクションアドベンチャージャンルの作品で、美しいグラフィックとスリリングな戦闘シーンが特徴です。ユーザーの評価は非常に高いとされており、人気度も高いゲームです。セール中の価格で購入することができます。",
-        "price": "$30.16",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
-        "date": "2026-03-21"
-      },
       {
         "title": "Clair Obscur: Expedition 33",
         "platform": "Various",
@@ -604,126 +544,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-03-27"
+      },
+      {
+        "title": "DEATH STRANDING DIRECTOR'S CUT",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるDEATH STRANDING DIRECTOR'S CUTがSteamで65%オフのセール中です。このゲームは、独特のゲームプレイと美しいグラフィックで人気を博しており、高評価を得ています。通常価格より大幅に安くなっている今がチャンスですので、興味がある方はぜひこの機会にチェックしてみてください。",
+        "price": "¥1,743",
+        "originalPrice": "¥4,980",
+        "discount": "65% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1850570",
+        "date": "2026-03-28"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料『サカつく2026』は“プレイ100時間超え”でも学ぶことがいっぱい。ポリシーや...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料の「サカつく2026」は、100時間以上プレイしても学ぶことがたくさんあります。このゲームの評価ポイントとしては、自由度の高いポリシー設定や、チームメンバーの育成システムが挙げられます。また、ゲームのレビューでは、グラフィックやサウンドトラックの高品質も称賛されています。このレビュー記事は、スポーツゲームファンや、チーム育成シミュレーションゲームに興味がある人に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260323-431501/",
-        "date": "2026-03-23",
-        "is_translated": false
-      },
-      {
-        "title": "【高評価武装少女ローグライクACT『Million Depth』大型アプデで“ローグライク体験強...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "この記事では、ローグライクACTゲーム『Million Depth』の大型アップデートによる強化されたローグライク体験を紹介しています。ゲームの評価ポイントとしては、ダンジョンの探索や戦闘システムが改善された点が挙げられます。また、レビューでは、新しい要素の追加やバグの修正により、ゲームの全体的な完成度が向上したことが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260323-431530/",
-        "date": "2026-03-23",
-        "is_translated": false
-      },
-      {
-        "title": "【『Call of Duty: Modern Warfare（2019）』Steam版、今になっ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Call of Dutyシリーズの最新作『Call of Duty: Modern Warfare（2019）』のSteam版についてのレビュー記事があります。この記事では、ゲームの評価ポイントとしてグラフィックやサウンドデザインの高さ、そしてマルチプレイモードの充実度が挙げられています。また、ゲームのストーリーやキャラクターの深みも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260323-431479/",
-        "date": "2026-03-23",
-        "is_translated": false
-      },
-      {
-        "title": "【インテル Core Ultra 7 270K Plus レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "インテル Core Ultra 7 270K Plus レビュー記事では、このプロセッサの性能や機能を評価しています。記事では、コア数やクロック速度などのハードウェアのスペック、ゲームやビデオ編集などのアプリケーションの性能、また、消費電力や発熱量などの点から評価しています。ゲームや動画編集など、ハイパフォーマンスが必要なユーザー向けの情報として、記事は参考になります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/processors/intel-core-ultra-7-270k-plus-review/",
-        "date": "2026-03-23",
-        "is_translated": true
-      },
-      {
-        "title": "【インテル Core Ultra 5 250K Plus レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "インテル Core Ultra 5 250K Plus レビューの記事は、ゲームの評価ポイントとして、パフォーマンス、グラフィックのクオリティ、コストパフォーマンスを考察しています。レビューの内容概要としては、ゲームのスムーズな動作、グラフィックの美しさ、価格帯とのバランスが良好であることを評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/processors/intel-core-ultra-5-250k-plus-review/",
-        "date": "2026-03-23",
-        "is_translated": true
-      },
-      {
-        "title": "【ゴールドラッシュ時代のカリフォルニアを描くオープンワールドサバイバル「The Legend o...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ゴールドラッシュ時代のカリフォルニアを舞台にしたオープンワールドサバイバルゲーム「The Legend of...」のレビュー記事があります。このゲームは、広大な開拓地を自由に探索できる点や、サバイバル要素が豊富な点が評価ポイントです。また、レビューでは、ゲームのグラフィックやサウンドトラックも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165279.html",
-        "date": "2026-03-23",
-        "is_translated": false
-      },
-      {
-        "title": "【“STRANGER THAN HEAVEN”や“The Expanse: Osiris Reb...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「STRANGER THAN HEAVEN」や「The Expanse: Osiris」などの作品について評価しています。評価ポイントとしては、ゲームのストーリーやグラフィックの質、そしてゲームプレイの面白さなどが含まれています。レビューの内容概要としては、ゲームの全体的な雰囲気やユーザーへのおすすめポイント、そしてゲームの弱点などが掘り下げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165286.html",
-        "date": "2026-03-23",
-        "is_translated": false
-      },
-      {
-        "title": "【“Boxes: Lost Fragments”を生んだBig Loop Studiosの新作パ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、Big Loop Studiosが制作したゲーム「Boxes: Lost Fragments」の評価ポイントを紹介しています。レビューの内容概要としては、ゲームのグラフィックやサウンド、そしてゲームプレイの面白さを評価しています。また、ゲームの難易度やストーリーの魅力も評価の対象になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165280.html",
-        "date": "2026-03-23",
-        "is_translated": false
-      },
-      {
-        "title": "【Intel Core Ultra 7 270K Plus および Intel Core Ult...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Intel Core Ultra 7 270K Plus および Intel Core Ultra のレビュー記事では、パフォーマンス、消費電力、価格帯などの評価ポイントが紹介されています。記事では、これらのプロセッサの性能とエネルギー効率に関する詳細なレビューが行われており、購入を検討しているユーザーにとって参考になる情報が提供されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/intel-core-ultra-7-270k-plus-and-intel-core-ultra-5-250k-plus-review",
-        "date": "2026-03-23",
-        "is_translated": true
-      },
       {
         "title": "【基本プレイ無料アニメーションオープンワールドRPG『七つの大罪：Origin』は、キャラゲー…...】",
         "platform": "AUTOMATON",
@@ -748,19 +583,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/03165321.html",
         "date": "2026-03-24",
-        "is_translated": false
-      },
-      {
-        "title": "【海賊ライフを描く新作サバイバルアドベンチャー「Windrose」のウィッシュリスト登録が150...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "新作サバイバルアドベンチャーゲーム「Windrose」は海賊ライフを描いた作品で、ウィッシュリスト登録数が150万を突破しています。このゲームの評価ポイントとしては、海賊としての自由な行動や、オープンワールドでの冒険が楽しめる点が挙げられます。レビューの内容概要としては、ゲームの世界観やグラフィックの美しさが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165314.html",
-        "date": "2026-03-23",
         "is_translated": false
       },
       {
@@ -1542,8 +1364,21 @@
         "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-anti-infinite-balance-patch-has-now-itself-been-patched-much-to-the-relief-of-some-silent-and-necrobinder-players",
         "date": "2026-03-27",
         "is_translated": true
+      },
+      {
+        "title": "【元BioWareのベテランたちが開発を率いる“Mass Effect”系アクションRPG「EX...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "元BioWareのベテランたちが開発を率いる「Mass Effect」系アクションRPG「EX...」のレビュー記事では、ゲームの評価ポイントとして、ストーリーやキャラクターの深さ、ゲームプレイの自由度が高く評価されています。また、レビューの内容概要として、ゲームのグラフィックやサウンドトラックの高品質、キャラクターの成長システムの魅力が紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165477.html",
+        "date": "2026-03-28",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-27T21:35:03.259569"
+  "last_updated": "2026-03-28T02:03:36.543940"
 }
