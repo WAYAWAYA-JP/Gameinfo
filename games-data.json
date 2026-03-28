@@ -616,6 +616,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/havendock/info/",
         "date": "2026-03-28"
+      },
+      {
+        "title": "The Outlast Trials",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "The Outlast TrialsがSteamで70% OFFセール中です。サバイバルホラーの要素を備えたこのゲームは、プレイヤーを恐怖の世界に引き込みます。通常価格から大幅な割引を受けることができるこのセールでは、多くのユーザーから高い評価を得ています。人気度も高く、ホラーゲームファンの中では特に人気が高いようです。セール期間中は、気になるユーザーが多く購入する機会となりそうです。",
+        "price": "¥1,350",
+        "originalPrice": "¥4,500",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1304930",
+        "date": "2026-03-28"
       }
     ],
     "review": [
@@ -1450,8 +1462,21 @@
         "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-anti-infinite-balance-patch-has-now-itself-been-patched-much-to-the-relief-of-some-silent-and-necrobinder-players",
         "date": "2026-03-27",
         "is_translated": true
+      },
+      {
+        "title": "【Daemon's of the Shadow Realm プレビュー: アニメのプレミアは誇大...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Daemon's of the Shadow Realmのプレビュー記事では、アニメのプレミアについて誇大宣伝となっているという評価がされています。このレビュー記事では、ゲームのグラフィックやストーリーの評価ポイントを中心に、プレミアの内容やゲーム性についても触れています。アニメファンやゲーム好きの方に興味を持って読んでもらえる内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/daemons-of-the-shadow-realm-episode-1-explainer-preview/",
+        "date": "2026-03-28",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-28T13:09:19.489486"
+  "last_updated": "2026-03-28T21:29:52.133644"
 }
