@@ -604,6 +604,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
         "date": "2026-03-28"
+      },
+      {
+        "title": "Havendock",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Havendockは、ストラテジーゲームとして知られており、現在Variousで100%割引セール中です。このゲームは、ユーザーから好評価を得ており、人気度も高いゲームとして知られています。セール中の価格は無料となっており、無料でプレイすることができます。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/havendock/info/",
+        "date": "2026-03-28"
       }
     ],
     "review": [
@@ -1441,5 +1453,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-28T09:36:54.536750"
+  "last_updated": "2026-03-28T13:09:19.489486"
 }
