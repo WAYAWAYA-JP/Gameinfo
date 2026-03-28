@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/sekaiproject2026_bundle",
         "date": "2026-03-27"
+      },
+      {
+        "title": "Geeks & Chicks Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Geeks & Chicks BundleというバンドルがIndieGalaで販売中です。このバンドルには、\"The Whispered World\"、\"Deponia\"、\"Edna & Harvey: The Breakout\"などのタイトルが含まれています。ジャンルはアドベンチャーゲームで、大まかな価格帯は10ドル以下です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/geeks-and-chicks-bundle",
+        "date": "2026-03-28"
       }
     ],
     "sale": [
@@ -555,6 +567,42 @@
         "discount": "65% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/1850570",
+        "date": "2026-03-28"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストは、オープンワールドアクションアドベンチャーゲームです。現在、Steamで50% OFFセール中で、大幅な割引価格でプレイできます。このゲームは、高度なグラフィックと自由度の高いゲームプレイが特徴で、非常に人気があり、高評価を得ています。多くのユーザーから高い評価を得ているため、セール期間中に購入することをお勧めします。",
+        "price": "¥2,190",
+        "originalPrice": "¥4,380",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-03-28"
+      },
+      {
+        "title": "God of War",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの『God of War』が、現在60%割引のセール中です。このゲームは、ハーディなアクションと壮大なストーリーで知られており、非常に高い評価を得ています。多くのゲームファンから人気があり、批評家からも高い評価を受けています。セール中の価格で購入するのは、ゲームファンにとってとても魅力的です。",
+        "price": "$19.99",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/god-of-war/info/",
+        "date": "2026-03-28"
+      },
+      {
+        "title": "Ghost of Tsushima DIRECTOR'S CUT",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「Ghost of Tsushima DIRECTOR'S CUT」がVariousで36%割引されています。このゲームは、美しい日本の風景と激しい戦闘シーンが特徴で、評価も非常に高い人気ゲームです。",
+        "price": "$38.60",
+        "originalPrice": "",
+        "discount": "-36%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
         "date": "2026-03-28"
       }
     ],
@@ -1377,8 +1425,21 @@
         "url": "https://doope.jp/2026/03165477.html",
         "date": "2026-03-28",
         "is_translated": false
+      },
+      {
+        "title": "【Slay the Spire 2 の「反無限」バランス パッチ自体にパッチが適用され、一部の ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Slay the Spire 2 の「反無限」バランス パッチに新たなパッチが適用され、一部の問題が解決されています。このゲームの評価ポイントとしては、バランス調整が徹底され、ゲーム性が向上した点や、パッチ適用後の安定性が高まっている点が挙げられます。レビューの内容概要としては、ゲームのバグ修正やパフォーマンスの向上などが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-anti-infinite-balance-patch-has-now-itself-been-patched-much-to-the-relief-of-some-silent-and-necrobinder-players",
+        "date": "2026-03-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-28T02:03:36.543940"
+  "last_updated": "2026-03-28T09:36:54.536750"
 }
