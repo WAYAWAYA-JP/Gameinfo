@@ -194,6 +194,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/geeks-and-chicks-bundle",
         "date": "2026-03-28"
+      },
+      {
+        "title": "Humble Heroines: Echoes, Voids, and Visions",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble Heroines: Echoes, Voids, and Visionsというバンドルが現在販売中です。このバンドルには、主要タイトルとして「The Pathless」、「Moonlighter」、「Sea of Solitude」などが含まれています。アクションアドベンチャーやロールプレイングゲームなどのジャンルが中心で。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/humbleheroinesechoesvoidsandvisions_bundle",
+        "date": "2026-03-29"
+      },
+      {
+        "title": "The MIX Spring Showcase: Games Around The World",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、The MIX Spring Showcase: Games Around The Worldというバンドルが販売中です。このバンドルには、インディーゲームを中心としたタイトルが多数収録されており、代表的なゲームとしては「Unpacking」や「Betrayal at Club Low」などが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/mixspringshowcasegamesaroundworld_bundle",
+        "date": "2026-03-29"
       }
     ],
     "sale": [
@@ -1260,8 +1284,60 @@
         "url": "https://www.inside-games.jp/article/2026/03/29/179207.html",
         "date": "2026-03-29",
         "is_translated": false
+      },
+      {
+        "title": "【『アークナイツ：エンドフィールド』の「分岐型サブクエスト」を検証。やっぱり工業が楽しい。『ライ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『アークナイツ：エンドフィールド』の「分岐型サブクエスト」を検証したレビュー記事では、ゲームの評価ポイントとして工業の楽しさが際立っていることがわかります。この記事では、分岐型サブクエストの魅力やゲームのシステムなどについて詳細に紹介しています。特に、工業の要素やサブクエストの多様性がゲームの奥深さを感じさせると評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260329-433249/",
+        "date": "2026-03-29",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料『サカつく2026』をやり過ぎて「自分に何が足りないか」わからなくなり落ち込むス...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "サカつく2026は基本プレイ無料のゲームで、自由度の高いゲーム性が特徴です。このゲームの評価ポイントとしては、キャラクターのカスタマイズやチーム管理の深さが挙げられます。レビューでは、ゲームの魅力ややり込み要素について触れていますが、一方で、過度のプレイによりストレスを感じることもあると指摘されています。対象読者は、スポーツゲームやシミュレーションゲームが好きな人に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260327-432850/",
+        "date": "2026-03-29",
+        "is_translated": false
+      },
+      {
+        "title": "【新たな対戦型FPS『Time Takers』CBT先行プレイ感想。“時間そのもの”が資源となる...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本レビュー記事では、新たな対戦型FPS「Time Takers」のクローズドベータテスト（CBT）に参加し、先行プレイした感想を紹介します。このゲームは、プレイヤーにとって新しい発見となる「時間そのもの」を資源として利用するユニークなシステムが特徴です。ゲームの評価ポイントとしては、革新的な時間管理システム、多様なキャラクターとステージ、そしてスムーズな操作性が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/time-takers-20260328-432917/",
+        "date": "2026-03-29",
+        "is_translated": false
+      },
+      {
+        "title": "【『Virtua Fighter 5 R.E.V.O. World Stage』Nintendo...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Virtua Fighter 5 R.E.V.O. World Stage』のレビュー記事では、このゲームの評価ポイントとして、グラフィックの高質さや、キャラクターのバリエーション豊富さ、対戦モードの充実度が高いことが挙げられています。また、ゲームの操作性や、ステージデザインの美しさも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/virtua-fighter-5-revo-world-stage-20260328-432916/",
+        "date": "2026-03-29",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-29T02:22:53.864798"
+  "last_updated": "2026-03-29T09:36:28.117252"
 }
