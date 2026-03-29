@@ -1336,8 +1336,34 @@
         "url": "https://automaton-media.com/articles/special-column/virtua-fighter-5-revo-world-stage-20260328-432916/",
         "date": "2026-03-29",
         "is_translated": false
+      },
+      {
+        "title": "【マラソンのレビュースコアは上昇傾向にあり、2026 年のゲームアワードへの出場が確実となっている】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "マラソンのレビュースコアは上昇傾向にあり、2026 年のゲームアワードへの出場が確実となっています。このゲームは、グラフィックの美しさ、魅力的で複雑なストーリー、プレイヤーの自由度の高さなど、多くの点で高く評価されています。ゲームの評価ポイントとしては、ゲームデザインの完成度やサウンドトラックの質も重要な要素です。ゲームファンやアクションゲームが好きな人には必見の作品です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/marathon-goty-the-game-awards-best-multiplayer-game/",
+        "date": "2026-03-29",
+        "is_translated": true
+      },
+      {
+        "title": "【Damon and Baby レビュー: めちゃくちゃ楽しい新しいメトロイドヴァニア シューター】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事は、メトロイドヴァニアシューターであるDamon and Babyについて紹介しています。このゲームは、めちゃくちゃ楽しい新しいゲームとして評価されており、ユニークなゲームプレイやグラフィックなどの特徴が高い評価を得ています。記事では、ゲームの評価ポイントとして、難易度の高いステージや多様な敵の存在などが紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/damon-and-baby-review/",
+        "date": "2026-03-29",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-29T13:10:12.396754"
+  "last_updated": "2026-03-29T21:32:30.074844"
 }
