@@ -52,54 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "March 2026 Humble Choice",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、2026年3月のHumble Choiceバンドルが現在販売中です。このバンドルには、「Dead Cells」や「Returnal」などの主要タイトルが含まれています。ジャンルはアクションやアドベンチャーに重点を置いており、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/march_2026_choice",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "Mega Man: Charged Up Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Mega Manシリーズのバンドル「Mega Man: Charged Up Collection」が販売中です。このバンドルには、「Mega Man 11」、「Mega Man X Legacy Collection」、「Mega Man Zero/ZX Legacy Collection」などの主要タイトルが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/megamanchargedupcollection_bundle",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "The MIX Spring Showcase: Games Around The World",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは「The MIX Spring Showcase: Games Around The World」というバンドルが販売中です。このバンドルには、インディーゲームを中心に様々なタイトルが収録されています。代表的なタイトルとしては、「Paralives」や「Kena: Bridge of Spirits」などがあります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/mixspringshowcasegamesaroundworld_bundle",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "Humble Heroines: Echoes, Voids, and Visions",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Humble Heroines: Echoes, Voids, and Visionsというバンドルが販売中です。このバンドルには、女性主人公が活躍する『Hellblade: Senua's Sacrifice』や『Life is Strange』などのタイトルが含まれています。アクションアドベンチャーやアドベンチャーなどのジャンルが中心となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/humbleheroinesechoesvoidsandvisions_bundle",
-        "date": "2026-03-19"
-      },
-      {
         "title": "Metro Mania: Planes, Trains, and Automobiles!",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,54 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33は、Variousで現在30%割引のセール中です。このゲームは、ユニークなゲームプレイとストーリーが特徴で、ファンから高い評価を受けています。セール中の価格では、通常価格よりも大幅に安くなっています。人気度も高く、多くのプレイヤーがこのゲームを楽しんでいます。",
-        "price": "$34.77",
-        "originalPrice": "",
-        "discount": "-30%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-03-22"
-      },
-      {
-        "title": "Pet Lands",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Pet LandsがVariousで100%割引された価格で提供されています。このゲームは、ペットと共に冒険することで知られており、独自のゲーム性と魅力的なグラフィックで人気を博しています。ユーザーの評価は非常に高く、多くのプレイヤーから好評価を得ています。現在、無料でプレイできるため、興味がある方はぜひこの機会に試してみてください。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/pet-lands/info/",
-        "date": "2026-03-22"
-      },
-      {
-        "title": "DEATH STRANDING 2: ON THE BEACH",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「DEATH STRANDING 2: ON THE BEACH」がVariousで15%割引のセール中です。このゲームは、ユニークなゲームプレイと壮大なストーリーで人気を博しており、多くのプレイヤーから高く評価されています。セール価格で購入することで、通常価格よりも安くプレイすることができますので、気になる方はぜひこの機会にチェックしてみてください。",
-        "price": "$59.49",
-        "originalPrice": "",
-        "discount": "-15%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/death-stranding-2-on-the-beach/info/",
-        "date": "2026-03-22"
-      },
-      {
-        "title": "Elden Ring",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションRPGの名作「Elden Ring」がVariousで43%オフのセール中です。このゲームは、広大な世界を自由に探索できるオープンワールドの特徴と、深いストーリー、そして激しい戦闘が人気の理由です。現在の価格は割引によって大幅に下がっており、多くのユーザーから高い評価を得ています。",
-        "price": "$34.27",
-        "originalPrice": "",
-        "discount": "-43%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/elden-ring/info/",
-        "date": "2026-03-22"
-      },
       {
         "title": "Wave Gods: Ammo Night",
         "platform": "Various",
@@ -628,165 +532,33 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/1304930",
         "date": "2026-03-28"
+      },
+      {
+        "title": "Hyper Echelon",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Hyper Echelonは、 Variousで-100%セール中です。シミュレーションゲームとして知られており、特徴的なゲームプレイが楽しめます。現在、通常価格より100%割引されており、魅力的です。高い評価と人気度を誇り、多くのユーザーに支持されています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hyper-echelon/info/",
+        "date": "2026-03-29"
+      },
+      {
+        "title": "Symmetry",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Symmetryはパズルアドベンチャーゲームで、美しいグラフィックと独特のゲームプレイが特徴です。現在、Variousで100%割引のセール中で、無料でプレイできます。このゲームは、ユーザーの評価が高く、人気度も高いゲームです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/symmetry/info/",
+        "date": "2026-03-29"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料アニメーションオープンワールドRPG『七つの大罪：Origin』は、キャラゲー…...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『七つの大罪：Origin』は、基本プレイ無料のアニメーションオープンワールドRPGです。このゲームは、キャラクターの育成やストーリーの展開が楽しめる点が評価されます。さらに、グラフィックやサウンドトラックも高品質で、ゲームの世界観に没入しやすいです。オープンワールドRPGファンや『七つの大罪』シリーズの愛好者にとって、是非一度プレイしてみるべきゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/7origin-20260323-431578/",
-        "date": "2026-03-24",
-        "is_translated": false
-      },
-      {
-        "title": "【PS4とXbox One版「Battlefield Hardline」の販売とサービス終了がア...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "PS4とXbox One版の「Battlefield Hardline」の販売とサービス終了についてのレビュー記事があります。このゲームは、モダンな警察と犯罪者の戦いを描いた作品で、レビュアーはその独自のゲーム性やグラフィックの高さを評価しています。さらに、レビュアーはゲーム内のマルチプレイモードやストーリーモードについても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165321.html",
-        "date": "2026-03-24",
-        "is_translated": false
-      },
-      {
-        "title": "【カエルの物理演算2Dアクション『RUBATO』が高評価発進。ジャンプと舌で太陽系を救う、“奇抜...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『RUBATO』は、カエルの物理演算2Dアクションゲームで、高評価を獲得しています。ジャンプと舌を使って太陽系を救うというユニークなゲーム性が特徴です。多くのレビューでは、ゲームの独創的なアイデア、スムーズな操作性、そして面白いゲームプレイが評価されています。これらのポイントから、ゲームに興味がある方や、2Dアクションゲームのファンにはおすすめのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/rubato-20260324-431824/",
-        "date": "2026-03-24",
-        "is_translated": false
-      },
-      {
-        "title": "【オープンワールド『紅の砂漠』は「何もわからない」が楽しいゲーム。NPC450人、動物400種類...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "オープンワールドゲーム「紅の砂漠」は、広大な世界を自由に探索できることで楽しさを感じることができます。NPCが450人も登場するので、さまざまなキャラクターと交流することができ、400種類の動物も登場するので、自然の中で生活感を味わうことができます。このゲームは、ストーリーやシステムを理解することに集中するのではなく、自分で発見して探索することに重点を置いたデザインになっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/crimson-desert-20260324-431674/",
-        "date": "2026-03-24",
-        "is_translated": false
-      },
-      {
-        "title": "【愚者の宴 レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "『愚者の宴』のレビュー記事では、ゲームの評価ポイントとして、ストーリーの独創性やキャラクターの深み、ゲームプレイの多様性などが評価されています。レビューの内容概要としては、ゲームの世界観やキャラクターの魅力、プレイヤーが自由に選択できる要素について言及されています。このレビュー記事は、『愚者の宴』のファンやアドベンチャーゲームに興味のある方にとって、ゲームの魅力を知るのに役立つでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/banquet-for-fools-review/",
-        "date": "2026-03-24",
-        "is_translated": true
-      },
-      {
-        "title": "【Lian Li Lancool 217 のケースレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Lian Li Lancool 217 のケースレビュー記事では、ゲームの評価ポイントとしてケースのデザインや性能、また冷却システムの効果などが取り上げられています。この記事では、ケースの使い勝手や耐久性、価格とのバランスなどについてレビューされており、PCゲーマーやパソコン愛好家向けの参考情報として役立ちます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/pc-cases/lian-li-lancool-217-case-review/",
-        "date": "2026-03-24",
-        "is_translated": true
-      },
-      {
-        "title": "【Hyperkin の競合他社のレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Hyperkin の競合他社の製品についてのレビュー記事です。この記事では、競合他社の製品の評価ポイントとして、製品の性能やデザイン、価格帯などを比較検討しています。また、レビューの内容概要としては、製品の優れた点や欠点、ユーザーからの評価などを紹介しています。対象読者は、Hyperkin の製品や競合他社の製品に興味のある方や、ゲーム機器の購入を検討している方などが対象です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/game-pads/hyperkin-competitor-review/",
-        "date": "2026-03-24",
-        "is_translated": true
-      },
-      {
-        "title": "【Asus ROG Falchion Ace 75 HE レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Asus ROG Falchion Ace 75 HE レビューは、ゲームパッドの性能や操作性、デザインなどを評価しています。このレビューでは、ハイスペックなゲームに適した高い精度や反応速度、ユーザーが好みの設定にカスタマイズできる機能などが高く評価されています。また、デザインや耐久性も評価ポイントになっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/asus-rog-falchion-ace-75-he-review/",
-        "date": "2026-03-24",
-        "is_translated": true
-      },
-      {
-        "title": "【アーケード レーサー Screamer の最初のアップデートで AI の難易度がナーフされ、「...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "アーケードレーサーScreamerの最初のアップデートで、AIの難易度がナーフされました。このゲームの評価ポイントとしては、スピード感のあるレース体験や、グラフィックの質が高く美しいこと、そしてアップデートによって改善されたゲームバランスの調整が挙げられます。レビューの内容概要としては、ゲームの難易度の調整や、新しいコンテンツの追加が期待できると述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/arcade-racer-screamers-first-update-nerfs-ai-difficulty-with-an-additional-balance-pass-coming-soon",
-        "date": "2026-03-24",
-        "is_translated": true
-      },
-      {
-        "title": "【『ポケモン チャンピオンズ』4月8日配信へ。基本プレイ無料“ポケモンバトル特化”ゲームがついに】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ポケモン チャンピオンズ』は、4月8日に配信される基本プレイ無料のゲームで、ポケモンバトルを特化させた内容です。このゲームは、ポケモンシリーズのファンにとっては必玩のタイトルで、バトルシステムやグラフィックのクオリティが高く評価されています。また、ゲームの_Free_to_Playモデルにより、新しいプレーヤーも簡単に参加できるようになっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260324-431845/",
-        "date": "2026-03-24",
-        "is_translated": false
-      },
-      {
-        "title": "【テレビスタジオテーマの新シーズンを導入する「The Outlast Trials」の“Proj...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「The Outlast Trials」のレビューでは、テレビスタジオテーマの新シーズンを紹介し、ゲームの怖さやサスペンスが高く評価されています。さらに、ゲームのグラフィックやサウンドデザインも高く評価されており、ホラーゲームファンにとっては必見の作品です。このレビューは、ホラーゲームのファンや、サイコロジカルホラーに興味がある人にとって、ゲームの内容や評価ポイントを知るのに役立つでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165308.html",
-        "date": "2026-03-24",
-        "is_translated": false
-      },
-      {
-        "title": "【マラソンの振り返り：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "マラソンの振り返りをテーマにしたレビュー記事では、ゲームの評価ポイントとして、ゲームプレイの充実度やグラフィックの質が高く評価されています。さらに、レビューの内容として、ゲームのストーリーやサウンドトラックの魅力が紹介されています。この記事は、ゲームファンやマラソンの愛好家にとって、参考になる情報を提供しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/marathon-review/",
-        "date": "2026-03-24",
-        "is_translated": true
-      },
       {
         "title": "【『デアデビル ボーン・アゲイン』シーズン 2 レビュー: マーベル史上最も政治的なドラマには明...】",
         "platform": "Polygon",
@@ -1475,8 +1247,21 @@
         "url": "https://www.polygon.com/daemons-of-the-shadow-realm-episode-1-explainer-preview/",
         "date": "2026-03-28",
         "is_translated": true
+      },
+      {
+        "title": "【AnimeJapan 2026】『FGO』ブースが豪華絢爛すぎ！公式コスプレイヤーの出迎えから第2部終章の振り返りまで、見どころをお届け【フォトレポート】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "AnimeJapan 2026では、FGOブースが豪華絢爛な内容で話題となりました。このレビュー記事では、公式コスプレイヤーの出迎えや第2部終章の振り返りなど、ブースの見どころを紹介しています。ゲームファンやFGOシリーズの愛好家にとっては、楽しい写真レポートが読める記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/29/179207.html",
+        "date": "2026-03-29",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-28T21:29:52.133644"
+  "last_updated": "2026-03-29T02:22:53.864798"
 }
