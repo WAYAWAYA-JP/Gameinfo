@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Metro Mania: Planes, Trains, and Automobiles!",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、メトロマニアのパック「Metro Mania: Planes, Trains, and Automobiles!」が販売中です。このバンドルには、メトロマニアを含む3つの主要タイトルが収録されており、シミュレーションゲームのファンに人気です。大まかな価格帯は10ドルから20ドル程度で。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/metromaniaplanestrainsandautomobiles_bundle",
-        "date": "2026-03-20"
-      },
-      {
         "title": "Metroidvania Mayhem Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -221,18 +209,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Wave Gods: Ammo Night",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Wave Gods: Ammo Nightは、アクションゲームの Various で現在100%割引されており、通常価格より大幅に安くなっています。このゲームは、高速な動作と激しい戦闘が特徴で、プレイヤーはさまざまなステージで敵を倒して進んでいきます。ユーザーの評価は高く、人気度も高いゲームです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/wave-gods-ammo-night/info/",
-        "date": "2026-03-23"
-      },
       {
         "title": "Manor Lords",
         "platform": "Various",
@@ -580,165 +556,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/symmetry/info/",
         "date": "2026-03-29"
+      },
+      {
+        "title": "Kerbal Space Program",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Kerbal Space ProgramがSteamで75% OFFセール中です。このゲームは、宇宙開発をテーマにしたシミュレーションゲームで、プレイヤーが自作の宇宙船を設計して宇宙へ打ち上げることができます。シミュレーションゲームとしての特徴は、物理エンジンを用いたリアルな宇宙空間の表現と、自由度の高い宇宙船の設計が可能です。現在の価格は大幅に割引されており、非常に魅力的なゲームです。",
+        "price": "¥1,237",
+        "originalPrice": "¥4,950",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/220200",
+        "date": "2026-03-30"
       }
     ],
     "review": [
-      {
-        "title": "【『デアデビル ボーン・アゲイン』シーズン 2 レビュー: マーベル史上最も政治的なドラマには明...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "『デアデビル ボーン・アゲイン』シーズン2のレビュー記事では、マーベル史上最も政治的なドラマであるこの作品について、明確な評価を行っています。このレビューでは、作品のストーリー展開、登場人物の深み、社会的なテーマの取り扱いなど、3つの主な評価ポイントを取り上げています。特に、政治的な要素の描写や、登場人物の心理的な描写が際立っていることが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/daredevil-born-again-season-2-review/",
-        "date": "2026-03-25",
-        "is_translated": true
-      },
-      {
-        "title": "【高評価百合ビジュアルノベル『Love Curse』3月26日から値上げへ。“ボリューム3割増し...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "高評価を得ている百合ビジュアルノベル『Love Curse』は、3月26日から値上げされることが発表されました。このゲームは、女性同士の恋愛を描いたストーリーや、美麗なグラフィックが特徴です。レビューでは、ゲームのボリュームが3割増しになったことや、キャラクターの深みが増したことが評価されています。また、ストーリーの展開や、サウンドトラックの質も高い評価を得ています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/love-curse-20260325-431956/",
-        "date": "2026-03-25",
-        "is_translated": false
-      },
-      {
-        "title": "【円谷プロ公式“ゼットンのホームランダービー”ゲーム無料公開、その名も『ゼットンの1兆度ホームラ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "円谷プロ公式のゲーム「ゼットンのホームランダービー」が無料公開されました。このゲームは、人気キャラクターのゼットンを主人公にしたホームランダービーゲームです。レビューでは、ゲームの簡単さ、キャラクターの魅力、無料での公開などが評価されています。このゲームは、ゼットンファンや家族で楽しめる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260325-431948/",
-        "date": "2026-03-25",
-        "is_translated": false
-      },
-      {
-        "title": "【発売1周年を迎えるFallout系サバイバルアクション「Atomfall」の累計プレイヤー数が...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Fallout系のサバイバルアクションゲーム「Atomfall」は発売から1周年を迎え、累計プレイヤー数が増加しています。このゲームの評価ポイントとして、広大なオープンワールドと自由度の高いゲームプレイが上げられます。また、レビューではグラフィックの高さやサウンドトラックのクオリティも高く評価されています。対象読者としてはアクションゲームやサバイバルゲームのファンにオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165351.html",
-        "date": "2026-03-25",
-        "is_translated": false
-      },
-      {
-        "title": "【『鳴潮』Ver3.2前半ストーリー感想。挫折を乗り越えた少女シグリカが天才から英雄になる“成長...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『鳴潮』Ver3.2前半ストーリーのレビュー記事では、挫折を乗り越えた少女シグリカが天才から英雄になる成長を描いたストーリーが高く評価されています。このゲームは、キャラクターの成長やストーリーの展開が見所であり、シグリカの強さや勇気を感じることができます。特に、ゲームをプレイしたことがある人やファンタジー系のゲームが好きな人におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/ww-20260325-432061/",
-        "date": "2026-03-25",
-        "is_translated": false
-      },
-      {
-        "title": "【立て直し中のFPS『SPLITGATE: Arena Reloaded』開発元、“新作FPSの...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "FPSゲーム『SPLITGATE: Arena Reloaded』は立て直しが進んでいます。開発元の1047 Gamesは新作FPSの開発を進めています。レビュー記事では、このゲームの評価ポイントとして、グラフィックの向上や新しいゲームモードの追加などを取り上げています。また、ゲームのレビューの内容概要として、ゲームの操作性やマルチプレイヤー機能の充実などを紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/1047-games-20260325-432026/",
-        "date": "2026-03-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam で非常に好評を博し、販売数が 300 万に達するにつれて、プレイヤーは Crims...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Steamで非常に好評を博し、販売数が300万に達したゲーム「Crims...」のレビュー記事では、ゲームの評価ポイントとしてグラフィックやゲームプレイの面白さが高く評価されています。また、レビューの内容としては、ユーザーインターフェイスの使いやすさやサウンドトラックの魅力も評価されています。対象読者は、Steamでのアクションゲームを探している方や。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/players-are-starting-to-click-with-crimson-desert-as-it-climbs-up-to-very-positive-on-steam-and-reaches-3-million-sales-but-pearl-abyss-promises-more-improvements/",
-        "date": "2026-03-25",
-        "is_translated": true
-      },
-      {
-        "title": "【スーパーマリオブラザーズ ワンダーベラベルパーク Switch 2 レビュー: 楽しいが本質的...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "スーパーマリオブラザーズ ワンダーベラベルパーク Switch 2 は、シリーズのファンである人向けに作られたゲームです。このゲームは、楽しい要素が多く含まれていますが、本質的な面ではシリーズの他の作品とあまり変化はありません。ゲームの評価ポイントとしては、グラフィックの美しさや新しいキャラクターの追加が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/super-mario-bros-wonder-meetup-bellabel-park-switch-2-review/",
-        "date": "2026-03-25",
-        "is_translated": true
-      },
-      {
-        "title": "【スクエニが「メタスコアによる2025年ゲーム会社ランキング」トップを飾る。“高評価作品率100...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "スクエニは「メタスコアによる2025年ゲーム会社ランキング」でトップに立ちました。スクエニのゲーム作品は高評価を得ていますが、その理由を探ってみましょう。まず、スクエニのゲームはグラフィックやサウンドが高品質で、ストーリーやキャラクターも魅力的です。また、プレイヤーのニーズに応えたゲームデザインも評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260325-432127/",
-        "date": "2026-03-25",
-        "is_translated": false
-      },
-      {
-        "title": "【「Rainbow Six Siege」の“METAL GEAR SOLID”コラボイベントがス...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Rainbow Six Siege」の「METAL GEAR SOLID」コラボイベントのレビュー記事では、イベントの評価ポイントとして、コラボレーションの独創性やゲームプレイの変化が取り上げられている。記事では、イベントの内容やゲームの新要素についても触れられており、ファンやゲーム愛好家にとって興味深い内容となっている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165374.html",
-        "date": "2026-03-25",
-        "is_translated": false
-      },
-      {
-        "title": "【伊Milestoneが開発を手がける人気シリーズ最新作「MotoGP 26」のゲームプレイを1...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "MotoGP 26は、伊Milestoneが開発を手がける人気シリーズの最新作です。このゲームの評価ポイントは、リアルなグラフィック、スリリングなレース体験、そしてカスタマイズ性の高さです。レビューの内容概要としては、操作性の向上、グラフィックの美しさ、そして様々なモードの豊富さが高い評価を受けています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165358.html",
-        "date": "2026-03-25",
-        "is_translated": false
-      },
-      {
-        "title": "【私はビッグ ウォークの無題のガチョウでした。House House の心地よい新しいオープンワ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、House House の新しいオープンワールドゲーム「ビッグ ウォーク」の評価ポイントを紹介しています。ゲームの自由度やグラフィックの美しさが高く評価されており、ユーザーはゲームの世界観やゲーム性に満足しているようです。対象読者は、このゲームに興味がある人や、オープンワールドゲームのファンであれば、ぜひこのレビュー記事を読んでみることをお勧めします。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/i-was-the-untitled-goose-in-big-walk-the-balmy-new-open-world-co-op-puzzler-from-house-house",
-        "date": "2026-03-25",
-        "is_translated": true
-      },
       {
         "title": "【ミステリー釣りゲーム「About Fishing」のオープンプレイテスト2.0が始動、極寒の目...】",
         "platform": "doope!",
@@ -763,19 +595,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/03165397.html",
         "date": "2026-03-26",
-        "is_translated": false
-      },
-      {
-        "title": "【Havenを生んだThe Game Bakersの新作登山シム「Cairn」のプレイヤー数が5...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "The Game Bakersの新作登山シム「Cairn」のプレイヤー数が5万人を超えたという記事のレビューでは、ゲームの評価ポイントとしてグラフィックやサウンドトラックの美しさ、そして独自のゲームシステムが高く評価されています。また、レビューの内容概要として、ゲームのストーリーやキャラクターの魅力を紹介するとともに、ゲームの難易度や操作性についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165387.html",
-        "date": "2026-03-25",
         "is_translated": false
       },
       {
@@ -1362,8 +1181,47 @@
         "url": "https://www.polygon.com/damon-and-baby-review/",
         "date": "2026-03-29",
         "is_translated": true
+      },
+      {
+        "title": "【『紅の砂漠』新アプデ後にSteam同接「27万人超え」。“伝説の動物”やボスも呼び出せる乗り物...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『紅の砂漠』の新しいアプデ後に、Steamでの同時接続数が27万人を超えたと伝えられています。このゲームでは、「伝説の動物」やボスを呼び出せる乗り物が追加されており、プレイヤーはさらに多様なゲームプレイを楽しむことができます。レビューでは、このゲームの評価ポイントとして、グラフィックの美しさ、ゲームシステムの深さ、そして新しいコンテンツの充実度が挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260330-433355/",
+        "date": "2026-03-30",
+        "is_translated": false
+      },
+      {
+        "title": "【新たな対戦型TPS『Time Takers』CBT先行プレイ感想。“時間そのもの”が資源となる...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "新たな対戦型TPS『Time Takers』のクローズドβテスト（CBT）に参加し、先行プレイした感想を紹介するレビュー記事です。このゲームは、プレイヤーが「時間」そのものを資源として利用することで、戦略的な対戦を楽しむことができます。記事では、ゲームの評価ポイントとして、ユニークな時間管理システム、多様なキャラクターのスキル、そして対戦モードのバリエーションについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/time-takers-20260328-432917/",
+        "date": "2026-03-29",
+        "is_translated": false
+      },
+      {
+        "title": "【マラソンのレビュースコアは上昇傾向にあり、2026 年のゲームアワードの候補に確定】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "マラソンのレビュースコアは上昇傾向にあり、2026年のゲームアワードの候補に確定しました。このゲームの評価ポイントとしては、グラフィックの美しさ、ストーリーの深さ、プレイ性の高さが挙げられます。レビューの内容概要としては、ゲームの世界観の広さやキャラクターの魅力、ゲームシステムの複雑さが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/marathon-goty-the-game-awards-best-multiplayer-game/",
+        "date": "2026-03-29",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-29T21:32:30.074844"
+  "last_updated": "2026-03-30T02:25:39.697067"
 }
