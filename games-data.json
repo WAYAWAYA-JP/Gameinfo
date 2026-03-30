@@ -604,6 +604,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/pacific-drive/info/",
         "date": "2026-03-30"
+      },
+      {
+        "title": "Vampire: The Masquerade® - Bloodlines™ 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションRPGゲームであるVampire: The Masquerade - Bloodlines 2が現在、35%割引のセール中です。このゲームは、バンパイアの世界を舞台に、プレイヤーがさまざまな選択肢を選んで物語を進めることができます。高く評価されているこのゲームは、ファンから人気を博しており、セール期間中はお得に購入することができます。",
+        "price": "$38.99",
+        "originalPrice": "",
+        "discount": "-35%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/vampire-the-masquerade-bloodlines-2/info/",
+        "date": "2026-03-30"
       }
     ],
     "review": [
@@ -1269,8 +1281,34 @@
         "url": "https://automaton-media.com/articles/newsjp/duet-night-abyss-20260330-433384/",
         "date": "2026-03-30",
         "is_translated": false
+      },
+      {
+        "title": "【Steamのある放置MMORPGで「重課金者のBAN処分」きっかけにレビュー爆撃が発生し、泥沼...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで配信されているMMORPGゲームで、重課金者に対するBAN処分がきっかけとなり、レビュー爆撃が発生し、ゲームの評価ポイントは低下しています。このレビュー記事では、ゲームの課金システムや運営サイドの対応が批判されており、対象読者はMMORPGゲームのファンやゲーム開発者向けです。記事では、課金システムの不公平さや運営サイドの不誠実さなどが指摘されており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260330-433456/",
+        "date": "2026-03-30",
+        "is_translated": false
+      },
+      {
+        "title": "【MacBook Neoのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "MacBook Neoのレビュー記事では、デザインやパフォーマンス、バッテリーの持続時間などが評価ポイントとなっています。このレビューでは、新しいMacBook Neoの特徴や、ユーザー体験の改善点について詳しく紹介しています。また、価格やスペック、ユーザー層にも焦点を当てて、MacBook Neoがどのようなユーザーに適しているかを分析しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-laptops/macbook-neo-review/",
+        "date": "2026-03-30",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-30T10:16:34.294352"
+  "last_updated": "2026-03-30T13:49:39.506864"
 }
