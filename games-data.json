@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/skautfold-saga-bundle",
         "date": "2026-03-30"
+      },
+      {
+        "title": "Checkmate! A Chess Games Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleで「Checkmate! A Chess Games Collection」というバンドルが販売中です。このバンドルには、「Chess Ultra」や「Battle vs. Chess」などの主要タイトルが含まれており、ボードゲームファンにとって魅力的な内容です。ボードゲームやストラテジーが好きな方にぴったりなこのバンドルは。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/checkmatechessgamescollection_bundle",
+        "date": "2026-03-30"
       }
     ],
     "sale": [
@@ -615,6 +627,42 @@
         "discount": "-35%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/vampire-the-masquerade-bloodlines-2/info/",
+        "date": "2026-03-30"
+      },
+      {
+        "title": "ASTRONEER",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ASTRONEERがSteamで75% OFFのセール中です。このゲームは、サンドボックスとアドベンチャー要素を組み合わせた、宇宙探検をテーマにしたゲームで、プレイヤーは惑星を探索し、資源を収集し、宇宙ステーションを建設することができます。現在の価格は大幅に割引されており、非常に人気の高いゲームです。Steamユーザーから非常に高い評価を得ていて、多くのプレイヤーから好評価を得ています。",
+        "price": "¥875",
+        "originalPrice": "¥3,500",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/361420",
+        "date": "2026-03-30"
+      },
+      {
+        "title": "Hogwarts Legacy",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Hogwarts Legacyは、オープンワールドアクションRPGのジャンルで人気を博しています。このゲームは、ハリー・ポッターの魔法世界を舞台に、プレイヤーが魔法使いとなり、ホグワーツ魔法学校で様々な冒険を体験できる特徴があります。現在、Variousで87%の割引が適用されており、非常に魅力的な価格で購入できます。ゲームの評価は高く、ファンからの人気度も高いと言えるでしょう。",
+        "price": "$7.52",
+        "originalPrice": "",
+        "discount": "-87%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
+        "date": "2026-03-30"
+      },
+      {
+        "title": "Deliver At All Costs",
+        "platform": "Various",
+        "type": "sale",
+        "description": "「Deliver At All Costs」は、バラエティ豊かなゲームです。現在、61%オフのセール中で、格安でプレイできます。このゲームは、ユニークなゲームプレイと面白い要素で人気があり、多くのユーザーから高く評価されています。",
+        "price": "$11.69",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/deliver-at-all-costs/info/",
         "date": "2026-03-30"
       }
     ],
@@ -1307,8 +1355,60 @@
         "url": "https://www.pcgamer.com/hardware/gaming-laptops/macbook-neo-review/",
         "date": "2026-03-30",
         "is_translated": true
+      },
+      {
+        "title": "【佐山善則氏による「ガンダム」ディスプレイデザイン画集が発売―「閃光のハサウェイ」「UC」「TH...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "佐山善則氏による「ガンダム」ディスプレイデザイン画集が発売されました。この画集は「閃光のハサウェイ」や「UC」、「TH」のデザインを集めたもので、ガンダムシリーズのファン必見のアイテムとなります。評価ポイントとしては、デザインの細かい部分まで見える高品質なイラストが特徴です。また、ガンダムシリーズのレビュー記事では、作品の背景や設定も紹介されており、シリーズの魅力をさらに深めることができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/31/179280.html",
+        "date": "2026-03-30",
+        "is_translated": false
+      },
+      {
+        "title": "【Thermaltake View 380 WS ARGB レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Thermaltake View 380 WS ARGB レビューでは、ガラスサイドパネルの採用による優れた見た目や、ARGBライトの美しさ、そして高いクール링パフォーマンスが評価ポイントとなっています。さらに、レビューでは、組み立てやすさやケーブルの管理のしやすさも高く評価されています。PCケースを購入する際に参考にしたい方や、Thermaltakeの製品に興味がある方には。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/pc-cases/thermaltake-view-380-ws-argb-review/",
+        "date": "2026-03-30",
+        "is_translated": true
+      },
+      {
+        "title": "【スクリーマーのマルチプレイヤー チェイスは、レーサーのカオスな可能性を最大限に解き放ち、容赦な...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "スクリーマーのマルチプレイヤー チェイスは、レーサーのカオスな可能性を最大限に解き放ち、容赦ない激しいゲームプレイを提供します。このレビューでは、チェイスのマルチプレイヤーモード、キャラクターのカスタマイズ、レーストラックの多様性などを評価しています。また、ゲームのグラフィックやサウンドデザインも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/screamers-multiplayer-chases-unleash-the-racers-full-chaotic-potential-trapping-you-inside-a-relentlessly-boosty-bashy-and-boomy-washing-machine",
+        "date": "2026-03-30",
+        "is_translated": true
+      },
+      {
+        "title": "【Pokémon Champions のプレビューでは、個性を犠牲にした合理化された戦闘が示され...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Pokémon Champions のレビューでは、戦闘システムの合理化が個性を犠牲にしていることが指摘されています。このゲームの評価ポイントとして、戦闘のバランスと戦略の深み、キャラクターの個性が重要な要素です。対象読者は、ポケモンシリーズのファンやロールプレイングゲームを楽しむ人々向けのレビュー記事となります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/pokemon-champions-pax-east-2026-demo-review-impressions/",
+        "date": "2026-03-30",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-30T13:49:39.506864"
+  "last_updated": "2026-03-30T21:42:21.330759"
 }
