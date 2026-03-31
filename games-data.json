@@ -206,6 +206,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/checkmatechessgamescollection_bundle",
         "date": "2026-03-30"
+      },
+      {
+        "title": "Metroidvania Mayhem Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Metroidvania Mayhem Bundleというバンドルが販売中です。このバンドルには、Axiom Verge、Guacamelee!、Ori and the Blind Forestなどのメトロイドヴァニアジャンルのゲームが収録されています。大まかな価格帯は、約2,000円から約4,000円と様々です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/metroidvaniamayhembundle_bundle",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "Frictional Games: Amnesia, SOMA, Penumbra",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Frictional Gamesのバンドルが販売中です。このバンドルには、サバイバルホラーゲームの「Amnesia」や「SOMA」、および「Penumbra」などの主要タイトルが含まれています。これらのゲームは、ホラーとサスペンスが特徴的な作品です。価格帯はおおよそ1000円から2000円程度で、興味がある方にはお勧めのバンドルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/frictionalgamesamnesiasomapenumbra_bundle",
+        "date": "2026-03-31"
       }
     ],
     "sale": [
@@ -603,6 +627,18 @@
         "discount": "90% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/597180",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "Kingdom Come: Deliverance II",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Kingdom Come: Deliverance IIがVariousで55%割引のセール中です。このゲームはオープンワールドアクションRPGとして知られており、リアルな中世ヨーロッパを舞台にした壮大なストーリーや精密な戦闘システムが特徴です。多くのユーザーから高い評価を得ており、人気度も非常に高いゲームです。",
+        "price": "$27.00",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
         "date": "2026-03-31"
       }
     ],
@@ -1061,8 +1097,60 @@
         "url": "https://www.rockpapershotgun.com/screamers-multiplayer-chases-unleash-the-racers-full-chaotic-potential-trapping-you-inside-a-relentlessly-boosty-bashy-and-boomy-washing-machine",
         "date": "2026-03-30",
         "is_translated": true
+      },
+      {
+        "title": "【PS Vita『NINJA GAIDEN Σ2 PLUS』、発売から13年越しに“トロコン達成...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "PS Vitaの『NINJA GAIDEN Σ2 PLUS』は、発売から13年越しにトロフィーコンポリウムを達成したというレビュー記事です。このゲームの評価ポイントとして、難しいながらも達成感のあるトロフィーのコレクションや、ゲームのグラフィックとサウンドの高さが挙げられます。さらに、レビューではゲームの操作性やストーリーの面白さも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260331-433631/",
+        "date": "2026-03-31",
+        "is_translated": false
+      },
+      {
+        "title": "【映画“ハロウィン”シリーズをビデオゲーム化する4vs1ホラーサンドボックス「Halloween...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、映画「ハロウィン」シリーズをビデオゲーム化した4vs1ホラーサンドボックス「Halloween」というゲームの評価を紹介しています。評価ポイントとしては、ホラーゲームとしての緊張感、映画シリーズの世界観の再現度、そして4vs1の対戦モードの面白さが挙げられます。レビューの内容は、ゲームの雰囲気やサウンドデザインの怖さ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165518.html",
+        "date": "2026-03-31",
+        "is_translated": false
+      },
+      {
+        "title": "【今も高い人気を誇るVRMMO「Rec Room」のサービス終了がアナウンス、サーバ閉鎖は202...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気のVRMMO「Rec Room」のサービス終了がアナウンスされ、サーバ閉鎖も202年と発表されました。このゲームの評価ポイントとしては、ユーザーが自由にアクティビティを作成してプレイできる点や、多様なゲームモードが用意されている点が挙げられます。レビューでは、ゲームの長所として、ユーザーの創造性を引き出すことができる点や、ゲーム内のコミュニティが活発である点が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/03165544.html",
+        "date": "2026-03-31",
+        "is_translated": false
+      },
+      {
+        "title": "【【特集】コスプレ写真のレタッチがしんどい全人類へ！編集時間1/3になるAIアプリ「Evoto」...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、コスプレ写真のレタッチを効率化するAIアプリ「Evoto」の評価ポイントを紹介しています。記事では、Evotoの使い勝手や編集時間の短縮効果について言及されており、コスプレ愛好家や写真編集者にとって非常に有用な情報が含まれています。特に、編集時間が3分の1まで短縮される点が評価されており、忙しい人や編集スキルがあまりない人にもおすすめできるアプリです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/31/179319.html",
+        "date": "2026-03-31",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-03-31T02:13:01.565091"
+  "last_updated": "2026-03-31T10:05:38.099350"
 }
