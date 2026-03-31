@@ -640,6 +640,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
         "date": "2026-03-31"
+      },
+      {
+        "title": "Starfield",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Starfieldは、 Variousで現在15%割引のセール中です。このゲームは、オープンワールドの宇宙探索アドベンチャーであり、広大な銀河系を自由に飛行して探索できる特徴があります。多くのユーザーから高評価を受けており、人気ゲームとして知られています。セール期間中は、通常価格よりも安く購入できますので、興味がある方はこの機会にチェックしてみてください。",
+        "price": "$42.49",
+        "originalPrice": "",
+        "discount": "-15%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/starfield/info/",
+        "date": "2026-03-31"
       }
     ],
     "review": [
@@ -1149,8 +1161,34 @@
         "url": "https://www.inside-games.jp/article/2026/03/31/179319.html",
         "date": "2026-03-31",
         "is_translated": false
+      },
+      {
+        "title": "【「優れたアイデアが光るが、当時の時代感やハードウェアの制約は隠しきれていない」海外レビューひと...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このゲームは、優れたアイデアが光るものですが、当時の時代感やハードウェアの制約が隠しきれない点があります。これについては、海外レビューでも指摘されています。具体的には、グラフィックの限界やゲームプレイの古さが目立ちますが、逆にこれが魅力ともなっています。対象読者はレトロゲームファンやゲーム史に興味のある人です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/03/31/179325.html",
+        "date": "2026-03-31",
+        "is_translated": false
+      },
+      {
+        "title": "【Asus ROG Crosshair X870E Glacial レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Asus ROG Crosshair X870E Glacialは、高性能なマザーボードとして注目を集めています。このレビュー記事では、ゲームプレイ時のパフォーマンスやオーバークロック機能、拡張性などの評価ポイントを詳しく紹介しています。また、記事では、マザーボードの特徴やスペック、設置の難易度などについても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/motherboards/asus-rog-crosshair-x870e-glacial-review/",
+        "date": "2026-03-31",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-03-31T10:05:38.099350"
+  "last_updated": "2026-03-31T13:48:41.408385"
 }
