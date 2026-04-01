@@ -640,6 +640,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
         "date": "2026-04-01"
+      },
+      {
+        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "platform": "Various",
+        "type": "sale",
+        "description": "S.T.A.L.K.E.R. 2: Heart of Chornobylは、ファーストパーソン・シューティングゲームとサバイバルホラーゲームの要素を組み合わせた、ユニークなゲームです。このゲームは、ウクライナのチョルノブイリ原子力発電所を舞台に、プレイヤーが危険な環境で生き残るために戦い、探索する必要があります。現在、41%の割引で販売中であり、非常に魅力的なオファーです。",
+        "price": "$35.19",
+        "originalPrice": "",
+        "discount": "-41%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "Persona 3 Reload",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Persona 3 Reloadは、ロールプレイングゲームのジャンルに属する人気ゲームです。このゲームは、深いストーリーと魅力的なキャラクターで知られており、プレイヤーから高く評価されています。現在、Variousでセール中であり、価格が15%割引されています。この割引により、通常よりも安くこのゲームを楽しむことができます。",
+        "price": "$50.98",
+        "originalPrice": "",
+        "discount": "-15%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/persona-3-reload/info/",
+        "date": "2026-04-01"
       }
     ],
     "review": [
@@ -1110,8 +1134,60 @@
         "url": "https://www.pcgamer.com/games/rpg/aether-and-iron-review/",
         "date": "2026-03-31",
         "is_translated": true
+      },
+      {
+        "title": "【Epic Gamesのレイオフで、Unreal Engine 5の「カメラ制御機能」を“たった...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Epic Gamesのレイオフにより、Unreal Engine 5の「カメラ制御機能」についての記事を紹介します。この記事では、カメラ制御機能の新しいアップデートや、レイオフの影響について詳しく説明しています。ゲーム開発者やUnreal Engine 5を使用しているユーザーにとって、参考になる情報が含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/epic-games-20260401-434003/",
+        "date": "2026-04-01",
+        "is_translated": false
+      },
+      {
+        "title": "【『エルデンリング』の有名“強すぎ全裸ツボ”プレイヤー、なんと「マレニアに負けた」とほのめかしコ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "人気ゲーム『エルデンリング』をプレイするユーザーの中には、全裸で挑む「全裸ツボ」プレイヤーがいます。彼らは、ゲームの難易度を高める代わりに、独自の楽しみ方を楽しんでいます。最近、有名な全裸ツボプレイヤーが、マレニアという強敵に敗れたことをほのめかしており、ゲームファンの間で話題になっています。このレビュー記事は、ゲームの評価ポイントやプレイヤーの戦略などを紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260401-433979/",
+        "date": "2026-04-01",
+        "is_translated": false
+      },
+      {
+        "title": "【人気密林MMOシューター『Gray Zone Warfare』“過去最大”アプデで「同接約3万...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "人気のオンラインゲーム『Gray Zone Warfare』が大規模なアップデートを実施し、最大3万人同時接続が可能になりました。このアップデートでは、新しいマップやゲームモードが追加され、プレイヤーの体験が大幅に向上しています。ゲームの評価ポイントとしては、スムーズなゲーム性やリアルなグラフィックが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/gray-zone-warfare-20260401-433978/",
+        "date": "2026-04-01",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料“ガチャ1回32円”格安RPG『オリアカ：ライト』、本日リリース。天井はたったの...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料のRPGゲーム「オリアカ：ライト」は、1回のガチャが32円という格安な価格設定で注目を集めています。このゲームの評価ポイントとしては、キャラクターの育成システムやストーリーの展開が特に高く評価されています。また、ゲームのレビューでは、簡単な操作性や魅力的なグラフィックも称賛されています。このレビューは、RPGゲームファンや新規参入者に向けて、ゲームの魅力を紹介します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/oriakalite-20260401-433949/",
+        "date": "2026-04-01",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-01T02:30:28.742472"
+  "last_updated": "2026-04-01T10:05:58.219571"
 }
