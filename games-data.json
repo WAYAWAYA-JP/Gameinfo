@@ -700,6 +700,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
         "date": "2026-04-02"
+      },
+      {
+        "title": "BIOHAZARD RE:2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "バイオハザードシリーズの名作『BIOHAZARD RE:2』がSteamで大幅なセール中です。このサバイバルホラーの傑作は、恐怖とスリルの絶妙なバランスでプレイヤーを魅了します。現在、75%オフの特別価格で提供中であり、通常の価格より大幅に安くなっています。このゲームは、グラフィックやサウンドデザインが高く評価されており、シリーズファンの間でも人気の高いタイトルです。",
+        "price": "¥997",
+        "originalPrice": "¥3,990",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/883710",
+        "date": "2026-04-02"
       }
     ],
     "review": [
@@ -1274,8 +1286,47 @@
         "url": "https://www.pcgamer.com/hardware/cooling/thermaltake-th360-v3-ultra-argb-sync-review/",
         "date": "2026-04-02",
         "is_translated": true
+      },
+      {
+        "title": "【Mchose G3 V2 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Mchose G3 V2 レビューは、ゲーミングマウスの性能とデザインを評価しています。レビューのポイントとしては、精密なセンサーと軽量なボディが高評価されています。また、ergonomicデザインにより長時間の使用でも手疲れしないことが強調されています。このレビューは、ゲーミングマウスを探しているゲーマーにとって非常に参考になる情報を提供しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/mchose-g3-v2-review/",
+        "date": "2026-04-02",
+        "is_translated": true
+      },
+      {
+        "title": "【ケンブリッジオーディオ L/R S レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ケンブリッジオーディオL/R Sのレビュー記事では、音質やデザイン、操作性などの評価ポイントが紹介されています。記事では、音質の高さやデザインの美しさ、操作性の便利さなどが評価されています。また、記事の対象読者は、オーディオ機器に興味がある人や、高音質を求める音楽ファンに向けて書かれています。記事を読むことで、ケンブリッジオーディオL/R Sの特徴や強みを理解することができ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/speakers/cambridge-audio-l-r-s-review/",
+        "date": "2026-04-02",
+        "is_translated": true
+      },
+      {
+        "title": "【Silverstone FLP02 ケースレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Silverstone FLP02 ケースレビューの記事では、パソコンケースの評価ポイントとしてデザインと冷却性能が重点的に取り上げられています。記事では、FLP02 ケースの優れた空気流出設計や静かな運転音について高く評価しています。また、ケースの設置性や拡張性についても触れています。このレビュー記事は、パソコンケースを購入を検討しているユーザーや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/pc-cases/silverstone-flp02-case-review/",
+        "date": "2026-04-02",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-02T10:01:40.392190"
+  "last_updated": "2026-04-02T13:42:04.856149"
 }
