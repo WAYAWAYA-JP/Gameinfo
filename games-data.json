@@ -2,79 +2,19 @@
   "pc": {
     "free": [
       {
-        "title": "Electrician Simulator",
+        "title": "TOMAK : Save the Earth Regeneration",
         "platform": "Epic Games",
         "type": "free",
-        "description": "このゲームでは、電気技師の役割を引き受けて、職業の基礎を学びます。顧客の家にコンセントを設置したり、老朽化した機器を修理したり、壊れた家電を組み立てたり、電球を交換したり、配線を敷設したりすることができます。すべての作業を2回確認する必要があり、電気には冗談が通用しないため、慎重さが求められます。このゲームは、シミュレーションゲームとしての特徴があり、電気工事の実践的な経験を提供します。",
+        "description": "伝説の育成シミュレーションゲーム『TOMAK : Save the Earth』の25周年記念エディションがEpic Gamesストアで配布されています。このゲームは、滅亡の危機に瀕した地球を救うため、愛の女神「エビアン」を3年間大切に育てる内容です。ゲームの特徴としては、ユニークなコンセプトや、育成要素が魅力的です。また、ゲームの進め方によって、様々なエンディングが用意されている点も特徴的です。",
         "price": "無料",
-        "originalPrice": "¥17",
+        "originalPrice": "¥8",
         "discount": "100% OFF",
-        "deadline": "2026年03月26日まで",
-        "url": "https://store.epicgames.com/ja/p/d4645b0dc574438e95d20c6a31d3a0f7",
-        "date": "2026-03-26"
-      },
-      {
-        "title": "『World of Warships』– Epic アニバーサリー橘パック",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『World of Warships』は、海洋を舞台に戦艦を操り戦う戦略アクションゲームです。このゲームの特徴としては、グラフィックの美しさ、戦艦のカスタマイズの自由度、オンラインでのマルチプレイ機能があります。魅力としては、史実に基づいた戦艦の再現、戦略的な戦い方が求められること、そしてプレイヤー同士のコミュニケーションが重要になる点があります。",
-        "price": "無料",
-        "originalPrice": "¥27",
-        "discount": "100% OFF",
-        "deadline": "2026年03月26日まで",
-        "url": "https://store.epicgames.com/ja/p/world-of-warships-tachibana-lima-pack",
-        "date": "2026-03-26"
-      },
-      {
-        "title": "Hyper Echelon",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "シアン銀河は危機に瀕していますが、あなたの頼れる小さなスターファイターと僚機の寄せ集め部隊が、邪悪なエクソドンに立ち向かう唯一の希望です。このゲームは、ロールプレイングゲームとシューティングゲームの要素を兼ね備えたアクションゲームで、多くの素晴らしいロケールでの熱狂的な戦闘が特徴です。また、豆鉄砲から攻撃力の強いプレイヤーにレベルアップすることができ、戦闘のスリルやキャラクターの成長が魅力です。",
-        "price": "無料",
-        "originalPrice": "¥12",
-        "discount": "100% OFF",
-        "deadline": "2026年04月02日まで",
-        "url": "https://store.epicgames.com/ja/p/39e8285c09224707ab83d5c256e9b41b",
-        "date": "2026-03-26"
-      },
-      {
-        "title": "Havendock",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Havendockは、ストラテジー系のゲームです。このゲームの特徴は、プレイヤーが船を操り、海上で戦闘を行うことです。また、グラフィックが美しく、戦略的な戦いが楽しめます。さらに、ゲームの進行に応じて、新しい船やアイテムを入手できることです。現在、Epic Gamesプラットフォームで無料配布されています。",
-        "price": "無料",
-        "originalPrice": "¥19",
-        "discount": "100% OFF",
-        "deadline": "2026年04月02日まで",
-        "url": "https://store.epicgames.com/ja/p/454bc0b5893f46a885bd86a6589ee67a",
-        "date": "2026-03-26"
+        "deadline": "2026年04月16日まで",
+        "url": "https://store.epicgames.com/ja/p/798328bff911452783523d61986170c0",
+        "date": "2026-04-02"
       }
     ],
     "bundle": [
-      {
-        "title": "Multiplayer Madness 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Multiplayer Madness 2026というバンドルが現在販売中です。このバンドルには、主に『Among Us』や『Jackbox Party Pack』、『Keep Talking and Nobody Explodes』などのタイトルが含まれており、主にパーティーやマルチプレイに焦点を当てたゲームが中心となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/multiplayermadness2026_bundle",
-        "date": "2026-03-23"
-      },
-      {
-        "title": "HHPixel Traditions Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "HHPixel Traditions BundleがIndieGalaで販売中です。このバンドルには『Echoes of the Fey』や『The Lost Valley』などのタイトルが含まれており、インディーゲーム好きにはお勧めです。ジャンルはアドベンチャーやRPGが中心で、大まかな価格帯は1,000円から2,000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/pixel-traditions-bundle",
-        "date": "2026-03-23"
-      },
       {
         "title": "Best of Boomer Shooters 5: Penta Boom",
         "platform": "Humble Bundle",
@@ -257,90 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "オープンワールドアクションアドベンチャーゲームであるRed Dead Redemption 2がSteamで75%オフのセール中です。このゲームは、美しいグラフィックと豊富なストーリーで知られており、非常に高い評価と人気度を誇っています。通常価格と比較して大幅に安くなっているので、ゲームファンには絶好のチャンスです。",
-        "price": "¥2,154",
-        "originalPrice": "¥8,618",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1174180",
-        "date": "2026-03-26"
-      },
-      {
-        "title": "ペルソナ５ ザ・ロイヤル",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ペルソナ５ ザ・ロイヤルは、Steamで現在70%オフのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、深いストーリーと魅力的なキャラクターで知られています。ゲームの評価は非常に高く、人気も高いです。通常価格より大幅に安くなっているので、ゲームファンには見逃せない機会です。",
-        "price": "¥2,303",
-        "originalPrice": "¥7,678",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1687950",
-        "date": "2026-03-26"
-      },
-      {
-        "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームのSekiro: Shadows Die Twice - GOTY EditionがSteamで50% OFFセール中で、通常価格より大幅に安くなっています。このゲームは、激しいアクションと陰険なステルスプレイを特徴とし、高い評価と人気を博しています。",
-        "price": "¥4,180",
-        "originalPrice": "¥8,360",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/814380",
-        "date": "2026-03-26"
-      },
-      {
-        "title": "サイバーパンク2077",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サイバーパンク2077は、オープンワールドとRPGの要素を備えたアクションアドベンチャーゲームで、現在Steamで65%の割引セール中です。このゲームは、未来的な世界を舞台に、プレイヤーが自由に探索し、ストーリーを進めていくことができます。高い評価と人気度を誇り、ゲームファンから高い評価を得ています。",
-        "price": "¥3,072",
-        "originalPrice": "¥8,778",
-        "discount": "65% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1091500",
-        "date": "2026-03-26"
-      },
-      {
-        "title": "Stardew Valley",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Stardew ValleyがSteamで50% OFFセール中です。このゲームは、ファーミングシミュレーションとRPGの要素を組み合わせた、オープンワールドのサンドボックスゲームです。プレイヤーは、農業、牧畜、採掘、釣りなど、さまざまな活動に従事しながら、田園町の生活を楽しむことができます。非常に人気のあるゲームであり、高い評価を得ています。",
-        "price": "¥740",
-        "originalPrice": "¥1,480",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/413150",
-        "date": "2026-03-26"
-      },
-      {
-        "title": "Ready or Not",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "『Ready or Not』は、Steamで現在50%オフのセール中です。このゲームは、タクティカルファーストパーソンシューティングゲームとして知られ、プレイヤーがSWATチームを率いて、さまざまなミッションを遂行します。ストラテジーと協力プレイが重要な要素です。評価は非常に高く、ユーザーから高い人気を博しています。現在、セール中の価格で購入することができ、ファンには見逃せないチャンスです。",
-        "price": "¥3,575",
-        "originalPrice": "¥7,150",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1144200",
-        "date": "2026-03-26"
-      },
-      {
-        "title": "DAVE THE DIVER",
-        "platform": "Various",
-        "type": "sale",
-        "description": "DAVE THE DIVERがVariousで58%オフのセール中です。このゲームはアクションアドベンチャー要素が豊富で、ユーザーからの評価も非常に高い人気ゲームです。現在、セール中のため、通常価格よりも大幅に安く購入することができます。",
-        "price": "$8.45",
-        "originalPrice": "",
-        "discount": "-58%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
-        "date": "2026-03-26"
-      },
       {
         "title": "CRIMSON DESERT",
         "platform": "Various",
@@ -736,35 +592,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/together-after-dark/info/",
         "date": "2026-04-01"
+      },
+      {
+        "title": "Resident Evil 4 (2023)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "「Resident Evil 4 (2023)」は、Variousで現在60%オフのセール中で、通常価格よりも大幅に安くなっています。このゲームは、サバイバルホラーのジャンルに分類され、スリリングなゲームプレイと豊富なストーリーが特徴です。評価も高く、多くのプレイヤーから人気を博しています。価格が割引されているので、興味がある方は今すぐチェックしてみてください。",
+        "price": "$15.99",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
+        "date": "2026-04-02"
       }
     ],
     "review": [
-      {
-        "title": "【元BioWareのベテランたちが開発を率いる“Mass Effect”系アクションRPG「EX...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "元BioWareのベテランたちが開発を率いる「Mass Effect」系アクションRPG「EX...」のレビュー記事では、ゲームの評価ポイントとして、ストーリーやキャラクターの深さ、ゲームプレイの自由度が高く評価されています。また、レビューの内容概要として、ゲームのグラフィックやサウンドトラックの高品質、キャラクターの成長システムの魅力が紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165477.html",
-        "date": "2026-03-28",
-        "is_translated": false
-      },
-      {
-        "title": "【Daemon's of the Shadow Realm プレビュー: アニメのプレミアは誇大...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Daemon's of the Shadow Realmのプレビュー記事では、アニメのプレミアについて誇大宣伝となっているという評価がされています。このレビュー記事では、ゲームのグラフィックやストーリーの評価ポイントを中心に、プレミアの内容やゲーム性についても触れています。アニメファンやゲーム好きの方に興味を持って読んでもらえる内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/daemons-of-the-shadow-realm-episode-1-explainer-preview/",
-        "date": "2026-03-28",
-        "is_translated": true
-      },
       {
         "title": "【AnimeJapan 2026】『FGO』ブースが豪華絢爛すぎ！公式コスプレイヤーの出迎えから第2部終章の振り返りまで、見どころをお届け【フォトレポート】",
         "platform": "インサイド",
@@ -1258,8 +1100,47 @@
         "url": "https://automaton-media.com/articles/newsjp/oriakalite-20260401-433949/",
         "date": "2026-04-01",
         "is_translated": false
+      },
+      {
+        "title": "【ファンタジー都市の政治的陰謀と初の選挙を描くD&Dルール採用“ディスコ”ライクCRPG「Eso...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、ファンタジー都市の政治的陰謀や初の選挙を描くD&Dルール採用のCRPG「Eso...：ディスコ」について取り上げています。このゲームの評価ポイントとして、独自のストーリー、深いキャラクター設定、そしてユニークな政治システムが挙げられます。レビューでは、ゲームの内容が政治や社会的なテーマを扱っていること、キャラクターの発言や行動がプレイヤーに大きな影響を与えること。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165621.html",
+        "date": "2026-04-02",
+        "is_translated": false
+      },
+      {
+        "title": "【ソウルライクアクション続編「Mortal Shell II」初のゲームプレイ映像がお披露目、今...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ソウルライクアクションゲームの続編「Mortal Shell II」の初のゲームプレイ映像が公開されました。このレビュー記事では、「Mortal Shell II」のゲームプレイの評価ポイントとして、グラフィックの改善、戦闘システムの深化、ストーリーの広がりなどを取り上げています。特に、ゲームの難易度と挑戦性のバランスが、シリーズのファンにとって大きな魅力になっていると評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165609.html",
+        "date": "2026-04-02",
+        "is_translated": false
+      },
+      {
+        "title": "【ガンダムUCより「ネェル・アーガマ」のカタパルトデッキがジオラマフィギュア化！HGガンプラのデ...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "ガンダムUCの「ネェル・アーガマ」のカタパルトデッキがジオラマフィギュア化した商品についてのレビュー記事です。この商品はHGガンプラのデッキと組み合わせて使用することができます。評価ポイントとしては、ディテールの豊かさや組み立ての楽しさが挙げられます。レビューでは、組み立ての容易さや完成品の迫力などが評価されています。対象読者はガンプラファンやガンダムシリーズの愛好家です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/04/02/179403.html",
+        "date": "2026-04-02",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-01T21:41:37.947531"
+  "last_updated": "2026-04-02T02:09:28.917353"
 }
