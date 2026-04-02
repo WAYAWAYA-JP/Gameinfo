@@ -36,6 +36,18 @@
         "deadline": "2026年04月02日まで",
         "url": "https://store.epicgames.com/ja/p/454bc0b5893f46a885bd86a6589ee67a",
         "date": "2026-04-02"
+      },
+      {
+        "title": "Clone Drone in the Danger Zone",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『クローン・ドローン・イン・ザ・デンジャー・ゾーン』は、三人称視点のソード・バトル・アクションゲームです。このゲームの特徴は、体のあらゆる部分を切断できることです。さらに、ロボットの剣闘士にインストールされた精神体として、アリーナで立ち向かう凶悪な試練の数々を克服しなければなりません。魅力的な要素としては、剣闘士のカスタマイズや、アリーナでの戦闘の多様性があります。",
+        "price": "無料",
+        "originalPrice": "¥19",
+        "discount": "100% OFF",
+        "deadline": "2026年04月09日まで",
+        "url": "https://store.epicgames.com/ja/p/4d7e959581394dc4aee2039844753beb",
+        "date": "2026-04-02"
       }
     ],
     "bundle": [
@@ -712,6 +724,42 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/883710",
         "date": "2026-04-02"
+      },
+      {
+        "title": "サブノーティカ",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サブノーティカは、Steamで現在75%オフのセール中です。このゲームは、オープンウォールドのサバイバル要素と美しい水中グラフィックが特徴的な、アクションアドベンチャーゲームです。非常に高い評価と人気度を誇り、プレイヤーから高い支持を得ています。通常価格より大幅に安くなったこの価格で、未プレイの人は一度試してみることをお勧めします。",
+        "price": "¥1,075",
+        "originalPrice": "¥4,300",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/264710",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "Resident Evil Village",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Resident Evil VillageがVariousで75%割引されているので、ファンの方はお見逃しなくしてください。このゲームはサバイバルホラーゲームのジャンルに属し、恐怖とスリルの組み合わせでプレイヤーを引き付ける特徴があります。現在の価格は大幅な割引により非常に魅力的で、多くのユーザーから高い評価を得ています。人気度も高く、ゲームファンの間で話題になっています。",
+        "price": "$9.80",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-village/info/",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "Detroit: Become Human",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Detroit: Become Humanは、サイバーパンクを舞台にしたアドベンチャーゲームで、人工知能が人間に代わる未来を描きます。このゲームは、プレイヤーの選択によってストーリーが変化する独自の特徴があり、サイバーパンクファンに人気があります。現在、Variousで82%オフのセール中で、価格が大幅に下がっています。評価も高く、多くのユーザーから高評価を得ています。",
+        "price": "$7.12",
+        "originalPrice": "",
+        "discount": "-82%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
+        "date": "2026-04-02"
       }
     ],
     "review": [
@@ -1325,8 +1373,34 @@
         "url": "https://www.pcgamer.com/hardware/pc-cases/silverstone-flp02-case-review/",
         "date": "2026-04-02",
         "is_translated": true
+      },
+      {
+        "title": "【モバイル版「Sea of Stars」のゲームプレイを紹介する新映像が公開、発売は2026年4月7日】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "モバイル版「Sea of Stars」の新しい映像が公開されました。このゲームは2026年4月7日に発売される予定です。評価ポイントとしては、美しいグラフィック、面白いストーリー、簡単な操作などがあります。レビューでは、ゲームの世界観やキャラクターの魅力が高く評価されています。また、ゲームの難易度や操作性についても触れています。対象読者は、モバイルゲームやRPGが好きな人におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165646.html",
+        "date": "2026-04-02",
+        "is_translated": false
+      },
+      {
+        "title": "【Teamgroup MP44Q 2 TB NVMe SSD レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Teamgroup MP44Q 2 TB NVMe SSDのレビュー記事では、高速な読み書き性能や大容量のストレージなど、多くの優れた特徴を紹介しています。ゲームの評価ポイントとしては、高速なロード時間やスムーズなゲームプレイが可能な点が高く評価されています。さらに、レビューの内容概要としては、製品の設計や性能、価格帯などが詳しく紹介されており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/ssds/teamgroup-mp44q-2-tb-nvme-ssd-review/",
+        "date": "2026-04-02",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-02T13:42:04.856149"
+  "last_updated": "2026-04-02T21:38:02.192272"
 }
