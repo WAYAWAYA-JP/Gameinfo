@@ -676,6 +676,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
         "date": "2026-04-03"
+      },
+      {
+        "title": "Disco Elysium - The Final Cut",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Disco Elysium - The Final CutがVariousで75%オフのセール中です。このゲームは、オープンワールドとRPGの要素を組み合わせたユニークなゲームで、主人公の探偵がさまざまなミステリーを解決するというストーリーです。高評価を得ているこのゲームは、豊富な物語と深いキャラクター設定が特徴で、ファンから高い人気を誇っています。",
+        "price": "$9.99",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
+        "date": "2026-04-03"
       }
     ],
     "review": [
@@ -1250,8 +1262,60 @@
         "url": "https://www.pcgamer.com/games/card-games/mega-crit-co-founder-says-he-wasnt-bothered-by-the-steam-backlash-to-slay-the-spire-2s-beta-balance-patch-its-difficult-for-players-to-feel-like-theyre-heard/",
         "date": "2026-04-02",
         "is_translated": true
+      },
+      {
+        "title": "【Steamコイン落としローグライク『RACCOIN』は「インフレと物理演算が生み出す中毒性」が...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamコイン落としローグライクゲームの『RACCOON』のレビュー記事では、このゲームの評価ポイントとしてインフレと物理演算が生み出す中毒性が高く評価されています。また、記事ではこのゲームの魅力を引き出し、プレイヤーが楽しくプレイできる要素が紹介されています。対象読者はローグライクゲームやアクションゲームのファンで。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/columnjp/raccoin-20260403-434439/",
+        "date": "2026-04-03",
+        "is_translated": false
+      },
+      {
+        "title": "【ある資金難のオンライン対戦RTS、オンラインモードをやむなく“一時停止”。サーバー運営会社がA...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、資金難によりオンラインモードを一時停止したオンライン対戦RTSゲームについて扱っています。記事では、ゲームの評価ポイントとしてサーバー運営会社の対応やゲームの将来性について触れています。さらに、オンラインモードの停止がプレイヤーに与える影響や、ゲームの開発会社の対応策についてもレビューしています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260403-434426/",
+        "date": "2026-04-03",
+        "is_translated": false
+      },
+      {
+        "title": "【ゲームプレイの進化に焦点を当てる「CONTROL Resonant」の開発映像が公開、SHÜM...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「CONTROL Resonant」の開発映像が公開されました。このゲームは、プレイヤーの進化に焦点を当てています。レビューでは、ゲームのグラフィックやサウンドデザインが高く評価されています。また、ゲームのストーリーやキャラクターの深みも称賛されています。ゲームファンやアクションゲームを好む人向けのレビューで、ゲームの全体的な魅力が紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165669.html",
+        "date": "2026-04-03",
+        "is_translated": false
+      },
+      {
+        "title": "【多彩な新コンテンツを導入する「Call of Duty: Black Ops 7|Warzon...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Call of Dutyシリーズの最新作「Call of Duty: Black Ops 7|Warzone」は、多彩な新コンテンツを導入しており、ゲームの評価ポイントとしては、新しいマップやゲームモードの追加、グラフィックの向上などが挙げられます。レビューの内容概要としては、ゲームのスムーズな操作性、豊富なカスタマイズオプション、そして多人数でのプレイの楽しさが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165687.html",
+        "date": "2026-04-03",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-03T02:10:57.964183"
+  "last_updated": "2026-04-03T09:52:58.442737"
 }
