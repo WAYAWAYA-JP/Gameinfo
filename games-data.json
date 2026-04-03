@@ -1314,8 +1314,21 @@
         "url": "https://doope.jp/2026/04165687.html",
         "date": "2026-04-03",
         "is_translated": false
+      },
+      {
+        "title": "【Raccoin レビュー: Balatro がいかにクールだったかについてのコインプッシャー、...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事は、コインプッシャーゲーム「Raccoin」というタイトルのゲームを紹介しています。評価ポイントとしては、ゲームの遊びやすさや面白さ、そしてデザインのクールさが取り上げられています。具体的には、ゲームのキャラクターであるBalatroのクールな演出や、コインプッシャーの新しい要素などが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/raccoin-impressions/",
+        "date": "2026-04-03",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-03T09:52:58.442737"
+  "last_updated": "2026-04-03T13:18:11.270437"
 }
