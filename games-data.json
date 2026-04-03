@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Best of Boomer Shooters 5: Penta Boom",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Best of Boomer Shooters 5: Penta Boomというバンドルが販売中です。このバンドルには、Prodeus、Hellbound、Duskのようなアクション満点のシューティングゲームが含まれています。ジャンルは主にFPSです。価格帯は、およそ2,000円から3,000円程度で購入できるようです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/bestboomershooters5pentaboom_bundle",
-        "date": "2026-03-24"
-      },
-      {
         "title": "Humble 15 for $15 - Spring 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,102 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "CRIMSON DESERT",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームのCRIMSON DESERTがVariousでセール中です。このゲームは、美しい砂漠の世界を舞台に、戦闘や探索が楽しめる特徴があります。現在、セールのため割引価格で購入できます。ユーザーの評価は高く、人気のゲームとなっています。",
-        "price": "$69.99",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/crimson-desert/info/",
-        "date": "2026-03-27"
-      },
-      {
-        "title": "Chip ‘n Clawz vs. The Brainioids Friend's Pass",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Chip ‘n Clawz vs. The Brainioids Friend's Passがバラエティーなゲームとしてセール中です。このゲームは、ユニークなゲームプレイと面白いストーリーが特徴です。現在、Friend's Passが特別な価格で提供されており、友達と一緒にプレイすることができます。評価は非常に高く、ユーザーからの人気度も高いので、おすすめのゲームです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/chip-n-clawz-vs-the-brainioids-friends-pass/info/",
-        "date": "2026-03-27"
-      },
-      {
-        "title": "Outer Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Outer Wildsは、Outer WildsがVariousで24%オフのセール中です。これは、宇宙を舞台にしたアドベンチャーゲームで、プレイヤーが謎を解きながら宇宙を探索します。Metacriticでは92点と高い評価を受けており、多くのプレイヤーから高い人気を博しています。セール中の価格で購入することで、宇宙の秘密を解き明かすこのゲームを体験できます。",
-        "price": "$18.99",
-        "originalPrice": "",
-        "discount": "-24%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
-        "date": "2026-03-27"
-      },
-      {
-        "title": "The Last of Us™ Part I",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Last of Us Part Iは、ポストアポカリプティックの世界を舞台にしたアクションアドベンチャーゲームで、ストーリーとキャラクターが絶賛されています。現在、 Variousで42%の割引を受けられ、魅力的です。評価も非常に高く、人気のゲームとして知られています。",
-        "price": "$34.99",
-        "originalPrice": "",
-        "discount": "-42%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-last-of-us-part-i/info/",
-        "date": "2026-03-27"
-      },
-      {
-        "title": "Horizon Forbidden West Complete Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Horizon Forbidden West Complete Editionがバラエティーで35%オフのセール中です。このゲームは、アクションアドベンチャー系のオープンワールドゲームで、ロボットと人間が共存する未来世界を舞台に、主人公のアロイが世界を救うために戦うストーリーです。セール中の価格は非常に魅力的で、多くのユーザーから高い評価を受けています。",
-        "price": "$38.99",
-        "originalPrice": "",
-        "discount": "-35%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/horizon-forbidden-west-complete-edition/info/",
-        "date": "2026-03-27"
-      },
-      {
-        "title": "Marvel's Spider-Man Remastered",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Marvel's Spider-Man RemasteredがVariousで50%割引のセール中です。このアクションアドベンチャーゲームは、スパイダーマンの活躍を描き、グラフィックやゲームプレイが高く評価されています。通常価格から50%オフになるので、ファンや新規プレイヤーにもおすすめです。また、Metacriticなどのレビューサイトでは、高い評価を得ている人気ゲームです。",
-        "price": "$29.99",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
-        "date": "2026-03-27"
-      },
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "No Man's SkyがVariousで69%割引されています。このゲームは、オープンワールドのサンドボックス要素を備えたアクションアドベンチャーゲームで、プレイヤーは銀河を探索し、惑星を発見し、資源を採集することができます。ゲームのグラフィックとサウンドトラックは高く評価されていますが、リリース当初は批判も受けました。",
-        "price": "$18.89",
-        "originalPrice": "",
-        "discount": "-69%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-03-27"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サイバーパンク2077がバリアスで65%割引されています。サイバーパンク2077はアクションアドベンチャーゲームで、オープンワールドのゲームです。このゲームは、2077年の暗い未来世界を舞台に、プレイヤーがカスタマイズ可能なキャラクターを操作して、さまざまなミッションを遂行します。サイバーパンク2077は、高度なグラフィックスと壮大なストーリーにより、高い評価を得ています。",
-        "price": "$20.99",
-        "originalPrice": "",
-        "discount": "-65%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-03-27"
-      },
       {
         "title": "DEATH STRANDING DIRECTOR'S CUT",
         "platform": "Steam",
@@ -760,100 +652,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
         "date": "2026-04-02"
+      },
+      {
+        "title": "Vornyca",
+        "platform": "Various",
+        "type": "sale",
+        "description": "VornycaがVariousで現在100%割引のセール中です。このゲームはアクションアドベンチャー要素を含むロールプレイングゲームで、独自の世界観と魅力的なストーリーが特徴です。100%割引により、通常価格より大幅に安くなっています。ユーザーの評価は非常に高く、人気度も高いので、ゲームファンにはお勧めです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/vornyca/info/",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ロックスター・ゲームズが開発したオープンワールド・ウェスタン・アクションアドベンチャーゲームのRed Dead Redemption 2が、現在Variousで75%割引されています。このゲームは、壮大なストーリーとリアルなグラフィックで高い評価を受けており、多くのゲームファンに愛されています。",
+        "price": "$14.99",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-04-03"
       }
     ],
     "review": [
-      {
-        "title": "【AnimeJapan 2026】『FGO』ブースが豪華絢爛すぎ！公式コスプレイヤーの出迎えから第2部終章の振り返りまで、見どころをお届け【フォトレポート】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "AnimeJapan 2026では、FGOブースが豪華絢爛な内容で話題となりました。このレビュー記事では、公式コスプレイヤーの出迎えや第2部終章の振り返りなど、ブースの見どころを紹介しています。ゲームファンやFGOシリーズの愛好家にとっては、楽しい写真レポートが読める記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/29/179207.html",
-        "date": "2026-03-29",
-        "is_translated": false
-      },
-      {
-        "title": "【『アークナイツ：エンドフィールド』の「分岐型サブクエスト」を検証。やっぱり工業が楽しい。『ライ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『アークナイツ：エンドフィールド』の「分岐型サブクエスト」を検証したレビュー記事では、ゲームの評価ポイントとして工業の楽しさが際立っていることがわかります。この記事では、分岐型サブクエストの魅力やゲームのシステムなどについて詳細に紹介しています。特に、工業の要素やサブクエストの多様性がゲームの奥深さを感じさせると評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260329-433249/",
-        "date": "2026-03-29",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料『サカつく2026』をやり過ぎて「自分に何が足りないか」わからなくなり落ち込むス...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "サカつく2026は基本プレイ無料のゲームで、自由度の高いゲーム性が特徴です。このゲームの評価ポイントとしては、キャラクターのカスタマイズやチーム管理の深さが挙げられます。レビューでは、ゲームの魅力ややり込み要素について触れていますが、一方で、過度のプレイによりストレスを感じることもあると指摘されています。対象読者は、スポーツゲームやシミュレーションゲームが好きな人に適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260327-432850/",
-        "date": "2026-03-29",
-        "is_translated": false
-      },
-      {
-        "title": "【新たな対戦型FPS『Time Takers』CBT先行プレイ感想。“時間そのもの”が資源となる...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本レビュー記事では、新たな対戦型FPS「Time Takers」のクローズドベータテスト（CBT）に参加し、先行プレイした感想を紹介します。このゲームは、プレイヤーにとって新しい発見となる「時間そのもの」を資源として利用するユニークなシステムが特徴です。ゲームの評価ポイントとしては、革新的な時間管理システム、多様なキャラクターとステージ、そしてスムーズな操作性が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/time-takers-20260328-432917/",
-        "date": "2026-03-29",
-        "is_translated": false
-      },
-      {
-        "title": "【『Virtua Fighter 5 R.E.V.O. World Stage』Nintendo...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Virtua Fighter 5 R.E.V.O. World Stage』のレビュー記事では、このゲームの評価ポイントとして、グラフィックの高質さや、キャラクターのバリエーション豊富さ、対戦モードの充実度が高いことが挙げられています。また、ゲームの操作性や、ステージデザインの美しさも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/virtua-fighter-5-revo-world-stage-20260328-432916/",
-        "date": "2026-03-29",
-        "is_translated": false
-      },
-      {
-        "title": "【マラソンのレビュースコアは上昇傾向にあり、2026 年のゲームアワードへの出場が確実となっている】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "マラソンのレビュースコアは上昇傾向にあり、2026 年のゲームアワードへの出場が確実となっています。このゲームは、グラフィックの美しさ、魅力的で複雑なストーリー、プレイヤーの自由度の高さなど、多くの点で高く評価されています。ゲームの評価ポイントとしては、ゲームデザインの完成度やサウンドトラックの質も重要な要素です。ゲームファンやアクションゲームが好きな人には必見の作品です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/marathon-goty-the-game-awards-best-multiplayer-game/",
-        "date": "2026-03-29",
-        "is_translated": true
-      },
-      {
-        "title": "【Damon and Baby レビュー: めちゃくちゃ楽しい新しいメトロイドヴァニア シューター】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事は、メトロイドヴァニアシューターであるDamon and Babyについて紹介しています。このゲームは、めちゃくちゃ楽しい新しいゲームとして評価されており、ユニークなゲームプレイやグラフィックなどの特徴が高い評価を得ています。記事では、ゲームの評価ポイントとして、難易度の高いステージや多様な敵の存在などが紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/damon-and-baby-review/",
-        "date": "2026-03-29",
-        "is_translated": true
-      },
       {
         "title": "【『紅の砂漠』新アプデ後にSteam同接「27万人超え」。“伝説の動物”やボスも呼び出せる乗り物...：レビュー】",
         "platform": "AUTOMATON",
@@ -866,32 +691,6 @@
         "url": "https://automaton-media.com/articles/newsjp/20260330-433355/",
         "date": "2026-03-30",
         "is_translated": false
-      },
-      {
-        "title": "【新たな対戦型TPS『Time Takers』CBT先行プレイ感想。“時間そのもの”が資源となる...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "新たな対戦型TPS『Time Takers』のクローズドβテスト（CBT）に参加し、先行プレイした感想を紹介するレビュー記事です。このゲームは、プレイヤーが「時間」そのものを資源として利用することで、戦略的な対戦を楽しむことができます。記事では、ゲームの評価ポイントとして、ユニークな時間管理システム、多様なキャラクターのスキル、そして対戦モードのバリエーションについて触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/time-takers-20260328-432917/",
-        "date": "2026-03-29",
-        "is_translated": false
-      },
-      {
-        "title": "【マラソンのレビュースコアは上昇傾向にあり、2026 年のゲームアワードの候補に確定】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "マラソンのレビュースコアは上昇傾向にあり、2026年のゲームアワードの候補に確定しました。このゲームの評価ポイントとしては、グラフィックの美しさ、ストーリーの深さ、プレイ性の高さが挙げられます。レビューの内容概要としては、ゲームの世界観の広さやキャラクターの魅力、ゲームシステムの複雑さが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/marathon-goty-the-game-awards-best-multiplayer-game/",
-        "date": "2026-03-29",
-        "is_translated": true
       },
       {
         "title": "【キャラガチャなし基本プレイ無料ARPG『デュエットナイトアビス』、4月7日より新章開幕へ。新マ...】",
@@ -1399,8 +1198,60 @@
         "url": "https://www.pcgamer.com/hardware/ssds/teamgroup-mp44q-2-tb-nvme-ssd-review/",
         "date": "2026-04-02",
         "is_translated": true
+      },
+      {
+        "title": "【『SHINOBI 復讐の斬撃』DLC「セガ ヴィランズ ステージ」先行プレイ感想。「真島吾朗」...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『SHINOBI 復讐の斬撃』のDLC「セガ ヴィランズ ステージ」のレビュー記事では、ゲームの新しいステージやキャラクターの追加について評価しています。記事では、新しいステージのデザインや難易度について触れており、ファン向けのコンテンツとして高く評価しています。また、真島吾朗の追加についても言及しており、シリーズのファンには必見のコンテンツであると述べています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/shinobi-segavillains-20260403-434244/",
+        "date": "2026-04-02",
+        "is_translated": false
+      },
+      {
+        "title": "【人気“X-COM”ライク続編「Xenonauts 2」の製品版1.0が本日配信、リリーストレーラーも：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気ゲーム「X-COM」の影響を受けた続編「Xenonauts 2」の製品版がようやくリリースされました。このゲームは、エイリアンの侵略から地球を守るために戦うターン制戦略ゲームです。レビューでは、ゲームの評価ポイントとして、戦略的な深みやグラフィックの向上などが挙げられています。さらに、ゲームの難易度やリプレイ性も高く、戦略ゲームファンにはおすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165679.html",
+        "date": "2026-04-03",
+        "is_translated": false
+      },
+      {
+        "title": "【氷に覆われた惑星の絶景を紹介する「EXODUS」の新たなゲームプレイ映像が公開、新コンパニオンの姿も】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「EXODUS」の新しいゲームプレイ映像が公開されました。このゲームでは、美しく氷に覆われた惑星の景色を体験できます。レビュー記事では、ゲームのグラフィックの美しさや、新しいコンパニオンの魅力について評価しています。ゲームファンやSFを愛する人にはおすすめの記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165662.html",
+        "date": "2026-04-02",
+        "is_translated": false
+      },
+      {
+        "title": "【Mega Crit 共同創設者は、Slay the Spire 2 のベータ版バランス パッチ...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Mega Crit 共同創設者による最新のゲームレビュー記事「Slay the Spire 2 のベータ版バランス パッチのレビュー」では、ゲームのバランスや新しい機能の評価ポイントについて詳しく説明しています。記事では、ゲームの難易度調整や新しいキャラクターの追加など、ベータ版の変更点がレビューされています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/card-games/mega-crit-co-founder-says-he-wasnt-bothered-by-the-steam-backlash-to-slay-the-spire-2s-beta-balance-patch-its-difficult-for-players-to-feel-like-theyre-heard/",
+        "date": "2026-04-02",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-02T21:38:02.192272"
+  "last_updated": "2026-04-03T02:10:57.964183"
 }
