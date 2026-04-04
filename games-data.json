@@ -688,6 +688,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/depths-of-horror-mushroom-day/info/",
         "date": "2026-04-04"
+      },
+      {
+        "title": "Tractor Racers",
+        "platform": "Various",
+        "type": "sale",
+        "description": "レースゲーム「Tractor Racers」がバラエティーな要素を含み、現在100%割引でセール中です。このゲームはユニークなコンセプトと簡単な操作で人気を博しており、プレイヤーから高評価を得ています。セール期間中は完全無料で体験できるため、レースゲームファンや新しいゲームを探している人にはおすすめです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/tractor-racers/info/",
+        "date": "2026-04-04"
       }
     ],
     "review": [
@@ -1301,8 +1313,47 @@
         "url": "https://www.inside-games.jp/article/2026/04/04/179512.html",
         "date": "2026-04-04",
         "is_translated": false
+      },
+      {
+        "title": "【Steam版の発売2周年を迎えるショットガンロシアンルーレット「Buckshot Roulet...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Steam版の発売2周年を迎えるショットガンロシアンルーレット「Buckshot Roulette」のレビュー記事では、ゲームの評価ポイントとして、ユニークなゲームプレイ、グラフィックの品質、サウンドデザインの効果的な使用があげられます。また、レビューの内容概要として、ゲームの難易度の適切さ、再プレイ性の高さ、プレイヤーへの挑戦的要素が述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165723.html",
+        "date": "2026-04-04",
+        "is_translated": false
+      },
+      {
+        "title": "【『不滅の血脈』レビュー：最新作『ルパン三世』はアキラレベルのボディホラーに突入】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "最新作『ルパン三世』のレビュー記事「不滅の血脈」では、アキラのようなボディホラー要素が含まれていることが評価ポイントの1つとして挙げられています。ゲームの内容は、従来のシリーズとは一味違う恐怖体験を提供しているようです。対象読者は、ボディホラーファンや『ルパン三世』シリーズのファンにとって、興味深い記事となるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/lupin-the-iiird-the-movie-immortal-bloodline/",
+        "date": "2026-04-04",
+        "is_translated": true
+      },
+      {
+        "title": "【ワイルドハートの協力型 RPG プレビューでは、寓話にインスピレーションを得た D&D スタイ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ワイルドハートの協力型RPGプレビューは、寓話にインスピレーションを得たD&Dスタイルのゲームです。このレビュー記事では、ゲームの評価ポイントとして、ユニークなゲーム世界、スリリングな戦闘システム、そして協力プレイの深みを紹介しています。対象読者は、RPGファンやD&Dを愛する人たちで、ゲームのレビュー内容として、ゲームのストーリーやキャラクターの魅力も掘り下げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/wyldheart-demo-review-impressions/",
+        "date": "2026-04-04",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-04T13:10:08.794137"
+  "last_updated": "2026-04-04T21:31:39.236659"
 }
