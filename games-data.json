@@ -230,6 +230,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/march_2026_choice",
         "date": "2026-04-04"
+      },
+      {
+        "title": "Humble 15 for $15 - Spring 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble 15 for $15 - Spring 2026というバンドルが販売中です。このバンドルには、主に「Forager」、「West of Loathing」、「The Swapper」などのタイトルが含まれており、インディーゲームが中心のコンテンツです。価格は約2000円と大変お手頃で、インディーゲームファンにはおすすめのバンドルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/humble15for15spring2026_bundle",
+        "date": "2026-04-04"
+      },
+      {
+        "title": "Superhero 2 Tales Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、スーパーヒーローをテーマにした「Superhero 2 Tales Bundle」が販売中です。このバンドルには、主要タイトルとして「Superhero Quest」や「Hero's Journey」などのゲームが含まれています。アクションアドベンチャーやRPGなどのジャンルが特徴的です。大まかな価格帯は数百円から数千円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/superhero2-tales-bundle",
+        "date": "2026-04-04"
       }
     ],
     "sale": [
@@ -616,6 +640,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
         "date": "2026-04-03"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストがSteamで50%オフのセール中です。このゲームはオープンワールドアクションアドベンチャーのジャンルに属し、豊富なゲーム内容と高品質のグラフィックスが特徴です。現在の価格は大幅に割引されており、非常に魅力的です。グランド・セフト・オートシリーズは世界中で人気があり、高い評価を受けています。もし未プレイの方がいらっしゃる場合は、この機会にぜひお試しください。",
+        "price": "¥2,190",
+        "originalPrice": "¥4,380",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-04-04"
+      },
+      {
+        "title": "Borderlands 4",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Borderlands 4はVariousで現在48%オフのセール中です。このアクションパックされたFPSゲームは、ユニークなグラフィックと面白いキャラクターで人気を博しています。高評価を受けており、多くのプレイヤーから高い評価を得ています。価格も割引されており、通常よりも安く遊ぶことができます。FPSファンにはおすすめのゲームです。",
+        "price": "$36.11",
+        "originalPrice": "",
+        "discount": "-48%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/borderlands-4/info/",
+        "date": "2026-04-04"
+      },
+      {
+        "title": "TOMAK : Save the Earth Regeneration",
+        "platform": "Various",
+        "type": "sale",
+        "description": "TOMAK : Save the Earth Regenerationは、プラットフォームアクションゲームで、地球を救うためにさまざまなステージをクリアするという特徴があります。現在、Variousで100%割引されており、通常価格より大幅に安くなっています。このゲームは、ユーザーの評価が高く、人気度も高いことが特徴です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/tomak-save-the-earth-regeneration/info/",
+        "date": "2026-04-04"
       }
     ],
     "review": [
@@ -1190,8 +1250,47 @@
         "url": "https://doope.jp/2026/04165625.html",
         "date": "2026-04-04",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料・メカ少女タッグ3Dアクション『星の翼』PS5版、4月16日配信へ。「ブラック★...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "星の翼は、基本プレイ無料のメカ少女タッグ3Dアクションゲームです。PS5版が4月16日に配信される予定で、プレイヤーはさまざまなメカ少女を操作して戦闘を楽しむことができます。このゲームの評価ポイントとしては、グラフィックの美しさやアクションのスピード感が高いことが挙げられます。レビューの内容概要としては、ゲームの操作性やストーリーの魅力が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260404-434639/",
+        "date": "2026-04-04",
+        "is_translated": false
+      },
+      {
+        "title": "【ウォーレン・スペクター氏が開発を率いる新作ステルスゲーム「Thick As Thieves」の...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ウォーレン・スペクター氏が開発を率いる新作ステルスゲーム「Thick As Thieves」のレビュー記事では、ゲームの評価ポイントとして、ストーリーやキャラクターの魅力、ゲームプレイの奥深さなどが挙げられています。このレビューでは、ゲームの全体的な雰囲気や、プレイヤーが感じる感情の揺れなども説明されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165666.html",
+        "date": "2026-04-04",
+        "is_translated": false
+      },
+      {
+        "title": "【コスプレ】萌え袖セーター×お団子ヘアーの「初音ミク」が可愛すぎ！美脚も眩しい台湾美女コスプレイヤーに注目【写真7枚】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、台湾の美女コスプレイヤーが「初音ミク」のコスプレをしているところを紹介しています。彼女の萌え袖セーターとお団子ヘアーのコスプレは非常に可愛らしいです。また、美しい脚も見どころのひとつです。コスプレや初音ミクが好きな人には必見の記事です。記事には7枚の写真が掲載されており、コスプレイヤーの魅力を存分に楽しむことができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/04/04/179512.html",
+        "date": "2026-04-04",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-04T02:03:36.992471"
+  "last_updated": "2026-04-04T09:37:26.212823"
 }
