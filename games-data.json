@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Humble 15 for $15 - Spring 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは「Humble 15 for $15 - Spring 2026」というバンドルが販売中です。このバンドルには、ダンジョンズ＆ドラゴンズオンライン、Age of Wonders IV、Frostpunk 2などの主要タイトルが含まれています。ジャンルはアクション、ロールプレイング、シミュレーションなど多岐にわたり、バンドルの価格帯は約2000円ととてもお手頃です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/humble15for15spring2026_bundle",
-        "date": "2026-03-25"
-      },
-      {
-        "title": "Superhero 2 Tales Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Superhero 2 Tales Bundleというバンドルが販売中です。このバンドルには、スーパーヒーローをテーマにしたゲームが収録されています。主要タイトルとしては、スーパーヒーローを扱ったアクションゲームや、ヒーローを育成するシミュレーションゲームなどが含まれています。ジャンルはアクションやアドベンチャーに属し、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/superhero2-tales-bundle",
-        "date": "2026-03-25"
-      },
-      {
         "title": "The ESA All-Star Alliance Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -230,81 +206,33 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/multiplayermadness2026_bundle",
         "date": "2026-04-02"
+      },
+      {
+        "title": "2K Tactics & Tycoons",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、2K Tactics & Tycoonsのバンドルが販売中です。このバンドルには、XCOMシリーズ、Sid Meier's Civilizationシリーズ、Mafiaシリーズなどの主要タイトルが含まれています。ストラテジーやシミュレーションジャンルのゲームが中心となり、価格帯は500円から1,000円ほどです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/2ktacticstycoons_bundle",
+        "date": "2026-04-04"
+      },
+      {
+        "title": "March 2026 Humble Choice",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、2026年3月のHumble Choiceバンドルが現在販売中です。このバンドルには、「Dead Cells」や「Hades」などの人気タイトルが含まれています。ジャンルはアクションやアドベンチャーに重点を置いており、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/march_2026_choice",
+        "date": "2026-04-04"
       }
     ],
     "sale": [
-      {
-        "title": "DEATH STRANDING DIRECTOR'S CUT",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームであるDEATH STRANDING DIRECTOR'S CUTがSteamで65%オフのセール中です。このゲームは、独特のゲームプレイと美しいグラフィックで人気を博しており、高評価を得ています。通常価格より大幅に安くなっている今がチャンスですので、興味がある方はぜひこの機会にチェックしてみてください。",
-        "price": "¥1,743",
-        "originalPrice": "¥4,980",
-        "discount": "65% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1850570",
-        "date": "2026-03-28"
-      },
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストは、オープンワールドアクションアドベンチャーゲームです。現在、Steamで50% OFFセール中で、大幅な割引価格でプレイできます。このゲームは、高度なグラフィックと自由度の高いゲームプレイが特徴で、非常に人気があり、高評価を得ています。多くのユーザーから高い評価を得ているため、セール期間中に購入することをお勧めします。",
-        "price": "¥2,190",
-        "originalPrice": "¥4,380",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-03-28"
-      },
-      {
-        "title": "God of War",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームの『God of War』が、現在60%割引のセール中です。このゲームは、ハーディなアクションと壮大なストーリーで知られており、非常に高い評価を得ています。多くのゲームファンから人気があり、批評家からも高い評価を受けています。セール中の価格で購入するのは、ゲームファンにとってとても魅力的です。",
-        "price": "$19.99",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/god-of-war/info/",
-        "date": "2026-03-28"
-      },
-      {
-        "title": "Ghost of Tsushima DIRECTOR'S CUT",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「Ghost of Tsushima DIRECTOR'S CUT」がVariousで36%割引されています。このゲームは、美しい日本の風景と激しい戦闘シーンが特徴で、評価も非常に高い人気ゲームです。",
-        "price": "$38.60",
-        "originalPrice": "",
-        "discount": "-36%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
-        "date": "2026-03-28"
-      },
-      {
-        "title": "Havendock",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Havendockは、ストラテジーゲームとして知られており、現在Variousで100%割引セール中です。このゲームは、ユーザーから好評価を得ており、人気度も高いゲームとして知られています。セール中の価格は無料となっており、無料でプレイすることができます。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/havendock/info/",
-        "date": "2026-03-28"
-      },
-      {
-        "title": "The Outlast Trials",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "The Outlast TrialsがSteamで70% OFFセール中です。サバイバルホラーの要素を備えたこのゲームは、プレイヤーを恐怖の世界に引き込みます。通常価格から大幅な割引を受けることができるこのセールでは、多くのユーザーから高い評価を得ています。人気度も高く、ホラーゲームファンの中では特に人気が高いようです。セール期間中は、気になるユーザーが多く購入する機会となりそうです。",
-        "price": "¥1,350",
-        "originalPrice": "¥4,500",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1304930",
-        "date": "2026-03-28"
-      },
       {
         "title": "Hyper Echelon",
         "platform": "Various",
@@ -692,110 +620,6 @@
     ],
     "review": [
       {
-        "title": "【『紅の砂漠』新アプデ後にSteam同接「27万人超え」。“伝説の動物”やボスも呼び出せる乗り物...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『紅の砂漠』の新しいアプデ後に、Steamでの同時接続数が27万人を超えたと伝えられています。このゲームでは、「伝説の動物」やボスを呼び出せる乗り物が追加されており、プレイヤーはさらに多様なゲームプレイを楽しむことができます。レビューでは、このゲームの評価ポイントとして、グラフィックの美しさ、ゲームシステムの深さ、そして新しいコンテンツの充実度が挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260330-433355/",
-        "date": "2026-03-30",
-        "is_translated": false
-      },
-      {
-        "title": "【キャラガチャなし基本プレイ無料ARPG『デュエットナイトアビス』、4月7日より新章開幕へ。新マ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "最新のゲーム情報として、キャラガチャなしで基本プレイ無料のARPG『デュエットナイトアビス』の新章が4月7日より開幕することが発表されました。このゲームの評価ポイントとしては、独自のゲームシステムや美麗なグラフィックが高く評価されています。レビューでは、新しいキャラクターの追加やストーリーの展開が好評であったとされ、ゲームの世界観やサウンドトラックも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/duet-night-abyss-20260330-433384/",
-        "date": "2026-03-30",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamのある放置MMORPGで「重課金者のBAN処分」きっかけにレビュー爆撃が発生し、泥沼...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamで配信されているMMORPGゲームで、重課金者に対するBAN処分がきっかけとなり、レビュー爆撃が発生し、ゲームの評価ポイントは低下しています。このレビュー記事では、ゲームの課金システムや運営サイドの対応が批判されており、対象読者はMMORPGゲームのファンやゲーム開発者向けです。記事では、課金システムの不公平さや運営サイドの不誠実さなどが指摘されており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260330-433456/",
-        "date": "2026-03-30",
-        "is_translated": false
-      },
-      {
-        "title": "【MacBook Neoのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "MacBook Neoのレビュー記事では、デザインやパフォーマンス、バッテリーの持続時間などが評価ポイントとなっています。このレビューでは、新しいMacBook Neoの特徴や、ユーザー体験の改善点について詳しく紹介しています。また、価格やスペック、ユーザー層にも焦点を当てて、MacBook Neoがどのようなユーザーに適しているかを分析しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-laptops/macbook-neo-review/",
-        "date": "2026-03-30",
-        "is_translated": true
-      },
-      {
-        "title": "【佐山善則氏による「ガンダム」ディスプレイデザイン画集が発売―「閃光のハサウェイ」「UC」「TH...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "佐山善則氏による「ガンダム」ディスプレイデザイン画集が発売されました。この画集は「閃光のハサウェイ」や「UC」、「TH」のデザインを集めたもので、ガンダムシリーズのファン必見のアイテムとなります。評価ポイントとしては、デザインの細かい部分まで見える高品質なイラストが特徴です。また、ガンダムシリーズのレビュー記事では、作品の背景や設定も紹介されており、シリーズの魅力をさらに深めることができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/31/179280.html",
-        "date": "2026-03-30",
-        "is_translated": false
-      },
-      {
-        "title": "【Thermaltake View 380 WS ARGB レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Thermaltake View 380 WS ARGB レビューでは、ガラスサイドパネルの採用による優れた見た目や、ARGBライトの美しさ、そして高いクール링パフォーマンスが評価ポイントとなっています。さらに、レビューでは、組み立てやすさやケーブルの管理のしやすさも高く評価されています。PCケースを購入する際に参考にしたい方や、Thermaltakeの製品に興味がある方には。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/pc-cases/thermaltake-view-380-ws-argb-review/",
-        "date": "2026-03-30",
-        "is_translated": true
-      },
-      {
-        "title": "【スクリーマーのマルチプレイヤー チェイスは、レーサーのカオスな可能性を最大限に解き放ち、容赦な...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "スクリーマーのマルチプレイヤー チェイスは、レーサーのカオスな可能性を最大限に解き放ち、容赦ない激しいゲームプレイを提供します。このレビューでは、チェイスのマルチプレイヤーモード、キャラクターのカスタマイズ、レーストラックの多様性などを評価しています。また、ゲームのグラフィックやサウンドデザインも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/screamers-multiplayer-chases-unleash-the-racers-full-chaotic-potential-trapping-you-inside-a-relentlessly-boosty-bashy-and-boomy-washing-machine",
-        "date": "2026-03-30",
-        "is_translated": true
-      },
-      {
-        "title": "【Pokémon Champions のプレビューでは、個性を犠牲にした合理化された戦闘が示され...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Pokémon Champions のレビューでは、戦闘システムの合理化が個性を犠牲にしていることが指摘されています。このゲームの評価ポイントとして、戦闘のバランスと戦略の深み、キャラクターの個性が重要な要素です。対象読者は、ポケモンシリーズのファンやロールプレイングゲームを楽しむ人々向けのレビュー記事となります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/pokemon-champions-pax-east-2026-demo-review-impressions/",
-        "date": "2026-03-30",
-        "is_translated": true
-      },
-      {
         "title": "【人気協力マルチ対応山登りゲーム『PEAK』新アプデでついに“オートセーブ”実装。後で「途中から...：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -820,19 +644,6 @@
         "url": "https://doope.jp/2026/03165540.html",
         "date": "2026-03-31",
         "is_translated": false
-      },
-      {
-        "title": "【スクリーマーのマルチプレイヤー チェイスは、レーサーの混沌とし​​た可能性を最大限に解き放ち、...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "スクリーマーのマルチプレイヤー チェイスは、レーサーの混沌とした可能性を最大限に解き放つゲームです。このゲームの評価ポイントは、その高速なゲームプレイとスリルがあるレースコースです。レビューの内容概要としては、ゲームのマルチプレイヤー モードが非常に面白いことや、グラフィックの質が高いことが挙げられます。対象読者は、レースゲームやアクションゲームが好きな人に適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/screamers-multiplayer-chases-unleash-the-racers-full-chaotic-potential-trapping-you-inside-a-relentlessly-boosty-bashy-and-boomy-washing-machine",
-        "date": "2026-03-30",
-        "is_translated": true
       },
       {
         "title": "【PS Vita『NINJA GAIDEN Σ2 PLUS』、発売から13年越しに“トロコン達成...：レビュー】",
@@ -1353,8 +1164,34 @@
         "url": "https://www.polygon.com/slay-the-spire-2-new-modes-character-multiplayer-competitive/",
         "date": "2026-04-03",
         "is_translated": true
+      },
+      {
+        "title": "【明末期の壮絶アドベンチャー『泣き叫ぶ雁』人気炸裂のロケットスタート。大ヒットADV『飢えた子羊...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『泣き叫ぶ雁』は、明末期を舞台にした壮絶なアドベンチャーゲームで、大人気を博しています。このゲームの評価ポイントとしては、ストーリーの深み、キャラクターの個性、そしてグラフィックの美しさが挙げられます。レビューでは、ゲームの世界観やキャラクターの設定が高く評価されています。対象読者としては、アドベンチャーゲームファンや歴史ドラマ好きの方にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260404-434601/",
+        "date": "2026-04-04",
+        "is_translated": false
+      },
+      {
+        "title": "【人気タクティカルアクションシリーズ最新作「Intravenous 3」がアナウンス、ゲームプレ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気タクティカルアクションシリーズの最新作「Intravenous 3」が発表されました。このゲームは、スリリングなアクションと戦略的なプレイが特徴で、シリーズのファンには必見です。レビューでは、グラフィックの向上や新しいキャラクターの追加などが評価ポイントとして挙げられています。また、シナリオの深みやサウンドトラックの質も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165625.html",
+        "date": "2026-04-04",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-03T21:34:42.199260"
+  "last_updated": "2026-04-04T02:03:36.992471"
 }
