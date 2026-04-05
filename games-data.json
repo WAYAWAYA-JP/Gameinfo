@@ -700,6 +700,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/582010",
         "date": "2026-04-05"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ノーマンズスカイがバリュー店で69%オフのセール中です、このアクションアドベンチャーゲームは、宇宙を自由に探索でき、様々な惑星や生物を発見することができます。現在の価格は大幅に割引されており、非常に安い価格で購入することができます。ゲームの評価は一般的に高く、多くのユーザーから好評価を得ています。また、ゲームのグラフィックやサウンドトラックも高く評価されており。",
+        "price": "$18.89",
+        "originalPrice": "",
+        "discount": "-69%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-04-05"
       }
     ],
     "review": [
@@ -1261,8 +1273,21 @@
         "url": "https://www.inside-games.jp/article/2026/04/05/179539.html",
         "date": "2026-04-05",
         "is_translated": false
+      },
+      {
+        "title": "【スーパーマリオギャラクシームービーには悪いレビューを擁護する必要はない】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "スーパーマリオギャラクシーの映画化に対する悪評を擁護する必要はないと指摘するレビュー記事があります。この記事では、映画のグラフィックやサウンドトラック、ストーリーの面で評価ポイントを示しています。また、ゲームファンや映画ファンの両方にとって、映画の評価や期待感について興味深い内容を提供しています。ゲームや映画のレビューに興味がある方にはおすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/patch-notes-super-mario-galaxy-movie/",
+        "date": "2026-04-05",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-05T13:12:06.364026"
+  "last_updated": "2026-04-05T21:31:59.535838"
 }
