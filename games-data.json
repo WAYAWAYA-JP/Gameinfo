@@ -258,30 +258,6 @@
     ],
     "sale": [
       {
-        "title": "Hyper Echelon",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Hyper Echelonは、 Variousで-100%セール中です。シミュレーションゲームとして知られており、特徴的なゲームプレイが楽しめます。現在、通常価格より100%割引されており、魅力的です。高い評価と人気度を誇り、多くのユーザーに支持されています。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hyper-echelon/info/",
-        "date": "2026-03-29"
-      },
-      {
-        "title": "Symmetry",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Symmetryはパズルアドベンチャーゲームで、美しいグラフィックと独特のゲームプレイが特徴です。現在、Variousで100%割引のセール中で、無料でプレイできます。このゲームは、ユーザーの評価が高く、人気度も高いゲームです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/symmetry/info/",
-        "date": "2026-03-29"
-      },
-      {
         "title": "Kerbal Space Program",
         "platform": "Steam",
         "type": "sale",
@@ -700,139 +676,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/tractor-racers/info/",
         "date": "2026-04-04"
+      },
+      {
+        "title": "Clone Drone in the Danger Zone",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲーム「Clone Drone in the Danger Zone」がバリエーションストアで100%割引のセール中です。このゲームは、ロボットを操作して様々な危険な状況を切り抜けるというユニークなコンセプトが特徴で、ファンから高い評価を得ています。現在は完全無料でプレイできるので、興味がある方はぜひこの機会にチェックしてみてください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clone-drone-in-the-danger-zone/info/",
+        "date": "2026-04-05"
       }
     ],
     "review": [
-      {
-        "title": "【人気協力マルチ対応山登りゲーム『PEAK』新アプデでついに“オートセーブ”実装。後で「途中から...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "人気の協力マルチ対応山登りゲーム『PEAK』が新しいアップデートでオートセーブ機能を実装しました。このゲームの評価ポイントは、協力プレイの楽しさやグラフィックの美しさなどです。レビューの内容としては、ゲームの面白さや操作のしやすさが高く評価されています。また、オートセーブ機能の追加により、途中からプレイを継続することが容易になりました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/peak-20260331-433537/",
-        "date": "2026-03-31",
-        "is_translated": false
-      },
-      {
-        "title": "【3種のプレイアブル勢力を導入する「Old World」の新DLC“Empires of the...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、ストラテジーゲーム「Old World」の新DLC「Empires of the」について取り上げています。このDLCでは、3種のプレイアブル勢力が導入され、ゲームの深みと幅がさらに増しました。この記事では、ゲームの評価ポイントとして、勢力のバリエーション、戦略の複雑さ、ゲームの再現性について触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165540.html",
-        "date": "2026-03-31",
-        "is_translated": false
-      },
-      {
-        "title": "【PS Vita『NINJA GAIDEN Σ2 PLUS』、発売から13年越しに“トロコン達成...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "PS Vitaの『NINJA GAIDEN Σ2 PLUS』は、発売から13年越しにトロフィーコンポリウムを達成したというレビュー記事です。このゲームの評価ポイントとして、難しいながらも達成感のあるトロフィーのコレクションや、ゲームのグラフィックとサウンドの高さが挙げられます。さらに、レビューではゲームの操作性やストーリーの面白さも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260331-433631/",
-        "date": "2026-03-31",
-        "is_translated": false
-      },
-      {
-        "title": "【映画“ハロウィン”シリーズをビデオゲーム化する4vs1ホラーサンドボックス「Halloween...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、映画「ハロウィン」シリーズをビデオゲーム化した4vs1ホラーサンドボックス「Halloween」というゲームの評価を紹介しています。評価ポイントとしては、ホラーゲームとしての緊張感、映画シリーズの世界観の再現度、そして4vs1の対戦モードの面白さが挙げられます。レビューの内容は、ゲームの雰囲気やサウンドデザインの怖さ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165518.html",
-        "date": "2026-03-31",
-        "is_translated": false
-      },
-      {
-        "title": "【今も高い人気を誇るVRMMO「Rec Room」のサービス終了がアナウンス、サーバ閉鎖は202...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "人気のVRMMO「Rec Room」のサービス終了がアナウンスされ、サーバ閉鎖も202年と発表されました。このゲームの評価ポイントとしては、ユーザーが自由にアクティビティを作成してプレイできる点や、多様なゲームモードが用意されている点が挙げられます。レビューでは、ゲームの長所として、ユーザーの創造性を引き出すことができる点や、ゲーム内のコミュニティが活発である点が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/03165544.html",
-        "date": "2026-03-31",
-        "is_translated": false
-      },
-      {
-        "title": "【【特集】コスプレ写真のレタッチがしんどい全人類へ！編集時間1/3になるAIアプリ「Evoto」...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事は、コスプレ写真のレタッチを効率化するAIアプリ「Evoto」の評価ポイントを紹介しています。記事では、Evotoの使い勝手や編集時間の短縮効果について言及されており、コスプレ愛好家や写真編集者にとって非常に有用な情報が含まれています。特に、編集時間が3分の1まで短縮される点が評価されており、忙しい人や編集スキルがあまりない人にもおすすめできるアプリです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/31/179319.html",
-        "date": "2026-03-31",
-        "is_translated": false
-      },
-      {
-        "title": "【「優れたアイデアが光るが、当時の時代感やハードウェアの制約は隠しきれていない」海外レビューひと...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このゲームは、優れたアイデアが光るものですが、当時の時代感やハードウェアの制約が隠しきれない点があります。これについては、海外レビューでも指摘されています。具体的には、グラフィックの限界やゲームプレイの古さが目立ちますが、逆にこれが魅力ともなっています。対象読者はレトロゲームファンやゲーム史に興味のある人です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/03/31/179325.html",
-        "date": "2026-03-31",
-        "is_translated": false
-      },
-      {
-        "title": "【Asus ROG Crosshair X870E Glacial レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Asus ROG Crosshair X870E Glacialは、高性能なマザーボードとして注目を集めています。このレビュー記事では、ゲームプレイ時のパフォーマンスやオーバークロック機能、拡張性などの評価ポイントを詳しく紹介しています。また、記事では、マザーボードの特徴やスペック、設置の難易度などについても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/motherboards/asus-rog-crosshair-x870e-glacial-review/",
-        "date": "2026-03-31",
-        "is_translated": true
-      },
-      {
-        "title": "【主なき暗殺者“アカリ”のゲームプレイを紹介する「2XKO」の新トレーラーが公開、解禁は4月8日】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「2XKO」の新トレーラーが公開されました。このゲームでは、主なき暗殺者「アカリ」のゲームプレイが紹介されています。このトレーラーは4月8日に解禁される予定です。このレビュー記事では、ゲームの評価ポイントとして、ゲームプレイの面白さやグラフィックの質、ストーリーの深さを紹介しています。また、対象読者として、ゲームファンやアクションゲーム好きの方にオススメしています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165564.html",
-        "date": "2026-03-31",
-        "is_translated": false
-      },
-      {
-        "title": "【スーパーマリオギャラクシー映画レビュー: 混沌としたカメオ出演の続編】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "スーパーマリオギャラクシー映画のレビュー記事では、混沌としたカメオ出演が続く続編であると評価しています。このレビューでは、映画のストーリー、キャラクターの個性、映像表現などの点が評価されています。特に、映画のファンやゲーム好きの方には、興味深い内容になっていると思います。映画の評価ポイントとして、キャラクターの設定や世界観の構築、楽しくて軽快なストーリー展開などが挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/super-mario-galaxy-movie-review/",
-        "date": "2026-03-31",
-        "is_translated": true
-      },
       {
         "title": "【Ubisoftが「『ザ クルー』のサービス終了＆プレイ不能」を巡って消費者団体に訴えられる。“...】",
         "platform": "AUTOMATON",
@@ -896,19 +754,6 @@
         "deadline": "",
         "url": "https://www.pcgamer.com/movies-tv/super-mario-galaxy-movie-reviews-are-in-and-surprise-its-execrable-churn/",
         "date": "2026-04-01",
-        "is_translated": true
-      },
-      {
-        "title": "【エーテルと鉄のレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "エーテルと鉄のレビューは、ゲームの評価ポイントとしてグラフィックやサウンド、ストーリーの面白さを重点的に紹介しています。レビューの内容概要としては、ゲームの操作性や難易度の適切さ、そしてゲームの世界観の豊かさについて触れています。また、ゲームのストーリーやキャラクターの魅力も高く評価しています。このレビューは、ゲームに興味がある人や、新しいゲームを探している人にとって。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/aether-and-iron-review/",
-        "date": "2026-03-31",
         "is_translated": true
       },
       {
@@ -1352,8 +1197,34 @@
         "url": "https://www.polygon.com/wyldheart-demo-review-impressions/",
         "date": "2026-04-04",
         "is_translated": true
+      },
+      {
+        "title": "【『Slay the Spire 2』は“プレイ以外”も超楽しい。コイン落としローグライク『RA...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Slay the Spire 2』は、プレイヤーがカードやアイテムを駆使してダンジョンを攻略するローグライクゲームで、ゲームの評価ポイントとしては、戦略的で深いシステムや、プレイヤーの選択によって変わる多様な展開が魅力です。レビューの内容概要としては、ゲームのリプレイ性やカードのバランスが評価されます。対象読者としては、ローグライクゲームやカードゲームのファンにすすめます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260405-434767/",
+        "date": "2026-04-05",
+        "is_translated": false
+      },
+      {
+        "title": "【『ライフ イズ ストレンジ リユニオン』は初代作のファンにこそプレイしてほしい。人生は奇妙なだ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ライフ イズ ストレンジ リユニオン』は初代作のファンにこそプレイしてほしいゲームです。このゲームの評価ポイントとしては、ストーリーの深みやキャラクターの成長が挙げられます。レビューの内容概要としては、ゲームの世界観や物語の展開が高く評価されています。また、ゲームのテーマが人生の奇妙な部分に焦点を当てている点も特徴的です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/life-is-strange-reunion-20260403-434358/",
+        "date": "2026-04-05",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-04T21:31:39.236659"
+  "last_updated": "2026-04-05T02:25:08.487394"
 }
