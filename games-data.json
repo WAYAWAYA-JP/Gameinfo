@@ -688,6 +688,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clone-drone-in-the-danger-zone/info/",
         "date": "2026-04-05"
+      },
+      {
+        "title": "モンスターハンター：ワールド",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "モンスターハンター：ワールドは、Steamで74%オフのセール中です。このゲームは、アクションRPGのジャンルに属し、モンスターハンターシリーズの最新作として人気を博しています。プレイヤーは、さまざまな武器やスキルを使って、強大なモンスターと戦うことができます。ゲームの評価は非常に高く、多くのプレイヤーから好評を博しています。",
+        "price": "¥777",
+        "originalPrice": "¥2,990",
+        "discount": "74% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/582010",
+        "date": "2026-04-05"
       }
     ],
     "review": [
@@ -1252,5 +1264,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-05T09:38:22.678504"
+  "last_updated": "2026-04-05T13:12:06.364026"
 }
