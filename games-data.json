@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "The ESA All-Star Alliance Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleで「The ESA All-Star Alliance Bundle」というバンドルが現在販売中です。このバンドルには、「The Surge」や「The Surge 2」などのアクションゲームや「Vermintide 2」などのファンタジー系ゲームが含まれています。ジャンルはアクションやファンタジーが中心です。価格帯はおよそ1,000円から3,000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/alisteralliancebundle_bundle",
-        "date": "2026-03-27"
-      },
-      {
-        "title": "Sekai Project 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Sekai Project 2026のバンドルがHumble Bundleで販売中です。このバンドルには、「Root Letter」や「London Detective Mysteria」などの主要タイトルが含まれています。ジャンルはビジュアルノベルを中心に構成されており、大まかな価格帯は1,000円から2,000円です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/sekaiproject2026_bundle",
-        "date": "2026-03-27"
-      },
-      {
         "title": "Geeks & Chicks Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -257,78 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Kerbal Space Program",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Kerbal Space ProgramがSteamで75% OFFセール中です。このゲームは、宇宙開発をテーマにしたシミュレーションゲームで、プレイヤーが自作の宇宙船を設計して宇宙へ打ち上げることができます。シミュレーションゲームとしての特徴は、物理エンジンを用いたリアルな宇宙空間の表現と、自由度の高い宇宙船の設計が可能です。現在の価格は大幅に割引されており、非常に魅力的なゲームです。",
-        "price": "¥1,237",
-        "originalPrice": "¥4,950",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/220200",
-        "date": "2026-03-30"
-      },
-      {
-        "title": "Pacific Drive",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Pacific Driveは、 Variousで65%の割引を受けて販売中です。このゲームは、スリリングなドライブ体験を提供するアクションアドベンチャーゲームであり、多くのユーザーから高い評価を 받っています。現在、通常価格よりも大幅に安い価格で購入することができ、ゲームファンにはおすすめのタイトルです。",
-        "price": "$10.64",
-        "originalPrice": "",
-        "discount": "-65%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/pacific-drive/info/",
-        "date": "2026-03-30"
-      },
-      {
-        "title": "Vampire: The Masquerade® - Bloodlines™ 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションRPGゲームであるVampire: The Masquerade - Bloodlines 2が現在、35%割引のセール中です。このゲームは、バンパイアの世界を舞台に、プレイヤーがさまざまな選択肢を選んで物語を進めることができます。高く評価されているこのゲームは、ファンから人気を博しており、セール期間中はお得に購入することができます。",
-        "price": "$38.99",
-        "originalPrice": "",
-        "discount": "-35%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/vampire-the-masquerade-bloodlines-2/info/",
-        "date": "2026-03-30"
-      },
-      {
-        "title": "ASTRONEER",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ASTRONEERがSteamで75% OFFのセール中です。このゲームは、サンドボックスとアドベンチャー要素を組み合わせた、宇宙探検をテーマにしたゲームで、プレイヤーは惑星を探索し、資源を収集し、宇宙ステーションを建設することができます。現在の価格は大幅に割引されており、非常に人気の高いゲームです。Steamユーザーから非常に高い評価を得ていて、多くのプレイヤーから好評価を得ています。",
-        "price": "¥875",
-        "originalPrice": "¥3,500",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/361420",
-        "date": "2026-03-30"
-      },
-      {
-        "title": "Hogwarts Legacy",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Hogwarts Legacyは、オープンワールドアクションRPGのジャンルで人気を博しています。このゲームは、ハリー・ポッターの魔法世界を舞台に、プレイヤーが魔法使いとなり、ホグワーツ魔法学校で様々な冒険を体験できる特徴があります。現在、Variousで87%の割引が適用されており、非常に魅力的な価格で購入できます。ゲームの評価は高く、ファンからの人気度も高いと言えるでしょう。",
-        "price": "$7.52",
-        "originalPrice": "",
-        "discount": "-87%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
-        "date": "2026-03-30"
-      },
-      {
-        "title": "Deliver At All Costs",
-        "platform": "Various",
-        "type": "sale",
-        "description": "「Deliver At All Costs」は、バラエティ豊かなゲームです。現在、61%オフのセール中で、格安でプレイできます。このゲームは、ユニークなゲームプレイと面白い要素で人気があり、多くのユーザーから高く評価されています。",
-        "price": "$11.69",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/deliver-at-all-costs/info/",
-        "date": "2026-03-30"
-      },
       {
         "title": "Old World オールド・ワールド",
         "platform": "Steam",
@@ -715,123 +619,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【Ubisoftが「『ザ クルー』のサービス終了＆プレイ不能」を巡って消費者団体に訴えられる。“...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Ubisoftのゲーム「ザ クルー」がサービス終了となりプレイ不能になったことを巡って消費者団体から訴えられているという記事があります。このゲームの評価ポイントとしては、グラフィックやゲームシステムが評価されていましたが、サービス終了によりプレイすることができなくなったことは大きな欠点です。ゲームのレビューでは、グラフィックの美しさやゲーム性の面白さが高く評価されていますが。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260401-433849/",
-        "date": "2026-04-01",
-        "is_translated": false
-      },
-      {
-        "title": "【高い評価を獲得した「Dispatch」の販売が累計400万本を突破、スーパーヒーロー派遣センタ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "人気ゲーム「Dispatch」は高い評価を獲得し、販売本数が400万本を突破しました。このゲームはスーパーヒーローを派遣して様々なミッションをクリアするという独特のゲーム系统が特徴です。レビューでは、ゲームのシステムやグラフィックの高さが評価されています。また、スーパーヒーローが登場することから、スーパーヒーローファンやアクションゲーム好きの方に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165592.html",
-        "date": "2026-04-01",
-        "is_translated": false
-      },
-      {
-        "title": "【高い評価を獲得した南部ゴシックファンタジーアクション「South of Midnight」のP...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "南部ゴシックファンタジーアクション「South of Midnight」の評価は非常に高いです。このゲームのレビューでは、独自の世界観や豊富なキャラクター、そしてスリリングなアクションシーンが評価ポイントとして挙げられています。また、ゲームのストーリーやゲームプレイの面でも高く評価されています。このレビューは、ファンタジーやアクションゲームを愛する読者にとって。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165588.html",
-        "date": "2026-04-01",
-        "is_translated": false
-      },
-      {
-        "title": "【「ドラゴンボールZ」青年時代の仲睦まじい「孫悟空＆チチ」が10年振りに再登場！バイクは細かなパ...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事は、人気ゲーム「ドラゴンボールZ」における青年時代の孫悟空とチチの再登場について取り上げています。細かなパーツまで再現されたバイクや、キャラクターのデザインなどが評価ポイントとして挙げられています。また、ゲームのストーリーやキャラクターの設定についても触れており、ドラゴンボールシリーズのファンやアクションゲームが好きな読者にとっては興味深い記事であると思います。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/04/01/179349.html",
-        "date": "2026-04-01",
-        "is_translated": false
-      },
-      {
-        "title": "【『スーパー マリオ ギャラクシー』映画のレビューが到着、そして驚き: 信じられないほどの混乱だ】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "『スーパー マリオ ギャラクシー』の映画レビューが公開され、驚くほどの評価ポイントが見つかりました。このレビューでは、映画の内容、グラフィックの質、物語の面白さなどが高く評価されています。特に、マリオの冒険的な旅が綿密に描かれ、映画の雰囲気を引き立てていることが挙げられています。このレビューは、映画ファンやマリオシリーズの愛好家にとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/movies-tv/super-mario-galaxy-movie-reviews-are-in-and-surprise-its-execrable-churn/",
-        "date": "2026-04-01",
-        "is_translated": true
-      },
-      {
-        "title": "【Epic Gamesのレイオフで、Unreal Engine 5の「カメラ制御機能」を“たった...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Epic Gamesのレイオフにより、Unreal Engine 5の「カメラ制御機能」についての記事を紹介します。この記事では、カメラ制御機能の新しいアップデートや、レイオフの影響について詳しく説明しています。ゲーム開発者やUnreal Engine 5を使用しているユーザーにとって、参考になる情報が含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/epic-games-20260401-434003/",
-        "date": "2026-04-01",
-        "is_translated": false
-      },
-      {
-        "title": "【『エルデンリング』の有名“強すぎ全裸ツボ”プレイヤー、なんと「マレニアに負けた」とほのめかしコ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "人気ゲーム『エルデンリング』をプレイするユーザーの中には、全裸で挑む「全裸ツボ」プレイヤーがいます。彼らは、ゲームの難易度を高める代わりに、独自の楽しみ方を楽しんでいます。最近、有名な全裸ツボプレイヤーが、マレニアという強敵に敗れたことをほのめかしており、ゲームファンの間で話題になっています。このレビュー記事は、ゲームの評価ポイントやプレイヤーの戦略などを紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260401-433979/",
-        "date": "2026-04-01",
-        "is_translated": false
-      },
-      {
-        "title": "【人気密林MMOシューター『Gray Zone Warfare』“過去最大”アプデで「同接約3万...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "人気のオンラインゲーム『Gray Zone Warfare』が大規模なアップデートを実施し、最大3万人同時接続が可能になりました。このアップデートでは、新しいマップやゲームモードが追加され、プレイヤーの体験が大幅に向上しています。ゲームの評価ポイントとしては、スムーズなゲーム性やリアルなグラフィックが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/gray-zone-warfare-20260401-433978/",
-        "date": "2026-04-01",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料“ガチャ1回32円”格安RPG『オリアカ：ライト』、本日リリース。天井はたったの...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料のRPGゲーム「オリアカ：ライト」は、1回のガチャが32円という格安な価格設定で注目を集めています。このゲームの評価ポイントとしては、キャラクターの育成システムやストーリーの展開が特に高く評価されています。また、ゲームのレビューでは、簡単な操作性や魅力的なグラフィックも称賛されています。このレビューは、RPGゲームファンや新規参入者に向けて、ゲームの魅力を紹介します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/oriakalite-20260401-433949/",
-        "date": "2026-04-01",
-        "is_translated": false
-      },
       {
         "title": "【ファンタジー都市の政治的陰謀と初の選挙を描くD&Dルール採用“ディスコ”ライクCRPG「Eso...：レビュー】",
         "platform": "doope!",
@@ -1286,8 +1073,34 @@
         "url": "https://www.polygon.com/patch-notes-super-mario-galaxy-movie/",
         "date": "2026-04-05",
         "is_translated": true
+      },
+      {
+        "title": "【10周年を迎えた人気弾幕シューティングローグライト「Enter the Gungeon」のプレ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気弾幕シューティングゲーム「Enter the Gungeon」が10周年を迎えました。このゲームはローグライト要素を取り入れたユニークなゲームプレイが特徴で、プレイヤーは様々な敵と戦いながらアイテムを集めていきます。このレビューでは、ゲームの評価ポイントとして、ゲームの難易度や繰り返しプレイ性、グラフィックの魅力などを取り上げています。また、ゲームのシステムや操作感も紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165727.html",
+        "date": "2026-04-05",
+        "is_translated": false
+      },
+      {
+        "title": "【『R6S』モバイル版の大会「虹モバストリーマーフェス」が開催！Appleの12キル、Greed...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "この記事は、人気ゲーム『レインボーシックスシージ』のモバイル版の大会「虹モバストリーマーフェス」の開催について取り上げています。大会の内容や、参加チームの活躍などが紹介されています。特に、Appleチームの12キルやGreed...チームの活躍が目立ちます。この記事は、ゲームファンやeスポーツに関心がある方に興味がありそうです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/04/06/179549.html",
+        "date": "2026-04-06",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-05T21:31:59.535838"
+  "last_updated": "2026-04-06T02:26:27.188120"
 }
