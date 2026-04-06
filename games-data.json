@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/superhero2-tales-bundle",
         "date": "2026-04-04"
+      },
+      {
+        "title": "Sekai Project 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Sekai Project 2026のバンドルがHumble Bundleで販売中です。このバンドルには、主要タイトルとして「ネコパラシリーズ」や「ロンド・リューンローゼ」などが含まれています。ジャンルは主にビジュアルノベルやアドベンチャーゲームです。大まかな価格帯は10ドルから30ドル程度と予想されます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/sekaiproject2026_bundle",
+        "date": "2026-04-06"
       }
     ],
     "sale": [
@@ -616,6 +628,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-04-05"
+      },
+      {
+        "title": "Hell is Us",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「Hell is Us」が、Variousで63%オフのセール中です。このゲームは、ユニークなゲームプレイとグラフィックで注目を集めています。現在の価格は割引前と比べて大幅に安くなっています。ユーザーの評価は高く、人気のゲームとして知られていますので、興味がある方は今すぐチェックしてみてください。",
+        "price": "$18.49",
+        "originalPrice": "",
+        "discount": "-63%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hell-is-us/info/",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "Hogwarts Legacy",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Hogwarts Legacyは、オープンワールドアクションアドベンチャーゲームです。このゲームでは、魔法学校ハogwartsを舞台に、プレイヤーは自分だけのキャラクターを作成して魔法の世界を体験できます。現在、16%割引で販売中です。評価も高く、人気ゲームとして注目を集めています。",
+        "price": "$50.39",
+        "originalPrice": "",
+        "discount": "-16%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
+        "date": "2026-04-06"
       }
     ],
     "review": [
@@ -1099,8 +1135,86 @@
         "url": "https://www.inside-games.jp/article/2026/04/06/179549.html",
         "date": "2026-04-06",
         "is_translated": false
+      },
+      {
+        "title": "【特大規模オープンワールド『紅の砂漠』、早くもトロコンする猛者たち現る。2週間で“数百時間以上”...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、特大規模オープンワールドゲーム「紅の砂漠」のプレイレビューについて紹介しています。ゲームの評価ポイントとして、広大なオープンワールドの魅力や、豊富なゲーム内容が挙げられます。レビューの内容概要としては、2週間で数百時間以上プレイした猛者たちの体験談や、ゲームの完成度の高さが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260406-434943/",
+        "date": "2026-04-06",
+        "is_translated": false
+      },
+      {
+        "title": "【『鳴潮』のすごそうな技術表現を、専門家に聞いてみた。モーニエは“自分はやりたくない”、ツバキも...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム「鳴潮」の技術表現に対する専門家の評価を紹介しています。モーニエやツバキなどのキャラクターの表現が評価ポイントになっています。ゲームのグラフィックやキャラクターの動きなどがリアルで高品質なものになっていることを専門家が評価しているようです。このレビューは、ゲーム好きやグラフィックへのこだわりがある方が読むのに適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/columnjp/wuwa-20260406-434901/",
+        "date": "2026-04-06",
+        "is_translated": false
+      },
+      {
+        "title": "【『地球防衛軍6』全世界隊員「100万人」突破。発売から3年半、じわじわ伸び続ける：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "地球防衛軍6は、発売から3年半が経過した今もじわじわと人気が伸び続けており、全世界の隊員数が100万人を突破しました。このゲームの評価ポイントとして、快適なゲームプレイや豊富なコンテンツが挙げられます。また、レビューでは、協力プレイやグラフィックの質の高さも高く評価されています。このゲームは、協力プレイを楽しむファンやアクションゲーム好きの方に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260406-434902/",
+        "date": "2026-04-06",
+        "is_translated": false
+      },
+      {
+        "title": "【オープンワールド世界の探索や素材の収集とクラフトを紹介する「アウトバウンド」のプレビュー映像が...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「アウトバウンド」のプレビュー映像のレビュー記事では、オープンワールド世界の探索や素材の収集、クラフトシステムなどのゲームの評価ポイントが紹介されています。ゲームの自由度やグラフィックの美しさが高く評価されており、オープンワールドゲームのファンにとっては必見の記事です。また、ゲームのシステムやストーリーの概要も簡潔にまとめられているため。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165750.html",
+        "date": "2026-04-06",
+        "is_translated": false
+      },
+      {
+        "title": "【スター・ウォーズ モール・シャドウ・ロード レビュー: 最高のシスの凱旋】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "スター・ウォーズ モール・シャドウ・ロードのレビュー記事「スター・ウォーズ モール・シャドウ・ロード レビュー: 最高のシスの凱旋」では、ゲームの評価ポイントとして、ゲームのストーリーやキャラクターの深み、ゲームプレイの楽しさが高く評価されています。記事では、ゲームのレビューの内容概要として、ゲームの世界観やサウンドトラックの素晴らしさ、キャラクターの成長システムの面白さについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/star-wars-maul-shadow-lord-review/",
+        "date": "2026-04-06",
+        "is_translated": true
+      },
+      {
+        "title": "【Faces of Death 2026 レビュー: Eemake は賢く、よく作られており、そ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Faces of Death 2026 のレビュー記事では、このゲームの評価ポイントとして、賢いゲームデザインや優れた制作クオリティが挙げられています。また、レビューの内容概要として、ゲームのストーリーやゲームプレイの面白さが高く評価されています。この記事は、ホラーゲームファンや新しいゲームを探している人にとって、参考になる情報を提供する内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/faces-of-death-2026-remake-review/",
+        "date": "2026-04-06",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-06T02:26:27.188120"
+  "last_updated": "2026-04-06T10:08:56.370821"
 }
