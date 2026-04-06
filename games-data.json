@@ -652,6 +652,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
         "date": "2026-04-06"
+      },
+      {
+        "title": "サブノーティカ：ビロウゼロ",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サブノーティカ：ビロウゼロは、Steamで現在75%オフのセール中です。このゲームは、水中を探索するサバイバルアクションゲームで、未知の海底世界を発見することができます。高い評価と人気度を誇るこのゲームは、通常価格よりも大幅に安くなっていますので、注目されたいと思います。",
+        "price": "¥1,075",
+        "originalPrice": "¥4,300",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/848450",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "Outer Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Outer WildsがVariousで40%オフのセール中です。このゲームは、宇宙を探索するアドベンチャーゲームで、プレイヤーが謎を解くために惑星を移動します。評価も高く、多くのユーザーが好意的に評価しています。価格が割引されるので、興味がある方は今がチャンスです。",
+        "price": "$14.95",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "Manor Lords",
+        "platform": "Various",
+        "type": "sale",
+        "description": "中世を舞台にしたシミュレーションゲームであるManor Lordsが、現在35%の割引で販売中です。このゲームは、プレイヤーが中世の領主として街や町を建設し、管理するという、ユニークな都市開発シミュレーション要素を備えています。ゲームの評価は非常に高く、多くのプレイヤーから好評を博しています。割引価格での購入は、ゲームを試すために絶好の機会です。",
+        "price": "$25.99",
+        "originalPrice": "",
+        "discount": "-35%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/manor-lords/info/",
+        "date": "2026-04-06"
       }
     ],
     "review": [
@@ -1229,5 +1265,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-06T13:24:35.567868"
+  "last_updated": "2026-04-06T21:38:20.798274"
 }
