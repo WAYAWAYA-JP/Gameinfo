@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/sekaiproject2026_bundle",
         "date": "2026-04-06"
+      },
+      {
+        "title": "Geeks & Chicks Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Geeks & Chicks Bundleというバンドルが販売中です。このバンドルには、\"Aurion: Legacy of the Kori-Odan\"や\"Dreamcatcher\"などの主要タイトルが含まれています。ジャンルはアクションやアドベンチャーに焦点を当てたものです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/geeks-and-chicks-bundle",
+        "date": "2026-04-07"
       }
     ],
     "sale": [
@@ -651,6 +663,30 @@
         "discount": "-10%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/crimson-desert/info/",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "Frostpunk 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Frostpunk 2は、シティビルディングとサバイバル要素を組み合わせた、ユニークな都市計画ゲームです。このゲームは、厳しい寒さの中で都市を立て直し、住民を守るために、リソースを管理し、難しい決断を下す必要があります。現在、60パーセント割引されており、非常に魅力的です。さらに、このゲームは、ユーザーから高い評価を受けており、シティビルディングゲームファンには特に人気があります。",
+        "price": "$17.94",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "Evergreen Valley: The Parkour Game",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Evergreen Valley: The Parkour Gameがバラエティーなゲームとして注目を集めています。パルクールをテーマにしたこのゲームは、通常の価格から100%割引されているので、現在は無料で遊ぶことができます。ユーザーの評価は高く、パルクールゲームファンから人気を博しています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/evergreen-valley-the-parkour-game/info/",
         "date": "2026-04-07"
       }
     ],
@@ -1083,8 +1119,47 @@
         "url": "https://doope.jp/2026/04165737.html",
         "date": "2026-04-07",
         "is_translated": false
+      },
+      {
+        "title": "【Steam高評価・クローン対決ホラーローグライト『It Has My Face』正式リリースで...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで高評価を得ているホラーローグライトゲーム『It Has My Face』が正式にリリースされました。このゲームは、プレイヤーがクローンと対決しながら進めるユニークな要素や、ホラー要素が高く評価されています。レビューでは、ゲームの雰囲気やグラフィックの質が高く評価されています。また、ホラーゲームファンやローグライトゲームファンにとってはおすすめのゲームであると言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260407-435134/",
+        "date": "2026-04-07",
+        "is_translated": false
+      },
+      {
+        "title": "【大規模アップデートを導入した脱出系タクティカルFPS「Gray Zone Warfare」のプ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "脱出系タクティカルFPSの「Gray Zone Warfare」は、大規模アップデートを導入したゲームです。このゲームの評価ポイントとして、戦略的思考が求められるタクティカルなゲームプレイや、緊張感のある脱出要素が挙げられます。レビューの内容概要としては、ゲームの難易度や操作性、グラフィックの品質が評価されています。対象読者としては、タクティカルFPSや脱出ゲームを好むゲーマーが適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165730.html",
+        "date": "2026-04-07",
+        "is_translated": false
+      },
+      {
+        "title": "【新チャンピオン“アカリ”を導入する「2XKO」アップデート1.1.5のパッチノートが公開、配信...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "新しいチャンピオン「アカリ」を導入する「2XKO」アップデート1.1.5のパッチノートが公開されました。このアップデートでは、新チャンピオンのアカリの追加やゲームバランスの調整などが行われています。ゲームの評価ポイントとしては、アカリの能力やゲームの難易度が挙げられます。レビューの内容概要としては、アップデートの内容やゲームのバグの修正などが紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165767.html",
+        "date": "2026-04-07",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-07T02:13:44.578345"
+  "last_updated": "2026-04-07T10:07:09.362320"
 }
