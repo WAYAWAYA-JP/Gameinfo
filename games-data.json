@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/geeks-and-chicks-bundle",
         "date": "2026-04-07"
+      },
+      {
+        "title": "April 2026 Humble Choice",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、2026年4月のHumble Choiceバンドルが現在販売中です。このバンドルには、ホライゾン ゼロ ドーン、デス ストランディング、サイコナツツなど、人気のゲームタイトルが含まれています。ジャンルはアクションアドベンチャーやオープンワールドなどのバラエティに富んでいます。大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/april_2026_choice",
+        "date": "2026-04-07"
       }
     ],
     "sale": [
@@ -723,6 +735,42 @@
         "discount": "-32%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/arc-raiders/info/",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "The Planet Crafter",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "The Planet CrafterがSteamで50% OFFセール中です。サンドボックス要素を含んだサバイバルゲームで、未知の惑星を改造して地球に似た環境を作り上げることが目的です。このゲームは、ユーザーからの評価が非常に高く、人気度も高いところです。セール期間中は、通常価格の半額で購入できるので、興味がある方はこの機会にチェックしてみてください。",
+        "price": "¥1,450",
+        "originalPrice": "¥2,900",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1284190",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "Dead Cells",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるDead Cellsが、現在60%割引された価格で販売中です。このゲームは、ローグライク要素とダークファンタジーの世界観が特徴で、非常に高い評価を得ています。多くのユーザーから高い人気を博しており、ゲームの質とエンターテインメント性が高く評価されています。",
+        "price": "$9.95",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dead-cells/info/",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "The Alters",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Altersは、Variousで49%オフのセール中です。このゲームは、ユニークなストーリーと深いキャラクター設定が特徴で、プレイヤーは複数の主人公を操り、物語を進めていきます。現在のセールでは、大きな割引を受けることができます。The Altersは、ユーザーからの評価が高く、人気も高いゲームです。",
+        "price": "$17.95",
+        "originalPrice": "",
+        "discount": "-49%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-alters/info/",
         "date": "2026-04-07"
       }
     ],
@@ -1220,8 +1268,86 @@
         "url": "https://www.polygon.com/people-of-note-review/",
         "date": "2026-04-07",
         "is_translated": true
+      },
+      {
+        "title": "【Nintendo Switch金子一馬ローグライク『KAZUMA KANEKO’S ツクヨミ』...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Nintendo Switchの新作ゲーム「KAZUMA KANEKO’S ツクヨミ」は、金子一馬氏によるローグライクゲームです。このレビュー記事では、ゲームの評価ポイントとして、ランダムに生成されるダンジョンや独自の戦闘システムが紹介されています。また、ゲームの難易度やグラフィックの魅力も評価されています。ゲームファンやローグライクゲームの愛好者が対象読者となります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260408-435240/",
+        "date": "2026-04-07",
+        "is_translated": false
+      },
+      {
+        "title": "【PS5とNintendo Switch版「Drop Duchy: Complete Editi...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "PS5とNintendo Switch版「Drop Duchy: Complete Edition」のレビュー記事では、ゲームの評価ポイントとして、ユニークなゲームシステムやグラフィックの美しさが高く評価されています。レビューの内容概要としては、ゲームのストーリーや操作感、サウンドトラックの評価が中心になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165778.html",
+        "date": "2026-04-07",
+        "is_translated": false
+      },
+      {
+        "title": "【金子一馬のダークな世界観とキャラをスイッチで堪能！『KAZUMA KANEKO'S ツクヨミ』...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、Nintendo Switch用ゲーム「KAZUMA KANEKO'S ツクヨミ」を評価しています。金子一馬氏のダークな世界観とキャラクターが特徴的なこのゲームは、スイッチでプレイすることで、その魅力をより一層感じることができます。レビューでは、ゲームの独自の世界観やキャラクター造形、ストーリーの奥深さなどが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/04/08/179637.html",
+        "date": "2026-04-07",
+        "is_translated": false
+      },
+      {
+        "title": "【Qualcomm Snapdragon X2 Elite のレビューは出ていますが、これらの第...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Qualcomm Snapdragon X2 Elite のレビューが公開されていますが、この記事では、これらのチップセットの評価ポイントやレビューの内容概要を紹介します。評価ポイントとしては、パフォーマンスの向上、効率性の改善、グラフィックスの品質が挙げられます。さらに、レビューの内容概要としては、実際の使用感やベンチマークの結果、他社製品との比較が含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-laptops/qualcomm-snapdragon-x2-elite-reviews-are-in-but-these-second-gen-windows-on-arm-chips-still-arent-grabbing-me-as-a-pc-gamer/",
+        "date": "2026-04-07",
+        "is_translated": true
+      },
+      {
+        "title": "【SteelSeries Aerox 3 Wireless Gen 2 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "SteelSeries Aerox 3 Wireless Gen 2のレビュー記事では、ゲームプレイの快適性やワイヤレス接続の安定性、バッテリーの持続時間などが評価ポイントとして挙げられています。記事では、軽量で持久性のあるデザイン、優れたセンシティビティ、長時間のバッテリー持ちなどが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/steelseries-aerox-3-wireless-gen-2-review/",
+        "date": "2026-04-07",
+        "is_translated": true
+      },
+      {
+        "title": "【KuloNiku Bowl Up レビュー: ライフシミュレーション クッキング ゲームは、必...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "KuloNiku Bowl Up レビュー記事では、ライフシミュレーションとクッキング要素が融合されたゲームが紹介されています。このゲームの評価ポイントとしては、ユニークなゲーム性、リアルなクッキング体験、そしてストーリーの深みがあります。レビューの内容概要としては、ゲームの魅力、操作性、グラフィックのクオリティが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/kuloniku-bowl-up-review/",
+        "date": "2026-04-07",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-07T13:45:03.433023"
+  "last_updated": "2026-04-07T21:42:03.324465"
 }
