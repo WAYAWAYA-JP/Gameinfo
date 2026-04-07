@@ -688,6 +688,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/evergreen-valley-the-parkour-game/info/",
         "date": "2026-04-07"
+      },
+      {
+        "title": "Shadows of Doubt",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Shadows of Doubtがバラエティーな要素を含んだゲームで、現在56%の割引セール中です。このゲームは、ユーザーから高い評価を得ており、探偵ゲームのファンには特に人気があります。",
+        "price": "$8.85",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/shadows-of-doubt/info/",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "Dredge",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Dredgeは、ファンティジーとホラーを融合させたユニークなゲームで、現在Variousで66%割引のセール中です。このゲームは、恐怖と不気味な雰囲気を醸し出すグラフィックと、独特のゲームプレイに特徴があり、多くのユーザーから高い評価を得ています。価格も割引によって大幅に下がっており、ファンティジーやホラーが好きな人にはおすすめです。",
+        "price": "$8.48",
+        "originalPrice": "",
+        "discount": "-66%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dredge/info/",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "ARC Raiders",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションパックされたフリートゥプレイのコオペゲームであるARC RaidersがVariousで32%割引されています。このゲームは、プレイヤーが協力してロボットの侵略から地球を守るというユニークなコンセプトが特徴です。現在の評価は高く、人気度も高いので、コオペゲームファンにはおすすめです。",
+        "price": "$27.30",
+        "originalPrice": "",
+        "discount": "-32%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/arc-raiders/info/",
+        "date": "2026-04-07"
       }
     ],
     "review": [
@@ -1158,8 +1194,34 @@
         "url": "https://doope.jp/2026/04165767.html",
         "date": "2026-04-07",
         "is_translated": false
+      },
+      {
+        "title": "【モバイル版「Sea of Stars」が本日発売、ローンチトレーラーも：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "モバイル版「Sea of Stars」が発売され、ローンチトレーラーも公開されました。本作はグラフィックやサウンドトラックが高く評価されており、ゲームの雰囲気を高めています。また、ゲームのシステムやストーリーも評価ポイントになっています。本レビュー記事は、ゲームをプレイしたことがない人や、モバイルゲームに興味がある人に特にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165770.html",
+        "date": "2026-04-07",
+        "is_translated": false
+      },
+      {
+        "title": "【People of Note レビュー: 新しい音楽インディー RPG のアイデンティティを見...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "People of Note レビューは、新しい音楽インディーRPGのアイデンティティを見つけることに焦点を当てた記事です。このレビューでは、ゲームの独自の音楽システムやユニークなキャラクター設定が評価ポイントとして取り上げられています。また、ストーリーの深みやプレイヤーの選択肢の自由度も高く評価されています。このレビューは、音楽やRPGが好きな読者に向けて、ゲームの魅力を紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/people-of-note-review/",
+        "date": "2026-04-07",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-07T10:07:09.362320"
+  "last_updated": "2026-04-07T13:45:03.433023"
 }
