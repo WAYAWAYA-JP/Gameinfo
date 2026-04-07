@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Geeks & Chicks Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Geeks & Chicks BundleというバンドルがIndieGalaで販売中です。このバンドルには、\"The Whispered World\"、\"Deponia\"、\"Edna & Harvey: The Breakout\"などのタイトルが含まれています。ジャンルはアドベンチャーゲームで、大まかな価格帯は10ドル以下です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/geeks-and-chicks-bundle",
-        "date": "2026-03-28"
-      },
-      {
         "title": "Humble Heroines: Echoes, Voids, and Visions",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,42 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Old World オールド・ワールド",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "史実を基にしたターンベースストラテジーゲームであるOld WorldがSteamで90%の割引セール中です。このゲームは、プレイヤーが自らの王国を築き、歴史に残る人物となります。高い評価と人気を誇り、歴史好きやストラテジーゲームファンにはお勧めです。",
-        "price": "¥398",
-        "originalPrice": "¥3,980",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/597180",
-        "date": "2026-03-31"
-      },
-      {
-        "title": "Kingdom Come: Deliverance II",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Kingdom Come: Deliverance IIがVariousで55%割引のセール中です。このゲームはオープンワールドアクションRPGとして知られており、リアルな中世ヨーロッパを舞台にした壮大なストーリーや精密な戦闘システムが特徴です。多くのユーザーから高い評価を得ており、人気度も非常に高いゲームです。",
-        "price": "$27.00",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
-        "date": "2026-03-31"
-      },
-      {
-        "title": "Starfield",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Starfieldは、 Variousで現在15%割引のセール中です。このゲームは、オープンワールドの宇宙探索アドベンチャーであり、広大な銀河系を自由に飛行して探索できる特徴があります。多くのユーザーから高評価を受けており、人気ゲームとして知られています。セール期間中は、通常価格よりも安く購入できますので、興味がある方はこの機会にチェックしてみてください。",
-        "price": "$42.49",
-        "originalPrice": "",
-        "discount": "-15%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/starfield/info/",
-        "date": "2026-03-31"
-      },
       {
         "title": "Subnautica",
         "platform": "Various",
@@ -688,165 +640,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/manor-lords/info/",
         "date": "2026-04-06"
+      },
+      {
+        "title": "CRIMSON DESERT",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの「CRIMSON DESERT」が、10%割引のセール中です。このゲームは、オープンワールドを舞台に、さまざまなキャラクターを操作して戦闘や探索を行います。ユーザーの評価は非常に高く、人気度も高いゲームです。現在、Variousで販売中で、通常価格より10%割引されています。",
+        "price": "$62.99",
+        "originalPrice": "",
+        "discount": "-10%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/crimson-desert/info/",
+        "date": "2026-04-07"
       }
     ],
     "review": [
-      {
-        "title": "【ファンタジー都市の政治的陰謀と初の選挙を描くD&Dルール採用“ディスコ”ライクCRPG「Eso...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、ファンタジー都市の政治的陰謀や初の選挙を描くD&Dルール採用のCRPG「Eso...：ディスコ」について取り上げています。このゲームの評価ポイントとして、独自のストーリー、深いキャラクター設定、そしてユニークな政治システムが挙げられます。レビューでは、ゲームの内容が政治や社会的なテーマを扱っていること、キャラクターの発言や行動がプレイヤーに大きな影響を与えること。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165621.html",
-        "date": "2026-04-02",
-        "is_translated": false
-      },
-      {
-        "title": "【ソウルライクアクション続編「Mortal Shell II」初のゲームプレイ映像がお披露目、今...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ソウルライクアクションゲームの続編「Mortal Shell II」の初のゲームプレイ映像が公開されました。このレビュー記事では、「Mortal Shell II」のゲームプレイの評価ポイントとして、グラフィックの改善、戦闘システムの深化、ストーリーの広がりなどを取り上げています。特に、ゲームの難易度と挑戦性のバランスが、シリーズのファンにとって大きな魅力になっていると評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165609.html",
-        "date": "2026-04-02",
-        "is_translated": false
-      },
-      {
-        "title": "【ガンダムUCより「ネェル・アーガマ」のカタパルトデッキがジオラマフィギュア化！HGガンプラのデ...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "ガンダムUCの「ネェル・アーガマ」のカタパルトデッキがジオラマフィギュア化した商品についてのレビュー記事です。この商品はHGガンプラのデッキと組み合わせて使用することができます。評価ポイントとしては、ディテールの豊かさや組み立ての楽しさが挙げられます。レビューでは、組み立ての容易さや完成品の迫力などが評価されています。対象読者はガンプラファンやガンダムシリーズの愛好家です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/04/02/179403.html",
-        "date": "2026-04-02",
-        "is_translated": false
-      },
-      {
-        "title": "【「Lords of the Fallen」や「トゥームレイダー I-III リマスター」を含む...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "本レビュー記事は、ゲーム「Lords of the Fallen」や「トゥームレイダー I-III リマスター」を含む作品の評価ポイントを紹介しています。特に、ゲームのグラフィックやサウンド、そしてストーリーの魅力を評価しています。また、ゲームの難易度や操作性についても触れています。この記事は、ゲーム愛好者やアクションゲームファンに特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165615.html",
-        "date": "2026-04-02",
-        "is_translated": false
-      },
-      {
-        "title": "【CoD史上最小のマルチプレイヤーマップが「Call of Duty: Black Ops 7」...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Call of Dutyシリーズの最新作「Call of Duty: Black Ops 7」のレビュー記事では、ゲームの評価ポイントとしてマルチプレイヤー機能の充実やグラフィックの高さが挙げられています。また、シリーズ史上最小のマルチプレイヤーマップが登場し、新たな戦略が生まれていることも紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165620.html",
-        "date": "2026-04-02",
-        "is_translated": false
-      },
-      {
-        "title": "【Thermaltake TH360 V3 Ultra ARGB Sync レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Thermaltake TH360 V3 Ultra ARGB Sync レビュー記事では、同社の高性能ラジエーターについて詳しく紹介しています。評価ポイントとしては、クーラーの静音性、冷却性能、設置の容易さなどが挙げられます。記事では、クーラーの設計や機能についても触れており、PCゲーミング用途で高品質なクーラーを求めるユーザーに特に役立つ情報が含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/cooling/thermaltake-th360-v3-ultra-argb-sync-review/",
-        "date": "2026-04-02",
-        "is_translated": true
-      },
-      {
-        "title": "【Mchose G3 V2 レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Mchose G3 V2 レビューは、ゲーミングマウスの性能とデザインを評価しています。レビューのポイントとしては、精密なセンサーと軽量なボディが高評価されています。また、ergonomicデザインにより長時間の使用でも手疲れしないことが強調されています。このレビューは、ゲーミングマウスを探しているゲーマーにとって非常に参考になる情報を提供しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/mchose-g3-v2-review/",
-        "date": "2026-04-02",
-        "is_translated": true
-      },
-      {
-        "title": "【ケンブリッジオーディオ L/R S レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ケンブリッジオーディオL/R Sのレビュー記事では、音質やデザイン、操作性などの評価ポイントが紹介されています。記事では、音質の高さやデザインの美しさ、操作性の便利さなどが評価されています。また、記事の対象読者は、オーディオ機器に興味がある人や、高音質を求める音楽ファンに向けて書かれています。記事を読むことで、ケンブリッジオーディオL/R Sの特徴や強みを理解することができ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/speakers/cambridge-audio-l-r-s-review/",
-        "date": "2026-04-02",
-        "is_translated": true
-      },
-      {
-        "title": "【Silverstone FLP02 ケースレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Silverstone FLP02 ケースレビューの記事では、パソコンケースの評価ポイントとしてデザインと冷却性能が重点的に取り上げられています。記事では、FLP02 ケースの優れた空気流出設計や静かな運転音について高く評価しています。また、ケースの設置性や拡張性についても触れています。このレビュー記事は、パソコンケースを購入を検討しているユーザーや。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/pc-cases/silverstone-flp02-case-review/",
-        "date": "2026-04-02",
-        "is_translated": true
-      },
-      {
-        "title": "【モバイル版「Sea of Stars」のゲームプレイを紹介する新映像が公開、発売は2026年4月7日】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "モバイル版「Sea of Stars」の新しい映像が公開されました。このゲームは2026年4月7日に発売される予定です。評価ポイントとしては、美しいグラフィック、面白いストーリー、簡単な操作などがあります。レビューでは、ゲームの世界観やキャラクターの魅力が高く評価されています。また、ゲームの難易度や操作性についても触れています。対象読者は、モバイルゲームやRPGが好きな人におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165646.html",
-        "date": "2026-04-02",
-        "is_translated": false
-      },
-      {
-        "title": "【Teamgroup MP44Q 2 TB NVMe SSD レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Teamgroup MP44Q 2 TB NVMe SSDのレビュー記事では、高速な読み書き性能や大容量のストレージなど、多くの優れた特徴を紹介しています。ゲームの評価ポイントとしては、高速なロード時間やスムーズなゲームプレイが可能な点が高く評価されています。さらに、レビューの内容概要としては、製品の設計や性能、価格帯などが詳しく紹介されており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/ssds/teamgroup-mp44q-2-tb-nvme-ssd-review/",
-        "date": "2026-04-02",
-        "is_translated": true
-      },
-      {
-        "title": "【『SHINOBI 復讐の斬撃』DLC「セガ ヴィランズ ステージ」先行プレイ感想。「真島吾朗」...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『SHINOBI 復讐の斬撃』のDLC「セガ ヴィランズ ステージ」のレビュー記事では、ゲームの新しいステージやキャラクターの追加について評価しています。記事では、新しいステージのデザインや難易度について触れており、ファン向けのコンテンツとして高く評価しています。また、真島吾朗の追加についても言及しており、シリーズのファンには必見のコンテンツであると述べています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/shinobi-segavillains-20260403-434244/",
-        "date": "2026-04-02",
-        "is_translated": false
-      },
       {
         "title": "【人気“X-COM”ライク続編「Xenonauts 2」の製品版1.0が本日配信、リリーストレーラーも：レビュー】",
         "platform": "doope!",
@@ -859,32 +667,6 @@
         "url": "https://doope.jp/2026/04165679.html",
         "date": "2026-04-03",
         "is_translated": false
-      },
-      {
-        "title": "【氷に覆われた惑星の絶景を紹介する「EXODUS」の新たなゲームプレイ映像が公開、新コンパニオンの姿も】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「EXODUS」の新しいゲームプレイ映像が公開されました。このゲームでは、美しく氷に覆われた惑星の景色を体験できます。レビュー記事では、ゲームのグラフィックの美しさや、新しいコンパニオンの魅力について評価しています。ゲームファンやSFを愛する人にはおすすめの記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165662.html",
-        "date": "2026-04-02",
-        "is_translated": false
-      },
-      {
-        "title": "【Mega Crit 共同創設者は、Slay the Spire 2 のベータ版バランス パッチ...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Mega Crit 共同創設者による最新のゲームレビュー記事「Slay the Spire 2 のベータ版バランス パッチのレビュー」では、ゲームのバランスや新しい機能の評価ポイントについて詳しく説明しています。記事では、ゲームの難易度調整や新しいキャラクターの追加など、ベータ版の変更点がレビューされています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/card-games/mega-crit-co-founder-says-he-wasnt-bothered-by-the-steam-backlash-to-slay-the-spire-2s-beta-balance-patch-its-difficult-for-players-to-feel-like-theyre-heard/",
-        "date": "2026-04-02",
-        "is_translated": true
       },
       {
         "title": "【Steamコイン落としローグライク『RACCOIN』は「インフレと物理演算が生み出す中毒性」が...：レビュー】",
@@ -1262,8 +1044,47 @@
         "url": "https://automaton-media.com/articles/newsjp/20260406-435044/",
         "date": "2026-04-06",
         "is_translated": false
+      },
+      {
+        "title": "【人気ゾンビサバイバルシリーズ最新作「State of Decay 3」にゾンビ化した動物は登場...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気ゾンビサバイバルシリーズの最新作「State of Decay 3」は、ゾンビ化した動物が登場するなど、新しい要素を取り入れた作品です。このゲームの評価ポイントとしては、ゾンビ化した動物との戦闘のスリルや、サバイバル要素の充実があげられます。レビューの内容概要としては、新しい要素の導入や、グラフィックの向上などが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165736.html",
+        "date": "2026-04-07",
+        "is_translated": false
+      },
+      {
+        "title": "【初代「Pillars of Eternity」のターンベースモードが正式実装、ゲームプレイトレ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "初代「Pillars of Eternity」のターンベースモードが正式実装されたゲーム「Pillars of Eternity」のレビュー記事です。ゲームの評価ポイントとしては、ターンベースモードの導入により戦略性が増したこと、グラフィックの向上などが挙げられます。さらに、ストーリーやキャラクターの深みも評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165738.html",
+        "date": "2026-04-07",
+        "is_translated": false
+      },
+      {
+        "title": "【初代のSwitch対応や続編の新DLC、1886の進捗を含む「Frostpunk」フランチャイ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム「Frostpunk」のフランチャイズについて扱っています。記事では、初代のSwitch対応や続編の新DLC、1886の進捗状況などを含むフランチャイズの最新情報を紹介しています。読者は、このゲームの評価ポイントやレビューの内容を知ることができます。特に、このゲームシリーズをプレイしているファンや、新しくシリーズに興味を持った人向けの情報が含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165737.html",
+        "date": "2026-04-07",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-06T21:38:20.798274"
+  "last_updated": "2026-04-07T02:13:44.578345"
 }
