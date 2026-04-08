@@ -254,6 +254,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/epic-valley-bundle",
         "date": "2026-04-08"
+      },
+      {
+        "title": "Destiny 2: Expansions Bundle 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Destiny 2: Expansions Bundle 2026というバンドルが現在販売中です。このバンドルには、The Witch QueenやLightfallなどの主要タイトルが含まれています。アクションゲームやFPSジャンルの作品が収録されており、大まかな価格帯は1,000円から2,000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/destiny2expansionsbundle2026_bundle",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "Sovereign Sandbox Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Sovereign Sandbox BundleがHumble Bundleで販売中です。このバンドルには、テラリアやStarbound、Portal Knightsなどのサンドボックスゲームが収録されています。ジャンルはアクションアドベンチャーです。価格帯は大体1,000円から2,000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/sovereignsandboxbundle_bundle",
+        "date": "2026-04-08"
       }
     ],
     "sale": [
@@ -723,6 +747,18 @@
         "discount": "-84%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/assassins-creed-odyssey-ultimate-edition/info/",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "Chamber Survival",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Chamber SurvivalがVariousで現在-100%のセール中です。このゲームはサバイバル要素を含むアクションゲームで、プレイヤーはさまざまな障害物を避けながら生き残ることを目指します。通常価格から100%割引されているため、 無料でプレイできます。このゲームは、ユーザーからの評価が高く、人気度も高いゲームです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/chamber-survival/info/",
         "date": "2026-04-08"
       }
     ],
@@ -1298,8 +1334,21 @@
         "url": "https://www.rockpapershotgun.com/framerate-estimator-evidence-in-steams-new-update-points-to-more-detailed-performance-tests-than-valves-verified-programmes",
         "date": "2026-04-08",
         "is_translated": true
+      },
+      {
+        "title": "【ハイタイムズのドーナツショップのロマンスプレビューは、スタイリッシュな新しいデートシムのひねり...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ハイタイムズのドーナツショップのロマンスプレビューは、スタイリッシュな新しいデートシムのひねりが特徴です。このゲームの評価ポイントとしては、ユニークな設定やキャラクターの魅力が挙げられます。レビューでは、ゲームのストーリーやシステムについて概要が紹介されており、デートシムファンや新しいゲームを探している人にとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/high-times-demo-impressions-donut-shop-visual-novel-romance/",
+        "date": "2026-04-08",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-08T13:47:15.863748"
+  "last_updated": "2026-04-08T21:41:22.273326"
 }
