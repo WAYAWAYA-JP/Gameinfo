@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Humble Heroines: Echoes, Voids, and Visions",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Humble Heroines: Echoes, Voids, and Visionsというバンドルが現在販売中です。このバンドルには、主要タイトルとして「The Pathless」、「Moonlighter」、「Sea of Solitude」などが含まれています。アクションアドベンチャーやロールプレイングゲームなどのジャンルが中心で。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/humbleheroinesechoesvoidsandvisions_bundle",
-        "date": "2026-03-29"
-      },
-      {
-        "title": "The MIX Spring Showcase: Games Around The World",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、The MIX Spring Showcase: Games Around The Worldというバンドルが販売中です。このバンドルには、インディーゲームを中心としたタイトルが多数収録されており、代表的なゲームとしては「Unpacking」や「Betrayal at Club Low」などが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/mixspringshowcasegamesaroundworld_bundle",
-        "date": "2026-03-29"
-      },
-      {
         "title": "Metro Mania: Planes, Trains, and Automobiles!",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,102 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Subnautica",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サバイバルアドベンチャーゲームであるSubnauticaが、現在Variousで75%オフのセール中です。このゲームは、美しい水中世界を探索することができ、ユニークな生物や謎の遺跡が登場するのが特徴です。価格も割引によって大幅に安くなっています。Subnauticaは、ユーザーからの評価が非常に高く、人気度も高いゲームです。",
-        "price": "$7.49",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/subnautica/info/",
-        "date": "2026-04-01"
-      },
-      {
-        "title": "Metaphor: ReFantazio",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Metaphor: ReFantazioは、ファンタジーをテーマにしたアドベンチャーゲームです。このゲームは、ユニークな物語と魅力的なキャラクターで知られており、ファンタジー好きには人気のタイトルとなっています。現行のセールでは53%オフとなり、通常価格より大幅に安くなっています。評価も高く、多くのユーザーから好評価を得ています。",
-        "price": "$32.90",
-        "originalPrice": "",
-        "discount": "-53%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
-        "date": "2026-04-01"
-      },
-      {
-        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-        "platform": "Various",
-        "type": "sale",
-        "description": "S.T.A.L.K.E.R. 2: Heart of Chornobylは、ファーストパーソン・シューティングゲームとサバイバルホラーゲームの要素を組み合わせた、ユニークなゲームです。このゲームは、ウクライナのチョルノブイリ原子力発電所を舞台に、プレイヤーが危険な環境で生き残るために戦い、探索する必要があります。現在、41%の割引で販売中であり、非常に魅力的なオファーです。",
-        "price": "$35.19",
-        "originalPrice": "",
-        "discount": "-41%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
-        "date": "2026-04-01"
-      },
-      {
-        "title": "Persona 3 Reload",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Persona 3 Reloadは、ロールプレイングゲームのジャンルに属する人気ゲームです。このゲームは、深いストーリーと魅力的なキャラクターで知られており、プレイヤーから高く評価されています。現在、Variousでセール中であり、価格が15%割引されています。この割引により、通常よりも安くこのゲームを楽しむことができます。",
-        "price": "$50.98",
-        "originalPrice": "",
-        "discount": "-15%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/persona-3-reload/info/",
-        "date": "2026-04-01"
-      },
-      {
-        "title": "BIOHAZARD RE:4",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "BIOHAZARD RE:4がSteamで60% OFFのセール中です。このゲームはサバイバルホラーのジャンルに分類され、恐怖とスリルの組み合わせで人気を博しています。通常価格より大幅に割引されたこの価格で購入することができます。多くのユーザーから高評価を獲得しており、シリーズファンやホラーゲーム好きには必見のタイトルです。",
-        "price": "¥1,996",
-        "originalPrice": "¥4,990",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2050650",
-        "date": "2026-04-01"
-      },
-      {
-        "title": "Monster Hunter Rise + Sunbreak",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションパックされたモンスターハンター・ライズとその拡張パックであるサンブレイクが、Steamで84%の割引を受けて販売中です。この2つのアイテムをセットで購入することで、モンスターハンター・ライズの全コンテンツを楽しむことができます。モンスターハンター・ライズは、オープンワールドを舞台に、さまざまなモンスターと戦い、戦利品を集めることで新しいアイテムを作成できるアクションゲームです。",
-        "price": "¥958",
-        "originalPrice": "¥5,990",
-        "discount": "84% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/692569",
-        "date": "2026-04-01"
-      },
-      {
-        "title": "BIOHAZARD VILLAGE",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "BIOHAZARD VILLAGEがSteamで75% OFFセール中です。このゲームはサバイバルホラーのジャンルに属し、恐怖と緊張を味わえる特徴があります。現在の価格は大幅に割引されており、通常価格の25%で購入することができます。ユーザーの評価は非常に高く、人気度も高いゲームです。",
-        "price": "¥997",
-        "originalPrice": "¥3,990",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1196590",
-        "date": "2026-04-01"
-      },
-      {
-        "title": "Together After Dark",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームである「Together After Dark」が、現在Variousで100%割引のセール中です。このゲームは、ユーザーから高い評価を得ており、人気度も高いゲームです。セール期間中は、通常価格よりも大幅に安く購入することができます。高い評価と人気度を背景に、多くのユーザーに愛されているこのゲームを、セール中の好機にチェックしてみてください。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/together-after-dark/info/",
-        "date": "2026-04-01"
-      },
       {
         "title": "Resident Evil 4 (2023)",
         "platform": "Various",
@@ -775,110 +655,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【人気“X-COM”ライク続編「Xenonauts 2」の製品版1.0が本日配信、リリーストレーラーも：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "人気ゲーム「X-COM」の影響を受けた続編「Xenonauts 2」の製品版がようやくリリースされました。このゲームは、エイリアンの侵略から地球を守るために戦うターン制戦略ゲームです。レビューでは、ゲームの評価ポイントとして、戦略的な深みやグラフィックの向上などが挙げられています。さらに、ゲームの難易度やリプレイ性も高く、戦略ゲームファンにはおすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165679.html",
-        "date": "2026-04-03",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamコイン落としローグライク『RACCOIN』は「インフレと物理演算が生み出す中毒性」が...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamコイン落としローグライクゲームの『RACCOON』のレビュー記事では、このゲームの評価ポイントとしてインフレと物理演算が生み出す中毒性が高く評価されています。また、記事ではこのゲームの魅力を引き出し、プレイヤーが楽しくプレイできる要素が紹介されています。対象読者はローグライクゲームやアクションゲームのファンで。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/columnjp/raccoin-20260403-434439/",
-        "date": "2026-04-03",
-        "is_translated": false
-      },
-      {
-        "title": "【ある資金難のオンライン対戦RTS、オンラインモードをやむなく“一時停止”。サーバー運営会社がA...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、資金難によりオンラインモードを一時停止したオンライン対戦RTSゲームについて扱っています。記事では、ゲームの評価ポイントとしてサーバー運営会社の対応やゲームの将来性について触れています。さらに、オンラインモードの停止がプレイヤーに与える影響や、ゲームの開発会社の対応策についてもレビューしています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260403-434426/",
-        "date": "2026-04-03",
-        "is_translated": false
-      },
-      {
-        "title": "【ゲームプレイの進化に焦点を当てる「CONTROL Resonant」の開発映像が公開、SHÜM...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「CONTROL Resonant」の開発映像が公開されました。このゲームは、プレイヤーの進化に焦点を当てています。レビューでは、ゲームのグラフィックやサウンドデザインが高く評価されています。また、ゲームのストーリーやキャラクターの深みも称賛されています。ゲームファンやアクションゲームを好む人向けのレビューで、ゲームの全体的な魅力が紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165669.html",
-        "date": "2026-04-03",
-        "is_translated": false
-      },
-      {
-        "title": "【多彩な新コンテンツを導入する「Call of Duty: Black Ops 7|Warzon...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Call of Dutyシリーズの最新作「Call of Duty: Black Ops 7|Warzone」は、多彩な新コンテンツを導入しており、ゲームの評価ポイントとしては、新しいマップやゲームモードの追加、グラフィックの向上などが挙げられます。レビューの内容概要としては、ゲームのスムーズな操作性、豊富なカスタマイズオプション、そして多人数でのプレイの楽しさが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165687.html",
-        "date": "2026-04-03",
-        "is_translated": false
-      },
-      {
-        "title": "【Raccoin レビュー: Balatro がいかにクールだったかについてのコインプッシャー、...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事は、コインプッシャーゲーム「Raccoin」というタイトルのゲームを紹介しています。評価ポイントとしては、ゲームの遊びやすさや面白さ、そしてデザインのクールさが取り上げられています。具体的には、ゲームのキャラクターであるBalatroのクールな演出や、コインプッシャーの新しい要素などが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/raccoin-impressions/",
-        "date": "2026-04-03",
-        "is_translated": true
-      },
-      {
-        "title": "【「Soulmask」エジプトDLC“Shifting Sands”の空飛ぶ要塞を紹介する新トレ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Soulmask」エジプトDLC“Shifting Sands”の新しいトレーラーが紹介されています。このレビュー記事では、新しい空飛ぶ要塞が紹介されており、ゲームのグラフィックやストーリー展開が評価ポイントとなっています。さらに、ゲームの世界観やキャラクターの深みもレビューの内容に含まれています。この記事は、ゲームファンやアクションアドベンチャーゲームを好む読者を対象にしています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165699.html",
-        "date": "2026-04-03",
-        "is_translated": false
-      },
-      {
-        "title": "【Slay the Spire 2 の開発者が、クールな新機能の数々を恥ずかしそうにからかいます：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Slay the Spire 2 の開発者が、クールな新機能の数々を恥ずかしそうにからかっていることを紹介するレビュー記事があります。この記事では、ゲームの評価ポイントとして新機能の紹介やゲームプレイの改善点などが取り上げられています。また、レビューの内容概要としては、開発者のコメントや新機能の詳細が紹介されており、対象読者としては。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/slay-the-spire-2-new-modes-character-multiplayer-competitive/",
-        "date": "2026-04-03",
-        "is_translated": true
-      },
       {
         "title": "【明末期の壮絶アドベンチャー『泣き叫ぶ雁』人気炸裂のロケットスタート。大ヒットADV『飢えた子羊...：レビュー】",
         "platform": "AUTOMATON",
@@ -1346,8 +1122,34 @@
         "url": "https://www.polygon.com/kuloniku-bowl-up-review/",
         "date": "2026-04-07",
         "is_translated": true
+      },
+      {
+        "title": "【傑作宇宙開発シム「Kerbal Space Program」のプレイヤーが記録的な急増、月探査...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気ゲーム「Kerbal Space Program」のプレイヤー数が急増しています。このゲームは宇宙開発をシミュレートするもので、プレイヤーは自ら宇宙船を設計して月や惑星への探査を試みます。このレビューでは、ゲームの評価ポイントとして、自由度の高いゲーム性やリアルな物理シミュレーションが高く評価されています。また、ゲームの難易度やグラフィックの質も評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165787.html",
+        "date": "2026-04-08",
+        "is_translated": false
+      },
+      {
+        "title": "【『アークナイツ：エンドフィールド』開発者「モバイルの成長は鈍化、PCプレイヤーが重要」―ハイエ...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "モバイルゲームの成長が鈍化していることは周知の事実です。この状況で、モバイルゲーム開発者の視点から、PCプレイヤーの重要性が強調されています。ゲーム評価のポイントとしては、グラフィックの質、ゲーム性、ストーリーの深さがあげられます。また、レビューの内容としては、モバイルゲームの限界とPCプレイヤーへのシフトの必要性が述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/04/08/179643.html",
+        "date": "2026-04-08",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-07T21:42:03.324465"
+  "last_updated": "2026-04-08T02:14:23.953302"
 }
