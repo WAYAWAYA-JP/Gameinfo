@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/humbleheroinesechoesvoidsandvisions_bundle",
         "date": "2026-04-08"
+      },
+      {
+        "title": "Epic Valley Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Epic Valley BundleがIndieGalaで販売中です。このバンドルには、My Time at Portia、Slime Rancher、Yonder: The Cloud Catcher Chroniclesなどの人気タイトルが含まれています。ジャンルはシミュレーションやアドベンチャーに分類され、価格帯はおおよそ1000円から2000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/epic-valley-bundle",
+        "date": "2026-04-08"
       }
     ],
     "sale": [
@@ -1247,8 +1259,47 @@
         "url": "https://doope.jp/2026/04165798.html",
         "date": "2026-04-08",
         "is_translated": false
+      },
+      {
+        "title": "【世紀末キッチンカー営業シム『Wasteland Bites』Steamでさっそく高評価どしどし...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "世紀末を舞台にキッチンカーの営業を模拟するゲーム『Wasteland Bites』がSteamで高評価を集めています。このゲームは、プレイヤーがキッチンカーを運営し、さまざまなレシピを調理して顧客に提供することを目的とします。レビューの内容としては、ゲームの自由度が高く、さまざまなレシピを調理できること、ゲームのグラフィックやサウンドトラックが優れていることが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/wasteland-bites-20260408-435461/",
+        "date": "2026-04-08",
+        "is_translated": false
+      },
+      {
+        "title": "【冒頭の展開を紹介する「Forza Horizon 6」の本格的なゲームプレイ映像がお披露目、発...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Forza Horizon 6の本格的なゲームプレイ映像のレビュー記事では、グラフィックの質やゲームのスピード感などの評価ポイントが紹介されています。記事では、ゲームの冒頭の展開や操作性の感覚などについても触れています。この記事は、レースゲームやカーレースのファンであれば、Forza Horizon 6の魅力をさらに深く理解できるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165782.html",
+        "date": "2026-04-08",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam の新しいアップデートに含まれる「フレームレート推定ツール」の証拠は、Valve の...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、Steamの新しいアップデートに含まれる「フレームレート推定ツール」の特徴や、Valveの開発計画について詳しく説明しています。ゲームの評価ポイントとして、ツールの使用方法や、ゲームのパフォーマンスへの影響が取り上げられています。此外、レビューではツールの利点や欠点についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/framerate-estimator-evidence-in-steams-new-update-points-to-more-detailed-performance-tests-than-valves-verified-programmes",
+        "date": "2026-04-08",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-08T10:07:06.379801"
+  "last_updated": "2026-04-08T13:47:15.863748"
 }
