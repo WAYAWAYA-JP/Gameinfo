@@ -1,92 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "TOMAK : Save the Earth Regeneration",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "伝説の育成シミュレーションゲーム『TOMAK : Save the Earth』の25周年記念エディションがEpic Gamesストアで配布されています。このゲームは、滅亡の危機に瀕した地球を救うため、愛の女神「エビアン」を3年間大切に育てる内容です。ゲームの特徴としては、ユニークなコンセプトや、育成要素が魅力的です。また、ゲームの進め方によって、様々なエンディングが用意されている点も特徴的です。",
-        "price": "無料",
-        "originalPrice": "¥8",
-        "discount": "100% OFF",
-        "deadline": "2026年04月16日まで",
-        "url": "https://store.epicgames.com/ja/p/798328bff911452783523d61986170c0",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "Hyper Echelon",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "シアン銀河は危機に瀕していますが、あなたの頼れる小さなスターファイターと僚機の寄せ集め部隊が、邪悪なエクソドンに立ち向かう唯一の希望です。このアクションゲームでは、多くの素晴らしい舞台での熱狂的な戦闘に参加し、豆鉄砲から攻撃的な強者へとレベルアップすることができます。ゲームの特徴としては、自由度の高いカスタマイズ、さまざまな敵との戦闘、そしてスリリングなステージが挙げられます。",
-        "price": "無料",
-        "originalPrice": "¥12",
-        "discount": "100% OFF",
-        "deadline": "2026年04月02日まで",
-        "url": "https://store.epicgames.com/ja/p/39e8285c09224707ab83d5c256e9b41b",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "Havendock",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Havendockは、ストラテジーゲームです。このゲームの特徴は、戦略的な都市計画とリソース管理が求められることです。また、ユニークなグラフィックデザインとインターフェイスも魅力的です。さらに、ゲームの進行に合わせて新しい機能やアイテムが解放されるため、プレイヤーは新しい挑戦に楽しみながら取り組むことができます。Havendockは、Epic Gamesプラットフォームで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "¥19",
-        "discount": "100% OFF",
-        "deadline": "2026年04月02日まで",
-        "url": "https://store.epicgames.com/ja/p/454bc0b5893f46a885bd86a6589ee67a",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "Clone Drone in the Danger Zone",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『クローン・ドローン・イン・ザ・デンジャー・ゾーン』は、三人称視点のソード・バトル・アクションゲームです。このゲームの特徴は、体のあらゆる部分を切断できることです。さらに、ロボットの剣闘士にインストールされた精神体として、アリーナで立ち向かう凶悪な試練の数々を克服しなければなりません。魅力的な要素としては、剣闘士のカスタマイズや、アリーナでの戦闘の多様性があります。",
-        "price": "無料",
-        "originalPrice": "¥19",
-        "discount": "100% OFF",
-        "deadline": "2026年04月09日まで",
-        "url": "https://store.epicgames.com/ja/p/4d7e959581394dc4aee2039844753beb",
-        "date": "2026-04-02"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Metro Mania: Planes, Trains, and Automobiles!",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Metro Mania: Planes, Trains, and Automobiles!というバンドルが現在販売中です。このバンドルには、Train Valley 2やMini Metro这样的主要タイトルが含まれており、ファンが鉄道や交通システムを操作して楽しみます。ジャンルとしては、シミュレーションおよびパズルゲームが中心です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/metromaniaplanestrainsandautomobiles_bundle",
-        "date": "2026-03-30"
-      },
-      {
-        "title": "HHSkautfold Saga Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "HHSkautfold Saga BundleがIndieGalaで販売中です。このバンドルには、主要タイトルとして「HHSkautfold: Shrouded in Sanity」や「HHSkautfold: Aethoria」が含まれており、インディーゲームやアドベンチャーゲームを楽しむファンにぴったりです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/skautfold-saga-bundle",
-        "date": "2026-03-30"
-      },
-      {
-        "title": "Checkmate! A Chess Games Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleで「Checkmate! A Chess Games Collection」というバンドルが販売中です。このバンドルには、「Chess Ultra」や「Battle vs. Chess」などの主要タイトルが含まれており、ボードゲームファンにとって魅力的な内容です。ボードゲームやストラテジーが好きな方にぴったりなこのバンドルは。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/checkmatechessgamescollection_bundle",
-        "date": "2026-03-30"
-      },
       {
         "title": "Metroidvania Mayhem Bundle",
         "platform": "Humble Bundle",
@@ -281,126 +196,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Resident Evil 4 (2023)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "「Resident Evil 4 (2023)」は、Variousで現在60%オフのセール中で、通常価格よりも大幅に安くなっています。このゲームは、サバイバルホラーのジャンルに分類され、スリリングなゲームプレイと豊富なストーリーが特徴です。評価も高く、多くのプレイヤーから人気を博しています。価格が割引されているので、興味がある方は今すぐチェックしてみてください。",
-        "price": "$15.99",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "BIOHAZARD 2 (1998)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "バイオハザード2は、1998年に発売されたサバイバルホラーゲームです。このゲームは、ゾンビが跋扈する街で主人公が生き延びるために戦う内容で、強い恐怖感と緊張感を味わえる代表的なホラーゲームの1つです。現在、Steamで50%オフのセール中であり、大幅な価格割引で購入できます。バイオハザードシリーズのファンにはもちろん、ホラーゲームを楽しむ人にもおすすめできる作品です。",
-        "price": "¥500",
-        "originalPrice": "¥1,000",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/4249110",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "BIOHAZARD 3 LAST ESCAPE (1999)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "バイオハザードシリーズの3作目である『BIOHAZARD 3 LAST ESCAPE』が、Steamで50%オフのセール中です。このサバイバルホラーの名作は、緊張感と恐怖を味わえるゲームプレイが特徴です。通常価格から半額になるこのセールは、シリーズファンやホラーゲーム好きにはおすすめです。さらに、このゲームは高い評価を受けており、多くのプレイヤーから人気を博しています。",
-        "price": "¥500",
-        "originalPrice": "¥1,000",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/4249120",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "ブレス オブ ファイアIV うつろわざるもの",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ブレス オブ ファイアIV うつろわざるものがSteamで50% OFFセール中です。このゲームは、シミュレーションRPGのジャンルに属し、戦略的な戦闘とキャラクターの育成が特徴です。現在の価格は割引により大幅に下がっており、ファンや新規プレイヤーにとってはお得な機会です。ブレス オブ ファイアシリーズは人気があり、プレイヤーから高く評価されているため、このセールを逃さないでください。",
-        "price": "¥500",
-        "originalPrice": "¥1,000",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/4249150",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "BIOHAZARD (1996)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "バイオハザードシリーズの第1作目であるBIOHAZARD（1996）がSteamで50％OFFのセール中です。このサバイバルホラーの名作は、緊張感と恐怖を味わえるゲームとして人気があり、高い評価を受けています。現在の価格は割引前より大幅に安くなっていますので、シリーズのファンやホラーゲーム好きの方にはおすすめです。",
-        "price": "¥500",
-        "originalPrice": "¥1,000",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/4249100",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "SILENT HILL 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サイレントヒルシリーズの名作であるSILENT HILL 2が、Variousで61%オフのセール中です。このホラー・アドベンチャーゲームは、心を震わすストーリーや恐怖的な雰囲気で知られており、ファンから高い評価を得ています。価格が大幅に下がっている今が是非お試しください。",
-        "price": "$27.30",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "BIOHAZARD RE:2",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "バイオハザードシリーズの名作『BIOHAZARD RE:2』がSteamで大幅なセール中です。このサバイバルホラーの傑作は、恐怖とスリルの絶妙なバランスでプレイヤーを魅了します。現在、75%オフの特別価格で提供中であり、通常の価格より大幅に安くなっています。このゲームは、グラフィックやサウンドデザインが高く評価されており、シリーズファンの間でも人気の高いタイトルです。",
-        "price": "¥997",
-        "originalPrice": "¥3,990",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/883710",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "サブノーティカ",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サブノーティカは、Steamで現在75%オフのセール中です。このゲームは、オープンウォールドのサバイバル要素と美しい水中グラフィックが特徴的な、アクションアドベンチャーゲームです。非常に高い評価と人気度を誇り、プレイヤーから高い支持を得ています。通常価格より大幅に安くなったこの価格で、未プレイの人は一度試してみることをお勧めします。",
-        "price": "¥1,075",
-        "originalPrice": "¥4,300",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/264710",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "Resident Evil Village",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Resident Evil VillageがVariousで75%割引されているので、ファンの方はお見逃しなくしてください。このゲームはサバイバルホラーゲームのジャンルに属し、恐怖とスリルの組み合わせでプレイヤーを引き付ける特徴があります。現在の価格は大幅な割引により非常に魅力的で、多くのユーザーから高い評価を得ています。人気度も高く、ゲームファンの間で話題になっています。",
-        "price": "$9.80",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-village/info/",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "Detroit: Become Human",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Detroit: Become Humanは、サイバーパンクを舞台にしたアドベンチャーゲームで、人工知能が人間に代わる未来を描きます。このゲームは、プレイヤーの選択によってストーリーが変化する独自の特徴があり、サイバーパンクファンに人気があります。現在、Variousで82%オフのセール中で、価格が大幅に下がっています。評価も高く、多くのユーザーから高評価を得ています。",
-        "price": "$7.12",
-        "originalPrice": "",
-        "discount": "-82%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
-        "date": "2026-04-02"
-      },
       {
         "title": "Vornyca",
         "platform": "Various",
@@ -763,110 +558,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【明末期の壮絶アドベンチャー『泣き叫ぶ雁』人気炸裂のロケットスタート。大ヒットADV『飢えた子羊...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『泣き叫ぶ雁』は、明末期を舞台にした壮絶なアドベンチャーゲームで、大人気を博しています。このゲームの評価ポイントとしては、ストーリーの深み、キャラクターの個性、そしてグラフィックの美しさが挙げられます。レビューでは、ゲームの世界観やキャラクターの設定が高く評価されています。対象読者としては、アドベンチャーゲームファンや歴史ドラマ好きの方にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260404-434601/",
-        "date": "2026-04-04",
-        "is_translated": false
-      },
-      {
-        "title": "【人気タクティカルアクションシリーズ最新作「Intravenous 3」がアナウンス、ゲームプレ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "人気タクティカルアクションシリーズの最新作「Intravenous 3」が発表されました。このゲームは、スリリングなアクションと戦略的なプレイが特徴で、シリーズのファンには必見です。レビューでは、グラフィックの向上や新しいキャラクターの追加などが評価ポイントとして挙げられています。また、シナリオの深みやサウンドトラックの質も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165625.html",
-        "date": "2026-04-04",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料・メカ少女タッグ3Dアクション『星の翼』PS5版、4月16日配信へ。「ブラック★...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "星の翼は、基本プレイ無料のメカ少女タッグ3Dアクションゲームです。PS5版が4月16日に配信される予定で、プレイヤーはさまざまなメカ少女を操作して戦闘を楽しむことができます。このゲームの評価ポイントとしては、グラフィックの美しさやアクションのスピード感が高いことが挙げられます。レビューの内容概要としては、ゲームの操作性やストーリーの魅力が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260404-434639/",
-        "date": "2026-04-04",
-        "is_translated": false
-      },
-      {
-        "title": "【ウォーレン・スペクター氏が開発を率いる新作ステルスゲーム「Thick As Thieves」の...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ウォーレン・スペクター氏が開発を率いる新作ステルスゲーム「Thick As Thieves」のレビュー記事では、ゲームの評価ポイントとして、ストーリーやキャラクターの魅力、ゲームプレイの奥深さなどが挙げられています。このレビューでは、ゲームの全体的な雰囲気や、プレイヤーが感じる感情の揺れなども説明されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165666.html",
-        "date": "2026-04-04",
-        "is_translated": false
-      },
-      {
-        "title": "【コスプレ】萌え袖セーター×お団子ヘアーの「初音ミク」が可愛すぎ！美脚も眩しい台湾美女コスプレイヤーに注目【写真7枚】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、台湾の美女コスプレイヤーが「初音ミク」のコスプレをしているところを紹介しています。彼女の萌え袖セーターとお団子ヘアーのコスプレは非常に可愛らしいです。また、美しい脚も見どころのひとつです。コスプレや初音ミクが好きな人には必見の記事です。記事には7枚の写真が掲載されており、コスプレイヤーの魅力を存分に楽しむことができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/04/04/179512.html",
-        "date": "2026-04-04",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam版の発売2周年を迎えるショットガンロシアンルーレット「Buckshot Roulet...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Steam版の発売2周年を迎えるショットガンロシアンルーレット「Buckshot Roulette」のレビュー記事では、ゲームの評価ポイントとして、ユニークなゲームプレイ、グラフィックの品質、サウンドデザインの効果的な使用があげられます。また、レビューの内容概要として、ゲームの難易度の適切さ、再プレイ性の高さ、プレイヤーへの挑戦的要素が述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165723.html",
-        "date": "2026-04-04",
-        "is_translated": false
-      },
-      {
-        "title": "【『不滅の血脈』レビュー：最新作『ルパン三世』はアキラレベルのボディホラーに突入】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "最新作『ルパン三世』のレビュー記事「不滅の血脈」では、アキラのようなボディホラー要素が含まれていることが評価ポイントの1つとして挙げられています。ゲームの内容は、従来のシリーズとは一味違う恐怖体験を提供しているようです。対象読者は、ボディホラーファンや『ルパン三世』シリーズのファンにとって、興味深い記事となるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/lupin-the-iiird-the-movie-immortal-bloodline/",
-        "date": "2026-04-04",
-        "is_translated": true
-      },
-      {
-        "title": "【ワイルドハートの協力型 RPG プレビューでは、寓話にインスピレーションを得た D&D スタイ...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ワイルドハートの協力型RPGプレビューは、寓話にインスピレーションを得たD&Dスタイルのゲームです。このレビュー記事では、ゲームの評価ポイントとして、ユニークなゲーム世界、スリリングな戦闘システム、そして協力プレイの深みを紹介しています。対象読者は、RPGファンやD&Dを愛する人たちで、ゲームのレビュー内容として、ゲームのストーリーやキャラクターの魅力も掘り下げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/wyldheart-demo-review-impressions/",
-        "date": "2026-04-04",
-        "is_translated": true
-      },
       {
         "title": "【『Slay the Spire 2』は“プレイ以外”も超楽しい。コイン落としローグライク『RA...】",
         "platform": "AUTOMATON",
@@ -1347,8 +1038,21 @@
         "url": "https://www.polygon.com/high-times-demo-impressions-donut-shop-visual-novel-romance/",
         "date": "2026-04-08",
         "is_translated": true
+      },
+      {
+        "title": "【日本が舞台となる「Forza Horizon 6」の全体マップがお披露目、多彩な新情報と解説映像も：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Forza Horizon 6」のレビューでは、日本が舞台となる全体マップが公開されており、多彩な新情報や解説映像も紹介されている。ゲームの評価ポイントとしては、リアルなグラフィックやスムーズな操作感が高く評価されており、ゲームファンやレースゲーム好きには必見の内容である。また、レビューではゲームの新しい機能やゲームプレイの詳細な解説もされており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165820.html",
+        "date": "2026-04-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-08T21:41:22.273326"
+  "last_updated": "2026-04-09T02:08:26.284564"
 }
