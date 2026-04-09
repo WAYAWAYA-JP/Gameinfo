@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Clone Drone in the Danger Zone",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『クローン・ドローン・イン・ザ・デンジャー・ゾーン』は、三人称視点のソード・バトル・アクションゲームです。このゲームの特徴は、体のあらゆる部分を切断できる点で、プレイヤーはロボットの剣闘士にインストールされた精神体となり、アリーナで立ち向かう凶悪な試練を克服する必要があります。さらに、このゲームはハイスピードなアクションと戦略的な戦闘を組み合わせた魅力的な内容になっています。",
+        "price": "無料",
+        "originalPrice": "¥19",
+        "discount": "100% OFF",
+        "deadline": "2026年04月09日まで",
+        "url": "https://store.epicgames.com/ja/p/4d7e959581394dc4aee2039844753beb",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "TOMAK: Save the Earth Regeneration",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『TOMAK: Save the Earth』は、衝撃的なコンセプトで話題となった伝説の育成シミュレーションゲームです。滅亡の危機に瀕した地球を救うため、植木鉢に植えられた愛の女神「エビアン」を3年間大切に育てる必要があります。このゲームの特徴としては、ユニークな設定や、地球を救うという大きな目標があることが挙げられます。",
+        "price": "無料",
+        "originalPrice": "¥8",
+        "discount": "100% OFF",
+        "deadline": "2026年04月16日まで",
+        "url": "https://store.epicgames.com/ja/p/798328bff911452783523d61986170c0",
+        "date": "2026-04-09"
+      }
+    ],
     "bundle": [
       {
         "title": "Metroidvania Mayhem Bundle",
@@ -193,6 +218,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/sovereignsandboxbundle_bundle",
         "date": "2026-04-08"
+      },
+      {
+        "title": "Metro Mania: Planes, Trains, and Automobiles!",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、メトロマニア：飛行機、列車、自動車！というバンドルが販売中です。このバンドルには、主要タイトルとして「Train Valley」や「Railway Empire」、「Transport Fever」などが含まれています。ジャンルは、シミュレーションゲームやストラテジーゲームが中心です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/metromaniaplanestrainsandautomobiles_bundle",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "Checkmate! A Chess Games Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、チェスゲームを集めたバンドル「Checkmate! A Chess Games Collection」が販売中です。このバンドルには、「Chess Ultra」や「Battle vs. Chess」などの主要タイトルが含まれています。チェスゲーム好きの方にぴったりのバンドルで、ストラテジーやボードゲームなどのジャンルが好きな人にもおすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/checkmatechessgamescollection_bundle",
+        "date": "2026-04-09"
       }
     ],
     "sale": [
@@ -555,6 +604,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/chamber-survival/info/",
         "date": "2026-04-08"
+      },
+      {
+        "title": "Guilty Gear -Strive- Season Pass 4",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Guilty Gear -Strive- Season Pass 4がSteamで50% OFFセール中です。これは、人気の2D対戦格闘ゲーム「Guilty Gear -Strive-」のシーズンパスで、様々な新要素やキャラクターを追加できます。シーズンパス4には、キャラクターの追加や新ステージなどが含まれています。セール期間中は通常価格の半額で購入できます。",
+        "price": "¥1,375",
+        "originalPrice": "¥2,750",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3060720",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "GUILTY GEAR -STRIVE-",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気の2D対戦ゲーム『GUILTY GEAR -STRIVE-』がSteamで50%オフのセール中です。このゲームは、高速でテンポの良いゲームプレイと豊富なキャラクター選択が特徴で、ファンから高い評価を受けています。現在、半額で購入することが可能で、対戦ゲームファンにはお勧めのタイトルです。",
+        "price": "¥1,995",
+        "originalPrice": "¥3,990",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1384160",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "サブノーティカ",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サブノーティカは、ストーリー重視のアクションアドベンチャーゲームです。現在、Steamで75%オフのセール中で、通常価格より大幅に安くなっています。このゲームは、美しいグラフィックと深いストーリーが特徴で、ファンから高い評価を受けています。また、人気も高く、多くのプレイヤーから支持されています。",
+        "price": "¥1,075",
+        "originalPrice": "¥4,300",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/264710",
+        "date": "2026-04-09"
       }
     ],
     "review": [
@@ -1051,8 +1136,47 @@
         "url": "https://doope.jp/2026/04165820.html",
         "date": "2026-04-09",
         "is_translated": false
+      },
+      {
+        "title": "【『SlashZero』クローズドβテスト感想。ローグライト要素や爽快感には課題あり、それでも素...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「SlashZero」のクローズドβテストの感想が紹介されています。ローグライト要素や爽快感については課題があると指摘されていますが、ゲームの面白さや魅力についても触れられています。この記事は、ゲームの評価ポイントやレビューの内容を知りたい人や、ローグライトゲームのファン向けに役立つ情報が含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/devlog/report/20260409-435714/",
+        "date": "2026-04-09",
+        "is_translated": false
+      },
+      {
+        "title": "【Nintendo Switch 2/Switch向けセールに約300本追加。『エルシャダイ』リ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、Nintendo Switch 2やSwitch向けのセールに約300本の新しいゲームが追加されたことを紹介しています。記事では、セール対象のゲームの評価ポイントとして、グラフィックやサウンドの質、ゲームプレイの楽しさなどを取り上げています。また、セールの対象となるゲームのラインナップも紹介されており、 Switchユーザーにとっては有益な情報になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260409-435682/",
+        "date": "2026-04-09",
+        "is_translated": false
+      },
+      {
+        "title": "【Cherry XTRFY K5 Pro TMR Compact レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Cherry XTRFY K5 Pro TMR Compact レビュー記事では、このコンパクトなキーボードの評価ポイントとして、設計と構造、キーボードの性能、操作性などが取り上げられています。記事では、キーボードの小型化による利点や、キーの押下感などについての詳細なレビューが行われています。特に、ゲーミングキーボードのファンや、小型キーボードを求めるユーザーにとって。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/cherry-k5-pro-tmr-compact-review/",
+        "date": "2026-04-09",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-09T02:08:26.284564"
+  "last_updated": "2026-04-09T10:12:39.318497"
 }
