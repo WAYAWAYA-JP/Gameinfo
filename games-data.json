@@ -24,6 +24,18 @@
         "deadline": "2026年04月16日まで",
         "url": "https://store.epicgames.com/ja/p/798328bff911452783523d61986170c0",
         "date": "2026-04-09"
+      },
+      {
+        "title": "Prop Sumo",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Prop Sumoは、ユニークなゲームプレイが特徴的なアクションゲームです。このゲームの魅力は、プレイヤーがさまざまなオブジェクトを使用して戦うことができ、戦略的な思考が要求されることです。また、簡単な操作でプレイできるため、初心者でも楽しめるようになっています。さらに、面白くて軽快なゲーム性が楽しめます。現在、Epic Gamesプラットフォームで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "¥9",
+        "discount": "100% OFF",
+        "deadline": "2026年04月16日まで",
+        "url": "https://store.epicgames.com/ja/p/67a9bcbc6b8e411e9265afb380fea91f",
+        "date": "2026-04-09"
       }
     ],
     "bundle": [
@@ -640,6 +652,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/264710",
         "date": "2026-04-09"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33は、 Variousで現在31%オフのセール中です。このゲームは、ユニークなゲームプレイと豊富なストーリーを特徴としています。評価も高く、多くのプレイヤーから人気を博しています。セール期間中は、通常価格よりも大幅に安く購入することができます。",
+        "price": "$34.68",
+        "originalPrice": "",
+        "discount": "-31%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-04-09"
       }
     ],
     "review": [
@@ -1188,8 +1212,86 @@
         "url": "https://doope.jp/2026/04165819.html",
         "date": "2026-04-09",
         "is_translated": false
+      },
+      {
+        "title": "【Steamで大注目のオープンワールド海賊サバイバル『Windrose / ウィンドローズ』4月...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで大注目を集めるオープンワールド海賊サバイバルゲーム「Windrose / ウィンドローズ」のレビュー記事があります。このゲームは、広大な海洋を自由に探索し、海賊としての生存を戦う内容です。評価ポイントとしては、自由度の高いゲーム性、美しいグラフィック、そして戦略的な戦闘システムが挙げられます。ゲームの内容は、初心者から上級者まで幅広いプレイヤーが楽しめるものとなっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260410-435855/",
+        "date": "2026-04-09",
+        "is_translated": false
+      },
+      {
+        "title": "【マインクラフト系ボクセルサンドボックスRPG「Everwind」初の大型アップデート“The ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "マインクラフト系ボクセルサンドボックスRPG「Everwind」の初の大型アップデート「The ...」のレビュー記事では、ゲームの評価ポイントとしてグラフィックの向上や新しいキャラクターの追加があげられます。さらに、レビューの内容概要としては、新しいゲームモードの導入やマップの拡張などが取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165876.html",
+        "date": "2026-04-09",
+        "is_translated": false
+      },
+      {
+        "title": "【死から甦ったナポレオンの近衛兵を描くソウルライク「Valor Mortis」の発売時期が202...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ソウルライクゲーム「Valor Mortis」のレビュー記事では、死から甦ったナポレオンの近衛兵を描いたこのゲームの評価ポイントとして、難易度やストーリーの面白さが挙げられます。また、レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの質も高く評価されています。対象読者としては、アクションゲームやソウルライクゲームのファンに最もお勧めできるゲームのひとつです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165875.html",
+        "date": "2026-04-09",
+        "is_translated": false
+      },
+      {
+        "title": "【“Astroneer”世界が舞台となる新作「STARSEEKER: Astroneer Exp...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「STARSEEKER: Astroneer Exp...」は、人気ゲーム「Astroneer」の世界を舞台にした新作です。このレビュー記事では、その魅力を紹介します。ゲームの評価ポイントとしては、独自の宇宙探索システムや美しいグラフィックがあげられます。また、記事では、ゲームのストーリーや操作感、そして新しい要素の導入についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04162356.html",
+        "date": "2026-04-09",
+        "is_translated": false
+      },
+      {
+        "title": "【Evil EmpireとMotion Twinが開発に参加する“悪魔城ドラキュラ”完全新作「キ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、Evil EmpireとMotion Twinが開発に参加した「悪魔城ドラキュラ」シリーズの完全新作について評価しています。評価ポイントとして、ゲームのグラフィックやサウンドトラックのクオリティ、ゲームプレイの複雑さなどが取り上げられています。また、レビューの内容は、新作の独自性やシリーズとの関連性、難易度の調整などについて詳しく説明しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165863.html",
+        "date": "2026-04-09",
+        "is_translated": false
+      },
+      {
+        "title": "【Over the Hill は SnowRunner の居心地の良いオフロードいとこのように見...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Over the Hill は SnowRunner の居心地の良いオフロードいとこのように見えますが、実際には独自の魅力を持っているゲームです。このレビューでは、ゲームの評価ポイントとして、運転のリアルさや、グラフィックの美しさ、そして自由度の高さを挙げています。また、ゲームの雰囲気やサウンドトラックも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/over-the-hill-looks-like-snowrunners-cosy-off-roading-cousin-and-its-new-trailer-shows-off-muddy-motoring-in-algeria-ahead-of-release-later-this-year",
+        "date": "2026-04-09",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-09T13:58:13.806496"
+  "last_updated": "2026-04-09T21:45:01.952502"
 }
