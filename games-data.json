@@ -242,6 +242,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/geeks-and-chicks-bundle",
         "date": "2026-04-10"
+      },
+      {
+        "title": "Humble 15 Golden Tales Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble 15 Golden Tales Bundleというバンドルが販売中です。このバンドルには、The Incredible Adventures of Van Helsing、Kingdoms and Castles、Northgardなどのタイトルが含まれており、アクションやアドベンチャー、シミュレーションなどのジャンルを網羅しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/15goldentalesbundle_bundle",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "Tower Defense 2",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Tower Defense 2を含むバンドルが販売中です。このバンドルには、主要タイトルとして「Tower Defense」、「Defender's Quest」、「Ancient Planet」などが収録されています。ジャンルは主にストラテジーゲームで、シンプルながらも面白いタワー・ディフェンスゲームが多数含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/towerdefense2_bundle",
+        "date": "2026-04-10"
       }
     ],
     "sale": [
@@ -627,6 +651,18 @@
         "discount": "-100%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/prop-sumo/info/",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Strayは、アクションアドベンチャーゲームで、猫の主人公が探索する3Dのオープンワールドを舞台に、様々な謎や敵と戦う内容になっています。現在、53%の割引で販売中のため、通常価格よりも大幅に安くなっています。このゲームは、ユニークな設定とスムーズなゲームプレイが評価されており、多くのプレイヤーから人気を博しています。",
+        "price": "$13.95",
+        "originalPrice": "",
+        "discount": "-53%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-04-10"
       }
     ],
@@ -1306,8 +1342,21 @@
         "url": "https://www.rockpapershotgun.com/epomaker-he68-lite-gaming-keyboard-review",
         "date": "2026-04-10",
         "is_translated": true
+      },
+      {
+        "title": "【ローグライクなオートバトルを安全にプレイしている間、Skull Horde は私の燃えるような...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、Skull Horde というゲームについて評価しています。ゲームの特徴として、ローグライクなオートバトルが安全にプレイできる点が挙げられています。ゲームの評価ポイントとしては、バトルシステムの独自性や安全性が高く評価されています。記事の内容は、Skull Horde の魅力を細かく紹介しており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/while-it-plays-its-roguelike-autobattling-safe-skull-horde-does-put-a-smile-on-my-flaming-skeleton-head",
+        "date": "2026-04-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-10T13:25:13.798214"
+  "last_updated": "2026-04-10T21:37:21.353995"
 }
