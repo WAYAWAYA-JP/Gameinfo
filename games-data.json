@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Metroidvania Mayhem Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Metroidvania Mayhem Bundleというバンドルが販売中です。このバンドルには、Axiom Verge、Guacamelee!、Ori and the Blind Forestなどのメトロイドヴァニアジャンルのゲームが収録されています。大まかな価格帯は、約2,000円から約4,000円と様々です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/metroidvaniamayhembundle_bundle",
-        "date": "2026-03-31"
-      },
-      {
-        "title": "Frictional Games: Amnesia, SOMA, Penumbra",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Frictional Gamesのバンドルが販売中です。このバンドルには、サバイバルホラーゲームの「Amnesia」や「SOMA」、および「Penumbra」などの主要タイトルが含まれています。これらのゲームは、ホラーとサスペンスが特徴的な作品です。価格帯はおおよそ1000円から2000円程度で、興味がある方にはお勧めのバンドルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/frictionalgamesamnesiasomapenumbra_bundle",
-        "date": "2026-03-31"
-      },
-      {
         "title": "Strategic Minds Collection",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,42 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Vornyca",
-        "platform": "Various",
-        "type": "sale",
-        "description": "VornycaがVariousで現在100%割引のセール中です。このゲームはアクションアドベンチャー要素を含むロールプレイングゲームで、独自の世界観と魅力的なストーリーが特徴です。100%割引により、通常価格より大幅に安くなっています。ユーザーの評価は非常に高く、人気度も高いので、ゲームファンにはお勧めです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/vornyca/info/",
-        "date": "2026-04-03"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ロックスター・ゲームズが開発したオープンワールド・ウェスタン・アクションアドベンチャーゲームのRed Dead Redemption 2が、現在Variousで75%割引されています。このゲームは、壮大なストーリーとリアルなグラフィックで高い評価を受けており、多くのゲームファンに愛されています。",
-        "price": "$14.99",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-04-03"
-      },
-      {
-        "title": "Disco Elysium - The Final Cut",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Disco Elysium - The Final CutがVariousで75%オフのセール中です。このゲームは、オープンワールドとRPGの要素を組み合わせたユニークなゲームで、主人公の探偵がさまざまなミステリーを解決するというストーリーです。高評価を得ているこのゲームは、豊富な物語と深いキャラクター設定が特徴で、ファンから高い人気を誇っています。",
-        "price": "$9.99",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
-        "date": "2026-04-03"
-      },
       {
         "title": "グランド・セフト・オートV エンハンスト",
         "platform": "Steam",
@@ -667,84 +607,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【『Slay the Spire 2』は“プレイ以外”も超楽しい。コイン落としローグライク『RA...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Slay the Spire 2』は、プレイヤーがカードやアイテムを駆使してダンジョンを攻略するローグライクゲームで、ゲームの評価ポイントとしては、戦略的で深いシステムや、プレイヤーの選択によって変わる多様な展開が魅力です。レビューの内容概要としては、ゲームのリプレイ性やカードのバランスが評価されます。対象読者としては、ローグライクゲームやカードゲームのファンにすすめます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260405-434767/",
-        "date": "2026-04-05",
-        "is_translated": false
-      },
-      {
-        "title": "【『ライフ イズ ストレンジ リユニオン』は初代作のファンにこそプレイしてほしい。人生は奇妙なだ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ライフ イズ ストレンジ リユニオン』は初代作のファンにこそプレイしてほしいゲームです。このゲームの評価ポイントとしては、ストーリーの深みやキャラクターの成長が挙げられます。レビューの内容概要としては、ゲームの世界観や物語の展開が高く評価されています。また、ゲームのテーマが人生の奇妙な部分に焦点を当てている点も特徴的です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/life-is-strange-reunion-20260403-434358/",
-        "date": "2026-04-05",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料『サカつく2026』強豪ひしめく“魔境”スペインでもがき苦しむガチプレイ日記。久...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「サカつく2026」のレビュー記事では、基本プレイ無料のこのゲームの魅力が紹介されています。このゲームは、スペインという強豪チームがひしめく「魔境」で、ガチプレイするプレイヤーの日記が綴られています。記事では、ゲームの評価ポイントとして、対戦の難易度やチームの育成が述べられています。対象読者は、スポーツゲームやオンラインゲームが好きな人向けです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260405-434725/",
-        "date": "2026-04-05",
-        "is_translated": false
-      },
-      {
-        "title": "【『ぽこ あ ポケモン』「メタモン」派は約2割で、好きなキャラ派は少数!? 959人が回答した「...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "959人が回答したレビュー記事によると、ポケモン好きの中で「メタモン」が好きな人は約2割で、好きなキャラクターを持っている人は少数派であることがわかりました。このレビューは、ポケモンのファンやゲーム好きの人が読むのに適しています。特に「メタモン」ファンの方は必読の記事です。また、ポケモンシリーズの評価ポイントやレビューの内容を知りたい方にもお勧めです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/04/05/179539.html",
-        "date": "2026-04-05",
-        "is_translated": false
-      },
-      {
-        "title": "【スーパーマリオギャラクシームービーには悪いレビューを擁護する必要はない】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "スーパーマリオギャラクシーの映画化に対する悪評を擁護する必要はないと指摘するレビュー記事があります。この記事では、映画のグラフィックやサウンドトラック、ストーリーの面で評価ポイントを示しています。また、ゲームファンや映画ファンの両方にとって、映画の評価や期待感について興味深い内容を提供しています。ゲームや映画のレビューに興味がある方にはおすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/patch-notes-super-mario-galaxy-movie/",
-        "date": "2026-04-05",
-        "is_translated": true
-      },
-      {
-        "title": "【10周年を迎えた人気弾幕シューティングローグライト「Enter the Gungeon」のプレ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "人気弾幕シューティングゲーム「Enter the Gungeon」が10周年を迎えました。このゲームはローグライト要素を取り入れたユニークなゲームプレイが特徴で、プレイヤーは様々な敵と戦いながらアイテムを集めていきます。このレビューでは、ゲームの評価ポイントとして、ゲームの難易度や繰り返しプレイ性、グラフィックの魅力などを取り上げています。また、ゲームのシステムや操作感も紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165727.html",
-        "date": "2026-04-05",
-        "is_translated": false
-      },
       {
         "title": "【『R6S』モバイル版の大会「虹モバストリーマーフェス」が開催！Appleの12キル、Greed...：レビュー】",
         "platform": "インサイド",
@@ -1290,8 +1152,99 @@
         "url": "https://www.rockpapershotgun.com/over-the-hill-looks-like-snowrunners-cosy-off-roading-cousin-and-its-new-trailer-shows-off-muddy-motoring-in-algeria-ahead-of-release-later-this-year",
         "date": "2026-04-09",
         "is_translated": true
+      },
+      {
+        "title": "【スクエニ騙し合いマルチ『KILLER INN（キラーイン）』Steamにて週末無料プレイ開始。...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "スクエニの新作ゲーム「KILLER INN（キラーイン）」は、Steamで週末に無料プレイが開始されました。このゲームは、プレイヤーが互いに騙し合いながら、真実を探り出すマルチプレイヤーゲームです。レビューでは、ゲームの評価ポイントとして、戦略的なプレイが要求されること、他のプレイヤーとの交流が重要であること、そしてゲームの緊張感とサスペンスが高まるところが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/killer-inn-20260410-435997/",
+        "date": "2026-04-10",
+        "is_translated": false
+      },
+      {
+        "title": "【暗黒の墓守生活ゲーム『Graveyard Keeper』Steamにて3日間限定で無料配布中。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Graveyard Keeper』は、ステーションを管理するユニークなゲームで、Steamで3日間限定で無料配布中です。このゲームの評価ポイントは、ユーモアとサバイバル要素のバランスが取れていることです。レビューの内容概要としては、ゲームの独特な世界観とシステムが高く評価されています。また、プレイヤーは死体を埋葬したり、ステーションを管理したりすることでゲームを進めていきます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/gk-20260410-435973/",
+        "date": "2026-04-10",
+        "is_translated": false
+      },
+      {
+        "title": "【1000回アプデされたオープンワールド部族ゲーム『Soulmask』はもはや“遊んだら危ない”...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、1000回以上のアップデートを経たオープンワールド部族ゲーム『Soulmask』について取り上げています。ゲームの評価ポイントとして、グラフィックやゲームプレイの改善、そしてさまざまなバグの修正が挙げられます。記事では、ゲームの良さや悪さについて詳細に述べられており、ゲームファンや『Soulmask』のプレイヤーにとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/soulmask-20260410-435175/",
+        "date": "2026-04-10",
+        "is_translated": false
+      },
+      {
+        "title": "【恐怖と狂気に飲まれるアマゾンの女王を描く「ディアブロ IV: 憎悪の帝王」拡張の新たな短編映像...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「ディアブロ IV: 憎悪の帝王」拡張の新たな短編映像のレビュー記事では、ゲームの評価ポイントとして、ストーリーの深さやキャラクターの造形が評価されています。また、レビューの内容概要としては、ゲームの世界観やゲームプレイの面白さが紹介されています。このレビュー記事は、ゲームファンやアクションRPGの愛好家にとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165910.html",
+        "date": "2026-04-10",
+        "is_translated": false
+      },
+      {
+        "title": "【ガントレットの能力を紹介する「EXODUS」の新たなゲームプレイ映像が公開、元BioWareの...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、ガントレットの能力を紹介する「EXODUS」の新たなゲームプレイ映像が公開されたことを取り上げており、元BioWareのデベロッパーが参加していることも紹介しています。ゲームの評価ポイントとしては、ガントレットの能力の多様性や、ゲームプレイのスムーズ性が挙げられます。また、レビューの内容概要としては、ゲームのグラフィックやサウンドデザインの高さも評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165908.html",
+        "date": "2026-04-10",
+        "is_translated": false
+      },
+      {
+        "title": "【“art of rally”を生んだFunselektorの次回作「over the hill...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「art of rally」を生んだFunselektorの新作「over the hill...」のレビュー記事では、このゲームの評価ポイントとして、独自のグラフィックやサウンドトラック、そしてゲーム性の革新性が高く評価されています。レビューの内容概要としては、新しいゲームプレイスタイルの導入や、プレイヤーの自由度の向上が指摘されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165870.html",
+        "date": "2026-04-09",
+        "is_translated": false
+      },
+      {
+        "title": "【新ダメージヒーロー“シエラ”をお披露目する「オーバーウォッチ」のゲームプレイトレーラーがお披露...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「オーバーウォッチ」の新しいダメージヒーロー「シエラ」の紹介を含むゲームプレイトレーラーについてのレビュー記事です。評価ポイントとしては、シエラの能力や戦闘スタイル、トレーラーの映像や音響のクオリティが挙げられます。シエラのユニークな能力がチームプレイにどのように影響するか、またトレーラーがゲームの雰囲気をどう表現しているかが兴味深い点です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165899.html",
+        "date": "2026-04-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-09T21:45:01.952502"
+  "last_updated": "2026-04-10T02:27:59.063169"
 }
