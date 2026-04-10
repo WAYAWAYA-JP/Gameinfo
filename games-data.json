@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/checkmatechessgamescollection_bundle",
         "date": "2026-04-09"
+      },
+      {
+        "title": "HHGeeks & Chicks Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、HHGeeks & Chicks Bundleというバンドルの販売が行われています。このバンドルには、主要タイトルとして「Cherry Blossom」や「Always Remember Me」、「Cute Knight Kingdom」などのタイトルが含まれています。ジャンルは、ロールプレイングゲームやアドベンチャーゲームが中心です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/geeks-and-chicks-bundle",
+        "date": "2026-04-10"
       }
     ],
     "sale": [
@@ -604,6 +616,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-04-09"
+      },
+      {
+        "title": "Prop Sumo",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Prop SumoがVariousで-100%セール中です。ファンによる評価が非常に高いこのゲームは、ユニークなゲームプレイと面白い要素で知られており、非常に人気があります。セール期間中は元価格より100%割引されるので、通常価格よりも大幅に安くなります。このゲームのジャンルはアクションであり、プレイヤーはさまざまな場所で戦いながら進みます。高い評価と人気度から、多くのユーザーに楽しまれています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/prop-sumo/info/",
+        "date": "2026-04-10"
       }
     ],
     "review": [
@@ -1243,8 +1267,47 @@
         "url": "https://doope.jp/2026/04165899.html",
         "date": "2026-04-09",
         "is_translated": false
+      },
+      {
+        "title": "【オープンワールド部族サバイバル『Soulmask』正式リリースで「Steam同接1万人超」の大...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "オープンワールド部族サバイバルゲーム『Soulmask』が正式リリースされ、Steamで同時接続者1万人を超える人気を博しています。このゲームの評価ポイントとしては、広大なオープンワールドマップを自由に探索できる点や、独自の部族システムが挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの高品質さや、プレイヤー同士の協力プレイの楽しさが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260410-436182/",
+        "date": "2026-04-10",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料・戦車“ヒーローシューター”『World of Tanks: HEAT』4月16...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『World of Tanks: HEAT』は、基本プレイ無料の戦車シューティングゲームです。このゲームの評価ポイントとして、戦車のカスタマイズやマルチプレイヤー機能が挙げられます。レビューの内容概要として、戦車のバランスの良さやグラフィックの美しさが評価されています。また、戦略性やアクション性も高く、戦車ゲームファンやアクションゲーム好きのプレイヤーにオススメできるゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260410-436103/",
+        "date": "2026-04-10",
+        "is_translated": false
+      },
+      {
+        "title": "【Epomaker HE68 Lite ゲーミング キーボード レビュー: プレミアムなトリック...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Epomaker HE68 Lite ゲーミング キーボードは、プレミアムなトラックボールとキーボードの組み合わせで、ユーザーに高級感を提供します。このレビュー記事では、キーボードの評価ポイントとしてデザイン、パフォーマンス、価格のコストパフォーマンスを取り上げています。また、ユーザーのニーズに応じたカスタマイズ性や、ゲームプレイにおける快適さも評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/epomaker-he68-lite-gaming-keyboard-review",
+        "date": "2026-04-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-10T02:27:59.063169"
+  "last_updated": "2026-04-10T10:08:09.681650"
 }
