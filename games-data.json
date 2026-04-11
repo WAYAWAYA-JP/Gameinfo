@@ -242,6 +242,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/towerdefense2_bundle",
         "date": "2026-04-10"
+      },
+      {
+        "title": "Strategic Minds Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Strategic Minds Collectionと呼ばれるバンドルが販売中です。このバンドルには、戦略性に富んだゲームが数多く含まれており、主なタイトルとしては、戦略シミュレーションゲームやストラテジー系ゲームが含まれています。ジャンルは主にストラテジーゲームで、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/strategicmindscollection_bundle",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "Best of Humble: Fight 4 Your Friends",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Best of Humble: Fight 4 Your Friendsというバンドルが販売中です。このバンドルには、主要タイトルとして『Streets of Rage 4』や『River City Girls』、そして『Double Dragon IV』などが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/bohfight4yourfriendsupdate_bundle",
+        "date": "2026-04-11"
       }
     ],
     "sale": [
@@ -580,6 +604,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-04-10"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ロックスターゲームズが制作したオープンワールドアクションアドベンチャーゲーム「Red Dead Redemption 2」が、現在78%の割引で販売中です。このゲームは、高度なグラフィックと豊かなストーリーで知られており、オープンワールドゲームのファンに人気があります。ユーザーの評価も非常に高く、多くのゲーマーから高く評価されています。",
+        "price": "$13.45",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-04-11"
       }
     ],
     "review": [
@@ -1193,8 +1229,60 @@
         "url": "https://doope.jp/2026/04165925.html",
         "date": "2026-04-11",
         "is_translated": false
+      },
+      {
+        "title": "【“フレームレート4fpsくらい”で『レッド・デッド・リデンプション2』を平然と遊び続ける実況プ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、人気ゲーム『レッド・デッド・リデンプション2』を非常に低いフレームレートで遊んだ実況プレイヤーについて紹介しています。記事では、実況プレイヤーの様子やゲームの評価ポイント、そしてこのような低スペック環境でのプレイが可能な点などについて触れています。特に、グラフィックの美しさやゲーム性の高さが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260411-436467/",
+        "date": "2026-04-11",
+        "is_translated": false
+      },
+      {
+        "title": "【海底都市ルルイエを探索する“クトゥルフ”Sci-Fiホラー「Cthulhu: The Cosm...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、海底都市ルルイエを探索する「Cthulhu: The Cosmic Horror」ゲームの魅力を紹介しています。ゲームの評価ポイントとして、ホラー要素とSci-Fiの融合が際立っており、プレイヤーを引き込むストーリーやグラフィックが特徴的です。また、レビューではゲームの難易度や操作性についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165945.html",
+        "date": "2026-04-11",
+        "is_translated": false
+      },
+      {
+        "title": "【噂：Nintendo Switch 2版「Marvel’s Guardians of the ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、Nintendo Switch 2版の「Marvel’s Guardians of the Galaxy」を評価しています。ゲームの評価ポイントとして、ストーリーの面白さやキャラクターの魅力が高く評価されています。また、グラフィックやサウンドトラックも高品質で、ゲームの世界観を引き立てています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165947.html",
+        "date": "2026-04-11",
+        "is_translated": false
+      },
+      {
+        "title": "【マーシーやファラを含む古参ヒーローの強化調整を含む「オーバーウォッチ」の新たな取り組みがアナウンス：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「オーバーウォッチ」の新たな取り組みがアナウンスされたことを紹介するレビュー記事です。この記事では、マーシーやファラを含む古参ヒーローの強化調整など、新しいアップデートの内容を詳しく紹介しています。ゲームの評価ポイントとしては、ヒーローのバランス調整や新しい機能の追加が見どころです。また、ゲームのレビューの内容概要としては、ゲームの新しい方向性やプレイヤーへの影響が説明されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165934.html",
+        "date": "2026-04-11",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-11T02:07:34.517311"
+  "last_updated": "2026-04-11T09:39:06.778533"
 }
