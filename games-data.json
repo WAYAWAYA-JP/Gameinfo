@@ -616,6 +616,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
         "date": "2026-04-11"
+      },
+      {
+        "title": "Warhammer 40,000: Space Marine 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Warhammer 40,000: Space Marine 2は、アクションパックされたアクションアドベンチャーゲームで、人気のWarhammer 40,000シリーズの第二弾となります。このゲームは、激しい戦闘シーンや壮大なストーリーで知られており、ファンから高い評価を得ています。現在、Variousで67%の割引キャンペーン中で、通常価格よりも大幅に安く入手することができます。",
+        "price": "$19.50",
+        "originalPrice": "",
+        "discount": "-67%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
+        "date": "2026-04-11"
       }
     ],
     "review": [
@@ -1281,8 +1293,21 @@
         "url": "https://doope.jp/2026/04165934.html",
         "date": "2026-04-11",
         "is_translated": false
+      },
+      {
+        "title": "【『アークナイツ：エンドフィールド』新バージョンは4月17日リリースへ。新プレイアブルキャラ「ゾ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『アークナイツ：エンドフィールド』の最新バージョンは4月17日にリリースされる予定です。この最新バージョンでは、新しいプレイアブルキャラクター「ゾ...」が追加され、ゲームの内容がさらに豊かになりました。このレビュー記事では、新キャラクターの能力やゲームの新要素などの評価ポイントについて取り上げています。さらに、ゲームのグラフィックやサウンドトラックの品質についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260411-436603/",
+        "date": "2026-04-11",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-11T09:39:06.778533"
+  "last_updated": "2026-04-11T13:13:19.447228"
 }
