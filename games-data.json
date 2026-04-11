@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Strategic Minds Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは「Strategic Minds Collection」というバンドルが販売中です。このバンドルには、戦略シミュレーションゲームの「Hard West」、「Phantom Doctrine」、「They Are Billions」などの主要タイトルが含まれています。戦略ゲームファン向けのコンテンツを集めたこのバンドルは、約5000円の価格帯で提供されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/strategicmindscollection_bundle",
-        "date": "2026-04-01"
-      },
-      {
-        "title": "Best of Humble: Fight 4 Your Friends",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、「Best of Humble: Fight 4 Your Friends」というバンドルが現在販売中です。このバンドルには、「Street Fighter V」や「Mortal Kombat 11」、「Tekken 7」などの人気格闘ゲームが含まれています。格闘ゲームファンにはおすすめのバンドルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/bohfight4yourfriendsupdate_bundle",
-        "date": "2026-04-01"
-      },
-      {
         "title": "Multiplayer Madness 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -269,66 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストがSteamで50%オフのセール中です。このゲームはオープンワールドアクションアドベンチャーのジャンルに属し、豊富なゲーム内容と高品質のグラフィックスが特徴です。現在の価格は大幅に割引されており、非常に魅力的です。グランド・セフト・オートシリーズは世界中で人気があり、高い評価を受けています。もし未プレイの方がいらっしゃる場合は、この機会にぜひお試しください。",
-        "price": "¥2,190",
-        "originalPrice": "¥4,380",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-04-04"
-      },
-      {
-        "title": "Borderlands 4",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Borderlands 4はVariousで現在48%オフのセール中です。このアクションパックされたFPSゲームは、ユニークなグラフィックと面白いキャラクターで人気を博しています。高評価を受けており、多くのプレイヤーから高い評価を得ています。価格も割引されており、通常よりも安く遊ぶことができます。FPSファンにはおすすめのゲームです。",
-        "price": "$36.11",
-        "originalPrice": "",
-        "discount": "-48%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/borderlands-4/info/",
-        "date": "2026-04-04"
-      },
-      {
-        "title": "TOMAK : Save the Earth Regeneration",
-        "platform": "Various",
-        "type": "sale",
-        "description": "TOMAK : Save the Earth Regenerationは、プラットフォームアクションゲームで、地球を救うためにさまざまなステージをクリアするという特徴があります。現在、Variousで100%割引されており、通常価格より大幅に安くなっています。このゲームは、ユーザーの評価が高く、人気度も高いことが特徴です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/tomak-save-the-earth-regeneration/info/",
-        "date": "2026-04-04"
-      },
-      {
-        "title": "Depths Of Horror: Mushroom Day",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Depths Of Horror: Mushroom Dayは、ホラー要素とアクションを融合させたサバイバルホラーゲームで、現在はVariousで100%割引されており、完全無料でプレイすることができます。このゲームは、ユニークなグラフィックと心臓を躍らす恐怖体験で人気を博しており、多くのプレイヤーから高評価を獲得していますので、ホラーゲームファンにはおすすめです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/depths-of-horror-mushroom-day/info/",
-        "date": "2026-04-04"
-      },
-      {
-        "title": "Tractor Racers",
-        "platform": "Various",
-        "type": "sale",
-        "description": "レースゲーム「Tractor Racers」がバラエティーな要素を含み、現在100%割引でセール中です。このゲームはユニークなコンセプトと簡単な操作で人気を博しており、プレイヤーから高評価を得ています。セール期間中は完全無料で体験できるため、レースゲームファンや新しいゲームを探している人にはおすすめです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/tractor-racers/info/",
-        "date": "2026-04-04"
-      },
       {
         "title": "Clone Drone in the Danger Zone",
         "platform": "Various",
@@ -667,110 +583,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【『R6S』モバイル版の大会「虹モバストリーマーフェス」が開催！Appleの12キル、Greed...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "この記事は、人気ゲーム『レインボーシックスシージ』のモバイル版の大会「虹モバストリーマーフェス」の開催について取り上げています。大会の内容や、参加チームの活躍などが紹介されています。特に、Appleチームの12キルやGreed...チームの活躍が目立ちます。この記事は、ゲームファンやeスポーツに関心がある方に興味がありそうです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/04/06/179549.html",
-        "date": "2026-04-06",
-        "is_translated": false
-      },
-      {
-        "title": "【特大規模オープンワールド『紅の砂漠』、早くもトロコンする猛者たち現る。2週間で“数百時間以上”...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、特大規模オープンワールドゲーム「紅の砂漠」のプレイレビューについて紹介しています。ゲームの評価ポイントとして、広大なオープンワールドの魅力や、豊富なゲーム内容が挙げられます。レビューの内容概要としては、2週間で数百時間以上プレイした猛者たちの体験談や、ゲームの完成度の高さが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260406-434943/",
-        "date": "2026-04-06",
-        "is_translated": false
-      },
-      {
-        "title": "【『鳴潮』のすごそうな技術表現を、専門家に聞いてみた。モーニエは“自分はやりたくない”、ツバキも...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「鳴潮」の技術表現に対する専門家の評価を紹介しています。モーニエやツバキなどのキャラクターの表現が評価ポイントになっています。ゲームのグラフィックやキャラクターの動きなどがリアルで高品質なものになっていることを専門家が評価しているようです。このレビューは、ゲーム好きやグラフィックへのこだわりがある方が読むのに適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/columnjp/wuwa-20260406-434901/",
-        "date": "2026-04-06",
-        "is_translated": false
-      },
-      {
-        "title": "【『地球防衛軍6』全世界隊員「100万人」突破。発売から3年半、じわじわ伸び続ける：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "地球防衛軍6は、発売から3年半が経過した今もじわじわと人気が伸び続けており、全世界の隊員数が100万人を突破しました。このゲームの評価ポイントとして、快適なゲームプレイや豊富なコンテンツが挙げられます。また、レビューでは、協力プレイやグラフィックの質の高さも高く評価されています。このゲームは、協力プレイを楽しむファンやアクションゲーム好きの方に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260406-434902/",
-        "date": "2026-04-06",
-        "is_translated": false
-      },
-      {
-        "title": "【オープンワールド世界の探索や素材の収集とクラフトを紹介する「アウトバウンド」のプレビュー映像が...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「アウトバウンド」のプレビュー映像のレビュー記事では、オープンワールド世界の探索や素材の収集、クラフトシステムなどのゲームの評価ポイントが紹介されています。ゲームの自由度やグラフィックの美しさが高く評価されており、オープンワールドゲームのファンにとっては必見の記事です。また、ゲームのシステムやストーリーの概要も簡潔にまとめられているため。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165750.html",
-        "date": "2026-04-06",
-        "is_translated": false
-      },
-      {
-        "title": "【スター・ウォーズ モール・シャドウ・ロード レビュー: 最高のシスの凱旋】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "スター・ウォーズ モール・シャドウ・ロードのレビュー記事「スター・ウォーズ モール・シャドウ・ロード レビュー: 最高のシスの凱旋」では、ゲームの評価ポイントとして、ゲームのストーリーやキャラクターの深み、ゲームプレイの楽しさが高く評価されています。記事では、ゲームのレビューの内容概要として、ゲームの世界観やサウンドトラックの素晴らしさ、キャラクターの成長システムの面白さについて触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/star-wars-maul-shadow-lord-review/",
-        "date": "2026-04-06",
-        "is_translated": true
-      },
-      {
-        "title": "【Faces of Death 2026 レビュー: Eemake は賢く、よく作られており、そ...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Faces of Death 2026 のレビュー記事では、このゲームの評価ポイントとして、賢いゲームデザインや優れた制作クオリティが挙げられています。また、レビューの内容概要として、ゲームのストーリーやゲームプレイの面白さが高く評価されています。この記事は、ホラーゲームファンや新しいゲームを探している人にとって、参考になる情報を提供する内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/faces-of-death-2026-remake-review/",
-        "date": "2026-04-06",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam長寿ハクスラARPG『Hero Siege』13年目にして“ログイン戦争”も発生の大...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamで配信されている長寿ハクスラARPG『Hero Siege』のレビュー記事では、13年目にしてログイン戦争が発生するなど大規模なトラブルが起こったことについて触れています。記事では、ゲームの長期的な更新の遅れやバグの多さ、ユーザーの要望に対する開発チームの対応の遅れなどが評価ポイントとして挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260406-435044/",
-        "date": "2026-04-06",
-        "is_translated": false
-      },
       {
         "title": "【人気ゾンビサバイバルシリーズ最新作「State of Decay 3」にゾンビ化した動物は登場...：レビュー】",
         "platform": "doope!",
@@ -1355,8 +1167,34 @@
         "url": "https://www.rockpapershotgun.com/while-it-plays-its-roguelike-autobattling-safe-skull-horde-does-put-a-smile-on-my-flaming-skeleton-head",
         "date": "2026-04-10",
         "is_translated": true
+      },
+      {
+        "title": "【本屋経営ゲーム「Tiny Bookshop」のPS5とXbox Series X|S版が本日発...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "本屋経営ゲーム「Tiny Bookshop」のPS5とXbox Series X|S版のレビュー記事では、ゲームの評価ポイントとして、ゲームプレイの面白さやグラフィックの美しさが挙げられています。また、レビューでは、ゲームのストーリーやシステムの魅力も紹介されています。このレビューは、ゲームファンや本屋経営に興味がある人に向けて書かれており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165941.html",
+        "date": "2026-04-11",
+        "is_translated": false
+      },
+      {
+        "title": "【“Astroneer”宇宙の星々を探索する「STARSEEKER: Astroneer Exp...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Astroneer」シリーズの最新作「STARSEEKER: Astroneer Exp...」は、宇宙の星々を自由に探索することができる、オープンワールドのアドベンチャーゲームです。このレビュー記事では、ゲームの評価ポイントとして、自由度の高い探索システムや、美しいグラフィック、そしてユニークなゲームプレイが取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165925.html",
+        "date": "2026-04-11",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-10T21:37:21.353995"
+  "last_updated": "2026-04-11T02:07:34.517311"
 }
