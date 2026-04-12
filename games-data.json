@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
         "date": "2026-04-11"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "No Man's SkyがSteamで60%オフのセール中です。このゲームはオープンワールドのサンドボックスゲームで、プレイヤーは広大な宇宙を探索し、惑星を発見し、リソースを収集することができます。サードパーソンシューティングやサバイバル要素も含まれており、自由度が高いゲームです。現在の価格は大幅に割引されており、興味がある方はお得に購入できます。",
+        "price": "¥2,600",
+        "originalPrice": "¥6,500",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/275850",
+        "date": "2026-04-12"
       }
     ],
     "review": [
@@ -1076,8 +1088,34 @@
         "url": "https://automaton-media.com/articles/newsjp/20260411-436603/",
         "date": "2026-04-11",
         "is_translated": false
+      },
+      {
+        "title": "【『ポケモンチャンピオンズ』のトライ＆エラーが早くて快適。『Elin』で“赤ちゃんプレイ”。近頃...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「ポケモンチャンピオンズ」と「Elin」について評価しています。ポケモンチャンピオンズはトライ＆エラーのスピードが早く、快適にプレイできるのが特徴です。一方、Elinでは「赤ちゃんプレイ」と呼ばれる初心者向けのプレイスタイルが楽しめます。この記事は、ゲーム好きや初心者が参考にできる内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260412-436819/",
+        "date": "2026-04-12",
+        "is_translated": false
+      },
+      {
+        "title": "【『サカつく2026』プレイ180時間目にして監督“クビ”寸前の危機。成功体験と数字に溺れた大失...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『サカつく2026』のレビュー記事では、プレイヤーが監督としてチームを率いて成功を収める体験と、ゲーム内の数字やデータに溺れて大失敗するという二極の感情を味わうことができることが評価ポイントとして挙げられています。さらに、記事ではこのゲームがサッカーゲームのファンやチームマネジメントに興味がある人に向けたコンテンツであると述べられており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260412-436724/",
+        "date": "2026-04-12",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-12T02:29:43.443119"
+  "last_updated": "2026-04-12T09:44:18.487211"
 }
