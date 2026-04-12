@@ -1114,8 +1114,21 @@
         "url": "https://automaton-media.com/articles/special-column/20260412-436724/",
         "date": "2026-04-12",
         "is_translated": false
+      },
+      {
+        "title": "【ファークライ 2 レビュー (2008)】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ファークライ2は、オープンワールドのアクションアドベンチャーゲームです。このレビュー記事では、ゲームの評価ポイントとしてグラフィックの質とゲームプレイの自由度が高く評価されています。また、ミッションのバラエティにも触れられており、プレイヤーがさまざまなシナリオを体験できることの魅力を述べています。対象読者は、オープンワールドゲームやアクションアドベンチャーゲームのファンである人でしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/far-cry-2-review-2008/",
+        "date": "2026-04-12",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-12T09:44:18.487211"
+  "last_updated": "2026-04-12T13:15:15.833059"
 }
