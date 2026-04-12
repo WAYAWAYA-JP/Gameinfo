@@ -40,18 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Multiplayer Madness 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Multiplayer Madness 2026というバンドルが販売中で、主なタイトルとして「Don't Starve Together」や「Rocket League」、「Jackbox Party Pack」などが含まれています。このバンドルは、主にマルチプレイヤーゲームを中心に構成されており、プレイヤー同士の協力や対戦を楽しむことができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/multiplayermadness2026_bundle",
-        "date": "2026-04-02"
-      },
-      {
         "title": "2K Tactics & Tycoons",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -269,42 +257,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Clone Drone in the Danger Zone",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲーム「Clone Drone in the Danger Zone」がバリエーションストアで100%割引のセール中です。このゲームは、ロボットを操作して様々な危険な状況を切り抜けるというユニークなコンセプトが特徴で、ファンから高い評価を得ています。現在は完全無料でプレイできるので、興味がある方はぜひこの機会にチェックしてみてください。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clone-drone-in-the-danger-zone/info/",
-        "date": "2026-04-05"
-      },
-      {
-        "title": "モンスターハンター：ワールド",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "モンスターハンター：ワールドは、Steamで74%オフのセール中です。このゲームは、アクションRPGのジャンルに属し、モンスターハンターシリーズの最新作として人気を博しています。プレイヤーは、さまざまな武器やスキルを使って、強大なモンスターと戦うことができます。ゲームの評価は非常に高く、多くのプレイヤーから好評を博しています。",
-        "price": "¥777",
-        "originalPrice": "¥2,990",
-        "discount": "74% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/582010",
-        "date": "2026-04-05"
-      },
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ノーマンズスカイがバリュー店で69%オフのセール中です、このアクションアドベンチャーゲームは、宇宙を自由に探索でき、様々な惑星や生物を発見することができます。現在の価格は大幅に割引されており、非常に安い価格で購入することができます。ゲームの評価は一般的に高く、多くのユーザーから好評価を得ています。また、ゲームのグラフィックやサウンドトラックも高く評価されており。",
-        "price": "$18.89",
-        "originalPrice": "",
-        "discount": "-69%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-04-05"
-      },
       {
         "title": "Hell is Us",
         "platform": "Various",
@@ -631,188 +583,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【人気ゾンビサバイバルシリーズ最新作「State of Decay 3」にゾンビ化した動物は登場...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "人気ゾンビサバイバルシリーズの最新作「State of Decay 3」は、ゾンビ化した動物が登場するなど、新しい要素を取り入れた作品です。このゲームの評価ポイントとしては、ゾンビ化した動物との戦闘のスリルや、サバイバル要素の充実があげられます。レビューの内容概要としては、新しい要素の導入や、グラフィックの向上などが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165736.html",
-        "date": "2026-04-07",
-        "is_translated": false
-      },
-      {
-        "title": "【初代「Pillars of Eternity」のターンベースモードが正式実装、ゲームプレイトレ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "初代「Pillars of Eternity」のターンベースモードが正式実装されたゲーム「Pillars of Eternity」のレビュー記事です。ゲームの評価ポイントとしては、ターンベースモードの導入により戦略性が増したこと、グラフィックの向上などが挙げられます。さらに、ストーリーやキャラクターの深みも評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165738.html",
-        "date": "2026-04-07",
-        "is_translated": false
-      },
-      {
-        "title": "【初代のSwitch対応や続編の新DLC、1886の進捗を含む「Frostpunk」フランチャイ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「Frostpunk」のフランチャイズについて扱っています。記事では、初代のSwitch対応や続編の新DLC、1886の進捗状況などを含むフランチャイズの最新情報を紹介しています。読者は、このゲームの評価ポイントやレビューの内容を知ることができます。特に、このゲームシリーズをプレイしているファンや、新しくシリーズに興味を持った人向けの情報が含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165737.html",
-        "date": "2026-04-07",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam高評価・クローン対決ホラーローグライト『It Has My Face』正式リリースで...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamで高評価を得ているホラーローグライトゲーム『It Has My Face』が正式にリリースされました。このゲームは、プレイヤーがクローンと対決しながら進めるユニークな要素や、ホラー要素が高く評価されています。レビューでは、ゲームの雰囲気やグラフィックの質が高く評価されています。また、ホラーゲームファンやローグライトゲームファンにとってはおすすめのゲームであると言えるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260407-435134/",
-        "date": "2026-04-07",
-        "is_translated": false
-      },
-      {
-        "title": "【大規模アップデートを導入した脱出系タクティカルFPS「Gray Zone Warfare」のプ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "脱出系タクティカルFPSの「Gray Zone Warfare」は、大規模アップデートを導入したゲームです。このゲームの評価ポイントとして、戦略的思考が求められるタクティカルなゲームプレイや、緊張感のある脱出要素が挙げられます。レビューの内容概要としては、ゲームの難易度や操作性、グラフィックの品質が評価されています。対象読者としては、タクティカルFPSや脱出ゲームを好むゲーマーが適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165730.html",
-        "date": "2026-04-07",
-        "is_translated": false
-      },
-      {
-        "title": "【新チャンピオン“アカリ”を導入する「2XKO」アップデート1.1.5のパッチノートが公開、配信...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "新しいチャンピオン「アカリ」を導入する「2XKO」アップデート1.1.5のパッチノートが公開されました。このアップデートでは、新チャンピオンのアカリの追加やゲームバランスの調整などが行われています。ゲームの評価ポイントとしては、アカリの能力やゲームの難易度が挙げられます。レビューの内容概要としては、アップデートの内容やゲームのバグの修正などが紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165767.html",
-        "date": "2026-04-07",
-        "is_translated": false
-      },
-      {
-        "title": "【モバイル版「Sea of Stars」が本日発売、ローンチトレーラーも：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "モバイル版「Sea of Stars」が発売され、ローンチトレーラーも公開されました。本作はグラフィックやサウンドトラックが高く評価されており、ゲームの雰囲気を高めています。また、ゲームのシステムやストーリーも評価ポイントになっています。本レビュー記事は、ゲームをプレイしたことがない人や、モバイルゲームに興味がある人に特にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165770.html",
-        "date": "2026-04-07",
-        "is_translated": false
-      },
-      {
-        "title": "【People of Note レビュー: 新しい音楽インディー RPG のアイデンティティを見...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "People of Note レビューは、新しい音楽インディーRPGのアイデンティティを見つけることに焦点を当てた記事です。このレビューでは、ゲームの独自の音楽システムやユニークなキャラクター設定が評価ポイントとして取り上げられています。また、ストーリーの深みやプレイヤーの選択肢の自由度も高く評価されています。このレビューは、音楽やRPGが好きな読者に向けて、ゲームの魅力を紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/people-of-note-review/",
-        "date": "2026-04-07",
-        "is_translated": true
-      },
-      {
-        "title": "【Nintendo Switch金子一馬ローグライク『KAZUMA KANEKO’S ツクヨミ』...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Nintendo Switchの新作ゲーム「KAZUMA KANEKO’S ツクヨミ」は、金子一馬氏によるローグライクゲームです。このレビュー記事では、ゲームの評価ポイントとして、ランダムに生成されるダンジョンや独自の戦闘システムが紹介されています。また、ゲームの難易度やグラフィックの魅力も評価されています。ゲームファンやローグライクゲームの愛好者が対象読者となります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260408-435240/",
-        "date": "2026-04-07",
-        "is_translated": false
-      },
-      {
-        "title": "【PS5とNintendo Switch版「Drop Duchy: Complete Editi...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "PS5とNintendo Switch版「Drop Duchy: Complete Edition」のレビュー記事では、ゲームの評価ポイントとして、ユニークなゲームシステムやグラフィックの美しさが高く評価されています。レビューの内容概要としては、ゲームのストーリーや操作感、サウンドトラックの評価が中心になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165778.html",
-        "date": "2026-04-07",
-        "is_translated": false
-      },
-      {
-        "title": "【金子一馬のダークな世界観とキャラをスイッチで堪能！『KAZUMA KANEKO'S ツクヨミ』...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、Nintendo Switch用ゲーム「KAZUMA KANEKO'S ツクヨミ」を評価しています。金子一馬氏のダークな世界観とキャラクターが特徴的なこのゲームは、スイッチでプレイすることで、その魅力をより一層感じることができます。レビューでは、ゲームの独自の世界観やキャラクター造形、ストーリーの奥深さなどが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/04/08/179637.html",
-        "date": "2026-04-07",
-        "is_translated": false
-      },
-      {
-        "title": "【Qualcomm Snapdragon X2 Elite のレビューは出ていますが、これらの第...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Qualcomm Snapdragon X2 Elite のレビューが公開されていますが、この記事では、これらのチップセットの評価ポイントやレビューの内容概要を紹介します。評価ポイントとしては、パフォーマンスの向上、効率性の改善、グラフィックスの品質が挙げられます。さらに、レビューの内容概要としては、実際の使用感やベンチマークの結果、他社製品との比較が含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-laptops/qualcomm-snapdragon-x2-elite-reviews-are-in-but-these-second-gen-windows-on-arm-chips-still-arent-grabbing-me-as-a-pc-gamer/",
-        "date": "2026-04-07",
-        "is_translated": true
-      },
-      {
-        "title": "【SteelSeries Aerox 3 Wireless Gen 2 レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "SteelSeries Aerox 3 Wireless Gen 2のレビュー記事では、ゲームプレイの快適性やワイヤレス接続の安定性、バッテリーの持続時間などが評価ポイントとして挙げられています。記事では、軽量で持久性のあるデザイン、優れたセンシティビティ、長時間のバッテリー持ちなどが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/steelseries-aerox-3-wireless-gen-2-review/",
-        "date": "2026-04-07",
-        "is_translated": true
-      },
-      {
-        "title": "【KuloNiku Bowl Up レビュー: ライフシミュレーション クッキング ゲームは、必...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "KuloNiku Bowl Up レビュー記事では、ライフシミュレーションとクッキング要素が融合されたゲームが紹介されています。このゲームの評価ポイントとしては、ユニークなゲーム性、リアルなクッキング体験、そしてストーリーの深みがあります。レビューの内容概要としては、ゲームの魅力、操作性、グラフィックのクオリティが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/kuloniku-bowl-up-review/",
-        "date": "2026-04-07",
-        "is_translated": true
-      },
       {
         "title": "【傑作宇宙開発シム「Kerbal Space Program」のプレイヤーが記録的な急増、月探査...】",
         "platform": "doope!",
@@ -1309,5 +1079,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-11T21:33:14.216239"
+  "last_updated": "2026-04-12T02:29:43.443119"
 }
