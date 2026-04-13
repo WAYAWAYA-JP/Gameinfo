@@ -258,66 +258,6 @@
     ],
     "sale": [
       {
-        "title": "Hell is Us",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「Hell is Us」が、Variousで63%オフのセール中です。このゲームは、ユニークなゲームプレイとグラフィックで注目を集めています。現在の価格は割引前と比べて大幅に安くなっています。ユーザーの評価は高く、人気のゲームとして知られていますので、興味がある方は今すぐチェックしてみてください。",
-        "price": "$18.49",
-        "originalPrice": "",
-        "discount": "-63%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hell-is-us/info/",
-        "date": "2026-04-06"
-      },
-      {
-        "title": "Hogwarts Legacy",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Hogwarts Legacyは、オープンワールドアクションアドベンチャーゲームです。このゲームでは、魔法学校ハogwartsを舞台に、プレイヤーは自分だけのキャラクターを作成して魔法の世界を体験できます。現在、16%割引で販売中です。評価も高く、人気ゲームとして注目を集めています。",
-        "price": "$50.39",
-        "originalPrice": "",
-        "discount": "-16%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
-        "date": "2026-04-06"
-      },
-      {
-        "title": "サブノーティカ：ビロウゼロ",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サブノーティカ：ビロウゼロは、Steamで現在75%オフのセール中です。このゲームは、水中を探索するサバイバルアクションゲームで、未知の海底世界を発見することができます。高い評価と人気度を誇るこのゲームは、通常価格よりも大幅に安くなっていますので、注目されたいと思います。",
-        "price": "¥1,075",
-        "originalPrice": "¥4,300",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/848450",
-        "date": "2026-04-06"
-      },
-      {
-        "title": "Outer Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Outer WildsがVariousで40%オフのセール中です。このゲームは、宇宙を探索するアドベンチャーゲームで、プレイヤーが謎を解くために惑星を移動します。評価も高く、多くのユーザーが好意的に評価しています。価格が割引されるので、興味がある方は今がチャンスです。",
-        "price": "$14.95",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
-        "date": "2026-04-06"
-      },
-      {
-        "title": "Manor Lords",
-        "platform": "Various",
-        "type": "sale",
-        "description": "中世を舞台にしたシミュレーションゲームであるManor Lordsが、現在35%の割引で販売中です。このゲームは、プレイヤーが中世の領主として街や町を建設し、管理するという、ユニークな都市開発シミュレーション要素を備えています。ゲームの評価は非常に高く、多くのプレイヤーから好評を博しています。割引価格での購入は、ゲームを試すために絶好の機会です。",
-        "price": "$25.99",
-        "originalPrice": "",
-        "discount": "-35%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/manor-lords/info/",
-        "date": "2026-04-06"
-      },
-      {
         "title": "CRIMSON DESERT",
         "platform": "Various",
         "type": "sale",
@@ -595,123 +535,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【傑作宇宙開発シム「Kerbal Space Program」のプレイヤーが記録的な急増、月探査...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "人気ゲーム「Kerbal Space Program」のプレイヤー数が急増しています。このゲームは宇宙開発をシミュレートするもので、プレイヤーは自ら宇宙船を設計して月や惑星への探査を試みます。このレビューでは、ゲームの評価ポイントとして、自由度の高いゲーム性やリアルな物理シミュレーションが高く評価されています。また、ゲームの難易度やグラフィックの質も評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165787.html",
-        "date": "2026-04-08",
-        "is_translated": false
-      },
-      {
-        "title": "【『アークナイツ：エンドフィールド』開発者「モバイルの成長は鈍化、PCプレイヤーが重要」―ハイエ...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "モバイルゲームの成長が鈍化していることは周知の事実です。この状況で、モバイルゲーム開発者の視点から、PCプレイヤーの重要性が強調されています。ゲーム評価のポイントとしては、グラフィックの質、ゲーム性、ストーリーの深さがあげられます。また、レビューの内容としては、モバイルゲームの限界とPCプレイヤーへのシフトの必要性が述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/04/08/179643.html",
-        "date": "2026-04-08",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料『Faaast Penguin』に新実装の“『PEAK』ライク”山登りモードは、...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料のゲーム『Faaast Penguin』に新しく実装された「PEAK」ライクの山登りモードが話題になっています。このモードは、プレイヤーが山を登ることを目標とし、様々な障害物を克服しながら登頂を目指します。ゲームの評価ポイントとしては、簡単な操作ながらも高度な技術が要求されること、そして美しいグラフィックが楽しめることが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260408-435363/",
-        "date": "2026-04-08",
-        "is_translated": false
-      },
-      {
-        "title": "【発売が迫る「ディアブロ IV: 憎悪の帝王」拡張の本格的なゲームプレイ映像が公開】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "発売が迫る「ディアブロ IV: 憎悪の帝王」拡張の本格的なゲームプレイ映像が公開されたことを受けて、レビュー記事を紹介します。このレビューでは、新しい拡張パックのゲーム性やグラフィックの向上、ストーリーの深化などについて評価しています。対象読者は、ディアブロシリーズのファンやアクションRPGを好むゲーマーです。記事では、拡張パックの新要素やシステムの改善などについても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165785.html",
-        "date": "2026-04-08",
-        "is_translated": false
-      },
-      {
-        "title": "【“マーベル”ベルトスクロールアクション“Marvel Cosmic Invasion”のアート...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "マーベル・コズミック・インベージョンは、ベルトスクロールアクションゲームとして高い評価を受けています。このゲームの評価ポイントは、美麗なグラフィックやスムーズな操作感、キャラクターのバリエーション豊富さなどです。レビューの内容概要としては、ゲームのステージデザインやサウンドトラックの質も高く評価されています。さらに、キャラクターの個性やストーリーの魅力も注目されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165798.html",
-        "date": "2026-04-08",
-        "is_translated": false
-      },
-      {
-        "title": "【世紀末キッチンカー営業シム『Wasteland Bites』Steamでさっそく高評価どしどし...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "世紀末を舞台にキッチンカーの営業を模拟するゲーム『Wasteland Bites』がSteamで高評価を集めています。このゲームは、プレイヤーがキッチンカーを運営し、さまざまなレシピを調理して顧客に提供することを目的とします。レビューの内容としては、ゲームの自由度が高く、さまざまなレシピを調理できること、ゲームのグラフィックやサウンドトラックが優れていることが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/wasteland-bites-20260408-435461/",
-        "date": "2026-04-08",
-        "is_translated": false
-      },
-      {
-        "title": "【冒頭の展開を紹介する「Forza Horizon 6」の本格的なゲームプレイ映像がお披露目、発...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Forza Horizon 6の本格的なゲームプレイ映像のレビュー記事では、グラフィックの質やゲームのスピード感などの評価ポイントが紹介されています。記事では、ゲームの冒頭の展開や操作性の感覚などについても触れています。この記事は、レースゲームやカーレースのファンであれば、Forza Horizon 6の魅力をさらに深く理解できるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165782.html",
-        "date": "2026-04-08",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam の新しいアップデートに含まれる「フレームレート推定ツール」の証拠は、Valve の...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、Steamの新しいアップデートに含まれる「フレームレート推定ツール」の特徴や、Valveの開発計画について詳しく説明しています。ゲームの評価ポイントとして、ツールの使用方法や、ゲームのパフォーマンスへの影響が取り上げられています。此外、レビューではツールの利点や欠点についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/framerate-estimator-evidence-in-steams-new-update-points-to-more-detailed-performance-tests-than-valves-verified-programmes",
-        "date": "2026-04-08",
-        "is_translated": true
-      },
-      {
-        "title": "【ハイタイムズのドーナツショップのロマンスプレビューは、スタイリッシュな新しいデートシムのひねり...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ハイタイムズのドーナツショップのロマンスプレビューは、スタイリッシュな新しいデートシムのひねりが特徴です。このゲームの評価ポイントとしては、ユニークな設定やキャラクターの魅力が挙げられます。レビューでは、ゲームのストーリーやシステムについて概要が紹介されており、デートシムファンや新しいゲームを探している人にとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/high-times-demo-impressions-donut-shop-visual-novel-romance/",
-        "date": "2026-04-08",
-        "is_translated": true
-      },
       {
         "title": "【日本が舞台となる「Forza Horizon 6」の全体マップがお披露目、多彩な新情報と解説映像も：レビュー】",
         "platform": "doope!",
@@ -1127,8 +950,47 @@
         "url": "https://www.pcgamer.com/games/fps/far-cry-2-review-2008/",
         "date": "2026-04-12",
         "is_translated": true
+      },
+      {
+        "title": "【『Apex Legends』約2年ぶりに「Steam同接30万人突破」。“シーズン途中”なのに...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Apex Legends』は約2年ぶりにSteamで同时接続者30万人を突破したと発表されました。このゲームは、シーズン途中というタイミングながらも高い人気を誇っています。レビュー記事では、ゲームの評価ポイントとして、新しいシーズンの導入やキャラクターのバランス調整などが取り上げられています。また、記事では、ゲームの長所として、チームワークや戦略性を重視したゲームプレイが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260413-436963/",
+        "date": "2026-04-13",
+        "is_translated": false
+      },
+      {
+        "title": "【力を持つ歯を抜き差ししながらダンジョンの最深部を目指すローグライクRPG「Sol Cesto」...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Sol Cesto」は、ローグライクRPGの要素とユニークなシステムを組み合わせたゲームです。力を持つ歯を抜き差ししながらダンジョンの最深部を目指すという新しいゲームプレイが特徴です。このゲームの評価ポイントとしては、独自のシステムと深いストーリーが挙げられます。レビューの内容概要としては、ゲームのシステムやストーリー、難易度について触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165927.html",
+        "date": "2026-04-13",
+        "is_translated": false
+      },
+      {
+        "title": "【海賊テーマのサバイバルアドベンチャー「Windrose」のゲームプレイ映像が公開、早期アクセス...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "海賊テーマのサバイバルアドベンチャーゲーム「Windrose」のゲームプレイ映像が公開され、早期アクセスが開始されました。このゲームは、海賊の生き残りをテーマにしており、プレイヤーは海賊の一員として、島を探索し、物資を集め、他の海賊と戦う必要があります。評価ポイントとしては、ゲームのグラフィックやサウンドトラック、そして自由度の高いゲームプレイが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165955.html",
+        "date": "2026-04-13",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-12T21:34:57.591488"
+  "last_updated": "2026-04-13T02:34:32.637711"
 }
