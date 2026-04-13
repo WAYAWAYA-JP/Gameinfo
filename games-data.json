@@ -532,6 +532,30 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/275850",
         "date": "2026-04-12"
+      },
+      {
+        "title": "Monster Hunter Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "人気のハンティングアクションゲーム「Monster Hunter Wilds」が現在、Variousで54%割引のセール中です。このゲームは、モンスターを狩りながら装備を強化していくアクション要素と、オープンワールドの自由な探索が魅力です。ゲームの評価は非常に高く、多くのユーザーから好評価を得ています。セール期間中は、通常価格より大幅に安くなっているので、ゲームファンにはおすすめです。",
+        "price": "$32.19",
+        "originalPrice": "",
+        "discount": "-54%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "Hogwarts Legacy",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Hogwarts LegacyはオープンワールドアクションRPGで、ハリー・ポッターの魔法世界を自由に探索できるゲームです。このゲームは、魔法使いの学生となり、さまざまなスキルや呪文をマスターしながら、冒険を進めていきます。現在、Variousで86%オフのセール中で、非常に魅力的です。評価も高く、人気ゲームの一つとなっています。",
+        "price": "$8.39",
+        "originalPrice": "",
+        "discount": "-86%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
+        "date": "2026-04-13"
       }
     ],
     "review": [
@@ -989,8 +1013,47 @@
         "url": "https://doope.jp/2026/04165955.html",
         "date": "2026-04-13",
         "is_translated": false
+      },
+      {
+        "title": "【人気都市づくりシム『Cities: Skylines』に「約3万時間プレイ」した不評レビューが...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "都市づくりシムの『Cities: Skylines』に約3万時間プレイしたユーザーの不評レビューが話題になっています。このレビューでは、ゲームの繰り返しの多いシステムや、都市の成長に伴うバグの発生などが指摘されています。また、レビューの内容は、長時間プレイしたユーザーにとっては新しい発見がないことや、都市の管理が面倒なことなどが挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260413-437065/",
+        "date": "2026-04-13",
+        "is_translated": false
+      },
+      {
+        "title": "【傑作『洞窟物語』Steam版にまさかの大型アプデ到来、「2人協力プレイ」についに対応。Swit...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、人気ゲーム『洞窟物語』のSteam版に大型アップデートが実施され、待ちに待った2人協力プレイモードが追加されたことを紹介しています。記事では、新しいゲームモードの評価やアップデートの内容、そしてスイッチ版との違いなどについて触れています。特に、協力プレイのやり込み要素や新しいステージの追加などが評価ポイントとして挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260413-437001/",
+        "date": "2026-04-13",
+        "is_translated": false
+      },
+      {
+        "title": "【「Dragon Age: Inquisition」のPS3向けマルチプレイヤーサービス終了がア...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Dragon Age: InquisitionのPS3向けマルチプレイヤーサービス終了が発表されたことを受けて、レビュー記事が公開されています。この記事では、ゲームの評価ポイントとして、ストーリーの深み、キャラクターの魅力、グラフィックの美しさが取り上げられています。また、レビューの内容概要として、ゲームの世界観の広さ、プレイヤーの選択肢の豊富さ、戦闘システムの複雑さが紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165959.html",
+        "date": "2026-04-13",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-13T02:34:32.637711"
+  "last_updated": "2026-04-13T10:44:13.777185"
 }
