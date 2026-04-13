@@ -580,6 +580,54 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
         "date": "2026-04-13"
+      },
+      {
+        "title": "BIOHAZARD RE:2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "BIOHAZARD RE:2がSteamで75% OFFのセール中です。このゲームはホラーアクションアドベンチャーゲームで、バイオハザードシリーズの2作目のリメイクです。グラフィックやサウンドが大幅に改善されており、生々しいホラーの世界を体験できます。Steamユーザーからの評価は「非常に好評」です。通常価格から大きく値下げされたこのセールは、シリーズファンやホラーゲーム好きにはおすすめです。",
+        "price": "¥997",
+        "originalPrice": "¥3,990",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/883710",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "Resident Evil Village",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Resident Evil VillageがVariousで79%オフのセール中です。このゲームはホラーアクションジャンルに分類され、スリリングなゲームプレイと心臓を脳天に飛び出させるほど怖い恐怖要素が特徴です。通常の価格から大幅に値下げされたこのセールはお見逃しできないチャンスです。ユーザーの評価も非常に高く、人気度も高いので、ホラーゲームファンには必見のタイトルとなっています。",
+        "price": "$8.39",
+        "originalPrice": "",
+        "discount": "-79%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-village/info/",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "RESIDENT EVIL 2 (2019)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "RESIDENT EVIL 2（2019）は、サバイバルホラーゲームの名作で、現在Variousで79%の割引を受けることができます。このゲームは、高度なグラフィックと激しいアクションで知られており、ファンから高い評価を得ています。恐怖とスリルの組み合わせが特徴的なこのゲームは、ホラーゲームファンに人気があります。",
+        "price": "$8.39",
+        "originalPrice": "",
+        "discount": "-79%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-2-2019/info/",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "Divinity: Original Sin 2 - Definitive Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "『Divinity: Original Sin 2 - Definitive Edition』は、ロールプレイゲームのジャンルに属する人気ゲームで、現在は75%割引のセール中です。このゲームは、その深いストーリーと自由度の高いゲームプレイが特徴です。多くのユーザーから高評価を受けており、ロールプレイゲームファンには必見のタイトルです。",
+        "price": "$11.24",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/divinity-original-sin-2-definitive-edition/info/",
+        "date": "2026-04-13"
       }
     ],
     "review": [
@@ -1115,8 +1163,21 @@
         "url": "https://www.pcgamer.com/hardware/gaming-monitors/gigabyte-mo27q28gr-review/",
         "date": "2026-04-13",
         "is_translated": true
+      },
+      {
+        "title": "【AtomMan G1 Pro レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "本記事は「AtomMan G1 Pro」のレビュー記事です。ゲームの評価ポイントとして、グラフィックの高さ、ゲームプレイの面白さ、操作性の良さなどを考慮しています。レビューの内容概要は、ゲームのストーリー、キャラクターの魅力、難易度の適切さなどを含みます。この記事は、ゲームファンや新しいゲームを探している人にとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-pcs/atomman-g1-pro-review/",
+        "date": "2026-04-13",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-13T13:55:43.297784"
+  "last_updated": "2026-04-13T21:51:08.325754"
 }
