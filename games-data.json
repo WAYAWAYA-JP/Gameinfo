@@ -556,6 +556,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
         "date": "2026-04-13"
+      },
+      {
+        "title": "Manor Lords",
+        "platform": "Various",
+        "type": "sale",
+        "description": "中世を舞台にしたシミュレーションゲーム「Manor Lords」がVariousで35%オフのセール中です。このゲームでは、プレイヤーは中世の都市を建て上げ、管理することができます。評価は非常に高く、ユーザーから人気があります。セール期間中は割引価格で購入することができるので、興味がある方はお勧めです。",
+        "price": "$25.99",
+        "originalPrice": "",
+        "discount": "-35%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/manor-lords/info/",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "Dragon's Dogma 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションRPGゲームであるDragon's Dogma 2が、現在Variousで65%割引のセール中です。このゲームは、広大なオープンワールドを自由に探索できることが特徴で、ユーザーからの評価も非常に高い人気ゲームです。",
+        "price": "$24.49",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
+        "date": "2026-04-13"
       }
     ],
     "review": [
@@ -1052,8 +1076,47 @@
         "url": "https://doope.jp/2026/04165959.html",
         "date": "2026-04-13",
         "is_translated": false
+      },
+      {
+        "title": "【Steamで話題の海賊オープンワールド『Windrose / ウィンドローズ』は「サバイバルク...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで話題の海賊オープンワールドゲーム「Windrose / ウィンドローズ」についてのレビュー記事では、ゲームの評価ポイントとして、自由度の高いオープンワールドの探索や、戦闘システムの面白さが挙げられています。また、レビューでは、ゲームのグラフィックやサウンドトラックの質も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260413-437092/",
+        "date": "2026-04-13",
+        "is_translated": false
+      },
+      {
+        "title": "【ギガバイト GO27Q24G レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ギガバイト GO27Q24G レビューでは、モニターの性能やデザイン、ゲーム実行時のレスポンスなどが評価されています。本レビューでは、高速なリフレッシュレート、低遅延タイム、優れたコントラスト比などが高く評価されています。対象読者は、ゲームマシンの構築やモニターの選定を検討している方、または高速なディスプレイを求めるゲーマーに向けて、詳細な情報を提供しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/gigabyte-go27q24g-review/",
+        "date": "2026-04-13",
+        "is_translated": true
+      },
+      {
+        "title": "【ギガバイト MO27Q28GR レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ギガバイト MO27Q28GR レビューは、モニターの性能と機能について評価しています。このレビューでは、モニターの解像度やレスポンス時間、色域の広さなどが評価ポイントとして取り上げられています。さらに、ゲームの快適性やグラフィックの美しさも評価されており、ゲーマーやグラフィックデザイナーにとって非常に参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/gigabyte-mo27q28gr-review/",
+        "date": "2026-04-13",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-13T10:44:13.777185"
+  "last_updated": "2026-04-13T13:55:43.297784"
 }
