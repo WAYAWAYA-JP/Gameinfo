@@ -206,6 +206,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/bohfight4yourfriendsupdate_bundle",
         "date": "2026-04-11"
+      },
+      {
+        "title": "Humble 15 for $15 - Spring 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble 15 for $15 - Spring 2026というバンドルが現在販売中です。このバンドルには、主にアクションやアドベンチャーといったジャンルのゲームが含まれており、約15ドルで購入することができます。主要タイトルとしては、例えば「Crysis Remastered」や「Risen」などのタイトルがあり。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/humble15for15spring2026_bundle",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "Superhero 2 Tales Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Superhero 2 Tales Bundleと呼ばれるバンドルが現在販売中です。このバンドルには、主なタイトルとして「Batman - The Telltale Series」、「The Wolf Among Us」、「Guardians of the Galaxy: The Telltale Series」などが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/superhero2-tales-bundle",
+        "date": "2026-04-14"
       }
     ],
     "sale": [
@@ -495,6 +519,30 @@
         "discount": "-91%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-3-2020/info/",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "Dome Keeper ドームキーパー",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Dome Keeper（ドームキーパー）がSteamで60% OFFのセール中です。このゲームは、ディフェンスとサバイバル要素を組み合わせたユニークなゲームプレイが特徴です。通常価格より大幅に安くなっているこの機会に、試してみるのはいかがでしょうか。ゲームの評価は非常に高く、ユーザーからの人気度も高いゲームですので、セール期間中に購入することをお勧めします。",
+        "price": "¥800",
+        "originalPrice": "¥2,000",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1637320",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "Monster Hunter: World",
+        "platform": "Various",
+        "type": "sale",
+        "description": "モンハンシリーズの最新作であるMonster Hunter: Worldが、現在79%の割引で販売中です。このゲームはアクションRPGのジャンルに属し、巨大なモンスターを狩るというユニークな特徴があります。高評価を得ているこのゲームは、幅広い年齢層のプレイヤーに人気があり、オンラインでの協力プレイも可能です。",
+        "price": "$6.44",
+        "originalPrice": "",
+        "discount": "-79%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/monster-hunter-world/info/",
         "date": "2026-04-14"
       }
     ],
@@ -901,8 +949,60 @@
         "url": "https://doope.jp/2026/04165977.html",
         "date": "2026-04-13",
         "is_translated": false
+      },
+      {
+        "title": "【『プラグマタ』レビュー。カプコンの新規IPとしての一定のミッションは果たすも歯がゆさあり、楽し...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "カプコンの新規IPとしてリリースされた『プラグマタ』のレビュー記事では、このゲームが一定のミッションを果たしたものの、まだ改善すべき点もあると評価されています。プレイヤーはこのゲームの独自の世界観やゲームプレイを楽しむことができますが、歯がゆい要素も存在するようです。このレビュー記事は、『プラグマタ』に興味を持つゲーマーやカプコンのファン。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/20260414-437352/",
+        "date": "2026-04-14",
+        "is_translated": false
+      },
+      {
+        "title": "【物理演算・洞穴下りホラー『Idols of Ash』Steamで高評価炸裂中。謎の巨大ムカデか...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "物理演算と洞穴下りホラーを融合させた『Idols of Ash』は、Steamで高い評価を集めています。このゲームの評価ポイントとしては、独自のゲームシステムや、恐怖心を揺さぶる雰囲気、そして謎の巨大ムカデとの遭遇などが挙げられます。レビューでは、ゲームの緊張感やスリルが高く、プレイヤーを引き込むことができると評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20264014-437317/",
+        "date": "2026-04-14",
+        "is_translated": false
+      },
+      {
+        "title": "【発売から13年の歳月を経た傑作宇宙開発シム「Kerbal Space Program」が遂にS...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Kerbal Space Program」は宇宙開発シミュレーションゲームで、発売から13年を経てもなお人気を博しています。このゲームの評価ポイントとしては、リアルな物理エンジンによる宇宙空間の再現、様々なミッションの自由度、カスタマイズ可能な宇宙船の設計が挙げられます。レビューでは、このゲームの独自の魅力や長年の更新による充実したコンテンツについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165974.html",
+        "date": "2026-04-14",
+        "is_translated": false
+      },
+      {
+        "title": "【シネマコンの観客を驚かせた映像により、『スパイダーマン：ビヨンド・ザ・スパイダーバース』の公開...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "『スパイダーマン：ビヨンド・ザ・スパイダーバース』は、シネマコンの観客を驚かせた映像で公開されました。このレビュー記事では、この映画の評価ポイントとして、ストーリーの独創性、視覚的な表現の美しさ、声優の演技力を挙げています。また、レビューの内容概要として、映画の世界観の広がりやキャラクターの深みを掘り下げています。このレビュー記事は、映画ファンやアニメ好きの方に読んでほしい記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/spider-man-beyond-the-spider-verse-release-date-moved-new-footage/",
+        "date": "2026-04-14",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-14T02:28:41.597696"
+  "last_updated": "2026-04-14T10:15:23.831413"
 }
