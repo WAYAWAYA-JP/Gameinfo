@@ -556,6 +556,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
         "date": "2026-04-14"
+      },
+      {
+        "title": "Graveyard Keeper",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Graveyard Keeperがバラエティー様々なゲームの中で82%割引セール中です。このゲームは、墓地の管理と農業を同時に進行させるというユニークな要素を備えたシミュレーションゲームです。ユーモアとブラックコメディをちりばめたストーリーが楽しめます。現在、非常に低価格で購入できます。多くのユーザーから高い評価を得ており、人気度も高いので、興味がある方はぜひこの機会に購入してみてください。",
+        "price": "$3.56",
+        "originalPrice": "",
+        "discount": "-82%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/graveyard-keeper/info/",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "Hades",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームのHadesがVariousで75%割引されています。このゲームは、ギリシャ神話をモチーフにした独特の世界観と、スピーディなアクションが特徴です。プレイヤーは、冥界から脱出を目指す主人公を操作し、さまざまな能力を駆使して強敵たちを倒していきます。高い評価と人気を誇るこのゲームは、格安の価格で手に入れることができますので。",
+        "price": "$6.24",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hades/info/",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "Hades II",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームのHades IIが、現在バリュー店で20%割引のセール中です。このゲームは、神話に基づいたストーリーと高速のアクションが特徴で、プレイヤーは地獄を舞台に様々な敵と戦いながら進めていきます。評価は非常に高く、人気も高いゲームです。価格は割引前と比べて20%割引になるため、興味がある方はこの機会にぜひ購入してみてください。",
+        "price": "$23.99",
+        "originalPrice": "",
+        "discount": "-20%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hades-ii/info/",
+        "date": "2026-04-14"
       }
     ],
     "review": [
@@ -1065,8 +1101,21 @@
         "url": "https://www.rockpapershotgun.com/a-storied-life-tabitha-review",
         "date": "2026-04-14",
         "is_translated": true
+      },
+      {
+        "title": "【ディズニー ロルカーナは、トイ ストーリー、インクレディブル、ブレイブなどから 32 枚の新し...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ディズニー ロルカーナは、トイ ストーリー、インクレディブル、ブレイブなどから32枚の新しいミッションを取り入れており、ゲームの評価ポイントとしては、グラフィックの美しさやストーリーの面白さが高く評価されています。レビューの内容概要としては、家族でも楽しめるコンテンツであることや、子供向けのゲームとして適していることが挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/disney-lorcana-wilds-unknown-card-reveals-spoilers/",
+        "date": "2026-04-14",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-14T14:00:41.876227"
+  "last_updated": "2026-04-14T21:52:41.469759"
 }
