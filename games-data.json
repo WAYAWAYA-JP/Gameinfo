@@ -544,6 +544,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/monster-hunter-world/info/",
         "date": "2026-04-14"
+      },
+      {
+        "title": "Resident Evil 4 (2023)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "バイオハザード4（2023）がVariousで67%オフでセール中です。このゲームはサバイバルホラーのジャンルに属し、恐怖とアクションが絶妙に組み合わさった作品です。現在の価格は大幅に割引されており、評価も非常に高い人気ゲームです。バイオハザードシリーズのファンやホラーゲームを楽しむ人にはおすすめの作品です。",
+        "price": "$13.39",
+        "originalPrice": "",
+        "discount": "-67%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
+        "date": "2026-04-14"
       }
     ],
     "review": [
@@ -1001,8 +1013,60 @@
         "url": "https://www.polygon.com/spider-man-beyond-the-spider-verse-release-date-moved-new-footage/",
         "date": "2026-04-14",
         "is_translated": true
+      },
+      {
+        "title": "【海賊テーマのサバイバルアドベンチャー「Windrose」の早期アクセス版が本日発売、リリースト...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "海賊テーマのサバイバルアドベンチャーゲーム「Windrose」の早期アクセス版が発売されたことを紹介するレビュー記事です。このゲームは、海賊としての生存をテーマにしており、プレイヤーは資源の管理や船の操作などをしながら、海賊としての生活を体験できます。レビューでは、ゲームのグラフィックやサウンドトラックの 퀄리ティ、ゲームプレイの面白さなどが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04165971.html",
+        "date": "2026-04-14",
+        "is_translated": false
+      },
+      {
+        "title": "【『ディシディア デュエルム FF』新プレイアブル「フリオニール」「バルフレア」参戦―新鮮な現代...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "本レビュー記事では、ゲーム『ディシディア デュエルム FF』の新プレイアブルキャラクター「フリオニール」と「バルフレア」の参戦が紹介されています。ゲームの評価ポイントとして、新キャラクターの参戦によってプレイスタイルが変化する点や、ゲームの新鮮な現代的なグラフィックが挙げられます。また、対象読者としては、このゲームのファンや新規プレイヤーが想定され。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/04/14/179956.html",
+        "date": "2026-04-14",
+        "is_translated": false
+      },
+      {
+        "title": "【Idols Of Ash レビュー - 岩か巨大なムカデのどちらかを選択する素晴らしい洞窟ホラ...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Idols Of Ashは、岩か巨大なムカデのどちらかを選択するホラーゲームで、洞窟を舞台にしたユニークな設定が特徴です。このゲームの評価ポイントとしては、独自のゲームプレイや恐怖要素のバランスが取れている点が挙げられます。レビューでは、ゲームのストーリーやサウンドデザインの質の高さも評価されています。ホラーゲームファンや、新しい体験を求めるゲーマーが対象読者です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/idols-of-ash-review-a-terrific-spelunking-horror-game-that-makes-you-choose-between-a-rock-and-a-giant-centipede",
+        "date": "2026-04-14",
+        "is_translated": true
+      },
+      {
+        "title": "【A Storid Life: Tabitha レビュー – 最大の課題は他人のストーリーを正し...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム「A Storid Life: Tabitha」を紹介しています。このゲームの評価ポイントとして、他人のストーリーを正すという最大の課題や、物語の展開が面白い点が挙げられます。また、レビューでは、ゲームのシステムやグラフィックについても評価しています。この記事は、ゲームファンやストーリー重視のプレイヤーにとって参考になる内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/a-storied-life-tabitha-review",
+        "date": "2026-04-14",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-14T10:15:23.831413"
+  "last_updated": "2026-04-14T14:00:41.876227"
 }
