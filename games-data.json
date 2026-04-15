@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/superhero2-tales-bundle",
         "date": "2026-04-14"
+      },
+      {
+        "title": "Flirty Elf Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでFlirty Elf Bundleが現在販売中です。このバンドルには、Mythic Quest、Elven Love、Faerie Solitaireなどの主要タイトルが含まれており、シミュレーションやアドベンチャーなどのジャンルを堪能することができます。大まかな価格帯は10ドル以下で、バンドル内容や価格は販売ページで確認することができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/flirty-elf-bundle",
+        "date": "2026-04-15"
       }
     ],
     "sale": [
@@ -555,6 +567,54 @@
         "discount": "-55%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "BIOHAZARD RE:4",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "バイオハザードシリーズの最新作であるBIOHAZARD RE:4が、Steamで大幅な60%オフのセール中です。本作は、サバイバルホラーのジャンルで人気を博しており、グラフィックやゲームプレイの面でも高く評価されています。現在の価格は大幅に割引されており、シリーズファンやホラーゲーム люб者にはおすすめです。",
+        "price": "¥1,996",
+        "originalPrice": "¥4,990",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2050650",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "Monster Hunter Rise + Sunbreak",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Monster Hunter Rise + SunbreakがSteamで84% OFFのセール中です。このゲームはアクションアドベンチャー系のモンスター狩りゲームで、特徴的なグラフィックと奥深いゲームシステムが人気を博しています。通常価格から大幅に割引されたこの価格は非常に魅力的で、多くのユーザーから高評価を受けています。",
+        "price": "¥958",
+        "originalPrice": "¥5,990",
+        "discount": "84% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/692569",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "A Plague Tale: Innocence",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ステALTHアクションとアドベンチャー要素が特徴的な「A Plague Tale: Innocence」が、現在80%オフのセール中です。このゲームは、感染症が蔓延する中世を舞台に、兄妹のサバイバルを描いており、グラフィックやストーリーが高く評価されています。多くのユーザーから好評を博しており、人気ゲームとして知られています。",
+        "price": "$7.99",
+        "originalPrice": "",
+        "discount": "-80%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/a-plague-tale-innocence/info/",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サイバーパンク風の世界を舞台にしたオープンワールドアクションRPG「Cyberpunk 2077」がVariousで65%オフのセール中です。このゲームは、高度なグラフィックと複雑なストーリーが特徴で、批評家から高評価を獲得しています。現在の価格は大幅に割引されており、ファンや新規プレイヤーにとっては絶好の機会です。",
+        "price": "$20.99",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-04-15"
       }
     ],
@@ -1013,8 +1073,73 @@
         "url": "https://www.inside-games.jp/article/2026/04/15/179967.html",
         "date": "2026-04-15",
         "is_translated": false
+      },
+      {
+        "title": "【非常に好評「スタートレック」ADV『Star Trek: Resurgence』近日販売終了へ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「スタートレック」シリーズのADVゲーム「Star Trek: Resurgence」は、近日販売終了予定です。このゲームは、高評価を得ています。レビューの内容としては、ストーリーの面白さ、グラフィックの美しさ、操作性の良さが評価されています。特に、ファンやSF愛好家のほか、ストーリー駆動型ゲームを好むユーザーにもお勧めの1本です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260415-437566/",
+        "date": "2026-04-15",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料『ドラゴンクエストスマッシュグロウ』4月21日にサービス開始へ。「冒険スキル」の...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料の「ドラゴンクエストスマッシュグロウ」が4月21日にサービス開始予定です。このゲームは、ユーザーがさまざまなキャラクターを操作してバトルを楽しむことができます。ゲームの評価ポイントとしては、キャラクターの多様性やゲームシステムのわかりやすさが挙げられます。また、グラフィックの美しさやサウンドトラックの質も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260415-437530/",
+        "date": "2026-04-15",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam協力“おトイレ我慢”ゲーム『We Gotta Go』は“うんちだらけ”のお下品ゲーム...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで配信されている協力ゲーム『We Gotta Go』は、おトイレ我慢がテーマの面白いゲームです。このゲームは、プレイヤーが協力してトイレに到着することを目指す内容になっています。レビューでは、ゲームのユニークなコンセプトやお下品な要素が高く評価されています。また、ゲームのグラフィックやサウンドトラックも引き立てており、全体的におすすめのゲームとされています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260415-437503/",
+        "date": "2026-04-15",
+        "is_translated": false
+      },
+      {
+        "title": "【『ぽこ あ ポケモン』マルチプレイでも楽しめるイベント「おおなわとび大会」が4月19日より開催...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、「ぽこ あ ポケモン」のマルチプレイイベント「おおなわとび大会」について取り上げられています。このイベントは4月19日から開催されており、プレイヤー同士の競争やコラボレーションを楽しむことができます。記事では、このイベントの魅力や特徴、またゲーム全体の評価ポイントについて触れています。ポケモンシリーズのファンやマルチプレイゲームを楽しむ人に読んでほしい記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/04/15/179992.html",
+        "date": "2026-04-15",
+        "is_translated": false
+      },
+      {
+        "title": "【美しく欠陥のある MMO Book of Travels が 5 ドルのシングルプレイヤー R...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、美しく欠陥のあるMMOゲーム「Book of Travels」の5ドルで購入できるシングルプレイヤー向けのコンテンツを評価しています。評価ポイントとしては、ゲームのグラフィックやサウンドトラックの美しさ、そしてシングルプレイヤー向けのコンテンツの充実度があります。また、レビューではゲームの欠陥や制限も指摘されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/beautiful-flawed-mmo-book-of-travels-is-now-a-5-singleplayer-rpg-in-a-break-from-the-industry-trend-of-killing-off-struggling-online-games",
+        "date": "2026-04-15",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-15T02:27:00.532008"
+  "last_updated": "2026-04-15T10:16:43.693011"
 }
