@@ -242,6 +242,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/flirty-elf-bundle",
         "date": "2026-04-15"
+      },
+      {
+        "title": "Humble 15 for $15 - April 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble 15 for $15 - April 2026というバンドルが現在販売中です。このバンドルには、さまざまなジャンルのゲームが収録されており、約15ドルで購入することができます。収録されている主なタイトルとしては、人気アクションゲームやアドベンチャーゲームなどが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/humble15for15april2026_bundle",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "HHEpic Valley Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、HHEpic Valley Bundleというバンドルの販売が行われています。このバンドルには、主要タイトルとして『Epic Battle Fantasy 4』『Dungeon Defenders』『RPG Maker MV』などのタイトルが含まれています。ジャンルはアクションやRPGが中心で、大まかな価格帯は10ドル以下です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/epic-valley-bundle",
+        "date": "2026-04-15"
       }
     ],
     "sale": [
@@ -1190,8 +1214,21 @@
         "url": "https://www.polygon.com/tomodachi-life-living-the-dream-review/",
         "date": "2026-04-15",
         "is_translated": true
+      },
+      {
+        "title": "【アトムフォールのペースト状のポカリスのサバイバルの旅を 1 年ぶりに再訪して、ついに幻覚に見え...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、アトムフォールというゲームの1年ぶりの再訪を通じて、プレイヤーが幻覚に遭遇するまでのサバイバルの旅を紹介しています。この記事では、ゲームの評価ポイントとして、サバイバル要素の深みやグラフィックの表現力について触れています。さらに、ゲームの難易度やストーリーの展開についてもレビューしています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/revisiting-atomfalls-pasty-pocalyse-survival-jaunt-a-year-on-ive-finally-been-seduced-by-its-hallucinated-monks-and-jarred-brains",
+        "date": "2026-04-15",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-15T13:53:35.225269"
+  "last_updated": "2026-04-15T21:52:53.187993"
 }
