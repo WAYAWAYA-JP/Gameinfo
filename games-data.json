@@ -1138,8 +1138,60 @@
         "url": "https://www.rockpapershotgun.com/beautiful-flawed-mmo-book-of-travels-is-now-a-5-singleplayer-rpg-in-a-break-from-the-industry-trend-of-killing-off-struggling-online-games",
         "date": "2026-04-15",
         "is_translated": true
+      },
+      {
+        "title": "【キャンピングカーでオープンワールド環境を探索する「アウトバウンド」の発売が延期、デモの配信期間延長も：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「アウトバウンド」のレビュー記事では、オープンワールド環境をキャンピングカーで自由に探索できるこのゲームの特徴が評価されています。ゲームの評価ポイントとしては、広大な環境の探索の自由度や、ユニークなキャンピングカーのシステムが挙げられます。また、レビューでは、ゲームのグラフィックやサウンドトラックの品質も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166006.html",
+        "date": "2026-04-15",
+        "is_translated": false
+      },
+      {
+        "title": "【『紅の砂漠』販売本数500万本を突破。ユーザー評価の上昇とともに売上も1か月足らずで大台に到達...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "人気ゲーム『紅の砂漠』の販売本数が500万本を突破し、ユーザー評価の向上とともに売上も1か月足らずで大台に到達しました。このゲームの評価ポイントとしては、美しいグラフィック、魅力的なストーリー、面白いゲームプレイが挙げられます。レビューの内容概要としては、ユーザーがこのゲームの楽しさを高く評価していること、そしてゲームのバグや不具合の改善が求められていることがあげられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/04/15/180002.html",
+        "date": "2026-04-15",
+        "is_translated": false
+      },
+      {
+        "title": "【Nvidia RTX 5060 Ti 8 GB レビュー (Palit Dual)】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Nvidia RTX 5060 Ti 8 GB レビュー（Palit Dual）では、グラフィックカードのパフォーマンスやコストパフォーマンス、動作音などの評価ポイントを中心にレビューしています。具体的には、ゲームのフレームレートやグラフィックの詳細さ、また、動作時の騒音や発熱状況などについて検討しています。また、コストパフォーマンスの観点からも評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-5060-ti-8-gb-review-palit-dual/",
+        "date": "2026-04-15",
+        "is_translated": true
+      },
+      {
+        "title": "【トモダチ ライフ: Living the Dream レビュー: Switch の新しいライフ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "トモダチ ライフ: Living the Dream は、Nintendo Switch向けにリリースされた新しいライフシミュレーションゲームです。このゲームの評価ポイントとしては、独自のゲームシステムや魅力的なキャラクター、豊富なコンテンツが挙げられます。レビューの内容概要としては、ゲームの自由度や繰り返しプレイ性、グラフィックやサウンドの質が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/tomodachi-life-living-the-dream-review/",
+        "date": "2026-04-15",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-15T10:16:43.693011"
+  "last_updated": "2026-04-15T13:53:35.225269"
 }
