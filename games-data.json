@@ -1,56 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Clone Drone in the Danger Zone",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『クローン・ドローン・イン・ザ・デンジャー・ゾーン』は、三人称視点のソード・バトル・アクションゲームです。このゲームの特徴は、体のあらゆる部分を切断できる点で、プレイヤーはロボットの剣闘士にインストールされた精神体となり、アリーナで立ち向かう凶悪な試練を克服する必要があります。さらに、このゲームはハイスピードなアクションと戦略的な戦闘を組み合わせた魅力的な内容になっています。",
-        "price": "無料",
-        "originalPrice": "¥19",
-        "discount": "100% OFF",
-        "deadline": "2026年04月09日まで",
-        "url": "https://store.epicgames.com/ja/p/4d7e959581394dc4aee2039844753beb",
-        "date": "2026-04-09"
-      },
-      {
-        "title": "TOMAK: Save the Earth Regeneration",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『TOMAK: Save the Earth』は、衝撃的なコンセプトで話題となった伝説の育成シミュレーションゲームです。滅亡の危機に瀕した地球を救うため、植木鉢に植えられた愛の女神「エビアン」を3年間大切に育てる必要があります。このゲームの特徴としては、ユニークな設定や、地球を救うという大きな目標があることが挙げられます。",
-        "price": "無料",
-        "originalPrice": "¥8",
-        "discount": "100% OFF",
-        "deadline": "2026年04月16日まで",
-        "url": "https://store.epicgames.com/ja/p/798328bff911452783523d61986170c0",
-        "date": "2026-04-09"
-      },
-      {
-        "title": "Prop Sumo",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Prop Sumoは、ユニークなゲームプレイが特徴的なアクションゲームです。このゲームの魅力は、プレイヤーがさまざまなオブジェクトを使用して戦うことができ、戦略的な思考が要求されることです。また、簡単な操作でプレイできるため、初心者でも楽しめるようになっています。さらに、面白くて軽快なゲーム性が楽しめます。現在、Epic Gamesプラットフォームで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "¥9",
-        "discount": "100% OFF",
-        "deadline": "2026年04月16日まで",
-        "url": "https://store.epicgames.com/ja/p/67a9bcbc6b8e411e9265afb380fea91f",
-        "date": "2026-04-09"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Sekai Project 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Sekai Project 2026のバンドルがHumble Bundleで販売中です。このバンドルには、主要タイトルとして「ネコパラシリーズ」や「ロンド・リューンローゼ」などが含まれています。ジャンルは主にビジュアルノベルやアドベンチャーゲームです。大まかな価格帯は10ドルから30ドル程度と予想されます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/sekaiproject2026_bundle",
-        "date": "2026-04-06"
-      },
       {
         "title": "Geeks & Chicks Bundle",
         "platform": "IndieGala",
@@ -266,57 +217,33 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/epic-valley-bundle",
         "date": "2026-04-15"
+      },
+      {
+        "title": "Sharp Shooters Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Sharp Shooters Bundleというバンドルが現在販売中です。このバンドルには、主に『Enter the Gungeon』や『Receiver 2』、『Tower of Guns』などのタイトルが含まれており、全体としてアクションシューティングゲームを中心としたジャンルの作品が集まっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/sharpshootersbundle_bundle",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "2K Tactics & Tycoons",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、2K Tactics & Tycoonsというバンドルが現在販売中です。このバンドルには、XCOMシリーズやSid Meier's Civilizationシリーズなどの戦略ゲームが収録されています。シミュレーションや戦略ゲームが好きな方にはおすすめのバンドルです。価格帯は500円から1,500円程度で、内容や価格設定によって異なりますが、非常にお得なバンドルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/2ktacticstycoons_bundle",
+        "date": "2026-04-16"
       }
     ],
     "sale": [
-      {
-        "title": "Guilty Gear -Strive- Season Pass 4",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Guilty Gear -Strive- Season Pass 4がSteamで50% OFFセール中です。これは、人気の2D対戦格闘ゲーム「Guilty Gear -Strive-」のシーズンパスで、様々な新要素やキャラクターを追加できます。シーズンパス4には、キャラクターの追加や新ステージなどが含まれています。セール期間中は通常価格の半額で購入できます。",
-        "price": "¥1,375",
-        "originalPrice": "¥2,750",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3060720",
-        "date": "2026-04-09"
-      },
-      {
-        "title": "GUILTY GEAR -STRIVE-",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "人気の2D対戦ゲーム『GUILTY GEAR -STRIVE-』がSteamで50%オフのセール中です。このゲームは、高速でテンポの良いゲームプレイと豊富なキャラクター選択が特徴で、ファンから高い評価を受けています。現在、半額で購入することが可能で、対戦ゲームファンにはお勧めのタイトルです。",
-        "price": "¥1,995",
-        "originalPrice": "¥3,990",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1384160",
-        "date": "2026-04-09"
-      },
-      {
-        "title": "サブノーティカ",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サブノーティカは、ストーリー重視のアクションアドベンチャーゲームです。現在、Steamで75%オフのセール中で、通常価格より大幅に安くなっています。このゲームは、美しいグラフィックと深いストーリーが特徴で、ファンから高い評価を受けています。また、人気も高く、多くのプレイヤーから支持されています。",
-        "price": "¥1,075",
-        "originalPrice": "¥4,300",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/264710",
-        "date": "2026-04-09"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33は、 Variousで現在31%オフのセール中です。このゲームは、ユニークなゲームプレイと豊富なストーリーを特徴としています。評価も高く、多くのプレイヤーから人気を博しています。セール期間中は、通常価格よりも大幅に安く購入することができます。",
-        "price": "$34.68",
-        "originalPrice": "",
-        "discount": "-31%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-04-09"
-      },
       {
         "title": "Prop Sumo",
         "platform": "Various",
@@ -640,100 +567,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-04-15"
+      },
+      {
+        "title": "Dredge",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Dredgeは、ファンティジーとホラーの要素を融合させたユニークなゲームです。このゲームは、海底での釣りや海の生物との遭遇を楽しむことができる、オープンワールドのアドベンチャーゲームです。現在、66%の割引で提供されており、非常に魅力的です。プレイヤーからの評価も高く、多くの人がこのゲームの独特な世界観とスリリングなゲームプレイを楽しんでいます。",
+        "price": "$8.48",
+        "originalPrice": "",
+        "discount": "-66%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dredge/info/",
+        "date": "2026-04-16"
       }
     ],
     "review": [
-      {
-        "title": "【本屋経営ゲーム「Tiny Bookshop」のPS5とXbox Series X|S版が本日発...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "本屋経営ゲーム「Tiny Bookshop」のPS5とXbox Series X|S版のレビュー記事では、ゲームの評価ポイントとして、ゲームプレイの面白さやグラフィックの美しさが挙げられています。また、レビューでは、ゲームのストーリーやシステムの魅力も紹介されています。このレビューは、ゲームファンや本屋経営に興味がある人に向けて書かれており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165941.html",
-        "date": "2026-04-11",
-        "is_translated": false
-      },
-      {
-        "title": "【“Astroneer”宇宙の星々を探索する「STARSEEKER: Astroneer Exp...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Astroneer」シリーズの最新作「STARSEEKER: Astroneer Exp...」は、宇宙の星々を自由に探索することができる、オープンワールドのアドベンチャーゲームです。このレビュー記事では、ゲームの評価ポイントとして、自由度の高い探索システムや、美しいグラフィック、そしてユニークなゲームプレイが取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165925.html",
-        "date": "2026-04-11",
-        "is_translated": false
-      },
-      {
-        "title": "【“フレームレート4fpsくらい”で『レッド・デッド・リデンプション2』を平然と遊び続ける実況プ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、人気ゲーム『レッド・デッド・リデンプション2』を非常に低いフレームレートで遊んだ実況プレイヤーについて紹介しています。記事では、実況プレイヤーの様子やゲームの評価ポイント、そしてこのような低スペック環境でのプレイが可能な点などについて触れています。特に、グラフィックの美しさやゲーム性の高さが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260411-436467/",
-        "date": "2026-04-11",
-        "is_translated": false
-      },
-      {
-        "title": "【海底都市ルルイエを探索する“クトゥルフ”Sci-Fiホラー「Cthulhu: The Cosm...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、海底都市ルルイエを探索する「Cthulhu: The Cosmic Horror」ゲームの魅力を紹介しています。ゲームの評価ポイントとして、ホラー要素とSci-Fiの融合が際立っており、プレイヤーを引き込むストーリーやグラフィックが特徴的です。また、レビューではゲームの難易度や操作性についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165945.html",
-        "date": "2026-04-11",
-        "is_translated": false
-      },
-      {
-        "title": "【噂：Nintendo Switch 2版「Marvel’s Guardians of the ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、Nintendo Switch 2版の「Marvel’s Guardians of the Galaxy」を評価しています。ゲームの評価ポイントとして、ストーリーの面白さやキャラクターの魅力が高く評価されています。また、グラフィックやサウンドトラックも高品質で、ゲームの世界観を引き立てています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165947.html",
-        "date": "2026-04-11",
-        "is_translated": false
-      },
-      {
-        "title": "【マーシーやファラを含む古参ヒーローの強化調整を含む「オーバーウォッチ」の新たな取り組みがアナウンス：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「オーバーウォッチ」の新たな取り組みがアナウンスされたことを紹介するレビュー記事です。この記事では、マーシーやファラを含む古参ヒーローの強化調整など、新しいアップデートの内容を詳しく紹介しています。ゲームの評価ポイントとしては、ヒーローのバランス調整や新しい機能の追加が見どころです。また、ゲームのレビューの内容概要としては、ゲームの新しい方向性やプレイヤーへの影響が説明されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165934.html",
-        "date": "2026-04-11",
-        "is_translated": false
-      },
-      {
-        "title": "【『アークナイツ：エンドフィールド』新バージョンは4月17日リリースへ。新プレイアブルキャラ「ゾ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『アークナイツ：エンドフィールド』の最新バージョンは4月17日にリリースされる予定です。この最新バージョンでは、新しいプレイアブルキャラクター「ゾ...」が追加され、ゲームの内容がさらに豊かになりました。このレビュー記事では、新キャラクターの能力やゲームの新要素などの評価ポイントについて取り上げています。さらに、ゲームのグラフィックやサウンドトラックの品質についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260411-436603/",
-        "date": "2026-04-11",
-        "is_translated": false
-      },
       {
         "title": "【『ポケモンチャンピオンズ』のトライ＆エラーが早くて快適。『Elin』で“赤ちゃんプレイ”。近頃...】",
         "platform": "AUTOMATON",
@@ -1227,8 +1075,34 @@
         "url": "https://www.rockpapershotgun.com/revisiting-atomfalls-pasty-pocalyse-survival-jaunt-a-year-on-ive-finally-been-seduced-by-its-hallucinated-monks-and-jarred-brains",
         "date": "2026-04-15",
         "is_translated": true
+      },
+      {
+        "title": "【Steam無料猫シム『Cat Simulator: Meow』、約5年の空白期間を経て“猫サバ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、約5年の空白期間を経てアップデートされたSteamの無料ゲーム「Cat Simulator: Meow」の評価ポイントについて述べています。記事では、ゲームの新しい要素や改善点、そしてプレイヤーが楽しめる要素について触れています。猫を飼うシミュレーションゲームを楽しむ人や、気軽に遊べるゲームを探している人にとって、このレビュー記事は参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/cat-simulator-meow-20260416-437710/",
+        "date": "2026-04-16",
+        "is_translated": false
+      },
+      {
+        "title": "【Might and Delightが生んだ独創的なMMO「Book of Travels」のサ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Might and Delightが生んだ独創的なMMO「Book of Travels」のレビュー記事では、ゲームの評価ポイントとして、ユニークなゲームデザインや豊富なストーリーが挙げられています。また、レビューの内容概要として、ゲームの自由度や探索の楽しさが紹介されています。この記事は、MMOゲームや新しいゲームに興味がある読者に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04126678.html",
+        "date": "2026-04-16",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-15T21:52:53.187993"
+  "last_updated": "2026-04-16T02:33:49.662668"
 }
