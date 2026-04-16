@@ -24,6 +24,18 @@
         "deadline": "2026年04月16日まで",
         "url": "https://store.epicgames.com/ja/p/67a9bcbc6b8e411e9265afb380fea91f",
         "date": "2026-04-16"
+      },
+      {
+        "title": "The Stone of Madness",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "アクションアドベンチャーゲームであるThe Stone of Madnessが、Epic Gamesプラットフォームで無料配布中です。このゲームの特徴としては、奥深いストーリーや美しいグラフィック、そして多様な敵キャラクターとのバトルがあげられます。また、プレイヤーは様々な能力やアイテムを使用して、ゲームを進めていく魅力もあります。",
+        "price": "無料",
+        "originalPrice": "¥28",
+        "discount": "100% OFF",
+        "deadline": "2026年04月23日まで",
+        "url": "https://store.epicgames.com/ja/p/the-stone-of-madness",
+        "date": "2026-04-16"
       }
     ],
     "bundle": [
@@ -627,6 +639,42 @@
         "discount": "50% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/1384160",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "NineHells",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲーム「NineHells」が「Various」で100%割引のセール中です。このゲームは、ダイナミックなアクションとユニークなストーリーが特徴で、ファンから高い評価を受けています。現在、完全に無料でプレイできるため、興味のある方はお得に楽しむことができます。また、ゲームの評価は非常に高い人気度を誇り、多くのユーザーから支持されています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ninehells/info/",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "The Stone of Madness",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Stone of Madnessは、サイコロジカルホラーのジャンルで知られており、プレイヤーが恐怖と不安を体験することが特徴です。このゲームは現在、Variousで100%割引されており、無料でプレイすることができます。ゲームの評価は高く、ユーザーの評価は非常に好意的です。多くのプレイヤーがこのゲームの恐怖と緊張感を高く評価しており。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-stone-of-madness/info/",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "Outer Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Outer Wildsは、宇宙を舞台にしたアドベンチャーゲームで、探索と謎解きが特徴です。現在、Variousで40%オフのセール中で、ファンから高い評価を受けています。人気度も高く、多くのユーザーから好評価を得ています。この機会に一度遊んでみることをお勧めします。",
+        "price": "$14.95",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
         "date": "2026-04-16"
       }
     ],
@@ -1280,8 +1328,34 @@
         "url": "https://www.rockpapershotgun.com/minos-review-theseus-can-have-the-minotaur-this-roguelike-tower-defense-gets-just-too-punishing",
         "date": "2026-04-16",
         "is_translated": true
+      },
+      {
+        "title": "【フィリピン文化をモチーフにほろ苦い高校生活を描くアドベンチャー「Until Then」のXbo...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、フィリピン文化をモチーフに高校生活を描いたアドベンチャーゲーム「Until Then」のXbox版を紹介しています。ゲームの評価ポイントとして、ユニークな文化的背景やキャラクターの個性が高く評価されています。また、レビューでは、ゲームのストーリーやキャラクターの関係性が細かく描かれ、プレイヤーに強い共感を呼び起こすことができると述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166067.html",
+        "date": "2026-04-16",
+        "is_translated": false
+      },
+      {
+        "title": "【トラックレビュー：ラナ・デル・レイ「ファースト・ライト」】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ラナ・デル・レイのアルバム「ファースト・ライト」のレビュー記事では、音楽の質感や歌手の表現力が高く評価されています。歌手の声のトーンや楽曲のアレンジが優れており、聴く人が心に寄せるメロディーに仕上がっています。また、歌詞の内容も深い意味を込めており、聴き手を引き付けます。音楽ファンやラナ・デル・レイのファンなど、音楽を愛する人々にとって、このレビュー記事は参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/lana-del-rey-007-first-light-track-review/",
+        "date": "2026-04-16",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-16T14:02:59.632197"
+  "last_updated": "2026-04-16T21:43:12.131962"
 }
