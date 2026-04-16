@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "TOMAK: Save the Earth Regeneration",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "「TOMAK: Save the Earth」の25周年記念エディションがEpic Gamesストアに登場しました。このゲームは、滅亡の危機に瀕した地球を救うために、愛の女神「エビアン」を3年間大切に育てるという衝撃的なコンセプトで話題となりました。育成シミュレーションのジャンルに属するこのゲームの特徴としては、ユニークなストーリー、心温まるキャラクター、地球を救うという感動的な目的があります。",
+        "price": "無料",
+        "originalPrice": "¥8",
+        "discount": "100% OFF",
+        "deadline": "2026年04月16日まで",
+        "url": "https://store.epicgames.com/ja/p/798328bff911452783523d61986170c0",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "Prop Sumo",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Prop Sumoは、フィジックスベースのアクションゲームです。プレイヤーは、さまざまな物体を相手に投げたり押したりして、勝利を目指します。このゲームの特徴は、様々な環境で戦い、戦略的に物体を利用することです。また、ゲーム内のグラフィックやサウンドも魅力的な要素です。現在、Epic Gamesで無料配布中なので、興味がある方はぜひチェックしてみてください。",
+        "price": "無料",
+        "originalPrice": "¥9",
+        "discount": "100% OFF",
+        "deadline": "2026年04月16日まで",
+        "url": "https://store.epicgames.com/ja/p/67a9bcbc6b8e411e9265afb380fea91f",
+        "date": "2026-04-16"
+      }
+    ],
     "bundle": [
       {
         "title": "Geeks & Chicks Bundle",
@@ -240,6 +265,18 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.humblebundle.com/games/2ktacticstycoons_bundle",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "Sekai Project 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble BundleでSekai Project 2026のバンドルが現在販売中です。このバンドルには、主要タイトルとして「NEKO-NIN exHeart」や「The Falconers: Moonlight」、「Memory's Dogma CODE:01」などのタイトルが含まれています。ジャンルはビジュアルノベルやアドベンチャーゲームを中心に構成されており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/sekaiproject2026_bundle",
         "date": "2026-04-16"
       }
     ],
@@ -578,6 +615,18 @@
         "discount": "-66%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dredge/info/",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "GUILTY GEAR -STRIVE-",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "GUILTY GEAR -STRIVE-がSteamで50% OFFのセール中です。このゲームは、対戦型格闘ゲームとして知られており、高速でテンポの良いゲームプレイが特徴です。現在の価格は割引前より50%オフになっています。評価は非常に高い人気ゲームで、ユーザーから高い評価を得ています。",
+        "price": "¥1,995",
+        "originalPrice": "¥3,990",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1384160",
         "date": "2026-04-16"
       }
     ],
@@ -1101,8 +1150,73 @@
         "url": "https://doope.jp/2026/04126678.html",
         "date": "2026-04-16",
         "is_translated": false
+      },
+      {
+        "title": "【Nintendo Switch向けセールになんと約600本どっさり追加。ダイソー虫カードゲーム...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Nintendo Switch向けのセールに約600本が追加されました。このセールの評価ポイントとしては、豊富なゲームタイトル数や低価格があげられます。レビューの内容概要としては、セールの対象ゲームの多さや、ダイソー虫カードゲームのようなユニークな作品が含まれている点が高く評価されています。このレビューは、ゲームファンやNintendo Switchユーザーにとって有益な情報が含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/nintendo-switch-sale-20260416-437869/",
+        "date": "2026-04-16",
+        "is_translated": false
+      },
+      {
+        "title": "【“『P.T.』ライク”日常侵食ホラー『悪意』5月7日配信へ。高評価『凶寓』開発元の新作、あらゆ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「悪意」というホラーゲームが5月7日に配信されることが決定しました。このゲームは、日常生活が恐ろしいものに侵食されるという設定で、プレイヤーはその恐怖を体験します。開発元は、以前にも高評価を得た「凶寓」を制作したチームで、このゲームも高い評価が期待されています。ゲームの評価ポイントとしては、恐怖を生み出す設定や、ユーザーインターフェイスの作り方があげられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260416-437838/",
+        "date": "2026-04-16",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam同接約10万人の海賊オープンワールド『Windrose / ウィンドローズ』大人気す...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ウィンドローズはSteamで同接約10万人の海賊オープンワールドゲームです。このゲームは大人気であり、多くのレビューが寄せられています。評価ポイントとしては、広大なオープンワールドの自由度、ユニークな海賊システム、およびマルチプレイヤー機能が高く評価されています。レビューの内容概要としては、ゲームのグラフィックやサウンドデザインの高さ、そしてプレイヤー同士の交流や協力プレイの楽しさが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260416-437823/",
+        "date": "2026-04-16",
+        "is_translated": false
+      },
+      {
+        "title": "【高評価・伝奇ミステリーADV『パラノマサイト FILE38 伊勢人魚物語』アプデで一部謎解きが...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "伝奇ミステリーADV『パラノマサイト FILE38 伊勢人魚物語』のレビュー記事では、ゲームの評価ポイントとしてストーリーの深みやキャラクターの造形が挙げられています。さらに、更新により一部の謎解きが変更されたことが紹介されており、ミステリー要素を重視するプレイヤーにとっては大きなニュースです。この記事は、ミステリーADVファンや謎解きゲームの愛好家向けに、ゲームの魅力や最新情報を紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260416-437816/",
+        "date": "2026-04-16",
+        "is_translated": false
+      },
+      {
+        "title": "【人気脱出シューター『ARC Raiders』には「犯罪学者や心理学者」も興味津々らしい。リスク...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "人気脱出シューター『ARC Raiders』は、犯罪学者や心理学者なども興味を持ち、リスク要素やストーリーの面白さなどが評価ポイントとなっています。レビューでは、ゲームのシステムや難易度のバランスが高く評価されています。対象読者は、シューティングゲームに興味のある人や、ストーリー重視のゲームを求める人向けであり、ゲームのレビュー記事としては、ゲームの魅力や欠点を知りたい人にもおすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260416-437793/",
+        "date": "2026-04-16",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-16T02:33:49.662668"
+  "last_updated": "2026-04-16T10:15:20.950580"
 }
