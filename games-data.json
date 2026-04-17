@@ -266,6 +266,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/sekaiproject2026_bundle",
         "date": "2026-04-16"
+      },
+      {
+        "title": "Speak to the Manager",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Speak to the ManagerのバンドルがHumble Bundleで販売中です。このバンドルには、同名のタイトル「Speak to the Manager」のほか、「The Case of the Golden Idol」と「The Swapper」などの主要タイトルが含まれています。ジャンルは主にパズルやアドベンチャーゲームで構成されており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/speaktomanager_bundle",
+        "date": "2026-04-17"
       }
     ],
     "sale": [
@@ -675,6 +687,30 @@
         "discount": "-53%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dead-cells/info/",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "Sea of Thieves: 2026 Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Sea of Thieves: 2026 EditionがSteamで50%の割引セール中です。このゲームは、オープンワールドのアドベンチャーゲームで、海賊の生活を体験できます。協力プレイや海戦など、面白い要素が豊富にあり、評価も高い人気ゲームです。価格は割引前の半額で購入でき、非常に魅力的ですので、興味がある方はチェックしてみてください。",
+        "price": "¥2,695",
+        "originalPrice": "¥5,390",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1172620",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "Ready Or Not",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Ready Or Notは、タクティカルファーストパーソンシューティングゲームで、警察の特殊部隊を操作して様々なミッションを遂行するという特徴があります。現在、Variousで56%の割引セール中で、ファンから高い評価を得ています。人気度も高く、多くのプレイヤーから支持されています。",
+        "price": "$22.09",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ready-or-not/info/",
         "date": "2026-04-17"
       }
     ],
@@ -1484,8 +1520,21 @@
         "url": "https://doope.jp/2026/04166078.html",
         "date": "2026-04-17",
         "is_translated": false
+      },
+      {
+        "title": "【「興味深い一年だった」: 投獄されていたフォーチュンズ ランのクリエイターが仮釈放を終え、De...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、フォーチュンズ ランのクリエイターが投獄されていたが仮釈放を終えたことを紹介しています。彼はこの1年間を「興味深い」と評価しています。この記事では、クリエイターの経験や、今後のプロジェクトについて触れています。また、ゲームの評価ポイントとして、クリエイターの独自の視点や、ゲームの新しい可能性が紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/its-been-an-interesting-year-the-jailed-creator-of-fortunes-run-has-passed-parole-and-is-back-working-on-her-deus-ex-style-fps",
+        "date": "2026-04-17",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-17T13:45:39.384613"
+  "last_updated": "2026-04-17T21:41:27.069098"
 }
