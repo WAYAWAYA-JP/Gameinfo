@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Geeks & Chicks Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Geeks & Chicks Bundleというバンドルが販売中です。このバンドルには、\"Aurion: Legacy of the Kori-Odan\"や\"Dreamcatcher\"などの主要タイトルが含まれています。ジャンルはアクションやアドベンチャーに焦点を当てたものです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/geeks-and-chicks-bundle",
-        "date": "2026-04-07"
-      },
-      {
-        "title": "April 2026 Humble Choice",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、2026年4月のHumble Choiceバンドルが現在販売中です。このバンドルには、ホライゾン ゼロ ドーン、デス ストランディング、サイコナツツなど、人気のゲームタイトルが含まれています。ジャンルはアクションアドベンチャーやオープンワールドなどのバラエティに富んでいます。大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/april_2026_choice",
-        "date": "2026-04-07"
-      },
-      {
         "title": "Humble Heroines: Echoes, Voids, and Visions",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -293,30 +269,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Prop Sumo",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Prop SumoがVariousで-100%セール中です。ファンによる評価が非常に高いこのゲームは、ユニークなゲームプレイと面白い要素で知られており、非常に人気があります。セール期間中は元価格より100%割引されるので、通常価格よりも大幅に安くなります。このゲームのジャンルはアクションであり、プレイヤーはさまざまな場所で戦いながら進みます。高い評価と人気度から、多くのユーザーに楽しまれています。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/prop-sumo/info/",
-        "date": "2026-04-10"
-      },
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Strayは、アクションアドベンチャーゲームで、猫の主人公が探索する3Dのオープンワールドを舞台に、様々な謎や敵と戦う内容になっています。現在、53%の割引で販売中のため、通常価格よりも大幅に安くなっています。このゲームは、ユニークな設定とスムーズなゲームプレイが評価されており、多くのプレイヤーから人気を博しています。",
-        "price": "$13.95",
-        "originalPrice": "",
-        "discount": "-53%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-04-10"
-      },
       {
         "title": "Red Dead Redemption 2",
         "platform": "Various",
@@ -676,48 +628,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/outer-wilds/info/",
         "date": "2026-04-16"
+      },
+      {
+        "title": "Forza Horizon 5",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "レーシングゲームの『Forza Horizon 5』がSteamで50%オフのセール中です。このゲームは、メキシコを舞台にオープンワールドで車を運転することができ、グラフィックやサウンドトラックが高く評価されています。Steamユーザーからも高い評価を受けており、非常に人気のあるゲームです。通常価格から大幅に割引されたこの機会を逃さないでください。",
+        "price": "¥3,795",
+        "originalPrice": "¥7,590",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1551360",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アドベンチャーゲーム「Clair Obscur: Expedition 33」がVariousで31%割引されています。このゲームは、ユニークなグラフィックとインパクトのあるストーリーが特徴で、プレイヤーは未知の世界を探索するためのクエストに挑みます。現在の評価は高く、人気ゲームとして知られています。セール中の価格で購入することができ、ゲーマーの間で話題になっているので。",
+        "price": "$34.39",
+        "originalPrice": "",
+        "discount": "-31%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-04-17"
       }
     ],
     "review": [
-      {
-        "title": "【『ポケモンチャンピオンズ』のトライ＆エラーが早くて快適。『Elin』で“赤ちゃんプレイ”。近頃...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム「ポケモンチャンピオンズ」と「Elin」について評価しています。ポケモンチャンピオンズはトライ＆エラーのスピードが早く、快適にプレイできるのが特徴です。一方、Elinでは「赤ちゃんプレイ」と呼ばれる初心者向けのプレイスタイルが楽しめます。この記事は、ゲーム好きや初心者が参考にできる内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260412-436819/",
-        "date": "2026-04-12",
-        "is_translated": false
-      },
-      {
-        "title": "【『サカつく2026』プレイ180時間目にして監督“クビ”寸前の危機。成功体験と数字に溺れた大失...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『サカつく2026』のレビュー記事では、プレイヤーが監督としてチームを率いて成功を収める体験と、ゲーム内の数字やデータに溺れて大失敗するという二極の感情を味わうことができることが評価ポイントとして挙げられています。さらに、記事ではこのゲームがサッカーゲームのファンやチームマネジメントに興味がある人に向けたコンテンツであると述べられており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260412-436724/",
-        "date": "2026-04-12",
-        "is_translated": false
-      },
-      {
-        "title": "【ファークライ 2 レビュー (2008)】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ファークライ2は、オープンワールドのアクションアドベンチャーゲームです。このレビュー記事では、ゲームの評価ポイントとしてグラフィックの質とゲームプレイの自由度が高く評価されています。また、ミッションのバラエティにも触れられており、プレイヤーがさまざまなシナリオを体験できることの魅力を述べています。対象読者は、オープンワールドゲームやアクションアドベンチャーゲームのファンである人でしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/far-cry-2-review-2008/",
-        "date": "2026-04-12",
-        "is_translated": true
-      },
       {
         "title": "【『Apex Legends』約2年ぶりに「Steam同接30万人突破」。“シーズン途中”なのに...：レビュー】",
         "platform": "AUTOMATON",
@@ -1354,8 +1291,99 @@
         "url": "https://www.polygon.com/lana-del-rey-007-first-light-track-review/",
         "date": "2026-04-16",
         "is_translated": true
+      },
+      {
+        "title": "【サッカークラブ経営シム『Football Manager 26』無料の期間限定フリープレイ開始...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "フットボールマネージャー26は、サッカークラブの経営をシミュレートするゲームで、ユーザーはクラブの監督やゼネラルマネージャーとして、選手を育成し、戦略を立て、試合に勝利するために努力します。このゲームは、現実的なサッカーの世界を再現しており、ユーザーは様々な選択肢を通じて、クラブの運営をコントロールできます。対象読者は、サッカーが好きな人や、経営シミュレーションゲームのファンです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260417-438053/",
+        "date": "2026-04-17",
+        "is_translated": false
+      },
+      {
+        "title": "【Steamの新たな混沌マルチ対戦ゲーム『Task Time』サプライズ配信開始、なんと48時間...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamの新作ゲーム『Task Time』のレビュー記事です。このゲームはマルチ対戦ゲームで、プレイヤー同士が競争しながらタスクを完了させる必要があります。記事では、このゲームの評価ポイントとして、ユニークなゲームプレイや面白いステージデザインが挙げられています。また、レビューでは、ゲームの難易度やコミュニティ機能も評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260417-438047/",
+        "date": "2026-04-17",
+        "is_translated": false
+      },
+      {
+        "title": "【SNK公式ネオジオ互換機「NEOGEO AES+」発表、11月12日発売へ。オリジナル版NEO...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "SNK公式のネオジオ互換機「NEOGEO AES+」が11月12日に発売されることが発表されました。この製品はオリジナルのNEO GEOのゲームをそのまま遊ぶことができる互換機です。レビューでは、ゲームの評価ポイントとして、オリジナル版との互換性、グラフィックのクオリティ、操作性の良さが挙げられています。対象読者は、レトロゲームファンやNEO GEOの愛好家向けです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260417-438029/",
+        "date": "2026-04-17",
+        "is_translated": false
+      },
+      {
+        "title": "【“Wall World”シリーズの3Dリアルタイムストラテジースピンオフ「Wall World...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Wall World」シリーズの3Dリアルタイムストラテジーのスピンオフ作品についてのレビュー記事です。このゲームは、リアルタイムでの戦略とタクティクスの組み合わせが魅力的です。評価ポイントとしては、グラフィックの質、ゲームプレイの深度、ストーリーの面白さがあります。レビューの内容としては、ゲームの操作性、難易度、リプレイ価値について触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166074.html",
+        "date": "2026-04-17",
+        "is_translated": false
+      },
+      {
+        "title": "【「EXODUS」のステルスアクションに焦点を当てる新たなプレイ映像が公開、元BioWareのベ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「EXODUS」の新しいプレイ映像が紹介されており、ステルスアクションに焦点を当てた内容となっています。レビューの内容としては、ゲームのストーリーや操作性、グラフィックのクオリティなどが評価ポイントとなっています。また、ゲームの雰囲気や難易度もレビュアーによって評価されており、ファンや新規プレイヤーにとっても参考になる情報が得られます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166071.html",
+        "date": "2026-04-16",
+        "is_translated": false
+      },
+      {
+        "title": "【Fortune's Run、クリエイターの釈放を受けて開発再開：「仮釈放委員会が私の件を審査し...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Fortune's Runの開発がクリエイターの釈放を受けて再開されました。レビュー記事では、このゲームの開発状況と将来的な展開について触れています。対象読者はこのゲームのファンや開発に興味がある人向けです。ゲームの評価ポイントとしては、開発の再開による新しい要素の追加や、クリエイターの釈放が開発に与える影響があげられます。また、記事では開発の背景やクリエイターの状況についても言及しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/fortunes-run-resumes-development-following-creators-prison-release-the-parole-board-reviewed-my-case-and-instantly-kicked-my-ass-out-of-jail/",
+        "date": "2026-04-17",
+        "is_translated": true
+      },
+      {
+        "title": "【スターシップ・トゥルーパーズ: アルティメット・バグ・ウォー レビ​​ュー：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "スターシップ・トゥルーパーズ：アルティメット・バグ・ウォーは、1997年にリリースされたカルトクラシックゲームであり、現在でも評価され続けています。このゲームの評価ポイントとしては、ユニークなゲームプレイ、魅力的なグラフィック、そして面白いストーリーが挙げられます。レビューの内容概要としては、ゲームの難易度、操作性、そして総合的な楽しさが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/starship-troopers-ultimate-bug-war-review/",
+        "date": "2026-04-16",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-16T21:43:12.131962"
+  "last_updated": "2026-04-17T02:29:50.897750"
 }
