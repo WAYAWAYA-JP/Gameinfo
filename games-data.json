@@ -652,6 +652,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-04-17"
+      },
+      {
+        "title": "Frostpunk 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Frostpunk 2は、シティビルディングとサバイバル要素を組み合わせたユニークなゲームで、現在Variousで61%割引のセール中です。このゲームは、アイスエイジの世界で都市を建設し、資源を管理しながら市民を生存させていくことを目的とします。評価は非常に高く、ユーザーから高い人気を誇っています。",
+        "price": "$17.74",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
+        "date": "2026-04-17"
       }
     ],
     "review": [
@@ -1382,8 +1394,60 @@
         "url": "https://www.pcgamer.com/games/fps/starship-troopers-ultimate-bug-war-review/",
         "date": "2026-04-16",
         "is_translated": true
+      },
+      {
+        "title": "【カプコン新作SFアクション『プラグマタ』初動でSteam同接約4万人の上々スタート。こだわり抜...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "カプコンの新作SFアクションゲーム「プラグマタ」は、Steamで約4万人の同時접속者数を記録し、上々のスタートを切ったと伝えられています。このレビュー記事では、ゲームの評価ポイントとして、ゲームの世界観やグラフィック、そしてゲームプレイの面白さなどが紹介されています。また、レビューの内容概要としては、ゲームのストーリーやキャラクターの魅力、そして難易度の適切さなどが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260417-438193/",
+        "date": "2026-04-17",
+        "is_translated": false
+      },
+      {
+        "title": "【話題の野郎軍団構築ローグライト『How Many Dudes?』7月31日配信へ。デモ版はなん...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『How Many Dudes?』は、7月31日に配信予定のローグライトゲームで、プレイヤーは様々なキャラクターを集めて軍団を構築します。このゲームの評価ポイントは、キャラクターの多様性、ゲームプレイの複雑さ、グラフィックのユニークさです。レビューの内容概要としては、ゲームの難易度、操作性、ストーリーの面白さが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/how-many-dudes-20260417-438173/",
+        "date": "2026-04-17",
+        "is_translated": false
+      },
+      {
+        "title": "【『グランブルーファンタジー リリンク：エンドレスラグナロク』オープンベータテスト4月24日から...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『グランブルーファンタジー リリンク：エンドレスラグナロク』のオープンベータテストは4月24日から開始されます。このゲームの評価ポイントとしては、美しいグラフィックや新しいキャラクターの追加が挙げられます。レビューの内容概要としては、ゲームのストーリーやシステムの改善点、そしてゲームの全体的な完成度が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260417-438142/",
+        "date": "2026-04-17",
+        "is_translated": false
+      },
+      {
+        "title": "【AMD Radeon RX 9060 XT 8 GB レビュー (Asus Prime)】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "この記事は、AMD Radeon RX 9060 XT 8 GB（Asus Prime）のレビューを掲載しています。評価ポイントとして、グラフィックカードの性能や消費電力、コストパフォーマンスが考慮されています。記事では、カードの実際の使用感やベンチマークテスト結果などが詳しく紹介されており、グラフィックカードを購入を検討している方や、PCゲーミングに興味がある方にとって。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-radeon-rx-9060-xt-8-gb-review-asus-prime/",
+        "date": "2026-04-17",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-17T02:29:50.897750"
+  "last_updated": "2026-04-17T10:14:09.515054"
 }
