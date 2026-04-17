@@ -664,6 +664,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
         "date": "2026-04-17"
+      },
+      {
+        "title": "Dead Cells",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームのDead Cellsが現在、53%の割引で販売中です。このゲームは、ダークファンタジー世界を舞台に、プレイヤーがさまざまな武器やスキルを駆使して、強力な敵に挑みます。Metacriticでは非常に高い評価を得ており、プレイヤーからも高い人気を誇っています。価格も割引されているので、興味のある人はおすすめです。",
+        "price": "$11.78",
+        "originalPrice": "",
+        "discount": "-53%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dead-cells/info/",
+        "date": "2026-04-17"
       }
     ],
     "review": [
@@ -1446,8 +1458,34 @@
         "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-radeon-rx-9060-xt-8-gb-review-asus-prime/",
         "date": "2026-04-17",
         "is_translated": true
+      },
+      {
+        "title": "【人類が消えたエモ世界撮影探索ゲーム『OPUS: Prism Peak』高評価炸裂、さっそく「非...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「OPUS: Prism Peak」は、人類が消えたエモーショナルな世界を撮影して探索するゲームです。このゲームは、高評価を浴びており、レビュー記事では、その美しいグラフィックや感動的なストーリー、そしてユニークなゲームプレイが評価されています。特に、ゲーム内の世界の描写や、撮影の要素が高く評価されており、ファンには必見のゲームと言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260417-438211/",
+        "date": "2026-04-17",
+        "is_translated": false
+      },
+      {
+        "title": "【「Warhammer 40,000: SPACE MARINE 2」の1,200万プレイヤー突...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Warhammer 40,000: SPACE MARINE 2」は1,200万プレイヤーを突破した人気ゲームであり、その評価ポイントとしては、壮大なストーリーとグラフィックの高さが挙げられます。レビューの内容概要としては、ゲームのアクション要素とキャラクターの深みが高く評価されています。また、戦略的な要素も満足できるものとなっており、ファンが多いです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166078.html",
+        "date": "2026-04-17",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-17T10:14:09.515054"
+  "last_updated": "2026-04-17T13:45:39.384613"
 }
