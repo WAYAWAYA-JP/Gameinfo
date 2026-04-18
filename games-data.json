@@ -230,6 +230,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/speaktomanager_bundle",
         "date": "2026-04-17"
+      },
+      {
+        "title": "Destiny 2: Expansions Bundle 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleで、Destiny 2: Expansions Bundle 2026というバンドルが販売中です。このバンドルには、The Witch Queen、Lightfall、The Final Shapeなどの主要タイトルが含まれています。アクションFPSジャンルのゲームです。価格帯は、大まかには約3,000円から約6,000円程度となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/destiny2expansionsbundle2026_bundle",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "Sovereign Sandbox Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble BundleでSovereign Sandbox Bundleが販売中です。このバンドルには、City: Skylines、Frostpunk、RimWorldなどの人気タイトルが含まれています。ジャンルは、シミュレーションやサンドボックスゲームが中心です。大まかな価格帯は、数千円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/sovereignsandboxbundle_bundle",
+        "date": "2026-04-18"
       }
     ],
     "sale": [
@@ -663,6 +687,18 @@
         "discount": "-100%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/legend-of-keepers/info/",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "Warhammer 40,000: Space Marine 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Warhammer 40,000: Space Marine 2は、SFアクションゲームのジャンルに属し、壮大な宇宙戦争を描いた特徴を持っています。現在、Variousで68%の割引が行われており、通常と比べて大幅に安価に購入できます。このゲームは、ファンから高い評価を得ており、人気度も高いと言えるでしょう。",
+        "price": "$19.48",
+        "originalPrice": "",
+        "discount": "-68%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
         "date": "2026-04-18"
       }
     ],
@@ -1342,8 +1378,60 @@
         "url": "https://www.rockpapershotgun.com/its-been-an-interesting-year-the-jailed-creator-of-fortunes-run-has-passed-parole-and-is-back-working-on-her-deus-ex-style-fps",
         "date": "2026-04-17",
         "is_translated": true
+      },
+      {
+        "title": "【最大4人対戦・騙し合い入札バトル『オークションキング』、Steam同接1万5000人超えを記録...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「オークションキング」は最大4人対戦が可能な、騙し合い入札バトルゲームです。このゲームはSteamで大きな人気を博し、同時接続者数が1万5000人を超えるという素晴らしい記録を達成しています。レビューの内容は、ゲームの対戦要素や入札システムの面白さ、そしてグラフィックの質などが評価ポイントになっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260418-438304/",
+        "date": "2026-04-18",
+        "is_translated": false
+      },
+      {
+        "title": "【ベテランゲーム開発者が「ゲーム開発会議には“素人”も出席すべき」との持論を披露。素人に伝わらな...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、ベテランゲーム開発者がゲーム開発会議に「素人」も出席するべきだと主張する内容について取り上げています。記事では、ゲーム開発における「素人」の役割や、専門家と非専門家のコラボレーションの重要性について触れています。ゲーム開発者やゲームファンにとって興味深い内容であり、ゲーム業界の未来について考える上で参考になる記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/mark-darrah-20260418-438289/",
+        "date": "2026-04-18",
+        "is_translated": false
+      },
+      {
+        "title": "【待望の『バニーガーデン2』は、今回も“お紳士”の心をくすぐってくれるの？ 新キャラとの魅惑的な...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "「バニーガーデン2」のレビュー記事では、このゲームがプレイヤーの心をくすぐる魅力を維持しているかどうかを検討しています。新しいキャラクターとの出会いがもたらす魅力や、ゲームの進め方が評価ポイントになっています。ゲームファンや「バニーガーデン」シリーズの愛好者向けの記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/04/18/180157.html",
+        "date": "2026-04-18",
+        "is_translated": false
+      },
+      {
+        "title": "【今後が楽しみで、むしろ「やる気MAX！！」―甘結もかが語る「VSPO! SHOWDOWN 20...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム「VSPO! SHOWDOWN 20...」について、ゲームの評価ポイントとレビューの内容概要を紹介しています。具体的には、ゲームの新しい機能やアップデートが今後も楽しみであること、またゲームの挑戦的要素が高いことなどが評価ポイントとして挙げられています。対象読者は、このゲームをプレイしたことがある人や、ゲームのアップデートを楽しみにしている人などです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/04/18/180152.html",
+        "date": "2026-04-18",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-18T02:12:30.096193"
+  "last_updated": "2026-04-18T09:46:51.785540"
 }
