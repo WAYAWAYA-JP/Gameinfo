@@ -40,54 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Humble Heroines: Echoes, Voids, and Visions",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Heroines: Echoes, Voids, and VisionsのバンドルがHumble Bundleで販売中です。このバンドルには、主にアクションアドベンチャーやロールプレイングゲームが含まれており、代表的なタイトルとして「Sea of Solitude」や「Hellblade: Senua's Sacrifice」が含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/humbleheroinesechoesvoidsandvisions_bundle",
-        "date": "2026-04-08"
-      },
-      {
-        "title": "Epic Valley Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Epic Valley BundleがIndieGalaで販売中です。このバンドルには、My Time at Portia、Slime Rancher、Yonder: The Cloud Catcher Chroniclesなどの人気タイトルが含まれています。ジャンルはシミュレーションやアドベンチャーに分類され、価格帯はおおよそ1000円から2000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/epic-valley-bundle",
-        "date": "2026-04-08"
-      },
-      {
-        "title": "Destiny 2: Expansions Bundle 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Destiny 2: Expansions Bundle 2026というバンドルが現在販売中です。このバンドルには、The Witch QueenやLightfallなどの主要タイトルが含まれています。アクションゲームやFPSジャンルの作品が収録されており、大まかな価格帯は1,000円から2,000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/destiny2expansionsbundle2026_bundle",
-        "date": "2026-04-08"
-      },
-      {
-        "title": "Sovereign Sandbox Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Sovereign Sandbox BundleがHumble Bundleで販売中です。このバンドルには、テラリアやStarbound、Portal Knightsなどのサンドボックスゲームが収録されています。ジャンルはアクションアドベンチャーです。価格帯は大体1,000円から2,000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/sovereignsandboxbundle_bundle",
-        "date": "2026-04-08"
-      },
-      {
         "title": "Metro Mania: Planes, Trains, and Automobiles!",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -281,30 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ロックスターゲームズが制作したオープンワールドアクションアドベンチャーゲーム「Red Dead Redemption 2」が、現在78%の割引で販売中です。このゲームは、高度なグラフィックと豊かなストーリーで知られており、オープンワールドゲームのファンに人気があります。ユーザーの評価も非常に高く、多くのゲーマーから高く評価されています。",
-        "price": "$13.45",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-04-11"
-      },
-      {
-        "title": "Warhammer 40,000: Space Marine 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Warhammer 40,000: Space Marine 2は、アクションパックされたアクションアドベンチャーゲームで、人気のWarhammer 40,000シリーズの第二弾となります。このゲームは、激しい戦闘シーンや壮大なストーリーで知られており、ファンから高い評価を得ています。現在、Variousで67%の割引キャンペーン中で、通常価格よりも大幅に安く入手することができます。",
-        "price": "$19.50",
-        "originalPrice": "",
-        "discount": "-67%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
-        "date": "2026-04-11"
-      },
       {
         "title": "No Man's Sky",
         "platform": "Steam",
@@ -712,139 +640,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ready-or-not/info/",
         "date": "2026-04-17"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームのStrayが、現在Variousで40%オフのセール中です。このゲームは、猫になった主人公が廃墟の世界を探索するというユニークなストーリーが特徴で、評価も非常に高い人気ゲームです。価格も割引により大幅に下がっているので、気になる方はこのチャンスを逃さないでください。",
+        "price": "$17.99",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "Legend of Keepers",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Legend of Keepersは、ダンジョン・シミュレーションゲームで、プレイヤーがダンジョンの管理者となり、侵入者を迎え撃つというユニークなゲームです。このゲームは現在、Variousで100%割引されており、通常価格より大幅に安価な価格で購入できます。高い評価と人気度を誇るこのゲームは、ダンジョン・シミュレーションファンにはおすすめです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/legend-of-keepers/info/",
+        "date": "2026-04-18"
       }
     ],
     "review": [
-      {
-        "title": "【『Apex Legends』約2年ぶりに「Steam同接30万人突破」。“シーズン途中”なのに...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Apex Legends』は約2年ぶりにSteamで同时接続者30万人を突破したと発表されました。このゲームは、シーズン途中というタイミングながらも高い人気を誇っています。レビュー記事では、ゲームの評価ポイントとして、新しいシーズンの導入やキャラクターのバランス調整などが取り上げられています。また、記事では、ゲームの長所として、チームワークや戦略性を重視したゲームプレイが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260413-436963/",
-        "date": "2026-04-13",
-        "is_translated": false
-      },
-      {
-        "title": "【力を持つ歯を抜き差ししながらダンジョンの最深部を目指すローグライクRPG「Sol Cesto」...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Sol Cesto」は、ローグライクRPGの要素とユニークなシステムを組み合わせたゲームです。力を持つ歯を抜き差ししながらダンジョンの最深部を目指すという新しいゲームプレイが特徴です。このゲームの評価ポイントとしては、独自のシステムと深いストーリーが挙げられます。レビューの内容概要としては、ゲームのシステムやストーリー、難易度について触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165927.html",
-        "date": "2026-04-13",
-        "is_translated": false
-      },
-      {
-        "title": "【海賊テーマのサバイバルアドベンチャー「Windrose」のゲームプレイ映像が公開、早期アクセス...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "海賊テーマのサバイバルアドベンチャーゲーム「Windrose」のゲームプレイ映像が公開され、早期アクセスが開始されました。このゲームは、海賊の生き残りをテーマにしており、プレイヤーは海賊の一員として、島を探索し、物資を集め、他の海賊と戦う必要があります。評価ポイントとしては、ゲームのグラフィックやサウンドトラック、そして自由度の高いゲームプレイが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165955.html",
-        "date": "2026-04-13",
-        "is_translated": false
-      },
-      {
-        "title": "【人気都市づくりシム『Cities: Skylines』に「約3万時間プレイ」した不評レビューが...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "都市づくりシムの『Cities: Skylines』に約3万時間プレイしたユーザーの不評レビューが話題になっています。このレビューでは、ゲームの繰り返しの多いシステムや、都市の成長に伴うバグの発生などが指摘されています。また、レビューの内容は、長時間プレイしたユーザーにとっては新しい発見がないことや、都市の管理が面倒なことなどが挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260413-437065/",
-        "date": "2026-04-13",
-        "is_translated": false
-      },
-      {
-        "title": "【傑作『洞窟物語』Steam版にまさかの大型アプデ到来、「2人協力プレイ」についに対応。Swit...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、人気ゲーム『洞窟物語』のSteam版に大型アップデートが実施され、待ちに待った2人協力プレイモードが追加されたことを紹介しています。記事では、新しいゲームモードの評価やアップデートの内容、そしてスイッチ版との違いなどについて触れています。特に、協力プレイのやり込み要素や新しいステージの追加などが評価ポイントとして挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260413-437001/",
-        "date": "2026-04-13",
-        "is_translated": false
-      },
-      {
-        "title": "【「Dragon Age: Inquisition」のPS3向けマルチプレイヤーサービス終了がア...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Dragon Age: InquisitionのPS3向けマルチプレイヤーサービス終了が発表されたことを受けて、レビュー記事が公開されています。この記事では、ゲームの評価ポイントとして、ストーリーの深み、キャラクターの魅力、グラフィックの美しさが取り上げられています。また、レビューの内容概要として、ゲームの世界観の広さ、プレイヤーの選択肢の豊富さ、戦闘システムの複雑さが紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165959.html",
-        "date": "2026-04-13",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamで話題の海賊オープンワールド『Windrose / ウィンドローズ』は「サバイバルク...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamで話題の海賊オープンワールドゲーム「Windrose / ウィンドローズ」についてのレビュー記事では、ゲームの評価ポイントとして、自由度の高いオープンワールドの探索や、戦闘システムの面白さが挙げられています。また、レビューでは、ゲームのグラフィックやサウンドトラックの質も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260413-437092/",
-        "date": "2026-04-13",
-        "is_translated": false
-      },
-      {
-        "title": "【ギガバイト GO27Q24G レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ギガバイト GO27Q24G レビューでは、モニターの性能やデザイン、ゲーム実行時のレスポンスなどが評価されています。本レビューでは、高速なリフレッシュレート、低遅延タイム、優れたコントラスト比などが高く評価されています。対象読者は、ゲームマシンの構築やモニターの選定を検討している方、または高速なディスプレイを求めるゲーマーに向けて、詳細な情報を提供しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/gigabyte-go27q24g-review/",
-        "date": "2026-04-13",
-        "is_translated": true
-      },
-      {
-        "title": "【ギガバイト MO27Q28GR レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ギガバイト MO27Q28GR レビューは、モニターの性能と機能について評価しています。このレビューでは、モニターの解像度やレスポンス時間、色域の広さなどが評価ポイントとして取り上げられています。さらに、ゲームの快適性やグラフィックの美しさも評価されており、ゲーマーやグラフィックデザイナーにとって非常に参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/gigabyte-mo27q28gr-review/",
-        "date": "2026-04-13",
-        "is_translated": true
-      },
-      {
-        "title": "【AtomMan G1 Pro レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "本記事は「AtomMan G1 Pro」のレビュー記事です。ゲームの評価ポイントとして、グラフィックの高さ、ゲームプレイの面白さ、操作性の良さなどを考慮しています。レビューの内容概要は、ゲームのストーリー、キャラクターの魅力、難易度の適切さなどを含みます。この記事は、ゲームファンや新しいゲームを探している人にとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-pcs/atomman-g1-pro-review/",
-        "date": "2026-04-13",
-        "is_translated": true
-      },
       {
         "title": "【2026年から2027年Q2までの導入を予定している新コンテンツをまとめた「Medieval ...：レビュー】",
         "platform": "doope!",
@@ -856,19 +678,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/04165988.html",
         "date": "2026-04-14",
-        "is_translated": false
-      },
-      {
-        "title": "【ローグライク採掘サバイバル「Dome Keeper」のマルチプレイヤーアップデートと“The ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ローグライク採掘サバイバルゲーム「Dome Keeper」のマルチプレイヤーアップデートと「The ...」のレビュー記事では、ゲームの評価ポイントとして、マルチプレイヤーモードの追加による新しいゲームプレイの深みや、グラフィックの向上などが紹介されています。さらに、レビューの内容概要として、新しいアップデートによるゲーム性の向上や、プレイヤーの選択肢の増加などが取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165977.html",
-        "date": "2026-04-13",
         "is_translated": false
       },
       {
@@ -1536,5 +1345,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-17T21:41:27.069098"
+  "last_updated": "2026-04-18T02:12:30.096193"
 }
