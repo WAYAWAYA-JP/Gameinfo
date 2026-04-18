@@ -700,6 +700,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
         "date": "2026-04-18"
+      },
+      {
+        "title": "Valheim",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気のサンドボックスアクションゲームであるValheimがSteamで50%オフのセール中です。このゲームは、バイキングをテーマにしたオープンワールドを探索し、モンスターと戦い、建物を建設することができます。現在、半額で購入することができ、評価も非常に高いので、ゲームファンにはおすすめのタイトルです。",
+        "price": "¥1,295",
+        "originalPrice": "¥2,590",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/892970",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "Undead: Rise of the Betrayed King",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Undead: Rise of the Betrayed Kingがバラエティーで100%割引されていると聞きました。このゲームはアクションとアドベンチャーが組み合わさった、興味深いストーリーを備えた作品です。現在、通常価格から100%割引されており、完全無料でプレイすることができます。ユーザーの評価は高く、人気度も高いので、興味がある方はぜひチェックしてみてください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/undead-rise-of-the-betrayed-king/info/",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "Uncanny Tales: Cold Road",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Uncanny Tales: Cold Roadは、ホラーゲームです。このゲームは、恐怖を味わえる独特の体験を提供します。現在、Variousで100%割引のセール中で、通常価格が大幅に下がっています。プレイヤーから高い評価を受けており、人気度も高いゲームです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/uncanny-tales-cold-road/info/",
+        "date": "2026-04-18"
       }
     ],
     "review": [
@@ -1430,8 +1466,21 @@
         "url": "https://www.inside-games.jp/article/2026/04/18/180152.html",
         "date": "2026-04-18",
         "is_translated": false
+      },
+      {
+        "title": "【「あなたのレビューを読みました」：AOCは、ソフトウェアは「最も注目されている」問題の1つであ...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事では、ソフトウェアの評価ポイントとして最も注目されている問題を取り上げており、特にソフトウェアの性能と安定性について触れています。また、ユーザーのレビューの内容を概要的にまとめており、ソフトウェアの長所と短所を明確に述べています。この記事は、ソフトウェアに興味のあるユーザーや開発者にとって有用な情報を提供しているため、関連のある方に読んでもらうと良いと思います。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/ive-read-your-reviews-aoc-says-its-software-is-one-of-the-most-highlighted-problems-and-its-finally-finally-updating-its-osd/",
+        "date": "2026-04-18",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-18T13:15:59.566683"
+  "last_updated": "2026-04-18T21:35:36.652620"
 }
