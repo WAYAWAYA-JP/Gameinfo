@@ -700,6 +700,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/uncanny-tales-cold-road/info/",
         "date": "2026-04-18"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "No Man's SkyがSteamで60%OFFのセール中です。このゲームは、サンドボックス要素とサイエンスフィクションを融合させたアクションアドベンチャーゲームで、プレイヤーが銀河系を自由に探索できます。高い評価と人気度を誇り、多くのユーザーから好評を博しています。通常価格より大幅に安くなったこの機会を逃さないでください。",
+        "price": "¥2,600",
+        "originalPrice": "¥6,500",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/275850",
+        "date": "2026-04-19"
       }
     ],
     "review": [
@@ -1313,8 +1325,34 @@
         "url": "https://www.pcgamer.com/hardware/gaming-monitors/ive-read-your-reviews-aoc-says-its-software-is-one-of-the-most-highlighted-problems-and-its-finally-finally-updating-its-osd/",
         "date": "2026-04-18",
         "is_translated": true
+      },
+      {
+        "title": "【『プラグマタ』はカプコンのセクシー技術力炸裂。『Windrose / ウィンドローズ』の海賊特...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、カプコンのゲーム『プラグマタ』と『Windrose / ウィンドローズ』について評価しています。ゲームの評価ポイントとしては、グラフィックやサウンドの質が高く、ゲームプレイが面白いことが挙げられます。記事では、これらの点について詳細にレビューしています。対象読者は、カプコンのゲームファンやアクションゲームを好む人向けです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260419-438391/",
+        "date": "2026-04-19",
+        "is_translated": false
+      },
+      {
+        "title": "【「産んでくれてありがとう」「戦争がなくなる」『バニーガーデン2』のSteamレビューがカオスす...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "「バニーガーデン2」のSteamレビューでは、ユーザーが様々な意見を寄せています。評価ポイントとしては、ゲームの独自性やユーモアが高く評価されています。レビューの内容概要としては、ユーザーがゲームの面白さや感動的な瞬間を共有しています。また、ユーザーの中には、ゲームのテーマが世界平和や家族愛に関するものであることを高く評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/04/19/180187.html",
+        "date": "2026-04-19",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-19T02:34:13.524127"
+  "last_updated": "2026-04-19T09:46:47.749449"
 }
