@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Metro Mania: Planes, Trains, and Automobiles!",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、メトロマニア：飛行機、列車、自動車！というバンドルが販売中です。このバンドルには、主要タイトルとして「Train Valley」や「Railway Empire」、「Transport Fever」などが含まれています。ジャンルは、シミュレーションゲームやストラテジーゲームが中心です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/metromaniaplanestrainsandautomobiles_bundle",
-        "date": "2026-04-09"
-      },
-      {
-        "title": "Checkmate! A Chess Games Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、チェスゲームを集めたバンドル「Checkmate! A Chess Games Collection」が販売中です。このバンドルには、「Chess Ultra」や「Battle vs. Chess」などの主要タイトルが含まれています。チェスゲーム好きの方にぴったりのバンドルで、ストラテジーやボードゲームなどのジャンルが好きな人にもおすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/checkmatechessgamescollection_bundle",
-        "date": "2026-04-09"
-      },
-      {
         "title": "HHGeeks & Chicks Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -257,18 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "No Man's Sky",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "No Man's SkyがSteamで60%オフのセール中です。このゲームはオープンワールドのサンドボックスゲームで、プレイヤーは広大な宇宙を探索し、惑星を発見し、リソースを収集することができます。サードパーソンシューティングやサバイバル要素も含まれており、自由度が高いゲームです。現在の価格は大幅に割引されており、興味がある方はお得に購入できます。",
-        "price": "¥2,600",
-        "originalPrice": "¥6,500",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/275850",
-        "date": "2026-04-12"
-      },
       {
         "title": "Monster Hunter Wilds",
         "platform": "Various",
@@ -739,136 +703,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【2026年から2027年Q2までの導入を予定している新コンテンツをまとめた「Medieval ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "2026年から2027年Q2までに導入予定の新コンテンツをまとめた「Medieval ...：レビュー」のレビュー記事について説明します。このレビューでは、新コンテンツの評価ポイントとして、ゲームのグラフィックやサウンド、ゲームプレイの面白さなどが高く評価されています。また、レビューの内容として、新コンテンツによってゲームの世界観がさらに豊かになったことや。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165988.html",
-        "date": "2026-04-14",
-        "is_translated": false
-      },
-      {
-        "title": "【『プラグマタ』レビュー。カプコンの新規IPとしての一定のミッションは果たすも歯がゆさあり、楽し...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "カプコンの新規IPとしてリリースされた『プラグマタ』のレビュー記事では、このゲームが一定のミッションを果たしたものの、まだ改善すべき点もあると評価されています。プレイヤーはこのゲームの独自の世界観やゲームプレイを楽しむことができますが、歯がゆい要素も存在するようです。このレビュー記事は、『プラグマタ』に興味を持つゲーマーやカプコンのファン。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/20260414-437352/",
-        "date": "2026-04-14",
-        "is_translated": false
-      },
-      {
-        "title": "【物理演算・洞穴下りホラー『Idols of Ash』Steamで高評価炸裂中。謎の巨大ムカデか...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "物理演算と洞穴下りホラーを融合させた『Idols of Ash』は、Steamで高い評価を集めています。このゲームの評価ポイントとしては、独自のゲームシステムや、恐怖心を揺さぶる雰囲気、そして謎の巨大ムカデとの遭遇などが挙げられます。レビューでは、ゲームの緊張感やスリルが高く、プレイヤーを引き込むことができると評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20264014-437317/",
-        "date": "2026-04-14",
-        "is_translated": false
-      },
-      {
-        "title": "【発売から13年の歳月を経た傑作宇宙開発シム「Kerbal Space Program」が遂にS...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Kerbal Space Program」は宇宙開発シミュレーションゲームで、発売から13年を経てもなお人気を博しています。このゲームの評価ポイントとしては、リアルな物理エンジンによる宇宙空間の再現、様々なミッションの自由度、カスタマイズ可能な宇宙船の設計が挙げられます。レビューでは、このゲームの独自の魅力や長年の更新による充実したコンテンツについて触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165974.html",
-        "date": "2026-04-14",
-        "is_translated": false
-      },
-      {
-        "title": "【シネマコンの観客を驚かせた映像により、『スパイダーマン：ビヨンド・ザ・スパイダーバース』の公開...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "『スパイダーマン：ビヨンド・ザ・スパイダーバース』は、シネマコンの観客を驚かせた映像で公開されました。このレビュー記事では、この映画の評価ポイントとして、ストーリーの独創性、視覚的な表現の美しさ、声優の演技力を挙げています。また、レビューの内容概要として、映画の世界観の広がりやキャラクターの深みを掘り下げています。このレビュー記事は、映画ファンやアニメ好きの方に読んでほしい記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/spider-man-beyond-the-spider-verse-release-date-moved-new-footage/",
-        "date": "2026-04-14",
-        "is_translated": true
-      },
-      {
-        "title": "【海賊テーマのサバイバルアドベンチャー「Windrose」の早期アクセス版が本日発売、リリースト...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "海賊テーマのサバイバルアドベンチャーゲーム「Windrose」の早期アクセス版が発売されたことを紹介するレビュー記事です。このゲームは、海賊としての生存をテーマにしており、プレイヤーは資源の管理や船の操作などをしながら、海賊としての生活を体験できます。レビューでは、ゲームのグラフィックやサウンドトラックの 퀄리ティ、ゲームプレイの面白さなどが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04165971.html",
-        "date": "2026-04-14",
-        "is_translated": false
-      },
-      {
-        "title": "【『ディシディア デュエルム FF』新プレイアブル「フリオニール」「バルフレア」参戦―新鮮な現代...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "本レビュー記事では、ゲーム『ディシディア デュエルム FF』の新プレイアブルキャラクター「フリオニール」と「バルフレア」の参戦が紹介されています。ゲームの評価ポイントとして、新キャラクターの参戦によってプレイスタイルが変化する点や、ゲームの新鮮な現代的なグラフィックが挙げられます。また、対象読者としては、このゲームのファンや新規プレイヤーが想定され。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/04/14/179956.html",
-        "date": "2026-04-14",
-        "is_translated": false
-      },
-      {
-        "title": "【Idols Of Ash レビュー - 岩か巨大なムカデのどちらかを選択する素晴らしい洞窟ホラ...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Idols Of Ashは、岩か巨大なムカデのどちらかを選択するホラーゲームで、洞窟を舞台にしたユニークな設定が特徴です。このゲームの評価ポイントとしては、独自のゲームプレイや恐怖要素のバランスが取れている点が挙げられます。レビューでは、ゲームのストーリーやサウンドデザインの質の高さも評価されています。ホラーゲームファンや、新しい体験を求めるゲーマーが対象読者です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/idols-of-ash-review-a-terrific-spelunking-horror-game-that-makes-you-choose-between-a-rock-and-a-giant-centipede",
-        "date": "2026-04-14",
-        "is_translated": true
-      },
-      {
-        "title": "【A Storid Life: Tabitha レビュー – 最大の課題は他人のストーリーを正し...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「A Storid Life: Tabitha」を紹介しています。このゲームの評価ポイントとして、他人のストーリーを正すという最大の課題や、物語の展開が面白い点が挙げられます。また、レビューでは、ゲームのシステムやグラフィックについても評価しています。この記事は、ゲームファンやストーリー重視のプレイヤーにとって参考になる内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/a-storied-life-tabitha-review",
-        "date": "2026-04-14",
-        "is_translated": true
-      },
-      {
-        "title": "【ディズニー ロルカーナは、トイ ストーリー、インクレディブル、ブレイブなどから 32 枚の新し...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ディズニー ロルカーナは、トイ ストーリー、インクレディブル、ブレイブなどから32枚の新しいミッションを取り入れており、ゲームの評価ポイントとしては、グラフィックの美しさやストーリーの面白さが高く評価されています。レビューの内容概要としては、家族でも楽しめるコンテンツであることや、子供向けのゲームとして適していることが挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/disney-lorcana-wilds-unknown-card-reveals-spoilers/",
-        "date": "2026-04-14",
-        "is_translated": true
-      },
       {
         "title": "【“2.5D”サイバーパンクアクション『REPLACED』早くも人気沸騰。“人間の体に閉じ込めら...：レビュー】",
         "platform": "AUTOMATON",
@@ -1482,5 +1316,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-18T21:35:36.652620"
+  "last_updated": "2026-04-19T02:34:13.524127"
 }
