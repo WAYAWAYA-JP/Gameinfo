@@ -194,6 +194,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/sovereignsandboxbundle_bundle",
         "date": "2026-04-18"
+      },
+      {
+        "title": "Humble 15 Golden Tales Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble 15 Golden Tales Bundleというバンドルが販売中です。このバンドルには、The Whispered World、The Night of the Rabbit、Deponiaなどの主要タイトルが含まれています。ジャンルはアドベンチャーゲームで、大まかな価格帯は1000〜2000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/15goldentalesbundle_bundle",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "Tower Defense 2",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Tower Defense 2のバンドルが販売中です。このバンドルには、主要タイトルとして「Kingdom Rush」、「Plants vs. Zombies」、「Defense Grid」などのタイトルが含まれています。ジャンルはストラテジーで、特にタワーディフェンスゲームが中心です。大まかな価格帯は10ドルから20ドル程度とされています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/towerdefense2_bundle",
+        "date": "2026-04-20"
       }
     ],
     "sale": [
@@ -580,6 +604,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/275850",
         "date": "2026-04-19"
+      },
+      {
+        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "platform": "Various",
+        "type": "sale",
+        "description": "S.T.A.L.K.E.R. 2: Heart of Chornobylが現在、Variousで42%オフのセール中です。このゲームは、オープンワールドとFPSの要素を組み合わせたサバイバルホラーゲームであり、独自の雰囲気とグラフィックで知られています。ユーザーの評価は非常に高く、人気度も高いゲームです。セール価格で購入することができます。",
+        "price": "$34.90",
+        "originalPrice": "",
+        "discount": "-42%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
+        "date": "2026-04-20"
       }
     ],
     "review": [
@@ -1128,8 +1164,34 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-pragmata-and-windrose-face-off-with-sad-sci-fi-dads-proving-no-match-for-tree-chopping-pirates/",
         "date": "2026-04-20",
         "is_translated": true
+      },
+      {
+        "title": "【『怪獣８号 THE GAME』新★5キャラクター「五十嵐ジュラ」無料配布アプデ配信。実装と同時...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『怪獣８号 THE GAME』のレビューでは、新しいキャラクター「五十嵐ジュラ」の無料配布やゲームの新要素が評価ポイントとして挙げられています。レビューの内容では、ゲームバランスの改善や新キャラクターの魅力的な能力が高く評価されています。ゲーム好きの方や、アクションゲームを楽しむことが好きな読者には、ぜひ一度このレビューを読んでみてください。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260420-438589/",
+        "date": "2026-04-20",
+        "is_translated": false
+      },
+      {
+        "title": "【『Apex Legends』を用いて「ゲームの上手さ測定法」を編み出す研究がおこなわれる。“自...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Apex Legends』を用いた「ゲームの上手さ測定法」の研究が行われており、その内容を紹介するレビュー記事があります。このレビューでは、ゲームの評価ポイントとして、プレイヤーのスキルや戦略の重要性が挙げられます。また、レビューの内容概要としては、ゲームの魅力や難易度のバランスなどが取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260420-438541/",
+        "date": "2026-04-20",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-20T02:34:49.815088"
+  "last_updated": "2026-04-20T10:47:49.029705"
 }
