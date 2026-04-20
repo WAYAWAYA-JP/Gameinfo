@@ -1190,8 +1190,34 @@
         "url": "https://automaton-media.com/articles/newsjp/20260420-438541/",
         "date": "2026-04-20",
         "is_translated": false
+      },
+      {
+        "title": "【「Kiln」や「Vampire Crawlers」を含む10タイトルの“Xbox|PC Gam...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、XboxとPCで遊べる10タイトルのゲーム、例えば「Kiln」や「Vampire Crawlers」を含む作品について評価しています。主な評価ポイントとしては、ゲームのグラフィックやサウンド、ゲームプレイの面白さなどがあります。レビューの内容概要としては、各ゲームのユニークな要素や、プレイヤーが楽しめる要素について紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166169.html",
+        "date": "2026-04-20",
+        "is_translated": false
+      },
+      {
+        "title": "【ヴァンパイア クローラーズ レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ヴァンパイア クローラーズ レビューの記事では、このゲームの評価ポイントを紹介しています。ゲームのグラフィックやサウンド、ゲームプレイの面白さなどが評価のポイントとなっています。また、レビューではゲームのストーリーや操作性、難易度についても触れています。このレビュー記事は、ヴァンパイア クローラーズのファンやアクションゲームが好きな人に朗らかな情報を提供することを目的としています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/roguelike/vampire-crawlers-review/",
+        "date": "2026-04-20",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-20T10:47:49.029705"
+  "last_updated": "2026-04-20T13:58:24.954668"
 }
