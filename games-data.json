@@ -616,6 +616,90 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
         "date": "2026-04-20"
+      },
+      {
+        "title": "サイバーパンク2077",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サイバーパンク2077は、オープンワールドのアクションRPGゲームであり、豊かなストーリーや詳細なグラフィックが特徴です。現在、Steamで65%の割引セール中で、価格は大幅に下がっています。このゲームは、高度なカスタマイズや複雑なキャラクター設定などが評価されており、ゲームファンからの人気度も非常に高いです。",
+        "price": "¥3,072",
+        "originalPrice": "¥8,778",
+        "discount": "65% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1091500",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "DARK SOULS III - The Fire Fades Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DARK SOULS III - The Fire Fades EditionがSteamで50% OFFセール中です。このゲームは、アクションRPGとして知られており、難度の高いゲームプレイと豊富なストーリーが特徴です。セール中の価格で購入することで、通常価格よりも大幅に安くプレイすることができます。",
+        "price": "¥2,970",
+        "originalPrice": "¥5,940",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/160150",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "Street Fighter 6",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ストリートファイター6がSteamで50%オフのセール中です。この対戦格闘ゲームは、シリーズの最新作として人気を博しており、高速なアクションと豊富なキャラクターが特徴です。通常価格よりも大幅に安くなり、ファンや新規プレイヤーも楽しめるチャンスです。",
+        "price": "¥2,495",
+        "originalPrice": "¥4,990",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1364780",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "DARK SOULS™ II: Scholar of the First Sin",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DARK SOULS II: Scholar of the First SinがSteamで50% OFFセール中です。このゲームは、アクションRPGのジャンルに属し、難易度の高さと奥深い物語で知られています。現在、半額の割引で購入することができます。Steamでの評価は「非常に好評」であり、多くのユーザーから高い人気度を誇っています。",
+        "price": "¥2,860",
+        "originalPrice": "¥5,720",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/335300",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "DARK SOULS™: REMASTERED",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DARK SOULSのリマスター版であるDARK SOULS: REMASTEREDがSteamで現在50%オフのセール中です。このアクションRPGは、難易度の高さと濃密なゲーム世界で知られており、ファンから高い評価を受けています。ゲームのジャンルはダークファンタジーが特徴的です。現在、Steamで大幅な割引が行われているので、未プレイの方も気軽に挑戦できる価格になっています。",
+        "price": "¥2,365",
+        "originalPrice": "¥4,730",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/570940",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "Mount & Blade II: Bannerlord",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションゲームのMount & Blade II: BannerlordがSteamで50% OFFセール中です。このゲームは、中世を舞台に戦争や政治を経験できるオープンワールドゲームで人気があり、プレイヤーは騎兵や歩兵を率いて戦闘に参加できます。現在、Steamでは半額の激安価格で提供されており、興味がある方はおすすめです。",
+        "price": "¥3,250",
+        "originalPrice": "¥6,500",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/261550",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Red Dead Redemption 2がバラエティー店舗で77%割引セール中です。このオープンワールドアクションアドベンチャーゲームは、幅広い評価と高い人気を誇り、多くのユーザーから高く評価されています。",
+        "price": "$13.50",
+        "originalPrice": "",
+        "discount": "-77%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-04-20"
       }
     ],
     "review": [
@@ -1216,8 +1300,60 @@
         "url": "https://www.pcgamer.com/games/roguelike/vampire-crawlers-review/",
         "date": "2026-04-20",
         "is_translated": true
+      },
+      {
+        "title": "【オンラインマルチプレイヤー陶芸乱闘バトル「Kiln」のローンチトレーラーが公開、発売は4月23日】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Kiln」はオンラインマルチプレイヤー陶芸乱闘バトルゲームで、発売は4月23日です。このゲームの評価ポイントとしては、ユニークなゲームプレイスタイルやカolorfulなグラフィックが挙げられます。また、レビューの内容概要としては、ゲームのバランスや操作性に焦点が当てられている点が特徴です。このゲームは、オンラインマルチプレイヤーゲームを楽しむファンや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166181.html",
+        "date": "2026-04-20",
+        "is_translated": false
+      },
+      {
+        "title": "【“シェレディンの民”のリワークや世論システムの刷新を含む「ENDLESS Legend 2」の...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、ストラテジーゲーム「ENDLESS Legend 2」の評価ポイントを紹介しています。評価ポイントとして、シェレディンの民のリワークや新しい世論システムの導入が挙げられています。レビューの内容概要としては、ゲームの新しい要素やシステムの改善、そしてゲームの総合的な評価が述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166170.html",
+        "date": "2026-04-20",
+        "is_translated": false
+      },
+      {
+        "title": "【シリーズ最新作「トロピコ 7」初のゲームプレイを紹介するティザートレーラーが公開、発売は2026年】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "シリーズ最新作「トロピコ 7」のティザートレーラーが公開されました。このゲームは2026年に発売予定です。評価ポイントとして、シリーズ最新作の新しいゲームプレイスタイルやグラフィックの改善が見られます。レビューの内容概要としては、新しい島の開発や都市計画、政治的な要素が含まれている点が挙げられます。このゲームは、シミュレーションゲームファンやシリーズのファンにとって興味深い内容になると思います。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166178.html",
+        "date": "2026-04-20",
+        "is_translated": false
+      },
+      {
+        "title": "【Anthropicは、サイバーセキュリティに挑戦する新しいAIモデルのプレビューリリース後、ホ...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Anthropicは、サイバーセキュリティに挑戦する新しいAIモデルのプレビューリリースを経て、ホワイトハットハッカーとセキュリティ研究者から高い評価を受けています。このレビューでは、AIモデルのセキュリティ対策の優良さ、サイバーセキュリティにおける革新的な機能、そしてユーザーへの利便性について評価しています。対象読者は、サイバーセキュリティやAI技術に興味のある人向けです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/software/ai/anthropic-had-a-productive-and-constructive-meeting-with-white-house-officials-after-the-preview-release-of-its-new-cybersecurity-challenging-ai-model/",
+        "date": "2026-04-20",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-20T13:58:24.954668"
+  "last_updated": "2026-04-20T21:46:36.249099"
 }
