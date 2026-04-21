@@ -628,6 +628,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dark-souls-iii/info/",
         "date": "2026-04-21"
+      },
+      {
+        "title": "Dead Island 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「Dead Island 2」がSteamで大幅なセール中です。このゲームは、ゾンビが跋扈する世界でサバイバルを目指す、オープンワールドのアクションゲームです。現在、Steamでは90%の割引が適用されており、非常にお得な価格でプレイできます。さらに、このゲームは高い評価と人気度を誇り、ファンからも高い支持を受けています。",
+        "price": "¥588",
+        "originalPrice": "¥5,889",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/934700",
+        "date": "2026-04-21"
       }
     ],
     "review": [
@@ -1124,8 +1136,60 @@
         "url": "https://automaton-media.com/articles/newsjp/20260421-438754/",
         "date": "2026-04-21",
         "is_translated": false
+      },
+      {
+        "title": "【戦闘システムやスキルツリーの拡張、プレイヤー作成コンテンツの共有機能を含む「Enshroude...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Enshroudeのレビュー記事では、戦闘システムやスキルツリーの拡張、プレイヤー作成コンテンツの共有機能などが評価されています。このゲームは、戦略的な戦闘やキャラクターのカスタマイズを楽しむことができるため、ロールプレイングゲームのファンにお勧めです。また、共有機能を通じて他のプレイヤーと交流することも可能で、コミュニティの形成にも貢献しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166197.html",
+        "date": "2026-04-21",
+        "is_translated": false
+      },
+      {
+        "title": "【「神話はその性質上、語られ、語り直されるものである」：Hades 2開発者、物議を醸す結末の変...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Hades 2の開発者は、「神話はその性質上、語られ、語り直されるものである」と述べて物議を醸す結末の変え方について説明しています。このゲームの評価ポイントとして、ストーリーの深み、ゲームプレイの複雑さ、グラフィックの美しさが挙げられます。レビューでは、これらの要素がどう組み合わさってプレイヤーに印象を与えるかが批評されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/mythology-by-its-nature-is-told-and-retold-hades-2-dev-on-changing-its-controversial-ending",
+        "date": "2026-04-21",
+        "is_translated": true
+      },
+      {
+        "title": "【Tides of Tomorrow レビュー: これまでプレイした中で最高の反社会的なソーシャ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Tides of Tomorrow レビューは、反社会的なソーシャルシミュレーションゲームの最高傑作として評価されています。このレビューでは、ゲームの評価ポイントとして、独自のゲームシステム、深いストーリー、そして魅力的なキャラクターが挙げられます。また、レビューでは、ゲームの社会的なテーマや人間関係の複雑さも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/tides-of-tomorrow-review/",
+        "date": "2026-04-21",
+        "is_translated": true
+      },
+      {
+        "title": "【Diablo 4 Lord of Hatred レビュー: 素晴らしいストーリーが苦労を妨げる】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Diablo 4 Lord of Hatredのレビュー記事では、ゲームの評価ポイントとしてストーリーの素晴らしさを高く評価しています。しかし、同時に、プレイヤーの苦労を妨げる要素もあることを指摘しています。具体的には、ゲームの難易度のバランスや、システムの複雑さなどが苦労の原因となっているようです。ゲームのストーリーを重視する読者や、Diabloシリーズのファンにはお勧めのレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/diablo-4-lord-of-hatred-review/",
+        "date": "2026-04-21",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-21T13:58:25.465642"
+  "last_updated": "2026-04-21T21:45:36.669534"
 }
