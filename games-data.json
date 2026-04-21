@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Strategic Minds Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Strategic Minds Collectionと呼ばれるバンドルが販売中です。このバンドルには、戦略性に富んだゲームが数多く含まれており、主なタイトルとしては、戦略シミュレーションゲームやストラテジー系ゲームが含まれています。ジャンルは主にストラテジーゲームで、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/strategicmindscollection_bundle",
-        "date": "2026-04-11"
-      },
-      {
-        "title": "Best of Humble: Fight 4 Your Friends",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Best of Humble: Fight 4 Your Friendsというバンドルが販売中です。このバンドルには、主要タイトルとして『Streets of Rage 4』や『River City Girls』、そして『Double Dragon IV』などが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/bohfight4yourfriendsupdate_bundle",
-        "date": "2026-04-11"
-      },
-      {
         "title": "Humble 15 for $15 - Spring 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -221,102 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Detroit: Become Human",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Detroit: Become HumanがSteamで80% OFFセール中です。このゲームはアドベンチャーゲームであり、プレイヤーはアンダーグラウンドのアンドロイドと共に人類に挑戦するという特徴を持っています。現在の価格は大幅に割引されています。評価は非常に高く、人気度も高いゲームです。",
-        "price": "¥900",
-        "originalPrice": "¥4,500",
-        "discount": "80% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1222140",
-        "date": "2026-04-14"
-      },
-      {
-        "title": "RESIDENT EVIL 3 (2020)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "RESIDENT EVIL 3は、2020年に発売されたサバイバルホラーゲームで、Variousで現在91%オフのセール中です。このゲームは、ホラーとアクションを兼ね備えた、シリーズのファンに人気の高い作品で、評価も非常に高いです。",
-        "price": "$3.59",
-        "originalPrice": "",
-        "discount": "-91%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-3-2020/info/",
-        "date": "2026-04-14"
-      },
-      {
-        "title": "Dome Keeper ドームキーパー",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Dome Keeper（ドームキーパー）がSteamで60% OFFのセール中です。このゲームは、ディフェンスとサバイバル要素を組み合わせたユニークなゲームプレイが特徴です。通常価格より大幅に安くなっているこの機会に、試してみるのはいかがでしょうか。ゲームの評価は非常に高く、ユーザーからの人気度も高いゲームですので、セール期間中に購入することをお勧めします。",
-        "price": "¥800",
-        "originalPrice": "¥2,000",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1637320",
-        "date": "2026-04-14"
-      },
-      {
-        "title": "Monster Hunter: World",
-        "platform": "Various",
-        "type": "sale",
-        "description": "モンハンシリーズの最新作であるMonster Hunter: Worldが、現在79%の割引で販売中です。このゲームはアクションRPGのジャンルに属し、巨大なモンスターを狩るというユニークな特徴があります。高評価を得ているこのゲームは、幅広い年齢層のプレイヤーに人気があり、オンラインでの協力プレイも可能です。",
-        "price": "$6.44",
-        "originalPrice": "",
-        "discount": "-79%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/monster-hunter-world/info/",
-        "date": "2026-04-14"
-      },
-      {
-        "title": "Resident Evil 4 (2023)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "バイオハザード4（2023）がVariousで67%オフでセール中です。このゲームはサバイバルホラーのジャンルに属し、恐怖とアクションが絶妙に組み合わさった作品です。現在の価格は大幅に割引されており、評価も非常に高い人気ゲームです。バイオハザードシリーズのファンやホラーゲームを楽しむ人にはおすすめの作品です。",
-        "price": "$13.39",
-        "originalPrice": "",
-        "discount": "-67%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
-        "date": "2026-04-14"
-      },
-      {
-        "title": "Graveyard Keeper",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Graveyard Keeperがバラエティー様々なゲームの中で82%割引セール中です。このゲームは、墓地の管理と農業を同時に進行させるというユニークな要素を備えたシミュレーションゲームです。ユーモアとブラックコメディをちりばめたストーリーが楽しめます。現在、非常に低価格で購入できます。多くのユーザーから高い評価を得ており、人気度も高いので、興味がある方はぜひこの機会に購入してみてください。",
-        "price": "$3.56",
-        "originalPrice": "",
-        "discount": "-82%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/graveyard-keeper/info/",
-        "date": "2026-04-14"
-      },
-      {
-        "title": "Hades",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームのHadesがVariousで75%割引されています。このゲームは、ギリシャ神話をモチーフにした独特の世界観と、スピーディなアクションが特徴です。プレイヤーは、冥界から脱出を目指す主人公を操作し、さまざまな能力を駆使して強敵たちを倒していきます。高い評価と人気を誇るこのゲームは、格安の価格で手に入れることができますので。",
-        "price": "$6.24",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hades/info/",
-        "date": "2026-04-14"
-      },
-      {
-        "title": "Hades II",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームのHades IIが、現在バリュー店で20%割引のセール中です。このゲームは、神話に基づいたストーリーと高速のアクションが特徴で、プレイヤーは地獄を舞台に様々な敵と戦いながら進めていきます。評価は非常に高く、人気も高いゲームです。価格は割引前と比べて20%割引になるため、興味がある方はこの機会にぜひ購入してみてください。",
-        "price": "$23.99",
-        "originalPrice": "",
-        "discount": "-20%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hades-ii/info/",
-        "date": "2026-04-14"
-      },
       {
         "title": "Atomic Heart",
         "platform": "Various",
@@ -700,191 +580,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
         "date": "2026-04-20"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストは、オープンワールドアクションアドベンチャーゲームであり、自由に世界を探索することができる特徴があります。現在、Steamで56%の割引が行われており、格安でプレイすることができます。このゲームは、高い評価と人気度を誇り、幅広い年齢層のプレイヤーから支持されています。セール中のこのゲームは、格安でプレイすることができるため、興味のある人はおすすめです。",
+        "price": "¥2,851",
+        "originalPrice": "¥6,480",
+        "discount": "56% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-04-21"
+      },
+      {
+        "title": "DARK SOULS III",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DARK SOULS IIIはアクションRPGのジャンルで知られており、難易度の高さと奥深いストーリーが特徴です。現在、Variousで55%割引のセール中で、ファンに人気の高いシリーズです。評価も高く、多くのユーザーから高い評価を得ています。",
+        "price": "$26.95",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dark-souls-iii/info/",
+        "date": "2026-04-21"
       }
     ],
     "review": [
-      {
-        "title": "【Steam無料猫シム『Cat Simulator: Meow』、約5年の空白期間を経て“猫サバ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、約5年の空白期間を経てアップデートされたSteamの無料ゲーム「Cat Simulator: Meow」の評価ポイントについて述べています。記事では、ゲームの新しい要素や改善点、そしてプレイヤーが楽しめる要素について触れています。猫を飼うシミュレーションゲームを楽しむ人や、気軽に遊べるゲームを探している人にとって、このレビュー記事は参考になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/cat-simulator-meow-20260416-437710/",
-        "date": "2026-04-16",
-        "is_translated": false
-      },
-      {
-        "title": "【Might and Delightが生んだ独創的なMMO「Book of Travels」のサ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Might and Delightが生んだ独創的なMMO「Book of Travels」のレビュー記事では、ゲームの評価ポイントとして、ユニークなゲームデザインや豊富なストーリーが挙げられています。また、レビューの内容概要として、ゲームの自由度や探索の楽しさが紹介されています。この記事は、MMOゲームや新しいゲームに興味がある読者に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04126678.html",
-        "date": "2026-04-16",
-        "is_translated": false
-      },
-      {
-        "title": "【Nintendo Switch向けセールになんと約600本どっさり追加。ダイソー虫カードゲーム...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Nintendo Switch向けのセールに約600本が追加されました。このセールの評価ポイントとしては、豊富なゲームタイトル数や低価格があげられます。レビューの内容概要としては、セールの対象ゲームの多さや、ダイソー虫カードゲームのようなユニークな作品が含まれている点が高く評価されています。このレビューは、ゲームファンやNintendo Switchユーザーにとって有益な情報が含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/nintendo-switch-sale-20260416-437869/",
-        "date": "2026-04-16",
-        "is_translated": false
-      },
-      {
-        "title": "【“『P.T.』ライク”日常侵食ホラー『悪意』5月7日配信へ。高評価『凶寓』開発元の新作、あらゆ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「悪意」というホラーゲームが5月7日に配信されることが決定しました。このゲームは、日常生活が恐ろしいものに侵食されるという設定で、プレイヤーはその恐怖を体験します。開発元は、以前にも高評価を得た「凶寓」を制作したチームで、このゲームも高い評価が期待されています。ゲームの評価ポイントとしては、恐怖を生み出す設定や、ユーザーインターフェイスの作り方があげられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260416-437838/",
-        "date": "2026-04-16",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam同接約10万人の海賊オープンワールド『Windrose / ウィンドローズ』大人気す...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ウィンドローズはSteamで同接約10万人の海賊オープンワールドゲームです。このゲームは大人気であり、多くのレビューが寄せられています。評価ポイントとしては、広大なオープンワールドの自由度、ユニークな海賊システム、およびマルチプレイヤー機能が高く評価されています。レビューの内容概要としては、ゲームのグラフィックやサウンドデザインの高さ、そしてプレイヤー同士の交流や協力プレイの楽しさが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260416-437823/",
-        "date": "2026-04-16",
-        "is_translated": false
-      },
-      {
-        "title": "【高評価・伝奇ミステリーADV『パラノマサイト FILE38 伊勢人魚物語』アプデで一部謎解きが...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "伝奇ミステリーADV『パラノマサイト FILE38 伊勢人魚物語』のレビュー記事では、ゲームの評価ポイントとしてストーリーの深みやキャラクターの造形が挙げられています。さらに、更新により一部の謎解きが変更されたことが紹介されており、ミステリー要素を重視するプレイヤーにとっては大きなニュースです。この記事は、ミステリーADVファンや謎解きゲームの愛好家向けに、ゲームの魅力や最新情報を紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260416-437816/",
-        "date": "2026-04-16",
-        "is_translated": false
-      },
-      {
-        "title": "【人気脱出シューター『ARC Raiders』には「犯罪学者や心理学者」も興味津々らしい。リスク...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "人気脱出シューター『ARC Raiders』は、犯罪学者や心理学者なども興味を持ち、リスク要素やストーリーの面白さなどが評価ポイントとなっています。レビューでは、ゲームのシステムや難易度のバランスが高く評価されています。対象読者は、シューティングゲームに興味のある人や、ストーリー重視のゲームを求める人向けであり、ゲームのレビュー記事としては、ゲームの魅力や欠点を知りたい人にもおすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260416-437793/",
-        "date": "2026-04-16",
-        "is_translated": false
-      },
-      {
-        "title": "【『マビノギ英雄伝』世界観の骨太アクションRPG『Vindictus: Defying Fate...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『マビノギ英雄伝』の世界観を基にしたアクションRPG『Vindictus: Defying Fate...』のレビュー記事では、ゲームの評価ポイントとして、骨太なアクション性と豪快な戦闘シーンが高く評価されています。また、ゲームの世界観やストーリーも魅力的です。レビューの内容としては、ゲームのグラフィックやサウンドトラックも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/vindictus-defying-fate-20260416-437946/",
-        "date": "2026-04-16",
-        "is_translated": false
-      },
-      {
-        "title": "【珊瑚礁と海洋生態系の回復を描く海底都市建設シム「Life Below」の発売日が5月26日に決...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Life Below」は、海底都市を建設して珊瑚礁と海洋生態系の回復を描くシミュレーションゲームです。このゲームの評価ポイントとして、グラフィックの美しさやゲームプレイの面白さが挙げられます。レビューの内容概要としては、ゲームの世界観の魅力や、都市建設の自由度の高さが高く評価されています。対象読者としては、シミュレーションゲームや海洋の生態系に興味がある人向けのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166010.html",
-        "date": "2026-04-16",
-        "is_translated": false
-      },
-      {
-        "title": "【海賊テーマのサバイバルアドベンチャー「Windrose」が発売から2日で50万本販売を達成：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "海賊テーマのサバイバルアドベンチャーゲーム「Windrose」が発売から2日で50万本販売を達成しており、そのレビュー記事では、ゲームの評価ポイントとしてグラフィックの高さやゲームプレイの面白さが挙げられています。また、レビューの内容としては、ゲームの難易度が適切で、プレイヤーが自由に冒険できることが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166060.html",
-        "date": "2026-04-16",
-        "is_translated": false
-      },
-      {
-        "title": "【海賊サバイバル Windrose、Steam レビューが「ほぼ好評」で 50 万人の仲間がゲー...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "海賊サバイバルゲーム「Windrose」は、Steamでのレビューで「ほぼ好評」な評価を受けており、約50万人のプレイヤーが参加しています。評価ポイントとしては、ゲームの自由度やグラフィックの美しさが高く評価されています。また、レビューでは、ゲームの世界観やストーリーが魅力的であると述べられています。対象読者としては。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/pirate-survival-windrose-sees-500-000-mateys-buy-the-game-as-steam-reviews-are-mostly-positive/",
-        "date": "2026-04-16",
-        "is_translated": true
-      },
-      {
-        "title": "【Minos レビュー - テセウスはミノタウロスを飼うことができる、このローグライク タワー ...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Minos は、テセウスがミノタウロスを飼うことができるローグライクタワーディフェンスゲームです。このレビュー記事では、ゲームの評価ポイントとして、タワーディフェンスの面白さ、ローグライク要素の奥深さ、そしてグラフィックの美しさを取り上げています。さらに、ゲームの難易度やストーリーの魅力も紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/minos-review-theseus-can-have-the-minotaur-this-roguelike-tower-defense-gets-just-too-punishing",
-        "date": "2026-04-16",
-        "is_translated": true
-      },
-      {
-        "title": "【フィリピン文化をモチーフにほろ苦い高校生活を描くアドベンチャー「Until Then」のXbo...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、フィリピン文化をモチーフに高校生活を描いたアドベンチャーゲーム「Until Then」のXbox版を紹介しています。ゲームの評価ポイントとして、ユニークな文化的背景やキャラクターの個性が高く評価されています。また、レビューでは、ゲームのストーリーやキャラクターの関係性が細かく描かれ、プレイヤーに強い共感を呼び起こすことができると述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166067.html",
-        "date": "2026-04-16",
-        "is_translated": false
-      },
-      {
-        "title": "【トラックレビュー：ラナ・デル・レイ「ファースト・ライト」】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ラナ・デル・レイのアルバム「ファースト・ライト」のレビュー記事では、音楽の質感や歌手の表現力が高く評価されています。歌手の声のトーンや楽曲のアレンジが優れており、聴く人が心に寄せるメロディーに仕上がっています。また、歌詞の内容も深い意味を込めており、聴き手を引き付けます。音楽ファンやラナ・デル・レイのファンなど、音楽を愛する人々にとって、このレビュー記事は参考になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/lana-del-rey-007-first-light-track-review/",
-        "date": "2026-04-16",
-        "is_translated": true
-      },
       {
         "title": "【サッカークラブ経営シム『Football Manager 26』無料の期間限定フリープレイ開始...】",
         "platform": "AUTOMATON",
@@ -938,19 +660,6 @@
         "is_translated": false
       },
       {
-        "title": "【「EXODUS」のステルスアクションに焦点を当てる新たなプレイ映像が公開、元BioWareのベ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム「EXODUS」の新しいプレイ映像が紹介されており、ステルスアクションに焦点を当てた内容となっています。レビューの内容としては、ゲームのストーリーや操作性、グラフィックのクオリティなどが評価ポイントとなっています。また、ゲームの雰囲気や難易度もレビュアーによって評価されており、ファンや新規プレイヤーにとっても参考になる情報が得られます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166071.html",
-        "date": "2026-04-16",
-        "is_translated": false
-      },
-      {
         "title": "【Fortune's Run、クリエイターの釈放を受けて開発再開：「仮釈放委員会が私の件を審査し...：レビュー】",
         "platform": "PC Gamer",
         "type": "review",
@@ -961,19 +670,6 @@
         "deadline": "",
         "url": "https://www.pcgamer.com/games/action/fortunes-run-resumes-development-following-creators-prison-release-the-parole-board-reviewed-my-case-and-instantly-kicked-my-ass-out-of-jail/",
         "date": "2026-04-17",
-        "is_translated": true
-      },
-      {
-        "title": "【スターシップ・トゥルーパーズ: アルティメット・バグ・ウォー レビ​​ュー：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "スターシップ・トゥルーパーズ：アルティメット・バグ・ウォーは、1997年にリリースされたカルトクラシックゲームであり、現在でも評価され続けています。このゲームの評価ポイントとしては、ユニークなゲームプレイ、魅力的なグラフィック、そして面白いストーリーが挙げられます。レビューの内容概要としては、ゲームの難易度、操作性、そして総合的な楽しさが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/starship-troopers-ultimate-bug-war-review/",
-        "date": "2026-04-16",
         "is_translated": true
       },
       {
@@ -1352,8 +1048,47 @@
         "url": "https://www.pcgamer.com/software/ai/anthropic-had-a-productive-and-constructive-meeting-with-white-house-officials-after-the-preview-release-of-its-new-cybersecurity-challenging-ai-model/",
         "date": "2026-04-20",
         "is_translated": true
+      },
+      {
+        "title": "【HoYoverseスローライフシム『プチプラネット』は、採取→釣り→クラフト→家具高額売却の、...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "HoYoverseのスローライフシミュレーションゲーム「プチプラネット」は、採取、釣り、クラフト、家具の高額売却などを楽しむことができるゲームです。このゲームの評価ポイントとしては、ゆっくり遊べるスローライフ要素、釣りやクラフトのシステムの豊富さ、そして家具のデザインや配置の自由度が高いことが挙げられます。ゲームのレビューでは、これらの要素が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/petitplanet-20260421-438611/",
+        "date": "2026-04-21",
+        "is_translated": false
+      },
+      {
+        "title": "【Sci-Fi工場建築シム「Foundry」次期大型アップデート“Rails & Reactor...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、Sci-Fi工場建築シム「Foundry」の次期大型アップデート“Rails & Reactor”を紹介しています。評価ポイントとしては、新しい鉄道システムや原子炉の導入が特に目玉です。また、ゲームのグラフィックやサウンドトラックの向上も評価しています。対象読者は、シム系ゲームやSci-Fiファンであれば、ぜひ一度読んでみてください。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166201.html",
+        "date": "2026-04-21",
+        "is_translated": false
+      },
+      {
+        "title": "【『プラグマタ』発売から2日で販売本数100万本突破！Steam“圧倒的に好評”キープ&同時プレ...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "『プラグマタ』は発売から2日で販売本数100万本を突破し、Steamでは「圧倒的に好評」な評価を維持しています。レビューでは、ゲームの評価ポイントとしてグラフィックの美しさや、ストーリーの深さが高い評価を受けています。また、ゲームプレイのバリエーションも豊富で、プレイヤーにとって飽きない内容になっていることが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/04/21/180259.html",
+        "date": "2026-04-21",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-20T21:46:36.249099"
+  "last_updated": "2026-04-21T02:30:33.210745"
 }
