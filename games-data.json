@@ -194,6 +194,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/towerdefense2_bundle",
         "date": "2026-04-20"
+      },
+      {
+        "title": "Strategic Minds Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Strategic Minds Collectionのバンドルが販売中です。このバンドルには、主に戦略シミュレーションゲームが含まれており、Hard West、Phoenix Point、They Are Billionsなどの人気タイトルが収録されています。戦略ゲームファン向けのこのバンドルは、大まかに1000円から2000円程度の価格帯で提供されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/strategicmindscollection_bundle",
+        "date": "2026-04-21"
+      },
+      {
+        "title": "Best of Humble: Fight 4 Your Friends",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Best of Humble: Fight 4 Your Friendsというバンドルが販売中です。このバンドルには、主要タイトルとして「Overcooked 2」や「Gang Beasts」、「For the King」などのタイトルが含まれています。ジャンルはアクションやアドベンチャー、ロールプレイングゲームなど多様です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/bohfight4yourfriendsupdate_bundle",
+        "date": "2026-04-21"
       }
     ],
     "sale": [
@@ -1087,8 +1111,21 @@
         "url": "https://www.inside-games.jp/article/2026/04/21/180259.html",
         "date": "2026-04-21",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料「街」オープンワールド『NTE: Neverness to Everness』は...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料のオープンワールドゲーム「NTE: Neverness to Everness」のレビュー記事では、ゲームの幅広い自由度やグラフィックの美しさ、そして豊富なクエストやミッションが評価ポイントとなっています。特に、ゲーム内の探索やキャラクターのカスタマイズが高く評価されています。このレビュー記事は、オープンワールドゲームファンや新規プレイヤーに役立つ情報を提供しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260421-438754/",
+        "date": "2026-04-21",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-21T02:30:33.210745"
+  "last_updated": "2026-04-21T10:18:28.644461"
 }
