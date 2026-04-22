@@ -218,6 +218,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/bohfight4yourfriendsupdate_bundle",
         "date": "2026-04-21"
+      },
+      {
+        "title": "Pixel Traditions Bundle 2",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Pixel Traditions Bundle 2のバンドルがIndieGalaで販売中です。このバンドルには、A Short HikeやTo The Moonなどの人気タイトルが含まれています。ジャンルはアクションアドベンチャーやロールプレイングゲームなど多様なものが含まれており、大体10ドルから20ドル程度の価格帯で購入することができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/pixel-traditions2-bundle",
+        "date": "2026-04-22"
       }
     ],
     "sale": [
@@ -591,6 +603,30 @@
         "discount": "-27%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/elden-ring/info/",
+        "date": "2026-04-22"
+      },
+      {
+        "title": "Kingdom Come: Deliverance II",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Kingdom Come: Deliverance IIがSteamで50% OFFセール中で、オープンワールドアクションRPGのファンにはおすすめのゲームです。このゲームは中世ヨーロッパを舞台に、プレイヤーが主人公を操作してさまざまなクエストをクリアしていくという特徴があります。現在の価格は割引前の半額で、非常に魅力的な購入機会となっています。",
+        "price": "¥4,045",
+        "originalPrice": "¥8,090",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1771300",
+        "date": "2026-04-22"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サイバーパンク2077は、オープンワールドRPGの名作として知られており、未来的な世界を舞台にプレイヤーが自由に冒険することができます。現在、Variousでこのゲームが65％オフのセール中です。サイバーパンク2077は、グラフィックやゲームプレイの質の高さから、ゲームファンからの評価が非常に高いです。また、人気度も非常に高く、多くのプレイヤーがこのゲームをプレイしています。",
+        "price": "$20.99",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-04-22"
       }
     ],
@@ -1026,5 +1062,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-22T02:28:47.768037"
+  "last_updated": "2026-04-22T10:19:11.207046"
 }
