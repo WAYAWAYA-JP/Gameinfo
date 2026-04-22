@@ -1059,8 +1059,73 @@
         "url": "https://doope.jp/2026/04166218.html",
         "date": "2026-04-21",
         "is_translated": false
+      },
+      {
+        "title": "【チタンコートのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "チタンコートのレビュー記事では、このゲームの評価ポイントとしてグラフィックの質やゲームプレイの奥深さが高く評価されています。また、レビューの内容概要としては、ユーザーインターフェイスの使いやすさや、ストーリーの魅力などが取り上げられています。ゲーマーにとって、特にアクションゲームを好む人向けのレビュー内容となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/roguelike/titanium-court-review/",
+        "date": "2026-04-22",
+        "is_translated": true
+      },
+      {
+        "title": "【Logitech G502 Hero ゲーミング マウスが Amazon から 22% オフに...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Logitech G502 Hero ゲーミング マウスは、Amazon で 22% オフの特別価格で販売されています。このマウスは、ゲーム好きに人気があり、高い評価を得ています。評価ポイントとしては、正確でスムーズな動作、長時間のバッテリー持ち、カスタマイズ可能なボタン配置が挙げられます。レビューの内容概要としては、快適な握り心地、優れた性能、耐久性の高さが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/a-legend-gets-cheaper-as-the-logitech-g502-hero-gaming-mouse-cuts-22-off-from-amazon",
+        "date": "2026-04-22",
+        "is_translated": true
+      },
+      {
+        "title": "【スパイダーマン/スーパーマン #1 レビュー: マーベルと DC の史上最高のクロスオーバー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "マーベルとDCコミックの代表的なスーパーヒーローであるスパイダーマンとスーパーマンが初めて競演する『スパイダーマン/スーパーマン #1』のレビュー記事では、ストーリーの面白さやキャラクターの相性、そして二大コミック出版社による共同制作の意義が評価ポイントとなっています。このレビューは、スパイダーマンやスーパーマンを愛好するファンや、コミックのクロスオーバー作品に興味を持つ読者に向けて。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/spider-man-superman-crossover-review-marvel-dc/",
+        "date": "2026-04-22",
+        "is_translated": true
+      },
+      {
+        "title": "【ヨッシーと不思議な本のプレビュー: 脅威ではない任天堂の魅力】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "「ヨッシーと不思議な本」のプレビュー記事では、このゲームの魅力が紹介されています。このゲームの評価ポイントとしては、ユニークなゲームデザインや、子供向けの内容などが挙げられます。レビューの内容概要としては、ゲームのグラフィックスやサウンドトラックの印象が良かったこと、また、シンプルながらも挑戦的なゲームプレイが楽しめたことが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/yoshi-and-the-mysterious-book-preview/",
+        "date": "2026-04-22",
+        "is_translated": true
+      },
+      {
+        "title": "【Titanium Court レビュー: Candy Crush と Civlization ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Titanium Court のレビュー記事では、キャンディークラッシュとシヴィライゼーションの要素を組み合わせたこのゲームのユニークなスタイルが評価されています。レビューでは、ゲームの簡単な操作性とアドベンチャー要素の組み合わせが高く評価されており、ストラテジーゲームのファンやパズルゲームの愛好家にもおすすめされているようです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/titanium-court-review/",
+        "date": "2026-04-22",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-22T10:19:11.207046"
+  "last_updated": "2026-04-22T13:58:42.496797"
 }
