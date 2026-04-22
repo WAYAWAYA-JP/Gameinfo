@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/pixel-traditions2-bundle",
         "date": "2026-04-22"
+      },
+      {
+        "title": "Your Move: Turn Based Games",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、ターン制ストラテジーゲームを集めた「Your Move: Turn Based Games」というバンドルが販売中です。このバンドルには、「XCOM 2」や「Phoenix Point」、「Wargroove」などの人気タイトルが含まれています。ストラテジーゲームファンにとって魅力的な内容のようです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/yourmoveturnbasedgames_bundle",
+        "date": "2026-04-22"
       }
     ],
     "sale": [
@@ -1124,8 +1136,34 @@
         "url": "https://www.polygon.com/titanium-court-review/",
         "date": "2026-04-22",
         "is_translated": true
+      },
+      {
+        "title": "【ほんわか管理社会ゲーム『D-topia』は暗黒ディストピアと思いきや、明るくて癒される。と思っ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ゲーム『D-topia』は、暗いディストピア世界を舞台にしているため、暗くて重いゲームだと思われがちですが、実際には明るくて癒されるゲームです。このゲームの評価ポイントとしては、ユニークな世界観や、キャラクターの魅力があります。レビューでは、ゲームの雰囲気やグラフィックの美しさも高く評価されています。このレビュー記事は、ゲームファンや新しいゲームを探している人に対象としています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260423-439087/",
+        "date": "2026-04-22",
+        "is_translated": false
+      },
+      {
+        "title": "【ほんわか不穏管理社会ゲーム『D-topia』が描く“わりと大人向け”な闇はNetflixドラマ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、社会ゲーム『D-topia』の闇を描く様子をレビューしています。ゲームの評価ポイントとしては、社会の暗部を描写したリアルなストーリーや、プレイヤーに選択を迫る難しい決断が含まれています。対象読者は、社会ゲームやNetflixドラマのファンで、少し暗いテーマも受け入れることができる大人向きです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/20260423-439076/",
+        "date": "2026-04-22",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-22T13:58:42.496797"
+  "last_updated": "2026-04-22T21:51:17.308529"
 }
