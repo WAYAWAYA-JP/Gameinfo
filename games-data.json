@@ -12,6 +12,18 @@
         "deadline": "2026年04月23日まで",
         "url": "https://store.epicgames.com/ja/p/the-stone-of-madness",
         "date": "2026-04-23"
+      },
+      {
+        "title": "DOOMBLADE",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "ドゥーム・アンド・グロムは、2Dアクションメトロイドヴァニアゲームで、強力な能力を解放し、復讐の旅を楽しむことができます。このゲームの特徴は、知性を持つ兵器ドゥームブレードと鎖につながれたグルーム・ガールが力を合わせて、強大な能力を発揮することです。また、地下深くでの探索や、ドレッドロードとの戦いが魅力的です。このゲームは、PCやコンソールで配布されています。",
+        "price": "無料",
+        "originalPrice": "¥17",
+        "discount": "100% OFF",
+        "deadline": "2026年04月30日まで",
+        "url": "https://store.epicgames.com/ja/p/ed9fee5cea29495394853e134f27a291",
+        "date": "2026-04-23"
       }
     ],
     "bundle": [
@@ -218,6 +230,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/yourmoveturnbasedgames_bundle",
         "date": "2026-04-22"
+      },
+      {
+        "title": "Train Sim World 6: First Class Ticket Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Train Sim World 6: First Class Ticket Bundleというバンドルが販売中です。このバンドルには、Train Sim World 2、Train Sim World、そしてDovetail Gamesが提供するその他のシミュレーションゲームが含まれており、シミュレーションゲームファンにとって魅力的な選択肢となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/trainsimworld6firstclassticketbundle_bundle",
+        "date": "2026-04-23"
       }
     ],
     "sale": [
@@ -579,6 +603,54 @@
         "discount": "50% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/1044720",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "ペルソナ５ ザ・ロイヤル",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ５ ザ・ロイヤルは、Steamで80％オフのセール中で、通常価格から大幅に値下げされています。このゲームは、ロールプレイゲームのジャンルに分類され、個性的なキャラクターと深いストーリーが特徴です。評価も非常に高く、世界中で多くのユーザーに支持されています。セール期間中は、通常価格より大幅に安く購入することができ、ファンや新規ユーザーにとっては絶好の機会です。",
+        "price": "¥1,535",
+        "originalPrice": "¥7,678",
+        "discount": "80% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1687950",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "ペルソナ３ リロード",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ３ リロードがSteamで60% OFFセール中です。このゲームは、ロールプレイングゲーム好きにお勧めの、人気の高いゲームです。ペルソナシリーズの特徴である、社交シミュレーション要素とダンジョン探索の融合が魅力的です。現在の価格は大幅に割引されており、元価格よりかなり安くなっています。ペルソナシリーズのファンや、新しくシリーズに興味がある方には、絶好のチャンスです。",
+        "price": "¥3,071",
+        "originalPrice": "¥7,678",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2161700",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "Nocturnal",
+        "platform": "Various",
+        "type": "sale",
+        "description": "NocturnalがVariousで開催されているセールでは、100%割引が適用されており、完全無料でプレイすることができます。このゲームは、ユーザーから高い評価を得ており、人気度も高いので、試してみる価値があります。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/nocturnal--1/info/",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "Sentience: The Android's Tale",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Sentience: The Android's Taleが86％オフでセール中です。このゲームはVariousジャンルに属し、特徴的なストーリーを楽しむことができます。非常に低価格で提供されており、多くのユーザーから高い評価を受けています。また、人気度も高く、多くの人がプレイしています。",
+        "price": "$0.69",
+        "originalPrice": "",
+        "discount": "-86%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/sentience-the-androids-tale/info/",
         "date": "2026-04-23"
       }
     ],
@@ -1219,8 +1291,34 @@
         "url": "https://www.polygon.com/vampire-crawlers-review/",
         "date": "2026-04-23",
         "is_translated": true
+      },
+      {
+        "title": "【『アサシン クリード ブラック フラッグ リシンクド』にはフリーダム クライ DLC は含まれ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "アサシン クリード ブラック フラッグ リシンクドのレビュー記事では、フリーダム クライ DLCの評価ポイントとして、ゲームのストーリー展開やプレイヤーの自由度が高く評価されていることが紹介されています。また、グラフィックの向上や操作性の改善も評価され、全体的なゲームの完成度が高いと述べられています。このレビューは。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynced-doesnt-include-the-freedom-cry-dlc-ubisoft-say-they-made-a-clear-choice-to-focus-on-edwards-adventure",
+        "date": "2026-04-23",
+        "is_translated": true
+      },
+      {
+        "title": "【評価の高い Steam PC ゲーム Nocturnal が今なら無料】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Steam PC ゲームの「Nocturnal」は、現在無料で遊べる人気ゲームです。このゲームは、ユーザーから高い評価を得ています。レビューの内容としては、ゲームのグラフィックやサウンドデザインが高く評価されています。また、ゲームのストーリーやゲームプレイの面でも高い評価を得ています。このゲームは、アクションゲームやアドベンチャーゲームのファンに特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/free-steam-game-april-2026-nocturnal-pc-giveaway/",
+        "date": "2026-04-23",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-23T14:00:38.377105"
+  "last_updated": "2026-04-23T21:45:28.751362"
 }
