@@ -1,43 +1,6 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "TOMAK: Save the Earth Regeneration",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "「TOMAK: Save the Earth」の25周年記念エディションがEpic Gamesストアに登場しました。このゲームは、滅亡の危機に瀕した地球を救うために、愛の女神「エビアン」を3年間大切に育てるという衝撃的なコンセプトで話題となりました。育成シミュレーションのジャンルに属するこのゲームの特徴としては、ユニークなストーリー、心温まるキャラクター、地球を救うという感動的な目的があります。",
-        "price": "無料",
-        "originalPrice": "¥8",
-        "discount": "100% OFF",
-        "deadline": "2026年04月16日まで",
-        "url": "https://store.epicgames.com/ja/p/798328bff911452783523d61986170c0",
-        "date": "2026-04-16"
-      },
-      {
-        "title": "Prop Sumo",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Prop Sumoは、フィジックスベースのアクションゲームです。プレイヤーは、さまざまな物体を相手に投げたり押したりして、勝利を目指します。このゲームの特徴は、様々な環境で戦い、戦略的に物体を利用することです。また、ゲーム内のグラフィックやサウンドも魅力的な要素です。現在、Epic Gamesで無料配布中なので、興味がある方はぜひチェックしてみてください。",
-        "price": "無料",
-        "originalPrice": "¥9",
-        "discount": "100% OFF",
-        "deadline": "2026年04月16日まで",
-        "url": "https://store.epicgames.com/ja/p/67a9bcbc6b8e411e9265afb380fea91f",
-        "date": "2026-04-16"
-      },
-      {
-        "title": "The Stone of Madness",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "アクションアドベンチャーゲームであるThe Stone of Madnessが、Epic Gamesプラットフォームで無料配布中です。このゲームの特徴としては、奥深いストーリーや美しいグラフィック、そして多様な敵キャラクターとのバトルがあげられます。また、プレイヤーは様々な能力やアイテムを使用して、ゲームを進めていく魅力もあります。",
-        "price": "無料",
-        "originalPrice": "¥28",
-        "discount": "100% OFF",
-        "deadline": "2026年04月23日まで",
-        "url": "https://store.epicgames.com/ja/p/the-stone-of-madness",
-        "date": "2026-04-16"
-      }
-    ],
+    "free": [],
     "bundle": [
       {
         "title": "Humble 15 for $15 - Spring 2026",
@@ -245,66 +208,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Dredge",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Dredgeは、ファンティジーとホラーの要素を融合させたユニークなゲームです。このゲームは、海底での釣りや海の生物との遭遇を楽しむことができる、オープンワールドのアドベンチャーゲームです。現在、66%の割引で提供されており、非常に魅力的です。プレイヤーからの評価も高く、多くの人がこのゲームの独特な世界観とスリリングなゲームプレイを楽しんでいます。",
-        "price": "$8.48",
-        "originalPrice": "",
-        "discount": "-66%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dredge/info/",
-        "date": "2026-04-16"
-      },
-      {
-        "title": "GUILTY GEAR -STRIVE-",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "GUILTY GEAR -STRIVE-がSteamで50% OFFのセール中です。このゲームは、対戦型格闘ゲームとして知られており、高速でテンポの良いゲームプレイが特徴です。現在の価格は割引前より50%オフになっています。評価は非常に高い人気ゲームで、ユーザーから高い評価を得ています。",
-        "price": "¥1,995",
-        "originalPrice": "¥3,990",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1384160",
-        "date": "2026-04-16"
-      },
-      {
-        "title": "NineHells",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲーム「NineHells」が「Various」で100%割引のセール中です。このゲームは、ダイナミックなアクションとユニークなストーリーが特徴で、ファンから高い評価を受けています。現在、完全に無料でプレイできるため、興味のある方はお得に楽しむことができます。また、ゲームの評価は非常に高い人気度を誇り、多くのユーザーから支持されています。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ninehells/info/",
-        "date": "2026-04-16"
-      },
-      {
-        "title": "The Stone of Madness",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Stone of Madnessは、サイコロジカルホラーのジャンルで知られており、プレイヤーが恐怖と不安を体験することが特徴です。このゲームは現在、Variousで100%割引されており、無料でプレイすることができます。ゲームの評価は高く、ユーザーの評価は非常に好意的です。多くのプレイヤーがこのゲームの恐怖と緊張感を高く評価しており。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-stone-of-madness/info/",
-        "date": "2026-04-16"
-      },
-      {
-        "title": "Outer Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Outer Wildsは、宇宙を舞台にしたアドベンチャーゲームで、探索と謎解きが特徴です。現在、Variousで40%オフのセール中で、ファンから高い評価を受けています。人気度も高く、多くのユーザーから好評価を得ています。この機会に一度遊んでみることをお勧めします。",
-        "price": "$14.95",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
-        "date": "2026-04-16"
-      },
       {
         "title": "Forza Horizon 5",
         "platform": "Steam",
@@ -643,71 +546,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【最大4人対戦・騙し合い入札バトル『オークションキング』、Steam同接1万5000人超えを記録...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「オークションキング」は最大4人対戦が可能な、騙し合い入札バトルゲームです。このゲームはSteamで大きな人気を博し、同時接続者数が1万5000人を超えるという素晴らしい記録を達成しています。レビューの内容は、ゲームの対戦要素や入札システムの面白さ、そしてグラフィックの質などが評価ポイントになっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260418-438304/",
-        "date": "2026-04-18",
-        "is_translated": false
-      },
-      {
-        "title": "【ベテランゲーム開発者が「ゲーム開発会議には“素人”も出席すべき」との持論を披露。素人に伝わらな...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、ベテランゲーム開発者がゲーム開発会議に「素人」も出席するべきだと主張する内容について取り上げています。記事では、ゲーム開発における「素人」の役割や、専門家と非専門家のコラボレーションの重要性について触れています。ゲーム開発者やゲームファンにとって興味深い内容であり、ゲーム業界の未来について考える上で参考になる記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/mark-darrah-20260418-438289/",
-        "date": "2026-04-18",
-        "is_translated": false
-      },
-      {
-        "title": "【待望の『バニーガーデン2』は、今回も“お紳士”の心をくすぐってくれるの？ 新キャラとの魅惑的な...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "「バニーガーデン2」のレビュー記事では、このゲームがプレイヤーの心をくすぐる魅力を維持しているかどうかを検討しています。新しいキャラクターとの出会いがもたらす魅力や、ゲームの進め方が評価ポイントになっています。ゲームファンや「バニーガーデン」シリーズの愛好者向けの記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/04/18/180157.html",
-        "date": "2026-04-18",
-        "is_translated": false
-      },
-      {
-        "title": "【今後が楽しみで、むしろ「やる気MAX！！」―甘結もかが語る「VSPO! SHOWDOWN 20...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「VSPO! SHOWDOWN 20...」について、ゲームの評価ポイントとレビューの内容概要を紹介しています。具体的には、ゲームの新しい機能やアップデートが今後も楽しみであること、またゲームの挑戦的要素が高いことなどが評価ポイントとして挙げられています。対象読者は、このゲームをプレイしたことがある人や、ゲームのアップデートを楽しみにしている人などです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/04/18/180152.html",
-        "date": "2026-04-18",
-        "is_translated": false
-      },
-      {
-        "title": "【「あなたのレビューを読みました」：AOCは、ソフトウェアは「最も注目されている」問題の1つであ...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事では、ソフトウェアの評価ポイントとして最も注目されている問題を取り上げており、特にソフトウェアの性能と安定性について触れています。また、ユーザーのレビューの内容を概要的にまとめており、ソフトウェアの長所と短所を明確に述べています。この記事は、ソフトウェアに興味のあるユーザーや開発者にとって有用な情報を提供しているため、関連のある方に読んでもらうと良いと思います。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/ive-read-your-reviews-aoc-says-its-software-is-one-of-the-most-highlighted-problems-and-its-finally-finally-updating-its-osd/",
-        "date": "2026-04-18",
-        "is_translated": true
-      },
       {
         "title": "【『プラグマタ』はカプコンのセクシー技術力炸裂。『Windrose / ウィンドローズ』の海賊特...：レビュー】",
         "platform": "AUTOMATON",
@@ -1162,8 +1000,47 @@
         "url": "https://automaton-media.com/articles/interviewsjp/20260423-439076/",
         "date": "2026-04-22",
         "is_translated": false
+      },
+      {
+        "title": "【期待の超能力推理ADV『Staffer Retro: 超能力推理クエスト』7月23日発売へ。日...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Staffer Retro: 超能力推理クエストは、超能力を持つキャラクターたちを操作して謎を解く、アドベンチャーゲームです。このゲームの評価ポイントとしては、独自の超能力システムや、複雑なストーリー展開が特徴です。レビューでは、ゲームの魅力的なグラフィックや、キャラクターの深い背景設定も高く評価されています。特に、超能力やミステリーが好きな読者や、アドベンチャーゲームのファンが楽しめる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260423-439234/",
+        "date": "2026-04-23",
+        "is_translated": false
+      },
+      {
+        "title": "【硬派戦略シム『大戦略SSB2』4月30日の無料アプデで「インド対中国」「スウェーデン対ロシア」...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、戦略シミュレーションゲーム「大戦略SSB2」の無料アップデート内容を紹介しています。アップデートでは、新しいシナリオ「インド対中国」と「スウェーデン対ロシア」が追加され、ゲームの深みが増しています。対象読者は、戦略シミュレーションゲームのファンや軍事歴史に興味がある人です。このゲームは、戦略の深みや歴史的背景が楽しめるため、戦略ゲームの愛好家にはお勧めできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260422-439109/",
+        "date": "2026-04-22",
+        "is_translated": false
+      },
+      {
+        "title": "【「ストリートファイター6」に参戦する“イングリッド”のゲームプレイトレーラーが公開、解禁は5月28日】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ストリートファイター6に新たなキャラクターとして登場するイングリッドのゲームプレイトレーラーが公開されました。このトレーラーでは、イングリッドの技や能力が詳細に紹介されています。イングリッドは5月28日に解禁される予定です。このゲームはファイティングゲームファンには必見で、ゲームの評価ポイントとしては、新しいキャラクターの導入やゲームシステムの改良が注目されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166249.html",
+        "date": "2026-04-22",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-22T21:51:17.308529"
+  "last_updated": "2026-04-23T02:31:51.968452"
 }
