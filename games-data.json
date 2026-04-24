@@ -218,6 +218,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/trainsimworld6firstclassticketbundle_bundle",
         "date": "2026-04-23"
+      },
+      {
+        "title": "MECHA MANIA",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、ロボットアクションゲームを集めた「MECHA MANIA」のバンドルが販売中です。このバンドルには、ロボットアクションゲームの「DAEMON X MACHINA」や「MechWarrior 5: Mercenaries」などの主要タイトルが含まれています。アクションゲームやシミュレーションゲームを楽しむファンにはおすすめのジャンルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/mechamania_bundle",
+        "date": "2026-04-24"
       }
     ],
     "sale": [
@@ -615,6 +627,30 @@
         "discount": "-83%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "Persona 5 Royal",
+        "platform": "Various",
+        "type": "sale",
+        "description": "人気のRPGゲームであるPersona 5 Royalが、現在Variousで82%の割引セール中です。このゲームは、独特の社会シミュレーションと深いストーリーが特徴で、プレイヤーは Phantom Thiefとなり、社会の不正を正すために戦います。高い評価と人気度を誇るこのゲームを、格安の価格で体験できるのはこのセール中のみですので、注目してみてください。",
+        "price": "$10.76",
+        "originalPrice": "",
+        "discount": "-82%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/persona-5-royal/info/",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "CRIMSON DESERT",
+        "platform": "Various",
+        "type": "sale",
+        "description": "CRIMSON DESERTは、オープンワールドのアクションアドベンチャーゲームで、美しく繊細なグラフィックと壮大なストーリーが特徴です。現在、Variousで15%オフのセール中で、ファン待望のチャンスです。このゲームは、ユーザーの評価が非常に高く、人気度も高いと言えます。",
+        "price": "$59.19",
+        "originalPrice": "",
+        "discount": "-15%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/crimson-desert/info/",
         "date": "2026-04-24"
       }
     ],
@@ -1388,5 +1424,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-24T13:52:40.140399"
+  "last_updated": "2026-04-24T21:47:24.795668"
 }
