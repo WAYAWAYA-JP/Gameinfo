@@ -28,30 +28,6 @@
     ],
     "bundle": [
       {
-        "title": "Humble 15 for $15 - Spring 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Humble 15 for $15 - Spring 2026というバンドルが現在販売中です。このバンドルには、主にアクションやアドベンチャーといったジャンルのゲームが含まれており、約15ドルで購入することができます。主要タイトルとしては、例えば「Crysis Remastered」や「Risen」などのタイトルがあり。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/humble15for15spring2026_bundle",
-        "date": "2026-04-14"
-      },
-      {
-        "title": "Superhero 2 Tales Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Superhero 2 Tales Bundleと呼ばれるバンドルが現在販売中です。このバンドルには、主なタイトルとして「Batman - The Telltale Series」、「The Wolf Among Us」、「Guardians of the Galaxy: The Telltale Series」などが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/superhero2-tales-bundle",
-        "date": "2026-04-14"
-      },
-      {
         "title": "Flirty Elf Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -245,78 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Forza Horizon 5",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "レーシングゲームの『Forza Horizon 5』がSteamで50%オフのセール中です。このゲームは、メキシコを舞台にオープンワールドで車を運転することができ、グラフィックやサウンドトラックが高く評価されています。Steamユーザーからも高い評価を受けており、非常に人気のあるゲームです。通常価格から大幅に割引されたこの機会を逃さないでください。",
-        "price": "¥3,795",
-        "originalPrice": "¥7,590",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1551360",
-        "date": "2026-04-17"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アドベンチャーゲーム「Clair Obscur: Expedition 33」がVariousで31%割引されています。このゲームは、ユニークなグラフィックとインパクトのあるストーリーが特徴で、プレイヤーは未知の世界を探索するためのクエストに挑みます。現在の評価は高く、人気ゲームとして知られています。セール中の価格で購入することができ、ゲーマーの間で話題になっているので。",
-        "price": "$34.39",
-        "originalPrice": "",
-        "discount": "-31%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-04-17"
-      },
-      {
-        "title": "Frostpunk 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Frostpunk 2は、シティビルディングとサバイバル要素を組み合わせたユニークなゲームで、現在Variousで61%割引のセール中です。このゲームは、アイスエイジの世界で都市を建設し、資源を管理しながら市民を生存させていくことを目的とします。評価は非常に高く、ユーザーから高い人気を誇っています。",
-        "price": "$17.74",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
-        "date": "2026-04-17"
-      },
-      {
-        "title": "Dead Cells",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームのDead Cellsが現在、53%の割引で販売中です。このゲームは、ダークファンタジー世界を舞台に、プレイヤーがさまざまな武器やスキルを駆使して、強力な敵に挑みます。Metacriticでは非常に高い評価を得ており、プレイヤーからも高い人気を誇っています。価格も割引されているので、興味のある人はおすすめです。",
-        "price": "$11.78",
-        "originalPrice": "",
-        "discount": "-53%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dead-cells/info/",
-        "date": "2026-04-17"
-      },
-      {
-        "title": "Sea of Thieves: 2026 Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Sea of Thieves: 2026 EditionがSteamで50%の割引セール中です。このゲームは、オープンワールドのアドベンチャーゲームで、海賊の生活を体験できます。協力プレイや海戦など、面白い要素が豊富にあり、評価も高い人気ゲームです。価格は割引前の半額で購入でき、非常に魅力的ですので、興味がある方はチェックしてみてください。",
-        "price": "¥2,695",
-        "originalPrice": "¥5,390",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1172620",
-        "date": "2026-04-17"
-      },
-      {
-        "title": "Ready Or Not",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Ready Or Notは、タクティカルファーストパーソンシューティングゲームで、警察の特殊部隊を操作して様々なミッションを遂行するという特徴があります。現在、Variousで56%の割引セール中で、ファンから高い評価を得ています。人気度も高く、多くのプレイヤーから支持されています。",
-        "price": "$22.09",
-        "originalPrice": "",
-        "discount": "-56%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ready-or-not/info/",
-        "date": "2026-04-17"
-      },
       {
         "title": "Stray",
         "platform": "Various",
@@ -652,74 +556,45 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/sentience-the-androids-tale/info/",
         "date": "2026-04-23"
+      },
+      {
+        "title": "Aeonic",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Aeonicは、Variousで100%割引のセール中です。このゲームは、ユニークなゲームプレイとグラフィックが特徴で、ファンタジーとアドベンチャーを融合させた独自のジャンルに属しています。セール中の価格は、通常価格の0%となり、完全に無料でプレイすることができます。ユーザーの評価は非常に高く、人気度も高いゲームです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/aeonic/info/",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "DOOMBLADE",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲームの『DOOMBLADE』が、現在「Various」で100%オフのセール中です。このゲームは、高速なアクションと激しい戦闘が特徴で、ファンからは高く評価されています。通常価格より大幅に安くなっているので、興味のある方はこの機会にぜひお試しください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/doomblade/info/",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "V Rising",
+        "platform": "Various",
+        "type": "sale",
+        "description": "V Risingは、オープンワールドのサバイバルアクションゲームで、プレイヤーがヴァンパイアとなって生き残ることを目指します。このゲームは、-darkな雰囲気と独特のゲームプレイで人気を博しています。現在、Variousで77%の割引セール中で、通常価格より大幅に安くなっています。高い評価と人気度を誇るこのゲームは、ファンから高い支持を受けています。",
+        "price": "$7.90",
+        "originalPrice": "",
+        "discount": "-77%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/v-rising/info/",
+        "date": "2026-04-24"
       }
     ],
     "review": [
-      {
-        "title": "【『プラグマタ』はカプコンのセクシー技術力炸裂。『Windrose / ウィンドローズ』の海賊特...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、カプコンのゲーム『プラグマタ』と『Windrose / ウィンドローズ』について評価しています。ゲームの評価ポイントとしては、グラフィックやサウンドの質が高く、ゲームプレイが面白いことが挙げられます。記事では、これらの点について詳細にレビューしています。対象読者は、カプコンのゲームファンやアクションゲームを好む人向けです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260419-438391/",
-        "date": "2026-04-19",
-        "is_translated": false
-      },
-      {
-        "title": "【「産んでくれてありがとう」「戦争がなくなる」『バニーガーデン2』のSteamレビューがカオスす...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "「バニーガーデン2」のSteamレビューでは、ユーザーが様々な意見を寄せています。評価ポイントとしては、ゲームの独自性やユーモアが高く評価されています。レビューの内容概要としては、ユーザーがゲームの面白さや感動的な瞬間を共有しています。また、ユーザーの中には、ゲームのテーマが世界平和や家族愛に関するものであることを高く評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/04/19/180187.html",
-        "date": "2026-04-19",
-        "is_translated": false
-      },
-      {
-        "title": "【コスプレ】“さくたん”と春の花が最強の組み合わせだった！美女コスプレイヤーによる「結城さくな」満開フォトレポートをお届け【写真15枚】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、美しいコスプレイヤーによる「結城さくな」のコスプレが紹介されています。記事の評価ポイントは、コスプレイヤーの美しさと春の花との組み合わせが見どころであることです。また、記事ではコスプレのデザインやフォトレポートの内容についても触れています。コスプレや写真を楽しむ読者にとって、こちらの記事は必見の内容となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/04/19/180195.html",
-        "date": "2026-04-19",
-        "is_translated": false
-      },
-      {
-        "title": "【ミラーズエッジのレビュー (2009)】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ミラーズエッジのレビュー記事では、2009年のゲームに対する評価ポイントを詳しく紹介しています。このレビューでは、ゲームのグラフィックやサウンド、プレイヤビリティなどの要素が高く評価されています。また、ゲームのストーリーやキャラクターの魅力にも触れています。このレビューは、ゲームファンや新規プレイヤーにとって非常に参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/mirrors-edge-review-2009/",
-        "date": "2026-04-19",
-        "is_translated": true
-      },
-      {
-        "title": "【Internet Archive には、ダウンロードして再生できる 758 枚の古い PC G...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事では、古いPCゲームのアーカイブサイト「Internet Archive」が紹介されています。同サイトには758枚の古いPCゲームがダウンロードして再生できるようになっています。レビューの内容としては、サイトの使いやすさやゲームの品質、そしてサイトの魅力について評価しています。特に、レトロゲームファンや古いPCゲームに興味のある人にとって。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/the-internet-archive-has-preserved-758-old-pc-gamer-demo-discs-you-can-download-and-play/",
-        "date": "2026-04-19",
-        "is_translated": true
-      },
       {
         "title": "【「Warhammer 40,000: Dark Heresy」の新たなプレイアブルキャラクター...】",
         "platform": "doope!",
@@ -744,19 +619,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/04166126.html",
         "date": "2026-04-20",
-        "is_translated": false
-      },
-      {
-        "title": "【リリースが迫るHoMMシリーズ最新作「Heroes of Might and Magic: O...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "HoMMシリーズの最新作「Heroes of Might and Magic: O」はリリースが迫っており、さまざまなレビュー記事が公開されています。このゲームは、ストーリー、グラフィック、ゲームプレイの3つの点で高く評価されています。ストーリーは新たな展開を見せる一方で、従来のファンにも喜ばれる内容です。グラフィックは美しく、キャラクターの動きは滑らかです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166125.html",
-        "date": "2026-04-19",
         "is_translated": false
       },
       {
@@ -1317,8 +1179,112 @@
         "url": "https://www.polygon.com/free-steam-game-april-2026-nocturnal-pc-giveaway/",
         "date": "2026-04-23",
         "is_translated": true
+      },
+      {
+        "title": "【『PEAK』開発元の新作協力ゲーム『クラッシュアウトクル』、5月28日リリースへ。激突損壊なん...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『PEAK』開発元の新作ゲーム『クラッシュアウトクル』は、5月28日にリリースされる予定です。このゲームは協力ゲームであり、プレイヤーがチームを組み、激突して車を損壊させることを目的とします。レビューでは、ゲームの評価ポイントとして、協力プレイの面白さ、グラフィックの質、操作の複雑さなどが挙げられています。特に、プレイヤー同士のコミュニケーションと協力が重要になる点が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/crashout-crew-20260424-439459/",
+        "date": "2026-04-24",
+        "is_translated": false
+      },
+      {
+        "title": "【“Astroneer”世界が舞台となる新作「STARSEEKER: Astroneer Exp...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「STARSEEKER: Astroneer Exp...」は、人気ゲーム「Astroneer」の世界を舞台にした新作です。このレビュー記事では、このゲームの評価ポイントとして、ゲームプレイの自由度、グラフィックの美しさ、ストーリーの魅力を挙げています。さらに、レビューの内容は、ゲームの操作感、探索の楽しさ、ストーリーの深みについて詳しく説明しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166338.html",
+        "date": "2026-04-24",
+        "is_translated": false
+      },
+      {
+        "title": "【「Call of Duty: Black Ops 7」新ゾンビマップ“トーテンライヒ”のゲーム...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Call of Duty: Black Ops 7」の新ゾンビマップ「トーテンライヒ」のレビュー記事では、ゲームの評価ポイントとしてゾンビマップの新鮮な雰囲気や、プレイヤーのスキルを試す挑戦的なステージデザインが挙げられます。また、レビューでは、新しいマップのストーリーやキャラクターの設定も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166318.html",
+        "date": "2026-04-24",
+        "is_translated": false
+      },
+      {
+        "title": "【オンラインマルチプレイヤーミニゴルフの続編「Golf With Your Friends 2」...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "オンラインマルチプレイヤーミニゴルフの続編「Golf With Your Friends 2」のレビュー記事では、ゲームの評価ポイントとして、グラフィックの向上や新しいコースの追加が上げられます。また、レビューの内容概要として、プレイヤーの増加による新たな戦略の必要性や、ゲームのバランス調整の重要性が述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166331.html",
+        "date": "2026-04-24",
+        "is_translated": false
+      },
+      {
+        "title": "【大都市ペルセポリスの景観を紹介する「EXODUS」の新たなゲームプレイ映像が公開】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「EXODUS」の新たなゲームプレイ映像が公開され、プレイヤーから大きな注目を集めています。このゲームは大都市ペルセポリスの壮大な景観を紹介する内容で、グラフィックやサウンドデザインが高く評価されています。また、ゲームのストーリーや操作性も良好で、ユーザーの評価は非常に高いです。このレビュー記事は、ゲームの魅力を紹介するために、ゲームの評価ポイントやユーザーのレビュー内容をまとめています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166291.html",
+        "date": "2026-04-23",
+        "is_translated": false
+      },
+      {
+        "title": "【『プラグマタ』スイッチ2版が発売！これでいつでもどこでもディアナに会える―Steamレビューは...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "プラグマタのスイッチ2版が発売されました。このゲームでは、いつでもどこでもディアナに会うことができます。Steamでのレビューでは、グラフィックの美しさや物語の面白さが高く評価されています。また、ゲームの操作性やサウンドトラックの質も賛賛されています。このレビューは、プラグマタシリーズのファンや、新しいゲームを探している人にとって参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/04/24/180413.html",
+        "date": "2026-04-24",
+        "is_translated": false
+      },
+      {
+        "title": "【Europa Universalis 5 は、崩壊しつつあるビザンチン帝国を救うためのレースと...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Europa Universalis 5 は、歴史を題材にしたグランドストラテジーゲームです。このゲームの評価ポイントは、複雑なゲームシステムや豊富な歴史的背景があります。レビューの内容概要としては、プレイヤーが歴史上の国家を運営し、外交や戦争を通じて世界の覇権を目指すことができる点が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/europa-universalis-5-is-getting-its-first-big-dlc-a-race-to-save-the-crumbling-byzantine-empire",
+        "date": "2026-04-23",
+        "is_translated": true
+      },
+      {
+        "title": "【Apexレビュー：シャーリーズ・セロン、自身のプレデター映画を入手】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Apexレビューでは、シャーリーズ・セロンが出演する新作映画「プレデター」について詳しく紹介しています。このレビューでは、映画のストーリーやキャラクター、そしてアクションシーンの評価ポイントを3点にまとめています。映画ファンにはもちろん、プレデターシリーズの愛好者にもおすすめのレビュー記事です。さらに、映画の評価ポイントとして、作品のスリルやサスペンス、そして俳優の演技についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/apex-netflix-review-charlize-theron/",
+        "date": "2026-04-23",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-23T21:45:28.751362"
+  "last_updated": "2026-04-24T02:33:04.507195"
 }
