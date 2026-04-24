@@ -1320,8 +1320,73 @@
         "url": "https://www.polygon.com/saros-review/",
         "date": "2026-04-24",
         "is_translated": true
+      },
+      {
+        "title": "【ゲーム開発者×実況配信者のマッチングサービス「IndieUp」完全無料で始動。“信頼できる配信...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "この記事では、ゲーム開発者と実況配信者のマッチングサービス「IndieUp」のレビューを紹介しています。完全無料で始動しているこのサービスについて、信頼できる配信者とのコラボレーションが可能であること、ゲームの宣伝やアピールが容易であること、また、開発者と配信者の間でスムーズなコミュニケーションが取れることなどを評価ポイントとして挙げています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260424-439615/",
+        "date": "2026-04-24",
+        "is_translated": false
+      },
+      {
+        "title": "【「Call of Duty: Black Ops 7|Warzone」シーズン03 リローデッ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Call of Duty: Black Ops 7|Warzone」のシーズン03のリロードのレビュー記事は、ゲームの新しいシーズンの内容と変更点を詳しく紹介しています。記事では、新しいマップやゲームモードの追加、バグの修正などの評価ポイントを取り上げています。また、グラフィックやサウンドの質の向上も評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166308.html",
+        "date": "2026-04-24",
+        "is_translated": false
+      },
+      {
+        "title": "【クレア・オブスカー: 遠征 33 の 1 歳の誕生日がやって来ました。J'RPG の全員に特別...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "クレア・オブスカー：遠征33の1歳の誕生日を記念して、J'RPGのファン向けの特別なレビュー記事が発表されました。この記事では、ゲームの評価ポイントとして、ストーリーの深み、キャラクターの個性、ゲームシステムの複雑さが取り上げられています。また、レビューの内容概要として、ゲームの魅力、難易度、グラフィックの美しさが紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/clair-obscur-expedition-33s-first-birthday-is-here-cue-an-anniversary-patch-giving-everyone-in-the-jrpg-special-hairdos",
+        "date": "2026-04-24",
+        "is_translated": true
+      },
+      {
+        "title": "【Hell Let Loose: ベトナム プレビュー: これまでプレイした中で最もリアルなシュ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Hell Let Loose: ベトナムは、プレビュー版として公開されており、非常にリアルなシューティングゲームであることが分かっています。このゲームの評価ポイントとしては、グラフィックやサウンドデザインの質が高く、戦闘シーンが非常にリアルに表現されていることが挙げられます。また、レビューでは、ゲームの雰囲気や戦略的要素も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/hell-let-loose-vietnam-preview/",
+        "date": "2026-04-24",
+        "is_translated": true
+      },
+      {
+        "title": "【Saros レビューまとめ: Returnal より簡単ですが、同じくらい特別ですか?】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Saros のレビューまとめ記事では、Returnal よりも簡単なゲームとして紹介されていますが、同じくらい特別な魅力があるかどうかを検証しています。この記事では、ゲームの評価ポイントとして難易度やゲーム性、グラフィックのクオリティなどを取り上げ、レビューの内容概要としては、簡単な操作性や豊富なコンテンツ、美しいグラフィックなどを紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/saros-review-roundup/",
+        "date": "2026-04-24",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-24T10:20:34.745209"
+  "last_updated": "2026-04-24T13:52:40.140399"
 }
