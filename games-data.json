@@ -592,6 +592,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/v-rising/info/",
         "date": "2026-04-24"
+      },
+      {
+        "title": "Metaphor: ReFantazio",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Metaphor: ReFantazioは、ファンタジー要素を含むアドベンチャーゲームで、現在Variousで55%割引のセール中です。このゲームは、独特の世界観と深いストーリーが特徴で、プレイヤーから高い評価を受けています。人気度も高く、ファンタジー系ゲームファンにはお勧めです。",
+        "price": "$31.45",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "Detroit: Become Human",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Detroit: Become HumanがVariousで83%オフのセール中です。このゲームはアドベンチャー系のアクションゲームで、人工知能が人間と同等の知能を持った世界を描いています。評価も高く、多くのユーザーから人気があります。通常の価格よりも大幅に安くなっているので、興味がある方はお見逃しなくしてください。",
+        "price": "$6.79",
+        "originalPrice": "",
+        "discount": "-83%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
+        "date": "2026-04-24"
       }
     ],
     "review": [
@@ -1283,8 +1307,21 @@
         "url": "https://www.polygon.com/apex-netflix-review-charlize-theron/",
         "date": "2026-04-23",
         "is_translated": true
+      },
+      {
+        "title": "【Saros レビュー: Housemarque の新しい PS5 ゲームは Returnal ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Housemarque の新しい PS5 ゲームである Saros のレビュー記事では、ゲームの評価ポイントとしてグラフィックの品質やサウンドデザインが高い評価を受けています。また、レビューの内容概要として、ゲームの難易度や繰り返しの要素がプレイヤーを引き付ける要因であると指摘されています。このレビュー記事は、PS5 ゲームやアクションゲームに興味を持つ読者に向けて。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/saros-review/",
+        "date": "2026-04-24",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-24T02:33:04.507195"
+  "last_updated": "2026-04-24T10:20:34.745209"
 }
