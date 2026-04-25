@@ -194,6 +194,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/mechamania_bundle",
         "date": "2026-04-24"
+      },
+      {
+        "title": "Humble 15 for $15 - April 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble 15 for $15 - April 2026というバンドルが販売中です。このバンドルには、主にアクションゲームやアドベンチャーゲームなどのタイトルが含まれています。具体的には、人気作品の「Cuphead」や「Hyper Light Drifter」、アクションパズルゲームの「The Swapper」などが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/humble15for15april2026_bundle",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "Flirty Elf Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "現在、IndieGalaでFlirty Elf Bundleが販売中です。このバンドルには、主要タイトルとして「Flirty Elf」や「Elf Girl」などのタイトルが含まれています。ジャンルは主にアダルトゲームやシミュレーションゲームです。大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/flirty-elf-bundle",
+        "date": "2026-04-25"
       }
     ],
     "sale": [
@@ -544,6 +568,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/crimson-desert/info/",
         "date": "2026-04-24"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33は、Variousで29%割引のセール中です。このゲームは、ユニークなグラフィックと面白いゲームプレイが特徴で、ファンから高い評価を受けています。多くのユーザーから好意的なレビューを得ており、人気度も高いゲームです。",
+        "price": "$35.49",
+        "originalPrice": "",
+        "discount": "-29%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "StrayがVariousで21%割引のセール中です。このゲームはアクションアドベンチャーに分類され、猫の視点から街を探索するユニークな体験を提供します。評価は非常に高く、人気度も高いゲームです。価格は割引前に比べて21%安くなっています。",
+        "price": "$23.69",
+        "originalPrice": "",
+        "discount": "-21%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-04-25"
       }
     ],
     "review": [
@@ -1186,5 +1234,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-25T02:14:34.285810"
+  "last_updated": "2026-04-25T09:52:15.022050"
 }
