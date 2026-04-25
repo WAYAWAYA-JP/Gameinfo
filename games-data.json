@@ -28,42 +28,6 @@
     ],
     "bundle": [
       {
-        "title": "Flirty Elf Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでFlirty Elf Bundleが現在販売中です。このバンドルには、Mythic Quest、Elven Love、Faerie Solitaireなどの主要タイトルが含まれており、シミュレーションやアドベンチャーなどのジャンルを堪能することができます。大まかな価格帯は10ドル以下で、バンドル内容や価格は販売ページで確認することができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/flirty-elf-bundle",
-        "date": "2026-04-15"
-      },
-      {
-        "title": "Humble 15 for $15 - April 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Humble 15 for $15 - April 2026というバンドルが現在販売中です。このバンドルには、さまざまなジャンルのゲームが収録されており、約15ドルで購入することができます。収録されている主なタイトルとしては、人気アクションゲームやアドベンチャーゲームなどが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/humble15for15april2026_bundle",
-        "date": "2026-04-15"
-      },
-      {
-        "title": "HHEpic Valley Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、HHEpic Valley Bundleというバンドルの販売が行われています。このバンドルには、主要タイトルとして『Epic Battle Fantasy 4』『Dungeon Defenders』『RPG Maker MV』などのタイトルが含まれています。ジャンルはアクションやRPGが中心で、大まかな価格帯は10ドル以下です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/epic-valley-bundle",
-        "date": "2026-04-15"
-      },
-      {
         "title": "Sharp Shooters Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,78 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームのStrayが、現在Variousで40%オフのセール中です。このゲームは、猫になった主人公が廃墟の世界を探索するというユニークなストーリーが特徴で、評価も非常に高い人気ゲームです。価格も割引により大幅に下がっているので、気になる方はこのチャンスを逃さないでください。",
-        "price": "$17.99",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-04-18"
-      },
-      {
-        "title": "Legend of Keepers",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Legend of Keepersは、ダンジョン・シミュレーションゲームで、プレイヤーがダンジョンの管理者となり、侵入者を迎え撃つというユニークなゲームです。このゲームは現在、Variousで100%割引されており、通常価格より大幅に安価な価格で購入できます。高い評価と人気度を誇るこのゲームは、ダンジョン・シミュレーションファンにはおすすめです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/legend-of-keepers/info/",
-        "date": "2026-04-18"
-      },
-      {
-        "title": "Warhammer 40,000: Space Marine 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Warhammer 40,000: Space Marine 2は、SFアクションゲームのジャンルに属し、壮大な宇宙戦争を描いた特徴を持っています。現在、Variousで68%の割引が行われており、通常と比べて大幅に安価に購入できます。このゲームは、ファンから高い評価を得ており、人気度も高いと言えるでしょう。",
-        "price": "$19.48",
-        "originalPrice": "",
-        "discount": "-68%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
-        "date": "2026-04-18"
-      },
-      {
-        "title": "Valheim",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "人気のサンドボックスアクションゲームであるValheimがSteamで50%オフのセール中です。このゲームは、バイキングをテーマにしたオープンワールドを探索し、モンスターと戦い、建物を建設することができます。現在、半額で購入することができ、評価も非常に高いので、ゲームファンにはおすすめのタイトルです。",
-        "price": "¥1,295",
-        "originalPrice": "¥2,590",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/892970",
-        "date": "2026-04-18"
-      },
-      {
-        "title": "Undead: Rise of the Betrayed King",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Undead: Rise of the Betrayed Kingがバラエティーで100%割引されていると聞きました。このゲームはアクションとアドベンチャーが組み合わさった、興味深いストーリーを備えた作品です。現在、通常価格から100%割引されており、完全無料でプレイすることができます。ユーザーの評価は高く、人気度も高いので、興味がある方はぜひチェックしてみてください。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/undead-rise-of-the-betrayed-king/info/",
-        "date": "2026-04-18"
-      },
-      {
-        "title": "Uncanny Tales: Cold Road",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Uncanny Tales: Cold Roadは、ホラーゲームです。このゲームは、恐怖を味わえる独特の体験を提供します。現在、Variousで100%割引のセール中で、通常価格が大幅に下がっています。プレイヤーから高い評価を受けており、人気度も高いゲームです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/uncanny-tales-cold-road/info/",
-        "date": "2026-04-18"
-      },
       {
         "title": "No Man's Sky",
         "platform": "Steam",
@@ -655,149 +547,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【「Warhammer 40,000: Dark Heresy」の新たなプレイアブルキャラクター...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Warhammer 40,000: Dark Heresy」の新たなプレイアブルキャラクターを紹介するレビュー記事です。このゲームは、ダークファンタジー世界を舞台に、プレイヤーがさまざまなキャラクターを操作して戦いを繰り広げます。評価ポイントとしては、キャラクターの独自性、ストーリーの深み、ゲームプレイのバリエーションがあります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166124.html",
-        "date": "2026-04-20",
-        "is_translated": false
-      },
-      {
-        "title": "【超巨大建造物を登るSci-Fiローグライトホラー「White Knuckle」のアニバーサリー...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「White Knuckle」は、恐怖とスリルの混合されたゲームで、プレイヤーは超巨大建造物を登りながら、ホラー的な体験を味わいます。このレビュー記事では、ゲームの評価ポイントとして、緊張感のあるゲームプレイや、独特のホラー要素が取り上げられています。また、グラフィックやサウンドデザインの評価も行われ、全体的に高い評価をされています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166126.html",
-        "date": "2026-04-20",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam 週間の振り返り: Pragmata と Windrose が対決、悲しい SF の...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "本記事は、Steamでリリースされたゲーム「Pragmata」と「Windrose」のレビューです。ゲームの評価ポイントとして、ストーリーの深みやグラフィックの美しさが挙げられます。レビューの内容概要は、2つのゲームの対決を通じて悲しいSFの世界観を描くという点に焦点が当てられています。対象読者は、SteamゲームやSFファン、ゲームレビューに興味がある方にお勧めです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-pragmata-and-windrose-face-off-with-sad-sci-fi-dads-proving-no-match-for-tree-chopping-pirates/",
-        "date": "2026-04-20",
-        "is_translated": true
-      },
-      {
-        "title": "【『怪獣８号 THE GAME』新★5キャラクター「五十嵐ジュラ」無料配布アプデ配信。実装と同時...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『怪獣８号 THE GAME』のレビューでは、新しいキャラクター「五十嵐ジュラ」の無料配布やゲームの新要素が評価ポイントとして挙げられています。レビューの内容では、ゲームバランスの改善や新キャラクターの魅力的な能力が高く評価されています。ゲーム好きの方や、アクションゲームを楽しむことが好きな読者には、ぜひ一度このレビューを読んでみてください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260420-438589/",
-        "date": "2026-04-20",
-        "is_translated": false
-      },
-      {
-        "title": "【『Apex Legends』を用いて「ゲームの上手さ測定法」を編み出す研究がおこなわれる。“自...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Apex Legends』を用いた「ゲームの上手さ測定法」の研究が行われており、その内容を紹介するレビュー記事があります。このレビューでは、ゲームの評価ポイントとして、プレイヤーのスキルや戦略の重要性が挙げられます。また、レビューの内容概要としては、ゲームの魅力や難易度のバランスなどが取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260420-438541/",
-        "date": "2026-04-20",
-        "is_translated": false
-      },
-      {
-        "title": "【「Kiln」や「Vampire Crawlers」を含む10タイトルの“Xbox|PC Gam...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、XboxとPCで遊べる10タイトルのゲーム、例えば「Kiln」や「Vampire Crawlers」を含む作品について評価しています。主な評価ポイントとしては、ゲームのグラフィックやサウンド、ゲームプレイの面白さなどがあります。レビューの内容概要としては、各ゲームのユニークな要素や、プレイヤーが楽しめる要素について紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166169.html",
-        "date": "2026-04-20",
-        "is_translated": false
-      },
-      {
-        "title": "【ヴァンパイア クローラーズ レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ヴァンパイア クローラーズ レビューの記事では、このゲームの評価ポイントを紹介しています。ゲームのグラフィックやサウンド、ゲームプレイの面白さなどが評価のポイントとなっています。また、レビューではゲームのストーリーや操作性、難易度についても触れています。このレビュー記事は、ヴァンパイア クローラーズのファンやアクションゲームが好きな人に朗らかな情報を提供することを目的としています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/roguelike/vampire-crawlers-review/",
-        "date": "2026-04-20",
-        "is_translated": true
-      },
-      {
-        "title": "【オンラインマルチプレイヤー陶芸乱闘バトル「Kiln」のローンチトレーラーが公開、発売は4月23日】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Kiln」はオンラインマルチプレイヤー陶芸乱闘バトルゲームで、発売は4月23日です。このゲームの評価ポイントとしては、ユニークなゲームプレイスタイルやカolorfulなグラフィックが挙げられます。また、レビューの内容概要としては、ゲームのバランスや操作性に焦点が当てられている点が特徴です。このゲームは、オンラインマルチプレイヤーゲームを楽しむファンや。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166181.html",
-        "date": "2026-04-20",
-        "is_translated": false
-      },
-      {
-        "title": "【“シェレディンの民”のリワークや世論システムの刷新を含む「ENDLESS Legend 2」の...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、ストラテジーゲーム「ENDLESS Legend 2」の評価ポイントを紹介しています。評価ポイントとして、シェレディンの民のリワークや新しい世論システムの導入が挙げられています。レビューの内容概要としては、ゲームの新しい要素やシステムの改善、そしてゲームの総合的な評価が述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166170.html",
-        "date": "2026-04-20",
-        "is_translated": false
-      },
-      {
-        "title": "【シリーズ最新作「トロピコ 7」初のゲームプレイを紹介するティザートレーラーが公開、発売は2026年】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "シリーズ最新作「トロピコ 7」のティザートレーラーが公開されました。このゲームは2026年に発売予定です。評価ポイントとして、シリーズ最新作の新しいゲームプレイスタイルやグラフィックの改善が見られます。レビューの内容概要としては、新しい島の開発や都市計画、政治的な要素が含まれている点が挙げられます。このゲームは、シミュレーションゲームファンやシリーズのファンにとって興味深い内容になると思います。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166178.html",
-        "date": "2026-04-20",
-        "is_translated": false
-      },
-      {
-        "title": "【Anthropicは、サイバーセキュリティに挑戦する新しいAIモデルのプレビューリリース後、ホ...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Anthropicは、サイバーセキュリティに挑戦する新しいAIモデルのプレビューリリースを経て、ホワイトハットハッカーとセキュリティ研究者から高い評価を受けています。このレビューでは、AIモデルのセキュリティ対策の優良さ、サイバーセキュリティにおける革新的な機能、そしてユーザーへの利便性について評価しています。対象読者は、サイバーセキュリティやAI技術に興味のある人向けです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/software/ai/anthropic-had-a-productive-and-constructive-meeting-with-white-house-officials-after-the-preview-release-of-its-new-cybersecurity-challenging-ai-model/",
-        "date": "2026-04-20",
-        "is_translated": true
-      },
       {
         "title": "【HoYoverseスローライフシム『プチプラネット』は、採取→釣り→クラフト→家具高額売却の、...：レビュー】",
         "platform": "AUTOMATON",
@@ -1421,8 +1170,21 @@
         "url": "https://www.polygon.com/saros-review-roundup/",
         "date": "2026-04-24",
         "is_translated": true
+      },
+      {
+        "title": "【火山の脅威に立ち向かう非戦闘系アクションRPG「Into the Fire」のオープンプレイテ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "火山の脅威に立ち向かう非戦闘系アクションRPG「Into the Fire」のオープンプレイテストのレビュー記事では、ゲームの評価ポイントとして、緊張感のあるゲームプレイやリアルなグラフィックが高く評価されています。また、レビューの内容概要として、ゲームのストーリーや操作性について触れています。このレビュー記事は、アクションRPGが好きな人や新しいゲームを探している人にとって。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166349.html",
+        "date": "2026-04-25",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-24T21:47:24.795668"
+  "last_updated": "2026-04-25T02:14:34.285810"
 }
