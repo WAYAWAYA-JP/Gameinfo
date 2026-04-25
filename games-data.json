@@ -592,6 +592,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-04-25"
+      },
+      {
+        "title": "8AM",
+        "platform": "Various",
+        "type": "sale",
+        "description": "8AMは、バラエティ豊かなゲームで、現在100%割引されています。非常に高い評価と人気度を誇るこのゲームは、ファンから高い支持を受けており、セール期間中は大幅な割引価格で購入できます。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/8am/info/",
+        "date": "2026-04-25"
       }
     ],
     "review": [
@@ -1234,5 +1246,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-25T09:52:15.022050"
+  "last_updated": "2026-04-25T13:19:02.696788"
 }
