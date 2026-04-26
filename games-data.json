@@ -28,42 +28,6 @@
     ],
     "bundle": [
       {
-        "title": "Sharp Shooters Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Sharp Shooters Bundleというバンドルが現在販売中です。このバンドルには、主に『Enter the Gungeon』や『Receiver 2』、『Tower of Guns』などのタイトルが含まれており、全体としてアクションシューティングゲームを中心としたジャンルの作品が集まっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/sharpshootersbundle_bundle",
-        "date": "2026-04-16"
-      },
-      {
-        "title": "2K Tactics & Tycoons",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、2K Tactics & Tycoonsというバンドルが現在販売中です。このバンドルには、XCOMシリーズやSid Meier's Civilizationシリーズなどの戦略ゲームが収録されています。シミュレーションや戦略ゲームが好きな方にはおすすめのバンドルです。価格帯は500円から1,500円程度で、内容や価格設定によって異なりますが、非常にお得なバンドルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/2ktacticstycoons_bundle",
-        "date": "2026-04-16"
-      },
-      {
-        "title": "Sekai Project 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble BundleでSekai Project 2026のバンドルが現在販売中です。このバンドルには、主要タイトルとして「NEKO-NIN exHeart」や「The Falconers: Moonlight」、「Memory's Dogma CODE:01」などのタイトルが含まれています。ジャンルはビジュアルノベルやアドベンチャーゲームを中心に構成されており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/sekaiproject2026_bundle",
-        "date": "2026-04-16"
-      },
-      {
         "title": "Speak to the Manager",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -221,18 +185,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "No Man's Sky",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "No Man's SkyがSteamで60%OFFのセール中です。このゲームは、サンドボックス要素とサイエンスフィクションを融合させたアクションアドベンチャーゲームで、プレイヤーが銀河系を自由に探索できます。高い評価と人気度を誇り、多くのユーザーから好評を博しています。通常価格より大幅に安くなったこの機会を逃さないでください。",
-        "price": "¥2,600",
-        "originalPrice": "¥6,500",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/275850",
-        "date": "2026-04-19"
-      },
       {
         "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
         "platform": "Various",
@@ -608,110 +560,6 @@
     ],
     "review": [
       {
-        "title": "【HoYoverseスローライフシム『プチプラネット』は、採取→釣り→クラフト→家具高額売却の、...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "HoYoverseのスローライフシミュレーションゲーム「プチプラネット」は、採取、釣り、クラフト、家具の高額売却などを楽しむことができるゲームです。このゲームの評価ポイントとしては、ゆっくり遊べるスローライフ要素、釣りやクラフトのシステムの豊富さ、そして家具のデザインや配置の自由度が高いことが挙げられます。ゲームのレビューでは、これらの要素が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/petitplanet-20260421-438611/",
-        "date": "2026-04-21",
-        "is_translated": false
-      },
-      {
-        "title": "【Sci-Fi工場建築シム「Foundry」次期大型アップデート“Rails & Reactor...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、Sci-Fi工場建築シム「Foundry」の次期大型アップデート“Rails & Reactor”を紹介しています。評価ポイントとしては、新しい鉄道システムや原子炉の導入が特に目玉です。また、ゲームのグラフィックやサウンドトラックの向上も評価しています。対象読者は、シム系ゲームやSci-Fiファンであれば、ぜひ一度読んでみてください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166201.html",
-        "date": "2026-04-21",
-        "is_translated": false
-      },
-      {
-        "title": "【『プラグマタ』発売から2日で販売本数100万本突破！Steam“圧倒的に好評”キープ&同時プレ...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "『プラグマタ』は発売から2日で販売本数100万本を突破し、Steamでは「圧倒的に好評」な評価を維持しています。レビューでは、ゲームの評価ポイントとしてグラフィックの美しさや、ストーリーの深さが高い評価を受けています。また、ゲームプレイのバリエーションも豊富で、プレイヤーにとって飽きない内容になっていることが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/04/21/180259.html",
-        "date": "2026-04-21",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料「街」オープンワールド『NTE: Neverness to Everness』は...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料のオープンワールドゲーム「NTE: Neverness to Everness」のレビュー記事では、ゲームの幅広い自由度やグラフィックの美しさ、そして豊富なクエストやミッションが評価ポイントとなっています。特に、ゲーム内の探索やキャラクターのカスタマイズが高く評価されています。このレビュー記事は、オープンワールドゲームファンや新規プレイヤーに役立つ情報を提供しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260421-438754/",
-        "date": "2026-04-21",
-        "is_translated": false
-      },
-      {
-        "title": "【戦闘システムやスキルツリーの拡張、プレイヤー作成コンテンツの共有機能を含む「Enshroude...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Enshroudeのレビュー記事では、戦闘システムやスキルツリーの拡張、プレイヤー作成コンテンツの共有機能などが評価されています。このゲームは、戦略的な戦闘やキャラクターのカスタマイズを楽しむことができるため、ロールプレイングゲームのファンにお勧めです。また、共有機能を通じて他のプレイヤーと交流することも可能で、コミュニティの形成にも貢献しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166197.html",
-        "date": "2026-04-21",
-        "is_translated": false
-      },
-      {
-        "title": "【「神話はその性質上、語られ、語り直されるものである」：Hades 2開発者、物議を醸す結末の変...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Hades 2の開発者は、「神話はその性質上、語られ、語り直されるものである」と述べて物議を醸す結末の変え方について説明しています。このゲームの評価ポイントとして、ストーリーの深み、ゲームプレイの複雑さ、グラフィックの美しさが挙げられます。レビューでは、これらの要素がどう組み合わさってプレイヤーに印象を与えるかが批評されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/mythology-by-its-nature-is-told-and-retold-hades-2-dev-on-changing-its-controversial-ending",
-        "date": "2026-04-21",
-        "is_translated": true
-      },
-      {
-        "title": "【Tides of Tomorrow レビュー: これまでプレイした中で最高の反社会的なソーシャ...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Tides of Tomorrow レビューは、反社会的なソーシャルシミュレーションゲームの最高傑作として評価されています。このレビューでは、ゲームの評価ポイントとして、独自のゲームシステム、深いストーリー、そして魅力的なキャラクターが挙げられます。また、レビューでは、ゲームの社会的なテーマや人間関係の複雑さも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/tides-of-tomorrow-review/",
-        "date": "2026-04-21",
-        "is_translated": true
-      },
-      {
-        "title": "【Diablo 4 Lord of Hatred レビュー: 素晴らしいストーリーが苦労を妨げる】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Diablo 4 Lord of Hatredのレビュー記事では、ゲームの評価ポイントとしてストーリーの素晴らしさを高く評価しています。しかし、同時に、プレイヤーの苦労を妨げる要素もあることを指摘しています。具体的には、ゲームの難易度のバランスや、システムの複雑さなどが苦労の原因となっているようです。ゲームのストーリーを重視する読者や、Diabloシリーズのファンにはお勧めのレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/diablo-4-lord-of-hatred-review/",
-        "date": "2026-04-21",
-        "is_translated": true
-      },
-      {
         "title": "【PS5/PS4で使えるPSストアカード1万円券/1万5000円券を購入すると抽選で「最大5万円...：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -735,19 +583,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/04166216.html",
         "date": "2026-04-22",
-        "is_translated": false
-      },
-      {
-        "title": "【発売が迫る「ディアブロ IV: 憎悪の帝王」のローンチトレーラーがお披露目、解禁は4月28日：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "人気ゲーム「ディアブロIV: 憎悪の帝王」のローンチトレーラーが公開されました。発売が近づくこのゲームは、ダークファンタジーの世界を舞台に、プレイヤーがさまざまなキャラクターを操作して、強大な悪魔と戦うことができます。レビューでは、このゲームのグラフィックやサウンドデザインが高く評価されています。また、ゲームのストーリーやキャラクターの深みにも触れられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166218.html",
-        "date": "2026-04-21",
         "is_translated": false
       },
       {
@@ -1256,8 +1091,21 @@
         "url": "https://www.rockpapershotgun.com/crymelight-is-a-hades-esque-roguelike-that-sends-the-white-rabbit-chasing-alice-to-hell-to-face-her-sins-and-fight-for-her-freedom",
         "date": "2026-04-25",
         "is_translated": true
+      },
+      {
+        "title": "【Crymelight は Hades 風のローグライクで、アリスを追いかける白ウサギを地獄に送...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Crymelightはローグライクゲームで、アリスを追いかける白ウサギが地獄に送られるというユニークな設定が特徴です。このゲームの評価ポイントとしては、快適な操作性、独創的なストーリー、そしてランダムな地形生成が挙げられます。レビューの内容概要としては、ゲームの難易度の高さやリプレイ性の高さが注目されています。このレビューは、ローグライクゲームやアクションゲームのファンに特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/crymelight-is-a-hades-esque-roguelike-that-sends-the-white-rabbit-chasing-alice-to-hell-to-face-her-sins-and-fight-for-her-freedom",
+        "date": "2026-04-25",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-25T21:36:59.134896"
+  "last_updated": "2026-04-26T02:37:33.047420"
 }
