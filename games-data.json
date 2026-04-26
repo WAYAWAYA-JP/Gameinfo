@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/8am/info/",
         "date": "2026-04-25"
+      },
+      {
+        "title": "DAVE THE DIVER",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DAVE THE DIVERがVariousで45%割引されています。このアクションアドベンチャーゲームは、ユニークな潜水シミュレーションと美しいグラフィックで人気を博しています。現在の価格は割引前より大幅に安くなっています。ゲームの評価は非常に高く、多くのユーザーから好評価を得ています。",
+        "price": "$10.99",
+        "originalPrice": "",
+        "discount": "-45%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
+        "date": "2026-04-26"
       }
     ],
     "review": [
@@ -1104,8 +1116,60 @@
         "url": "https://www.rockpapershotgun.com/crymelight-is-a-hades-esque-roguelike-that-sends-the-white-rabbit-chasing-alice-to-hell-to-face-her-sins-and-fight-for-her-freedom",
         "date": "2026-04-25",
         "is_translated": true
+      },
+      {
+        "title": "【『アークナイツ：エンドフィールド』で“鬼モテ主人公ライフ”を楽しむ。Key新作『anemoi』...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム『アークナイツ：エンドフィールド』と『anemoi』の魅力を紹介しています。評価ポイントとしては、ゲームの世界観やキャラクター造形が評価されています。また、レビューの内容概要として、ゲームのストーリーやシステムの面白さが取り上げられています。この記事は、ゲーム好きの方や新しいゲームを探している方に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260426-439940/",
+        "date": "2026-04-26",
+        "is_translated": false
+      },
+      {
+        "title": "【不穏メルヘン探索アドベンチャー『アリスインワンダーアンダーランド』は、“かつてのインターネット...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "不穏で幻想的な世界を舞台にしたアドベンチャーゲーム『アリスインワンダーアンダーランド』のレビュー記事では、ゲームの独自の世界観やストーリー、そしてキャラクターの魅力が評価されています。このゲームは、不穏メルヘンをテーマにした探索アドベンチャーであり、プレイヤーはアリスに扮して、不思議な世界を冒険します。特に、ゲームのストーリーが深く、キャラクターの個性が強いことが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/aiwu-20260426-439548/",
+        "date": "2026-04-26",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料「街」オープンワールド『NTE』の街には「謎の作り込み」がめちゃくちゃある。ほぼ現実】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料のオープンワールドゲーム「NTE」のレビュー記事では、ゲーム内の街が非常にリアルで、細かい作り込みが豊富であることが評価されています。ゲーム内の世界はほぼ現実を模して作られており、プレイヤーは自由に街を探索できることで高く評価されています。このレビュー記事は、オープンワールドゲームファンやリアルなゲーム世界を求めるプレイヤーに贅沢な情報を提供します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260426-439833/",
+        "date": "2026-04-26",
+        "is_translated": false
+      },
+      {
+        "title": "【『サカつく2026』イングランドリーグはプレイ200時間でも心が折れそうになる“地獄”級の強さ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『サカつく2026』のイングランドリーグは、プレイヤーに非常に高い難易度を要求するため、200時間プレイしても精神的に追い込まれることが予想されます。このゲームの評価ポイントとしては、レベルの高さやゲームシステムの複雑さ、そして長時間のプレイにもかかわらず新しい発見があることが挙げられます。レビューでは、ゲームの難易度やシナリオの多様性、グラフィックの 퀄리ティについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260426-439868/",
+        "date": "2026-04-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-26T02:37:33.047420"
+  "last_updated": "2026-04-26T09:53:48.963959"
 }
