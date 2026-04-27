@@ -28,18 +28,6 @@
     ],
     "bundle": [
       {
-        "title": "Speak to the Manager",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Speak to the ManagerのバンドルがHumble Bundleで販売中です。このバンドルには、同名のタイトル「Speak to the Manager」のほか、「The Case of the Golden Idol」と「The Swapper」などの主要タイトルが含まれています。ジャンルは主にパズルやアドベンチャーゲームで構成されており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/speaktomanager_bundle",
-        "date": "2026-04-17"
-      },
-      {
         "title": "Destiny 2: Expansions Bundle 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -185,102 +173,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-        "platform": "Various",
-        "type": "sale",
-        "description": "S.T.A.L.K.E.R. 2: Heart of Chornobylが現在、Variousで42%オフのセール中です。このゲームは、オープンワールドとFPSの要素を組み合わせたサバイバルホラーゲームであり、独自の雰囲気とグラフィックで知られています。ユーザーの評価は非常に高く、人気度も高いゲームです。セール価格で購入することができます。",
-        "price": "$34.90",
-        "originalPrice": "",
-        "discount": "-42%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
-        "date": "2026-04-20"
-      },
-      {
-        "title": "サイバーパンク2077",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サイバーパンク2077は、オープンワールドのアクションRPGゲームであり、豊かなストーリーや詳細なグラフィックが特徴です。現在、Steamで65%の割引セール中で、価格は大幅に下がっています。このゲームは、高度なカスタマイズや複雑なキャラクター設定などが評価されており、ゲームファンからの人気度も非常に高いです。",
-        "price": "¥3,072",
-        "originalPrice": "¥8,778",
-        "discount": "65% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1091500",
-        "date": "2026-04-20"
-      },
-      {
-        "title": "DARK SOULS III - The Fire Fades Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DARK SOULS III - The Fire Fades EditionがSteamで50% OFFセール中です。このゲームは、アクションRPGとして知られており、難度の高いゲームプレイと豊富なストーリーが特徴です。セール中の価格で購入することで、通常価格よりも大幅に安くプレイすることができます。",
-        "price": "¥2,970",
-        "originalPrice": "¥5,940",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/160150",
-        "date": "2026-04-20"
-      },
-      {
-        "title": "Street Fighter 6",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ストリートファイター6がSteamで50%オフのセール中です。この対戦格闘ゲームは、シリーズの最新作として人気を博しており、高速なアクションと豊富なキャラクターが特徴です。通常価格よりも大幅に安くなり、ファンや新規プレイヤーも楽しめるチャンスです。",
-        "price": "¥2,495",
-        "originalPrice": "¥4,990",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1364780",
-        "date": "2026-04-20"
-      },
-      {
-        "title": "DARK SOULS™ II: Scholar of the First Sin",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DARK SOULS II: Scholar of the First SinがSteamで50% OFFセール中です。このゲームは、アクションRPGのジャンルに属し、難易度の高さと奥深い物語で知られています。現在、半額の割引で購入することができます。Steamでの評価は「非常に好評」であり、多くのユーザーから高い人気度を誇っています。",
-        "price": "¥2,860",
-        "originalPrice": "¥5,720",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/335300",
-        "date": "2026-04-20"
-      },
-      {
-        "title": "DARK SOULS™: REMASTERED",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DARK SOULSのリマスター版であるDARK SOULS: REMASTEREDがSteamで現在50%オフのセール中です。このアクションRPGは、難易度の高さと濃密なゲーム世界で知られており、ファンから高い評価を受けています。ゲームのジャンルはダークファンタジーが特徴的です。現在、Steamで大幅な割引が行われているので、未プレイの方も気軽に挑戦できる価格になっています。",
-        "price": "¥2,365",
-        "originalPrice": "¥4,730",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/570940",
-        "date": "2026-04-20"
-      },
-      {
-        "title": "Mount & Blade II: Bannerlord",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションゲームのMount & Blade II: BannerlordがSteamで50% OFFセール中です。このゲームは、中世を舞台に戦争や政治を経験できるオープンワールドゲームで人気があり、プレイヤーは騎兵や歩兵を率いて戦闘に参加できます。現在、Steamでは半額の激安価格で提供されており、興味がある方はおすすめです。",
-        "price": "¥3,250",
-        "originalPrice": "¥6,500",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/261550",
-        "date": "2026-04-20"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Red Dead Redemption 2がバラエティー店舗で77%割引セール中です。このオープンワールドアクションアドベンチャーゲームは、幅広い評価と高い人気を誇り、多くのユーザーから高く評価されています。",
-        "price": "$13.50",
-        "originalPrice": "",
-        "discount": "-77%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-04-20"
-      },
       {
         "title": "グランド・セフト・オートV エンハンスト",
         "platform": "Steam",
@@ -572,123 +464,6 @@
     ],
     "review": [
       {
-        "title": "【PS5/PS4で使えるPSストアカード1万円券/1万5000円券を購入すると抽選で「最大5万円...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "PS5やPS4で利用できるPSストアカードの1万円券や1万5000円券を購入すると、抽選で最大5万円が当たるというキャンペーンが行われています。このキャンペーンの評価ポイントとしては、購入金額に応じた当選金額の割合が高いことや、抽選の当選確率が高いことなどが挙げられます。レビューの内容概要としては、キャンペーンの内容や購入方法、当選した場合の賞金の使い道についてが紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260422-438913/",
-        "date": "2026-04-22",
-        "is_translated": false
-      },
-      {
-        "title": "【サイバーパンクアクション続編「RUINER 2」のゲームプレイトレーラーが公開、初のクローズド...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "サイバーパンクアクションゲーム「RUINER 2」のゲームプレイトレーラーが公開されました。このゲームは、初のクローズドテストを実施する予定です。レビューのポイントとしては、ゲームのグラフィックやサウンドデザイン、ストーリーの深みなどが評価されています。特に、ゲームの世界観やキャラクターのデザインが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166216.html",
-        "date": "2026-04-22",
-        "is_translated": false
-      },
-      {
-        "title": "【チタンコートのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "チタンコートのレビュー記事では、このゲームの評価ポイントとしてグラフィックの質やゲームプレイの奥深さが高く評価されています。また、レビューの内容概要としては、ユーザーインターフェイスの使いやすさや、ストーリーの魅力などが取り上げられています。ゲーマーにとって、特にアクションゲームを好む人向けのレビュー内容となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/roguelike/titanium-court-review/",
-        "date": "2026-04-22",
-        "is_translated": true
-      },
-      {
-        "title": "【Logitech G502 Hero ゲーミング マウスが Amazon から 22% オフに...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Logitech G502 Hero ゲーミング マウスは、Amazon で 22% オフの特別価格で販売されています。このマウスは、ゲーム好きに人気があり、高い評価を得ています。評価ポイントとしては、正確でスムーズな動作、長時間のバッテリー持ち、カスタマイズ可能なボタン配置が挙げられます。レビューの内容概要としては、快適な握り心地、優れた性能、耐久性の高さが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/a-legend-gets-cheaper-as-the-logitech-g502-hero-gaming-mouse-cuts-22-off-from-amazon",
-        "date": "2026-04-22",
-        "is_translated": true
-      },
-      {
-        "title": "【スパイダーマン/スーパーマン #1 レビュー: マーベルと DC の史上最高のクロスオーバー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "マーベルとDCコミックの代表的なスーパーヒーローであるスパイダーマンとスーパーマンが初めて競演する『スパイダーマン/スーパーマン #1』のレビュー記事では、ストーリーの面白さやキャラクターの相性、そして二大コミック出版社による共同制作の意義が評価ポイントとなっています。このレビューは、スパイダーマンやスーパーマンを愛好するファンや、コミックのクロスオーバー作品に興味を持つ読者に向けて。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/spider-man-superman-crossover-review-marvel-dc/",
-        "date": "2026-04-22",
-        "is_translated": true
-      },
-      {
-        "title": "【ヨッシーと不思議な本のプレビュー: 脅威ではない任天堂の魅力】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "「ヨッシーと不思議な本」のプレビュー記事では、このゲームの魅力が紹介されています。このゲームの評価ポイントとしては、ユニークなゲームデザインや、子供向けの内容などが挙げられます。レビューの内容概要としては、ゲームのグラフィックスやサウンドトラックの印象が良かったこと、また、シンプルながらも挑戦的なゲームプレイが楽しめたことが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/yoshi-and-the-mysterious-book-preview/",
-        "date": "2026-04-22",
-        "is_translated": true
-      },
-      {
-        "title": "【Titanium Court レビュー: Candy Crush と Civlization ...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Titanium Court のレビュー記事では、キャンディークラッシュとシヴィライゼーションの要素を組み合わせたこのゲームのユニークなスタイルが評価されています。レビューでは、ゲームの簡単な操作性とアドベンチャー要素の組み合わせが高く評価されており、ストラテジーゲームのファンやパズルゲームの愛好家にもおすすめされているようです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/titanium-court-review/",
-        "date": "2026-04-22",
-        "is_translated": true
-      },
-      {
-        "title": "【ほんわか管理社会ゲーム『D-topia』は暗黒ディストピアと思いきや、明るくて癒される。と思っ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ゲーム『D-topia』は、暗いディストピア世界を舞台にしているため、暗くて重いゲームだと思われがちですが、実際には明るくて癒されるゲームです。このゲームの評価ポイントとしては、ユニークな世界観や、キャラクターの魅力があります。レビューでは、ゲームの雰囲気やグラフィックの美しさも高く評価されています。このレビュー記事は、ゲームファンや新しいゲームを探している人に対象としています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260423-439087/",
-        "date": "2026-04-22",
-        "is_translated": false
-      },
-      {
-        "title": "【ほんわか不穏管理社会ゲーム『D-topia』が描く“わりと大人向け”な闇はNetflixドラマ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、社会ゲーム『D-topia』の闇を描く様子をレビューしています。ゲームの評価ポイントとしては、社会の暗部を描写したリアルなストーリーや、プレイヤーに選択を迫る難しい決断が含まれています。対象読者は、社会ゲームやNetflixドラマのファンで、少し暗いテーマも受け入れることができる大人向きです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/20260423-439076/",
-        "date": "2026-04-22",
-        "is_translated": false
-      },
-      {
         "title": "【期待の超能力推理ADV『Staffer Retro: 超能力推理クエスト』7月23日発売へ。日...：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -699,32 +474,6 @@
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20260423-439234/",
         "date": "2026-04-23",
-        "is_translated": false
-      },
-      {
-        "title": "【硬派戦略シム『大戦略SSB2』4月30日の無料アプデで「インド対中国」「スウェーデン対ロシア」...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、戦略シミュレーションゲーム「大戦略SSB2」の無料アップデート内容を紹介しています。アップデートでは、新しいシナリオ「インド対中国」と「スウェーデン対ロシア」が追加され、ゲームの深みが増しています。対象読者は、戦略シミュレーションゲームのファンや軍事歴史に興味がある人です。このゲームは、戦略の深みや歴史的背景が楽しめるため、戦略ゲームの愛好家にはお勧めできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260422-439109/",
-        "date": "2026-04-22",
-        "is_translated": false
-      },
-      {
-        "title": "【「ストリートファイター6」に参戦する“イングリッド”のゲームプレイトレーラーが公開、解禁は5月28日】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ストリートファイター6に新たなキャラクターとして登場するイングリッドのゲームプレイトレーラーが公開されました。このトレーラーでは、イングリッドの技や能力が詳細に紹介されています。イングリッドは5月28日に解禁される予定です。このゲームはファイティングゲームファンには必見で、ゲームの評価ポイントとしては、新しいキャラクターの導入やゲームシステムの改良が注目されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166249.html",
-        "date": "2026-04-22",
         "is_translated": false
       },
       {
@@ -1181,8 +930,60 @@
         "url": "https://www.pcgamer.com/gaming-industry/trump-shooting-suspects-steam-game-sees-review-bomb-spike-in-activity/",
         "date": "2026-04-26",
         "is_translated": true
+      },
+      {
+        "title": "【“Spiritfall”を手掛けたGentle Giantの新作2Dメトロイドヴァニア「MON...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Gentle Giantの新作ゲーム「MON...」は、2Dメトロイドヴァニアジャンルの作品です。このゲームは、探索と戦闘を重視しており、プレイヤーは複雑なステージを進んでいく必要があります。ゲームの評価ポイントとしては、グラフィックの美しさや、バランスの取れた難易度が挙げられます。レビューの内容概要としては、ゲームのストーリーや操作感、音楽の評価などが含まれます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166374.html",
+        "date": "2026-04-27",
+        "is_translated": false
+      },
+      {
+        "title": "【知性を持つ実験動物たちの脱出劇を描く南アフリカ製Sci-Fiサバイバルホラー「ANIMAL U...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "南アフリカ製のSci-Fiサバイバルホラー「ANIMAL U...：レビュー」は、知性を持つ実験動物たちの脱出劇を描くユニークなゲームです。このゲームの評価ポイントとしては、独自のストーリー展開や、ホラー要素のあるサバイバル要素が含まれています。レビューの内容概要としては、ゲームの雰囲気やグラフィックの質、そしてプレイヤーの感情を揺さぶるストーリーの描写が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166321.html",
+        "date": "2026-04-27",
+        "is_translated": false
+      },
+      {
+        "title": "【「American Truck Simulator」のイリノイ州DLCを紹介する本格的なゲーム...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "アメリカのトラック運転シミュレーションゲーム「American Truck Simulator」のイリノイ州DLCのレビュー記事を紹介します。このゲームは、プレイヤーがアメリカのトラック運転士として、様々な荷物を運びながらアメリカ横断の旅を楽しむことができます。ゲームの評価ポイントとしては、リアルなグラフィックや、トラックの操作感が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166319.html",
+        "date": "2026-04-26",
+        "is_translated": false
+      },
+      {
+        "title": "【昆虫型エイリアンの群れと戦う見下ろし型Co-opシューター「DarkSwarm」のゲームプレイ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「DarkSwarm」は、見下ろし型のCo-opシューターであり、プレイヤーは昆虫型エイリアンの群れと戦うことができます。このゲームの評価ポイントとしては、協力プレイの面白さやグラフィックのクオリティが高く、エイリアンのデザインが特徴的であることが挙げられます。レビューの内容概要としては、ゲームの難易度や操作性について触れており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166320.html",
+        "date": "2026-04-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-26T21:38:13.652160"
+  "last_updated": "2026-04-27T02:39:39.742303"
 }
