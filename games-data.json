@@ -170,6 +170,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/flirty-elf-bundle",
         "date": "2026-04-25"
+      },
+      {
+        "title": "Speak to the Manager",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、 Speak to the Managerを含むバンドルが販売中です。このバンドルには、Speak to the Managerや他の関連タイトルが含まれており、シミュレーションゲームやストラテジーゲームが好きな人にぴったりです。価格帯はおよそ1,000円から2,000円程度と、手頃な価格設定になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/speaktomanager_bundle",
+        "date": "2026-04-27"
       }
     ],
     "sale": [
@@ -460,6 +472,78 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
         "date": "2026-04-26"
+      },
+      {
+        "title": "サイバーパンク2077",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サイバーパンク2077がSteamで65%オフのセール中です。このゲームは、サイバーパンクをテーマにしたオープンワールドRPGで、未来的な世界を自由に探索することができます。グラフィックやサウンドデザインも高く評価されており、ゲームの評価は非常に高いです。Steamでは現在、通常価格より65%割引されており、非常に魅力的な価格設定になっています。人気度も高く、多くのユーザーから支持されています。",
+        "price": "¥3,072",
+        "originalPrice": "¥8,778",
+        "discount": "65% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1091500",
+        "date": "2026-04-27"
+      },
+      {
+        "title": "DARK SOULS III - The Fire Fades Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DARK SOULS III - The Fire Fades EditionがSteamで50% OFFセール中です。このゲームはアクションRPGジャンルに属し、難度の高いゲームプレイと豊富なストーリーで知られています。通常価格から半額になるこのセールは、大きなお得です。ゲームの評価は非常に高く、Steamでのユーザーレビューは「非常に好評」です。",
+        "price": "¥2,970",
+        "originalPrice": "¥5,940",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/160150",
+        "date": "2026-04-27"
+      },
+      {
+        "title": "Street Fighter 6",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気格闘ゲーム「Street Fighter 6」がSteamで50%オフのセール中です。このゲームは、キャラクターのバリエーション豊富さや、複雑で深いシステムが特徴で、ファンから高い評価を受けています。現在、50%オフのセール中なので、格闘ゲームファンにはお勧めのタイミングです。",
+        "price": "¥2,495",
+        "originalPrice": "¥4,990",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1364780",
+        "date": "2026-04-27"
+      },
+      {
+        "title": "DARK SOULS™: REMASTERED",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DARK SOULS™: REMASTEREDがSteamで50% OFFセール中です。これはアクションRPGジャンルのゲームで、難易度の高さと奥深い世界が特徴です。現在、半額の割引で購入することができます。評価は非常に高く、人気度も高いゲームで、多くのプレイヤーから支持されています。セール期間中はこの機会に購入することがおすすめです。",
+        "price": "¥2,365",
+        "originalPrice": "¥4,730",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/570940",
+        "date": "2026-04-27"
+      },
+      {
+        "title": "Disco Elysium - The Final Cut",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ディスコ・エリシウム - ザ・ファイナル・カットが78%オフでのセール中です。このゲームはロールプレイングゲームであり、独特なストーリーと深いキャラクター設定が特徴です。通常価格よりも大幅に安くなっているので、ロールプレイングゲームファンにはお勧めです。評価も高く、多くのプレイヤーから人気を博しています。",
+        "price": "$8.96",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
+        "date": "2026-04-27"
+      },
+      {
+        "title": "Hogwarts Legacy",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Hogwarts Legacyがバラエティストアで87%オフのセール中です。このアクションアドベンチャーゲームは、ハリー・ポッターの魔法世界を舞台に、自分のキャラクターを自由に作成して、ホグワーツ魔法学校で学びながら、様々なクエストを遂行します。ゲームの評価は非常に高く、多くのプレイヤーから高い人気を得ています。",
+        "price": "$7.92",
+        "originalPrice": "",
+        "discount": "-87%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
+        "date": "2026-04-27"
       }
     ],
     "review": [
@@ -982,8 +1066,34 @@
         "url": "https://doope.jp/2026/04166320.html",
         "date": "2026-04-26",
         "is_translated": false
+      },
+      {
+        "title": "【高評価“YES禁止ゲーム”収録『ショートショートフィクションズ』体験版配信開始。「○○できない...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「ショートショートフィクションズ」の体験版が配信開始されました。このゲームは、ユニークなゲームプレイで高評価を獲得しており、プレイヤーは「○○できない...」と感じるほどの新鮮な体験ができます。レビューでは、独創的なゲームデザイン、物語の深み、そしてユーザーインターフェイスの使い勝手の良さが評価されています。このゲームは、インディーゲームファンや新しいゲーム体験を求めるユーザーに特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260427-440040/",
+        "date": "2026-04-27",
+        "is_translated": false
+      },
+      {
+        "title": "【Cyber​​power のこの Ryzen Z2 Extreme 搭載 MSI Claw A...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、Cyberpower のRyzen Z2 Extreme 搭載のMSI Claw Aについて評価しています。評価ポイントとしては、高性能のプロセッサとグラフィックカードの組み合わせによるスムーズなゲーム性能、優れたクーリングシステムによる低騒音性、そして高品質のケースデザインが取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/you-can-save-100-on-this-ryzen-z2-extreme-powered-msi-claw-a8-handheld-from-cyberpower",
+        "date": "2026-04-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-27T02:39:39.742303"
+  "last_updated": "2026-04-27T11:03:50.937436"
 }
