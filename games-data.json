@@ -544,6 +544,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
         "date": "2026-04-27"
+      },
+      {
+        "title": "Vampire: The Masquerade® - Bloodlines™ 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Vampire: The Masquerade - Bloodlines 2は、ロールプレイングゲームのジャンルで人気のある作品です。このゲームは、吸血鬼の世界を舞台に、プレイヤーがキャラクターを操作してストーリーを進めていくことができます。現在、42%の割引が適用されており、通常よりもお得な価格で購入することができます。評価は高く、ファンから高い人気度を誇っています。",
+        "price": "$35.09",
+        "originalPrice": "",
+        "discount": "-42%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/vampire-the-masquerade-bloodlines-2/info/",
+        "date": "2026-04-27"
       }
     ],
     "review": [
@@ -1105,8 +1117,73 @@
         "url": "https://doope.jp/2026/04166310.html",
         "date": "2026-04-27",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料「3～5分で決着」ストリートバスケゲーム『NBAダンクシティ』はさくっと遊べるけ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料のストリートバスケゲーム『NBAダンクシティ』は、3〜5分でゲームが決着するため、さくっと遊ぶことができます。このゲームは、簡単な操作でプレイヤーが楽しむことができ、対戦モードも充実しています。 REVIEWでは、ゲームの簡単さ、対戦モードの充実度、グラフィックの美しさなどが評価ポイントとなっています。このゲームは、バスケットボールファンや簡単に遊びたい人に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260427-440111/",
+        "date": "2026-04-27",
+        "is_translated": false
+      },
+      {
+        "title": "【NetEase新作のバスケゲーム『NBAダンクシティ』を先行体験！ワンタッチで簡単なのに戦略の...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "NetEaseの新作バスケゲーム『NBAダンクシティ』のレビュー記事では、ゲームの評価ポイントとして、シンプルながら戦略性の高いゲーム性や、ワンタッチ操作の簡単さが紹介されています。また、レビューの内容概要として、ゲームのグラフィックやサウンドの高さ、そして多様なゲームモードが提供されている点が挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/04/28/180590.html",
+        "date": "2026-04-27",
+        "is_translated": false
+      },
+      {
+        "title": "【トランプ銃撃犯とされるゲーム、ミームレビューの殺到を受けてSteamでの販売を中止】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、Steamでの販売が中止されたゲームについて扱っています。評価ポイントとしては、ゲームの暴力的な内容や社会的な影響が含まれます。記事では、ゲームに対する批判的な意見や、ゲームがミームレビューの標的になった理由などが取り上げられています。特に、ゲームの暴力的な描写や、その社会的な影響について議論されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/suspected-trump-shooters-game-pulled-from-sale-on-steam-after-flood-of-meme-reviews/",
+        "date": "2026-04-27",
+        "is_translated": true
+      },
+      {
+        "title": "【ValveはSteamコントローラーの価格と発売日を確認したが、SteamマシンのRAM価格は...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Steamコントローラーの価格と発売日が決定したことを受けて、レビュー記事ではその内容を紹介しています。この記事では、Steamコントローラーの評価ポイントとして、操作性とデザインの評価、ゲームとの相性、価格の妥当性について言及しています。また、SteamマシンのRAM価格についても触れています。ゲーム愛好家やSteamユーザーが参考にできる内容で、最新の情報を知りたい方にお勧めです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/valve-have-confirmed-the-steam-controller-price-and-release-date-though-the-steam-machine-is-still-in-ram-price-purgatory",
+        "date": "2026-04-27",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam コントローラーのレビュー: Steam マシンの仲間がいなくても、これは PC を...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Steam コントローラーのレビュー記事では、ゲームプレイの体験を高めるこのコントローラーの評価ポイントを紹介しています。具体的には、操作の快適さやカスタマイズ性が高く、PC ゲームをより楽しむことができる点が評価されています。また、Steam マシンと組み合わせることなくも使える利便性も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/steam-controller-review-2026",
+        "date": "2026-04-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-27T14:10:28.329830"
+  "last_updated": "2026-04-27T21:53:15.749541"
 }
