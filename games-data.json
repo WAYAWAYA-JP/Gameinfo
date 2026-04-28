@@ -158,6 +158,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/speaktomanager_bundle",
         "date": "2026-04-27"
+      },
+      {
+        "title": "Destiny 2: Expansions Bundle 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Destiny 2: Expansions Bundle 2026というバンドルが販売中です。このバンドルには、The Witch Queen、Lightfall、The Final Shapeなどの主要タイトルが含まれています。ジャンルはファーストパーソン・シューティングゲームで、大まかな価格帯は5000円から10000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/destiny2expansionsbundle2026_bundle",
+        "date": "2026-04-28"
+      },
+      {
+        "title": "Sovereign Sandbox Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Sovereign Sandbox Bundleというバンドルの販売が行われています。このバンドルには、Portal Knights、Starbound、Timber & Stoneなどの人気タイトルが含まれており、サンドボックスゲームを楽しむことができます。ジャンルは主にサンドボックスゲームやアクションRPGで。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/sovereignsandboxbundle_bundle",
+        "date": "2026-04-28"
       }
     ],
     "sale": [
@@ -531,6 +555,18 @@
         "discount": "-49%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-alters/info/",
+        "date": "2026-04-28"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストは、Steamで現在56%OFFのセール中です。このゲームは、オープンワールドアクションアドベンチャーというジャンルに属し、豊富な自由度と高品質のグラフィックが特徴です。通常価格から大幅に値下げされたこの作品は、非常に人気があり、高い評価を得ています。セール期間中に購入することで、通常の価格よりも大幅に安くプレイすることができます。",
+        "price": "¥2,851",
+        "originalPrice": "¥6,480",
+        "discount": "56% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
         "date": "2026-04-28"
       }
     ],
@@ -963,8 +999,73 @@
         "url": "https://doope.jp/2026/04166388.html",
         "date": "2026-04-28",
         "is_translated": false
+      },
+      {
+        "title": "【死にゲー冥界メトロイドヴァニア『Karma Exorcist』は王道メトロイドヴァニアに“『デ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「Karma Exorcist」は、クラシックなメトロイドヴァニアスタイルのゲームです。このゲームは、難易度が高く、挑戦的で、スキルと戦略が求められるため、死にゲーと呼ばれることもあります。レビューでは、ゲームの評価ポイントとして、緊張感のあるゲームプレイ、豊富なアイテムやスキル、そして美しいグラフィックが挙げられています。さらに、ゲームの難易度バランスやストーリーの魅力も評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260428-440295/",
+        "date": "2026-04-28",
+        "is_translated": false
+      },
+      {
+        "title": "【「冬がいかに深くとも、仲間がいれば日々を豊かに生き抜けると教えてくれる」海外レビューハイスコア...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、海外レビューハイスコアのゲームを紹介しています。このゲームは、冬が深くとも仲間がいれば日々を豊かに生き抜けると教えてくれるというテーマを扱っています。評価ポイントとしては、魅力的で深いストーリーや、キャラクターの成長システムなどが挙げられます。また、レビュアーはこのゲームの雰囲気やグラフィックスも高く評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/04/28/180641.html",
+        "date": "2026-04-28",
+        "is_translated": false
+      },
+      {
+        "title": "【ロジクール G512 X レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ロジクール G512 X レビューは、ゲーミングキーボードの評価ポイントを紹介しています。レビューの内容としては、キーボードの設計や性能、カスタマイズ性などの点が取り上げられています。さらに、ゲーミングに特化した機能や耐久性についても評価されています。このレビュー記事は、ゲーミングキーボードを探しているゲーマーや、キーボードの性能にこだわるユーザーにとって参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/logitech-g512-x-review/",
+        "date": "2026-04-28",
+        "is_translated": true
+      },
+      {
+        "title": "【「私たちも他の皆さんと同じように影響を受けています」：Valve、Steam Machineの...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、ValveのSteam Machineについて扱っており、開発者のコメントやゲームの特徴などが紹介されています。記事では、Steam Machineの利点や欠点が評価されており、ゲームの評価ポイントとしてグラフィックや操作性が取り上げられています。また、レビューの内容として、Steam Machineの潜在的な影響や将来的な展開についても言及されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/were-just-as-impacted-as-everyone-else-valve-explain-steam-machine-delays-and-why-the-steam-controller-is-coming-out-sooner",
+        "date": "2026-04-28",
+        "is_translated": true
+      },
+      {
+        "title": "【Aphelion レビュー: 『ライフ イズ ストレンジ』の制作者による絶対プレイすべき SF...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Aphelionは『ライフ イズ ストレンジ』の制作者によるSFゲームです。このゲームは、ストーリーやキャラクター、ゲームプレイの面で高い評価を受けています。特に、ユニークな時間操作システムや、深みのあるストーリーが注目されています。さらに、ゲームのグラフィックやサウンドトラックも高く評価されています。このゲームは、SFファンやアドベンチャーゲームを楽しむ人に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/aphelion-review/",
+        "date": "2026-04-28",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-28T02:47:18.432047"
+  "last_updated": "2026-04-28T11:04:58.567573"
 }
