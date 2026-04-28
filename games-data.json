@@ -28,30 +28,6 @@
     ],
     "bundle": [
       {
-        "title": "Destiny 2: Expansions Bundle 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleで、Destiny 2: Expansions Bundle 2026というバンドルが販売中です。このバンドルには、The Witch Queen、Lightfall、The Final Shapeなどの主要タイトルが含まれています。アクションFPSジャンルのゲームです。価格帯は、大まかには約3,000円から約6,000円程度となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/destiny2expansionsbundle2026_bundle",
-        "date": "2026-04-18"
-      },
-      {
-        "title": "Sovereign Sandbox Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble BundleでSovereign Sandbox Bundleが販売中です。このバンドルには、City: Skylines、Frostpunk、RimWorldなどの人気タイトルが含まれています。ジャンルは、シミュレーションやサンドボックスゲームが中心です。大まかな価格帯は、数千円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/sovereignsandboxbundle_bundle",
-        "date": "2026-04-18"
-      },
-      {
         "title": "Humble 15 Golden Tales Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -185,42 +161,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストは、オープンワールドアクションアドベンチャーゲームであり、自由に世界を探索することができる特徴があります。現在、Steamで56%の割引が行われており、格安でプレイすることができます。このゲームは、高い評価と人気度を誇り、幅広い年齢層のプレイヤーから支持されています。セール中のこのゲームは、格安でプレイすることができるため、興味のある人はおすすめです。",
-        "price": "¥2,851",
-        "originalPrice": "¥6,480",
-        "discount": "56% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-04-21"
-      },
-      {
-        "title": "DARK SOULS III",
-        "platform": "Various",
-        "type": "sale",
-        "description": "DARK SOULS IIIはアクションRPGのジャンルで知られており、難易度の高さと奥深いストーリーが特徴です。現在、Variousで55%割引のセール中で、ファンに人気の高いシリーズです。評価も高く、多くのユーザーから高い評価を得ています。",
-        "price": "$26.95",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dark-souls-iii/info/",
-        "date": "2026-04-21"
-      },
-      {
-        "title": "Dead Island 2",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「Dead Island 2」がSteamで大幅なセール中です。このゲームは、ゾンビが跋扈する世界でサバイバルを目指す、オープンワールドのアクションゲームです。現在、Steamでは90%の割引が適用されており、非常にお得な価格でプレイできます。さらに、このゲームは高い評価と人気度を誇り、ファンからも高い支持を受けています。",
-        "price": "¥588",
-        "originalPrice": "¥5,889",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/934700",
-        "date": "2026-04-21"
-      },
       {
         "title": "SILENT HILL f",
         "platform": "Steam",
@@ -556,191 +496,45 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/vampire-the-masquerade-bloodlines-2/info/",
         "date": "2026-04-27"
+      },
+      {
+        "title": "Slay the Spire",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Slay the Spireは、ローグライクとカードゲームの要素を組み合わせた、独特なゲームです。現在、Steamで75%オフのセール中となっており、非常に魅力的な価格になっています。このゲームは、高度な再生性と戦略的な深みを兼ね備えており、批評家とプレイヤーからの評価が非常に高く、人気度も高いゲームとなっています。",
+        "price": "¥700",
+        "originalPrice": "¥2,800",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/646570",
+        "date": "2026-04-28"
+      },
+      {
+        "title": "Rust",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サバイバルゲームの『Rust』がSteamで50%割引のセール中です。このゲームは、プレイヤーが荒野で生き残るために資源を集め、建物を建設し、敵から自分を守る必要があります。高い評価と人気を誇るこのゲームは、現在半額で購入できるので、サバイバルゲームファンにはおすすめです。",
+        "price": "¥2,300",
+        "originalPrice": "¥4,600",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/252490",
+        "date": "2026-04-28"
+      },
+      {
+        "title": "The Alters",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Altersは、 Variousで現在49%割引のセール中です。このゲームは、ユニークなゲームプレイと面白いストーリーが特徴で、ファンタジーとアドベンチャー要素を組み合わせたジャンルに属しています。多くのプレイヤーから高評価を得ており、人気度も高いゲームです。セール期間中は、通常価格よりも大幅に安く購入することができますので、気になる方はこの機会に試してみることをお勧めします。",
+        "price": "$17.95",
+        "originalPrice": "",
+        "discount": "-49%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-alters/info/",
+        "date": "2026-04-28"
       }
     ],
     "review": [
-      {
-        "title": "【期待の超能力推理ADV『Staffer Retro: 超能力推理クエスト』7月23日発売へ。日...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Staffer Retro: 超能力推理クエストは、超能力を持つキャラクターたちを操作して謎を解く、アドベンチャーゲームです。このゲームの評価ポイントとしては、独自の超能力システムや、複雑なストーリー展開が特徴です。レビューでは、ゲームの魅力的なグラフィックや、キャラクターの深い背景設定も高く評価されています。特に、超能力やミステリーが好きな読者や、アドベンチャーゲームのファンが楽しめる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260423-439234/",
-        "date": "2026-04-23",
-        "is_translated": false
-      },
-      {
-        "title": "【「アノ 117: パックスロマーナ」の累計プレイヤー数が117万人に到達、シリーズ史上最も早く...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「アノ 117: パックスロマーナ」の累計プレイヤー数が117万人に到達したと発表されたこのレビュー記事では、シリーズの歴史の中で最も早くこの数字に到達したことが評価されています。ゲームの評価ポイントとして、シリーズの新しい試みやグラフィックの向上などが挙げられています。対象読者は、ゲームファンやシリーズの愛好家などです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166280.html",
-        "date": "2026-04-23",
-        "is_translated": false
-      },
-      {
-        "title": "【Seagate FireCuda X Vault レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Seagate FireCuda X Vaultについてのレビュー記事では、ハードウェアの性能やデザイン、そして価格の相関関係などが評価ポイントとして取り上げられています。記事では、ゲームのセーブデータや大容量のファイルを素早く保存・読み出すことができる点や、耐久性の高い構造が評価されています。また、ゲーム愛好家や大容量のデータを扱うクリエイターなどが対象読者として想定されており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/hdds/seagate-firecuda-x-vault-review/",
-        "date": "2026-04-23",
-        "is_translated": true
-      },
-      {
-        "title": "【『ストレンジャー・シングス: テイルズ フロム '85』レビュー: 2019 年以来最高の『ス...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "『ストレンジャー・シングス: テイルズ フロム '85』は、2019 年以来最高の『ストレンジャー・シングス』のレビュー記事です。このゲームの評価ポイントとしては、ストーリーの深み、キャラクターの個性、サウンドトラックの素晴らしさが挙げられます。レビューの内容概要としては、ゲームの雰囲気、グラフィックの美しさ、プレイヤーの感情への寄り添い方が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/stranger-things-tales-from-85-review/",
-        "date": "2026-04-23",
-        "is_translated": true
-      },
-      {
-        "title": "【2人協力プレイゲーム新作『オービタルズ Orbitals』先行プレイ感想。「会話」が重要になる...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "新作の2人協力プレイゲーム「オービタルズ Orbitals」の先行プレイ感想を紹介するレビュー記事です。このゲームの評価ポイントとしては、会話が重要になる点や、プレイヤー同士のコミュニケーションが重要な要素になっている点が挙げられます。レビューの内容は、ゲームの独自性や難易度、そして協力プレイの面白さについて触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/orbitals-handson-20260423-439381/",
-        "date": "2026-04-23",
-        "is_translated": false
-      },
-      {
-        "title": "【レトロアニメ協力プレイアクション『オービタルズ Orbitals』開発者インタビュー。『It ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "レトロアニメ風の協力プレイアクションゲーム『オービタルズ Orbitals』の開発者インタビューを紹介します。このゲームは、ユニークなグラフィックと面白いゲームプレイが特徴です。レビュー記事では、ゲームの評価ポイントとしてグラフィックの美しさ、協力プレイの面白さ、ストーリーの深さを挙げています。さらに、ゲームの開発背景や、開発者へのインタビューも掲載しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/orbitals-interview-20260423-439382/",
-        "date": "2026-04-23",
-        "is_translated": false
-      },
-      {
-        "title": "【日本の90年代アニメにインスパイアされたSwitch 2向けCo-opアドベンチャー「Orbi...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Switch 2向けのCo-opアドベンチャーゲーム「Orbi...」は、日本の90年代アニメにインスパイアされた作品です。このゲームの評価ポイントとしては、ユニークなグラフィックや、協力プレイに適したゲームデザインが挙げられます。レビューの内容概要としては、ゲームの世界観やストーリーが魅力的であり、協力プレイにより楽しさが倍増することが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166288.html",
-        "date": "2026-04-23",
-        "is_translated": false
-      },
-      {
-        "title": "【名門Housemarqueの新たな弾幕アクションシューター「Saros」のローンチトレーラーが...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "名門Housemarqueの新作弾幕アクションシューター「Saros」のローンチトレーラーが公開されています。このゲームは、美麗なグラフィックと高速なアクションが特徴です。レビューでは、その激しい戦闘システムと豊富なステージの多様性が高く評価されています。また、ゲームの難易度が適切に調整されていることも評価ポイントのひとつです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166292.html",
-        "date": "2026-04-23",
-        "is_translated": false
-      },
-      {
-        "title": "【Europa Universalis 5 は、崩壊しつつあるビザンツ帝国を救うためのレースとな...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Europa Universalis 5 は、崩壊しつつあるビザンツ帝国を救うためのレースとなっているパラドックスインタラクティブ社のストラテジーゲームです。このゲームは、ユーザーの戦略性と歴史的背景の深みを評価する点が高く、レビューでは、ゲームシステムの複雑さとリプレイ性の高さ、そしてグラフィックの詳細さが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/europa-universalis-5-is-getting-its-first-big-dlc-a-race-to-save-the-crumbling-byzantine-empire",
-        "date": "2026-04-23",
-        "is_translated": true
-      },
-      {
-        "title": "【私のお気に入りのワイヤレス オフィス マウスが 69 ポンドで買えるのはかなりの高額です：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "この記事では、ワイヤレスオフィスマウスのレビューについて紹介しています。このマウスは69ポンドというかなりの高額ですが、その価値はあるでしょう。記事では、このマウスの評価ポイントとしてデザイン、性能、バッテリーの寿命について触れています。レビューの内容概要としては、デザインの良さや使用のしやすさ、長時間のバッテリー使用が可能であることを挙げています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/69-for-one-of-my-favourite-wireless-office-mice-is-quite-the-steal",
-        "date": "2026-04-23",
-        "is_translated": true
-      },
-      {
-        "title": "【Orbitals プレビュー: アニメ協力ゲームには It Takes Two と「同じデザイ...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Orbitals プレビューのレビュー記事では、アニメ協力ゲームのIt Takes Twoと同じデザイナーが参加していることが注目されています。このゲームは、協力プレイを重視しており、2人でプレイすることを想定しています。対象読者は、協力プレイゲームやアニメスタイルのグラフィックが好きな人です。また、ゲームの評価ポイントとしては、協力プレイの仕組みやグラフィックの美しさが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/orbitals-preview-impressions-hands-off/",
-        "date": "2026-04-23",
-        "is_translated": true
-      },
-      {
-        "title": "【Vampire Crawlers レビュー: Vampire Survivors のデッキ構築...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Vampire Crawlers レビューは、Vampire Survivors のデッキ構築要素を取り入れたゲームの魅力を紹介しています。このレビューでは、ゲームの評価ポイントとして、デッキ構築の自由度や戦略的深み、そしてアクション要素の面白さを挙げています。また、ゲームの長所として、リプレイ価値の高さやグラフィックの可愛らしさも触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/vampire-crawlers-review/",
-        "date": "2026-04-23",
-        "is_translated": true
-      },
-      {
-        "title": "【『アサシン クリード ブラック フラッグ リシンクド』にはフリーダム クライ DLC は含まれ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "アサシン クリード ブラック フラッグ リシンクドのレビュー記事では、フリーダム クライ DLCの評価ポイントとして、ゲームのストーリー展開やプレイヤーの自由度が高く評価されていることが紹介されています。また、グラフィックの向上や操作性の改善も評価され、全体的なゲームの完成度が高いと述べられています。このレビューは。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynced-doesnt-include-the-freedom-cry-dlc-ubisoft-say-they-made-a-clear-choice-to-focus-on-edwards-adventure",
-        "date": "2026-04-23",
-        "is_translated": true
-      },
-      {
-        "title": "【評価の高い Steam PC ゲーム Nocturnal が今なら無料】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Steam PC ゲームの「Nocturnal」は、現在無料で遊べる人気ゲームです。このゲームは、ユーザーから高い評価を得ています。レビューの内容としては、ゲームのグラフィックやサウンドデザインが高く評価されています。また、ゲームのストーリーやゲームプレイの面でも高い評価を得ています。このゲームは、アクションゲームやアドベンチャーゲームのファンに特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/free-steam-game-april-2026-nocturnal-pc-giveaway/",
-        "date": "2026-04-23",
-        "is_translated": true
-      },
       {
         "title": "【『PEAK』開発元の新作協力ゲーム『クラッシュアウトクル』、5月28日リリースへ。激突損壊なん...：レビュー】",
         "platform": "AUTOMATON",
@@ -794,19 +588,6 @@
         "is_translated": false
       },
       {
-        "title": "【大都市ペルセポリスの景観を紹介する「EXODUS」の新たなゲームプレイ映像が公開】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「EXODUS」の新たなゲームプレイ映像が公開され、プレイヤーから大きな注目を集めています。このゲームは大都市ペルセポリスの壮大な景観を紹介する内容で、グラフィックやサウンドデザインが高く評価されています。また、ゲームのストーリーや操作性も良好で、ユーザーの評価は非常に高いです。このレビュー記事は、ゲームの魅力を紹介するために、ゲームの評価ポイントやユーザーのレビュー内容をまとめています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166291.html",
-        "date": "2026-04-23",
-        "is_translated": false
-      },
-      {
         "title": "【『プラグマタ』スイッチ2版が発売！これでいつでもどこでもディアナに会える―Steamレビューは...】",
         "platform": "インサイド",
         "type": "review",
@@ -818,32 +599,6 @@
         "url": "https://www.inside-games.jp/article/2026/04/24/180413.html",
         "date": "2026-04-24",
         "is_translated": false
-      },
-      {
-        "title": "【Europa Universalis 5 は、崩壊しつつあるビザンチン帝国を救うためのレースと...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Europa Universalis 5 は、歴史を題材にしたグランドストラテジーゲームです。このゲームの評価ポイントは、複雑なゲームシステムや豊富な歴史的背景があります。レビューの内容概要としては、プレイヤーが歴史上の国家を運営し、外交や戦争を通じて世界の覇権を目指すことができる点が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/europa-universalis-5-is-getting-its-first-big-dlc-a-race-to-save-the-crumbling-byzantine-empire",
-        "date": "2026-04-23",
-        "is_translated": true
-      },
-      {
-        "title": "【Apexレビュー：シャーリーズ・セロン、自身のプレデター映画を入手】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Apexレビューでは、シャーリーズ・セロンが出演する新作映画「プレデター」について詳しく紹介しています。このレビューでは、映画のストーリーやキャラクター、そしてアクションシーンの評価ポイントを3点にまとめています。映画ファンにはもちろん、プレデターシリーズの愛好者にもおすすめのレビュー記事です。さらに、映画の評価ポイントとして、作品のスリルやサスペンス、そして俳優の演技についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/apex-netflix-review-charlize-theron/",
-        "date": "2026-04-23",
-        "is_translated": true
       },
       {
         "title": "【Saros レビュー: Housemarque の新しい PS5 ゲームは Returnal ...】",
@@ -1182,8 +937,34 @@
         "url": "https://www.rockpapershotgun.com/steam-controller-review-2026",
         "date": "2026-04-27",
         "is_translated": true
+      },
+      {
+        "title": "【返還前の香港が舞台となるボディカムFPS「Better Than Dead」の発売日が2026...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "返還前の香港が舞台となるボディカムFPSゲーム「Better Than Dead」についてのレビューを紹介します。このゲームは2026年に発売予定です。レビューでは、ゲームのグラフィックやサウンドデザイン、ストーリーの面白さなどが評価されています。ゲームの評価ポイントとしては、リアルなゲーム世界の描写や、緊張感のあるアクションシーンなどが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166395.html",
+        "date": "2026-04-28",
+        "is_translated": false
+      },
+      {
+        "title": "【Update：「ディアブロ IV: 憎悪の帝王」とシーズン13“審判到来”が遂に解禁、ディアブ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム「ディアブロ IV: 憎悪の帝王」とそのシーズン13“審判到来”の解禁について扱っています。記事では、ゲームの新要素やストーリーの進化を評価しています。特に、ゲームのグラフィックやサウンドデザイン、プレイアビリティの向上などが高く評価されています。此外、記事では、ゲームの難易度や新しいキャラクターの追加などについても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166388.html",
+        "date": "2026-04-28",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-27T21:53:15.749541"
+  "last_updated": "2026-04-28T02:47:18.432047"
 }
