@@ -580,6 +580,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dead-cells/info/",
         "date": "2026-04-28"
+      },
+      {
+        "title": "SILENT HILL 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "SILENT HILL 2は、サバイバルホラーゲームの名作として知られており、恐怖と心理的な要素を融合させた独特のゲーム性が特徴です。このゲームは、非常に高い評価と人気度を誇り、多くのゲーマーから高い支持を得ています。現在、Variousで60%割引のセール中となっており、通常よりも大幅に安くなっています。この機会に、ホラーゲームファンにはお勧めのタイトルです。",
+        "price": "$28.00",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
+        "date": "2026-04-28"
+      },
+      {
+        "title": "Balatro",
+        "platform": "Various",
+        "type": "sale",
+        "description": "バラトロはバラエティ豊かなゲームで、現在26パーセントオフのセール中です。このゲームは、ユーザーから高い評価を得ており、人気度も高まっています。価格は割引前の価格より安くなっており、魅力的なコンテンツと低価格が特徴です。",
+        "price": "$11.12",
+        "originalPrice": "",
+        "discount": "-26%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/balatro/info/",
+        "date": "2026-04-28"
       }
     ],
     "review": [
@@ -1076,8 +1100,47 @@
         "url": "https://www.polygon.com/aphelion-review/",
         "date": "2026-04-28",
         "is_translated": true
+      },
+      {
+        "title": "【プレイヤーキャラクターのオーバーホールを導入する「Phasmophobia」の次期アップデート...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Phasmophobia」の次期アップデートが近日リリース予定です。このアップデートでは、プレイヤーキャラクターのオーバーホールを導入することになります。このゲームの評価ポイントとしては、グラフィックの向上や新しい機能の追加が期待できます。レビューの内容概要としては、パフォーマンスの改善やユーザーインターフェースの変更が含まれると考えられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166417.html",
+        "date": "2026-04-28",
+        "is_translated": false
+      },
+      {
+        "title": "【「最終的にはスロップは底に落ちるだけだ」: Garry's Mod の続編は「賛否両論」のレビ...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事では、Garry's Modの続編について賛否両論の評価ポイントを紹介しています。ゲームの評価ポイントとして、続編の新しい機能やゲーム性の向上が挙げられていますが、同時に、ゲームのバランスや難易度については批判的な意見もあります。対象読者としては、Garry's Modのファンやゲーム開発に興味のある人向けの内容となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/eventually-the-slop-will-just-fall-to-the-bottom-garrys-mod-sequel-launches-to-mixed-reviews-but-garry-himself-isnt-worried-about-ai-games-on-the-main-page/",
+        "date": "2026-04-28",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam コントローラーのセカンドオピニオン: 何が機能し、何が機能しないのか、そして Va...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、Steam コントローラーの評価ポイントを2つほど紹介しています。まず、コントローラーのデザインと操作性について評価しており、ユーザーにどのような利点があるかを説明しています。さらに、ゲームとの互換性やカスタマイズ性についても触れています。Steam コントローラーに興味があるゲーマーや、ゲーム機器について調べている方に、このレビュー記事はおすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/our-steam-controller-second-opinion-what-works-what-doesnt-and-what-valve-should-add-for-the-next-one",
+        "date": "2026-04-28",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-28T14:28:51.899969"
+  "last_updated": "2026-04-28T21:58:22.842605"
 }
