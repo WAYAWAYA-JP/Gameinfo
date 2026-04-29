@@ -186,54 +186,6 @@
     ],
     "sale": [
       {
-        "title": "SILENT HILL f",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "SILENT HILL fがSteamで50% OFFセール中です。サバイバルホラーのジャンルで人気の高いこのゲームは、恐怖とスリルのある世界を体験できる特徴があります。現在、50%の割引が適用されており、非常に魅力的な価格になりました。多くのユーザーから高い評価を得ており、ホラーゲームファンにはお勧めのタイトルです。",
-        "price": "¥4,290",
-        "originalPrice": "¥8,580",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2947440",
-        "date": "2026-04-22"
-      },
-      {
-        "title": "Elden Ring",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションRPG「Elden Ring」がVariousで27％オフのセール中です。このゲームはダークファンタジーの世界を舞台に、プレイヤーが自由に冒険できるオープンワールドを特徴としています。現在の価格は割引前よりも大幅に安くなっています。Elden Ringは高い評価と人気度を誇り、多くのゲーマーから支持されていますが、セール期間中であることを考慮して、購入を検討する価値があります。",
-        "price": "$43.98",
-        "originalPrice": "",
-        "discount": "-27%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/elden-ring/info/",
-        "date": "2026-04-22"
-      },
-      {
-        "title": "Kingdom Come: Deliverance II",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Kingdom Come: Deliverance IIがSteamで50% OFFセール中で、オープンワールドアクションRPGのファンにはおすすめのゲームです。このゲームは中世ヨーロッパを舞台に、プレイヤーが主人公を操作してさまざまなクエストをクリアしていくという特徴があります。現在の価格は割引前の半額で、非常に魅力的な購入機会となっています。",
-        "price": "¥4,045",
-        "originalPrice": "¥8,090",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1771300",
-        "date": "2026-04-22"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サイバーパンク2077は、オープンワールドRPGの名作として知られており、未来的な世界を舞台にプレイヤーが自由に冒険することができます。現在、Variousでこのゲームが65％オフのセール中です。サイバーパンク2077は、グラフィックやゲームプレイの質の高さから、ゲームファンからの評価が非常に高いです。また、人気度も非常に高く、多くのプレイヤーがこのゲームをプレイしています。",
-        "price": "$20.99",
-        "originalPrice": "",
-        "discount": "-65%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-04-22"
-      },
-      {
         "title": "バニーガーデン",
         "platform": "Steam",
         "type": "sale",
@@ -607,149 +559,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【『PEAK』開発元の新作協力ゲーム『クラッシュアウトクル』、5月28日リリースへ。激突損壊なん...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『PEAK』開発元の新作ゲーム『クラッシュアウトクル』は、5月28日にリリースされる予定です。このゲームは協力ゲームであり、プレイヤーがチームを組み、激突して車を損壊させることを目的とします。レビューでは、ゲームの評価ポイントとして、協力プレイの面白さ、グラフィックの質、操作の複雑さなどが挙げられています。特に、プレイヤー同士のコミュニケーションと協力が重要になる点が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/crashout-crew-20260424-439459/",
-        "date": "2026-04-24",
-        "is_translated": false
-      },
-      {
-        "title": "【“Astroneer”世界が舞台となる新作「STARSEEKER: Astroneer Exp...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「STARSEEKER: Astroneer Exp...」は、人気ゲーム「Astroneer」の世界を舞台にした新作です。このレビュー記事では、このゲームの評価ポイントとして、ゲームプレイの自由度、グラフィックの美しさ、ストーリーの魅力を挙げています。さらに、レビューの内容は、ゲームの操作感、探索の楽しさ、ストーリーの深みについて詳しく説明しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166338.html",
-        "date": "2026-04-24",
-        "is_translated": false
-      },
-      {
-        "title": "【「Call of Duty: Black Ops 7」新ゾンビマップ“トーテンライヒ”のゲーム...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Call of Duty: Black Ops 7」の新ゾンビマップ「トーテンライヒ」のレビュー記事では、ゲームの評価ポイントとしてゾンビマップの新鮮な雰囲気や、プレイヤーのスキルを試す挑戦的なステージデザインが挙げられます。また、レビューでは、新しいマップのストーリーやキャラクターの設定も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166318.html",
-        "date": "2026-04-24",
-        "is_translated": false
-      },
-      {
-        "title": "【オンラインマルチプレイヤーミニゴルフの続編「Golf With Your Friends 2」...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "オンラインマルチプレイヤーミニゴルフの続編「Golf With Your Friends 2」のレビュー記事では、ゲームの評価ポイントとして、グラフィックの向上や新しいコースの追加が上げられます。また、レビューの内容概要として、プレイヤーの増加による新たな戦略の必要性や、ゲームのバランス調整の重要性が述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166331.html",
-        "date": "2026-04-24",
-        "is_translated": false
-      },
-      {
-        "title": "【『プラグマタ』スイッチ2版が発売！これでいつでもどこでもディアナに会える―Steamレビューは...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "プラグマタのスイッチ2版が発売されました。このゲームでは、いつでもどこでもディアナに会うことができます。Steamでのレビューでは、グラフィックの美しさや物語の面白さが高く評価されています。また、ゲームの操作性やサウンドトラックの質も賛賛されています。このレビューは、プラグマタシリーズのファンや、新しいゲームを探している人にとって参考になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/04/24/180413.html",
-        "date": "2026-04-24",
-        "is_translated": false
-      },
-      {
-        "title": "【Saros レビュー: Housemarque の新しい PS5 ゲームは Returnal ...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Housemarque の新しい PS5 ゲームである Saros のレビュー記事では、ゲームの評価ポイントとしてグラフィックの品質やサウンドデザインが高い評価を受けています。また、レビューの内容概要として、ゲームの難易度や繰り返しの要素がプレイヤーを引き付ける要因であると指摘されています。このレビュー記事は、PS5 ゲームやアクションゲームに興味を持つ読者に向けて。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/saros-review/",
-        "date": "2026-04-24",
-        "is_translated": true
-      },
-      {
-        "title": "【ゲーム開発者×実況配信者のマッチングサービス「IndieUp」完全無料で始動。“信頼できる配信...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "この記事では、ゲーム開発者と実況配信者のマッチングサービス「IndieUp」のレビューを紹介しています。完全無料で始動しているこのサービスについて、信頼できる配信者とのコラボレーションが可能であること、ゲームの宣伝やアピールが容易であること、また、開発者と配信者の間でスムーズなコミュニケーションが取れることなどを評価ポイントとして挙げています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260424-439615/",
-        "date": "2026-04-24",
-        "is_translated": false
-      },
-      {
-        "title": "【「Call of Duty: Black Ops 7|Warzone」シーズン03 リローデッ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Call of Duty: Black Ops 7|Warzone」のシーズン03のリロードのレビュー記事は、ゲームの新しいシーズンの内容と変更点を詳しく紹介しています。記事では、新しいマップやゲームモードの追加、バグの修正などの評価ポイントを取り上げています。また、グラフィックやサウンドの質の向上も評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166308.html",
-        "date": "2026-04-24",
-        "is_translated": false
-      },
-      {
-        "title": "【クレア・オブスカー: 遠征 33 の 1 歳の誕生日がやって来ました。J'RPG の全員に特別...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "クレア・オブスカー：遠征33の1歳の誕生日を記念して、J'RPGのファン向けの特別なレビュー記事が発表されました。この記事では、ゲームの評価ポイントとして、ストーリーの深み、キャラクターの個性、ゲームシステムの複雑さが取り上げられています。また、レビューの内容概要として、ゲームの魅力、難易度、グラフィックの美しさが紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/clair-obscur-expedition-33s-first-birthday-is-here-cue-an-anniversary-patch-giving-everyone-in-the-jrpg-special-hairdos",
-        "date": "2026-04-24",
-        "is_translated": true
-      },
-      {
-        "title": "【Hell Let Loose: ベトナム プレビュー: これまでプレイした中で最もリアルなシュ...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Hell Let Loose: ベトナムは、プレビュー版として公開されており、非常にリアルなシューティングゲームであることが分かっています。このゲームの評価ポイントとしては、グラフィックやサウンドデザインの質が高く、戦闘シーンが非常にリアルに表現されていることが挙げられます。また、レビューでは、ゲームの雰囲気や戦略的要素も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/hell-let-loose-vietnam-preview/",
-        "date": "2026-04-24",
-        "is_translated": true
-      },
-      {
-        "title": "【Saros レビューまとめ: Returnal より簡単ですが、同じくらい特別ですか?】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Saros のレビューまとめ記事では、Returnal よりも簡単なゲームとして紹介されていますが、同じくらい特別な魅力があるかどうかを検証しています。この記事では、ゲームの評価ポイントとして難易度やゲーム性、グラフィックのクオリティなどを取り上げ、レビューの内容概要としては、簡単な操作性や豊富なコンテンツ、美しいグラフィックなどを紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/saros-review-roundup/",
-        "date": "2026-04-24",
-        "is_translated": true
-      },
       {
         "title": "【火山の脅威に立ち向かう非戦闘系アクションRPG「Into the Fire」のオープンプレイテ...】",
         "platform": "doope!",
@@ -1139,8 +948,47 @@
         "url": "https://www.rockpapershotgun.com/our-steam-controller-second-opinion-what-works-what-doesnt-and-what-valve-should-add-for-the-next-one",
         "date": "2026-04-28",
         "is_translated": true
+      },
+      {
+        "title": "【オープンワールドMMOTPS『ディビジョン リサージェンス』待望のPC版、いきなりリリース。『...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "オープンワールドMMOTPS「ディビジョン リサージェンス」のPC版がリリースされたことを受けて、レビュー記事が公開されました。このゲームは、グラフィックやサウンドのクオリティ、そして幅広いカスタマイズオプションが評価ポイントです。レビューでは、ゲームの世界観やストーリー、そしてマルチプレイヤーモードの面白さについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260429-440394/",
+        "date": "2026-04-29",
+        "is_translated": false
+      },
+      {
+        "title": "【凍てついた世界を蒸気機関車で進むスノーピアサー系ディーゼルパンクサバイバル「Frostrail...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、ディーゼルパンクサバイバルゲーム「Frostrail」を紹介しています。凍てついた世界を蒸気機関車で進むというユニークな設定が特徴的です。ゲームの評価ポイントとしては、独自の世界観やサバイバル要素の組み合わせが高く評価されています。レビューの内容概要としては、ゲームの雰囲気やグラフィックの質、そして難易度のバランスについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166440.html",
+        "date": "2026-04-29",
+        "is_translated": false
+      },
+      {
+        "title": "【レベルのプロシージャル生成システムを導入する「Mycopunk」のワールドアップデートが配信、...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Mycopunk」のワールドアップデートを取り上げたレビュー記事では、レベルのプロシージャル生成システムの導入が評価ポイントのひとつです。このシステムにより、プレイヤーは新しい体験ができるとともに、ゲームのリプレイ性が高まっています。また、グラフィックやサウンドの向上も評価され、ゲーム全体の雰囲気がより一層豊かになりました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166433.html",
+        "date": "2026-04-29",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-28T21:58:22.842605"
+  "last_updated": "2026-04-29T02:46:49.352101"
 }
