@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/balatro/info/",
         "date": "2026-04-28"
+      },
+      {
+        "title": "Dredge",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Dredgeは、オープンワールドのサバイバルゲームです。現在、Variousで66%オフのセール中で、ファン待望のチャンスです。このゲームは、ユニークなゲームプレイと深いストーリーで評価されており、人気度も高いと言えるでしょう。価格も割引により大幅に下げられているので、興味がある方はこの機会にチェックしてみてください。",
+        "price": "$8.58",
+        "originalPrice": "",
+        "discount": "-66%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dredge/info/",
+        "date": "2026-04-29"
       }
     ],
     "review": [
@@ -987,8 +999,60 @@
         "url": "https://doope.jp/2026/04166433.html",
         "date": "2026-04-29",
         "is_translated": false
+      },
+      {
+        "title": "【“推理小説を読む程度の集中力”でプレイできる推理ADV『真ッ赤の太陽』Steamにてお披露目。...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「真ッ赤の太陽」は、推理小説を読む程度の集中力でプレイすることができる推理アドベンチャーゲームです。このゲームの評価ポイントとしては、ユーザーフレンドリーな操作体系や、ストーリーの分岐が多彩であることが挙げられます。また、レビューでは、ゲームのグラフィックやサウンドトラックも高く評価されています。このゲームは、推理ゲームファンやミステリー好きのユーザーに特におすすめできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260429-440536/",
+        "date": "2026-04-29",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料“街”オープンワールド『NTE』の戦闘をナメてたら半殺しにされた。わかってくるほ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、基本プレイ無料のオープンワールドゲーム「NTE」の戦闘システムについて評価しています。記事では、戦闘を軽視した結果、半殺しにされた経験が紹介されています。対象読者は、ゲーム好きや「NTE」プレイヤー向けです。記事の内容は、戦闘システムの評価、ゲームの難易度、戦略の重要性についてまとまっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260429-440508/",
+        "date": "2026-04-29",
+        "is_translated": false
+      },
+      {
+        "title": "【最大4人協力西部劇PvEシューター『Far Far West』さっそく「圧倒的に好評」の人気爆...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Far Far West』は、最大4人で協力してプレイできる西部劇を舞台にしたPvEシューターです。このゲームは、レビュー記事では「圧倒的に好評」と評価されており、人気を博しています。レビューの内容としては、ゲームのグラフィックやサウンドデザイン、協力プレイのシステムなどが高く評価されています。また、ゲームの雰囲気やストーリーも、西部劇ファンには特に楽しいものであると評されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260429-440485/",
+        "date": "2026-04-29",
+        "is_translated": false
+      },
+      {
+        "title": "【「次世代の Steam デッキでも同じことができるでしょう」: Valve は、将来のハンドヘ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、Valve社の新しいハンドヘルドゲーム機について取り上げています。ゲームの評価ポイントとして、携帯性と高性能が挙げられます。記事では、将来のハンドヘルドゲーム機でも同様の性能が期待できると述べています。レビューの内容概要としては、新しいハンドヘルドゲーム機の開発の進展と、ゲームのプレイ性について触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/a-next-gen-steam-deck-would-do-the-same-valve-are-already-eyeing-steam-controller-hardware-upgrades-to-reuse-in-future-handhelds",
+        "date": "2026-04-29",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-29T02:46:49.352101"
+  "last_updated": "2026-04-29T10:56:12.579952"
 }
