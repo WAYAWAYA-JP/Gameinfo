@@ -1,56 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "The Stone of Madness",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "The Stone of Madnessは、サバイバルホラーの要素を含んだアクションアドベンチャーゲームです。このゲームの特徴は、不気味な雰囲気と緊張感のあるゲームプレイ、そしてユニークなグラフィックデザインがあります。また、プレイヤーはさまざまなアイテムやスキルを使用して、恐ろしい敵から逃れながら進みます。",
-        "price": "無料",
-        "originalPrice": "¥28",
-        "discount": "100% OFF",
-        "deadline": "2026年04月23日まで",
-        "url": "https://store.epicgames.com/ja/p/the-stone-of-madness",
-        "date": "2026-04-23"
-      },
-      {
-        "title": "DOOMBLADE",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "ドゥーム・アンド・グロムは、2Dアクションメトロイドヴァニアゲームで、強力な能力を解放し、復讐の旅を楽しむことができます。このゲームの特徴は、知性を持つ兵器ドゥームブレードと鎖につながれたグルーム・ガールが力を合わせて、強大な能力を発揮することです。また、地下深くでの探索や、ドレッドロードとの戦いが魅力的です。このゲームは、PCやコンソールで配布されています。",
-        "price": "無料",
-        "originalPrice": "¥17",
-        "discount": "100% OFF",
-        "deadline": "2026年04月30日まで",
-        "url": "https://store.epicgames.com/ja/p/ed9fee5cea29495394853e134f27a291",
-        "date": "2026-04-23"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Humble 15 Golden Tales Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Humble 15 Golden Tales Bundleというバンドルが販売中です。このバンドルには、The Whispered World、The Night of the Rabbit、Deponiaなどの主要タイトルが含まれています。ジャンルはアドベンチャーゲームで、大まかな価格帯は1000〜2000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/15goldentalesbundle_bundle",
-        "date": "2026-04-20"
-      },
-      {
-        "title": "Tower Defense 2",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Tower Defense 2のバンドルが販売中です。このバンドルには、主要タイトルとして「Kingdom Rush」、「Plants vs. Zombies」、「Defense Grid」などのタイトルが含まれています。ジャンルはストラテジーで、特にタワーディフェンスゲームが中心です。大まかな価格帯は10ドルから20ドル程度とされています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/towerdefense2_bundle",
-        "date": "2026-04-20"
-      },
       {
         "title": "Strategic Minds Collection",
         "platform": "Humble Bundle",
@@ -221,78 +172,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "バニーガーデン",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "バニーガーデンは、Steamで現在60%オフのセール中です。このゲームは、カジュアルでリラックスできるアドベンチャーゲームで、ユーザーはバニーガーデンを作り上げることができます。評価は非常に高く、多くのユーザーから好評価を得ています。価格も割引により大幅に下がっており、ゲームファンにはおすすめです。",
-        "price": "¥1,392",
-        "originalPrice": "¥3,480",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2654470",
-        "date": "2026-04-23"
-      },
-      {
-        "title": "Farthest Frontier",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Farthest FrontierがSteamで50% OFFセール中です。このゲームは、シティビルディングとタワーディフェンスを組み合わせた、ユニークな要素を持つストラテジーゲームです。プレイヤーは、美しいグラフィックの中で、街を築き上げ、資源を管理し、侵略者から守ります。現在、Steamで50%の割引が適用されており、かなりお得な価格で楽しむことができます。",
-        "price": "¥1,950",
-        "originalPrice": "¥3,900",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1044720",
-        "date": "2026-04-23"
-      },
-      {
-        "title": "ペルソナ５ ザ・ロイヤル",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ペルソナ５ ザ・ロイヤルは、Steamで80％オフのセール中で、通常価格から大幅に値下げされています。このゲームは、ロールプレイゲームのジャンルに分類され、個性的なキャラクターと深いストーリーが特徴です。評価も非常に高く、世界中で多くのユーザーに支持されています。セール期間中は、通常価格より大幅に安く購入することができ、ファンや新規ユーザーにとっては絶好の機会です。",
-        "price": "¥1,535",
-        "originalPrice": "¥7,678",
-        "discount": "80% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1687950",
-        "date": "2026-04-23"
-      },
-      {
-        "title": "ペルソナ３ リロード",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ペルソナ３ リロードがSteamで60% OFFセール中です。このゲームは、ロールプレイングゲーム好きにお勧めの、人気の高いゲームです。ペルソナシリーズの特徴である、社交シミュレーション要素とダンジョン探索の融合が魅力的です。現在の価格は大幅に割引されており、元価格よりかなり安くなっています。ペルソナシリーズのファンや、新しくシリーズに興味がある方には、絶好のチャンスです。",
-        "price": "¥3,071",
-        "originalPrice": "¥7,678",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2161700",
-        "date": "2026-04-23"
-      },
-      {
-        "title": "Nocturnal",
-        "platform": "Various",
-        "type": "sale",
-        "description": "NocturnalがVariousで開催されているセールでは、100%割引が適用されており、完全無料でプレイすることができます。このゲームは、ユーザーから高い評価を得ており、人気度も高いので、試してみる価値があります。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/nocturnal--1/info/",
-        "date": "2026-04-23"
-      },
-      {
-        "title": "Sentience: The Android's Tale",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Sentience: The Android's Taleが86％オフでセール中です。このゲームはVariousジャンルに属し、特徴的なストーリーを楽しむことができます。非常に低価格で提供されており、多くのユーザーから高い評価を受けています。また、人気度も高く、多くの人がプレイしています。",
-        "price": "$0.69",
-        "originalPrice": "",
-        "discount": "-86%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/sentience-the-androids-tale/info/",
-        "date": "2026-04-23"
-      },
       {
         "title": "Aeonic",
         "platform": "Various",
@@ -631,45 +510,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【火山の脅威に立ち向かう非戦闘系アクションRPG「Into the Fire」のオープンプレイテ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "火山の脅威に立ち向かう非戦闘系アクションRPG「Into the Fire」のオープンプレイテストのレビュー記事では、ゲームの評価ポイントとして、緊張感のあるゲームプレイやリアルなグラフィックが高く評価されています。また、レビューの内容概要として、ゲームのストーリーや操作性について触れています。このレビュー記事は、アクションRPGが好きな人や新しいゲームを探している人にとって。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166349.html",
-        "date": "2026-04-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Crymelight は、アリスを追いかける白ウサギを地獄に送り、罪と向き合い、自由のために戦...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「Crymelight」の評価ポイントを紹介しています。ゲームの内容は、アリスを追いかける白ウサギを地獄に送り、罪と向き合い、自由のために戦うというユニークなストーリーです。レビューでは、ゲームのグラフィックやサウンドトラック、ゲームプレイの面白さなどが評価されています。ゲームファンやアクションアドベンチャーゲームを好む人向けのレビュー記事で。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/crymelight-is-a-hades-esque-roguelike-that-sends-the-white-rabbit-chasing-alice-to-hell-to-face-her-sins-and-fight-for-her-freedom",
-        "date": "2026-04-25",
-        "is_translated": true
-      },
-      {
-        "title": "【Crymelight は Hades 風のローグライクで、アリスを追いかける白ウサギを地獄に送...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Crymelightはローグライクゲームで、アリスを追いかける白ウサギが地獄に送られるというユニークな設定が特徴です。このゲームの評価ポイントとしては、快適な操作性、独創的なストーリー、そしてランダムな地形生成が挙げられます。レビューの内容概要としては、ゲームの難易度の高さやリプレイ性の高さが注目されています。このレビューは、ローグライクゲームやアクションゲームのファンに特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/crymelight-is-a-hades-esque-roguelike-that-sends-the-white-rabbit-chasing-alice-to-hell-to-face-her-sins-and-fight-for-her-freedom",
-        "date": "2026-04-25",
-        "is_translated": true
-      },
       {
         "title": "【『アークナイツ：エンドフィールド』で“鬼モテ主人公ライフ”を楽しむ。Key新作『anemoi』...：レビュー】",
         "platform": "AUTOMATON",
@@ -1150,8 +990,47 @@
         "url": "https://www.polygon.com/deep-water-review-renny-harlin-deep-blue-sea/",
         "date": "2026-04-29",
         "is_translated": true
+      },
+      {
+        "title": "【サンソフトの知る人ぞ知る迷路カーチェイス『ルート16』完全新作『ROUTE16R』発表、8月6...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ルート16Rはサンソフトの新作ゲームで、迷路カーチェイスの要素を取り入れた面白い作品です。このゲームの評価ポイントとしては、カーチェイスのスピード感や、迷路の複雑さが高く、プレイヤーに挑戦的な要素を提供しています。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックが高く評価されています。特に、カーチェイスのシーンでは、スピード感を強調したグラフィックが印象的です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260430-440572/",
+        "date": "2026-04-30",
+        "is_translated": false
+      },
+      {
+        "title": "【「American Truck Simulator」イリノイ州DLCの発売日が2026年5月1...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "アメリカン・トラック・シミュレーターでイリノイ州を舞台にしたDLCが2026年5月1日に発売されるというニュースを伝えるレビュー記事があります。この記事では、新しいDLCの特徴や追加要素について紹介し、ゲームの評価ポイントとしてグラフィックの向上や新しいミッションの追加などを取り上げています。また、トラックシミュレーションゲームのファンやアメリカン・トラック・シミュレーターのシリーズを愛する人に…",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166455.html",
+        "date": "2026-04-30",
+        "is_translated": false
+      },
+      {
+        "title": "【“Vampire Survivors”のローグライトカードバトルスピンオフ「Vampire C...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Vampire Survivorsのローグライトカードバトルスピンオフ「Vampire C...：レビュー」のレビュー記事では、ゲームの評価ポイントとして、独自のカードバトルシステムやローグライト要素の組み合わせが評価されています。レビューの内容概要としては、ゲームの難易度やリプレイ性、カードのバリエーションなどが取り上げられており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166451.html",
+        "date": "2026-04-29",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-29T21:59:47.621853"
+  "last_updated": "2026-04-30T02:48:15.788303"
 }
