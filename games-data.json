@@ -12,6 +12,30 @@
         "deadline": "2026年04月30日まで",
         "url": "https://store.epicgames.com/ja/p/ed9fee5cea29495394853e134f27a291",
         "date": "2026-04-30"
+      },
+      {
+        "title": "Firestone Online Idle RPG",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『Firestone: Online Idle RPG』は、放置系RPGのマルチプレイファンタジーゲームです。このゲームの特徴は、ヒーローを集めて強化し、放置バトルや連続クリッカーでボスを倒すことができる点です。また、ギルドフレンドとチャットしたり、PvP対戦を行うこともできます。さらに、遊び方はプレイヤー次第で自由度が高く、さまざまな戦略を試すことができます。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年05月07日まで",
+        "url": "https://store.epicgames.com/ja/p/1185abfe7c554a1e8c528aba37bf3d0f",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "Oddsparks: An Automation Adventure",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Epic Gamesでは、現在「Oddsparks: An Automation Adventure」というゲームが無料配布中です。このゲームは、シミュレーションとパズル要素を組み合わせたユニークな体験を提供する、ストラテジー系のゲームです。自動化システムを解明し、工場を最適化することが特徴です。工場の効率性を高めるために、様々な機械やシステムを組み合わせて自動化することも魅力的一个です。",
+        "price": "無料",
+        "originalPrice": "¥34",
+        "discount": "100% OFF",
+        "deadline": "2026年05月07日まで",
+        "url": "https://store.epicgames.com/ja/p/e16c97c0da0b4e5aa507e930befb1a25",
+        "date": "2026-04-30"
       }
     ],
     "bundle": [
@@ -579,6 +603,30 @@
         "discount": "-78%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/monster-hunter-world/info/",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "Devil May Cry 5 + Vergil",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲームの「Devil May Cry 5 + Vergil」が、現在86%の割引で販売中です。このシリーズは、高速なアクションと壮大なストーリーで人気を博しており、ファンから高い評価を得ています。価格も割引により大幅に下がっているため、シリーズのファンやアクションゲーム好きにはおすすめです。",
+        "price": "$4.05",
+        "originalPrice": "",
+        "discount": "-86%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/devil-may-cry-5-and-vergil/info/",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "No Man's SkyがVariousで60%割引されています。このゲームは、オープンワールドのサンドボックスゲームで、プレイヤーが宇宙を自由に探索することができます。評価は一般的に高く、人気のゲームです。現在、通常価格よりも60%割引されており、大きな値段割引のチャンスです。",
+        "price": "$23.95",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-04-30"
       }
     ],
@@ -1167,8 +1215,21 @@
         "url": "https://www.polygon.com/invincible-vs-review/",
         "date": "2026-04-30",
         "is_translated": true
+      },
+      {
+        "title": "【「WHAT THE CAR?」と「GOAT SIMULATOR+」の愉快なクロスオーバーコラボ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、「WHAT THE CAR?」と「GOAT SIMULATOR+」のクロスオーバーコラボを紹介しています。評価ポイントとしては、両ゲームのユーモアとオリジナリティが高く評価されています。また、レビューの内容としては、コラボレーションの意義と両ゲームの魅力が述べられています。対象読者は、両ゲームのファンやアクションゲームに興味がある人です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166483.html",
+        "date": "2026-04-30",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-04-30T14:12:32.421827"
+  "last_updated": "2026-04-30T21:56:36.209892"
 }
