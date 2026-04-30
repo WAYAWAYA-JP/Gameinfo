@@ -1,6 +1,19 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "DOOMBLADE",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "「ドゥーム アンド グロム」は、2D アクション メトロイドヴァニア ジャンルのゲームです。このゲームの特徴は、地下深くで鎖につながれていた知性を持つ兵器「ドゥームブレード」を発見し、それと力を合わせて強力な能力を解放することです。また、復讐の旅に乗り出し、強大な敵「ドレッド ロード」を倒すことができます。",
+        "price": "無料",
+        "originalPrice": "¥17",
+        "discount": "100% OFF",
+        "deadline": "2026年04月30日まで",
+        "url": "https://store.epicgames.com/ja/p/ed9fee5cea29495394853e134f27a291",
+        "date": "2026-04-30"
+      }
+    ],
     "bundle": [
       {
         "title": "Strategic Minds Collection",
@@ -169,6 +182,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/playismpublisherbundle2026_bundle",
         "date": "2026-04-29"
+      },
+      {
+        "title": "Humble 15 Golden Tales Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble 15 Golden Tales Bundleが販売中です。このバンドルには、The Whispered World、The Night of the Rabbit、Deponiaなどの主要タイトルが含まれています。ジャンルはアドベンチャーゲームであり、大まかな価格帯は500円から1000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/15goldentalesbundle_bundle",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "Tower Defense 2",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Tower Defense 2などのタイトルを含むバンドルが販売中です。このバンドルには、主にストラテジーゲームが収録されており、Tower Defense 2の他にも、Kingdom Rush FrontiersやDefender's Questなどの人気タイトルが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/towerdefense2_bundle",
+        "date": "2026-04-30"
       }
     ],
     "sale": [
@@ -507,6 +544,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/silent-hill-f/info/",
         "date": "2026-04-29"
+      },
+      {
+        "title": "ペルソナ５ ザ・ロイヤル",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ５ ザ・ロイヤルは、Steamで現在80%オフのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、深いストーリーと魅力的なキャラクターで知られています。評価も非常に高く、人気度も高いゲームです。通常価格よりも大幅に安くなっているので、購入するのが良いタイミングです。",
+        "price": "¥1,535",
+        "originalPrice": "¥7,678",
+        "discount": "80% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1687950",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "Dragon's Dogma: Dark Arisen",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Dragon's Dogma: Dark Arisenは、オープンワールドアクションRPGのゲームで、プレイヤーがドラゴンやその他のモンスターと戦いながら、広大な世界を探索できます。このゲームは、高い自由度と独自の戦闘システムが特徴です。現在、87%の割引で販売中で、非常に魅力的な価格になっています。ユーザーの評価も非常に高く、人気のゲームです。",
+        "price": "$4.00",
+        "originalPrice": "",
+        "discount": "-87%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dragons-dogma-dark-arisen/info/",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "Monster Hunter: World",
+        "platform": "Various",
+        "type": "sale",
+        "description": "モンハンシリーズの最新作『Monster Hunter: World』が、現在78%オフでセール中です。このゲームは、アクションパックされたオープンワールドのハンティングゲームで、素晴らしいグラフィックと豊富なコンテンツが特徴です。ゲームの評価は非常に高く、多くのプレイヤーから人気を博しています。通常価格より大幅に安くなっているので、ハンティングゲームファンにはお勧めのセールです。",
+        "price": "$6.59",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/monster-hunter-world/info/",
+        "date": "2026-04-30"
       }
     ],
     "review": [
@@ -1029,8 +1102,60 @@
         "url": "https://doope.jp/2026/04166451.html",
         "date": "2026-04-29",
         "is_translated": false
+      },
+      {
+        "title": "【自由すぎる娘育成ゲーム『まじかる☆プリンセス』すぐさま“同接1万人超え”の人気白熱中。アイドル...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "まじかる☆プリンセスは、自由な娘育成が楽しめるゲームで、人気を博しています。このゲームの評価ポイントとしては、自由な育成システムや多彩なキャラクターが挙げられます。レビューでは、プレイヤーは娘を自由に育成することができ、独自のストーリーを楽しむことができる点が高く評価されています。また、アイドル活動やキャラクターの成長システムも人気の要因となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260430-440634/",
+        "date": "2026-04-30",
+        "is_translated": false
+      },
+      {
+        "title": "【PS5新作ローグライトシューター『SAROS（サロス）』、“今年トップクラス”のメタスコア＆高...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "PS5の新作ゲーム「SAROS（サロス）」はローグライトシューターで、高い評価を受けています。このゲームの評価ポイントとしては、ゲームのシステムやグラフィックの高さが挙げられます。レビューでは、ゲームの面白さや難易度の適切さが高く評価されています。また、ゲームの長さやリピートプレイの価値も高まっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260430-440613/",
+        "date": "2026-04-30",
+        "is_translated": false
+      },
+      {
+        "title": "【「EA Sports FC 26」や「明末:ウツロノハネ」を含む2026年5月分のPS Plu...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "2026年5月分のPS Plus月間フリーゲームのレビュー記事を紹介します。この記事では、人気ゲーム「EA Sports FC 26」や「明末:ウツロノハネ」などの評価ポイントを掲載しています。ゲームのグラフィックやプレイアビリティ、ストーリーの面白さなどについて詳細にレビューされています。PS Plusのユーザーやゲームファンにとって、月間フリーゲームの選定に役立つ情報が得られるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/04166471.html",
+        "date": "2026-04-30",
+        "is_translated": false
+      },
+      {
+        "title": "【『フォールアウト』の足跡をたどって、イギリスの黙示録的サバイバルの旅『アトムフォール』もテレビ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、イギリスのポストアポカリプスの世界を舞台にしたサバイバルゲーム『アトムフォール』の魅力を紹介しています。ゲームの評価ポイントとしては、緊迫したサバイバル要素や独自のゲームシステムが挙げられます。また、レビューでは、ゲームの世界観やキャラクターの深みも高く評価されています。対象読者は、このようなサバイバルゲームやポストアポカリプスの世界観に興味がある方に向けられており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/following-in-fallouts-irradiated-footsteps-british-post-apocalyptic-survival-jaunt-atomfalls-now-getting-a-tv-show-too",
+        "date": "2026-04-30",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-30T02:48:15.788303"
+  "last_updated": "2026-04-30T10:54:55.031887"
 }
