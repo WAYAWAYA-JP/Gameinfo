@@ -520,6 +520,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-04-30"
+      },
+      {
+        "title": "Okami HD",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Okami HDがVariousで57%オフのセール中です。このアクションアドベンチャーゲームは、美しい日本風のグラフィックと独特のゲームプレイが特徴で、ファンから高い評価を得ています。普段の価格よりも大幅に安くなっているので、ゲームファンにはおすすめです。",
+        "price": "$8.50",
+        "originalPrice": "",
+        "discount": "-57%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/okami-hd/info/",
+        "date": "2026-05-01"
       }
     ],
     "review": [
@@ -1133,8 +1145,47 @@
         "url": "https://automaton-media.com/articles/newsjp/20260501-440831/",
         "date": "2026-05-01",
         "is_translated": false
+      },
+      {
+        "title": "【Steam最大50人プレイ物理演算雪遊びゲーム『Sledding Game』さっそく大好評でブ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで配信されている最大50人プレイ可能な物理演算雪遊びゲーム『Sledding Game』が大好評を博しています。このゲームは、ユーザーたちから高い評価を受けており、レビューの内容としては、複数人でのプレイが楽しめること、リアルな物理演算が特徴であること、そして簡単ながらも面白いゲーム性が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260501-440917/",
+        "date": "2026-05-01",
+        "is_translated": false
+      },
+      {
+        "title": "【GameSir G7 Pro 8K Aimlabs Edition レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "GameSir G7 Pro 8K Aimlabs Edition レビューでは、ゲーミングコントローラーの操作性や性能、デザインなどが評価されています。このレビューの内容概要としては、コントローラーの感度やレスポンスの速さ、さらにカスタマイズ性が高く使いやすい点が強みとして挙げられています。また、ゲーミングコントローラーに特化したAimlabs Editionの特徴も紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/controllers/gamesir-g7-pro-8k-aimlabs-edition-review/",
+        "date": "2026-05-01",
+        "is_translated": true
+      },
+      {
+        "title": "【Alienware AW2726DM レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Alienware AW2726DM レビューは、ゲーミングディスプレイの評価ポイントを中心に構成されています。このレビュー記事では、ディスプレイの性能、画質、応答速度などの要素を詳しく紹介しています。また、ゲーミングディスプレイとしての利点や欠点も明らかにされており、購入を検討しているゲーマーにとっては参考になる情報が盛り込まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw2726dm-review/",
+        "date": "2026-05-01",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-01T10:22:37.210918"
+  "last_updated": "2026-05-01T13:42:07.933645"
 }
