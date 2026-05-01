@@ -206,6 +206,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/towerdefense2_bundle",
         "date": "2026-04-30"
+      },
+      {
+        "title": "Mexican Entertainment System Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble BundleでMexican Entertainment System Bundleが販売中です。このバンドルには、主要タイトルとして「Guacamelee!」や「Gone Home」、「Abzu」などが含まれており、インディーゲームを中心としたバンドルです。ジャンルはアクションゲームやアドベンチャーゲームが多く含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/mexicanentertainmentsystembundle_bundle",
+        "date": "2026-05-01"
       }
     ],
     "sale": [
@@ -1184,8 +1196,60 @@
         "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw2726dm-review/",
         "date": "2026-05-01",
         "is_translated": true
+      },
+      {
+        "title": "【Co-opカウボーイFPS「Far Far West」の販売が発売から2日で25万本販売を達成：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Co-opカウボーイFPSの「Far Far West」のレビュー記事では、このゲームが発売から2日で25万本の販売を達成したことを紹介しています。評価ポイントとして、ユニークな西部開拓時代を舞台にしたゲーム世界、協力プレイが楽しめるゲーム性、そしてグラフィックの高さがあげられます。レビューの内容概要としては、ゲームの雰囲気やサウンドトラックの素晴らしさなどが取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166533.html",
+        "date": "2026-05-01",
+        "is_translated": false
+      },
+      {
+        "title": "【HoMMシリーズ最新作「Heroes of Might & Magic: Olden Era」...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Heroes of Might & Magic: Olden Era」は、人気のHoMMシリーズの最新作です。このゲームは、ストーリー、ゲームプレイ、グラフィックスの面で高評価を受けています。レビューでは、ゲームの魅力的なキャラクター、幅広い戦略的選択肢、美しいグラフィックスが称賛されています。また、シリーズのファンにはもちろん、新規プレイヤーにもお勧めできる作品です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166529.html",
+        "date": "2026-05-01",
+        "is_translated": false
+      },
+      {
+        "title": "【オブシディアンはアウター・ワールドのオリジナル版をリストから外し、より洒落た（しかし高価な）ス...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、ゲームの評価ポイントを明確に示し、オブシディアンのアウター・ワールドのオリジナル版をリストから外したことについて触れています。また、ゲームのレビュー内容概要として、グラフィックの向上や新しい機能の追加などが述べられています。さらに、対象読者として、ゲームファンやアウター・ワールドシリーズの愛好者が想定されており、ゲームの評価やレビューの内容を詳細に知りたい方に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/obsidian-are-delisting-the-original-version-of-the-outer-worlds-in-favour-of-the-swankier-but-pricier-spacers-choice-edition-and-lobbing-some-grenades-at-you-too",
+        "date": "2026-05-01",
+        "is_translated": true
+      },
+      {
+        "title": "【マジック：ザ・ギャザリングの『ホビット』セットは、中つ国の物語カード 5 枚を再録します。：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "マジック：ザ・ギャザリングの『ホビット』セットは、中つ国の物語カード5枚を再録しており、ゲームファンには大きな魅力となります。このセットの評価ポイントとしては、カードのデザインやゲームプレイのバランスが挙げられます。さらに、セット内のカードの組み合わせや戦略の深さも評価される要素です。このレビューは、マジック：ザ・ギャザリングのファンやトレーディングカードゲームに興味がある人にとって参考になる内…",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/magic-the-gathering-mtg-hobbit-tales-of-middle-earth-reprints/",
+        "date": "2026-05-01",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-01T13:42:07.933645"
+  "last_updated": "2026-05-01T21:53:47.782534"
 }
