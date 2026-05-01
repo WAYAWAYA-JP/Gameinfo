@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Strategic Minds Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Strategic Minds Collectionのバンドルが販売中です。このバンドルには、主に戦略シミュレーションゲームが含まれており、Hard West、Phoenix Point、They Are Billionsなどの人気タイトルが収録されています。戦略ゲームファン向けのこのバンドルは、大まかに1000円から2000円程度の価格帯で提供されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/strategicmindscollection_bundle",
-        "date": "2026-04-21"
-      },
-      {
-        "title": "Best of Humble: Fight 4 Your Friends",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Best of Humble: Fight 4 Your Friendsというバンドルが販売中です。このバンドルには、主要タイトルとして「Overcooked 2」や「Gang Beasts」、「For the King」などのタイトルが含まれています。ジャンルはアクションやアドベンチャー、ロールプレイングゲームなど多様です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/bohfight4yourfriendsupdate_bundle",
-        "date": "2026-04-21"
-      },
-      {
         "title": "Pixel Traditions Bundle 2",
         "platform": "IndieGala",
         "type": "bundle",
@@ -233,90 +209,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Aeonic",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Aeonicは、Variousで100%割引のセール中です。このゲームは、ユニークなゲームプレイとグラフィックが特徴で、ファンタジーとアドベンチャーを融合させた独自のジャンルに属しています。セール中の価格は、通常価格の0%となり、完全に無料でプレイすることができます。ユーザーの評価は非常に高く、人気度も高いゲームです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/aeonic/info/",
-        "date": "2026-04-24"
-      },
-      {
-        "title": "DOOMBLADE",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲームの『DOOMBLADE』が、現在「Various」で100%オフのセール中です。このゲームは、高速なアクションと激しい戦闘が特徴で、ファンからは高く評価されています。通常価格より大幅に安くなっているので、興味のある方はこの機会にぜひお試しください。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/doomblade/info/",
-        "date": "2026-04-24"
-      },
-      {
-        "title": "V Rising",
-        "platform": "Various",
-        "type": "sale",
-        "description": "V Risingは、オープンワールドのサバイバルアクションゲームで、プレイヤーがヴァンパイアとなって生き残ることを目指します。このゲームは、-darkな雰囲気と独特のゲームプレイで人気を博しています。現在、Variousで77%の割引セール中で、通常価格より大幅に安くなっています。高い評価と人気度を誇るこのゲームは、ファンから高い支持を受けています。",
-        "price": "$7.90",
-        "originalPrice": "",
-        "discount": "-77%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/v-rising/info/",
-        "date": "2026-04-24"
-      },
-      {
-        "title": "Metaphor: ReFantazio",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Metaphor: ReFantazioは、ファンタジー要素を含むアドベンチャーゲームで、現在Variousで55%割引のセール中です。このゲームは、独特の世界観と深いストーリーが特徴で、プレイヤーから高い評価を受けています。人気度も高く、ファンタジー系ゲームファンにはお勧めです。",
-        "price": "$31.45",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
-        "date": "2026-04-24"
-      },
-      {
-        "title": "Detroit: Become Human",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Detroit: Become HumanがVariousで83%オフのセール中です。このゲームはアドベンチャー系のアクションゲームで、人工知能が人間と同等の知能を持った世界を描いています。評価も高く、多くのユーザーから人気があります。通常の価格よりも大幅に安くなっているので、興味がある方はお見逃しなくしてください。",
-        "price": "$6.79",
-        "originalPrice": "",
-        "discount": "-83%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
-        "date": "2026-04-24"
-      },
-      {
-        "title": "Persona 5 Royal",
-        "platform": "Various",
-        "type": "sale",
-        "description": "人気のRPGゲームであるPersona 5 Royalが、現在Variousで82%の割引セール中です。このゲームは、独特の社会シミュレーションと深いストーリーが特徴で、プレイヤーは Phantom Thiefとなり、社会の不正を正すために戦います。高い評価と人気度を誇るこのゲームを、格安の価格で体験できるのはこのセール中のみですので、注目してみてください。",
-        "price": "$10.76",
-        "originalPrice": "",
-        "discount": "-82%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/persona-5-royal/info/",
-        "date": "2026-04-24"
-      },
-      {
-        "title": "CRIMSON DESERT",
-        "platform": "Various",
-        "type": "sale",
-        "description": "CRIMSON DESERTは、オープンワールドのアクションアドベンチャーゲームで、美しく繊細なグラフィックと壮大なストーリーが特徴です。現在、Variousで15%オフのセール中で、ファン待望のチャンスです。このゲームは、ユーザーの評価が非常に高く、人気度も高いと言えます。",
-        "price": "$59.19",
-        "originalPrice": "",
-        "discount": "-15%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/crimson-desert/info/",
-        "date": "2026-04-24"
-      },
       {
         "title": "Clair Obscur: Expedition 33",
         "platform": "Various",
@@ -632,71 +524,6 @@
     ],
     "review": [
       {
-        "title": "【『アークナイツ：エンドフィールド』で“鬼モテ主人公ライフ”を楽しむ。Key新作『anemoi』...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム『アークナイツ：エンドフィールド』と『anemoi』の魅力を紹介しています。評価ポイントとしては、ゲームの世界観やキャラクター造形が評価されています。また、レビューの内容概要として、ゲームのストーリーやシステムの面白さが取り上げられています。この記事は、ゲーム好きの方や新しいゲームを探している方に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260426-439940/",
-        "date": "2026-04-26",
-        "is_translated": false
-      },
-      {
-        "title": "【不穏メルヘン探索アドベンチャー『アリスインワンダーアンダーランド』は、“かつてのインターネット...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "不穏で幻想的な世界を舞台にしたアドベンチャーゲーム『アリスインワンダーアンダーランド』のレビュー記事では、ゲームの独自の世界観やストーリー、そしてキャラクターの魅力が評価されています。このゲームは、不穏メルヘンをテーマにした探索アドベンチャーであり、プレイヤーはアリスに扮して、不思議な世界を冒険します。特に、ゲームのストーリーが深く、キャラクターの個性が強いことが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/aiwu-20260426-439548/",
-        "date": "2026-04-26",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料「街」オープンワールド『NTE』の街には「謎の作り込み」がめちゃくちゃある。ほぼ現実】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料のオープンワールドゲーム「NTE」のレビュー記事では、ゲーム内の街が非常にリアルで、細かい作り込みが豊富であることが評価されています。ゲーム内の世界はほぼ現実を模して作られており、プレイヤーは自由に街を探索できることで高く評価されています。このレビュー記事は、オープンワールドゲームファンやリアルなゲーム世界を求めるプレイヤーに贅沢な情報を提供します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260426-439833/",
-        "date": "2026-04-26",
-        "is_translated": false
-      },
-      {
-        "title": "【『サカつく2026』イングランドリーグはプレイ200時間でも心が折れそうになる“地獄”級の強さ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『サカつく2026』のイングランドリーグは、プレイヤーに非常に高い難易度を要求するため、200時間プレイしても精神的に追い込まれることが予想されます。このゲームの評価ポイントとしては、レベルの高さやゲームシステムの複雑さ、そして長時間のプレイにもかかわらず新しい発見があることが挙げられます。レビューでは、ゲームの難易度やシナリオの多様性、グラフィックの 퀄리ティについて触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260426-439868/",
-        "date": "2026-04-26",
-        "is_translated": false
-      },
-      {
-        "title": "【トランプ大統領銃撃容疑者のSteamゲームにレビュー爆弾、アクティビティ急増】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "この記事は、トランプ大統領銃撃容疑者のSteamゲームにレビューが大量に投稿されたことを取り上げています。記事では、この突然のレビューの増加が何を意味するのかを分析し、ゲームの評価ポイントとして容疑者の行動がゲームコミュニティに与えた影響を調査しています。さらに、記事はこの事件の背景と、ゲームレビューが社会問題にどのように関係しているかを説明しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/trump-shooting-suspects-steam-game-sees-review-bomb-spike-in-activity/",
-        "date": "2026-04-26",
-        "is_translated": true
-      },
-      {
         "title": "【“Spiritfall”を手掛けたGentle Giantの新作2Dメトロイドヴァニア「MON...：レビュー】",
         "platform": "doope!",
         "type": "review",
@@ -720,32 +547,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/04166321.html",
         "date": "2026-04-27",
-        "is_translated": false
-      },
-      {
-        "title": "【「American Truck Simulator」のイリノイ州DLCを紹介する本格的なゲーム...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "アメリカのトラック運転シミュレーションゲーム「American Truck Simulator」のイリノイ州DLCのレビュー記事を紹介します。このゲームは、プレイヤーがアメリカのトラック運転士として、様々な荷物を運びながらアメリカ横断の旅を楽しむことができます。ゲームの評価ポイントとしては、リアルなグラフィックや、トラックの操作感が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166319.html",
-        "date": "2026-04-26",
-        "is_translated": false
-      },
-      {
-        "title": "【昆虫型エイリアンの群れと戦う見下ろし型Co-opシューター「DarkSwarm」のゲームプレイ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「DarkSwarm」は、見下ろし型のCo-opシューターであり、プレイヤーは昆虫型エイリアンの群れと戦うことができます。このゲームの評価ポイントとしては、協力プレイの面白さやグラフィックのクオリティが高く、エイリアンのデザインが特徴的であることが挙げられます。レビューの内容概要としては、ゲームの難易度や操作性について触れており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166320.html",
-        "date": "2026-04-26",
         "is_translated": false
       },
       {
@@ -1228,8 +1029,60 @@
         "url": "https://doope.jp/2026/04166483.html",
         "date": "2026-04-30",
         "is_translated": false
+      },
+      {
+        "title": "【海洋惑星オープンワールドサバイバル『サブノーティカ2』、5月15日より早期アクセス配信へ。シリ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "サブノーティカ2は、オープンワールドサバイバルゲームであり、海洋惑星を舞台にプレイヤーがさまざまな生物との遭遇や資源の収集を行います。ゲームの評価ポイントとして、広大な海洋の探索の自由度や、生物との遭遇によるサスペンスが挙げられます。レビューの内容概要としては、ゲームのグラフィックの美しさや、サバイバル要素の充実度が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/subnautica-2-20260501-440747/",
+        "date": "2026-04-30",
+        "is_translated": false
+      },
+      {
+        "title": "【“Mass Effect”系アクションRPG「EXODUS」のダイアログと会話シーンを紹介する...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「EXODUS」というゲームは、アクションRPGの要素を備えた面白いゲームです。このゲームの評価ポイントとしては、ダイナミックな戦闘システムや豊富なキャラクターのカスタマイズが挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの質の高さ、そしてストーリーがDEPTHがあり面白いという点が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166477.html",
+        "date": "2026-05-01",
+        "is_translated": false
+      },
+      {
+        "title": "【中世の領主の戦いを描くRTS「Diplomacy is Not an Option」のプレイヤ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "中世の領主の戦いを描くリアルタイムストラテジー（RTS）ゲーム「Diplomacy is Not an Option」のレビュー記事では、ゲームの評価ポイントとして、戦略的深度とグラフィックの美しさが高く評価されています。また、レビューの内容概要として、ゲームの難易度とストーリーの魅力が紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166498.html",
+        "date": "2026-04-30",
+        "is_translated": false
+      },
+      {
+        "title": "【ヴァンパイア: マスカレードは、ベルリンを舞台としたビジュアル ノベル RPG、Oaths a...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "ヴァンパイア：マスカレードは、ベルリンを舞台としたビジュアルノベルRPGで、ユーザーの選択によってストーリーが変化し、独特のゲーム性が楽しめます。このゲームの評価ポイントは、豊富なキャラクター設定や、複雑なストーリー展開、そしてユーザーの選択肢によって変化するエンディングなどがあります。レビューでは、ゲームの雰囲気やグラフィックの質も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/vampire-the-masquerade-finds-new-undead-life-in-oaths-and-ashes-a-visual-novel-rpg-set-in-berlin",
+        "date": "2026-04-30",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-04-30T21:56:36.209892"
+  "last_updated": "2026-05-01T02:54:46.952040"
 }
