@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Pixel Traditions Bundle 2",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Pixel Traditions Bundle 2のバンドルがIndieGalaで販売中です。このバンドルには、A Short HikeやTo The Moonなどの人気タイトルが含まれています。ジャンルはアクションアドベンチャーやロールプレイングゲームなど多様なものが含まれており、大体10ドルから20ドル程度の価格帯で購入することができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/pixel-traditions2-bundle",
-        "date": "2026-04-22"
-      },
-      {
-        "title": "Your Move: Turn Based Games",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、ターン制ストラテジーゲームを集めた「Your Move: Turn Based Games」というバンドルが販売中です。このバンドルには、「XCOM 2」や「Phoenix Point」、「Wargroove」などの人気タイトルが含まれています。ストラテジーゲームファンにとって魅力的な内容のようです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/yourmoveturnbasedgames_bundle",
-        "date": "2026-04-22"
-      },
-      {
         "title": "Train Sim World 6: First Class Ticket Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -221,42 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33は、Variousで29%割引のセール中です。このゲームは、ユニークなグラフィックと面白いゲームプレイが特徴で、ファンから高い評価を受けています。多くのユーザーから好意的なレビューを得ており、人気度も高いゲームです。",
-        "price": "$35.49",
-        "originalPrice": "",
-        "discount": "-29%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-04-25"
-      },
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "StrayがVariousで21%割引のセール中です。このゲームはアクションアドベンチャーに分類され、猫の視点から街を探索するユニークな体験を提供します。評価は非常に高く、人気度も高いゲームです。価格は割引前に比べて21%安くなっています。",
-        "price": "$23.69",
-        "originalPrice": "",
-        "discount": "-21%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-04-25"
-      },
-      {
-        "title": "8AM",
-        "platform": "Various",
-        "type": "sale",
-        "description": "8AMは、バラエティ豊かなゲームで、現在100%割引されています。非常に高い評価と人気度を誇るこのゲームは、ファンから高い支持を受けており、セール期間中は大幅な割引価格で購入できます。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/8am/info/",
-        "date": "2026-04-25"
-      },
       {
         "title": "DAVE THE DIVER",
         "platform": "Various",
@@ -544,139 +484,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/okami-hd/info/",
         "date": "2026-05-01"
+      },
+      {
+        "title": "Dragon's Dogma 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションRPGであるDragon's Dogma 2が現在、Variousで65%オフのセール中です。このゲームは、オープンワールドを舞台にプレイヤーが自由に冒険することができ、独自の戦闘システムと豊富なストーリーが特徴です。多くのユーザーから高評価を得ており、人気度も非常に高いゲームです。セール中の価格では、大幅に安くなっているため、ゲームファンには見逃せないチャンスです。",
+        "price": "$24.40",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
+        "date": "2026-05-02"
       }
     ],
     "review": [
-      {
-        "title": "【“Spiritfall”を手掛けたGentle Giantの新作2Dメトロイドヴァニア「MON...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Gentle Giantの新作ゲーム「MON...」は、2Dメトロイドヴァニアジャンルの作品です。このゲームは、探索と戦闘を重視しており、プレイヤーは複雑なステージを進んでいく必要があります。ゲームの評価ポイントとしては、グラフィックの美しさや、バランスの取れた難易度が挙げられます。レビューの内容概要としては、ゲームのストーリーや操作感、音楽の評価などが含まれます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166374.html",
-        "date": "2026-04-27",
-        "is_translated": false
-      },
-      {
-        "title": "【知性を持つ実験動物たちの脱出劇を描く南アフリカ製Sci-Fiサバイバルホラー「ANIMAL U...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "南アフリカ製のSci-Fiサバイバルホラー「ANIMAL U...：レビュー」は、知性を持つ実験動物たちの脱出劇を描くユニークなゲームです。このゲームの評価ポイントとしては、独自のストーリー展開や、ホラー要素のあるサバイバル要素が含まれています。レビューの内容概要としては、ゲームの雰囲気やグラフィックの質、そしてプレイヤーの感情を揺さぶるストーリーの描写が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166321.html",
-        "date": "2026-04-27",
-        "is_translated": false
-      },
-      {
-        "title": "【高評価“YES禁止ゲーム”収録『ショートショートフィクションズ』体験版配信開始。「○○できない...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「ショートショートフィクションズ」の体験版が配信開始されました。このゲームは、ユニークなゲームプレイで高評価を獲得しており、プレイヤーは「○○できない...」と感じるほどの新鮮な体験ができます。レビューでは、独創的なゲームデザイン、物語の深み、そしてユーザーインターフェイスの使い勝手の良さが評価されています。このゲームは、インディーゲームファンや新しいゲーム体験を求めるユーザーに特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260427-440040/",
-        "date": "2026-04-27",
-        "is_translated": false
-      },
-      {
-        "title": "【Cyber​​power のこの Ryzen Z2 Extreme 搭載 MSI Claw A...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、Cyberpower のRyzen Z2 Extreme 搭載のMSI Claw Aについて評価しています。評価ポイントとしては、高性能のプロセッサとグラフィックカードの組み合わせによるスムーズなゲーム性能、優れたクーリングシステムによる低騒音性、そして高品質のケースデザインが取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/you-can-save-100-on-this-ryzen-z2-extreme-powered-msi-claw-a8-handheld-from-cyberpower",
-        "date": "2026-04-27",
-        "is_translated": true
-      },
-      {
-        "title": "【「ディアブロ IV: 憎悪の帝王」レビュー、3年の歳月を経て迎える“憎悪の時代”サーガの決定的...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「ディアブロ IV: 憎悪の帝王」は、3年の歳月を経てようやく登場した「憎悪の時代」サーガの最終章です。このゲームの評価ポイントとしては、ダークファンタジーの世界観や、キャラクターの深み、ストーリーの複雑さなどが挙げられます。また、レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの高品質さ、戦闘システムの爽快さなどが特筆されます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166310.html",
-        "date": "2026-04-27",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料「3～5分で決着」ストリートバスケゲーム『NBAダンクシティ』はさくっと遊べるけ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料のストリートバスケゲーム『NBAダンクシティ』は、3〜5分でゲームが決着するため、さくっと遊ぶことができます。このゲームは、簡単な操作でプレイヤーが楽しむことができ、対戦モードも充実しています。 REVIEWでは、ゲームの簡単さ、対戦モードの充実度、グラフィックの美しさなどが評価ポイントとなっています。このゲームは、バスケットボールファンや簡単に遊びたい人に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260427-440111/",
-        "date": "2026-04-27",
-        "is_translated": false
-      },
-      {
-        "title": "【NetEase新作のバスケゲーム『NBAダンクシティ』を先行体験！ワンタッチで簡単なのに戦略の...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "NetEaseの新作バスケゲーム『NBAダンクシティ』のレビュー記事では、ゲームの評価ポイントとして、シンプルながら戦略性の高いゲーム性や、ワンタッチ操作の簡単さが紹介されています。また、レビューの内容概要として、ゲームのグラフィックやサウンドの高さ、そして多様なゲームモードが提供されている点が挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/04/28/180590.html",
-        "date": "2026-04-27",
-        "is_translated": false
-      },
-      {
-        "title": "【トランプ銃撃犯とされるゲーム、ミームレビューの殺到を受けてSteamでの販売を中止】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事は、Steamでの販売が中止されたゲームについて扱っています。評価ポイントとしては、ゲームの暴力的な内容や社会的な影響が含まれます。記事では、ゲームに対する批判的な意見や、ゲームがミームレビューの標的になった理由などが取り上げられています。特に、ゲームの暴力的な描写や、その社会的な影響について議論されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/suspected-trump-shooters-game-pulled-from-sale-on-steam-after-flood-of-meme-reviews/",
-        "date": "2026-04-27",
-        "is_translated": true
-      },
-      {
-        "title": "【ValveはSteamコントローラーの価格と発売日を確認したが、SteamマシンのRAM価格は...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Steamコントローラーの価格と発売日が決定したことを受けて、レビュー記事ではその内容を紹介しています。この記事では、Steamコントローラーの評価ポイントとして、操作性とデザインの評価、ゲームとの相性、価格の妥当性について言及しています。また、SteamマシンのRAM価格についても触れています。ゲーム愛好家やSteamユーザーが参考にできる内容で、最新の情報を知りたい方にお勧めです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/valve-have-confirmed-the-steam-controller-price-and-release-date-though-the-steam-machine-is-still-in-ram-price-purgatory",
-        "date": "2026-04-27",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam コントローラーのレビュー: Steam マシンの仲間がいなくても、これは PC を...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Steam コントローラーのレビュー記事では、ゲームプレイの体験を高めるこのコントローラーの評価ポイントを紹介しています。具体的には、操作の快適さやカスタマイズ性が高く、PC ゲームをより楽しむことができる点が評価されています。また、Steam マシンと組み合わせることなくも使える利便性も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/steam-controller-review-2026",
-        "date": "2026-04-27",
-        "is_translated": true
-      },
       {
         "title": "【返還前の香港が舞台となるボディカムFPS「Better Than Dead」の発売日が2026...：レビュー】",
         "platform": "doope!",
@@ -1248,8 +1070,47 @@
         "url": "https://www.polygon.com/magic-the-gathering-mtg-hobbit-tales-of-middle-earth-reprints/",
         "date": "2026-05-01",
         "is_translated": true
+      },
+      {
+        "title": "【『ヘルダイバー2』新アプデ後に不評レビュー「3000件超え」、公式はすぐさまバランス再調整を発...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ヘルダイバー2の新しいアップデート後に大量の不評レビューが寄せられました。3000件を超えるレビューが寄せられ、その多くはゲームのバランス調整に問題があると指摘しています。公式はすぐさまこの問題に対処し、バランス再調整を発表しました。このような事例はゲーム開発におけるバランス調整の重要性を示しています。ゲーム愛好家やヘルダイバー2のファンは、このようなアップデートの影響を注目しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260501-440937/",
+        "date": "2026-05-02",
+        "is_translated": false
+      },
+      {
+        "title": "【絵の具と筆をテーマにしたメトロイドヴァニア系2Dアクションアドベンチャー「CONSTANCE」...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "CONSTANCEは、絵の具と筆をテーマにしたメトロイドヴァニア系2Dアクションアドベンチャーゲームです。このゲームは、ユニークなグラフィックと面白いゲームプレイが特徴です。レビューでは、ゲームの評価ポイントとしてグラフィックの美しさ、ゲームプレイの奥深さ、そしてストーリーの引き込みやすさが挙げられています。特に、ゲームの中での絵の具の使用や、筆の操作が独特で楽しいと評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166545.html",
+        "date": "2026-05-02",
+        "is_translated": false
+      },
+      {
+        "title": "【火山の脅威に立ち向かう非戦闘系アクションRPG「Into the Fire」のパブリックプレイ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Into the Fireは、非戦闘系アドベンチャーゲームであり、火山の脅威に立ち向かう様子が描かれています。このゲームの評価ポイントとしては、美しいグラフィックや、緊張感のあるゲームプレイがあげられます。また、レビューの内容概要としては、ゲームの世界観や、プレイヤーの選択によってストーリーが変化する点が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166537.html",
+        "date": "2026-05-02",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-01T21:53:47.782534"
+  "last_updated": "2026-05-02T02:36:18.723705"
 }
