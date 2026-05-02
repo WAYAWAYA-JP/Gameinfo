@@ -194,6 +194,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/mexicanentertainmentsystembundle_bundle",
         "date": "2026-05-01"
+      },
+      {
+        "title": "Your Move: Turn Based Games",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、ターン制ストラテジーゲームのバンドル「Your Move: Turn Based Games」が販売中です。このバンドルには、主要タイトルとして「XCOM 2」、「Wasteland 2」、「Hard West」などが含まれています。ジャンルはストラテジー、RPGで、大まかな価格帯は数千円から1万円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/yourmoveturnbasedgames_bundle",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "Pixel Traditions Bundle 2",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Pixel Traditions Bundle 2がIndieGalaで販売中です。このバンドルには、A Short Hike、Moonlighter、Foragerなどのタイトルが含まれています。ジャンルはインディーゲームで、価格帯は大体1,000円から2,000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/pixel-traditions2-bundle",
+        "date": "2026-05-02"
       }
     ],
     "sale": [
@@ -495,6 +519,18 @@
         "discount": "-65%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "XCOM 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "XCOM 2がVariousで87%の割引を受けてセール中です。このタクティカルシミュレーションゲームは、地球外生命体との戦いを描き、戦略的な戦闘とチーム管理が特徴です。評価も高く、ユーザーから非常に高い人気度を獲得しています。価格も大幅に下がっているので、興味がある方はチェックしてみてください。",
+        "price": "$2.64",
+        "originalPrice": "",
+        "discount": "-87%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/xcom-2/info/",
         "date": "2026-05-02"
       }
     ],
@@ -1109,8 +1145,47 @@
         "url": "https://doope.jp/2026/05166537.html",
         "date": "2026-05-02",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料“街”オープンワールド『NTE』にて“犯罪すれすれ行為”や“アクロバティック脱獄...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、基本プレイ無料のオープンワールドゲーム「NTE」について評価しています。ゲームの自由度、グラフィック、ストーリーの面白さを評価ポイントとしており、特に「犯罪すれすれ行為」や「アクロバティック脱獄」などのミッションが楽しめる点を高く評価しています。このレビュー記事は、オープンワールドゲームやアクションゲームが好きな人に向けて書かれており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/nte-20260502-441017/",
+        "date": "2026-05-02",
+        "is_translated": false
+      },
+      {
+        "title": "【米国ゲーマーの約4割が、「独占タイトルがあるから」コンソールでゲームを遊ぶと回答。割合は減少傾...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、米国ゲーマーの約4割が「独占タイトルがあるから」コンソールでゲームを遊ぶと回答したことを紹介しています。記事では、独占タイトルがコンソール選択の重要な要素であることを示しています。また、記事はゲーマーにとって重要な情報を提供しており、特にゲーム機の購入を検討している人や新しいゲームのリリースを待っている人にとって参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260502-441000/",
+        "date": "2026-05-02",
+        "is_translated": false
+      },
+      {
+        "title": "【ドック/外部モニタ接続時の挙動を大幅に改善する「ROG Xbox Ally」のアップデートが配...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「ROG Xbox Ally」のアップデートにより、ドックや外部モニタ接続時の挙動が大幅に改善されました。このアップデートは、Xboxユーザーにとって大きな利点となります。レビューの内容としては、接続時の安定性の向上、レスポンスの改善、そしてユーザー体験の向上が挙げられます。特に、外部モニタを使用するユーザーや、ドックを使用するユーザーにとって、このアップデートは大きなメリットがあります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166512.html",
+        "date": "2026-05-02",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-02T02:36:18.723705"
+  "last_updated": "2026-05-02T09:58:02.125983"
 }
