@@ -544,6 +544,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/overcooked-2/info/",
         "date": "2026-05-03"
+      },
+      {
+        "title": "ペルソナ３ リロード",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ３ リロードがSteamで60% OFFセール中です。このゲームは、ロールプレイングゲームであり、深いストーリーと魅力的なキャラクターで知られています。現在、60%の割引で購入できます。ペルソナシリーズのファンやRPG好きの方にはおすすめのゲームです。評価も高く、人気度も高いので、セール中のこの機会に購入してみてください。",
+        "price": "¥3,071",
+        "originalPrice": "¥7,678",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2161700",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "Risk of Rain 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションパックされたローグライクアクションゲーム『Risk of Rain 2』がVariousで現在、71%の割引で販売中です。このゲームは、ランダムな要素と協力プレイが特徴で、プレイヤーはさまざまなキャラクターを操作して、異世界でのサバイバルを目指します。高い評価と人気度を誇るこのゲームは、ファンから高い支持を受けています。",
+        "price": "$7.26",
+        "originalPrice": "",
+        "discount": "-71%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/risk-of-rain-2/info/",
+        "date": "2026-05-03"
       }
     ],
     "review": [
@@ -1157,8 +1181,21 @@
         "url": "https://doope.jp/2026/05166522.html",
         "date": "2026-05-03",
         "is_translated": false
+      },
+      {
+        "title": "【Plants vs. Zombies レビュー (2009)】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Plants vs. Zombiesのレビュー記事では、ゲームのユニークなコンセプトや、簡単ながらも面白いゲームプレイが評価されています。特に、さまざまな種類の植物を使ってゾンビを撃退する戦略性や、キャラクターのデザインがかわいらしいことも高く評価されています。また、シンプルながらも中毒性の高いゲーム性が注目されており、カジュアルゲームファンやアクションゲームファンに楽しんでもらえる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/strategy/plants-vs-zombies-review-2009/",
+        "date": "2026-05-03",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-03T13:25:23.244559"
+  "last_updated": "2026-05-03T21:41:49.291356"
 }
