@@ -40,18 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "MECHA MANIA",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、ロボットアクションゲームを集めた「MECHA MANIA」のバンドルが販売中です。このバンドルには、ロボットアクションゲームの「DAEMON X MACHINA」や「MechWarrior 5: Mercenaries」などの主要タイトルが含まれています。アクションゲームやシミュレーションゲームを楽しむファンにはおすすめのジャンルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/mechamania_bundle",
-        "date": "2026-04-24"
-      },
-      {
         "title": "Humble 15 for $15 - April 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -209,90 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "サイバーパンク2077",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サイバーパンク2077がSteamで65%オフのセール中です。このゲームは、サイバーパンクをテーマにしたオープンワールドRPGで、未来的な世界を自由に探索することができます。グラフィックやサウンドデザインも高く評価されており、ゲームの評価は非常に高いです。Steamでは現在、通常価格より65%割引されており、非常に魅力的な価格設定になっています。人気度も高く、多くのユーザーから支持されています。",
-        "price": "¥3,072",
-        "originalPrice": "¥8,778",
-        "discount": "65% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1091500",
-        "date": "2026-04-27"
-      },
-      {
-        "title": "DARK SOULS III - The Fire Fades Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DARK SOULS III - The Fire Fades EditionがSteamで50% OFFセール中です。このゲームはアクションRPGジャンルに属し、難度の高いゲームプレイと豊富なストーリーで知られています。通常価格から半額になるこのセールは、大きなお得です。ゲームの評価は非常に高く、Steamでのユーザーレビューは「非常に好評」です。",
-        "price": "¥2,970",
-        "originalPrice": "¥5,940",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/160150",
-        "date": "2026-04-27"
-      },
-      {
-        "title": "Street Fighter 6",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "人気格闘ゲーム「Street Fighter 6」がSteamで50%オフのセール中です。このゲームは、キャラクターのバリエーション豊富さや、複雑で深いシステムが特徴で、ファンから高い評価を受けています。現在、50%オフのセール中なので、格闘ゲームファンにはお勧めのタイミングです。",
-        "price": "¥2,495",
-        "originalPrice": "¥4,990",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1364780",
-        "date": "2026-04-27"
-      },
-      {
-        "title": "DARK SOULS™: REMASTERED",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DARK SOULS™: REMASTEREDがSteamで50% OFFセール中です。これはアクションRPGジャンルのゲームで、難易度の高さと奥深い世界が特徴です。現在、半額の割引で購入することができます。評価は非常に高く、人気度も高いゲームで、多くのプレイヤーから支持されています。セール期間中はこの機会に購入することがおすすめです。",
-        "price": "¥2,365",
-        "originalPrice": "¥4,730",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/570940",
-        "date": "2026-04-27"
-      },
-      {
-        "title": "Disco Elysium - The Final Cut",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ディスコ・エリシウム - ザ・ファイナル・カットが78%オフでのセール中です。このゲームはロールプレイングゲームであり、独特なストーリーと深いキャラクター設定が特徴です。通常価格よりも大幅に安くなっているので、ロールプレイングゲームファンにはお勧めです。評価も高く、多くのプレイヤーから人気を博しています。",
-        "price": "$8.96",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
-        "date": "2026-04-27"
-      },
-      {
-        "title": "Hogwarts Legacy",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Hogwarts Legacyがバラエティストアで87%オフのセール中です。このアクションアドベンチャーゲームは、ハリー・ポッターの魔法世界を舞台に、自分のキャラクターを自由に作成して、ホグワーツ魔法学校で学びながら、様々なクエストを遂行します。ゲームの評価は非常に高く、多くのプレイヤーから高い人気を得ています。",
-        "price": "$7.92",
-        "originalPrice": "",
-        "discount": "-87%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
-        "date": "2026-04-27"
-      },
-      {
-        "title": "Vampire: The Masquerade® - Bloodlines™ 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Vampire: The Masquerade - Bloodlines 2は、ロールプレイングゲームのジャンルで人気のある作品です。このゲームは、吸血鬼の世界を舞台に、プレイヤーがキャラクターを操作してストーリーを進めていくことができます。現在、42%の割引が適用されており、通常よりもお得な価格で購入することができます。評価は高く、ファンから高い人気度を誇っています。",
-        "price": "$35.09",
-        "originalPrice": "",
-        "discount": "-42%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/vampire-the-masquerade-bloodlines-2/info/",
-        "date": "2026-04-27"
-      },
       {
         "title": "Slay the Spire",
         "platform": "Steam",
@@ -572,136 +476,6 @@
     ],
     "review": [
       {
-        "title": "【オープンワールドMMOTPS『ディビジョン リサージェンス』待望のPC版、いきなりリリース。『...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "オープンワールドMMOTPS「ディビジョン リサージェンス」のPC版がリリースされたことを受けて、レビュー記事が公開されました。このゲームは、グラフィックやサウンドのクオリティ、そして幅広いカスタマイズオプションが評価ポイントです。レビューでは、ゲームの世界観やストーリー、そしてマルチプレイヤーモードの面白さについて触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260429-440394/",
-        "date": "2026-04-29",
-        "is_translated": false
-      },
-      {
-        "title": "【凍てついた世界を蒸気機関車で進むスノーピアサー系ディーゼルパンクサバイバル「Frostrail...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、ディーゼルパンクサバイバルゲーム「Frostrail」を紹介しています。凍てついた世界を蒸気機関車で進むというユニークな設定が特徴的です。ゲームの評価ポイントとしては、独自の世界観やサバイバル要素の組み合わせが高く評価されています。レビューの内容概要としては、ゲームの雰囲気やグラフィックの質、そして難易度のバランスについて触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166440.html",
-        "date": "2026-04-29",
-        "is_translated": false
-      },
-      {
-        "title": "【レベルのプロシージャル生成システムを導入する「Mycopunk」のワールドアップデートが配信、...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Mycopunk」のワールドアップデートを取り上げたレビュー記事では、レベルのプロシージャル生成システムの導入が評価ポイントのひとつです。このシステムにより、プレイヤーは新しい体験ができるとともに、ゲームのリプレイ性が高まっています。また、グラフィックやサウンドの向上も評価され、ゲーム全体の雰囲気がより一層豊かになりました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166433.html",
-        "date": "2026-04-29",
-        "is_translated": false
-      },
-      {
-        "title": "【“推理小説を読む程度の集中力”でプレイできる推理ADV『真ッ赤の太陽』Steamにてお披露目。...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「真ッ赤の太陽」は、推理小説を読む程度の集中力でプレイすることができる推理アドベンチャーゲームです。このゲームの評価ポイントとしては、ユーザーフレンドリーな操作体系や、ストーリーの分岐が多彩であることが挙げられます。また、レビューでは、ゲームのグラフィックやサウンドトラックも高く評価されています。このゲームは、推理ゲームファンやミステリー好きのユーザーに特におすすめできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260429-440536/",
-        "date": "2026-04-29",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料“街”オープンワールド『NTE』の戦闘をナメてたら半殺しにされた。わかってくるほ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、基本プレイ無料のオープンワールドゲーム「NTE」の戦闘システムについて評価しています。記事では、戦闘を軽視した結果、半殺しにされた経験が紹介されています。対象読者は、ゲーム好きや「NTE」プレイヤー向けです。記事の内容は、戦闘システムの評価、ゲームの難易度、戦略の重要性についてまとまっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260429-440508/",
-        "date": "2026-04-29",
-        "is_translated": false
-      },
-      {
-        "title": "【最大4人協力西部劇PvEシューター『Far Far West』さっそく「圧倒的に好評」の人気爆...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Far Far West』は、最大4人で協力してプレイできる西部劇を舞台にしたPvEシューターです。このゲームは、レビュー記事では「圧倒的に好評」と評価されており、人気を博しています。レビューの内容としては、ゲームのグラフィックやサウンドデザイン、協力プレイのシステムなどが高く評価されています。また、ゲームの雰囲気やストーリーも、西部劇ファンには特に楽しいものであると評されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260429-440485/",
-        "date": "2026-04-29",
-        "is_translated": false
-      },
-      {
-        "title": "【「次世代の Steam デッキでも同じことができるでしょう」: Valve は、将来のハンドヘ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、Valve社の新しいハンドヘルドゲーム機について取り上げています。ゲームの評価ポイントとして、携帯性と高性能が挙げられます。記事では、将来のハンドヘルドゲーム機でも同様の性能が期待できると述べています。レビューの内容概要としては、新しいハンドヘルドゲーム機の開発の進展と、ゲームのプレイ性について触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/a-next-gen-steam-deck-would-do-the-same-valve-are-already-eyeing-steam-controller-hardware-upgrades-to-reuse-in-future-handhelds",
-        "date": "2026-04-29",
-        "is_translated": true
-      },
-      {
-        "title": "【ウォーレン・スペクター氏が開発を率いる新作ステルスゲーム「Thick As Thieves」の...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ウォーレン・スペクター氏が開発を率いる新作ステルスゲーム「Thick As Thieves」のレビュー記事では、ゲームの評価ポイントとして、ストーリーの魅力やゲームプレイの奥深さが高く評価されます。また、レビューの内容として、ステルスアクションの難易度やグラフィックの美しさが取り上げられています。対象読者は、ステルスゲームやアクションゲームのファンである方々で。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166394.html",
-        "date": "2026-04-29",
-        "is_translated": false
-      },
-      {
-        "title": "【なぜ PC ファーストのゲームパッドが増えないのでしょうか? Valve は知らないが、新しい...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、PCファーストのゲームパッドが増えていない理由を探る内容です。Valveの新しい試みや、ゲームパッドの評価ポイントを中心にレビューしています。ゲーマーやゲーム業界に興味のある方が対象で、ゲームの操作性やコントローラーの使い勝手などを詳しく紹介しています。ゲームの評価ポイントとして、操作のしやすさやコントローラーのデザインが取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/why-arent-there-more-pc-first-gamepads-valve-dont-know-but-they-did-see-an-opportunity-for-the-new-steam-controller",
-        "date": "2026-04-29",
-        "is_translated": true
-      },
-      {
-        "title": "【ディープ・ウォーターのレビュー: レニー・ハーリンの最新サメスリラーがボートに乗り遅れた】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ディープ・ウォーターは、最新のサメスリラー映画です。このレビュー記事では、レニー・ハーリンの監督作品を評価し、ストーリーや演技、サスペンス要素などについて詳しく紹介しています。映画ファンやサメスリラーを好む人なら、ディープ・ウォーターについてのさまざまな意見や感想を知ることができます。また、作品の長所や短所についても触れており、観るべきかどうかの判断材料になります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/deep-water-review-renny-harlin-deep-blue-sea/",
-        "date": "2026-04-29",
-        "is_translated": true
-      },
-      {
         "title": "【サンソフトの知る人ぞ知る迷路カーチェイス『ルート16』完全新作『ROUTE16R』発表、8月6...：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -725,19 +499,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/04166455.html",
         "date": "2026-04-30",
-        "is_translated": false
-      },
-      {
-        "title": "【“Vampire Survivors”のローグライトカードバトルスピンオフ「Vampire C...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Vampire Survivorsのローグライトカードバトルスピンオフ「Vampire C...：レビュー」のレビュー記事では、ゲームの評価ポイントとして、独自のカードバトルシステムやローグライト要素の組み合わせが評価されています。レビューの内容概要としては、ゲームの難易度やリプレイ性、カードのバリエーションなどが取り上げられており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166451.html",
-        "date": "2026-04-29",
         "is_translated": false
       },
       {
@@ -1194,8 +955,34 @@
         "url": "https://www.pcgamer.com/games/strategy/plants-vs-zombies-review-2009/",
         "date": "2026-05-03",
         "is_translated": true
+      },
+      {
+        "title": "【早期アクセス版「Subnautica 2」のゲームプレイをお披露目するショーケース配信がアナウ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "早期アクセス版の「Subnautica 2」のゲームプレイを紹介するショーケース配信のレビュー記事は、ゲームのグラフィックやサウンドデザイン、ストーリーの深みなどを評価ポイントとしています。また、記事ではゲームの新しい機能やシステムの導入、プレーヤーの体験を重視した設計などについて触れています。このレビュー記事は、ゲームファンや「Subnautica」シリーズの愛好家にとって。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166556.html",
+        "date": "2026-05-03",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam 週間の振り返り: ロボットのカウボーイが引き継ぎ、別のオンライン シューティング ...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、Steam 週間の振り返りに焦点を当てており、ロボットのカウボーイが引き継ぎ、別のオンラインシューティングゲームについて紹介しています。評価ポイントとしては、ゲームの新しい要素の導入、グラフィックの向上、そしてオンラインでのプレイ性が挙げられます。このレビューは、Steam ゲームやオンラインシューティングゲームに興味がある読者に向けて。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-another-online-shooter-winds-down-weeks-after-launch-as-robot-cowboys-take-over/",
+        "date": "2026-05-04",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-03T21:41:49.291356"
+  "last_updated": "2026-05-04T02:44:58.594259"
 }
