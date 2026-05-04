@@ -496,6 +496,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/1364780",
         "date": "2026-05-04"
+      },
+      {
+        "title": "Ghost of Tsushima DIRECTOR'S CUT",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの『Ghost of Tsushima DIRECTOR'S CUT』が現在、Variousで35%割引のセール中です。このゲームは、美しい日本の風景を背景に、戦闘と探索を楽しむことができます。高い評価と人気度を誇り、多くのプレイヤーから好評を博しています。セール期間中は、通常価格よりも大幅に安く購入することができますので。",
+        "price": "$38.99",
+        "originalPrice": "",
+        "discount": "-35%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
+        "date": "2026-05-04"
       }
     ],
     "review": [
@@ -1060,5 +1072,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-04T14:18:35.113901"
+  "last_updated": "2026-05-04T22:00:38.670058"
 }
