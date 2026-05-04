@@ -194,6 +194,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/pixel-traditions2-bundle",
         "date": "2026-05-02"
+      },
+      {
+        "title": "MECHA MANIA",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、MECHA MANIAというバンドルが現在販売中です。このバンドルには、メカアクションゲームを中心とした「MechWarrior 5: Mercenaries」や「DAEMON X MACHINA」などの主要タイトルが含まれています。ジャンルはメカアクションやシミュレーションゲームが中心です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/mechamania_bundle",
+        "date": "2026-05-04"
       }
     ],
     "sale": [
@@ -472,6 +484,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/risk-of-rain-2/info/",
         "date": "2026-05-03"
+      },
+      {
+        "title": "Street Fighter 6",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ストリートファイター6がSteamで50%オフのセール中です。この対戦格闘ゲームは、シンプルながらも深い戦略性を備えたゲームプレイが特徴で、人気ゲームシリーズの最新作として話題を集めています。セール期間中は通常価格の半額で購入できます。ユーザーの評価も高く、ファンから好評を博しており、格闘ゲームファンにはお勧めのタイトルです。",
+        "price": "¥2,495",
+        "originalPrice": "¥4,990",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1364780",
+        "date": "2026-05-04"
       }
     ],
     "review": [
@@ -981,8 +1005,60 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-another-online-shooter-winds-down-weeks-after-launch-as-robot-cowboys-take-over/",
         "date": "2026-05-04",
         "is_translated": true
+      },
+      {
+        "title": "【ステルスアクション×お店経営シム『ゴブリン ヴァイク：ヌスビトタイクーン』人集まる好調スタート...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、ステルスアクションとお店経営シミュレーションを組み合わせた『ゴブリン ヴァイク：ヌスビトタイクーン』の評価ポイントを紹介しています。ゲームの評価ポイントとしては、ユニークなゲーム性、キャラクターの個性、グラフィックの魅力などが挙げられます。レビューの内容概要としては、ゲームのストーリー、ゲームプレイの面白さ、難易度のバランスなどが紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260504-441057/",
+        "date": "2026-05-04",
+        "is_translated": false
+      },
+      {
+        "title": "【魔法図書館お片付けシム『司書のお仕事：魔導図書館を片付けろ！』さっそく盛況。散らかった3072...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「司書のお仕事：魔導図書館を片付けろ！」は、魔法図書館でお片付けをして楽しむシミュレーションゲームです。このゲームは、3072冊の本を整理するというユニークな内容が好評を博しており、プレイヤーは図書館の整理を行いながら、ストレスを軽減することができます。ゲームの評価ポイントとしては、リラックスできる雰囲気や、整理の過程で得られる達成感があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260504-441046/",
+        "date": "2026-05-04",
+        "is_translated": false
+      },
+      {
+        "title": "【最大6人協力・はた迷惑ギャンブルゲーム『Gamble With Your Friends』同接...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、最大6人での協力プレイとギャンブル要素を組み合わせた「Gamble With Your Friends」について紹介しています。同ゲームは、プレイヤー同士の協力と競争を同時に楽しむことができるユニークなゲームです。レビューでは、ゲームの評価ポイントとして、協力プレイの面白さやギャンブルの要素によるスリルがあり、対象読者はアクションゲームや協力プレイを楽しむファンにおすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260504-441051/",
+        "date": "2026-05-04",
+        "is_translated": false
+      },
+      {
+        "title": "【アイアンハンド戦団パックや練習用アリーナを含む「Warhammer 40,000: SPACE...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Warhammer 40,000: SPACEのレビュー記事では、アイアンハンド戦団パックや練習用アリーナを含む新しい要素が紹介されています。ゲームの評価ポイントとして、グラフィックの向上や新しいキャラクターの追加が挙げられます。また、レビューでは、新しい戦略やゲームプレイの深みについても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166558.html",
+        "date": "2026-05-04",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-04T02:44:58.594259"
+  "last_updated": "2026-05-04T11:05:28.427621"
 }
