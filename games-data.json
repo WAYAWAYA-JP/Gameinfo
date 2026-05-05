@@ -182,6 +182,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/mechamania_bundle",
         "date": "2026-05-04"
+      },
+      {
+        "title": "Humble 15 for $15 - April 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble 15 for $15 - April 2026というバンドルが現在販売中です。このバンドルには、主にアクションやアドベンチャーのジャンルが含まれており、主要タイトルとしては「Crysis Remastered」、「The Surge 2」、「Remnant: From the Ashes」などが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/humble15for15april2026_bundle",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "Flirty Elf Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Flirty Elf BundleがIndieGalaで販売中です。このバンドルには、Mythic QuestやThe Guild 3などのアドベンチャーゲームが含まれています。ジャンルはシミュレーションやアドベンチャーに分類され、価格帯はおよそ10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/flirty-elf-bundle",
+        "date": "2026-05-05"
       }
     ],
     "sale": [
@@ -400,6 +424,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
         "date": "2026-05-04"
+      },
+      {
+        "title": "Hogwarts Legacy",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Hogwarts LegacyはオープンワールドアクションRPGゲームで、ハリー・ポッターの世界を舞台に魔法使いのキャラクターを操作して冒険することができます。このゲームは、魔法の学習やキャラクターの成長、そして自由な探索が可能なオープンワールドが特徴です。現在、Variousで87%の割引セール中で、価格が大幅に下がっています。",
+        "price": "$7.99",
+        "originalPrice": "",
+        "discount": "-87%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
+        "date": "2026-05-05"
       }
     ],
     "review": [
@@ -834,5 +870,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-05T02:37:35.053748"
+  "last_updated": "2026-05-05T10:45:59.493963"
 }
