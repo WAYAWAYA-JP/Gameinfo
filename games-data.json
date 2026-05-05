@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Humble 15 for $15 - April 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Humble 15 for $15 - April 2026というバンドルが販売中です。このバンドルには、主にアクションゲームやアドベンチャーゲームなどのタイトルが含まれています。具体的には、人気作品の「Cuphead」や「Hyper Light Drifter」、アクションパズルゲームの「The Swapper」などが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/humble15for15april2026_bundle",
-        "date": "2026-04-25"
-      },
-      {
-        "title": "Flirty Elf Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "現在、IndieGalaでFlirty Elf Bundleが販売中です。このバンドルには、主要タイトルとして「Flirty Elf」や「Elf Girl」などのタイトルが含まれています。ジャンルは主にアダルトゲームやシミュレーションゲームです。大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/flirty-elf-bundle",
-        "date": "2026-04-25"
-      },
-      {
         "title": "Speak to the Manager",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -209,90 +185,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Slay the Spire",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Slay the Spireは、ローグライクとカードゲームの要素を組み合わせた、独特なゲームです。現在、Steamで75%オフのセール中となっており、非常に魅力的な価格になっています。このゲームは、高度な再生性と戦略的な深みを兼ね備えており、批評家とプレイヤーからの評価が非常に高く、人気度も高いゲームとなっています。",
-        "price": "¥700",
-        "originalPrice": "¥2,800",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/646570",
-        "date": "2026-04-28"
-      },
-      {
-        "title": "Rust",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サバイバルゲームの『Rust』がSteamで50%割引のセール中です。このゲームは、プレイヤーが荒野で生き残るために資源を集め、建物を建設し、敵から自分を守る必要があります。高い評価と人気を誇るこのゲームは、現在半額で購入できるので、サバイバルゲームファンにはおすすめです。",
-        "price": "¥2,300",
-        "originalPrice": "¥4,600",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/252490",
-        "date": "2026-04-28"
-      },
-      {
-        "title": "The Alters",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Altersは、 Variousで現在49%割引のセール中です。このゲームは、ユニークなゲームプレイと面白いストーリーが特徴で、ファンタジーとアドベンチャー要素を組み合わせたジャンルに属しています。多くのプレイヤーから高評価を得ており、人気度も高いゲームです。セール期間中は、通常価格よりも大幅に安く購入することができますので、気になる方はこの機会に試してみることをお勧めします。",
-        "price": "$17.95",
-        "originalPrice": "",
-        "discount": "-49%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-alters/info/",
-        "date": "2026-04-28"
-      },
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストは、Steamで現在56%OFFのセール中です。このゲームは、オープンワールドアクションアドベンチャーというジャンルに属し、豊富な自由度と高品質のグラフィックが特徴です。通常価格から大幅に値下げされたこの作品は、非常に人気があり、高い評価を得ています。セール期間中に購入することで、通常の価格よりも大幅に安くプレイすることができます。",
-        "price": "¥2,851",
-        "originalPrice": "¥6,480",
-        "discount": "56% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-04-28"
-      },
-      {
-        "title": "Dead Cells",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「Dead Cells」が現在、55%割引のセール中です。このゲームは、ローグライク要素を取り入れた、探索と戦闘を中心としたゲームで、難易度が高く、繰り返しプレイすることでスキルを鍛えることが特徴です。Steamでの評価は非常に高く、多くのユーザーから高評価を得ています。価格も割引により大幅に下がっており、興味がある方は今が購入するチャンスかもしれません。",
-        "price": "$11.20",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dead-cells/info/",
-        "date": "2026-04-28"
-      },
-      {
-        "title": "SILENT HILL 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "SILENT HILL 2は、サバイバルホラーゲームの名作として知られており、恐怖と心理的な要素を融合させた独特のゲーム性が特徴です。このゲームは、非常に高い評価と人気度を誇り、多くのゲーマーから高い支持を得ています。現在、Variousで60%割引のセール中となっており、通常よりも大幅に安くなっています。この機会に、ホラーゲームファンにはお勧めのタイトルです。",
-        "price": "$28.00",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
-        "date": "2026-04-28"
-      },
-      {
-        "title": "Balatro",
-        "platform": "Various",
-        "type": "sale",
-        "description": "バラトロはバラエティ豊かなゲームで、現在26パーセントオフのセール中です。このゲームは、ユーザーから高い評価を得ており、人気度も高まっています。価格は割引前の価格より安くなっており、魅力的なコンテンツと低価格が特徴です。",
-        "price": "$11.12",
-        "originalPrice": "",
-        "discount": "-26%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/balatro/info/",
-        "date": "2026-04-28"
-      },
       {
         "title": "Dredge",
         "platform": "Various",
@@ -512,123 +404,6 @@
     ],
     "review": [
       {
-        "title": "【サンソフトの知る人ぞ知る迷路カーチェイス『ルート16』完全新作『ROUTE16R』発表、8月6...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ルート16Rはサンソフトの新作ゲームで、迷路カーチェイスの要素を取り入れた面白い作品です。このゲームの評価ポイントとしては、カーチェイスのスピード感や、迷路の複雑さが高く、プレイヤーに挑戦的な要素を提供しています。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックが高く評価されています。特に、カーチェイスのシーンでは、スピード感を強調したグラフィックが印象的です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260430-440572/",
-        "date": "2026-04-30",
-        "is_translated": false
-      },
-      {
-        "title": "【「American Truck Simulator」イリノイ州DLCの発売日が2026年5月1...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "アメリカン・トラック・シミュレーターでイリノイ州を舞台にしたDLCが2026年5月1日に発売されるというニュースを伝えるレビュー記事があります。この記事では、新しいDLCの特徴や追加要素について紹介し、ゲームの評価ポイントとしてグラフィックの向上や新しいミッションの追加などを取り上げています。また、トラックシミュレーションゲームのファンやアメリカン・トラック・シミュレーターのシリーズを愛する人に…",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166455.html",
-        "date": "2026-04-30",
-        "is_translated": false
-      },
-      {
-        "title": "【自由すぎる娘育成ゲーム『まじかる☆プリンセス』すぐさま“同接1万人超え”の人気白熱中。アイドル...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "まじかる☆プリンセスは、自由な娘育成が楽しめるゲームで、人気を博しています。このゲームの評価ポイントとしては、自由な育成システムや多彩なキャラクターが挙げられます。レビューでは、プレイヤーは娘を自由に育成することができ、独自のストーリーを楽しむことができる点が高く評価されています。また、アイドル活動やキャラクターの成長システムも人気の要因となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260430-440634/",
-        "date": "2026-04-30",
-        "is_translated": false
-      },
-      {
-        "title": "【PS5新作ローグライトシューター『SAROS（サロス）』、“今年トップクラス”のメタスコア＆高...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "PS5の新作ゲーム「SAROS（サロス）」はローグライトシューターで、高い評価を受けています。このゲームの評価ポイントとしては、ゲームのシステムやグラフィックの高さが挙げられます。レビューでは、ゲームの面白さや難易度の適切さが高く評価されています。また、ゲームの長さやリピートプレイの価値も高まっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260430-440613/",
-        "date": "2026-04-30",
-        "is_translated": false
-      },
-      {
-        "title": "【「EA Sports FC 26」や「明末:ウツロノハネ」を含む2026年5月分のPS Plu...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "2026年5月分のPS Plus月間フリーゲームのレビュー記事を紹介します。この記事では、人気ゲーム「EA Sports FC 26」や「明末:ウツロノハネ」などの評価ポイントを掲載しています。ゲームのグラフィックやプレイアビリティ、ストーリーの面白さなどについて詳細にレビューされています。PS Plusのユーザーやゲームファンにとって、月間フリーゲームの選定に役立つ情報が得られるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166471.html",
-        "date": "2026-04-30",
-        "is_translated": false
-      },
-      {
-        "title": "【『フォールアウト』の足跡をたどって、イギリスの黙示録的サバイバルの旅『アトムフォール』もテレビ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、イギリスのポストアポカリプスの世界を舞台にしたサバイバルゲーム『アトムフォール』の魅力を紹介しています。ゲームの評価ポイントとしては、緊迫したサバイバル要素や独自のゲームシステムが挙げられます。また、レビューでは、ゲームの世界観やキャラクターの深みも高く評価されています。対象読者は、このようなサバイバルゲームやポストアポカリプスの世界観に興味がある方に向けられており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/following-in-fallouts-irradiated-footsteps-british-post-apocalyptic-survival-jaunt-atomfalls-now-getting-a-tv-show-too",
-        "date": "2026-04-30",
-        "is_translated": true
-      },
-      {
-        "title": "【Invincible VS レビュー: 精彩のないストーリーのせいで失望させられた、血なまぐさい戦闘】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Invincible VS のレビュー記事では、このゲームのストーリーが精彩を欠いていることが大きな欠点と指摘されています。また、血なまぐさい戦闘シーンも特徴的ですが、ストーリーの弱さが全体的な評価を下げています。このレビューは、ゲームのストーリーや戦闘システムに興味がある読者にとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/invincible-vs-review/",
-        "date": "2026-04-30",
-        "is_translated": true
-      },
-      {
-        "title": "【「WHAT THE CAR?」と「GOAT SIMULATOR+」の愉快なクロスオーバーコラボ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、「WHAT THE CAR?」と「GOAT SIMULATOR+」のクロスオーバーコラボを紹介しています。評価ポイントとしては、両ゲームのユーモアとオリジナリティが高く評価されています。また、レビューの内容としては、コラボレーションの意義と両ゲームの魅力が述べられています。対象読者は、両ゲームのファンやアクションゲームに興味がある人です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/04166483.html",
-        "date": "2026-04-30",
-        "is_translated": false
-      },
-      {
-        "title": "【海洋惑星オープンワールドサバイバル『サブノーティカ2』、5月15日より早期アクセス配信へ。シリ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "サブノーティカ2は、オープンワールドサバイバルゲームであり、海洋惑星を舞台にプレイヤーがさまざまな生物との遭遇や資源の収集を行います。ゲームの評価ポイントとして、広大な海洋の探索の自由度や、生物との遭遇によるサスペンスが挙げられます。レビューの内容概要としては、ゲームのグラフィックの美しさや、サバイバル要素の充実度が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/subnautica-2-20260501-440747/",
-        "date": "2026-04-30",
-        "is_translated": false
-      },
-      {
         "title": "【“Mass Effect”系アクションRPG「EXODUS」のダイアログと会話シーンを紹介する...：レビュー】",
         "platform": "doope!",
         "type": "review",
@@ -640,32 +415,6 @@
         "url": "https://doope.jp/2026/05166477.html",
         "date": "2026-05-01",
         "is_translated": false
-      },
-      {
-        "title": "【中世の領主の戦いを描くRTS「Diplomacy is Not an Option」のプレイヤ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "中世の領主の戦いを描くリアルタイムストラテジー（RTS）ゲーム「Diplomacy is Not an Option」のレビュー記事では、ゲームの評価ポイントとして、戦略的深度とグラフィックの美しさが高く評価されています。また、レビューの内容概要として、ゲームの難易度とストーリーの魅力が紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166498.html",
-        "date": "2026-04-30",
-        "is_translated": false
-      },
-      {
-        "title": "【ヴァンパイア: マスカレードは、ベルリンを舞台としたビジュアル ノベル RPG、Oaths a...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "ヴァンパイア：マスカレードは、ベルリンを舞台としたビジュアルノベルRPGで、ユーザーの選択によってストーリーが変化し、独特のゲーム性が楽しめます。このゲームの評価ポイントは、豊富なキャラクター設定や、複雑なストーリー展開、そしてユーザーの選択肢によって変化するエンディングなどがあります。レビューでは、ゲームの雰囲気やグラフィックの質も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/vampire-the-masquerade-finds-new-undead-life-in-oaths-and-ashes-a-visual-novel-rpg-set-in-berlin",
-        "date": "2026-04-30",
-        "is_translated": true
       },
       {
         "title": "【軍事ドローン訓練所が「『GTA5』をドローン用コントローラーでプレイする動画」を披露。訓練じゃ...】",
@@ -1069,8 +818,21 @@
         "url": "https://doope.jp/2026/05166558.html",
         "date": "2026-05-04",
         "is_translated": false
+      },
+      {
+        "title": "【早期アクセス版「Subnautica 2」のXbox|PC Game Pass入りが決定、RO...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Subnautica 2」のレビュー記事では、このゲームの魅力的なグラフィックや、奥深いストーリーが評価されています。また、ゲームの早期アクセス版がXboxやPCのGame Passに入ることも発表され、ファンを楽しませています。このレビューは、ゲーム好きやSubnauticaシリーズのファンにとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166577.html",
+        "date": "2026-05-05",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-04T22:00:38.670058"
+  "last_updated": "2026-05-05T02:37:35.053748"
 }
