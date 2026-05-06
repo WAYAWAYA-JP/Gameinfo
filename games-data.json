@@ -206,6 +206,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/flirty-elf-bundle",
         "date": "2026-05-05"
+      },
+      {
+        "title": "Princess & Blade Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Princess & Blade Bundleというバンドルの販売がIndieGalaで行われています。このバンドルには、主要タイトルとして「Princess Blade」や「Blade」が含まれており、アクションやアドベンチャーを楽しむことができます。ジャンルはアクションアドベンチャーで、大まかな価格帯は10ドル前後です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/princess-and-blade-bundle",
+        "date": "2026-05-06"
       }
     ],
     "sale": [
@@ -411,6 +423,18 @@
         "discount": "-55%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "Detroit: Become Human",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Detroit: Become Humanは、サイバーパンクを舞台にしたアドベンチャーゲームで、プレイヤーはアンドロイドを操作して物語を進めます。このゲームは、選択肢によって物語が変化する特徴があり、プレイヤーの選択がゲームの結末に大きな影響を与えます。現在、Variousで84%の割引を受けて購入できます。ゲームの評価は非常に高く、多くのプレイヤーから人気を博しています。",
+        "price": "$6.51",
+        "originalPrice": "",
+        "discount": "-84%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
         "date": "2026-05-06"
       }
     ],
@@ -765,8 +789,73 @@
         "url": "https://doope.jp/2026/05166616.html",
         "date": "2026-05-06",
         "is_translated": false
+      },
+      {
+        "title": "【協力2人プレイ対応ローグライトアクション『Dark Scrolls』5月29日配信へ。クセ強ヒ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ローグライトアクションゲーム『Dark Scrolls』のレビュー記事では、協力2人プレイの対応やクセの強いゲーム性が評価ポイントとして取り上げられています。また、ゲームの難易度やグラフィックの質に関するレビューの内容も概要として触れられています。このレビュー記事は、ローグライトアクションゲームのファンや協力プレイに興味がある読者にとって参考になる情報を提供しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/dark-scrolls-20260506-441426/",
+        "date": "2026-05-06",
+        "is_translated": false
+      },
+      {
+        "title": "【協力マルチ対応・中世ファンタジー酒場経営シム『Rekindled: Cozy Tavern L...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "中世ファンタジーを舞台にした酒場経営シムの「Rekindled: Cozy Tavern」は、協力マルチプレイ対応で、プレイヤーは友達と一緒に酒場を運営することができます。このゲームは、ユーザーインターフェイスの使いやすさやグラフィックの美しさが評価ポイントになっています。さらに、レビューではゲームのストーリーやキャラクターの魅力も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/rekindled-20260506-441408/",
+        "date": "2026-05-06",
+        "is_translated": false
+      },
+      {
+        "title": "【人間・怪獣入り乱れ非対称マルチバトル『BeastLink』発表。都市ぶっ壊し怪獣と生き残りを賭...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『BeastLink』は、都市を破壊する怪獣と生き残りを賭けて戦う非対称マルチバトルのゲームです。このゲームの評価ポイントは、プレイヤー同士の戦略的なバトルや、都市の破壊シーンの爽快さなどです。レビューの内容概要としては、ゲームの独自性や、プレイヤーのストレス解消への効果が掘り下げられています。対象読者は、アクションゲームやマルチバトルゲームのファンだと感じると思います。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/beastlink-20260506-441391/",
+        "date": "2026-05-06",
+        "is_translated": false
+      },
+      {
+        "title": "【待望の復活を遂げた『トモコレ わくわく生活』に、プレイヤーが下した評価は？ 賛否の傾向がアンケ...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "トモコレ わくわく生活は 待望の復活を遂げたゲームです。このゲームの評価ポイントとしては、ゲームの内容、グラフィックの質、プレイの楽しさなどが挙げられます。レビューの内容概要としては、ゲームのストーリーが面白い、グラフィックが美しい、操作が簡単などが挙げられます。対象読者としては、ゲームファン、特にトモコレシリーズのファンに興味がある方にすすめます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/05/06/180937.html",
+        "date": "2026-05-06",
+        "is_translated": false
+      },
+      {
+        "title": "【不気味なビジュアル ノベル『シュレディンガーの呼び声』は、煉獄への電話を通じて人間関係の痛みと...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "シュレディンガーの呼び声は、不気味なビジュアルノベルの1つです。このゲームは、煉獄への電話を通じて人間関係の痛みや孤独、そして希望を描写しています。レビューでは、このゲームの独特なストーリーやキャラクターの深みが高く評価されています。また、ゲームの雰囲気やサウンドトラックも絶賛されています。このレビューは、ビジュアルノベルや心理ホラーが好きな人向けであり、ゲームの評価ポイントとしては、ストーリー。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/eerie-visual-novel-schrodingers-call-explores-the-pain-and-joy-of-relationships-via-phone-calls-to-purgatory",
+        "date": "2026-05-05",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-06T02:42:38.697164"
+  "last_updated": "2026-05-06T11:06:17.174301"
 }
