@@ -218,6 +218,54 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/princess-and-blade-bundle",
         "date": "2026-05-06"
+      },
+      {
+        "title": "Creature Feature Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、 Creature Feature Bundleが販売中です。このバンドルには、主要タイトルとして「Slayaway Camp」や「My Time at Portia」などのゲームが含まれています。ジャンルはメインにアクションアドベンチャーやシミュレーションゲームで構成されており、大まかな価格帯は1,000円から2,000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/creaturefeaturebundle_bundle",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "Fore! A Golf Games Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、ゴルフゲームのバンドル「Fore! A Golf Games Bundle」が販売中です。このバンドルには、主要タイトルとして「PGA TOUR 2K21」や「Golf With Your Friends」などが含まれており、ゴルフゲームファンにとって魅力的です。ジャンルはスポーツゲームで、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/foregolfgamesbundle_softwarebundle",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "VR Kiwi Complete Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、VR Kiwi Complete Collectionというバンドルが販売中です。このバンドルには、主要タイトルとして「VRTV VR」、「The Edge of Nowhere」、「The Blackout Club」などが含まれています。ジャンルはアクションアドベンチャーやホラーゲームなど多種多様です。大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/vrkiwibundle_bundle",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "Train Sim World 6: First Class Ticket Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Train Sim World 6: First Class Ticket Bundleというバンドルの販売が行われています。このバンドルには、Train Sim World 2、Train Sim World: Rush Hour、Train Sim World: Tees Valley Lineなどの主要タイトルが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/trainsimworld6firstclassticketbundle_bundle",
+        "date": "2026-05-06"
       }
     ],
     "sale": [
@@ -435,6 +483,18 @@
         "discount": "-84%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "Blasphemous 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるBlasphemous 2が、現在Variousで72％割引されて販売中です。このゲームは、ダークゴシックな世界を舞台に、プレイヤーがさまざまな能力を駆使して探索し、戦闘を繰り広げることが特徴です。非常に高い評価と人気を誇るタイトルであり、多くのユーザーから称賛されています。",
+        "price": "$8.50",
+        "originalPrice": "",
+        "discount": "-72%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/blasphemous-2/info/",
         "date": "2026-05-06"
       }
     ],
@@ -867,8 +927,21 @@
         "url": "https://www.rockpapershotgun.com/valve-release-the-steam-controllers-cad-files-so-you-can-channel-your-inner-archie-from-balamory-and-design-mods-or-accessories-for-it",
         "date": "2026-05-06",
         "is_translated": true
+      },
+      {
+        "title": "【『モータルコンバット 2』の映画レビューが掲載され、「楽しく暴力的」から「憂鬱なほど荒れない」...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "モータルコンバット2の映画レビュー記事では、映画の暴力的な描写やアクションシーンが高評価されていますが、一方でストーリーの弱さやキャラクターの深みのなさが指摘されています。ゲームファンやアクション映画のファンにとっては、面白い作品になる可能性がありますが、ストーリーやキャラクターの深みを求める観客にとっては、少し物足りないかもしれません。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/movies-tv/mortal-kombat-2-movie-reviews-are-in-and-its-being-called-everything-from-enjoyably-violent-to-depressingly-rizzless/",
+        "date": "2026-05-06",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-06T14:30:09.166854"
+  "last_updated": "2026-05-06T21:57:14.674743"
 }
