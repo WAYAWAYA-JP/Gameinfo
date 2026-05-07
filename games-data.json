@@ -448,6 +448,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/1687950",
         "date": "2026-05-07"
+      },
+      {
+        "title": "Frostpunk 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Frostpunk 2がVariousで60％割引されていることを知らせます。このシティビルディングゲームは、雪に覆われた世界で市民を守り、都市を運営することを目的としています。現在、60％の割引を受けることができ、非常に魅力的です。評価も高く、多くのユーザーから人気を博しており、都市建設とサバイバルの要素が組み合わさったユニークな体験が楽しめます。",
+        "price": "$17.79",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
+        "date": "2026-05-07"
       }
     ],
     "review": [
@@ -840,8 +852,86 @@
         "url": "https://automaton-media.com/articles/newsjp/snowbreak-20260507-441573/",
         "date": "2026-05-07",
         "is_translated": false
+      },
+      {
+        "title": "【人気“クトゥルフ”ホラー続編「The Sinking City 2」初の本格的なゲームプレイト...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「The Sinking City 2」のレビュー記事では、ゲームの評価ポイントとして、ホラー要素の充実さや、ストーリーの奥深さが高く評価されています。また、ゲームの雰囲気やグラフィックの質も高く評価されており、クトゥルフシリーズのファンには必見の作品であると言えるでしょう。このレビューは、ホラーゲームやクトゥルフシリーズが好きな人にとって、是非読んでみるべき記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166666.html",
+        "date": "2026-05-07",
+        "is_translated": false
+      },
+      {
+        "title": "【“The Artful Escape”を生んだBEETHOVEN & DINOSAURの新作「...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "BEETHOVEN & DINOSAURの新作ゲーム「...」のレビュー記事では、ゲームのユニークなグラフィックやサウンドトラック、そしてストーリーの深さが評価されています。このゲームは、前作「The Artful Escape」のファンや、インディーゲームを楽しむ人向けのコンテンツです。レビューでは、ゲームのキャラクター設定や世界観の構築が高く評価されており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166660.html",
+        "date": "2026-05-07",
+        "is_translated": false
+      },
+      {
+        "title": "【SteelSeries Arctis Nova Pro Omni レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "SteelSeries Arctis Nova Pro Omni レビューでは、このゲームヘッドセットの評価ポイントとして、音質、耐久性、デザインが挙げられます。このレビュー記事では、ヘッドセットの実際の使用感や、さまざまなゲームでの動作をチェックし、総評としては高品質な音質と優れた耐久性を備えていることがわかりました。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-headsets/steelseries-arctis-nova-pro-omni-review/",
+        "date": "2026-05-07",
+        "is_translated": true
+      },
+      {
+        "title": "【Zowie XL2586X+ 600 Hz レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Zowie XL2586X+ 600 Hz レビュー記事では、このゲームディスプレイの評価ポイントとして、高速なリフレッシュレートや低遅延機能などの性能が挙げられます。また、レビューの内容概要として、ディスプレイの画像のクオリティやレスポンスの速さ、さらにコントローラーやコンピュータとの互換性についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/zowie-xl2586x-600-hz-review/",
+        "date": "2026-05-07",
+        "is_translated": true
+      },
+      {
+        "title": "【Will: Follow the Light レビュー - かなりの北極の冒険ですが、退屈なパ...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Will: Follow the Lightのレビュー記事では、このゲームの評価ポイントとしてグラフィックやサウンドトラックの美しさが挙げられています。また、北極の厳しい環境を舞台にした冒険が面白いという点も評価されています。しかし、ゲームの進行がやや退屈な部分があることも指摘されています。このレビュー記事は、アクションアドベンチャーゲームを楽しむことが好きな人や。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/will-follow-the-light-review",
+        "date": "2026-05-07",
+        "is_translated": true
+      },
+      {
+        "title": "【ミックステープレビュー: アンナプルナの青春コメディは殺し屋でもありフィラーでもある】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事は、映画「ミックステープ」の評価ポイントを取り上げています。内容の概要としては、アンナプルナの青春コメディが殺し屋でもありフィラーでもあることが示唆されています。また、作品のジャンルが青春コメディと殺し屋という二つの要素を兼ねている点や、ストーリーの展開が予測できない点などが評価ポイントとして挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/mixtape-review/",
+        "date": "2026-05-07",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-07T11:09:43.342436"
+  "last_updated": "2026-05-07T14:31:16.035885"
 }
