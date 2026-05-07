@@ -1,56 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "DOOMBLADE",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "「ドゥーム アンド グロム」は、2D アクション メトロイドヴァニア ジャンルのゲームです。このゲームの特徴は、地下深くで鎖につながれていた知性を持つ兵器「ドゥームブレード」を発見し、それと力を合わせて強力な能力を解放することです。また、復讐の旅に乗り出し、強大な敵「ドレッド ロード」を倒すことができます。",
-        "price": "無料",
-        "originalPrice": "¥17",
-        "discount": "100% OFF",
-        "deadline": "2026年04月30日まで",
-        "url": "https://store.epicgames.com/ja/p/ed9fee5cea29495394853e134f27a291",
-        "date": "2026-04-30"
-      },
-      {
-        "title": "Firestone Online Idle RPG",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『Firestone: Online Idle RPG』は、放置系RPGのマルチプレイファンタジーゲームです。このゲームの特徴は、ヒーローを集めて強化し、放置バトルや連続クリッカーでボスを倒すことができる点です。また、ギルドフレンドとチャットしたり、PvP対戦を行うこともできます。さらに、遊び方はプレイヤー次第で自由度が高く、さまざまな戦略を試すことができます。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年05月07日まで",
-        "url": "https://store.epicgames.com/ja/p/1185abfe7c554a1e8c528aba37bf3d0f",
-        "date": "2026-04-30"
-      },
-      {
-        "title": "Oddsparks: An Automation Adventure",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Epic Gamesでは、現在「Oddsparks: An Automation Adventure」というゲームが無料配布中です。このゲームは、シミュレーションとパズル要素を組み合わせたユニークな体験を提供する、ストラテジー系のゲームです。自動化システムを解明し、工場を最適化することが特徴です。工場の効率性を高めるために、様々な機械やシステムを組み合わせて自動化することも魅力的一个です。",
-        "price": "無料",
-        "originalPrice": "¥34",
-        "discount": "100% OFF",
-        "deadline": "2026年05月07日まで",
-        "url": "https://store.epicgames.com/ja/p/e16c97c0da0b4e5aa507e930befb1a25",
-        "date": "2026-04-30"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Speak to the Manager",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、 Speak to the Managerを含むバンドルが販売中です。このバンドルには、Speak to the Managerや他の関連タイトルが含まれており、シミュレーションゲームやストラテジーゲームが好きな人にぴったりです。価格帯はおよそ1,000円から2,000円程度と、手頃な価格設定になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/speaktomanager_bundle",
-        "date": "2026-04-27"
-      },
       {
         "title": "Destiny 2: Expansions Bundle 2026",
         "platform": "Humble Bundle",
@@ -270,66 +221,6 @@
     ],
     "sale": [
       {
-        "title": "ペルソナ５ ザ・ロイヤル",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ペルソナ５ ザ・ロイヤルは、Steamで現在80%オフのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、深いストーリーと魅力的なキャラクターで知られています。評価も非常に高く、人気度も高いゲームです。通常価格よりも大幅に安くなっているので、購入するのが良いタイミングです。",
-        "price": "¥1,535",
-        "originalPrice": "¥7,678",
-        "discount": "80% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1687950",
-        "date": "2026-04-30"
-      },
-      {
-        "title": "Dragon's Dogma: Dark Arisen",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Dragon's Dogma: Dark Arisenは、オープンワールドアクションRPGのゲームで、プレイヤーがドラゴンやその他のモンスターと戦いながら、広大な世界を探索できます。このゲームは、高い自由度と独自の戦闘システムが特徴です。現在、87%の割引で販売中で、非常に魅力的な価格になっています。ユーザーの評価も非常に高く、人気のゲームです。",
-        "price": "$4.00",
-        "originalPrice": "",
-        "discount": "-87%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dragons-dogma-dark-arisen/info/",
-        "date": "2026-04-30"
-      },
-      {
-        "title": "Monster Hunter: World",
-        "platform": "Various",
-        "type": "sale",
-        "description": "モンハンシリーズの最新作『Monster Hunter: World』が、現在78%オフでセール中です。このゲームは、アクションパックされたオープンワールドのハンティングゲームで、素晴らしいグラフィックと豊富なコンテンツが特徴です。ゲームの評価は非常に高く、多くのプレイヤーから人気を博しています。通常価格より大幅に安くなっているので、ハンティングゲームファンにはお勧めのセールです。",
-        "price": "$6.59",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/monster-hunter-world/info/",
-        "date": "2026-04-30"
-      },
-      {
-        "title": "Devil May Cry 5 + Vergil",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲームの「Devil May Cry 5 + Vergil」が、現在86%の割引で販売中です。このシリーズは、高速なアクションと壮大なストーリーで人気を博しており、ファンから高い評価を得ています。価格も割引により大幅に下がっているため、シリーズのファンやアクションゲーム好きにはおすすめです。",
-        "price": "$4.05",
-        "originalPrice": "",
-        "discount": "-86%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/devil-may-cry-5-and-vergil/info/",
-        "date": "2026-04-30"
-      },
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "No Man's SkyがVariousで60%割引されています。このゲームは、オープンワールドのサンドボックスゲームで、プレイヤーが宇宙を自由に探索することができます。評価は一般的に高く、人気のゲームです。現在、通常価格よりも60%割引されており、大きな値段割引のチャンスです。",
-        "price": "$23.95",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-04-30"
-      },
-      {
         "title": "Okami HD",
         "platform": "Various",
         "type": "sale",
@@ -496,100 +387,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/blasphemous-2/info/",
         "date": "2026-05-06"
+      },
+      {
+        "title": "Dead Cells",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲームであるDead Cellsが現在、55%オフのセール中です。このゲームは、難しいプレイ性と美しいグラフィックで知られており、評価も非常に高い人気ゲームです。 玩家からの評価は非常に高く、多くの人はこのゲームを高く評価しています。 このチャンスを逃さないで、 Dead Cellsをお得な価格で購入してください。",
+        "price": "$11.35",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dead-cells/info/",
+        "date": "2026-05-07"
       }
     ],
     "review": [
-      {
-        "title": "【『ヘルダイバー2』新アプデ後に不評レビュー「3000件超え」、公式はすぐさまバランス再調整を発...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ヘルダイバー2の新しいアップデート後に大量の不評レビューが寄せられました。3000件を超えるレビューが寄せられ、その多くはゲームのバランス調整に問題があると指摘しています。公式はすぐさまこの問題に対処し、バランス再調整を発表しました。このような事例はゲーム開発におけるバランス調整の重要性を示しています。ゲーム愛好家やヘルダイバー2のファンは、このようなアップデートの影響を注目しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260501-440937/",
-        "date": "2026-05-02",
-        "is_translated": false
-      },
-      {
-        "title": "【絵の具と筆をテーマにしたメトロイドヴァニア系2Dアクションアドベンチャー「CONSTANCE」...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "CONSTANCEは、絵の具と筆をテーマにしたメトロイドヴァニア系2Dアクションアドベンチャーゲームです。このゲームは、ユニークなグラフィックと面白いゲームプレイが特徴です。レビューでは、ゲームの評価ポイントとしてグラフィックの美しさ、ゲームプレイの奥深さ、そしてストーリーの引き込みやすさが挙げられています。特に、ゲームの中での絵の具の使用や、筆の操作が独特で楽しいと評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166545.html",
-        "date": "2026-05-02",
-        "is_translated": false
-      },
-      {
-        "title": "【火山の脅威に立ち向かう非戦闘系アクションRPG「Into the Fire」のパブリックプレイ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Into the Fireは、非戦闘系アドベンチャーゲームであり、火山の脅威に立ち向かう様子が描かれています。このゲームの評価ポイントとしては、美しいグラフィックや、緊張感のあるゲームプレイがあげられます。また、レビューの内容概要としては、ゲームの世界観や、プレイヤーの選択によってストーリーが変化する点が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166537.html",
-        "date": "2026-05-02",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料“街”オープンワールド『NTE』にて“犯罪すれすれ行為”や“アクロバティック脱獄...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、基本プレイ無料のオープンワールドゲーム「NTE」について評価しています。ゲームの自由度、グラフィック、ストーリーの面白さを評価ポイントとしており、特に「犯罪すれすれ行為」や「アクロバティック脱獄」などのミッションが楽しめる点を高く評価しています。このレビュー記事は、オープンワールドゲームやアクションゲームが好きな人に向けて書かれており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/nte-20260502-441017/",
-        "date": "2026-05-02",
-        "is_translated": false
-      },
-      {
-        "title": "【米国ゲーマーの約4割が、「独占タイトルがあるから」コンソールでゲームを遊ぶと回答。割合は減少傾...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、米国ゲーマーの約4割が「独占タイトルがあるから」コンソールでゲームを遊ぶと回答したことを紹介しています。記事では、独占タイトルがコンソール選択の重要な要素であることを示しています。また、記事はゲーマーにとって重要な情報を提供しており、特にゲーム機の購入を検討している人や新しいゲームのリリースを待っている人にとって参考になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260502-441000/",
-        "date": "2026-05-02",
-        "is_translated": false
-      },
-      {
-        "title": "【ドック/外部モニタ接続時の挙動を大幅に改善する「ROG Xbox Ally」のアップデートが配...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「ROG Xbox Ally」のアップデートにより、ドックや外部モニタ接続時の挙動が大幅に改善されました。このアップデートは、Xboxユーザーにとって大きな利点となります。レビューの内容としては、接続時の安定性の向上、レスポンスの改善、そしてユーザー体験の向上が挙げられます。特に、外部モニタを使用するユーザーや、ドックを使用するユーザーにとって、このアップデートは大きなメリットがあります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166512.html",
-        "date": "2026-05-02",
-        "is_translated": false
-      },
-      {
-        "title": "【MSI Cyborg 14 ゲーミング ラップトップをウェールズの山中を 165 マイル運んで...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "MSI Cyborg 14 ゲーミング ラップトップをウェールズの山中を 165 マイル運んで試験を行ったレビュー記事において、評価ポイントとしてラップトップの耐久性と移動性が高く評価されています。また、レビューの内容概要では、本機の性能とバッテリーの持続時間についても触れています。対象読者は主にゲーミング ラップトップを求めるユーザーで。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/i-tested-the-msi-cyborg-14-gaming-laptop-by-carrying-it-for-105-miles-through-the-mountains-of-wales",
-        "date": "2026-05-02",
-        "is_translated": true
-      },
       {
         "title": "【『ドルフロ』シリーズ新作2タイトル『少女前线：蓝蝶契约』『Reverse Collapse: ...：レビュー】",
         "platform": "AUTOMATON",
@@ -940,8 +752,34 @@
         "url": "https://www.pcgamer.com/movies-tv/mortal-kombat-2-movie-reviews-are-in-and-its-being-called-everything-from-enjoyably-violent-to-depressingly-rizzless/",
         "date": "2026-05-06",
         "is_translated": true
+      },
+      {
+        "title": "【『シヴィライゼーション VII』無料超大型アプデが5月19日配信へ。「同じ文明でずっとプレイで...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『シヴィライゼーション VII』の最新アプデは、5月19日に配信予定です。このアプデの評価ポイントとしては、ゲームプレイの深化や新要素の追加が挙げられます。レビューでは、ゲームのバランス調整や新しい戦略の導入が高く評価されています。また、同じ文明で続けてプレイすることの面白さも紹介されています。このゲームは、ストラテジーゲームファンやシリーズの愛好者に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260507-441490/",
+        "date": "2026-05-07",
+        "is_translated": false
+      },
+      {
+        "title": "【単一の文明で全体をプレイするオプションや勝利システムの刷新を含む「シヴィライゼーション VII...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「シヴィライゼーション VII」のレビュー記事では、単一の文明で全体をプレイするオプションや勝利システムの刷新を含む新しい要素が評価されています。このゲームは、ストラテジー要素に興味のあるプレイヤー向けに設計されており、ゲームの難易度やグラフィックの美しさも高く評価されています。特に、単一の文明で全体をプレイするオプションは、プレイヤーがより深く文明の歴史を体験できるように設計されており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166635.html",
+        "date": "2026-05-06",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-06T21:57:14.674743"
+  "last_updated": "2026-05-07T02:44:20.502129"
 }
