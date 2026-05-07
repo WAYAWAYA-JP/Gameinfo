@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Firestone Online Idle RPG",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『Firestone: Online Idle RPG』は、放置系RPGのマルチプレイファンタジーゲームです。このゲームの特徴は、ヒーローを集めて強化し、放置バトルや連続クリッカーでボスを倒すことができることです。また、ギルドフレンドとチャットしたり、PvP対戦も可能です。遊び方はプレイヤー自身が自由に決めることができ、さまざまな楽しみ方を探索することができます。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年05月07日まで",
+        "url": "https://store.epicgames.com/ja/p/1185abfe7c554a1e8c528aba37bf3d0f",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "Oddsparks: An Automation Adventure",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Oddsparks: An Automation Adventureは、シミュレーションゲームです。このゲームの特徴は、自動化されたファクトリーを建設し、管理することです。また、プレイヤーは独自のシステムを設計し、最適化することができ、ゲームの魅力にあたります。さらに、さまざまなアイテムや機械を組み合わせて新しいシステムを作ることができ、自由度が高いことが特徴です。",
+        "price": "無料",
+        "originalPrice": "¥34",
+        "discount": "100% OFF",
+        "deadline": "2026年05月07日まで",
+        "url": "https://store.epicgames.com/ja/p/e16c97c0da0b4e5aa507e930befb1a25",
+        "date": "2026-05-07"
+      }
+    ],
     "bundle": [
       {
         "title": "Destiny 2: Expansions Bundle 2026",
@@ -217,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/trainsimworld6firstclassticketbundle_bundle",
         "date": "2026-05-06"
+      },
+      {
+        "title": "Speak to the Manager",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Speak to the Managerのバンドルが現在販売中です。このバンドルには、Speak to the Managerをはじめ、複数のタイトルが含まれています。ジャンルはシミュレーションゲームであり、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/speaktomanager_bundle",
+        "date": "2026-05-07"
       }
     ],
     "sale": [
@@ -398,6 +435,18 @@
         "discount": "-55%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dead-cells/info/",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "ペルソナ５ ザ・ロイヤル",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ５ ザ・ロイヤルがSteamで80% OFFのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、独自の社会シミュレーション要素が特徴です。通常価格より大幅に安くなっている今が購入する絶好の機会です。ペルソナシリーズのファンにはもちろん、ロールプレイングゲームを楽しむユーザーにもおすすめです。高い評価と人気度を誇るこのゲームを、安価でプレイすることができます。",
+        "price": "¥1,535",
+        "originalPrice": "¥7,678",
+        "discount": "80% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1687950",
         "date": "2026-05-07"
       }
     ],
@@ -778,8 +827,21 @@
         "url": "https://doope.jp/2026/05166635.html",
         "date": "2026-05-06",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料セクシーTPS『スノウブレイク：禁域降臨』、約2か月の超長期メンテナンスを乗り越...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料セクシーTPS『スノウブレイク：禁域降臨』のレビューでは、約2か月間の超長期メンテナンスを経てのゲーム内容やグラフィックの向上、ストーリーや操作性の改善などが評価ポイントとして挙げられます。このゲームは、セクシーなキャラクターが登場するアクション要素が特徴的なTPSです。対象読者としては、TPSやアクションゲームが好きな人や、セクシーなゲームに興味がある人にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/snowbreak-20260507-441573/",
+        "date": "2026-05-07",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-07T02:44:20.502129"
+  "last_updated": "2026-05-07T11:09:43.342436"
 }
