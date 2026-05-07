@@ -24,6 +24,30 @@
         "deadline": "2026年05月07日まで",
         "url": "https://store.epicgames.com/ja/p/e16c97c0da0b4e5aa507e930befb1a25",
         "date": "2026-05-07"
+      },
+      {
+        "title": "アレンジャー・ロールパズリングの旅",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "アレンジャー・ロールパズリングの旅は、ロールプレイとパズルの要素を組み合わせたユニークなゲームです。このゲームの特徴としては、複数のキャラクターを操作してステージをクリアする必要があること、そして各キャラクターが持つ特殊能力を活用してパズルを解決することが挙げられます。また、ゲームのグラフィックやサウンドトラックも高く評価されています。",
+        "price": "無料",
+        "originalPrice": "¥29",
+        "discount": "100% OFF",
+        "deadline": "2026年05月14日まで",
+        "url": "https://store.epicgames.com/ja/p/8883fa6958a24a00b6f33166e4552833",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "Trash Goblin",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "このゲームは、プレッシャーやストレスがなく、いつまでも良い雰囲気が続く、健全で居心地の良い店番ゲームです。装身具を見つけてきれいにし、アップサイクルして、無限のカラフルで風変わりな顧客に販売することができます。また、節約したお金を使ってショップをアップグレードしたり、より良いツールを購入したり、さらにスペースを拡張してカスタマイズすることもできます。",
+        "price": "無料",
+        "originalPrice": "¥19",
+        "discount": "100% OFF",
+        "deadline": "2026年05月14日まで",
+        "url": "https://store.epicgames.com/ja/p/7ea9b97f6a8b4c5d8047733207c5c65c",
+        "date": "2026-05-07"
       }
     ],
     "bundle": [
@@ -930,8 +954,21 @@
         "url": "https://www.polygon.com/mixtape-review/",
         "date": "2026-05-07",
         "is_translated": true
+      },
+      {
+        "title": "【Amberspire レビュー - 都市のスプロール化における危険な生態詩に特化した戦略ゲーム】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Amberspireは、都市のスプロール化における危険な生態詩をテーマにした戦略ゲームです。このゲームの評価ポイントとしては、ユニークなテーマや独自のゲームシステムが挙げられます。レビューの内容概要としては、都市の成長を管理しながら資源を効率的に活用する方法や、生態系のバランスを維持するための戦略的なアプローチが紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/amberspire-review-a-strategy-game-dedicated-to-the-dicey-ecopoetics-of-urban-sprawl",
+        "date": "2026-05-07",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-07T14:31:16.035885"
+  "last_updated": "2026-05-07T21:58:34.088836"
 }
