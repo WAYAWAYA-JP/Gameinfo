@@ -254,6 +254,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/speaktomanager_bundle",
         "date": "2026-05-07"
+      },
+      {
+        "title": "Ticket to Ride: All Aboard Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、ボードゲームをテーマにしたバンドル「Ticket to Ride: All Aboard Collection」が販売中です。このバンドルには、主要タイトルとして「Ticket to Ride」、「Ticket to Ride: First Journey」、「Ticket to Ride: Railroads of the World」などが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/tickettorideallaboardcollection_bundle",
+        "date": "2026-05-08"
       }
     ],
     "sale": [
@@ -471,6 +483,18 @@
         "discount": "-78%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "Rust",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "RustがSteamで50% OFFのセール中です。このゲームはサバイバルアクションジャンルに属し、プレイヤーは荒野で生き残るために戦い、資源を集めなければなりません。現在の割引により、通常価格より大幅に安く購入できます。Rustは高い評価と人気を誇り、プレイヤーから高い支持を得ています。",
+        "price": "¥2,300",
+        "originalPrice": "¥4,600",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/252490",
         "date": "2026-05-08"
       }
     ],
@@ -1007,8 +1031,47 @@
         "url": "https://www.polygon.com/teenage-mutant-ninja-turtles-empire-city-vr-game-review/",
         "date": "2026-05-08",
         "is_translated": true
+      },
+      {
+        "title": "【最近の Steam レビューがほとんど否定的な結果に低迷している中、Arrowhead は H...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "最近のSteamレビューでは否定的な評価が多く出ていますが、Arrowheadのレビュー記事ではゲームの評価ポイントとして、ユーザーインターフェイスの使いやすさやゲームプレイの面白さが高く評価されています。また、レビューの内容ではグラフィックの美しさやサウンドトラックの質も高い評価を受けています。このレビュー記事は。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/arrowhead-addresses-the-helldivers-2-community-as-recent-steam-reviews-slump-to-mostly-negative-we-want-to-be-clearer-about-what-were-working-on-and-whats-coming-next/",
+        "date": "2026-05-08",
+        "is_translated": true
+      },
+      {
+        "title": "【『SEKIRO: No Defeat』アニメが新たなプレビューと劇場公開を決定】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "SEKIRO: No Defeatのアニメ版が新たなプレビューと劇場公開を決定したというニュースを取り上げたレビュー記事です。この記事では、ゲームのストーリーやキャラクター、そしてアニメ版の映像や音楽について評価しているようです。特に、アニメ版の制作クオリティやゲーム本編との連携性が評価ポイントになっているようです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/sekiro-no-defeat-anime-theatrical-release-2026-new-look/",
+        "date": "2026-05-08",
+        "is_translated": true
+      },
+      {
+        "title": "【Wax Heads レビュー: 心のこもった居心地の良いレコード店経営ゲーム】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Wax Headsは、レコード店の経営をテーマにした心のこもったゲームです。このゲームでは、レコード店を運営し、顧客の要望に応え、店を成長させることができます。評価ポイントとしては、ゲームのグラフィックやサウンドトラックが高く評価されており、レコード店の雰囲気をリアルに再現しています。また、ゲームのシステムもシンプルで分かりやすいです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/wax-heads-review/",
+        "date": "2026-05-08",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-08T14:04:50.383822"
+  "last_updated": "2026-05-08T21:59:41.894042"
 }
