@@ -460,6 +460,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/trash-goblin/info/",
         "date": "2026-05-08"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ロックスター・ゲームスの傑作とされるオープンワールドアクションゲーム「Red Dead Redemption 2」が、現在78%の大幅な割引で販売中です。このゲームは、広大なアメリカ西部の世界を自由に探索できることが特徴で、ストーリーも高く評価されています。多くのゲーム愛好家から高い評価を得ており、人気度も非常に高いゲームです。",
+        "price": "$13.20",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-05-08"
       }
     ],
     "review": [
@@ -930,8 +942,73 @@
         "url": "https://doope.jp/2026/05166702.html",
         "date": "2026-05-08",
         "is_translated": false
+      },
+      {
+        "title": "【キャンピングカー冒険ゲーム『アウトバウンド』は、サバイバルなのに“脅かされない”優しさがある。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "キャンピングカー冒険ゲーム『アウトバウンド』のレビュー記事では、このゲームの評価ポイントとして、サバイバル要素が存在しながらもプレイヤーを脅かさない優しさをあげています。また、ゲームの雰囲気やグラフィックの美しさも評価されています。このレビュー記事は、サバイバルゲームやアドベンチャーゲームが好きな人にとって、参考になる情報を提供しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/outbound-20260508-441880/",
+        "date": "2026-05-08",
+        "is_translated": false
+      },
+      {
+        "title": "【ゲーム開発者らが「“イライラしない”高難度ゲームの作り方」で議論白熱。突き放すけどプレイはして...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム開発者らの議論を紹介し、高難度ゲームの作り方について議論が白熱したことをまとめています。記事では、ゲームの評価ポイントとして難易度のバランスやプレイヤーの感情を考慮したデザインが重要であると指摘しています。また、ゲームがプレイヤーを突き放すものの、プレイヤーが引き付けられる要素について触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260508-441898/",
+        "date": "2026-05-08",
+        "is_translated": false
+      },
+      {
+        "title": "【『原神』スネージナヤ編のプレビュー動画公開！旅人が氷元素に目覚めたり、新衣装で銃を撃ったりと気...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、人気ゲーム『原神』のスネージナヤ編のプレビュー動画を紹介しています。旅人が氷元素に目覚める場面や、新しい衣装で銃を撃つシーンなど、ゲームの新しい要素が紹介されています。この記事は、ゲームファンや『原神』シリーズのプレイヤーに特におすすめです。記事では、ゲームの評価ポイントとして、新しいストーリーやキャラクターの紹介、ゲームシステムの改善などが取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/05/08/181052.html",
+        "date": "2026-05-08",
+        "is_translated": false
+      },
+      {
+        "title": "【すべてはカニのレビューです】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「すべてはカニのレビューです」の評価ポイントを紹介しています。レビューの内容としては、ゲームの独自の世界観やユニークなゲームシステム、そして面白いストーリーが特に評価されています。ゲームファンや新しい体験を求める人にとって、 このレビュー記事は参考になります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/roguelike/everything-is-crab-review/",
+        "date": "2026-05-08",
+        "is_translated": true
+      },
+      {
+        "title": "【ティーンエイジ ミュータント ニンジャ タートルズ: エンパイア シティ レビュー - ここ数...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ティーンエイジ ミュータント ニンジャ タートルズ: エンパイア シティ レビュー記事では、ゲームの評価ポイントとしてグラフィックの向上や新しいステージの追加、そしてゲームプレイのバランスが良くなった点が挙げられています。また、レビューの内容概要として、ゲームのストーリーが面白く、キャラクターの個性が際立っていることが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/teenage-mutant-ninja-turtles-empire-city-vr-game-review/",
+        "date": "2026-05-08",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-08T10:24:42.602214"
+  "last_updated": "2026-05-08T14:04:50.383822"
 }
