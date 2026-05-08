@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Destiny 2: Expansions Bundle 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Destiny 2: Expansions Bundle 2026というバンドルが販売中です。このバンドルには、The Witch Queen、Lightfall、The Final Shapeなどの主要タイトルが含まれています。ジャンルはファーストパーソン・シューティングゲームで、大まかな価格帯は5000円から10000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/destiny2expansionsbundle2026_bundle",
-        "date": "2026-04-28"
-      },
-      {
-        "title": "Sovereign Sandbox Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Sovereign Sandbox Bundleというバンドルの販売が行われています。このバンドルには、Portal Knights、Starbound、Timber & Stoneなどの人気タイトルが含まれており、サンドボックスゲームを楽しむことができます。ジャンルは主にサンドボックスゲームやアクションRPGで。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/sovereignsandboxbundle_bundle",
-        "date": "2026-04-28"
-      },
-      {
         "title": "Silly Heroes Tales Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -282,18 +258,6 @@
     ],
     "sale": [
       {
-        "title": "Okami HD",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Okami HDがVariousで57%オフのセール中です。このアクションアドベンチャーゲームは、美しい日本風のグラフィックと独特のゲームプレイが特徴で、ファンから高い評価を得ています。普段の価格よりも大幅に安くなっているので、ゲームファンにはおすすめです。",
-        "price": "$8.50",
-        "originalPrice": "",
-        "discount": "-57%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/okami-hd/info/",
-        "date": "2026-05-01"
-      },
-      {
         "title": "Dragon's Dogma 2",
         "platform": "Various",
         "type": "sale",
@@ -487,110 +451,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【『ドルフロ』シリーズ新作2タイトル『少女前线：蓝蝶契约』『Reverse Collapse: ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ドルフロ』シリーズの新作である『少女前线：蓝蝶契约』と『Reverse Collapse: ...』のレビュー記事を紹介します。このレビューでは、両作品のゲームシステムやグラフィックの評価ポイントを掘り下げて説明しています。また、ゲームのストーリーや操作性の評価も含まれており、シリーズのファンや新規プレイヤーにとって参考になる内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/girls-frontline-20260503-441070/",
-        "date": "2026-05-03",
-        "is_translated": false
-      },
-      {
-        "title": "【PS5『SAROS』は戦闘狂ならかなり面白い。『Vampire Crawlers』は今後の発展...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "PS5のゲーム『SAROS』は戦闘シーンが豊富で、戦闘を楽しむプレイヤーならかなり面白いです。レビューでは、『Vampire Crawlers』についても今後の発展に期待が持てる点を紹介しています。戦闘ゲームやアクションゲームが好きな人には、こちらのレビュー記事が参考になります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260503-441153/",
-        "date": "2026-05-03",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料「街」オープンワールド『NTE』のマルチプレイは“何かをする”より“誰かといる”...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料のオープンワールドゲーム「NTE」のマルチプレイを紹介するレビュー記事です。この記事では、ゲームの評価ポイントとしてマルチプレイの自由度やコミュニティの活発さを取り上げています。また、レビューの内容概要として、ゲームのグラフィックやサウンドの質も高く評価されています。この記事は、オープンワールドゲームやマルチプレイに興味のある読者に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/nte-20260503-441106/",
-        "date": "2026-05-03",
-        "is_translated": false
-      },
-      {
-        "title": "【インターネットがない時代の「ゲームソフト販売店」の役割とは？『ゲームショップ斜陽』をプレイしな...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "インターネットが普及していない時代のゲームソフト販売店の役割を探るゲーム『ゲームショップ斜陽』のレビュー記事があります。このゲームは、店舗の経営やゲームソフトの販売、そして店員との交流を通じて、ゲームソフト販売店の魅力を感じることができます。このレビューは、ゲームのストーリーやキャラクター、そしてゲームプレイの面白さに焦点を当てています。ゲーム好きやレトロゲームファン向けの記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/05/03/180846.html",
-        "date": "2026-05-03",
-        "is_translated": false
-      },
-      {
-        "title": "【『スト6』の強豪プレイヤーPunk選手、「EVO Japan 2026」会場で彼女にプロポーズ...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "ストリートファイター6のトッププレイヤーであるPunk選手が、EVO Japan 2026の会場で彼女にプロポーズしたというニュースのレビュー記事です。この記事は、ゲームファンやEVO Japan 2026の参加者にとって興味深い内容となります。記事では、プロポーズの瞬間の感動や、Punk選手のゲームでの活躍、さらにEVO Japan 2026の大会概要などが紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/05/03/180845.html",
-        "date": "2026-05-03",
-        "is_translated": false
-      },
-      {
-        "title": "【「鉄拳8」に参戦する“州光”のゲームプレイトレーラーがお披露目、早期アクセス解禁は5月28日】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "人気ゲーム「鉄拳8」に新しく参戦するキャラクター「州光」のゲームプレイトレーラーが公開されました。このトレーラーでは、州光の強力な技や激しいバトルシーンが紹介されています。早期アクセスの解禁は5月28日に予定されており、ファンはこの日を心待ちにしているでしょう。この記事は、ゲームファンや「鉄拳」シリーズの愛好家にとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166522.html",
-        "date": "2026-05-03",
-        "is_translated": false
-      },
-      {
-        "title": "【Plants vs. Zombies レビュー (2009)】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Plants vs. Zombiesのレビュー記事では、ゲームのユニークなコンセプトや、簡単ながらも面白いゲームプレイが評価されています。特に、さまざまな種類の植物を使ってゾンビを撃退する戦略性や、キャラクターのデザインがかわいらしいことも高く評価されています。また、シンプルながらも中毒性の高いゲーム性が注目されており、カジュアルゲームファンやアクションゲームファンに楽しんでもらえる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/strategy/plants-vs-zombies-review-2009/",
-        "date": "2026-05-03",
-        "is_translated": true
-      },
-      {
-        "title": "【早期アクセス版「Subnautica 2」のゲームプレイをお披露目するショーケース配信がアナウ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "早期アクセス版の「Subnautica 2」のゲームプレイを紹介するショーケース配信のレビュー記事は、ゲームのグラフィックやサウンドデザイン、ストーリーの深みなどを評価ポイントとしています。また、記事ではゲームの新しい機能やシステムの導入、プレーヤーの体験を重視した設計などについて触れています。このレビュー記事は、ゲームファンや「Subnautica」シリーズの愛好家にとって。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166556.html",
-        "date": "2026-05-03",
-        "is_translated": false
-      },
       {
         "title": "【Steam 週間の振り返り: ロボットのカウボーイが引き継ぎ、別のオンライン シューティング ...：レビュー】",
         "platform": "PC Gamer",
@@ -967,8 +827,60 @@
         "url": "https://www.rockpapershotgun.com/amberspire-review-a-strategy-game-dedicated-to-the-dicey-ecopoetics-of-urban-sprawl",
         "date": "2026-05-07",
         "is_translated": true
+      },
+      {
+        "title": "【SNS調査推理ゲーム『ミカクテイ事件の観測者-Demons’Timeline-』、“生々しいS...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "SNS調査推理ゲーム『ミカクテイ事件の観測者-Demons’Timeline-』のレビュー記事では、ゲームの評価ポイントとして、ユーザーの参加度の高さやストーリーの複雑さが注目されています。レビューの内容概要としては、ゲームのシステムや物語の展開が評価されており、特にゲームの最後のほうで急激に展開が进むことに感銘を受けたという意見が挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/demonstimeline-20260508-441698/",
+        "date": "2026-05-08",
+        "is_translated": false
+      },
+      {
+        "title": "【マーシャルアーツとミュージックビデオを組み合わせた独創的な新作「Dead as Disco」の...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ゲーム「Dead as Disco」は、マーシャルアーツとミュージックビデオを組み合わせた独創的な新作です。このレビュー記事では、ゲームの評価ポイントとして、ユニークなゲームプレイスタイル、美しいグラフィック、そしてキャラクターの個性が高く評価されています。また、レビューの内容は、ゲームのストーリーや操作感、音楽の使用についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166690.html",
+        "date": "2026-05-08",
+        "is_translated": false
+      },
+      {
+        "title": "【人気“エイリアン”Co-opサバイバルシューター続編「Aliens: Fireteam Eli...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Aliens: Fireteam Elite」のレビュー記事では、このCo-opサバイバルシューターが高い評価を受けるポイントを紹介しています。まず、エイリアンとの戦闘がリアルで緊張感があり、アドレナリンが溢れる体験になっていることが評価されています。また、ユニークなキャラクターのスキルや装備が豊富で、プレイヤーが自分の戦闘スタイルを自由に選択できることにも高評価が寄せられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166667.html",
+        "date": "2026-05-07",
+        "is_translated": false
+      },
+      {
+        "title": "【新しいモータルコンバット映画のプロデューサーは、映画評論家がこの映画を映画として評価しているこ...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "新しいモータルコンバット映画のプロデューサーは、映画評論家がこの映画を映画として評価していることに満足しているようです。この映画の評価ポイントは、激しいアクションシーン、ストーリーの深み、キャラクターの魅力などがあります。レビューの内容概要としては、映画のグラフィックやサウンドデザインが高く評価されていること、キャラクターのバックストーリーがしっかりと描かれていること。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/movies-tv/the-producer-of-the-new-mortal-kombat-film-is-annoyed-that-film-reviewers-are-appraising-it-as-a-film/",
+        "date": "2026-05-07",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-07T21:58:34.088836"
+  "last_updated": "2026-05-08T02:49:10.089315"
 }
