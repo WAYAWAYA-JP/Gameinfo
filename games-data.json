@@ -448,6 +448,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
         "date": "2026-05-07"
+      },
+      {
+        "title": "Trash Goblin",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Trash Goblinは、アクションアドベンチャーゲームです。現在、Variousで-100%の割引を受けており、無料でプレイすることができます。このゲームは、ユニークなゲームプレイと面白い要素で評価されており、人気度も高いです。無料でプレイできるので、気軽に試してみることができます。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/trash-goblin/info/",
+        "date": "2026-05-08"
       }
     ],
     "review": [
@@ -879,8 +891,47 @@
         "url": "https://www.pcgamer.com/movies-tv/the-producer-of-the-new-mortal-kombat-film-is-annoyed-that-film-reviewers-are-appraising-it-as-a-film/",
         "date": "2026-05-07",
         "is_translated": true
+      },
+      {
+        "title": "【真っ暗闇対戦FPS『Blindfire』、サービス終了の代わりに「無料化＆サーバー無期限稼働」...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "真っ暗闇対戦FPS『Blindfire』のレビュー記事では、ゲームのエクスパートから見た評価ポイントとして、独自の闇の中での戦略的なプレイスタイルや、サウンドデザインの重要性が挙げられます。また、レビューの内容概要としては、初心者にも親しみやすいインターフェイスや、無料化により新規プレイヤーが増加していることが紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/blindfire-20260508-441763/",
+        "date": "2026-05-08",
+        "is_translated": false
+      },
+      {
+        "title": "【「Fallout 4」のPip-Boyで“Morrowind”がプレイできる驚きのMOD「Th...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Fallout 4」のPip-Boyで「Morrowind」がプレイできる驚きのMOD「Throne of the Chosen」についてのレビュー記事です。この記事では、MODの独創的なアイデアや技術的な面での評価、そしてゲームプレイの楽しさなどについて触れています。MODファンやベセスダソフトワークスのゲームシリーズを愛するゲーマー向けの記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166674.html",
+        "date": "2026-05-08",
+        "is_translated": false
+      },
+      {
+        "title": "【“Mass Effect”系アクションRPG「EXODUS」の新たなゲームプレイ映像が公開】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「EXODUS」の新たなゲームプレイ映像が公開されました。このゲームは「Mass Effect」系のアクションRPGです。ゲームの評価ポイントとしては、スムーズなアクション、壮大なストーリー、美麗なグラフィックが挙げられます。レビューの内容概要としては、ゲームのシステムや操作性について触れています。また、ストーリーやキャラクターについても評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166702.html",
+        "date": "2026-05-08",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-08T02:49:10.089315"
+  "last_updated": "2026-05-08T10:24:42.602214"
 }
