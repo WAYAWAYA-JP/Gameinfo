@@ -52,42 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Silly Heroes Tales Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Silly Heroes Tales Bundleが現在販売中です。このバンドルには、Silly Heroes、Tales of the Tiny Giant、The Path of Motusなどの主要タイトルが含まれています。ジャンルはアドベンチャーやアクションに分類され、大まかな価格帯は5ドルから10ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/silly-heroes-tales-bundle",
-        "date": "2026-04-29"
-      },
-      {
-        "title": "Dead Rising: Shop 'Til You Drop Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Dead Rising: Shop 'Til You Drop Bundleというバンドルが現在販売中です。このバンドルには、主要タイトルとして『Dead Rising』、『Dead Rising 2』、『Dead Rising 2: Off the Record』が含まれています。アクションアドベンチャーゲームを中心としたバンドルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/deadrisingshoptilyoudropbundle_bundle",
-        "date": "2026-04-29"
-      },
-      {
-        "title": "PLAYISM Publisher Bundle - 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble BundleでPLAYISM Publisher Bundle - 2026が販売中です。このバンドルには、主要タイトルとして「Bright Memory Infinite」や「Garden Paws」、「DEEMO」などの作品が含まれています。ジャンルはアクションやアドベンチャー、シミュレーションなど多種多様で、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/playismpublisherbundle2026_bundle",
-        "date": "2026-04-29"
-      },
-      {
         "title": "Humble 15 Golden Tales Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -269,42 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Dragon's Dogma 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションRPGであるDragon's Dogma 2が現在、Variousで65%オフのセール中です。このゲームは、オープンワールドを舞台にプレイヤーが自由に冒険することができ、独自の戦闘システムと豊富なストーリーが特徴です。多くのユーザーから高評価を得ており、人気度も非常に高いゲームです。セール中の価格では、大幅に安くなっているため、ゲームファンには見逃せないチャンスです。",
-        "price": "$24.40",
-        "originalPrice": "",
-        "discount": "-65%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
-        "date": "2026-05-02"
-      },
-      {
-        "title": "XCOM 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "XCOM 2がVariousで87%の割引を受けてセール中です。このタクティカルシミュレーションゲームは、地球外生命体との戦いを描き、戦略的な戦闘とチーム管理が特徴です。評価も高く、ユーザーから非常に高い人気度を獲得しています。価格も大幅に下がっているので、興味がある方はチェックしてみてください。",
-        "price": "$2.64",
-        "originalPrice": "",
-        "discount": "-87%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/xcom-2/info/",
-        "date": "2026-05-02"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームであるClair Obscur: Expedition 33が、現在Variousで32%割引されています。このゲームは、ユーザーから高い評価を受けており、人気度も高いですが、興味がある方はこの機会にぜひチェックしてみてください。",
-        "price": "$33.99",
-        "originalPrice": "",
-        "discount": "-32%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-05-02"
-      },
       {
         "title": "Overcome Your Fears - Caretaker",
         "platform": "Various",
@@ -496,74 +424,33 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/252490",
         "date": "2026-05-08"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "StrayがVariousで40%オフのセール中です。このアクションアドベンチャーゲームは、猫の視点から都市を探索するユニークな体験を提供します。現在の価格は割引により大幅に下がっており、興味がある方は今がチャンスです。Strayは高い評価と人気度を誇り、多くのプレイヤーから高い評価を得ています。",
+        "price": "$17.95",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "Arranger: A Role-Puzzling Adventure",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アレンジャー：ロールパズルアドベンチャーは、バラエティ豊かなゲームで、現在100％の割引で販売中です。このゲームは、ロールプレイングとパズルの要素を組み合わせたユニークなゲームプレイが特徴で、プレイヤーはさまざまなキャラクターを操作して謎を解く必要があります。高い評価と人気を博しているこのゲームは、パズルとアドベンチャーのファンには必見のタイトルです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/arranger-a-role-puzzling-adventure/info/",
+        "date": "2026-05-09"
       }
     ],
     "review": [
-      {
-        "title": "【Steam 週間の振り返り: ロボットのカウボーイが引き継ぎ、別のオンライン シューティング ...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事は、Steam 週間の振り返りに焦点を当てており、ロボットのカウボーイが引き継ぎ、別のオンラインシューティングゲームについて紹介しています。評価ポイントとしては、ゲームの新しい要素の導入、グラフィックの向上、そしてオンラインでのプレイ性が挙げられます。このレビューは、Steam ゲームやオンラインシューティングゲームに興味がある読者に向けて。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-another-online-shooter-winds-down-weeks-after-launch-as-robot-cowboys-take-over/",
-        "date": "2026-05-04",
-        "is_translated": true
-      },
-      {
-        "title": "【ステルスアクション×お店経営シム『ゴブリン ヴァイク：ヌスビトタイクーン』人集まる好調スタート...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、ステルスアクションとお店経営シミュレーションを組み合わせた『ゴブリン ヴァイク：ヌスビトタイクーン』の評価ポイントを紹介しています。ゲームの評価ポイントとしては、ユニークなゲーム性、キャラクターの個性、グラフィックの魅力などが挙げられます。レビューの内容概要としては、ゲームのストーリー、ゲームプレイの面白さ、難易度のバランスなどが紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260504-441057/",
-        "date": "2026-05-04",
-        "is_translated": false
-      },
-      {
-        "title": "【魔法図書館お片付けシム『司書のお仕事：魔導図書館を片付けろ！』さっそく盛況。散らかった3072...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「司書のお仕事：魔導図書館を片付けろ！」は、魔法図書館でお片付けをして楽しむシミュレーションゲームです。このゲームは、3072冊の本を整理するというユニークな内容が好評を博しており、プレイヤーは図書館の整理を行いながら、ストレスを軽減することができます。ゲームの評価ポイントとしては、リラックスできる雰囲気や、整理の過程で得られる達成感があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260504-441046/",
-        "date": "2026-05-04",
-        "is_translated": false
-      },
-      {
-        "title": "【最大6人協力・はた迷惑ギャンブルゲーム『Gamble With Your Friends』同接...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、最大6人での協力プレイとギャンブル要素を組み合わせた「Gamble With Your Friends」について紹介しています。同ゲームは、プレイヤー同士の協力と競争を同時に楽しむことができるユニークなゲームです。レビューでは、ゲームの評価ポイントとして、協力プレイの面白さやギャンブルの要素によるスリルがあり、対象読者はアクションゲームや協力プレイを楽しむファンにおすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260504-441051/",
-        "date": "2026-05-04",
-        "is_translated": false
-      },
-      {
-        "title": "【アイアンハンド戦団パックや練習用アリーナを含む「Warhammer 40,000: SPACE...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Warhammer 40,000: SPACEのレビュー記事では、アイアンハンド戦団パックや練習用アリーナを含む新しい要素が紹介されています。ゲームの評価ポイントとして、グラフィックの向上や新しいキャラクターの追加が挙げられます。また、レビューでは、新しい戦略やゲームプレイの深みについても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166558.html",
-        "date": "2026-05-04",
-        "is_translated": false
-      },
       {
         "title": "【早期アクセス版「Subnautica 2」のXbox|PC Game Pass入りが決定、RO...：レビュー】",
         "platform": "doope!",
@@ -1070,8 +957,47 @@
         "url": "https://www.polygon.com/wax-heads-review/",
         "date": "2026-05-08",
         "is_translated": true
+      },
+      {
+        "title": "【“リリース初日限定の無料配布”で話題を呼んだマルチ対戦ゲーム『Nubs!: Arena』、あえ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Nubs!: Arena』はリリース初日限定の無料配布で話題を呼んだマルチ対戦ゲームです。このゲームは快適な操作性と 面白い対戦要素が評価ポイントとなっています。レビューの内容では、簡単な操作で複雑な戦略が楽しめる点や、対戦相手とのバランスが良く、飽きない点が高く評価されています。このゲームは、対戦ゲームを好む人や、新しいタイプのゲームを探している人にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260509-441982/",
+        "date": "2026-05-09",
+        "is_translated": false
+      },
+      {
+        "title": "【生物進化ローグライト『Everything is Crab』、かわいげ最強キメラになれるとさっ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "生物進化ローグライトゲームの「Everything is Crab」のレビュー記事では、このゲームの評価ポイントとして、ユニークな進化システムや魅力的で可愛いキャラクターが挙げられています。レビューの内容概要としては、プレイヤーがさまざまな生物を進化させて強力なキメラを作ることができ、ゲームの世界観やサウンドトラックも高い評価を得ている点が特筆されます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/everything-is-crab-20260509-441971/",
+        "date": "2026-05-09",
+        "is_translated": false
+      },
+      {
+        "title": "【「Battlefield 6|REDSEC」シーズン3の多彩なコンテンツをまとめた最新ロードマ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Battlefield 6|REDSEC」のシーズン3の最新ロードマップのレビュー記事では、ゲームの評価ポイントとしてグラフィックの向上や新しいマップの追加が挙げられています。さらに、レビューの内容概要として、新しいゲームモードや武器のバランス調整が紹介されています。この記事は、ゲームファンや「Battlefield」シリーズの愛好者にとって役立つ情報が盛り込まれており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166675.html",
+        "date": "2026-05-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-08T21:59:41.894042"
+  "last_updated": "2026-05-09T02:43:35.318430"
 }
