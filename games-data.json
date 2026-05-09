@@ -496,6 +496,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-05-09"
+      },
+      {
+        "title": "Mixtape",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Mixtapeは、音楽と物語が融合した、ユニークな体験を提供するアドベンチャーゲームです。このゲームでは、プレイヤーはさまざまな音楽を組み合わせて物語を進め、キャラクターの関係を深めていきます。現在、Mixtapeは29%オフのセール中で、通常よりもお得にプレイすることができます。このゲームは、音楽と物語の融合が好評で、多くのプレイヤーから高い評価を得ています。",
+        "price": "$14.22",
+        "originalPrice": "",
+        "discount": "-29%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/mixtape/info/",
+        "date": "2026-05-09"
       }
     ],
     "review": [
@@ -1083,8 +1095,21 @@
         "url": "https://www.polygon.com/amberspire-review-indie-city-builder-tabletop/",
         "date": "2026-05-09",
         "is_translated": true
+      },
+      {
+        "title": "【早期アクセス版の発売が迫る期待作「Subnautica 2」初のゲームプレイトレーラーがお披露目】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "期待作「Subnautica 2」の初めてのゲームプレイトレーラーが発表されました。このゲームは、早期アクセス版の発売が近づいており、多くのユーザーから注目されています。レビューのポイントとしては、ゲームのグラフィックやサウンドデザイン、そして新しい機能の追加などがあります。また、ゲームの世界観やストーリーも評価の対象となります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166726.html",
+        "date": "2026-05-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-09T13:40:51.913351"
+  "last_updated": "2026-05-09T21:42:39.221162"
 }
