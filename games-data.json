@@ -484,6 +484,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/arranger-a-role-puzzling-adventure/info/",
         "date": "2026-05-09"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ノーマンズスカイがバリュー店で60%オフのセール中です。このゲームは、オープンワールドのサンドボックスゲームで、プレイヤーが宇宙を自由に探索できることが特徴です。通常価格より大幅に安くなっているので、興味がある人にはおすすめです。また、このゲームは、グラフィックやサウンドトラックが高く評価されており、人気も高いので、セールを逃すことはないでしょう。",
+        "price": "$23.95",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-05-09"
       }
     ],
     "review": [
@@ -1058,8 +1070,21 @@
         "url": "https://automaton-media.com/articles/special-column/nte-20260509-441794/",
         "date": "2026-05-09",
         "is_translated": false
+      },
+      {
+        "title": "【Amberspire レビュー: 十分であることを知る SF 都市建設業者】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Amberspire レビュー記事では、十分であることを知る SF 都市建設業者について紹介しています。このゲームの評価ポイントは、都市の建設と管理、独自のゲームシステム、そしてストーリーの深みです。レビューの内容概要としては、ゲームの魅力と難しさのバランス、グラフィックとサウンドの品質、そしてプレイヤーの自由度が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/amberspire-review-indie-city-builder-tabletop/",
+        "date": "2026-05-09",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-09T10:05:17.499484"
+  "last_updated": "2026-05-09T13:40:51.913351"
 }
