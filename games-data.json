@@ -230,6 +230,42 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/tickettorideallaboardcollection_bundle",
         "date": "2026-05-08"
+      },
+      {
+        "title": "Dead Rising: Shop 'Til You Drop Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Dead Rising: Shop 'Til You Drop Bundleのバンドルが販売中です。このバンドルには、主要タイトルとしてDead Rising、Dead Rising 2、Dead Rising 2: Off the Recordが含まれています。アクションアドベンチャーやサバイバルホラーなどのジャンルで楽しむことができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/deadrisingshoptilyoudropbundle_bundle",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "PLAYISM Publisher Bundle - 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、PLAYISM Publisher Bundle - 2026が販売中です。このバンドルには、主要タイトルとして「Bright Memory: Infinite」や「DEEEER Simulator」、「The Sealed Ampoule」などが含まれています。ジャンルはアクションゲームやシミュレーションゲームなど多様で。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/playismpublisherbundle2026_bundle",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "Silly Heroes Tales Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Silly Heroes Tales Bundleが販売中です。このバンドルには、Silly Heroes、Tiny Tales、Silly Heroes 2などの主要タイトルが含まれており、ファンタジーとアドベンチャーが混在するジャンルです。大まかな価格帯は10ドル以下と見られており、バンドル購入でコストを抑えることができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/silly-heroes-tales-bundle",
+        "date": "2026-05-09"
       }
     ],
     "sale": [
@@ -996,8 +1032,34 @@
         "url": "https://doope.jp/2026/05166675.html",
         "date": "2026-05-09",
         "is_translated": false
+      },
+      {
+        "title": "【『Fallout 4』の中で初代『Fallout』を遊べるようにした人あらわる。ゲーム内ウェア...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Fallout 4』の中で初代『Fallout』を遊べるようにしたゲーム内のウェアについてのレビュー記事です。この記事では、ゲームの評価ポイントとして初代『Fallout』の復刻度やプレイアビリティ、グラフィックの改善などが取り上げられています。また、レビューの内容概要として、初代『Fallout』のファンにとっての懐かしさや、新規プレイヤーに対するアクセシビリティの向上などが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260509-442039/",
+        "date": "2026-05-09",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料「街」オープンワールド『NTE』の家には“帰る理由”がある。だいぶ変な家具や推し...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、基本プレイ無料のオープンワールドゲーム『NTE』の家具システムや推しキャラクターについて紹介しています。記事では、家具を自由に配置できることや、ユニークなキャラクターの設定が特徴として挙げられています。また、ゲームの世界観やストーリーも簡潔に述べられており、ゲームファンやオープンワールドゲームに興味がある読者にとっては参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/nte-20260509-441794/",
+        "date": "2026-05-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-09T02:43:35.318430"
+  "last_updated": "2026-05-09T10:05:17.499484"
 }
