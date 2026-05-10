@@ -472,6 +472,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/overcooked-2/info/",
         "date": "2026-05-10"
+      },
+      {
+        "title": "XCOM 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "XCOM 2はターン制ストラテジーゲームであり、地球外生命体との戦いを描く人気シリーズの最新作です。このゲームでは、プレイヤーはXCOM部隊を指揮して、地球を侵略してきたエイリアンの軍隊と戦います。現在、VariousでXCOM 2が85%オフのセール中です。高い評価と人気を誇るこのゲームは、戦略的なプレイとスリルのあるストーリーで知られており、ファンから高い支持を受けています。",
+        "price": "$2.99",
+        "originalPrice": "",
+        "discount": "-85%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/xcom-2/info/",
+        "date": "2026-05-10"
       }
     ],
     "review": [
@@ -1020,8 +1032,34 @@
         "url": "https://automaton-media.com/articles/newsjp/20260510-441868/",
         "date": "2026-05-10",
         "is_translated": false
+      },
+      {
+        "title": "【ザ・シムズ 3 レビュー (2009)】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ザ・シムズ3は、オープンワールドのゲームプレイが特徴的なシミュレーションゲームです。このゲームの評価ポイントとしては、自由度の高いゲームプレイ、リアルなグラフィック、そして幅広いカスタマイズオプションが挙げられます。ゲームのレビューでは、ユーザーがシムを創造し、生活を設計することができ、非常に楽しいと評価されています。さらに、ゲームのストーリーやキャラクターの開発も評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/the-sims/the-sims-3-review-2009/",
+        "date": "2026-05-10",
+        "is_translated": true
+      },
+      {
+        "title": "【機動戦士ガンダム 閃光のハサウェイ続編レビュー：『ニンフ・キルケの魔術』はここ数年で最高のガン...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "機動戦士ガンダム閃光のハサウェイ続編のレビュー記事では、最新作「ニンフ・キルケの魔術」がここ数年で最高のガンダム作品であると評価されています。このレビューでは、ゲームのストーリーが豊かでキャラクターが魅力的であること、ゲームプレイがスムーズで楽しいこと、グラフィックが美しく細部までこだわっていることが評価ポイントとして挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/gundam-hathaway-sequel-sorcery-of-nymph-circe-review/",
+        "date": "2026-05-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-10T13:42:25.840639"
+  "last_updated": "2026-05-10T21:47:44.468038"
 }
