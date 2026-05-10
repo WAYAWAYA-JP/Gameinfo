@@ -448,6 +448,30 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/409903",
         "date": "2026-05-10"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アドベンチャーゲームの「Clair Obscur: Expedition 33」が、現在26%割引のセール中です。このゲームは、ユーザーから高い評価を獲得しており、人気度も高いゲームです。プレイヤーは、スリリングな冒険の中で、謎を解き明かしていく必要があります。セール期間中は、通常価格よりも安く購入することができますので、興味のある方はチェックしてみてください。",
+        "price": "$36.99",
+        "originalPrice": "",
+        "discount": "-26%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-05-10"
+      },
+      {
+        "title": "Overcooked! 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Overcooked! 2がVariousで75%オフのセール中です。このゲームは、協力プレイを重視したアクションパズルゲームで、最大4人までプレイできるマルチプレイ対応の特徴があります。価格は通常時と比較して大幅に割引されています。Overcooked! 2は、ユーモア溢れるグラフィックと面白いゲームプレイが評価され、非常に人気の高いゲームです。",
+        "price": "$6.24",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/overcooked-2/info/",
+        "date": "2026-05-10"
       }
     ],
     "review": [
@@ -983,8 +1007,21 @@
         "url": "https://automaton-media.com/articles/now-gaming/20260510-442173/",
         "date": "2026-05-10",
         "is_translated": false
+      },
+      {
+        "title": "【デッキ構築系オートバトラー『サムライブリンガー 乱』発表。サムライたちの相性を見極めて陣を編成...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "デッキ構築系オートバトラー『サムライブリンガー 乱』のレビュー記事では、このゲームの評価ポイントとして、サムライたちの相性を見極めて陣を編成する戦略的な要素が高く評価されています。また、ゲームのシステムやストーリーもレビューの内容として取り上げられており、総評としては、このゲームは戦略的な要素とストーリーのバランスが取れていると言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260510-441868/",
+        "date": "2026-05-10",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-10T10:14:17.979193"
+  "last_updated": "2026-05-10T13:42:25.840639"
 }
