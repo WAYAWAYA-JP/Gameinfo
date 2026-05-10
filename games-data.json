@@ -436,6 +436,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/mixtape/info/",
         "date": "2026-05-09"
+      },
+      {
+        "title": "戦場のヴァルキュリア４ コンプリートエディション",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "戦場のヴァルキュリア４ コンプリートエディションがSteamで80% OFFのセール中です。このゲームは、戦術性とストーリーの深みを兼ね備えたタクティカルRPGであり、人気シリーズの最新作として高い評価を得ています。通常価格より大幅に安くなり、ファンや新規プレイヤーにとって絶好の機会です。戦場のヴァルキュリアシリーズの魅力を存分に楽しむことができるコンプリートエディションは。",
+        "price": "¥891",
+        "originalPrice": "¥4,455",
+        "discount": "80% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/409903",
+        "date": "2026-05-10"
       }
     ],
     "review": [
@@ -958,8 +970,21 @@
         "url": "https://doope.jp/2026/05166726.html",
         "date": "2026-05-09",
         "is_translated": false
+      },
+      {
+        "title": "【『Mixtape』から溢れる“アート感”。『Neon Village』の3マッチパズルは疲れた...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム『Mixtape』と『Neon Village』の評価ポイントを紹介しています。『Mixtape』にはアート感が溢れていると評価されていますが、対して『Neon Village』の3マッチパズルはやりがいが感じられないと指摘されています。この記事は、ゲームファンやパズルゲームを楽しみたい人に役立つ内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260510-442173/",
+        "date": "2026-05-10",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-10T02:49:36.922020"
+  "last_updated": "2026-05-10T10:14:17.979193"
 }
