@@ -254,6 +254,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/flirty-elf-bundle",
         "date": "2026-05-11"
+      },
+      {
+        "title": "Heavenly Bullets",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Heavenly Bulletsのバンドルが現在販売中です。このバンドルには、主要なタイトルとしてHeavenly Bullets、Viral Cry、Viral Survivalが含まれており、シューティングゲームやアクションゲームを中心とした作品が収録されています。大まかな価格帯は10ドルから20ドル程度で。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/heavenlybullets_bundle",
+        "date": "2026-05-11"
       }
     ],
     "sale": [
@@ -1018,8 +1030,86 @@
         "url": "https://www.inside-games.jp/article/2026/05/11/181144.html",
         "date": "2026-05-11",
         "is_translated": false
+      },
+      {
+        "title": "【一部ワールドの閉鎖を伴う「Dune: Awakening」サーバー統合の詳細と対象ワールドリス...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Dune: Awakening」は、サーバー統合により一部のワールドが閉鎖されることを伴います。このゲームの評価ポイントとしては、グラフィックの美しさやストーリーの深みがあります。レビューの内容概要としては、ゲームシステムの改善点やプレイヤーの体験が挙げられます。対象読者としては、ゲームファンやSF好きの方がこのレビュー記事を参考にすると良いでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166748.html",
+        "date": "2026-05-11",
+        "is_translated": false
+      },
+      {
+        "title": "【ソウルライクなアクションRPG「Lords of the Fallen」の累計プレイヤー数が8...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Lords of the Fallen」のレビューでは、ゲームの評価ポイントとして、難易度の高いソウルライクなアクションや、豊富なカスタマイズの要素などが高く評価されています。さらに、グラフィックやサウンドの質の高さも評価されており、ゲームの世界観やストーリーも魅力的だと感じることができます。このレビューは、アクションRPGのファンや、ソウルライクゲームを好む人向けに適していますが。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166768.html",
+        "date": "2026-05-11",
+        "is_translated": false
+      },
+      {
+        "title": "【発売が迫るPC Steam版「Subnautica 2」のウィッシュリスト登録が500万件を突...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "PC Steam版「Subnautica 2」のウィッシュリスト登録が500万件を突破しており、発売が迫っている。このゲームの評価ポイントとしては、美しいグラフィックや独自のゲームシステムが挙げられます。レビューの内容概要としては、探索の自由度やストーリーの面白さが高く評価されています。また、オープンワールドゲームやサバイバルゲームが好きな人には特におすすめのゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166742.html",
+        "date": "2026-05-11",
+        "is_translated": false
+      },
+      {
+        "title": "【ミックステープのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ミックステープのレビュー記事では、ゲームの評価ポイントとして、ゲームプレイの自由度、ストーリーの深み、音楽の質を評価しています。レビューの内容概要としては、ゲームのユニークなシステム、キャラクターの魅力、サウンドトラックの素晴らしさなどが取り上げられています。この記事は、音楽ゲームを愛する人や、新しいゲームを探している人にとって、参考になります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/adventure/mixtape-review/",
+        "date": "2026-05-11",
+        "is_translated": true
+      },
+      {
+        "title": "【指令 8020 のレビュー: SF ボディー ホラーの大きな飛躍】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、SFボディホラーのゲーム「指令8020」の評価ポイントを紹介しています。評価のポイントとして、ゲームの独自性と恐怖要素の高さが挙げられています。また、レビューでは、ゲームのストーリーやグラフィックの質も高く評価されています。この記事は、SFボディホラーのファンや、新しいゲームを探している人にとって、参考になる内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/horror/directive-8020-review-one-giant-leap-for-sci-fi-body-horror/",
+        "date": "2026-05-11",
+        "is_translated": true
+      },
+      {
+        "title": "【指令 8020 レビュー: エイリアンにインスピレーションを得たホラー ゲームは B 映画のス...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "指令8020は、エイリアンにインスピレーションを得たホラーゲームで、B映画のスリルを体験できる作品です。このゲームの評価ポイントとしては、独特なゲームプレイやグラフィックの質が挙げられます。レビューでは、ゲームの雰囲気やサウンドトラックの効果が高く評価されています。また、対象読者としては、ホラーゲームファンやB映画好きの方にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/directive-8020-review/",
+        "date": "2026-05-11",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-11T12:10:39.999887"
+  "last_updated": "2026-05-11T15:26:17.902718"
 }
