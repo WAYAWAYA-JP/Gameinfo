@@ -230,6 +230,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/silly-heroes-tales-bundle",
         "date": "2026-05-09"
+      },
+      {
+        "title": "Mexican Entertainment System Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、メキシコのエンターテインメントシステムをテーマにした「Mexican Entertainment System Bundle」が現在販売中です。このバンドルには、主に「Guacamelee!」や「Grim Fandango Remastered」などのタイトルが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/mexicanentertainmentsystembundle_bundle",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "HHFlirty Elf Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、HHFlirty Elf Bundleのバンドルが販売中です。このバンドルには、主要タイトルとして「Flirty Elf」や「Elf Girl」などが含まれています。ゲームのジャンルは主にアドベンチャーとシミュレーションです。大まかな価格帯は10ドル以下と見積もられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/flirty-elf-bundle",
+        "date": "2026-05-11"
       }
     ],
     "sale": [
@@ -459,6 +483,18 @@
         "discount": "-91%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/control-ultimate-edition/info/",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "Slay the Spire",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Slay the SpireがSteamで大きく割引された75% OFFセール中です。このゲームは、ローグライクとカードバトルを融合させたユニークなジャンルで、プレイヤーはデッキを構築して様々な敵と戦っていきます。評価は非常に高く、人気度も高いゲームで、多くのユーザーから高く評価されています。通常価格よりも大幅に安くなっているので、興味がある場合はこの機会にチェックしてみることをお勧めします。",
+        "price": "¥700",
+        "originalPrice": "¥2,800",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/646570",
         "date": "2026-05-11"
       }
     ],
@@ -956,8 +992,34 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-forza-horizon-is-the-last-truly-mainstream-multiplatform-racing-series/",
         "date": "2026-05-11",
         "is_translated": true
+      },
+      {
+        "title": "【『Slay the Spire 2』にまたも不評殺到、Valveが「トピずれのレビュー荒らし」...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Slay the Spire 2』のレビューでは、ゲームの評価ポイントとして、新しいゲームモードやキャラクターの追加が評価されている一方で、バグやパフォーマンスの問題が指摘されていることがわかります。また、レビューの内容概要としては、ゲームの難易度やリプレイ性が高く、戦略的なプレイが要求されることが挙げられ、対象読者としては、ローグライクゲームを好むプレイヤーや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260511-442308/",
+        "date": "2026-05-11",
+        "is_translated": false
+      },
+      {
+        "title": "【「スマホでモンハンって、どうなの？」『モンスターハンターアウトランダーズ』第2回CBTプレイレ...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、スマートフォン向けのゲーム「モンスターハンターアウトランダーズ」の第2回クローズドベータテストプレイレポートを紹介しています。ゲームの評価ポイントとして、操作性やグラフィックの質が高く、モンハンシリーズのファンには満足できる内容であると言及されています。また、ゲームの世界観やストーリーも魅力的であり、シリーズ初心者にも親しみやすいと評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/05/11/181144.html",
+        "date": "2026-05-11",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-11T02:58:27.214129"
+  "last_updated": "2026-05-11T12:10:39.999887"
 }
