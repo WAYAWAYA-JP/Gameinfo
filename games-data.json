@@ -508,6 +508,66 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/646570",
         "date": "2026-05-11"
+      },
+      {
+        "title": "サブノーティカ",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サブノーティカは、水中探索を楽しむことができるアクションアドベンチャーゲームです。このゲームは、美しい海底世界を探索し、海洋生物と関わることが特徴です。現在、Steamで75%オフのセール中であり、通常価格よりも大幅に安くなっています。サブノーティカは、ユーザーから非常に高い評価を受けており、人気度も高いゲームです。",
+        "price": "¥1,075",
+        "originalPrice": "¥4,300",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/264710",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "サブノーティカ：ビロウゼロ",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サブノーティカ：ビロウゼロは、現在Steamで75%オフのセール中です。このゲームは、水中を探索するアクションアドベンチャーゲームで、美しいグラフィックと奥深いストーリーが特徴です。プレイヤーは水中を自由に泳ぎながら、未知の生物や遺跡を発見することができます。評価は非常に高く、多くのユーザーから人気を博していますが、今すぐ購入すれば大幅な割引価格で手に入れることができます。",
+        "price": "¥1,075",
+        "originalPrice": "¥4,300",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/848450",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "Hell is Us",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「Hell is Us」がSteamで60％オフのセール中です。このゲームは、オープンワールドを舞台に、プレイヤーがさまざまな敵と戦いながら、ストーリーを進めていくという特徴があります。現在の価格は大幅に割引されており、評価も高い人気ゲームです。",
+        "price": "¥2,632",
+        "originalPrice": "¥6,580",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1620730",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "Okami HD",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Okami HDがVariousで50%割引のセール中です。このアクションアドベンチャーゲームは、美しい日本風のグラフィックと独特のゲームプレイが特徴で、評価も非常に高い人気ゲームです。通常価格より半額で購入できるこの機会をぜひお見逃しなくください。",
+        "price": "$9.99",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/okami-hd/info/",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "Dragon's Dogma: Dark Arisen",
+        "platform": "Various",
+        "type": "sale",
+        "description": "オープンワールドのアクションRPGである「Dragon's Dogma: Dark Arisen」が現在、84%割引のセール中です。このゲームは、広大な世界で自由に冒険できることが特徴で、プレイヤーは様々なクエストやモンスターと戦うことができます。評価も高く、人気ゲームとして知られています。価格は大幅に下がっており、興味がある方は今がチャンスです。",
+        "price": "$4.79",
+        "originalPrice": "",
+        "discount": "-84%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dragons-dogma-dark-arisen/info/",
+        "date": "2026-05-11"
       }
     ],
     "review": [
@@ -1108,8 +1168,21 @@
         "url": "https://www.polygon.com/directive-8020-review/",
         "date": "2026-05-11",
         "is_translated": true
+      },
+      {
+        "title": "【『バトルスター ギャラクティカ: 散り散りになった希望』レビュー - サイロン、妨害行為、性感...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "「バトルスター ギャラクティカ: 散り散りになった希望」のレビュー記事では、サイロンとの戦いの中で起こる妨害行為や、性感的な要素について触れています。このゲームはサイファイファンやアクションゲーム好きに向けており、評価ポイントとしては、緊張感のある戦闘シーンや、キャラクターの深みなどがあげられます。レビューでは、これらの要素がどう組み合わさってプレイヤーを魅了するのかが説明されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/battlestar-galactica-scattered-hopes-review-an-iffy-take-on-the-sci-fi-series-that-had-me-contending-with-cylons-sabotage-and-stds",
+        "date": "2026-05-11",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-11T15:26:17.902718"
+  "last_updated": "2026-05-11T22:07:59.791238"
 }
