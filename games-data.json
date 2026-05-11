@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Mexican Entertainment System Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble BundleでMexican Entertainment System Bundleが販売中です。このバンドルには、主要タイトルとして「Guacamelee!」や「Gone Home」、「Abzu」などが含まれており、インディーゲームを中心としたバンドルです。ジャンルはアクションゲームやアドベンチャーゲームが多く含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/mexicanentertainmentsystembundle_bundle",
-        "date": "2026-05-01"
-      },
-      {
         "title": "Your Move: Turn Based Games",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,30 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Street Fighter 6",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ストリートファイター6がSteamで50%オフのセール中です。この対戦格闘ゲームは、シンプルながらも深い戦略性を備えたゲームプレイが特徴で、人気ゲームシリーズの最新作として話題を集めています。セール期間中は通常価格の半額で購入できます。ユーザーの評価も高く、ファンから好評を博しており、格闘ゲームファンにはお勧めのタイトルです。",
-        "price": "¥2,495",
-        "originalPrice": "¥4,990",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1364780",
-        "date": "2026-05-04"
-      },
-      {
-        "title": "Ghost of Tsushima DIRECTOR'S CUT",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームの『Ghost of Tsushima DIRECTOR'S CUT』が現在、Variousで35%割引のセール中です。このゲームは、美しい日本の風景を背景に、戦闘と探索を楽しむことができます。高い評価と人気度を誇り、多くのプレイヤーから好評を博しています。セール期間中は、通常価格よりも大幅に安く購入することができますので。",
-        "price": "$38.99",
-        "originalPrice": "",
-        "discount": "-35%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
-        "date": "2026-05-04"
-      },
       {
         "title": "Hogwarts Legacy",
         "platform": "Various",
@@ -484,113 +448,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/xcom-2/info/",
         "date": "2026-05-10"
+      },
+      {
+        "title": "Control Ultimate Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの「Control Ultimate Edition」が、現在Variousで91%OFFのセール中です。このゲームは、独特の時間操作や物体操作の能力を活用して、謎の facility を探索する内容で、評価も高い人気ゲームです。通常価格より大幅に安い価格で購入することができ、ゲームファンにはおすすめです。",
+        "price": "$3.52",
+        "originalPrice": "",
+        "discount": "-91%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/control-ultimate-edition/info/",
+        "date": "2026-05-11"
       }
     ],
     "review": [
-      {
-        "title": "【ソーシャルステルスからガンカタまで、ゼロから再構築された「Assassin’s Creed B...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、ゼロから再構築された「Assassin’s Creed」シリーズの最新作「Assassin’s Creed B」を紹介しています。ソーシャルステルスからガンカタまで、シリーズの新しい試みが評価されています。記事ではゲームの評価ポイントとして、グラフィックの向上、ゲームプレイの多様性、ストーリーの深みを挙げています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166620.html",
-        "date": "2026-05-06",
-        "is_translated": false
-      },
-      {
-        "title": "【新作マルチプレイヤーパーティゲーム「Sledding Game」が発売から5日で10万本販売を達成】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "新作マルチプレイヤーパーティゲームの「Sledding Game」は、発売から5日で10万本の販売を達成し、大きな注目を集めています。このゲームの評価ポイントとしては、ユニークなゲームプレイや多彩なキャラクターが挙げられます。レビューでは、ゲームの面白さやコミュニケーションの重要性が強調されています。また、グラフィックの美しさやサウンドトラックの魅力も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166616.html",
-        "date": "2026-05-06",
-        "is_translated": false
-      },
-      {
-        "title": "【協力2人プレイ対応ローグライトアクション『Dark Scrolls』5月29日配信へ。クセ強ヒ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ローグライトアクションゲーム『Dark Scrolls』のレビュー記事では、協力2人プレイの対応やクセの強いゲーム性が評価ポイントとして取り上げられています。また、ゲームの難易度やグラフィックの質に関するレビューの内容も概要として触れられています。このレビュー記事は、ローグライトアクションゲームのファンや協力プレイに興味がある読者にとって参考になる情報を提供しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/dark-scrolls-20260506-441426/",
-        "date": "2026-05-06",
-        "is_translated": false
-      },
-      {
-        "title": "【協力マルチ対応・中世ファンタジー酒場経営シム『Rekindled: Cozy Tavern L...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "中世ファンタジーを舞台にした酒場経営シムの「Rekindled: Cozy Tavern」は、協力マルチプレイ対応で、プレイヤーは友達と一緒に酒場を運営することができます。このゲームは、ユーザーインターフェイスの使いやすさやグラフィックの美しさが評価ポイントになっています。さらに、レビューではゲームのストーリーやキャラクターの魅力も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/rekindled-20260506-441408/",
-        "date": "2026-05-06",
-        "is_translated": false
-      },
-      {
-        "title": "【人間・怪獣入り乱れ非対称マルチバトル『BeastLink』発表。都市ぶっ壊し怪獣と生き残りを賭...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『BeastLink』は、都市を破壊する怪獣と生き残りを賭けて戦う非対称マルチバトルのゲームです。このゲームの評価ポイントは、プレイヤー同士の戦略的なバトルや、都市の破壊シーンの爽快さなどです。レビューの内容概要としては、ゲームの独自性や、プレイヤーのストレス解消への効果が掘り下げられています。対象読者は、アクションゲームやマルチバトルゲームのファンだと感じると思います。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/beastlink-20260506-441391/",
-        "date": "2026-05-06",
-        "is_translated": false
-      },
-      {
-        "title": "【待望の復活を遂げた『トモコレ わくわく生活』に、プレイヤーが下した評価は？ 賛否の傾向がアンケ...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "トモコレ わくわく生活は 待望の復活を遂げたゲームです。このゲームの評価ポイントとしては、ゲームの内容、グラフィックの質、プレイの楽しさなどが挙げられます。レビューの内容概要としては、ゲームのストーリーが面白い、グラフィックが美しい、操作が簡単などが挙げられます。対象読者としては、ゲームファン、特にトモコレシリーズのファンに興味がある方にすすめます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/05/06/180937.html",
-        "date": "2026-05-06",
-        "is_translated": false
-      },
-      {
-        "title": "【Valve が Steam コントローラーの CAD ファイルをリリースしたので、バラモリーか...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、ValveがSteamコントローラーのCADファイルをリリースしたことを受けて、コントローラーの評価ポイントやレビューの内容を概説しています。記事では、コントローラーのデザインや操作性、カスタマイズ性などの点が評価されています。特に、ゲーム好きの方やSteamコントローラーを購入を検討している方にとって、参考になる内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/valve-release-the-steam-controllers-cad-files-so-you-can-channel-your-inner-archie-from-balamory-and-design-mods-or-accessories-for-it",
-        "date": "2026-05-06",
-        "is_translated": true
-      },
-      {
-        "title": "【『モータルコンバット 2』の映画レビューが掲載され、「楽しく暴力的」から「憂鬱なほど荒れない」...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "モータルコンバット2の映画レビュー記事では、映画の暴力的な描写やアクションシーンが高評価されていますが、一方でストーリーの弱さやキャラクターの深みのなさが指摘されています。ゲームファンやアクション映画のファンにとっては、面白い作品になる可能性がありますが、ストーリーやキャラクターの深みを求める観客にとっては、少し物足りないかもしれません。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/movies-tv/mortal-kombat-2-movie-reviews-are-in-and-its-being-called-everything-from-enjoyably-violent-to-depressingly-rizzless/",
-        "date": "2026-05-06",
-        "is_translated": true
-      },
       {
         "title": "【『シヴィライゼーション VII』無料超大型アプデが5月19日配信へ。「同じ文明でずっとプレイで...】",
         "platform": "AUTOMATON",
@@ -602,19 +474,6 @@
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20260507-441490/",
         "date": "2026-05-07",
-        "is_translated": false
-      },
-      {
-        "title": "【単一の文明で全体をプレイするオプションや勝利システムの刷新を含む「シヴィライゼーション VII...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「シヴィライゼーション VII」のレビュー記事では、単一の文明で全体をプレイするオプションや勝利システムの刷新を含む新しい要素が評価されています。このゲームは、ストラテジー要素に興味のあるプレイヤー向けに設計されており、ゲームの難易度やグラフィックの美しさも高く評価されています。特に、単一の文明で全体をプレイするオプションは、プレイヤーがより深く文明の歴史を体験できるように設計されており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166635.html",
-        "date": "2026-05-06",
         "is_translated": false
       },
       {
@@ -1058,8 +917,47 @@
         "url": "https://www.polygon.com/gundam-hathaway-sequel-sorcery-of-nymph-circe-review/",
         "date": "2026-05-10",
         "is_translated": true
+      },
+      {
+        "title": "【「The Elder Scrolls III: Morrowind」を「ELDEN RING」...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「The Elder Scrolls III: Morrowind」を「ELDEN RING」の先駆けとして評価するレビュー記事があります。このレビューでは、ELDEN RINGの広大なオープンワールドと深いストーリーが高い評価を受けている点や、Morrowindの影響を受けたゲームシステムが注目されている点が紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166745.html",
+        "date": "2026-05-11",
+        "is_translated": false
+      },
+      {
+        "title": "【過去の自分と戦うタイムループパズル暗殺シューター「Rewindead」のデモ配信が5月14日に...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Rewindead」のレビュー記事では、このゲームはタイムループパズルと暗殺シューティングの要素を組み合わせたユニークな作品であると評価されています。ゲームの評価ポイントとしては、繰り返されるループの中で過去の自分と戦う戦略的な要素や、ステージのデザインが挙げられます。レビューでは、タイムループパズルの面白さや、暗殺シューティングの爽快感などが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166737.html",
+        "date": "2026-05-11",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam 週間の振り返り: Forza Horizo​​n は最後の真の主流マルチプラットフ...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事では、Forza Horizo​​n の評価ポイントとして、グラフィックの質やゲームプレイの面白さを取り上げています。また、レビューの内容として、マルチプラットフォームでのプレイやオンラインモードの充実度も評価しています。対象読者としては、レースゲームファンやマルチプラットフォームでのプレイを楽しむユーザーが想定されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-forza-horizon-is-the-last-truly-mainstream-multiplatform-racing-series/",
+        "date": "2026-05-11",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-10T21:47:44.468038"
+  "last_updated": "2026-05-11T02:58:27.214129"
 }
