@@ -640,6 +640,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/v-rising/info/",
         "date": "2026-05-12"
+      },
+      {
+        "title": "Devil May Cry 4 Special Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Devil May Cry 4 Special EditionがSteamで80% OFFのセール中です。このアクションアドベンチャーゲームは、高速な戦闘とスピーディな操作が特徴で、シリーズファンから高い評価を得ています。現在、通常価格よりも大幅に安くなっているので、ゲーム好きの方にはおすすめです。人気度も高く、多くのプレイヤーがこのゲームを楽しんでいます。",
+        "price": "¥498",
+        "originalPrice": "¥2,490",
+        "discount": "80% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/329050",
+        "date": "2026-05-12"
       }
     ],
     "review": [
@@ -1230,5 +1242,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-12T14:38:34.568556"
+  "last_updated": "2026-05-12T22:12:12.517900"
 }
