@@ -242,6 +242,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/heavenlybullets_bundle",
         "date": "2026-05-11"
+      },
+      {
+        "title": "Your Move: Turn Based Games",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、ターン制ストラテジーゲームを集めた「Your Move: Turn Based Games」というバンドルが販売中です。このバンドルには、注目されるタイトルである「XCOM 2」や「Into the Breach」、「BattleTech」などのゲームが含まれています。ジャンルはストラテジーで、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/yourmoveturnbasedgames_bundle",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "Pixel Traditions Bundle 2",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Pixel Traditions Bundle 2が販売中です。このバンドルには、A Short HikeやForager、Stardew Valleyなどの人気タイトルが含まれています。ジャンルは、インディーゲームやシミュレーションゲーム、ロールプレイングゲームなど多様なものが含まれています。大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/pixel-traditions2-bundle",
+        "date": "2026-05-12"
       }
     ],
     "sale": [
@@ -1115,8 +1139,34 @@
         "url": "https://doope.jp/2026/05166744.html",
         "date": "2026-05-12",
         "is_translated": false
+      },
+      {
+        "title": "【高評価ホテル建設・経営シム『Hotel Architect（ホテル・アーキテクト）』日本語対応...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ホテル・アーキテクトは、ホテルの建設と経営をシミュレートするゲームです。このゲームの評価ポイントとしては、ユーザーが自由にホテルを設計できる点や、経営の面でさまざまな戦略を立てられる点が挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドの質が高いこと、そしてゲームの難易度が適切であることがあげられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260512-442501/",
+        "date": "2026-05-12",
+        "is_translated": false
+      },
+      {
+        "title": "【私たちの最もレビューの高いソウルライクの 1 つである Nine Sols は、今週 Stea...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "私たちがレビューしたソウルライクゲームの中で最も高い評価を受けた「Nine Sols」についての記事です。このゲームの評価ポイントとしては、挑戦的な難易度や独自のゲームシステムが挙げられます。レビューでは、ゲームの世界観やストーリー、そしてプレイヤーのスキルを試すような戦闘システムについて触れています。この記事は、ソウルライクゲームのファンや、新しいゲームを探しているゲーマーに特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/nine-sols-one-of-our-best-reviewed-soulslikes-is-just-usd12-on-steam-this-week/",
+        "date": "2026-05-12",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-12T02:50:30.335077"
+  "last_updated": "2026-05-12T11:21:48.336856"
 }
