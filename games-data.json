@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Your Move: Turn Based Games",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、ターン制ストラテジーゲームのバンドル「Your Move: Turn Based Games」が販売中です。このバンドルには、主要タイトルとして「XCOM 2」、「Wasteland 2」、「Hard West」などが含まれています。ジャンルはストラテジー、RPGで、大まかな価格帯は数千円から1万円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/yourmoveturnbasedgames_bundle",
-        "date": "2026-05-02"
-      },
-      {
-        "title": "Pixel Traditions Bundle 2",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Pixel Traditions Bundle 2がIndieGalaで販売中です。このバンドルには、A Short Hike、Moonlighter、Foragerなどのタイトルが含まれています。ジャンルはインディーゲームで、価格帯は大体1,000円から2,000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/pixel-traditions2-bundle",
-        "date": "2026-05-02"
-      },
-      {
         "title": "MECHA MANIA",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -269,18 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Hogwarts Legacy",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Hogwarts LegacyはオープンワールドアクションRPGゲームで、ハリー・ポッターの世界を舞台に魔法使いのキャラクターを操作して冒険することができます。このゲームは、魔法の学習やキャラクターの成長、そして自由な探索が可能なオープンワールドが特徴です。現在、Variousで87%の割引セール中で、価格が大幅に下がっています。",
-        "price": "$7.99",
-        "originalPrice": "",
-        "discount": "-87%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
-        "date": "2026-05-05"
-      },
       {
         "title": "DAVE THE DIVER",
         "platform": "Various",
@@ -568,126 +532,57 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dragons-dogma-dark-arisen/info/",
         "date": "2026-05-11"
+      },
+      {
+        "title": "Devil May Cry 5",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「Devil May Cry 5」がSteamで85%オフのセール中です。このゲームは高速なアクションとスリリングなストーリーで人気を博しており、多くのゲーマーから高い評価を得ています。現在の価格は大幅に割引されており、シリーズファンやアクションゲーム好きにはお勧めのチャンスです。",
+        "price": "¥448",
+        "originalPrice": "¥2,990",
+        "discount": "85% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/601150",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "九日ナインソール",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「九日ナインソール」がSteamで60%オフのセール中です。このゲームは、独特のグラフィックとシンプルながらも奥深いゲームシステムが特徴です。現在の価格は大幅に割引されており、ファンから高い評価を得ています。人気度も高く、多くのプレイヤーから支持を得ています。セール期間中は大変お得な価格で購入することができるので、興味がある方はぜひチェックしてみてください。",
+        "price": "¥1,360",
+        "originalPrice": "¥3,400",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1809540",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "Devil May Cry HD Collection",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Devil May Cry HD CollectionがSteamで85% OFFセール中です。このアクションアドベンチャーゲームは、高速のアクションとスタイリッシュなグラフィックが特徴で、ファンから高い評価を受けています。現在の価格は大幅に割引されており、通常価格より大幅に安くなっています。人気シリーズのコレクションなので、シリーズのファンやアクションゲームを楽しむユーザーにはおすすめです。",
+        "price": "¥448",
+        "originalPrice": "¥2,990",
+        "discount": "85% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/631510",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "Risk of Rain 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションパックの3DアクションゲームであるRisk of Rain 2が現在、Variousで67%オフのセール中です。このゲームは、ランダムな要素や難易度の高いボス戦が特徴で、ファンから高い評価を受けています。人気度も高く、プレイヤーから熱烈な支持を受けています。価格が割引されているので、この機会に一度遊んでみてください。",
+        "price": "$8.24",
+        "originalPrice": "",
+        "discount": "-67%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/risk-of-rain-2/info/",
+        "date": "2026-05-12"
       }
     ],
     "review": [
-      {
-        "title": "【『シヴィライゼーション VII』無料超大型アプデが5月19日配信へ。「同じ文明でずっとプレイで...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『シヴィライゼーション VII』の最新アプデは、5月19日に配信予定です。このアプデの評価ポイントとしては、ゲームプレイの深化や新要素の追加が挙げられます。レビューでは、ゲームのバランス調整や新しい戦略の導入が高く評価されています。また、同じ文明で続けてプレイすることの面白さも紹介されています。このゲームは、ストラテジーゲームファンやシリーズの愛好者に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260507-441490/",
-        "date": "2026-05-07",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料セクシーTPS『スノウブレイク：禁域降臨』、約2か月の超長期メンテナンスを乗り越...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料セクシーTPS『スノウブレイク：禁域降臨』のレビューでは、約2か月間の超長期メンテナンスを経てのゲーム内容やグラフィックの向上、ストーリーや操作性の改善などが評価ポイントとして挙げられます。このゲームは、セクシーなキャラクターが登場するアクション要素が特徴的なTPSです。対象読者としては、TPSやアクションゲームが好きな人や、セクシーなゲームに興味がある人にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/snowbreak-20260507-441573/",
-        "date": "2026-05-07",
-        "is_translated": false
-      },
-      {
-        "title": "【人気“クトゥルフ”ホラー続編「The Sinking City 2」初の本格的なゲームプレイト...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「The Sinking City 2」のレビュー記事では、ゲームの評価ポイントとして、ホラー要素の充実さや、ストーリーの奥深さが高く評価されています。また、ゲームの雰囲気やグラフィックの質も高く評価されており、クトゥルフシリーズのファンには必見の作品であると言えるでしょう。このレビューは、ホラーゲームやクトゥルフシリーズが好きな人にとって、是非読んでみるべき記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166666.html",
-        "date": "2026-05-07",
-        "is_translated": false
-      },
-      {
-        "title": "【“The Artful Escape”を生んだBEETHOVEN & DINOSAURの新作「...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "BEETHOVEN & DINOSAURの新作ゲーム「...」のレビュー記事では、ゲームのユニークなグラフィックやサウンドトラック、そしてストーリーの深さが評価されています。このゲームは、前作「The Artful Escape」のファンや、インディーゲームを楽しむ人向けのコンテンツです。レビューでは、ゲームのキャラクター設定や世界観の構築が高く評価されており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166660.html",
-        "date": "2026-05-07",
-        "is_translated": false
-      },
-      {
-        "title": "【SteelSeries Arctis Nova Pro Omni レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "SteelSeries Arctis Nova Pro Omni レビューでは、このゲームヘッドセットの評価ポイントとして、音質、耐久性、デザインが挙げられます。このレビュー記事では、ヘッドセットの実際の使用感や、さまざまなゲームでの動作をチェックし、総評としては高品質な音質と優れた耐久性を備えていることがわかりました。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-headsets/steelseries-arctis-nova-pro-omni-review/",
-        "date": "2026-05-07",
-        "is_translated": true
-      },
-      {
-        "title": "【Zowie XL2586X+ 600 Hz レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Zowie XL2586X+ 600 Hz レビュー記事では、このゲームディスプレイの評価ポイントとして、高速なリフレッシュレートや低遅延機能などの性能が挙げられます。また、レビューの内容概要として、ディスプレイの画像のクオリティやレスポンスの速さ、さらにコントローラーやコンピュータとの互換性についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/zowie-xl2586x-600-hz-review/",
-        "date": "2026-05-07",
-        "is_translated": true
-      },
-      {
-        "title": "【Will: Follow the Light レビュー - かなりの北極の冒険ですが、退屈なパ...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Will: Follow the Lightのレビュー記事では、このゲームの評価ポイントとしてグラフィックやサウンドトラックの美しさが挙げられています。また、北極の厳しい環境を舞台にした冒険が面白いという点も評価されています。しかし、ゲームの進行がやや退屈な部分があることも指摘されています。このレビュー記事は、アクションアドベンチャーゲームを楽しむことが好きな人や。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/will-follow-the-light-review",
-        "date": "2026-05-07",
-        "is_translated": true
-      },
-      {
-        "title": "【ミックステープレビュー: アンナプルナの青春コメディは殺し屋でもありフィラーでもある】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事は、映画「ミックステープ」の評価ポイントを取り上げています。内容の概要としては、アンナプルナの青春コメディが殺し屋でもありフィラーでもあることが示唆されています。また、作品のジャンルが青春コメディと殺し屋という二つの要素を兼ねている点や、ストーリーの展開が予測できない点などが評価ポイントとして挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/mixtape-review/",
-        "date": "2026-05-07",
-        "is_translated": true
-      },
-      {
-        "title": "【Amberspire レビュー - 都市のスプロール化における危険な生態詩に特化した戦略ゲーム】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Amberspireは、都市のスプロール化における危険な生態詩をテーマにした戦略ゲームです。このゲームの評価ポイントとしては、ユニークなテーマや独自のゲームシステムが挙げられます。レビューの内容概要としては、都市の成長を管理しながら資源を効率的に活用する方法や、生態系のバランスを維持するための戦略的なアプローチが紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/amberspire-review-a-strategy-game-dedicated-to-the-dicey-ecopoetics-of-urban-sprawl",
-        "date": "2026-05-07",
-        "is_translated": true
-      },
       {
         "title": "【SNS調査推理ゲーム『ミカクテイ事件の観測者-Demons’Timeline-』、“生々しいS...：レビュー】",
         "platform": "AUTOMATON",
@@ -713,32 +608,6 @@
         "url": "https://doope.jp/2026/05166690.html",
         "date": "2026-05-08",
         "is_translated": false
-      },
-      {
-        "title": "【人気“エイリアン”Co-opサバイバルシューター続編「Aliens: Fireteam Eli...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Aliens: Fireteam Elite」のレビュー記事では、このCo-opサバイバルシューターが高い評価を受けるポイントを紹介しています。まず、エイリアンとの戦闘がリアルで緊張感があり、アドレナリンが溢れる体験になっていることが評価されています。また、ユニークなキャラクターのスキルや装備が豊富で、プレイヤーが自分の戦闘スタイルを自由に選択できることにも高評価が寄せられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166667.html",
-        "date": "2026-05-07",
-        "is_translated": false
-      },
-      {
-        "title": "【新しいモータルコンバット映画のプロデューサーは、映画評論家がこの映画を映画として評価しているこ...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "新しいモータルコンバット映画のプロデューサーは、映画評論家がこの映画を映画として評価していることに満足しているようです。この映画の評価ポイントは、激しいアクションシーン、ストーリーの深み、キャラクターの魅力などがあります。レビューの内容概要としては、映画のグラフィックやサウンドデザインが高く評価されていること、キャラクターのバックストーリーがしっかりと描かれていること。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/movies-tv/the-producer-of-the-new-mortal-kombat-film-is-annoyed-that-film-reviewers-are-appraising-it-as-a-film/",
-        "date": "2026-05-07",
-        "is_translated": true
       },
       {
         "title": "【真っ暗闇対戦FPS『Blindfire』、サービス終了の代わりに「無料化＆サーバー無期限稼働」...：レビュー】",
@@ -1181,8 +1050,73 @@
         "url": "https://www.rockpapershotgun.com/battlestar-galactica-scattered-hopes-review-an-iffy-take-on-the-sci-fi-series-that-had-me-contending-with-cylons-sabotage-and-stds",
         "date": "2026-05-11",
         "is_translated": true
+      },
+      {
+        "title": "【『Forza Horizon 6』公式、ゲームデータ流出を受け“フライング不正プレイ”に厳しく...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Forza Horizon 6の公式レビュー記事では、ゲームデータの流出を受けて、不正プレイに対する厳しい措置がとられていることが紹介されています。このゲームは、グラフィックやサウンドの高品質さ、自由度の高いゲームプレイが特徴です。評価ポイントとしては、グラフィックの美しさ、車の挙動のリアルさ、そしてオンラインモードの盛り上がりなどが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260512-442429/",
+        "date": "2026-05-12",
+        "is_translated": false
+      },
+      {
+        "title": "【リトルナイトメアの開発者達が設立した新スタジオ“Section 9 Interactive”の...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "リトルナイトメアの開発者達が設立した新スタジオ“Section 9 Interactive”のゲームをレビューする記事です。このゲームは、独自の世界観とストーリー、そしてゲームプレイの面白さが評価ポイントになっています。レビューでは、ゲームのグラフィックやサウンドトラックの高品質さ、そしてプレイヤーの感情を揺さぶるストーリー展開が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166779.html",
+        "date": "2026-05-12",
+        "is_translated": false
+      },
+      {
+        "title": "【“インビンシブル ～無敵のヒーロー～”格闘ゲーム「Invincible VS」のプレイヤー数が...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「インビンシブル ～無敵のヒーロー～」の格闘ゲーム「Invincible VS」のレビュー記事では、プレイヤー数の増加やゲームの評価ポイント、レビューの内容概要が紹介されています。具体的には、ゲームの操作性やグラフィックの質、ストーリーの面白さなどが評価ポイントとして挙げられています。さらに、レビューでは、ゲームの難易度やプレイヤー数の増加によるマッチングの改善などが取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166776.html",
+        "date": "2026-05-12",
+        "is_translated": false
+      },
+      {
+        "title": "【ダークゴシックソウルライク「Lies of P」の続編開発が本格化、ストーリーのさらなる強化も：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ダークゴシックソウルライクゲーム「Lies of P」の続編開発が本格化していると発表されました。このゲームは、ダークな世界観と奥深いストーリーで人気を博しています。レビューでは、ゲームの評価ポイントとしてストーリーの引き付けられる要素や、難易度の高さが挙げられています。また、続編ではストーリーのさらなる強化が予想され、ファンたちは大いに期待しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166751.html",
+        "date": "2026-05-12",
+        "is_translated": false
+      },
+      {
+        "title": "【「007 First Light」のPS5 Pro版は60fpsで動作、Io-Interact...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「007 First Light」のPS5 Pro版は、60fpsで動作し、Io-Interactシステムを搭載していることが評価ポイントです。このレビュー記事では、ゲームのグラフィックやサウンドデザインも高く評価されています。また、ストーリーも面白く、キャラクターの開発も良好です。このレビューは、PS5 Pro版のパフォーマンスに興味がある人や、007シリーズのファンに推奨できます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166744.html",
+        "date": "2026-05-12",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-11T22:07:59.791238"
+  "last_updated": "2026-05-12T02:50:30.335077"
 }
