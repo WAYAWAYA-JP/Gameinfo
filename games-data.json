@@ -1099,8 +1099,47 @@
         "url": "https://www.polygon.com/punisher-one-last-kill-review-marvel/",
         "date": "2026-05-13",
         "is_translated": true
+      },
+      {
+        "title": "【ロシア売店運営ゲーム『I Have No Change』Steam無料プレイテストがさっそく大...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『I Have No Change』は、ユニークな売店運営ゲームで、プレイヤーはロシアの売店を経営しながら、さまざまな顧客とのやり取りに応じる必要があります。このゲームの評価ポイントとしては、ユーモア溢れるストーリーや、複雑な顧客との交渉が挙げられます。また、レビューの内容としては、ゲームのユニークな設定や、プレイヤーへの挑戦的な要素が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260513-442801/",
+        "date": "2026-05-13",
+        "is_translated": false
+      },
+      {
+        "title": "【「SILENT HILL f」の世界的な出荷本数が累計200万本を突破、「SILENT HIL...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "SILENT HILL fの世界的な出荷本数が累計200万本を突破したことを受けて、レビュー記事が公開されました。本作は、ストーリー、グラフィック、サウンドデザインの評価ポイントが高く、多くのゲーマーから好評価を得ています。レビューでは、ゲームの雰囲気や緊張感、キャラクターの深みなどが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166824.html",
+        "date": "2026-05-13",
+        "is_translated": false
+      },
+      {
+        "title": "【マーシャルアーツとミュージックビデオを組み合わせた独創的な新作「Dead as Disco」の...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Dead as Disco」のレビュー記事では、このゲームの独創的なゲームプレイが評価されています。マーシャルアーツとミュージックビデオを組み合わせたこのゲームは、ユニークな体験を提供しています。レビューでは、ゲームのグラフィックやサウンドトラックも高く評価されています。この記事は、ゲームファンや新しいゲームを探している人にとって、参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166798.html",
+        "date": "2026-05-13",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-13T02:55:55.213223"
+  "last_updated": "2026-05-13T11:30:21.247248"
 }
