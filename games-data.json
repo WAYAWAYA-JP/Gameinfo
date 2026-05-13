@@ -266,6 +266,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/pixel-traditions2-bundle",
         "date": "2026-05-12"
+      },
+      {
+        "title": "Humble 15th Anniversary - Indie Icons Showcase",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble 15th Anniversary - Indie Icons Showcaseというバンドルが現在販売中です。このバンドルには、Faster Than Light、Hyper Light Drifter、Night in the Woodsなどの主要タイトルが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/humble15thanniversaryindieiconsshowcase_bundle",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "Build, Shuffle, Battle!",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Build, Shuffle, Battle!のバンドルが現在販売中です。このバンドルには、カードゲームやストラテジーゲームが含まれており、主要タイトルとして「Slay the Spire」や「Card Quest」などが含まれています。ジャンルはメインにカードゲームやストラテジーで、価格帯は大まかに1000円から2000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/buildshufflebattle_bundle",
+        "date": "2026-05-13"
       }
     ],
     "sale": [
@@ -1151,8 +1175,34 @@
         "url": "https://www.inside-games.jp/article/2026/05/13/181258.html",
         "date": "2026-05-13",
         "is_translated": false
+      },
+      {
+        "title": "【ジェームズ・ボンドのオリジンを描く「007 First Light」が遂に完成、Io-Inte...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「007 First Light」はジェームズ・ボンドのオリジンを描いたゲームで、Io-Interactiveによって開発されました。このゲームの評価ポイントとしては、ストーリーの魅力、ゲームプレイのスリル、グラフィックの高品質が挙げられます。レビューの内容概要としては、ゲームのストーリーがボンドのキャラクターを深く掘り下げていること、ミッションの多様性が高く、プレイヤーを飽きさせないこと。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166802.html",
+        "date": "2026-05-13",
+        "is_translated": false
+      },
+      {
+        "title": "【Cooler Master MasterFrame 360​​ パノラマ レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Cooler Master MasterFrame 360​​ パノラマ レビューでは、ゲーミングパソコンのケースとしての性能やデザイン、クーラーとの相性などが評価されています。このレビューでは、特に空間の広さや冷却性、またユーザーが自在にカスタマイズできる点が高く評価されています。ゲーミングパソコンを高性能化したい。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/pc-cases/cooler-master-masterframe-360-panorama-review/",
+        "date": "2026-05-13",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-13T14:49:13.328164"
+  "last_updated": "2026-05-13T22:12:05.224833"
 }
