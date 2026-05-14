@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "アレンジャー・ロールパズリングの旅",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "アレンジャー・ロールパズリングの旅は、パズルとロールプレイングの要素を組み合わせた、ユニークなゲームです。このゲームの特徴は、プレイヤーが様々なパズルを解くことで、物語が進んでいきます。また、グラフィックが美しいことや、ゲームの雰囲気がとても癒しであることも魅力です。このゲームは、Epic Gamesプラットフォームで無料で配布されていますので、誰でも簡単に遊ぶことができます。",
+        "price": "無料",
+        "originalPrice": "¥29",
+        "discount": "100% OFF",
+        "deadline": "2026年05月14日まで",
+        "url": "https://store.epicgames.com/ja/p/8883fa6958a24a00b6f33166e4552833",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Trash Goblin",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "このゲームは、プレッシャーやストレスがなく、いつまでも良い雰囲気が続く、健全で居心地の良い店番ゲームです。主な特徴として、装身具を見つけてきれいにし、アップサイクルして、無限のカラフルで風変わりな顧客に販売することができます。また、節約したお金を使ってショップをアップグレードし、より良いツールを購入し、さらにスペースを拡張してカスタマイズすることも魅力です。",
+        "price": "無料",
+        "originalPrice": "¥19",
+        "discount": "100% OFF",
+        "deadline": "2026年05月14日まで",
+        "url": "https://store.epicgames.com/ja/p/7ea9b97f6a8b4c5d8047733207c5c65c",
+        "date": "2026-05-14"
+      }
+    ],
     "bundle": [
       {
         "title": "Humble 15 for $15 - April 2026",
@@ -229,6 +254,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/buildshufflebattle_bundle",
         "date": "2026-05-13"
+      },
+      {
+        "title": "MECHA MANIA",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、メカアクションゲームを多数含む「MECHA MANIA」のバンドルが現在販売中です。このバンドルには、人気タイトル「DAEMON X MACHINA」や「Zone of the Enders: The 2nd Runner」などが含まれています。メカアクションゲームファンにはたまらないジャンルの作品が勢揃いしているため、兴味がある方はぜひチェックしてみてください。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/mechamania_bundle",
+        "date": "2026-05-14"
       }
     ],
     "sale": [
@@ -543,6 +580,30 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/329050",
         "date": "2026-05-12"
+      },
+      {
+        "title": "Subnautica: Below Zero",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サバイバルアドベンチャーゲームのSubnautica: Below Zeroが現在、Variousで75%割引のセール中です。このゲームは、氷の惑星でのサバイバルをテーマにしており、美しいグラフィックと面白いゲームプレイが特徴です。多くのプレイヤーから高い評価を受けており、人気度も高いゲームです。通常価格から75%割引されるこのセールは、お得です。",
+        "price": "$7.49",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/subnautica-below-zero/info/",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "DOOM",
+        "platform": "Various",
+        "type": "sale",
+        "description": "人気FPSゲームのDOOMがVariousで大幅なセール中です。現在、90%オフの激安価格で購入できます。このゲームは、高速なアクションと恐ろしい悪魔たちとの戦いを特徴としています。高い評価と人気度を誇り、FPSファンに特に愛されています。セール期間中はお見逃しなく、ぜひこの機会に体験してみてください。",
+        "price": "$1.99",
+        "originalPrice": "",
+        "discount": "-90%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/doom/info/",
+        "date": "2026-05-14"
       }
     ],
     "review": [
@@ -1052,8 +1113,34 @@
         "url": "https://doope.jp/2026/05166833.html",
         "date": "2026-05-13",
         "is_translated": false
+      },
+      {
+        "title": "【「ゲーム開発者はSteamユーザーからの不評レビューに、あえて返信すべき」との知見が注目集める...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamユーザーからの不評レビューへの返信についての記事が注目されています。この記事では、ゲーム開発者がユーザーからの不評レビューに返信することの重要性を強調しています。ゲーム開発者の返信は、ユーザーとのコミュニケーションを深めることができ、ゲームの評価を改善することも可能です。また、返信することで開発者はユーザーの要望を把握し、ゲームの改良に役立てることができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/steam-20260514-443036/",
+        "date": "2026-05-14",
+        "is_translated": false
+      },
+      {
+        "title": "【人気低迷中の『Party Animals』公式、突如「生成AI動画コンテスト」を開催すると発表...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "人気低迷中の『Party Animals』公式が突然「生成AI動画コンテスト」を開催すると発表したことが話題となっています。このゲームの評価ポイントとしては、ユーザーの創造性を試すことができる点や、コンテストの参加が容易である点が挙げられます。レビューの内容概要としては、ゲームの新しい試みが評価されている点や、コンテストの参加方法が分かりやすい点などが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/party-animals-20260514-442991/",
+        "date": "2026-05-14",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-14T02:58:03.888637"
+  "last_updated": "2026-05-14T11:13:20.523475"
 }
