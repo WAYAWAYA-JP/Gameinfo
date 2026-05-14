@@ -24,6 +24,30 @@
         "deadline": "2026年05月14日まで",
         "url": "https://store.epicgames.com/ja/p/7ea9b97f6a8b4c5d8047733207c5c65c",
         "date": "2026-05-14"
+      },
+      {
+        "title": "The Telltale Batman Shadows Edition",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "The Telltale Batman Shadows Editionは、無料でプレイできるアドベンチャーゲームです。このゲームの特徴としては、人気コミックシリーズのバットマンを基にしたストーリー、選択肢によって変化する展開、グラフィックノベルのようなビジュアル表現があります。さらに、プレイヤーはバットマンの戦闘や探索を操作でき、ゲームの世界を深く体験できます。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年05月21日まで",
+        "url": "https://store.epicgames.com/ja/p/the-telltale-batman",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Sunderfolk - Standard Edition",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Sunderfolk - Standard EditionがEpic Gamesで無料配布中です。Sunderfolkは、サンドボックスとアクションの要素を組み合わせたゲームで、自由に世界を探索し、さまざまなアイテムを発見することができます。特徴としては、ユニークなグラフィックや、多様なキャラクター、そして自由度の高いゲームプレイが挙げられます。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年05月21日まで",
+        "url": "https://store.epicgames.com/ja/p/sunderfolk-standard-edition-83c05e",
+        "date": "2026-05-14"
       }
     ],
     "bundle": [
@@ -603,6 +627,54 @@
         "discount": "-90%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/doom/info/",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Stardew Valley",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Stardew ValleyがSteamで50%の割引セール中です。このゲームは、ファーミングシミュレーションとRPGの要素を組み合わせた、オープンワールドのアクションアドベンチャーゲームです。プレイヤーは、田舎町で農場を経営しながら、町の人々との関係を深め、さまざまなクエストを遂行します。現在、半額の999円で購入できます。評価は「非常に好評」で、ユーザーから高い評価を得ています。",
+        "price": "¥740",
+        "originalPrice": "¥1,480",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/413150",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "DOOM: The Dark Ages",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでは、ファーストパーソン・シューティングゲームの『DOOM: The Dark Ages』が67%オフのセール中です。このゲームは、高速なアクションと激しい戦闘が特徴で、人気のある『DOOM』シリーズの一部です。現在、セール価格で購入することができ、ゲームの評価も高く、ファンから好評を博しています。",
+        "price": "¥3,194",
+        "originalPrice": "¥9,680",
+        "discount": "67% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3017860",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Frostpunk 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Frostpunk 2がVariousでセール中です。このゲームは、シティービルディングとサバイバル要素が組み合わさった、ストラテジーゲームです。現代の技術と中世の雰囲気を合わせたユニークな世界観が特徴的です。現在、60%オフの割引で購入できます。このゲームは、ストーリーとゲームプレイの深みを評価されており、ファンから高い人気を誇っています。",
+        "price": "$17.88",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サイバーパンクアドベンチャーゲーム「Cyberpunk 2077」がVariousで65％割引されています。このゲームは、未来的な世界を舞台に、プレイヤーがカスタマイズ可能な主人公を操作し、豊富なストーリーやキャラクターを堪能できることで知られています。現在、非常に安い価格で購入することができ、多くのユーザーから高い評価を得ています。",
+        "price": "$20.99",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-05-14"
       }
     ],
@@ -1204,8 +1276,47 @@
         "url": "https://www.polygon.com/forza-horizon-6-review/",
         "date": "2026-05-14",
         "is_translated": true
+      },
+      {
+        "title": "【コスプレ】質感、透け感、そのひと匙で世界が変わる！「ストッキングの日」に届けたい、脚元で魅せる美女コスプレイヤーまとめ【写真29枚】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、ストッキングの魅力を紹介する「ストッキングの日」に合わせて、美しいコスプレイヤーの写真をまとめたものです。記事の内容は、コスプレイヤーの魅せる脚元の美しさや、ストッキングの透け感などが紹介されています。コスプレやストッキングが好きな方には、魅力的な写真が多数掲載されているので、楽しめる記事です。特に、コスプレのファッションや美しさに興味がある方にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/05/15/181328.html",
+        "date": "2026-05-14",
+        "is_translated": false
+      },
+      {
+        "title": "【2011 年は象徴的なゲームが満載でした。引用文とスコアからどのゲームをレビューしたかわかりますか?】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "2011 年は多くの象徴的なゲームがリリースされました。本レビュー記事では、その中から注目すべきゲームを取り上げ、ゲームの評価ポイントを総合的に検討しています。具体的には、ゲームのストーリー、グラフィック、サウンドなどの要素を重点的にレビューしています。また、各ゲームの特徴や魅力についても述べています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/2011-was-packed-with-iconic-games-can-you-guess-which-ones-we-reviewed-from-a-quote-and-the-score/",
+        "date": "2026-05-14",
+        "is_translated": true
+      },
+      {
+        "title": "【開発者がAIビデオコンテストを発表した後、Party Animalsのレビューが爆撃される】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Party Animalsのレビューが大量に投稿されたという記事があります。このゲームは、開発者がAIビデオコンテストを開催した後にレビューが急増しました。評価ポイントとしては、ゲームプレイの面白さ、グラフィックの質、そしてAIの活用度が挙げられます。レビューの内容は、ゲームの楽しさ、操作のしやすさ、そしてAIの賢さなどが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/party-animals-ai-video-contest-review-bombing/",
+        "date": "2026-05-14",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-14T14:29:10.995378"
+  "last_updated": "2026-05-14T22:11:33.215778"
 }
