@@ -1139,8 +1139,73 @@
         "url": "https://automaton-media.com/articles/newsjp/party-animals-20260514-442991/",
         "date": "2026-05-14",
         "is_translated": false
+      },
+      {
+        "title": "【高評価・幽霊たちの物騒なノベルゲーム続編『ghostpia シーズンツー』ついに映像公開。謎の...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ghostpia シーズンツー』は、幽霊たちの物語を描くノベルゲームの続編であり、高評価を受けています。このゲームは、謎のストーリーと個性豊かなキャラクターで構成されており、プレイヤーを引き付けます。レビューの内容としては、ストーリーの深み、キャラクターの魅力、そしてゲームシステムの改善が評価されています。このゲームは、ノベルゲームやホラーゲームのファンに特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260514-443066/",
+        "date": "2026-05-14",
+        "is_translated": false
+      },
+      {
+        "title": "【Forza Horizo​​n 6 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Forza Horizo​​n 6 のレビュー記事では、ゲームのグラフィックやサウンドトラック、そしてゲームプレイの自由度が高く評価されています。また、車のカスタマイズやオンラインモードの充実度も高いとされています。このレビューは、レースゲームやオープンワールドゲームが好きな人におすすめです。レビュー全体で見ると、Forza Horizo​​n 6 はグラフィックやサウンド。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-review/",
+        "date": "2026-05-14",
+        "is_translated": true
+      },
+      {
+        "title": "【Forza Horizo​​n 6 レビュー - 王は死んだ、ドリフト王万歳】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Forza Horizo​​n 6は、レースゲームのファンにとって必見のタイトルです。このゲームは、美しいグラフィックとスムーズな操作性で、プレイヤーを魅了します。レビューのポイントとしては、ゲームの自由度が高く、プレイヤーが好きなように車をカスタマイズできることが挙げられます。また、ドリフトの仕様が細かく設定できることや、オンラインモードでの対戦が可能なことも評価ポイントです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/forza-horizon-6-review-the-king-is-dead-long-live-the-drift-king",
+        "date": "2026-05-14",
+        "is_translated": true
+      },
+      {
+        "title": "【S&box の最新アップデートは AI 生成のサムネイルを罰することを目的としており、「これは...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "S&box の最新アップデートは、AI 生成のサムネイルを罰することを目的としており、これについてのレビュー記事では、ゲームの評価ポイントとしてグラフィックの向上や新機能の追加が挙げられています。また、記事ではゲームの運営方針やプレイヤーの反応も取り上げられており、ゲームファンやS&box をプレイしたことがある人向けの内容となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/its-a-ugc-platform-there-is-always-going-to-be-dog-s-garrys-mod-creator-says-as-sboxs-latest-update-aims-to-punish-ai-generated-thumbnails",
+        "date": "2026-05-14",
+        "is_translated": true
+      },
+      {
+        "title": "【Forza Horizo​​n 6 レビュー: 完璧な公式をどういうわけかより完璧なものにする】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Forza Horizo​​n 6 は、シリーズの公式をさらに磨き上げたものです。このゲームは、グラフィックの質、サウンドトラック、ゲームプレイのバリエーションなど、多くの点で高く評価されています。特に、オープンワールドでのレースや、車両のカスタマイズが楽しめる点が際立っています。レースゲームファンや、シリーズのファンにとっては、必ずプレイしてみるべきタイトルの一つです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/forza-horizon-6-review/",
+        "date": "2026-05-14",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-14T11:13:20.523475"
+  "last_updated": "2026-05-14T14:29:10.995378"
 }
