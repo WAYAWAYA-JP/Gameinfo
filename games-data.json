@@ -266,6 +266,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/mechamania_bundle",
         "date": "2026-05-14"
+      },
+      {
+        "title": "HHPixel Traditions Bundle 2",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "HHPixel Traditions Bundle 2というバンドルがIndieGalaで販売中です。このバンドルには、RPGやアドベンチャーゲームなどのジャンルの、興味深いタイトルが収録されています。具体的には、\"Echoes of the Fey\"や\"The Path of Motus\"などのタイトルが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/pixel-traditions2-bundle",
+        "date": "2026-05-15"
       }
     ],
     "sale": [
@@ -627,6 +639,54 @@
         "discount": "-55%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dead-cells/info/",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Red Dead Redemption 2がSteamで75% OFFセール中です。このオープンワールドアクションアドベンチャーゲームは、ロックスターゲームスから発売されており、広大なアメリカの西部を舞台に、キャラクターの成長やストーリーを楽しむことができます。現在、通常価格から75%割引されており、格安でプレイすることができます。",
+        "price": "¥2,154",
+        "originalPrice": "¥8,618",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1174180",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "Sunderfolk",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Sunderfolkは、ロールプレイングゲームであり、ユニークなゲームシステムと豊富なストーリーが特徴です。現在、Variousで100%割引セール中で、通常価格が大幅に値下げされています。このゲームは、ユーザーから高い評価を受けており、人気度も高いです。ファンタジー系のゲームファンにはおすすめできます。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/sunderfolk/info/",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "The Alters",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The AltersがVariousで49%オフのセール中です。このゲームはアクションアドベンチャー要素を含んだ、独特のゲーム性が特徴です。現在の価格は割引前の価格より大幅に低くなっています。The Altersは、ユーザーからの評価が高く、人気のゲームとして知られています。セール中ですので、興味がある方はこの機会に一度試してみることをお勧めします。",
+        "price": "$17.95",
+        "originalPrice": "",
+        "discount": "-49%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-alters/info/",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "Telltale Batman Shadows Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Telltale Batman Shadows EditionがVariousで-100%セール中です。このゲームはアドベンチャーとアクションの要素を組み合わせた、バットマンシリーズのストーリーを追跡するゲームであり、非常に評価が高い人気ゲームです。通常価格から100%割引されており、非常に魅力的な価格で購入することができます。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/telltale-batman-shadows-edition/info/",
         "date": "2026-05-15"
       }
     ],
@@ -1241,8 +1301,21 @@
         "url": "https://doope.jp/2026/05166861.html",
         "date": "2026-05-15",
         "is_translated": false
+      },
+      {
+        "title": "【最大4人協力オープンワールドアクション『Farever』発売から1週間で売上10万本のスピード...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "新作ゲーム「Farever」は、最大4人での協力プレイが可能なオープンワールドアクションゲームです。発売から1週間で10万本を突破する高速売上を記録しています。レビューでは、ゲームの評価ポイントとして、自由度の高いオープンワールドの探索や、多彩なアクションの組み合わせが評価されています。また、ストーリーやキャラクターの魅力も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/farever-20260515-443228/",
+        "date": "2026-05-15",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-15T02:58:18.356002"
+  "last_updated": "2026-05-15T11:21:12.177854"
 }
