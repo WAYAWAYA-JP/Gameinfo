@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Humble 15 for $15 - April 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Humble 15 for $15 - April 2026というバンドルが現在販売中です。このバンドルには、主にアクションやアドベンチャーのジャンルが含まれており、主要タイトルとしては「Crysis Remastered」、「The Surge 2」、「Remnant: From the Ashes」などが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/humble15for15april2026_bundle",
-        "date": "2026-05-05"
-      },
-      {
-        "title": "Flirty Elf Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Flirty Elf BundleがIndieGalaで販売中です。このバンドルには、Mythic QuestやThe Guild 3などのアドベンチャーゲームが含まれています。ジャンルはシミュレーションやアドベンチャーに分類され、価格帯はおよそ10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/flirty-elf-bundle",
-        "date": "2026-05-05"
-      },
-      {
         "title": "Princess & Blade Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -293,42 +269,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Trash Goblin",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Trash Goblinは、アクションアドベンチャーゲームです。現在、Variousで-100%の割引を受けており、無料でプレイすることができます。このゲームは、ユニークなゲームプレイと面白い要素で評価されており、人気度も高いです。無料でプレイできるので、気軽に試してみることができます。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/trash-goblin/info/",
-        "date": "2026-05-08"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ロックスター・ゲームスの傑作とされるオープンワールドアクションゲーム「Red Dead Redemption 2」が、現在78%の大幅な割引で販売中です。このゲームは、広大なアメリカ西部の世界を自由に探索できることが特徴で、ストーリーも高く評価されています。多くのゲーム愛好家から高い評価を得ており、人気度も非常に高いゲームです。",
-        "price": "$13.20",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-05-08"
-      },
-      {
-        "title": "Rust",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "RustがSteamで50% OFFのセール中です。このゲームはサバイバルアクションジャンルに属し、プレイヤーは荒野で生き残るために戦い、資源を集めなければなりません。現在の割引により、通常価格より大幅に安く購入できます。Rustは高い評価と人気を誇り、プレイヤーから高い支持を得ています。",
-        "price": "¥2,300",
-        "originalPrice": "¥4,600",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/252490",
-        "date": "2026-05-08"
-      },
       {
         "title": "Stray",
         "platform": "Various",
@@ -676,61 +616,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-05-14"
+      },
+      {
+        "title": "Dead Cells",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲームであるDead Cellsが現在、Variousで55%割引のセール中です。このゲームは、ローグライク要素を取り入れた、アクション要素が豊富な2Dアクションゲームとして人気があり、多くのユーザーから高い評価を受けています。現在の価格は割引前と比べて大幅に安くなっており、興味のある方にはお勧めのゲームです。",
+        "price": "$11.19",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dead-cells/info/",
+        "date": "2026-05-15"
       }
     ],
     "review": [
-      {
-        "title": "【『Mixtape』から溢れる“アート感”。『Neon Village』の3マッチパズルは疲れた...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム『Mixtape』と『Neon Village』の評価ポイントを紹介しています。『Mixtape』にはアート感が溢れていると評価されていますが、対して『Neon Village』の3マッチパズルはやりがいが感じられないと指摘されています。この記事は、ゲームファンやパズルゲームを楽しみたい人に役立つ内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260510-442173/",
-        "date": "2026-05-10",
-        "is_translated": false
-      },
-      {
-        "title": "【デッキ構築系オートバトラー『サムライブリンガー 乱』発表。サムライたちの相性を見極めて陣を編成...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "デッキ構築系オートバトラー『サムライブリンガー 乱』のレビュー記事では、このゲームの評価ポイントとして、サムライたちの相性を見極めて陣を編成する戦略的な要素が高く評価されています。また、ゲームのシステムやストーリーもレビューの内容として取り上げられており、総評としては、このゲームは戦略的な要素とストーリーのバランスが取れていると言えるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260510-441868/",
-        "date": "2026-05-10",
-        "is_translated": false
-      },
-      {
-        "title": "【ザ・シムズ 3 レビュー (2009)】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ザ・シムズ3は、オープンワールドのゲームプレイが特徴的なシミュレーションゲームです。このゲームの評価ポイントとしては、自由度の高いゲームプレイ、リアルなグラフィック、そして幅広いカスタマイズオプションが挙げられます。ゲームのレビューでは、ユーザーがシムを創造し、生活を設計することができ、非常に楽しいと評価されています。さらに、ゲームのストーリーやキャラクターの開発も評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/the-sims/the-sims-3-review-2009/",
-        "date": "2026-05-10",
-        "is_translated": true
-      },
-      {
-        "title": "【機動戦士ガンダム 閃光のハサウェイ続編レビュー：『ニンフ・キルケの魔術』はここ数年で最高のガン...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "機動戦士ガンダム閃光のハサウェイ続編のレビュー記事では、最新作「ニンフ・キルケの魔術」がここ数年で最高のガンダム作品であると評価されています。このレビューでは、ゲームのストーリーが豊かでキャラクターが魅力的であること、ゲームプレイがスムーズで楽しいこと、グラフィックが美しく細部までこだわっていることが評価ポイントとして挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gundam-hathaway-sequel-sorcery-of-nymph-circe-review/",
-        "date": "2026-05-10",
-        "is_translated": true
-      },
       {
         "title": "【「The Elder Scrolls III: Morrowind」を「ELDEN RING」...：レビュー】",
         "platform": "doope!",
@@ -1315,8 +1215,34 @@
         "url": "https://www.polygon.com/party-animals-ai-video-contest-review-bombing/",
         "date": "2026-05-14",
         "is_translated": true
+      },
+      {
+        "title": "【海洋惑星オープンワールド『サブノーティカ2』、“リリース1時間”でもう売上100万本達成。マル...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "サブノーティカ2は、海洋惑星を舞台にしたオープンワールドゲームです。リリースからわずか1時間で100万本の売上を達成し、注目を集めています。このゲームの評価ポイントとしては、美しい海洋のグラフィック、広大な探索エリア、そして独自のストーリーが挙げられます。レビューの内容概要としては、ゲームのグラフィックとサウンドデザインの高さ、そしてプレイヤーの自由度が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/subnautica-2-20260515-443106/",
+        "date": "2026-05-14",
+        "is_translated": false
+      },
+      {
+        "title": "【“Mass Effect”系アクションRPG「EXODUS」の迷宮探索に焦点を当てる新たなプレ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「EXODUS」のレビュー記事では、このゲームの迷宮探索に焦点を当てた新たなプレイスタイルを紹介しています。評価ポイントとしては、ゲームのグラフィックやサウンドデザインのクオリティが高く、遊び心のあるゲームプレイが楽しめる点が挙げられます。また、レビューでは、ゲームの難易度やストーリーの深さも評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166861.html",
+        "date": "2026-05-15",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-14T22:11:33.215778"
+  "last_updated": "2026-05-15T02:58:18.356002"
 }
