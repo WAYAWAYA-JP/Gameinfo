@@ -52,66 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Princess & Blade Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Princess & Blade Bundleというバンドルの販売がIndieGalaで行われています。このバンドルには、主要タイトルとして「Princess Blade」や「Blade」が含まれており、アクションやアドベンチャーを楽しむことができます。ジャンルはアクションアドベンチャーで、大まかな価格帯は10ドル前後です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/princess-and-blade-bundle",
-        "date": "2026-05-06"
-      },
-      {
-        "title": "Creature Feature Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、 Creature Feature Bundleが販売中です。このバンドルには、主要タイトルとして「Slayaway Camp」や「My Time at Portia」などのゲームが含まれています。ジャンルはメインにアクションアドベンチャーやシミュレーションゲームで構成されており、大まかな価格帯は1,000円から2,000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/creaturefeaturebundle_bundle",
-        "date": "2026-05-06"
-      },
-      {
-        "title": "Fore! A Golf Games Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、ゴルフゲームのバンドル「Fore! A Golf Games Bundle」が販売中です。このバンドルには、主要タイトルとして「PGA TOUR 2K21」や「Golf With Your Friends」などが含まれており、ゴルフゲームファンにとって魅力的です。ジャンルはスポーツゲームで、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/foregolfgamesbundle_softwarebundle",
-        "date": "2026-05-06"
-      },
-      {
-        "title": "VR Kiwi Complete Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、VR Kiwi Complete Collectionというバンドルが販売中です。このバンドルには、主要タイトルとして「VRTV VR」、「The Edge of Nowhere」、「The Blackout Club」などが含まれています。ジャンルはアクションアドベンチャーやホラーゲームなど多種多様です。大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/vrkiwibundle_bundle",
-        "date": "2026-05-06"
-      },
-      {
-        "title": "Train Sim World 6: First Class Ticket Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Train Sim World 6: First Class Ticket Bundleというバンドルの販売が行われています。このバンドルには、Train Sim World 2、Train Sim World: Rush Hour、Train Sim World: Tees Valley Lineなどの主要タイトルが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/trainsimworld6firstclassticketbundle_bundle",
-        "date": "2026-05-06"
-      },
-      {
         "title": "Speak to the Manager",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -281,54 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "StrayがVariousで40%オフのセール中です。このアクションアドベンチャーゲームは、猫の視点から都市を探索するユニークな体験を提供します。現在の価格は割引により大幅に下がっており、興味がある方は今がチャンスです。Strayは高い評価と人気度を誇り、多くのプレイヤーから高い評価を得ています。",
-        "price": "$17.95",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-05-09"
-      },
-      {
-        "title": "Arranger: A Role-Puzzling Adventure",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アレンジャー：ロールパズルアドベンチャーは、バラエティ豊かなゲームで、現在100％の割引で販売中です。このゲームは、ロールプレイングとパズルの要素を組み合わせたユニークなゲームプレイが特徴で、プレイヤーはさまざまなキャラクターを操作して謎を解く必要があります。高い評価と人気を博しているこのゲームは、パズルとアドベンチャーのファンには必見のタイトルです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/arranger-a-role-puzzling-adventure/info/",
-        "date": "2026-05-09"
-      },
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ノーマンズスカイがバリュー店で60%オフのセール中です。このゲームは、オープンワールドのサンドボックスゲームで、プレイヤーが宇宙を自由に探索できることが特徴です。通常価格より大幅に安くなっているので、興味がある人にはおすすめです。また、このゲームは、グラフィックやサウンドトラックが高く評価されており、人気も高いので、セールを逃すことはないでしょう。",
-        "price": "$23.95",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-05-09"
-      },
-      {
-        "title": "Mixtape",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Mixtapeは、音楽と物語が融合した、ユニークな体験を提供するアドベンチャーゲームです。このゲームでは、プレイヤーはさまざまな音楽を組み合わせて物語を進め、キャラクターの関係を深めていきます。現在、Mixtapeは29%オフのセール中で、通常よりもお得にプレイすることができます。このゲームは、音楽と物語の融合が好評で、多くのプレイヤーから高い評価を得ています。",
-        "price": "$14.22",
-        "originalPrice": "",
-        "discount": "-29%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/mixtape/info/",
-        "date": "2026-05-09"
-      },
       {
         "title": "戦場のヴァルキュリア４ コンプリートエディション",
         "platform": "Steam",
@@ -703,162 +595,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【「The Elder Scrolls III: Morrowind」を「ELDEN RING」...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「The Elder Scrolls III: Morrowind」を「ELDEN RING」の先駆けとして評価するレビュー記事があります。このレビューでは、ELDEN RINGの広大なオープンワールドと深いストーリーが高い評価を受けている点や、Morrowindの影響を受けたゲームシステムが注目されている点が紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166745.html",
-        "date": "2026-05-11",
-        "is_translated": false
-      },
-      {
-        "title": "【過去の自分と戦うタイムループパズル暗殺シューター「Rewindead」のデモ配信が5月14日に...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Rewindead」のレビュー記事では、このゲームはタイムループパズルと暗殺シューティングの要素を組み合わせたユニークな作品であると評価されています。ゲームの評価ポイントとしては、繰り返されるループの中で過去の自分と戦う戦略的な要素や、ステージのデザインが挙げられます。レビューでは、タイムループパズルの面白さや、暗殺シューティングの爽快感などが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166737.html",
-        "date": "2026-05-11",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam 週間の振り返り: Forza Horizo​​n は最後の真の主流マルチプラットフ...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事では、Forza Horizo​​n の評価ポイントとして、グラフィックの質やゲームプレイの面白さを取り上げています。また、レビューの内容として、マルチプラットフォームでのプレイやオンラインモードの充実度も評価しています。対象読者としては、レースゲームファンやマルチプラットフォームでのプレイを楽しむユーザーが想定されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-forza-horizon-is-the-last-truly-mainstream-multiplatform-racing-series/",
-        "date": "2026-05-11",
-        "is_translated": true
-      },
-      {
-        "title": "【『Slay the Spire 2』にまたも不評殺到、Valveが「トピずれのレビュー荒らし」...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Slay the Spire 2』のレビューでは、ゲームの評価ポイントとして、新しいゲームモードやキャラクターの追加が評価されている一方で、バグやパフォーマンスの問題が指摘されていることがわかります。また、レビューの内容概要としては、ゲームの難易度やリプレイ性が高く、戦略的なプレイが要求されることが挙げられ、対象読者としては、ローグライクゲームを好むプレイヤーや。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260511-442308/",
-        "date": "2026-05-11",
-        "is_translated": false
-      },
-      {
-        "title": "【「スマホでモンハンって、どうなの？」『モンスターハンターアウトランダーズ』第2回CBTプレイレ...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、スマートフォン向けのゲーム「モンスターハンターアウトランダーズ」の第2回クローズドベータテストプレイレポートを紹介しています。ゲームの評価ポイントとして、操作性やグラフィックの質が高く、モンハンシリーズのファンには満足できる内容であると言及されています。また、ゲームの世界観やストーリーも魅力的であり、シリーズ初心者にも親しみやすいと評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/05/11/181144.html",
-        "date": "2026-05-11",
-        "is_translated": false
-      },
-      {
-        "title": "【一部ワールドの閉鎖を伴う「Dune: Awakening」サーバー統合の詳細と対象ワールドリス...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Dune: Awakening」は、サーバー統合により一部のワールドが閉鎖されることを伴います。このゲームの評価ポイントとしては、グラフィックの美しさやストーリーの深みがあります。レビューの内容概要としては、ゲームシステムの改善点やプレイヤーの体験が挙げられます。対象読者としては、ゲームファンやSF好きの方がこのレビュー記事を参考にすると良いでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166748.html",
-        "date": "2026-05-11",
-        "is_translated": false
-      },
-      {
-        "title": "【ソウルライクなアクションRPG「Lords of the Fallen」の累計プレイヤー数が8...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Lords of the Fallen」のレビューでは、ゲームの評価ポイントとして、難易度の高いソウルライクなアクションや、豊富なカスタマイズの要素などが高く評価されています。さらに、グラフィックやサウンドの質の高さも評価されており、ゲームの世界観やストーリーも魅力的だと感じることができます。このレビューは、アクションRPGのファンや、ソウルライクゲームを好む人向けに適していますが。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166768.html",
-        "date": "2026-05-11",
-        "is_translated": false
-      },
-      {
-        "title": "【発売が迫るPC Steam版「Subnautica 2」のウィッシュリスト登録が500万件を突...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "PC Steam版「Subnautica 2」のウィッシュリスト登録が500万件を突破しており、発売が迫っている。このゲームの評価ポイントとしては、美しいグラフィックや独自のゲームシステムが挙げられます。レビューの内容概要としては、探索の自由度やストーリーの面白さが高く評価されています。また、オープンワールドゲームやサバイバルゲームが好きな人には特におすすめのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166742.html",
-        "date": "2026-05-11",
-        "is_translated": false
-      },
-      {
-        "title": "【ミックステープのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ミックステープのレビュー記事では、ゲームの評価ポイントとして、ゲームプレイの自由度、ストーリーの深み、音楽の質を評価しています。レビューの内容概要としては、ゲームのユニークなシステム、キャラクターの魅力、サウンドトラックの素晴らしさなどが取り上げられています。この記事は、音楽ゲームを愛する人や、新しいゲームを探している人にとって、参考になります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/adventure/mixtape-review/",
-        "date": "2026-05-11",
-        "is_translated": true
-      },
-      {
-        "title": "【指令 8020 のレビュー: SF ボディー ホラーの大きな飛躍】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事は、SFボディホラーのゲーム「指令8020」の評価ポイントを紹介しています。評価のポイントとして、ゲームの独自性と恐怖要素の高さが挙げられています。また、レビューでは、ゲームのストーリーやグラフィックの質も高く評価されています。この記事は、SFボディホラーのファンや、新しいゲームを探している人にとって、参考になる内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/horror/directive-8020-review-one-giant-leap-for-sci-fi-body-horror/",
-        "date": "2026-05-11",
-        "is_translated": true
-      },
-      {
-        "title": "【指令 8020 レビュー: エイリアンにインスピレーションを得たホラー ゲームは B 映画のス...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "指令8020は、エイリアンにインスピレーションを得たホラーゲームで、B映画のスリルを体験できる作品です。このゲームの評価ポイントとしては、独特なゲームプレイやグラフィックの質が挙げられます。レビューでは、ゲームの雰囲気やサウンドトラックの効果が高く評価されています。また、対象読者としては、ホラーゲームファンやB映画好きの方にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/directive-8020-review/",
-        "date": "2026-05-11",
-        "is_translated": true
-      },
-      {
-        "title": "【『バトルスター ギャラクティカ: 散り散りになった希望』レビュー - サイロン、妨害行為、性感...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "「バトルスター ギャラクティカ: 散り散りになった希望」のレビュー記事では、サイロンとの戦いの中で起こる妨害行為や、性感的な要素について触れています。このゲームはサイファイファンやアクションゲーム好きに向けており、評価ポイントとしては、緊張感のある戦闘シーンや、キャラクターの深みなどがあげられます。レビューでは、これらの要素がどう組み合わさってプレイヤーを魅了するのかが説明されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/battlestar-galactica-scattered-hopes-review-an-iffy-take-on-the-sci-fi-series-that-had-me-contending-with-cylons-sabotage-and-stds",
-        "date": "2026-05-11",
-        "is_translated": true
-      },
       {
         "title": "【『Forza Horizon 6』公式、ゲームデータ流出を受け“フライング不正プレイ”に厳しく...】",
         "platform": "AUTOMATON",
@@ -1352,8 +1088,21 @@
         "url": "https://doope.jp/2026/05166865.html",
         "date": "2026-05-15",
         "is_translated": false
+      },
+      {
+        "title": "【砂のお城づくり立体パズル『Elfie: A Sand Plan』、“100％好評”のまま着実に...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "砂のお城づくりをテーマにした立体パズルゲーム「Elfie: A Sand Plan」についてのレビュー記事です。このゲームの評価ポイントは、独自のゲームシステムや美しいグラフィックがあげられます。具体的には、砂を積み上げてお城を作るというシンプルながらも奥深いゲームプレイや、繊細な砂のテクスチャーが印象的です。対象読者は、パズルゲームや建築ゲームが好きな人に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260516-443340/",
+        "date": "2026-05-16",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-15T21:59:42.287591"
+  "last_updated": "2026-05-16T02:47:03.038072"
 }
