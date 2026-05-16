@@ -218,6 +218,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/pixel-traditions2-bundle",
         "date": "2026-05-15"
+      },
+      {
+        "title": "Creature Feature Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、 Creature Feature Bundleというバンドルの販売が行われています。このバンドルには、主要タイトルとして「Don't Starve Together」、「Oxenfree」、「The Infectious Madness of Doctor Dekker」などのゲームが含まれています。ジャンルは主にアドベンチャーやサバイバルゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/creaturefeaturebundle_bundle",
+        "date": "2026-05-16"
       }
     ],
     "sale": [
@@ -1101,8 +1113,47 @@
         "url": "https://automaton-media.com/articles/newsjp/20260516-443340/",
         "date": "2026-05-16",
         "is_translated": false
+      },
+      {
+        "title": "【『サブノーティカ2』の海賊版ユーザーが「公式Discordで堂々バグ報告」して開発者/コミュニ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『サブノーティカ2』の海賊版ユーザーが公式Discordでバグ報告しているという記事のレビューについて説明します。この記事では、海賊版ユーザーが公式Discordで堂々とバグ報告していることや、開発者とコミュニティの反応について触れています。ゲームの評価ポイントとしては、海賊版ユーザーに対する開発者の対応や、ゲームのバグの扱い方が重要なポイントです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260516-443403/",
+        "date": "2026-05-16",
+        "is_translated": false
+      },
+      {
+        "title": "【Nintendo Switch 2の「ゲームチャット」、なんと使うとカプコンのRE ENGIN...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Nintendo Switch 2の「ゲームチャット」についてのレビュー記事です。この記事では、ゲームチャットの使い方やカプコンのRE ENGINEとの連携について触れています。特に、ゲームチャットの機能やカプコンのRE ENGINEとの連携の利点について評価しています。また、Switch 2のゲームチャットがカプコンのゲームとの相性が良く、快適なゲーミング体験ができる点も評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260516-443395/",
+        "date": "2026-05-16",
+        "is_translated": false
+      },
+      {
+        "title": "【PS5のホーム画面で「今週人気のゲームトップ10」を確認できる機能搭載、まずはベータ展開。“プ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "PS5のホーム画面で「今週人気のゲームトップ10」を確認できる機能が搭載され、まずはベータテストとして展開されています。この機能は、ユーザーが新しいゲームを発見するのを助けます。また、人気ゲームのトレンドを把握することもできます。この機能の評価ポイントとしては、ユーザーへの新しいゲームの発見の促進や人気ゲームのトレンド把握の容易さなどがあります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/ps5-welcome-hub-20260516-443377/",
+        "date": "2026-05-16",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-16T02:47:03.038072"
+  "last_updated": "2026-05-16T10:14:05.268961"
 }
