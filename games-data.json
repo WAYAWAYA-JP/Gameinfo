@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/768200",
         "date": "2026-05-17"
+      },
+      {
+        "title": "Subnautica 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サバイバルアドベンチャーゲームであるSubnauticaの続編「Subnautica 2」がVariousでセール中です。このゲームは、未知の海底世界を探索し、資源を集め、生物と遭遇するという特徴があります。現在、割引率が設定されており、通常価格よりも安く購入することができます。Subnauticaシリーズは、ユーザーの評価が高く、人気度も高いゲームです。",
+        "price": "$29.99",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/subnautica-2/info/",
+        "date": "2026-05-17"
       }
     ],
     "review": [
@@ -1016,5 +1028,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-17T10:22:17.443679"
+  "last_updated": "2026-05-17T13:45:02.367645"
 }
