@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Speak to the Manager",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Speak to the Managerのバンドルが現在販売中です。このバンドルには、Speak to the Managerをはじめ、複数のタイトルが含まれています。ジャンルはシミュレーションゲームであり、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/speaktomanager_bundle",
-        "date": "2026-05-07"
-      },
-      {
         "title": "Ticket to Ride: All Aboard Collection",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,54 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "戦場のヴァルキュリア４ コンプリートエディション",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "戦場のヴァルキュリア４ コンプリートエディションがSteamで80% OFFのセール中です。このゲームは、戦術性とストーリーの深みを兼ね備えたタクティカルRPGであり、人気シリーズの最新作として高い評価を得ています。通常価格より大幅に安くなり、ファンや新規プレイヤーにとって絶好の機会です。戦場のヴァルキュリアシリーズの魅力を存分に楽しむことができるコンプリートエディションは。",
-        "price": "¥891",
-        "originalPrice": "¥4,455",
-        "discount": "80% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/409903",
-        "date": "2026-05-10"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アドベンチャーゲームの「Clair Obscur: Expedition 33」が、現在26%割引のセール中です。このゲームは、ユーザーから高い評価を獲得しており、人気度も高いゲームです。プレイヤーは、スリリングな冒険の中で、謎を解き明かしていく必要があります。セール期間中は、通常価格よりも安く購入することができますので、興味のある方はチェックしてみてください。",
-        "price": "$36.99",
-        "originalPrice": "",
-        "discount": "-26%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-05-10"
-      },
-      {
-        "title": "Overcooked! 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Overcooked! 2がVariousで75%オフのセール中です。このゲームは、協力プレイを重視したアクションパズルゲームで、最大4人までプレイできるマルチプレイ対応の特徴があります。価格は通常時と比較して大幅に割引されています。Overcooked! 2は、ユーモア溢れるグラフィックと面白いゲームプレイが評価され、非常に人気の高いゲームです。",
-        "price": "$6.24",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/overcooked-2/info/",
-        "date": "2026-05-10"
-      },
-      {
-        "title": "XCOM 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "XCOM 2はターン制ストラテジーゲームであり、地球外生命体との戦いを描く人気シリーズの最新作です。このゲームでは、プレイヤーはXCOM部隊を指揮して、地球を侵略してきたエイリアンの軍隊と戦います。現在、VariousでXCOM 2が85%オフのセール中です。高い評価と人気を誇るこのゲームは、戦略的なプレイとスリルのあるストーリーで知られており、ファンから高い支持を受けています。",
-        "price": "$2.99",
-        "originalPrice": "",
-        "discount": "-85%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/xcom-2/info/",
-        "date": "2026-05-10"
-      },
       {
         "title": "Control Ultimate Edition",
         "platform": "Various",
@@ -604,139 +544,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/uncharted-legacy-of-thieves-collection/info/",
         "date": "2026-05-15"
+      },
+      {
+        "title": "Smalland: Survive the Wilds",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Smalland: Survive the WildsがSteamで75% OFFセール中です。このゲームはサバイバルアクションジャンルの作品で、プレイヤーは小さな生物として自然界で生き残るために闘争します。現在のセールでは大幅な割引が適用されており、通常価格よりも大幅に安くなっています。ファンから高い評価を受けており、人気度も高いので、興味がある方は今回のセールを活用してお勧めします。",
+        "price": "¥975",
+        "originalPrice": "¥3,900",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/768200",
+        "date": "2026-05-17"
       }
     ],
     "review": [
-      {
-        "title": "【『Forza Horizon 6』公式、ゲームデータ流出を受け“フライング不正プレイ”に厳しく...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Forza Horizon 6の公式レビュー記事では、ゲームデータの流出を受けて、不正プレイに対する厳しい措置がとられていることが紹介されています。このゲームは、グラフィックやサウンドの高品質さ、自由度の高いゲームプレイが特徴です。評価ポイントとしては、グラフィックの美しさ、車の挙動のリアルさ、そしてオンラインモードの盛り上がりなどが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260512-442429/",
-        "date": "2026-05-12",
-        "is_translated": false
-      },
-      {
-        "title": "【リトルナイトメアの開発者達が設立した新スタジオ“Section 9 Interactive”の...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "リトルナイトメアの開発者達が設立した新スタジオ“Section 9 Interactive”のゲームをレビューする記事です。このゲームは、独自の世界観とストーリー、そしてゲームプレイの面白さが評価ポイントになっています。レビューでは、ゲームのグラフィックやサウンドトラックの高品質さ、そしてプレイヤーの感情を揺さぶるストーリー展開が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166779.html",
-        "date": "2026-05-12",
-        "is_translated": false
-      },
-      {
-        "title": "【“インビンシブル ～無敵のヒーロー～”格闘ゲーム「Invincible VS」のプレイヤー数が...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「インビンシブル ～無敵のヒーロー～」の格闘ゲーム「Invincible VS」のレビュー記事では、プレイヤー数の増加やゲームの評価ポイント、レビューの内容概要が紹介されています。具体的には、ゲームの操作性やグラフィックの質、ストーリーの面白さなどが評価ポイントとして挙げられています。さらに、レビューでは、ゲームの難易度やプレイヤー数の増加によるマッチングの改善などが取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166776.html",
-        "date": "2026-05-12",
-        "is_translated": false
-      },
-      {
-        "title": "【ダークゴシックソウルライク「Lies of P」の続編開発が本格化、ストーリーのさらなる強化も：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ダークゴシックソウルライクゲーム「Lies of P」の続編開発が本格化していると発表されました。このゲームは、ダークな世界観と奥深いストーリーで人気を博しています。レビューでは、ゲームの評価ポイントとしてストーリーの引き付けられる要素や、難易度の高さが挙げられています。また、続編ではストーリーのさらなる強化が予想され、ファンたちは大いに期待しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166751.html",
-        "date": "2026-05-12",
-        "is_translated": false
-      },
-      {
-        "title": "【「007 First Light」のPS5 Pro版は60fpsで動作、Io-Interact...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「007 First Light」のPS5 Pro版は、60fpsで動作し、Io-Interactシステムを搭載していることが評価ポイントです。このレビュー記事では、ゲームのグラフィックやサウンドデザインも高く評価されています。また、ストーリーも面白く、キャラクターの開発も良好です。このレビューは、PS5 Pro版のパフォーマンスに興味がある人や、007シリーズのファンに推奨できます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166744.html",
-        "date": "2026-05-12",
-        "is_translated": false
-      },
-      {
-        "title": "【高評価ホテル建設・経営シム『Hotel Architect（ホテル・アーキテクト）』日本語対応...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ホテル・アーキテクトは、ホテルの建設と経営をシミュレートするゲームです。このゲームの評価ポイントとしては、ユーザーが自由にホテルを設計できる点や、経営の面でさまざまな戦略を立てられる点が挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドの質が高いこと、そしてゲームの難易度が適切であることがあげられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260512-442501/",
-        "date": "2026-05-12",
-        "is_translated": false
-      },
-      {
-        "title": "【私たちの最もレビューの高いソウルライクの 1 つである Nine Sols は、今週 Stea...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "私たちがレビューしたソウルライクゲームの中で最も高い評価を受けた「Nine Sols」についての記事です。このゲームの評価ポイントとしては、挑戦的な難易度や独自のゲームシステムが挙げられます。レビューでは、ゲームの世界観やストーリー、そしてプレイヤーのスキルを試すような戦闘システムについて触れています。この記事は、ソウルライクゲームのファンや、新しいゲームを探しているゲーマーに特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/nine-sols-one-of-our-best-reviewed-soulslikes-is-just-usd12-on-steam-this-week/",
-        "date": "2026-05-12",
-        "is_translated": true
-      },
-      {
-        "title": "【モバイル版「Slime Rancher」のゲームプレイ映像が公開、発売は2026年5月26日】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "モバイル版「Slime Rancher」の発売が2026年5月26日に決定し、ゲームプレイ映像が公開されました。このゲームは、ユニークなスライムの育成システムや、広大な牧場を自由に探索できることが特徴です。ゲームの評価ポイントとしては、スライムのキャラクターデザインや、牧場の拡張システムが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166782.html",
-        "date": "2026-05-12",
-        "is_translated": false
-      },
-      {
-        "title": "【私はシンキング シティ 2 の水浸しの通りを歩きましたが、ついにバイオハザードやサイレントヒル...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム「シンキング シティ 2」の水浸しの通りを歩く体験を紹介しています。評価ポイントとしては、ゲームのグラフィックやサウンドデザインが高く評価されています。また、レビューの内容概要としては、バイオハザードやサイレントヒルなどのホラーゲームファンが楽しめるだろうと述べられています。対象読者としては、ホラーゲームやアドベンチャーゲームが好きな人向けです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/ive-walked-the-waterlogged-streets-of-the-sinking-city-2-and-we-might-finally-have-a-cthulhu-survival-horror-game-to-rival-resident-evil-and-silent-hill",
-        "date": "2026-05-12",
-        "is_translated": true
-      },
-      {
-        "title": "【『マインクラフト』新スナップショットにて、“サーバー不要”オンラインマルチ実装。Java版でも...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "マインクラフトの新しいスナップショットが登場し、サーバーが不要なオンラインマルチプレイ機能が実装されました。Java版でもこの機能が利用可能です。このレビュー記事では、新しいスナップショットの評価ポイントとして、サーバー不要のオンラインマルチプレイ機能の実装や、ゲームの安定性の向上などが取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260513-442681/",
-        "date": "2026-05-12",
-        "is_translated": false
-      },
       {
         "title": "【独創的なロシア正教会アドベンチャー“INDIKA”を生んだ「Odd Meter」が次回作の開発...：レビュー】",
         "platform": "doope!",
@@ -748,32 +570,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/05166803.html",
         "date": "2026-05-13",
-        "is_translated": false
-      },
-      {
-        "title": "【“デビル・ダイナソー”の参戦を告げる「Marvel Rivals」シーズン8のゲームプレイトレ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Marvel Rivals」のシーズン8は、人気ゲーム「デビル・ダイナソー」の参戦を告げるゲームプレイのトレーラーを紹介しています。レビューの内容としては、シーズン8の新しいキャラクターの紹介や、ゲームプレイの新しい要素について触れています。また、グラフィックやサウンドの質も評価されています。対象読者は「Marvel Rivals」のファンや、ゲーム好きの方たちで、ゲームの評価ポイントとしては。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166795.html",
-        "date": "2026-05-12",
-        "is_translated": false
-      },
-      {
-        "title": "【全対応プラットフォーム間のクロスプラットフォームマルチプレイヤーを導入する「Absolum」の...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Absolum」のレビュー記事では、全対応プラットフォーム間のクロスプラットフォームマルチプレイヤーを導入したゲームの評価ポイントとして、グラフィックの美しさやサウンドデザインの質、そしてマルチプレイヤー機能のスムーズさを挙げています。また、ゲームの世界観やストーリーの深み、操作性の良さも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166794.html",
-        "date": "2026-05-12",
         "is_translated": false
       },
       {
@@ -1165,8 +961,21 @@
         "url": "https://www.polygon.com/inkonbini-review-nintendo-switch-ps5-xbox-series-x-pc/",
         "date": "2026-05-16",
         "is_translated": true
+      },
+      {
+        "title": "【長時間ゲームしてばかりの子供、「プレイ時間を減らせば健全」とは言い切れない可能性。“逃げられる...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、長時間ゲームをする子どもを健全に育てるためには、単にプレイ時間を減らせばよいわけではないと指摘しています。たとえば、子どもがゲームをやめると、代わりに別のことに没頭する場合もあります。また、子どものメンタルヘルスに影響を与える要因は多岐にわたり、ゲーム以外の要因も考慮する必要があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260517-443467/",
+        "date": "2026-05-17",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-16T21:49:36.057195"
+  "last_updated": "2026-05-17T02:56:00.719492"
 }
