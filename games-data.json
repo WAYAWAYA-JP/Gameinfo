@@ -568,6 +568,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/subnautica-2/info/",
         "date": "2026-05-17"
+      },
+      {
+        "title": "Chip ‘n Clawz vs. The Brainioids Friend's Pass",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Chip ‘n Clawz vs. The Brainioids Friend's PassがVariousでセール中です。このゲームはアクションアドベンチャー要素が含まれたパズルゲームで、ユーモアのあるグラフィックと面白いゲームプレイが特徴です。現在、割引率が高いので、安価に購入できます。また、ユーザーの評価も高く、人気度も高いゲームです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/chip-n-clawz-vs-the-brainioids-friends-pass/info/",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "Forza Horizon 6",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Forza Horizon 6がVariousでセール中です。このゲームはレースゲームのジャンルに属し、美しいグラフィックとリアルな運転体験が特徴です。セール中の割引率は最大50%までとかなりお得です。価格も割引前の価格より大幅に下がっており、現在は約5,000円から購入できます。このゲームは高評価をされており、ユーザーからも人気があります。",
+        "price": "$69.99",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/forza-horizon-6/info/",
+        "date": "2026-05-17"
       }
     ],
     "review": [
@@ -1025,8 +1049,34 @@
         "url": "https://automaton-media.com/articles/special-column/20260517-443421/",
         "date": "2026-05-17",
         "is_translated": false
+      },
+      {
+        "title": "【デミゴッド レビュー (2009)】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "デミゴッドのレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンド、ゲームプレイの面白さなどが挙げられています。レビューの内容概要としては、ゲームのストーリーやキャラクターの魅力、難易度の適切さなどが評価されています。また、対象読者としては、ロールプレイングゲームのファンやアクションゲームを好む人向けのレビューであると言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rts/demigod-review-2009/",
+        "date": "2026-05-17",
+        "is_translated": true
+      },
+      {
+        "title": "【Event Horizo​​n にはまったく異なる種類の続編が登場します - 独占プレビューを...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Event Horizo​​nの続編が登場し、独占プレビューのレビュー記事が公開されています。この記事では、新しい続編の特徴やゲームプレイの評価、グラフィックやサウンドの質などの評価ポイントが紹介されています。レビューの内容概要としては、続編の新しいシステムやゲームモード、ストーリーの展開などが取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/event-horizon-sequel-comic-interview/",
+        "date": "2026-05-17",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-17T13:45:02.367645"
+  "last_updated": "2026-05-17T21:55:36.553364"
 }
