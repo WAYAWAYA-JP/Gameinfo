@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-05-18"
+      },
+      {
+        "title": "Kingdom Come: Deliverance II",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Kingdom Come: Deliverance IIがVariousで55%オフのセール中です。このゲームは、オープンワールドアクションRPGのジャンルに属し、リアルな中世ヨーロッパの世界を舞台に、プレイヤーは自由に冒険できます。評価は非常に高く、人気度も高いゲームです。セール期間中は、通常価格より大幅に安くなりますので、興味がある方はお見逃しなく、お買い得なチャンスです。",
+        "price": "$27.19",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
+        "date": "2026-05-18"
       }
     ],
     "review": [
@@ -1013,8 +1025,73 @@
         "url": "https://www.pcgamer.com/hardware/gaming-pcs/acemagic-retro-x5-review/",
         "date": "2026-05-18",
         "is_translated": true
+      },
+      {
+        "title": "【「Forza Horizon 6」先行アクセスのプレイヤー数が早くも150万人を突破、Prem...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Forza Horizon 6の先行アクセスが開始され、すでに150万人のプレイヤーが参加しています。レビューでは、ゲームのグラフィックやサウンドトラックの高品質、そして幅広い車種のラインナップが評価されています。さらに、ゲームの自由度が高く、プレイヤーが自分の好みに合わせてカスタマイズできる点も強みです。このゲームは、レースゲームのファンやオープンワールドゲームを楽しむ人に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166924.html",
+        "date": "2026-05-18",
+        "is_translated": false
+      },
+      {
+        "title": "【ゼロ パレード: フォー デッド スパイのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ゼロ パレード: フォー デッド スパイのレビュー記事では、このゲームの評価ポイントをいくつか紹介しています。まず、ゲームのストーリーやキャラクターの深さが高く評価されています。また、ゲームプレイのバリエーションやサウンドトラックの質も高いことが挙げられています。対象読者は、ストーリー重視のゲームに興味がある人や、サウンドトラックを重視する人に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/zero-parades-for-dead-spies-review/",
+        "date": "2026-05-18",
+        "is_translated": true
+      },
+      {
+        "title": "【レゴ バットマン ダークナイトのレガシー レビューまとめ: バットマン アーカムの再来】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "レゴ バットマン ダークナイトのレガシー レビューまとめは、バットマン アーカムの再来と評価されています。このレビューでは、ゲームのストーリーやキャラクター、ゲームプレイの面白さが高く評価されています。また、レゴシリーズのファンにはもちろん、バットマンのファンにもおすすめできる内容です。特に、レゴシリーズのユーモアやアクションが楽しめる点が強調されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/lego-batman-legacy-of-the-dark-knight-review-roundup/",
+        "date": "2026-05-18",
+        "is_translated": true
+      },
+      {
+        "title": "【エイリアン叙事詩「怒りのデス・ロード」を告げるカンヌの審査で予告編が到着することを期待：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事は、エイリアンを題材とした映画「怒りのデス・ロード」のカンヌでの審査で公開された予告編を取り上げています。記事では、映画の評価ポイントとして、ストーリーの展開や特効の質を高く評価しています。また、映画のレビューの内容として、映画の壮大な映像美や緊張感溢れるストーリーを紹介しています。この記事は、映画ファンやエイリアンシリーズの愛好者にとって、興味深い情報を得ることができるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/hope-reviews-cannes-2026-michael-fassbender/",
+        "date": "2026-05-18",
+        "is_translated": true
+      },
+      {
+        "title": "【エリオットの冒険プレビュー: スクウェア・エニックスの懐かしいゼルダのようなゲームは、一口サイ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "スクウェア・エニックスの新作ゲーム「エリオットの冒険」は、懐かしいゼルダのようなゲームです。このゲームは、オープンワールドの冒険、魅力的なグラフィック、そして面白いゲームプレイが特徴です。レビューでは、このゲームの評価ポイントとして、自由に探索できる広大な世界、多種多様な敵やボスとのバトル、そしてストーリーの深みが挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/adventures-of-elliot-preview-square-enix/",
+        "date": "2026-05-18",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-18T12:28:47.825089"
+  "last_updated": "2026-05-18T15:46:42.459235"
 }
