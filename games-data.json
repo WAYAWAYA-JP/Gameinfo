@@ -206,6 +206,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/creaturefeaturebundle_bundle",
         "date": "2026-05-16"
+      },
+      {
+        "title": "Ticket to Ride: All Aboard Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、ボードゲームをテーマにしたゲームのバンドル「Ticket to Ride: All Aboard Collection」が販売中です。このバンドルには、主要タイトルとして「Ticket to Ride」、「Ticket to Ride: First Journey」、「Ticket to Ride: Rails & Boats」が含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/tickettorideallaboardcollection_bundle",
+        "date": "2026-05-18"
       }
     ],
     "sale": [
@@ -507,6 +519,42 @@
         "discount": "-75%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/blasphemous-2/info/",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "サブノーティカ",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サブノーティカは、Steamで現在75%オフのセール中です。このゲームは、オープンワールドのサバイバルアドベンチャーゲームで、水中を探索することができる独特の特徴があります。評価は非常に高く、人気も高いゲームです。通常価格より大幅に安くなっているので、興味がある方はぜひこの機会にチェックしてみてください。",
+        "price": "¥1,075",
+        "originalPrice": "¥4,300",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/264710",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "サブノーティカ：ビロウゼロ",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サブノーティカ：ビロウゼロは現在、Steamで75%OFFのセール中です。このゲームは、サバイバルとアクションを融合させたアドベンチャーゲームで、深海での探索が特徴です。通常価格からの大幅な割引により、安価にプレイすることができます。サブノーティカシリーズのファンや、深海を舞台にしたゲームに興味のある方にはおすすめです。",
+        "price": "¥1,075",
+        "originalPrice": "¥4,300",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/848450",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "No Man's Skyは、サンドボックス系のスペースサバイバルゲームです。このゲームでは、プレイヤーは宇宙を自由に探索し、資源を集め、惑星を発見することができます。現在、Variousで62%の割引が行われており、格安で購入することができます。このゲームは、壮大な宇宙のSCALEと自由度の高さで人気を博しており、多くのプレイヤーから高評価を得ています。",
+        "price": "$22.95",
+        "originalPrice": "",
+        "discount": "-62%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-05-18"
       }
     ],
@@ -900,8 +948,73 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-metroidvanias-are-still-coming-thick-and-fast-but-has-the-world-moved-on/",
         "date": "2026-05-18",
         "is_translated": true
+      },
+      {
+        "title": "【Steamホテルづくり経営シム『Hotel Architect』正式リリースされ人気爆発中。日...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamでリリースされたホテルづくり経営シム『Hotel Architect』は人気爆発中です。このゲームの評価ポイントとして、ユーザーはホテルの設計や運営、客の満足度管理などを楽しむことができます。レビューの内容概要では、ゲームの自由度の高さやグラフィックの美しさが評価されています。さらに、ユーザーはさまざまなアイテムや施設を組み合わせて独自のホテルを作ることができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260518-443637/",
+        "date": "2026-05-18",
+        "is_translated": false
+      },
+      {
+        "title": "【『アークナイツ：エンドフィールド』、遠すぎる「浄水装置」を無理やり使う力技アイデア続々。超長距...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「アークナイツ：エンドフィールド」の評価ポイントとして、遠すぎる「浄水装置」を無理やり使う力技アイデアが紹介されています。記事では、このゲームのユニークな要素や、プレイヤーが直面する課題について詳しく説明しています。対象読者としては、ゲームファンやアクションゲームを好む人向けの記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260518-443649/",
+        "date": "2026-05-18",
+        "is_translated": false
+      },
+      {
+        "title": "【PS5『ゴースト・オブ・ヨウテイ』マルチプレイ無料DLC「Legends/冥人奇譚」、4月で“...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "PS5のゲーム「ゴースト・オブ・ヨウテイ」のマルチプレイの無料DLC「Legends/冥人奇譚」のレビュー記事では、このゲームの評価ポイントとして、ストーリーの面白さやグラフィックの美しさが挙げられています。また、レビューの内容概要として、ゲームのシステムや操作性の改善が述べられており、ファンが注目するべき点です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260518-443619/",
+        "date": "2026-05-18",
+        "is_translated": false
+      },
+      {
+        "title": "【レゴバットマン：ダークナイトの遺産 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "レゴバットマン：ダークナイトの遺産は、ユーモアとアクションが満載されたゲームです。このゲームは、バットマンのユニークなキャラクターとレゴシリーズの特徴的なゲームスタイルが融合した、面白くてオリジナルの作品となっています。ゲームの評価ポイントとしては、グラフィックとサウンドデザインが高く評価されています。また、ストーリーが面白く、プレイヤーを楽しませます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/lego-batman-legacy-of-the-dark-knight-review/",
+        "date": "2026-05-18",
+        "is_translated": true
+      },
+      {
+        "title": "【Acemagic Retro X5 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Acemagic Retro X5のレビュー記事では、ゲームの評価ポイントとしてグラフィックスのレトロ感やサウンドトラックの魅力が高く評価されています。さらに、ゲームの操作性やストーリーの面白さも高く評価されており、レトロゲームファンや新しいゲームを探している人にオススメできます。レビューの内容概要としては、ゲームの全体的な雰囲気やプレイヤーへの楽しさなどが具体的に紹介されており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-pcs/acemagic-retro-x5-review/",
+        "date": "2026-05-18",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-18T03:33:57.172310"
+  "last_updated": "2026-05-18T12:28:47.825089"
 }
