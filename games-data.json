@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Ticket to Ride: All Aboard Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、ボードゲームをテーマにしたバンドル「Ticket to Ride: All Aboard Collection」が販売中です。このバンドルには、主要タイトルとして「Ticket to Ride」、「Ticket to Ride: First Journey」、「Ticket to Ride: Railroads of the World」などが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/tickettorideallaboardcollection_bundle",
-        "date": "2026-05-08"
-      },
-      {
         "title": "Dead Rising: Shop 'Til You Drop Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -221,90 +209,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Control Ultimate Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームの「Control Ultimate Edition」が、現在Variousで91%OFFのセール中です。このゲームは、独特の時間操作や物体操作の能力を活用して、謎の facility を探索する内容で、評価も高い人気ゲームです。通常価格より大幅に安い価格で購入することができ、ゲームファンにはおすすめです。",
-        "price": "$3.52",
-        "originalPrice": "",
-        "discount": "-91%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/control-ultimate-edition/info/",
-        "date": "2026-05-11"
-      },
-      {
-        "title": "Slay the Spire",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Slay the SpireがSteamで大きく割引された75% OFFセール中です。このゲームは、ローグライクとカードバトルを融合させたユニークなジャンルで、プレイヤーはデッキを構築して様々な敵と戦っていきます。評価は非常に高く、人気度も高いゲームで、多くのユーザーから高く評価されています。通常価格よりも大幅に安くなっているので、興味がある場合はこの機会にチェックしてみることをお勧めします。",
-        "price": "¥700",
-        "originalPrice": "¥2,800",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/646570",
-        "date": "2026-05-11"
-      },
-      {
-        "title": "サブノーティカ",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サブノーティカは、水中探索を楽しむことができるアクションアドベンチャーゲームです。このゲームは、美しい海底世界を探索し、海洋生物と関わることが特徴です。現在、Steamで75%オフのセール中であり、通常価格よりも大幅に安くなっています。サブノーティカは、ユーザーから非常に高い評価を受けており、人気度も高いゲームです。",
-        "price": "¥1,075",
-        "originalPrice": "¥4,300",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/264710",
-        "date": "2026-05-11"
-      },
-      {
-        "title": "サブノーティカ：ビロウゼロ",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サブノーティカ：ビロウゼロは、現在Steamで75%オフのセール中です。このゲームは、水中を探索するアクションアドベンチャーゲームで、美しいグラフィックと奥深いストーリーが特徴です。プレイヤーは水中を自由に泳ぎながら、未知の生物や遺跡を発見することができます。評価は非常に高く、多くのユーザーから人気を博していますが、今すぐ購入すれば大幅な割引価格で手に入れることができます。",
-        "price": "¥1,075",
-        "originalPrice": "¥4,300",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/848450",
-        "date": "2026-05-11"
-      },
-      {
-        "title": "Hell is Us",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「Hell is Us」がSteamで60％オフのセール中です。このゲームは、オープンワールドを舞台に、プレイヤーがさまざまな敵と戦いながら、ストーリーを進めていくという特徴があります。現在の価格は大幅に割引されており、評価も高い人気ゲームです。",
-        "price": "¥2,632",
-        "originalPrice": "¥6,580",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1620730",
-        "date": "2026-05-11"
-      },
-      {
-        "title": "Okami HD",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Okami HDがVariousで50%割引のセール中です。このアクションアドベンチャーゲームは、美しい日本風のグラフィックと独特のゲームプレイが特徴で、評価も非常に高い人気ゲームです。通常価格より半額で購入できるこの機会をぜひお見逃しなくください。",
-        "price": "$9.99",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/okami-hd/info/",
-        "date": "2026-05-11"
-      },
-      {
-        "title": "Dragon's Dogma: Dark Arisen",
-        "platform": "Various",
-        "type": "sale",
-        "description": "オープンワールドのアクションRPGである「Dragon's Dogma: Dark Arisen」が現在、84%割引のセール中です。このゲームは、広大な世界で自由に冒険できることが特徴で、プレイヤーは様々なクエストやモンスターと戦うことができます。評価も高く、人気ゲームとして知られています。価格は大幅に下がっており、興味がある方は今がチャンスです。",
-        "price": "$4.79",
-        "originalPrice": "",
-        "discount": "-84%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dragons-dogma-dark-arisen/info/",
-        "date": "2026-05-11"
-      },
       {
         "title": "Devil May Cry 5",
         "platform": "Steam",
@@ -592,113 +496,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/forza-horizon-6/info/",
         "date": "2026-05-17"
+      },
+      {
+        "title": "Blasphemous 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「Blasphemous 2」がVariousでセール中です。通常価格からの割引率は75%です。このゲームは、ダークファンタジー世界を舞台に、探索と戦闘を繰り返しながら、キャラクターを成長させていくことができます。プラットフォームのジャンプアクションも特徴的です。セール中の価格では、かなりお得に購入できます。評価も高く、人気のゲームとなっています。",
+        "price": "$7.50",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/blasphemous-2/info/",
+        "date": "2026-05-18"
       }
     ],
     "review": [
-      {
-        "title": "【独創的なロシア正教会アドベンチャー“INDIKA”を生んだ「Odd Meter」が次回作の開発...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、独創的なロシア正教会アドベンチャーゲーム「INDIKA」を生み出したゲーム開発会社「Odd Meter」の次回作について紹介しています。評価ポイントとしては、ゲームの独創的なストーリーやユニークなゲームシステムが挙げられます。レビューの内容概要としては、ゲームの雰囲気やグラフィックの美しさ、そしてプレイヤーが体験できる新しい感覚について触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166803.html",
-        "date": "2026-05-13",
-        "is_translated": false
-      },
-      {
-        "title": "【パニッシャー ワン ラスト キル レビュー: マーベルの厄介なマルチバースに対する完璧な解毒剤】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事は、マーベルのマルチバースに対する解毒剤としての「パニッシャー ワン ラスト キル」の評価ポイントを紹介しています。ゲームのストーリー、キャラクター、ゲームプレイの評価などが掘り下げられており、マーベルファンやアクションゲーム好きの方にはおすすめの記事です。記事では、ゲームの魅力的な要素や、シリーズのファンにとっての新しい試みなどが紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/punisher-one-last-kill-review-marvel/",
-        "date": "2026-05-13",
-        "is_translated": true
-      },
-      {
-        "title": "【ロシア売店運営ゲーム『I Have No Change』Steam無料プレイテストがさっそく大...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『I Have No Change』は、ユニークな売店運営ゲームで、プレイヤーはロシアの売店を経営しながら、さまざまな顧客とのやり取りに応じる必要があります。このゲームの評価ポイントとしては、ユーモア溢れるストーリーや、複雑な顧客との交渉が挙げられます。また、レビューの内容としては、ゲームのユニークな設定や、プレイヤーへの挑戦的な要素が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260513-442801/",
-        "date": "2026-05-13",
-        "is_translated": false
-      },
-      {
-        "title": "【「SILENT HILL f」の世界的な出荷本数が累計200万本を突破、「SILENT HIL...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "SILENT HILL fの世界的な出荷本数が累計200万本を突破したことを受けて、レビュー記事が公開されました。本作は、ストーリー、グラフィック、サウンドデザインの評価ポイントが高く、多くのゲーマーから好評価を得ています。レビューでは、ゲームの雰囲気や緊張感、キャラクターの深みなどが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166824.html",
-        "date": "2026-05-13",
-        "is_translated": false
-      },
-      {
-        "title": "【マーシャルアーツとミュージックビデオを組み合わせた独創的な新作「Dead as Disco」の...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Dead as Disco」のレビュー記事では、このゲームの独創的なゲームプレイが評価されています。マーシャルアーツとミュージックビデオを組み合わせたこのゲームは、ユニークな体験を提供しています。レビューでは、ゲームのグラフィックやサウンドトラックも高く評価されています。この記事は、ゲームファンや新しいゲームを探している人にとって、参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166798.html",
-        "date": "2026-05-13",
-        "is_translated": false
-      },
-      {
-        "title": "【『マイクラ』は最古のテレビでもプレイ可能！？アイテムアイコンも見えない解像度でエンドラ討伐を達...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、人気ゲーム「マイクラ」のユニークなプレイスタイルを紹介しています。最古のテレビでもプレイ可能なこのゲームは、アイテムアイコンが見えない低解像度でもエンドラ討伐が達成可能です。この記事は、ゲームの自由度や低スペック環境でのプレイ性に関する評価ポイントを含んでいます。ゲーム好きやマイクラファンにとって、面白いレビューになるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/05/13/181258.html",
-        "date": "2026-05-13",
-        "is_translated": false
-      },
-      {
-        "title": "【ジェームズ・ボンドのオリジンを描く「007 First Light」が遂に完成、Io-Inte...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「007 First Light」はジェームズ・ボンドのオリジンを描いたゲームで、Io-Interactiveによって開発されました。このゲームの評価ポイントとしては、ストーリーの魅力、ゲームプレイのスリル、グラフィックの高品質が挙げられます。レビューの内容概要としては、ゲームのストーリーがボンドのキャラクターを深く掘り下げていること、ミッションの多様性が高く、プレイヤーを飽きさせないこと。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166802.html",
-        "date": "2026-05-13",
-        "is_translated": false
-      },
-      {
-        "title": "【Cooler Master MasterFrame 360​​ パノラマ レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Cooler Master MasterFrame 360​​ パノラマ レビューでは、ゲーミングパソコンのケースとしての性能やデザイン、クーラーとの相性などが評価されています。このレビューでは、特に空間の広さや冷却性、またユーザーが自在にカスタマイズできる点が高く評価されています。ゲーミングパソコンを高性能化したい。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/pc-cases/cooler-master-masterframe-360-panorama-review/",
-        "date": "2026-05-13",
-        "is_translated": true
-      },
       {
         "title": "【癒し系放置ゲーム『The Greenening』続々好評で「好評率97％」の好スタート。灰を洗...：レビュー】",
         "platform": "AUTOMATON",
@@ -723,19 +535,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/05166844.html",
         "date": "2026-05-14",
-        "is_translated": false
-      },
-      {
-        "title": "【帝国技術局とネクロンの戦いを描く人気ストラテジー続編「Warhammer 40,000: Me...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、人気ストラテジーゲームの続編「Warhammer 40,000: Mechanicus」の評価をまとめています。ゲームの評価ポイントとして、帝国技術局とネクロンの戦いを描くストーリーや、戦略的なゲームプレイなどが取り上げられています。また、ゲームのシステムやグラフィックの改善点もレビューで触れられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166833.html",
-        "date": "2026-05-13",
         "is_translated": false
       },
       {
@@ -1075,8 +874,34 @@
         "url": "https://www.polygon.com/event-horizon-sequel-comic-interview/",
         "date": "2026-05-17",
         "is_translated": true
+      },
+      {
+        "title": "【『テラリア』PC版、平均プレイ時間が「100時間以上」だと判明。15年注ぎ足された底なしゲーム...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『テラリア』PC版のレビュー記事では、平均プレイ時間が100時間を超えることが分かりました。このゲームは15年の期間にわたって更新が続けられており、プレイヤーは新しいコンテンツを不断に発見することができます。このゲームの評価ポイントとしては、豊富なコンテンツ、自由度の高いゲームプレイ、そして常に更新される新しい要素が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260518-443596/",
+        "date": "2026-05-18",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam 週間を振り返る: メトロイドヴァニアは依然として急速に登場していますが、世界は前に...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事では、Steamでの週間のゲームトレンドを振り返り、メトロイドヴァニアジャンルのゲームが急速に増えていることを指摘しています。また、ゲームの世界観やストーリーが重要性を増していることも述べられています。特に、ゲームファンやSteamユーザーにとっては参考になる記事です。記事では、ゲームの評価ポイントとしてグラフィックやサウンドの品質、ゲーム性の面白さなどが取り上げられており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-metroidvanias-are-still-coming-thick-and-fast-but-has-the-world-moved-on/",
+        "date": "2026-05-18",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-17T21:55:36.553364"
+  "last_updated": "2026-05-18T03:33:57.172310"
 }
