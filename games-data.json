@@ -194,6 +194,42 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/monsterhunterspringhuntingcollection2026_bundle",
         "date": "2026-05-18"
+      },
+      {
+        "title": "Dead Rising: Shop 'Til You Drop Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Dead Rising: Shop 'Til You Drop Bundleというバンドルが現在販売中です。このバンドルには、主要タイトルとして「Dead Rising」、「Dead Rising 2」、「Dead Rising 2: Off the Record」が含まれており、オープンワールドアクションアドベンチャーゲームを楽しむことができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/deadrisingshoptilyoudropbundle_bundle",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "PLAYISM Publisher Bundle - 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble BundleでPLAYISM Publisher Bundle - 2026が販売中です。このバンドルには、主要タイトルとして「DEATH SMILES I・II」や「YUMENIKKI -DREAM DIARY-」、「Gnosia」などが含まれています。ジャンルはアクションやアドベンチャー、パズルなど多様なものが含まれており、大まかな価格帯は1,000円から2,000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/playismpublisherbundle2026_bundle",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "Silly Heroes Tales Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Silly Heroes Tales BundleがIndieGalaで販売中です。このバンドルには、Silly Heroes、Tales、Tales of Aravornなどの主要タイトルが含まれており、ロールプレイングゲームやアドベンチャーゲームが中心の作品集です。ジャンルはRPGやアドベンチャーが主で、大まかな価格帯は10ドル以下とお手頃です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/silly-heroes-tales-bundle",
+        "date": "2026-05-19"
       }
     ],
     "sale": [
@@ -459,6 +495,30 @@
         "discount": "-52%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "V Rising",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "V Risingは、オープンワールドのサバイバルアクションゲームで、ドラキュラのような吸血鬼として生き残ることを目指します。現在、Steamで55% OFFのセール中で、通常価格より大幅に安くなっています。このゲームは、独自のゲームプレイとグラフィックスで人気を博しており、Steamでの評価は「非常に良い」となっています。",
+        "price": "¥1,530",
+        "originalPrice": "¥3,400",
+        "discount": "55% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1604030",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "Pacific Drive",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Pacific DriveがVariousで67%オフのセール中です。このゲームは、スリリングなドライブを体験できるアクションアドベンチャーゲームで、評価も高い人気作品です。セール期間中は、通常価格より大幅に安く購入できるので、ドライブゲームファンにはおすすめです。",
+        "price": "$9.89",
+        "originalPrice": "",
+        "discount": "-67%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/pacific-drive/info/",
         "date": "2026-05-19"
       }
     ],
@@ -878,8 +938,34 @@
         "url": "https://www.inside-games.jp/article/2026/05/19/181520.html",
         "date": "2026-05-19",
         "is_translated": false
+      },
+      {
+        "title": "【鉱山ゴリゴリ削りクリッカー『Dwarf Eats Mountain』Steamでさっそく人気白...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、Steamで人気のゲーム「Dwarf Eats Mountain」を紹介しています。ゲームの評価ポイントとして、ユニークなコンセプトや面白いプレイスタイルが挙げられます。レビューでは、ゲームの魅力や欠点について具体的に述べられており、ゲームファンやSteamユーザーが参考にできる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260519-443927/",
+        "date": "2026-05-19",
+        "is_translated": false
+      },
+      {
+        "title": "【Zowie EC2-DW レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Zowie EC2-DW レビューの記事では、このゲームデバイスの評価ポイントとして、操作性やデザインが高く評価されています。具体的には、正確なマウス感覚や快適な握り心地が特徴的であるとされています。また、レビューではこのデバイスの長所や短所が詳細に紹介されており、デバイス選びを検討しているゲーマーやパソコンユーザーにとって参考になる内容となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/zowie-ec2-dw-review/",
+        "date": "2026-05-19",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-19T03:26:42.302616"
+  "last_updated": "2026-05-19T12:09:22.251418"
 }
