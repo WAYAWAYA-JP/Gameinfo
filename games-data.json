@@ -544,6 +544,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/subnautica/info/",
         "date": "2026-05-19"
+      },
+      {
+        "title": "Devil May Cry 5",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Devil May Cry 5がSteamで85% OFFのセール中です。このアクションアドベンチャーゲームは、スタイリッシュな格闘システムと高品質のグラフィックで知られています。通常価格から大幅に割引されたこのゲームは、非常に評価が高く人気のあるタイトルです。Steamユーザーなら誰でもこの魅力的なゲームを体験できるので、ぜひこの機会に購入してみてください。",
+        "price": "¥448",
+        "originalPrice": "¥2,990",
+        "discount": "85% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/601150",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "魔女の泉R",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "魔女の泉RがSteamで50% OFFセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、ユニークなストーリーとキャラクターが特徴です。通常価格から半額になるこのセールは、ファンや新規プレイヤーにとって絶好のチャンスです。魔女の泉Rは、ユーザーからの評価が高く人気のゲームであり、多くのプレイヤーから高い評価を得ています。",
+        "price": "¥2,150",
+        "originalPrice": "¥4,300",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1958220",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "Elden Ring",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションRPGゲームであるElden RingがVariousで25%割引のセール中です。このゲームは、広大なオープンワールドと深いストーリーで知られており、多くのユーザーから高い評価を得ています。価格も割引によりお得なので、ゲームファンにはおすすめです。",
+        "price": "$44.99",
+        "originalPrice": "",
+        "discount": "-25%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/elden-ring/info/",
+        "date": "2026-05-19"
       }
     ],
     "review": [
@@ -1056,5 +1092,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-19T15:38:29.952843"
+  "last_updated": "2026-05-19T22:16:38.334377"
 }
