@@ -584,58 +584,6 @@
     ],
     "review": [
       {
-        "title": "【“Mass Effect”系アクションRPG「EXODUS」の迷宮探索に焦点を当てる新たなプレ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「EXODUS」のレビュー記事では、このゲームの迷宮探索に焦点を当てた新たなプレイスタイルを紹介しています。評価ポイントとしては、ゲームのグラフィックやサウンドデザインのクオリティが高く、遊び心のあるゲームプレイが楽しめる点が挙げられます。また、レビューでは、ゲームの難易度やストーリーの深さも評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166861.html",
-        "date": "2026-05-15",
-        "is_translated": false
-      },
-      {
-        "title": "【最大4人協力オープンワールドアクション『Farever』発売から1週間で売上10万本のスピード...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "新作ゲーム「Farever」は、最大4人での協力プレイが可能なオープンワールドアクションゲームです。発売から1週間で10万本を突破する高速売上を記録しています。レビューでは、ゲームの評価ポイントとして、自由度の高いオープンワールドの探索や、多彩なアクションの組み合わせが評価されています。また、ストーリーやキャラクターの魅力も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/farever-20260515-443228/",
-        "date": "2026-05-15",
-        "is_translated": false
-      },
-      {
-        "title": "【オープンワールドLEGOドライビングゲーム「LEGO 2K Drive」の販売終了が決定、マル...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "LEGO 2K Driveは、オープンワールドドライビングゲームであり、LEGOシリーズのファンに楽しまれる内容です。レビューでは、ゲームの自由度が高く、プレイヤーがさまざまな車両を運転して広大な世界を探索できることが評価されています。また、グラフィックとサウンドトラックも高く評価されており、ゲームの雰囲気をより一層引き立てています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166866.html",
-        "date": "2026-05-15",
-        "is_translated": false
-      },
-      {
-        "title": "【早期アクセス版「Subnautica 2」が発売から僅か12時間で200万本販売を突破、同接プ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "早期アクセス版の「Subnautica 2」が発売からわずか12時間で200万本販売を突破したと発表された。ゲームのレビューでは、美麗なグラフィック、奥深いストーリー、自由度の高いゲームプレイが高く評価されている。特に、水中での探索と生物との遭遇が楽しめる点がユーザーから高く評価されている。同様の水中探索ゲームを楽しむユーザーや、新しいゲームを探している人向けのレビュー記事となっている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166865.html",
-        "date": "2026-05-15",
-        "is_translated": false
-      },
-      {
         "title": "【砂のお城づくり立体パズル『Elfie: A Sand Plan』、“100％好評”のまま着実に...：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -1089,8 +1037,34 @@
         "url": "https://www.polygon.com/yoshi-and-the-mysterious-book-review-roundup/",
         "date": "2026-05-19",
         "is_translated": true
+      },
+      {
+        "title": "【田舎暮らしシム『復興しよう！温泉町』を遊ぶと、“存在しない夏休み”の記憶が増えていく。精米まで...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『復興しよう！温泉町』は、田舎暮らしのシミュレーションゲームで、プレイヤーは温泉町を復興させるために様々な活動に従事します。このゲームの評価ポイントとしては、リラックスした雰囲気と多様な活動の選択肢が挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの評価、そしてゲームの自由度や再生性が高く楽しめる点が述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260520-443928/",
+        "date": "2026-05-20",
+        "is_translated": false
+      },
+      {
+        "title": "【HorizonユニバースのCo-opアクションスピンオフ「Horizon Hunters Ga...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "『Horizon Hunters』は、人気シリーズ『Horizon』のCo-opアクションスピンオフ作品です。このゲームは、美しいグラフィックとスリリングなアクションが特徴で、2人から4人までのプレイヤーが協力してモンスターと戦うことができます。レビューでは、このゲームの評価ポイントとして、協力プレイの楽しさ、グラフィックの質、ストーリーの面白さが挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166974.html",
+        "date": "2026-05-20",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-19T22:16:38.334377"
+  "last_updated": "2026-05-20T03:27:07.542082"
 }
