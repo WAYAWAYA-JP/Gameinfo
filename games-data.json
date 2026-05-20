@@ -580,6 +580,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/elden-ring/info/",
         "date": "2026-05-19"
+      },
+      {
+        "title": "Balatro",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Balatroはアクションゲームで、現在Variousで28%割引セール中です。このゲームはユーザーから高い評価を得ており、人気度も高いゲームです。価格は割引前の価格より28%安くなっています。セール期間中はお得に購入することができますので、気になる方はぜひチェックしてみてください。",
+        "price": "$10.78",
+        "originalPrice": "",
+        "discount": "-28%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/balatro/info/",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "Detroit: Become Human",
+        "platform": "Various",
+        "type": "sale",
+        "description": "デトロイト ビカム ヒューマンは、Variousで83%オフのセール中です。このアクションアドベンチャーゲームは、人工知能が人間と共存する世界を舞台に、3人のアンドロイドが主役となり、プレイヤーの選択によってストーリーが分岐する、選択肢の多いゲームです。高い評価と人気度を誇り、ゲームファンから高い評価を受けています。",
+        "price": "$6.79",
+        "originalPrice": "",
+        "discount": "-83%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
+        "date": "2026-05-20"
       }
     ],
     "review": [
@@ -1063,8 +1087,21 @@
         "url": "https://doope.jp/2026/05166974.html",
         "date": "2026-05-20",
         "is_translated": false
+      },
+      {
+        "title": "【『レゴ バットマン：レガシー・オブ・ザ・ダークナイト』で、バットマンのファンだから見える景色。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "レゴ バットマン：レガシー・オブ・ザ・ダークナイトは、バットマンのファンなら必見の作品です。このゲームは、バットマンの世界をレゴのブロックで再現しており、ユニークなグラフィックと面白いゲームプレイが特徴です。レビューでは、ゲームのストーリーやキャラクターのデザイン、そしてプレイヤーの自由度が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260520-444133/",
+        "date": "2026-05-20",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-20T03:27:07.542082"
+  "last_updated": "2026-05-20T11:49:19.555538"
 }
