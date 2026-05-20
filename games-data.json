@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/wild-rage-bundle",
         "date": "2026-05-20"
+      },
+      {
+        "title": "Perplexing Puzzles",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、パズルゲームのファンに贈る「Perplexing Puzzles」のバンドルが販売中です。このバンドルには、人気タイトルである「The Talos Principle」や「The Swapper」、「The Witness」などのパズルゲームが含まれています。パズルゲームを楽しむことができるこのバンドルは、約1000円から1500円の価格帯で購入できます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/perplexingpuzzles_bundle",
+        "date": "2026-05-20"
       }
     ],
     "sale": [
@@ -627,6 +639,18 @@
         "discount": "-75%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/darkest-dungeon-ii/info/",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "Warhammer 40,000: Space Marine 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Warhammer 40,000: Space Marine 2がSteamで70%OFFのセール中です。このゲームはアクションゲームのジャンルに属し、激しい戦闘シーンと壮大なグラフィックが特徴です。現在の価格は大幅に割引されており、ファンにとっては絶好の購入機会です。ゲームの評価は高く、ユーザーから高い人気度を誇っています。",
+        "price": "¥2,940",
+        "originalPrice": "¥9,800",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2183900",
         "date": "2026-05-20"
       }
     ],
@@ -1124,8 +1148,21 @@
         "url": "https://automaton-media.com/articles/reportjp/20260520-444133/",
         "date": "2026-05-20",
         "is_translated": false
+      },
+      {
+        "title": "【人気Co-opシューターのローグライトスピンオフ「Deep Rock Galactic: Ro...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Deep Rock Galactic: Rival Escapade」のレビュー記事では、このゲームの評価ポイントとして、Co-opプレイの楽しさやグラフィックの高さが挙げられています。また、レビューの内容概要として、ゲームのシステムやステージデザインの評価が述べられており、Co-opシューターゲームファンやアクションゲームを好む読者にとって参考になる内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166991.html",
+        "date": "2026-05-20",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-20T15:38:34.432545"
+  "last_updated": "2026-05-20T22:24:14.837232"
 }
