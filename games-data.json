@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/silly-heroes-tales-bundle",
         "date": "2026-05-19"
+      },
+      {
+        "title": "Wild Rage Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Wild Rage BundleのバンドルがIndieGalaで販売中です。このバンドルには、Wild Rage、Rage Quest、Rage Against The Zombiesなどの主要タイトルが含まれています。アクションゲームやアドベンチャーゲームを中心にしたバンドルで、ファンにはたまらない魅力的な作品が多数収録されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/wild-rage-bundle",
+        "date": "2026-05-20"
       }
     ],
     "sale": [
@@ -603,6 +615,18 @@
         "discount": "-83%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "Darkest Dungeon® II",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ダークファンタジーのRPGであるDarkest Dungeon® IIが、現在75%オフのセール中です。このゲームは、ストレス管理やチームの育成に重点を置いた、独特のゲームプレイスタイルを特徴としています。プレイヤーは、ダンジョンの奥深くに進みながら、キャラクターの精神状態やチームのバランスを管理する必要があります。ゲームの評価は非常に高く、多くのプレイヤーから人気を博しています。",
+        "price": "$9.87",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/darkest-dungeon-ii/info/",
         "date": "2026-05-20"
       }
     ],
@@ -1103,5 +1127,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-20T11:49:19.555538"
+  "last_updated": "2026-05-20T15:38:34.432545"
 }
