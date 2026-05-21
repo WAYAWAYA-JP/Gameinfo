@@ -1,92 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "アレンジャー・ロールパズリングの旅",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "アレンジャー・ロールパズリングの旅は、パズルとロールプレイングの要素を組み合わせた、ユニークなゲームです。このゲームの特徴は、プレイヤーが様々なパズルを解くことで、物語が進んでいきます。また、グラフィックが美しいことや、ゲームの雰囲気がとても癒しであることも魅力です。このゲームは、Epic Gamesプラットフォームで無料で配布されていますので、誰でも簡単に遊ぶことができます。",
-        "price": "無料",
-        "originalPrice": "¥29",
-        "discount": "100% OFF",
-        "deadline": "2026年05月14日まで",
-        "url": "https://store.epicgames.com/ja/p/8883fa6958a24a00b6f33166e4552833",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Trash Goblin",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "このゲームは、プレッシャーやストレスがなく、いつまでも良い雰囲気が続く、健全で居心地の良い店番ゲームです。主な特徴として、装身具を見つけてきれいにし、アップサイクルして、無限のカラフルで風変わりな顧客に販売することができます。また、節約したお金を使ってショップをアップグレードし、より良いツールを購入し、さらにスペースを拡張してカスタマイズすることも魅力です。",
-        "price": "無料",
-        "originalPrice": "¥19",
-        "discount": "100% OFF",
-        "deadline": "2026年05月14日まで",
-        "url": "https://store.epicgames.com/ja/p/7ea9b97f6a8b4c5d8047733207c5c65c",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "The Telltale Batman Shadows Edition",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "The Telltale Batman Shadows Editionは、無料でプレイできるアドベンチャーゲームです。このゲームの特徴としては、人気コミックシリーズのバットマンを基にしたストーリー、選択肢によって変化する展開、グラフィックノベルのようなビジュアル表現があります。さらに、プレイヤーはバットマンの戦闘や探索を操作でき、ゲームの世界を深く体験できます。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年05月21日まで",
-        "url": "https://store.epicgames.com/ja/p/the-telltale-batman",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Sunderfolk - Standard Edition",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Sunderfolk - Standard EditionがEpic Gamesで無料配布中です。Sunderfolkは、サンドボックスとアクションの要素を組み合わせたゲームで、自由に世界を探索し、さまざまなアイテムを発見することができます。特徴としては、ユニークなグラフィックや、多様なキャラクター、そして自由度の高いゲームプレイが挙げられます。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年05月21日まで",
-        "url": "https://store.epicgames.com/ja/p/sunderfolk-standard-edition-83c05e",
-        "date": "2026-05-14"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Mexican Entertainment System Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、メキシコのエンターテインメントシステムをテーマにした「Mexican Entertainment System Bundle」が現在販売中です。このバンドルには、主に「Guacamelee!」や「Grim Fandango Remastered」などのタイトルが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/mexicanentertainmentsystembundle_bundle",
-        "date": "2026-05-11"
-      },
-      {
-        "title": "HHFlirty Elf Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、HHFlirty Elf Bundleのバンドルが販売中です。このバンドルには、主要タイトルとして「Flirty Elf」や「Elf Girl」などが含まれています。ゲームのジャンルは主にアドベンチャーとシミュレーションです。大まかな価格帯は10ドル以下と見積もられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/flirty-elf-bundle",
-        "date": "2026-05-11"
-      },
-      {
-        "title": "Heavenly Bullets",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Heavenly Bulletsのバンドルが現在販売中です。このバンドルには、主要なタイトルとしてHeavenly Bullets、Viral Cry、Viral Survivalが含まれており、シューティングゲームやアクションゲームを中心とした作品が収録されています。大まかな価格帯は10ドルから20ドル程度で。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/heavenlybullets_bundle",
-        "date": "2026-05-11"
-      },
       {
         "title": "Your Move: Turn Based Games",
         "platform": "Humble Bundle",
@@ -254,81 +169,21 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/perplexingpuzzles_bundle",
         "date": "2026-05-20"
+      },
+      {
+        "title": "Double Shift: Simulation Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Double Shift: Simulation Bundleのバンドルが販売中です。このバンドルには、主要タイトルとして「Farming Simulator 19」、「House Flipper」、「Construction Simulator 2」などが含まれています。シミュレーションゲームが好きな方には、充実した作品を堪能できるバンドルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/doubleshift_simulation_bundle",
+        "date": "2026-05-21"
       }
     ],
     "sale": [
-      {
-        "title": "Subnautica: Below Zero",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サバイバルアドベンチャーゲームのSubnautica: Below Zeroが現在、Variousで75%割引のセール中です。このゲームは、氷の惑星でのサバイバルをテーマにしており、美しいグラフィックと面白いゲームプレイが特徴です。多くのプレイヤーから高い評価を受けており、人気度も高いゲームです。通常価格から75%割引されるこのセールは、お得です。",
-        "price": "$7.49",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/subnautica-below-zero/info/",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "DOOM",
-        "platform": "Various",
-        "type": "sale",
-        "description": "人気FPSゲームのDOOMがVariousで大幅なセール中です。現在、90%オフの激安価格で購入できます。このゲームは、高速なアクションと恐ろしい悪魔たちとの戦いを特徴としています。高い評価と人気度を誇り、FPSファンに特に愛されています。セール期間中はお見逃しなく、ぜひこの機会に体験してみてください。",
-        "price": "$1.99",
-        "originalPrice": "",
-        "discount": "-90%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/doom/info/",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Stardew Valley",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Stardew ValleyがSteamで50%の割引セール中です。このゲームは、ファーミングシミュレーションとRPGの要素を組み合わせた、オープンワールドのアクションアドベンチャーゲームです。プレイヤーは、田舎町で農場を経営しながら、町の人々との関係を深め、さまざまなクエストを遂行します。現在、半額の999円で購入できます。評価は「非常に好評」で、ユーザーから高い評価を得ています。",
-        "price": "¥740",
-        "originalPrice": "¥1,480",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/413150",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "DOOM: The Dark Ages",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでは、ファーストパーソン・シューティングゲームの『DOOM: The Dark Ages』が67%オフのセール中です。このゲームは、高速なアクションと激しい戦闘が特徴で、人気のある『DOOM』シリーズの一部です。現在、セール価格で購入することができ、ゲームの評価も高く、ファンから好評を博しています。",
-        "price": "¥3,194",
-        "originalPrice": "¥9,680",
-        "discount": "67% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3017860",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Frostpunk 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Frostpunk 2がVariousでセール中です。このゲームは、シティービルディングとサバイバル要素が組み合わさった、ストラテジーゲームです。現代の技術と中世の雰囲気を合わせたユニークな世界観が特徴的です。現在、60%オフの割引で購入できます。このゲームは、ストーリーとゲームプレイの深みを評価されており、ファンから高い人気を誇っています。",
-        "price": "$17.88",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サイバーパンクアドベンチャーゲーム「Cyberpunk 2077」がVariousで65％割引されています。このゲームは、未来的な世界を舞台に、プレイヤーがカスタマイズ可能な主人公を操作し、豊富なストーリーやキャラクターを堪能できることで知られています。現在、非常に安い価格で購入することができ、多くのユーザーから高い評価を得ています。",
-        "price": "$20.99",
-        "originalPrice": "",
-        "discount": "-65%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-05-14"
-      },
       {
         "title": "Dead Cells",
         "platform": "Various",
@@ -655,71 +510,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【砂のお城づくり立体パズル『Elfie: A Sand Plan』、“100％好評”のまま着実に...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "砂のお城づくりをテーマにした立体パズルゲーム「Elfie: A Sand Plan」についてのレビュー記事です。このゲームの評価ポイントは、独自のゲームシステムや美しいグラフィックがあげられます。具体的には、砂を積み上げてお城を作るというシンプルながらも奥深いゲームプレイや、繊細な砂のテクスチャーが印象的です。対象読者は、パズルゲームや建築ゲームが好きな人に適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260516-443340/",
-        "date": "2026-05-16",
-        "is_translated": false
-      },
-      {
-        "title": "【『サブノーティカ2』の海賊版ユーザーが「公式Discordで堂々バグ報告」して開発者/コミュニ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『サブノーティカ2』の海賊版ユーザーが公式Discordでバグ報告しているという記事のレビューについて説明します。この記事では、海賊版ユーザーが公式Discordで堂々とバグ報告していることや、開発者とコミュニティの反応について触れています。ゲームの評価ポイントとしては、海賊版ユーザーに対する開発者の対応や、ゲームのバグの扱い方が重要なポイントです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260516-443403/",
-        "date": "2026-05-16",
-        "is_translated": false
-      },
-      {
-        "title": "【Nintendo Switch 2の「ゲームチャット」、なんと使うとカプコンのRE ENGIN...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Nintendo Switch 2の「ゲームチャット」についてのレビュー記事です。この記事では、ゲームチャットの使い方やカプコンのRE ENGINEとの連携について触れています。特に、ゲームチャットの機能やカプコンのRE ENGINEとの連携の利点について評価しています。また、Switch 2のゲームチャットがカプコンのゲームとの相性が良く、快適なゲーミング体験ができる点も評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260516-443395/",
-        "date": "2026-05-16",
-        "is_translated": false
-      },
-      {
-        "title": "【PS5のホーム画面で「今週人気のゲームトップ10」を確認できる機能搭載、まずはベータ展開。“プ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "PS5のホーム画面で「今週人気のゲームトップ10」を確認できる機能が搭載され、まずはベータテストとして展開されています。この機能は、ユーザーが新しいゲームを発見するのを助けます。また、人気ゲームのトレンドを把握することもできます。この機能の評価ポイントとしては、ユーザーへの新しいゲームの発見の促進や人気ゲームのトレンド把握の容易さなどがあります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/ps5-welcome-hub-20260516-443377/",
-        "date": "2026-05-16",
-        "is_translated": false
-      },
-      {
-        "title": "【Inkonbini レビュー: 日本のコンビニで安らぎを見つける】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事は「Inkonbini」というゲームを取り上げています。このゲームでは、プレイヤーは日本のコンビニエンスストアで働き、日常生活の中で安らぎを見つけることを目指します。評価ポイントとしては、ユニークなゲームコンセプトや心を癒す音楽、そして美しいグラフィックが挙げられます。レビューの内容概要としては、ゲームのストーリーやゲームプレイの面白さ、そしてリラックス効果について言及しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/inkonbini-review-nintendo-switch-ps5-xbox-series-x-pc/",
-        "date": "2026-05-16",
-        "is_translated": true
-      },
       {
         "title": "【長時間ゲームしてばかりの子供、「プレイ時間を減らせば健全」とは言い切れない可能性。“逃げられる...】",
         "platform": "AUTOMATON",
@@ -1161,8 +951,99 @@
         "url": "https://doope.jp/2026/05166991.html",
         "date": "2026-05-20",
         "is_translated": false
+      },
+      {
+        "title": "【『ARC Raiders』の「PvP好きor温厚派」判別マッチングシステム、“撃たれたから自衛...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ARC Raiders』のレビュー記事では、PvP好きと温厚派の判別マッチングシステムが紹介されています。このシステムは、プレイヤーの行動に応じて自動的にマッチングを行い、同じタイプのプレイヤー同士で対戦できるように設計されています。また、ゲームの評価ポイントとしては、グラフィックの質やゲームバランスの調整が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260521-444297/",
+        "date": "2026-05-21",
+        "is_translated": false
+      },
+      {
+        "title": "【『デトロイト ビカム ヒューマン』開発元の新作対戦ストラテジー『Spellcasters Ch...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『デトロイト ビカム ヒューマン』の開発元が新作対戦ストラテジー『Spellcasters』を発表しました。このレビュー記事では、ゲームの評価ポイントとして、独自の魔法システムやキャラクターの多様性を高く評価しています。また、戦略的思考を必要とするゲーム性や、グラフィックの美しさも評価ポイントに挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/spellcasters-chronicles-20260521-444276/",
+        "date": "2026-05-21",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料『クリスタル・オブ・アトラン』の『ニーア オートマタ』コラボ大型アプデ、本日配信...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "クリスタル・オブ・アトランの『ニーア オートマタ』コラボ大型アップデートのレビュー記事があります。この記事では、コラボの内容や新しいゲームモードの追加について評価しています。また、グラフィックやサウンドトラックの品質も評価ポイントになっています。この記事は、クリスタル・オブ・アトランやニーア オートマタのファン向けの内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260521-444272/",
+        "date": "2026-05-21",
+        "is_translated": false
+      },
+      {
+        "title": "【「シヴィライゼーション VII」を大きな変化をもたらす大規模アップデート“時の試練”が遂に配信...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「シヴィライゼーション VII」の大規模アップデート「時の試練」が配信されました。このアップデートは、大きな変化をもたらすもので、プレイヤーに新たな挑戦を提供します。レビューの内容としては、新しいゲームモードやユニットの追加、グラフィックの向上などが評価されています。また、ストーリーの深化やゲームバランスの調整も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167016.html",
+        "date": "2026-05-21",
+        "is_translated": false
+      },
+      {
+        "title": "【可愛いペットコンパニオンを導入する「Moonlighter 2: The Endless Va...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Moonlighter 2: The Endless Va...」は、可愛いペットコンパニオンを導入する新しい要素を取り入れたゲームで、プレイヤーの評価ポイントとしては、ペットコンパニオンとの関係構築や、ゲームのグラフィックとサウンドトラックの品質が高く評価されています。また、レビューの内容概要としては、ゲームのストーリーとキャラクターの深み。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167000.html",
+        "date": "2026-05-21",
+        "is_translated": false
+      },
+      {
+        "title": "【Quantic Dreamが今年2月にリリースしたマルチプレイヤーアクション「Spellcas...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Quantic Dreamが今年2月にリリースしたマルチプレイヤーアクションゲーム「Spellcasters」のレビュー記事では、ゲームの評価ポイントとしてグラフィックの質やストーリーの深さ、そしてプレイヤーの自由度が高く評価されています。記事では、ゲームのレビューの内容として、キャラクターの成長システムやマルチプレイヤーモードの盛り上がりが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05166989.html",
+        "date": "2026-05-20",
+        "is_translated": false
+      },
+      {
+        "title": "【「ウルトラマンノア」がアクションフィギュア化！“ライトニングノア”エフェクトパーツなど付属し、...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "「ウルトラマンノア」がアクションフィギュア化され、レビュー記事が公開されています。このレビューでは、フィギュアの評価ポイントとして、デザイナーのディテールやポージングの自由度が高く評価されています。また、付属する「ライトニングノア」エフェクトパーツが特に注目されています。このレビューは、フィギュアや特撮のファンにとって参考になる内容で、ウルトラマンノアの魅力を再確認することができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/05/21/181646.html",
+        "date": "2026-05-21",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-20T22:24:14.837232"
+  "last_updated": "2026-05-21T03:33:45.172175"
 }
