@@ -24,6 +24,30 @@
         "deadline": "2026年05月21日まで",
         "url": "https://store.epicgames.com/ja/p/sunderfolk-standard-edition-83c05e",
         "date": "2026-05-21"
+      },
+      {
+        "title": "Down in Bermuda",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Down in Bermudaは、アドベンチャーゲームであり、プレイヤーが不思議な島に漂着し、そこでさまざまなパズルを解決するという特徴があります。このゲームの魅力は、美しいグラフィックと独自のゲームシステムであり、プレイヤーが島を探索し、アイテムを集め、謎を解くことで島から脱出できるようになります。また、ゲームのストーリーは、プレイヤーの選択によって変化するため。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年05月28日まで",
+        "url": "https://store.epicgames.com/ja/p/down-in-bermuda",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Tomb Raider I-III Remastered Starring Lara Croft",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Tomb Raider I-III Remastered Starring Lara Croftは、Epic Gamesで無料配布中のアクションアドベンチャーゲームです。このゲームは、伝説的なヒロインララ・クロフトを主人公に、古代遺跡を探索する冒険が楽しめます。特徴的なのは、3Dグラフィックの美しい映像、難易度の高いパズル、ハートポンプ的なアクションが魅力です。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年05月28日まで",
+        "url": "https://store.epicgames.com/ja/p/tomb-raider-iiii-remastered-538640",
+        "date": "2026-05-21"
       }
     ],
     "bundle": [
@@ -1130,8 +1154,34 @@
         "url": "https://www.polygon.com/the-boroughs-stranger-things-netflix/",
         "date": "2026-05-21",
         "is_translated": true
+      },
+      {
+        "title": "【Little Nightmaresを生んだTarsier Studiosの新作「REANIMA...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Little Nightmaresを生んだTarsier Studiosの新作「REANIMA...：レビュー」は、ゲームの独自の世界観やグラフィック、サウンドトラックなどが評価ポイントとなっています。レビューでは、ゲームのストーリーやゲームプレイの面白さ、グラフィックの美しさなどが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167048.html",
+        "date": "2026-05-21",
+        "is_translated": false
+      },
+      {
+        "title": "【ジャングルに覆われた遺跡を探索する「Teardown」の新DLC“Relics of Bark...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Teardown」の新DLC「Relics of the Bark」は、ジャングルに覆われた遺跡を探索する新しいエリアを追加します。このDLCは、探索とパズル解決を重視しており、プレイヤーは古代の遺物を発見しながら、遺跡の秘密を解き明かさなければなりません。レビューのポイントとしては、新しいエリアの探索の自由度が高く、古代文明の雰囲気を感じることができる点が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167041.html",
+        "date": "2026-05-21",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-21T12:14:08.100299"
+  "last_updated": "2026-05-21T15:41:40.043076"
 }
