@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "The Telltale Batman Shadows Edition",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "The Telltale Batman Shadows Editionは、アクションアドベンチャーゲームであり、バットマンを主人公にした物語が特徴的です。このゲームの魅力は、主人公のバットマンがさまざまな事件を解決していく様子が描かれ、プレイヤーがバットマンの視点で物語を体験できる点にあります。また、グラフィックやサウンドトラックも高品質であり、ゲームの世界に没入しやすいです。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年05月21日まで",
+        "url": "https://store.epicgames.com/ja/p/the-telltale-batman",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Sunderfolk - Standard Edition",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Sunderfolk - Standard EditionがEpic Gamesで無料配布中です。このゲームはサバイバルアクションゲームのジャンルに属し、特徴的なのは、独自のキャラクターカスタマイズシステムと、奥深いストーリーが楽しめることです。また、自由度の高いゲームプレイが魅力です。このゲームはEpic Gamesプラットフォームで配布されており、無料でプレイすることができます。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年05月21日まで",
+        "url": "https://store.epicgames.com/ja/p/sunderfolk-standard-edition-83c05e",
+        "date": "2026-05-21"
+      }
+    ],
     "bundle": [
       {
         "title": "Your Move: Turn Based Games",
@@ -180,6 +205,18 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.humblebundle.com/games/doubleshift_simulation_bundle",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Mexican Entertainment System Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Mexican Entertainment System Bundleというバンドルが販売中です。このバンドルには、主要タイトルとして「Guacamelee!」や「Grim Fandango Remastered」などの作品が含まれています。ジャンルは、主にアクションとアドベンチャーです。大まかな価格帯は約2000円から3000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/mexicanentertainmentsystembundle_bundle",
         "date": "2026-05-21"
       }
     ],
@@ -507,6 +544,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/2183900",
         "date": "2026-05-20"
+      },
+      {
+        "title": "Stardew Valley",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Stardew ValleyがSteamで50% OFFセール中です。これは、ファーミングシミュレーションゲームで、プレイヤーが自分の農場を経営し、町の住民と交流することができます。ゲームの特徴は、ゆったりとしたペースで農業や漁業、採掘などを行うことができ、リラックスできる内容です。セール期間中は、通常価格の半額で購入できるので、ファンにはお勧めのセールです。",
+        "price": "¥740",
+        "originalPrice": "¥1,480",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/413150",
+        "date": "2026-05-21"
       }
     ],
     "review": [
@@ -1042,8 +1091,47 @@
         "url": "https://www.inside-games.jp/article/2026/05/21/181646.html",
         "date": "2026-05-21",
         "is_translated": false
+      },
+      {
+        "title": "【“全部手描き”ダークファンタジーゲーム『Tormentum II』7月24日配信へ。高評価悪夢...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ダークファンタジーゲーム『Tormentum II』は、全部手描きで作られた独特の世界観が特徴です。このゲームは、7月24日に配信される予定で、すでに高評価を得ています。レビューでは、ゲームのグラフィックやストーリー、音楽などの点が評価されています。また、ゲームの難易度や操作性についても触れられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260521-444456/",
+        "date": "2026-05-21",
+        "is_translated": false
+      },
+      {
+        "title": "【Zero Parades: For Dead Spies レビュー: 絶対プレイすべき Dis...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "この記事は、ゲーム「Zero Parades: For Dead Spies」のレビューです。評価ポイントとして、ゲームのストーリー、グラフィック、サウンドなどの面が取り上げられています。レビューの内容概要としては、ゲームの独自の世界観や感動的なストーリーが高く評価されています。また、ゲームの難易度や操作性も好評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/zero-parades-for-dead-spies-review/",
+        "date": "2026-05-21",
+        "is_translated": true
+      },
+      {
+        "title": "【The Boroughs レビュー: Netflix の『ストレンジャー・シングス 未知の世界...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Netflixの『ストレンジャー・シングス 未知の世界』のレビュー記事である『The Boroughs』では、ゲームの評価ポイントとしてストーリーの深みやキャラクターの魅力が高く評価されています。レビューの内容概要としては、ゲームの世界観が豊かで、プレイヤーが探索したり戦闘したりする楽しみが感じられることが挙げられています。また、キャラクターの個性や関係性もよく描かれていると評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/the-boroughs-stranger-things-netflix/",
+        "date": "2026-05-21",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-21T03:33:45.172175"
+  "last_updated": "2026-05-21T12:14:08.100299"
 }
