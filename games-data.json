@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Your Move: Turn Based Games",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、ターン制ストラテジーゲームを集めた「Your Move: Turn Based Games」というバンドルが販売中です。このバンドルには、注目されるタイトルである「XCOM 2」や「Into the Breach」、「BattleTech」などのゲームが含まれています。ジャンルはストラテジーで、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/yourmoveturnbasedgames_bundle",
-        "date": "2026-05-12"
-      },
-      {
-        "title": "Pixel Traditions Bundle 2",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Pixel Traditions Bundle 2が販売中です。このバンドルには、A Short HikeやForager、Stardew Valleyなどの人気タイトルが含まれています。ジャンルは、インディーゲームやシミュレーションゲーム、ロールプレイングゲームなど多様なものが含まれています。大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/pixel-traditions2-bundle",
-        "date": "2026-05-12"
-      },
-      {
         "title": "Humble 15th Anniversary - Indie Icons Showcase",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,78 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Dead Cells",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲームであるDead Cellsが現在、Variousで55%割引のセール中です。このゲームは、ローグライク要素を取り入れた、アクション要素が豊富な2Dアクションゲームとして人気があり、多くのユーザーから高い評価を受けています。現在の価格は割引前と比べて大幅に安くなっており、興味のある方にはお勧めのゲームです。",
-        "price": "$11.19",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dead-cells/info/",
-        "date": "2026-05-15"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Red Dead Redemption 2がSteamで75% OFFセール中です。このオープンワールドアクションアドベンチャーゲームは、ロックスターゲームスから発売されており、広大なアメリカの西部を舞台に、キャラクターの成長やストーリーを楽しむことができます。現在、通常価格から75%割引されており、格安でプレイすることができます。",
-        "price": "¥2,154",
-        "originalPrice": "¥8,618",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1174180",
-        "date": "2026-05-15"
-      },
-      {
-        "title": "Sunderfolk",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Sunderfolkは、ロールプレイングゲームであり、ユニークなゲームシステムと豊富なストーリーが特徴です。現在、Variousで100%割引セール中で、通常価格が大幅に値下げされています。このゲームは、ユーザーから高い評価を受けており、人気度も高いです。ファンタジー系のゲームファンにはおすすめできます。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/sunderfolk/info/",
-        "date": "2026-05-15"
-      },
-      {
-        "title": "The Alters",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The AltersがVariousで49%オフのセール中です。このゲームはアクションアドベンチャー要素を含んだ、独特のゲーム性が特徴です。現在の価格は割引前の価格より大幅に低くなっています。The Altersは、ユーザーからの評価が高く、人気のゲームとして知られています。セール中ですので、興味がある方はこの機会に一度試してみることをお勧めします。",
-        "price": "$17.95",
-        "originalPrice": "",
-        "discount": "-49%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-alters/info/",
-        "date": "2026-05-15"
-      },
-      {
-        "title": "Telltale Batman Shadows Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Telltale Batman Shadows EditionがVariousで-100%セール中です。このゲームはアドベンチャーとアクションの要素を組み合わせた、バットマンシリーズのストーリーを追跡するゲームであり、非常に評価が高い人気ゲームです。通常価格から100%割引されており、非常に魅力的な価格で購入することができます。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/telltale-batman-shadows-edition/info/",
-        "date": "2026-05-15"
-      },
-      {
-        "title": "UNCHARTED™: Legacy of Thieves Collection",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームのUNCHARTEDシリーズの最新作、「UNCHARTED: Legacy of Thieves Collection」が現在、67%割引のセール中です。このゲームは、シリーズの2つの人気タイトル「UNCHARTED 4: A Thief's End」と「UNCHARTED: The Lost Legacy」を収録しており、高い評価と人気を博しています。",
-        "price": "$16.49",
-        "originalPrice": "",
-        "discount": "-67%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/uncharted-legacy-of-thieves-collection/info/",
-        "date": "2026-05-15"
-      },
       {
         "title": "Smalland: Survive the Wilds",
         "platform": "Steam",
@@ -616,87 +520,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/risk-of-rain-2/info/",
         "date": "2026-05-21"
+      },
+      {
+        "title": "Down in Bermuda",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Down in BermudaがVariousで現在100%割引されています。このゲームはパズルアドベンチャーです。プレイヤーはさまざまなパズルを解決しながら、美しいグラフィックと魅力的なサウンドトラックを楽しむことができます。評価は非常に高い人気ゲームで、多くのプレイヤーから好評を得ています。価格も割引されたので、ぜひお試しください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/down-in-bermuda/info/",
+        "date": "2026-05-22"
       }
     ],
     "review": [
-      {
-        "title": "【長時間ゲームしてばかりの子供、「プレイ時間を減らせば健全」とは言い切れない可能性。“逃げられる...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、長時間ゲームをする子どもを健全に育てるためには、単にプレイ時間を減らせばよいわけではないと指摘しています。たとえば、子どもがゲームをやめると、代わりに別のことに没頭する場合もあります。また、子どものメンタルヘルスに影響を与える要因は多岐にわたり、ゲーム以外の要因も考慮する必要があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260517-443467/",
-        "date": "2026-05-17",
-        "is_translated": false
-      },
-      {
-        "title": "【『Forza Horizon 6』の作り込みがあまりに楽しい。『サブノーティカ2』の手探り感と...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム『Forza Horizon 6』と『サブノーティカ2』について評価しています。特に『Forza Horizon 6』の作り込みが楽しい点や、『サブノーティカ2』の手探り感が面白い点が評価されています。この記事は、レースゲームやアクションゲームが好きな人や、新しいゲームを探している人に読んでみるのがおすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260517-443541/",
-        "date": "2026-05-17",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料「街」オープンワールド『NTE』の刑務所は「脱獄テーマパーク」みたいな場所。死ん...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本書は、基本プレイ無料のオープンワールドゲーム「NTE」の刑務所について書かれたレビュー記事です。このゲームの刑務所は「脱獄テーマパーク」に似た場所で、プレイヤーは様々な挑戦を乗り越えながら脱獄を目指します。この記事は、ゲームのグラフィック、ストーリー、そしてゲームプレイの面で評価しています。特に、ゲームの自由度とアクション性が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260517-443491/",
-        "date": "2026-05-17",
-        "is_translated": false
-      },
-      {
-        "title": "【『サカつく2026』心を折られた鬼畜イングランドリーグに怒りのリベンジ。3か月のガチプレイで見...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、サッカーゲーム『サカつく2026』の評価ポイントについて述べています。具体的には、イングランドリーグでの過去の失敗のリベンジを目指した3か月間のプレイ体験や、ゲームの難易度、操作性などの点から評価しています。この記事は、サッカーゲームファンや『サカつく』シリーズのプレイ経験者にとって参考になる内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260517-443421/",
-        "date": "2026-05-17",
-        "is_translated": false
-      },
-      {
-        "title": "【デミゴッド レビュー (2009)】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "デミゴッドのレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンド、ゲームプレイの面白さなどが挙げられています。レビューの内容概要としては、ゲームのストーリーやキャラクターの魅力、難易度の適切さなどが評価されています。また、対象読者としては、ロールプレイングゲームのファンやアクションゲームを好む人向けのレビューであると言えるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rts/demigod-review-2009/",
-        "date": "2026-05-17",
-        "is_translated": true
-      },
-      {
-        "title": "【Event Horizo​​n にはまったく異なる種類の続編が登場します - 独占プレビューを...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Event Horizo​​nの続編が登場し、独占プレビューのレビュー記事が公開されています。この記事では、新しい続編の特徴やゲームプレイの評価、グラフィックやサウンドの質などの評価ポイントが紹介されています。レビューの内容概要としては、続編の新しいシステムやゲームモード、ストーリーの展開などが取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/event-horizon-sequel-comic-interview/",
-        "date": "2026-05-17",
-        "is_translated": true
-      },
       {
         "title": "【『テラリア』PC版、平均プレイ時間が「100時間以上」だと判明。15年注ぎ足された底なしゲーム...】",
         "platform": "AUTOMATON",
@@ -1229,8 +1067,73 @@
         "url": "https://www.rockpapershotgun.com/after-months-of-leaks-and-building-expectations-assassins-creed-black-flag-resynced-is-a-surprisingly-clumsy-remake-with-bugs-and-parkour-missteps-marring-my-three-hour-preview",
         "date": "2026-05-21",
         "is_translated": true
+      },
+      {
+        "title": "【フリュー新作TPS『アノマリス／ANOMALITH』先行プレイ感想。気持ち悪くてホラー風味だが...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "フリューの新作TPS『アノマリス／ANOMALITH』の先行プレイ感想を紹介するレビュー記事です。このゲームはホラー要素が含まれており、気持ち悪さと恐怖感を体験できるのが特徴です。記事では、ゲームの評価ポイントとして、独特の雰囲気、ユニークなゲームプレイ、グラフィックの質を挙げています。読者層としては、ホラーファンやTPSゲームを好む人にオススメされるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/anomalith-20260522-444411/",
+        "date": "2026-05-22",
+        "is_translated": false
+      },
+      {
+        "title": "【帝国技術局とネクロンの戦いを描く人気ストラテジー続編「Warhammer 40,000: Me...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、人気のストラテジーゲーム「Warhammer 40,000: Mechanicus」の続編を取り上げています。このゲームは、帝国技術局とネクロンの戦いを描いており、戦略的な要素が充実しています。評価ポイントとしては、グラフィックの向上や新しいキャラクターの追加が挙げられます。レビューの内容概要としては、ゲームの難易度やストーリーの深みが語られています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167023.html",
+        "date": "2026-05-22",
+        "is_translated": false
+      },
+      {
+        "title": "【「Forza Horizon 6」のプレイヤーが遂に600万人を突破、PC Steam版の同接...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Forza Horizon 6は、レースゲームファンに大人気のゲームです。レビューのポイントとしては、グラフィックの高度な質感や、リアルなゲーム体験が挙げられます。また、PC Steam版の同期機能も高く評価されています。さらに、多様な車種やコースが用意されており、プレイヤーは自由にカスタマイズやレースを楽しむことができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167038.html",
+        "date": "2026-05-22",
+        "is_translated": false
+      },
+      {
+        "title": "【猛毒の大気に満ちた惑星を紹介する“Mass Effect”系アクションRPG「EXODUS」の...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「EXODUS」は、猛毒の大気に満ちた惑星を舞台にしたアクションRPGであり、評価ポイントとしては、豊富なストーリー、多様なキャラクター、そして自由度の高いゲームプレイが挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドデザインが高く評価されており、プレイヤーが没入できる世界観を提供していることが特筆されます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167062.html",
+        "date": "2026-05-22",
+        "is_translated": false
+      },
+      {
+        "title": "【『アサシン クリード ブラックフラッグ RE: シンクロ』先行プレイレポート。そこには、13年...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "『アサシン クリード ブラックフラッグ RE: シンクロ』のレビュー記事では、ゲームの評価ポイントとして、ユニークなゲームプレイやグラフィックの美しさが挙げられています。また、記事では先行プレイレポートの内容も紹介されており、ゲームの魅力が伝わっています。このレビュー記事は、ゲームファンやアサシン クリード シリーズの愛好家にとって、ゲームの内容や評価を知るための参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/05/22/181713.html",
+        "date": "2026-05-22",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-21T22:19:05.964551"
+  "last_updated": "2026-05-22T03:32:25.656431"
 }
