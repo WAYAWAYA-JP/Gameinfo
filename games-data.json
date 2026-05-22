@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/silly-heroes-tales-bundle",
         "date": "2026-05-22"
+      },
+      {
+        "title": "4X: Xplore, Xpand, Xploit, Xterminate",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、4Xシリーズのバンドル「4X: Xplore, Xpand, Xploit, Xterminate」が販売中です。このバンドルには、代表的なタイトルとして「Xplore」、「Xpand」、「Xploit」、「Xterminate」が含まれています。ジャンルはストラテジーです。大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/4xxplorexpandxploitxterminate_bundle",
+        "date": "2026-05-22"
       }
     ],
     "sale": [
@@ -579,6 +591,30 @@
         "discount": "-100%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/warhammer-40000-gladius-relics-of-war/info/",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "Outer Wilds",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Outer Wildsは、宇宙を探索するオープンワールドアドベンチャーゲームで、プレイヤーはタイムループの中で謎を解き明かしていきます。このゲームは、高い評価と人気度を誇り、多くのプレイヤーに支持されています。現在、Steamで50%の割引が行われており、通常価格よりも大幅に安くなっています。Outer Wildsは、独自のゲームプレイと魅力的なストーリーで知られており。",
+        "price": "¥1,625",
+        "originalPrice": "¥3,250",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/753640",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "Car Mechanic Simulator 2018",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Car Mechanic Simulator 2018がVariousで100%割引され、現在無料でプレイできます。このゲームは、自動車のメンテナンスや修理をシミュレートする、ユニークなゲームです。プレイヤーは、自動車の診断や修理、パーツの交換など、実際の車のメカニックのような体験を楽しむことができます。評価は非常に高く、ユーザーから高い人気を博しています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/car-mechanic-simulator-2018/info/",
         "date": "2026-05-22"
       }
     ],
@@ -1300,5 +1336,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-22T14:51:41.906203"
+  "last_updated": "2026-05-22T22:08:33.640117"
 }
