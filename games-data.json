@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/warhammerskulls2026bundle_bundle",
         "date": "2026-05-21"
+      },
+      {
+        "title": "HHSilly Heroes Tales Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "HHSilly Heroes Tales BundleというバンドルがIndieGalaで販売中です。このバンドルには、Silly Tales、Silly Tales 2、Silly Tales：Dragon's Friendなどのアドベンチャーやファンタジー要素のあるゲームが含まれています。ジャンルはアドベンチャーとファンタジーで、大まかな価格帯は10ドル以下です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/silly-heroes-tales-bundle",
+        "date": "2026-05-22"
       }
     ],
     "sale": [
@@ -531,6 +543,42 @@
         "discount": "-100%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/down-in-bermuda/info/",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Red Dead Redemption 2はオープンワールドアクションアドベンチャーゲームであり、ストーリーとゲームプレイの充実さで高い評価を受けています。現在、Steamで75% OFFのセール中で、通常価格より大幅に安くなっています。このゲームは、グラフィックの美しさやキャラクターの深み、そして広大なオープンワールドでの自由な冒険が特徴です。",
+        "price": "¥2,154",
+        "originalPrice": "¥8,618",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1174180",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "The Outlast Trials",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "The Outlast TrialsがSteamで70% OFFのセール中です。このゲームは、サバイバルホラーのジャンルに分類され、恐怖と緊張を感じさせる独自のゲームプレイが特徴です。セール中の価格は大幅に下がり、かなりお得な条件になっています。ゲームの評価は高く、多くのユーザーから好評価されており、人気度も高いです。恐怖を愛するゲーマーには、絶対にプレイしてみるべきタイトルの一つです。",
+        "price": "¥1,350",
+        "originalPrice": "¥4,500",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1304930",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "Warhammer 40,000: Gladius - Relics of War",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Warhammer 40,000: Gladius - Relics of Warは、ターン制ストラテジーゲームです。このゲームは、Warhammer 40,000の世界を舞台に、4つの異なる種族を操作して戦略的な戦闘を楽しむことができます。現在、100%割引で提供されており、非常に魅力的です。ユーザーの評価も高く、戦略ゲームファンに人気があります。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/warhammer-40000-gladius-relics-of-war/info/",
         "date": "2026-05-22"
       }
     ],
@@ -1132,8 +1180,47 @@
         "url": "https://www.inside-games.jp/article/2026/05/22/181713.html",
         "date": "2026-05-22",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料「街」オープンワールド『NTE』にて、”脱獄研究”がやたら進む。逮捕から帰宅まで...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、基本プレイ無料のオープンワールドゲーム「NTE」における「脱獄研究」のシステムがやたらと進むことを取り上げています。ゲーム内での逮捕から帰宅までのプロセスについても触れています。この記事は、オープンワールドゲームやゲームシステムに興味がある方に特にオススメできます。記事では、ゲームの評価ポイントとして、システムの自由度やリアルさ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260522-444638/",
+        "date": "2026-05-22",
+        "is_translated": false
+      },
+      {
+        "title": "【『Slay the Spire 2』ベータアプデで、新実装ボス「永劫の砂時計」にさっそく調整到...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Slay the Spire 2』の最新ベータアップデートで新たなボス「永劫の砂時計」が実装されました。このアップデートの評価ポイントとしては、新ボスの戦闘システムや難易度の調整、そしてゲーム全体のバランスが挙げられます。レビューの内容概要としては、新ボス戦の激烈な戦闘や、ゲームの深さとリピートプレイ性の向上が取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260522-444607/",
+        "date": "2026-05-22",
+        "is_translated": false
+      },
+      {
+        "title": "【あるレビュアーは、Viper V4 Pro のスケート靴を交換すると、ガラスパッドセンサーの問...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、Viper V4 Pro のガラスパッドセンサーの問題点を指摘したレビュアーが、スケート靴を交換した後の感想を述べている内容です。この記事では、Viper V4 Pro のハードウェアの問題点や、交換後の使用感について触れています。特に、ゲームプレーヤーやテクノロジー関連の情報に興味がある方に向けたレビュー記事となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/replacing-the-viper-v4-pros-skates-gave-one-reviewer-some-razer-warranty-trouble-after-glass-pad-sensor-issues/",
+        "date": "2026-05-22",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-22T03:32:25.656431"
+  "last_updated": "2026-05-22T11:45:11.341667"
 }
