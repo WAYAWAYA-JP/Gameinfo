@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Humble 15th Anniversary - Indie Icons Showcase",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Humble 15th Anniversary - Indie Icons Showcaseというバンドルが現在販売中です。このバンドルには、Faster Than Light、Hyper Light Drifter、Night in the Woodsなどの主要タイトルが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/humble15thanniversaryindieiconsshowcase_bundle",
-        "date": "2026-05-13"
-      },
-      {
-        "title": "Build, Shuffle, Battle!",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Build, Shuffle, Battle!のバンドルが現在販売中です。このバンドルには、カードゲームやストラテジーゲームが含まれており、主要タイトルとして「Slay the Spire」や「Card Quest」などが含まれています。ジャンルはメインにカードゲームやストラテジーで、価格帯は大まかに1000円から2000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/buildshufflebattle_bundle",
-        "date": "2026-05-13"
-      },
-      {
         "title": "MECHA MANIA",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -616,165 +592,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/car-mechanic-simulator-2018/info/",
         "date": "2026-05-22"
+      },
+      {
+        "title": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "Various",
+        "type": "sale",
+        "description": "LEGO® Batman™: Legacy of the Dark KnightがVariousでセール中です。このゲームはアクションアドベンチャー要素のあるオープンワールドゲームで、バットマンシリーズのファンなら必見です。現在16％割引中で、通常の価格よりお得に購入できます。ユーザーの評価も高く、人気ゲームとして知られています。",
+        "price": "$58.69",
+        "originalPrice": "",
+        "discount": "-16%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/lego-batman-legacy-of-the-dark-knight/info/",
+        "date": "2026-05-23"
       }
     ],
     "review": [
-      {
-        "title": "【『テラリア』PC版、平均プレイ時間が「100時間以上」だと判明。15年注ぎ足された底なしゲーム...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『テラリア』PC版のレビュー記事では、平均プレイ時間が100時間を超えることが分かりました。このゲームは15年の期間にわたって更新が続けられており、プレイヤーは新しいコンテンツを不断に発見することができます。このゲームの評価ポイントとしては、豊富なコンテンツ、自由度の高いゲームプレイ、そして常に更新される新しい要素が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260518-443596/",
-        "date": "2026-05-18",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam 週間を振り返る: メトロイドヴァニアは依然として急速に登場していますが、世界は前に...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事では、Steamでの週間のゲームトレンドを振り返り、メトロイドヴァニアジャンルのゲームが急速に増えていることを指摘しています。また、ゲームの世界観やストーリーが重要性を増していることも述べられています。特に、ゲームファンやSteamユーザーにとっては参考になる記事です。記事では、ゲームの評価ポイントとしてグラフィックやサウンドの品質、ゲーム性の面白さなどが取り上げられており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-metroidvanias-are-still-coming-thick-and-fast-but-has-the-world-moved-on/",
-        "date": "2026-05-18",
-        "is_translated": true
-      },
-      {
-        "title": "【Steamホテルづくり経営シム『Hotel Architect』正式リリースされ人気爆発中。日...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamでリリースされたホテルづくり経営シム『Hotel Architect』は人気爆発中です。このゲームの評価ポイントとして、ユーザーはホテルの設計や運営、客の満足度管理などを楽しむことができます。レビューの内容概要では、ゲームの自由度の高さやグラフィックの美しさが評価されています。さらに、ユーザーはさまざまなアイテムや施設を組み合わせて独自のホテルを作ることができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260518-443637/",
-        "date": "2026-05-18",
-        "is_translated": false
-      },
-      {
-        "title": "【『アークナイツ：エンドフィールド』、遠すぎる「浄水装置」を無理やり使う力技アイデア続々。超長距...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム「アークナイツ：エンドフィールド」の評価ポイントとして、遠すぎる「浄水装置」を無理やり使う力技アイデアが紹介されています。記事では、このゲームのユニークな要素や、プレイヤーが直面する課題について詳しく説明しています。対象読者としては、ゲームファンやアクションゲームを好む人向けの記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260518-443649/",
-        "date": "2026-05-18",
-        "is_translated": false
-      },
-      {
-        "title": "【PS5『ゴースト・オブ・ヨウテイ』マルチプレイ無料DLC「Legends/冥人奇譚」、4月で“...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "PS5のゲーム「ゴースト・オブ・ヨウテイ」のマルチプレイの無料DLC「Legends/冥人奇譚」のレビュー記事では、このゲームの評価ポイントとして、ストーリーの面白さやグラフィックの美しさが挙げられています。また、レビューの内容概要として、ゲームのシステムや操作性の改善が述べられており、ファンが注目するべき点です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260518-443619/",
-        "date": "2026-05-18",
-        "is_translated": false
-      },
-      {
-        "title": "【レゴバットマン：ダークナイトの遺産 レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "レゴバットマン：ダークナイトの遺産は、ユーモアとアクションが満載されたゲームです。このゲームは、バットマンのユニークなキャラクターとレゴシリーズの特徴的なゲームスタイルが融合した、面白くてオリジナルの作品となっています。ゲームの評価ポイントとしては、グラフィックとサウンドデザインが高く評価されています。また、ストーリーが面白く、プレイヤーを楽しませます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/lego-batman-legacy-of-the-dark-knight-review/",
-        "date": "2026-05-18",
-        "is_translated": true
-      },
-      {
-        "title": "【Acemagic Retro X5 レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Acemagic Retro X5のレビュー記事では、ゲームの評価ポイントとしてグラフィックスのレトロ感やサウンドトラックの魅力が高く評価されています。さらに、ゲームの操作性やストーリーの面白さも高く評価されており、レトロゲームファンや新しいゲームを探している人にオススメできます。レビューの内容概要としては、ゲームの全体的な雰囲気やプレイヤーへの楽しさなどが具体的に紹介されており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-pcs/acemagic-retro-x5-review/",
-        "date": "2026-05-18",
-        "is_translated": true
-      },
-      {
-        "title": "【「Forza Horizon 6」先行アクセスのプレイヤー数が早くも150万人を突破、Prem...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Forza Horizon 6の先行アクセスが開始され、すでに150万人のプレイヤーが参加しています。レビューでは、ゲームのグラフィックやサウンドトラックの高品質、そして幅広い車種のラインナップが評価されています。さらに、ゲームの自由度が高く、プレイヤーが自分の好みに合わせてカスタマイズできる点も強みです。このゲームは、レースゲームのファンやオープンワールドゲームを楽しむ人に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166924.html",
-        "date": "2026-05-18",
-        "is_translated": false
-      },
-      {
-        "title": "【ゼロ パレード: フォー デッド スパイのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ゼロ パレード: フォー デッド スパイのレビュー記事では、このゲームの評価ポイントをいくつか紹介しています。まず、ゲームのストーリーやキャラクターの深さが高く評価されています。また、ゲームプレイのバリエーションやサウンドトラックの質も高いことが挙げられています。対象読者は、ストーリー重視のゲームに興味がある人や、サウンドトラックを重視する人に適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/zero-parades-for-dead-spies-review/",
-        "date": "2026-05-18",
-        "is_translated": true
-      },
-      {
-        "title": "【レゴ バットマン ダークナイトのレガシー レビューまとめ: バットマン アーカムの再来】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "レゴ バットマン ダークナイトのレガシー レビューまとめは、バットマン アーカムの再来と評価されています。このレビューでは、ゲームのストーリーやキャラクター、ゲームプレイの面白さが高く評価されています。また、レゴシリーズのファンにはもちろん、バットマンのファンにもおすすめできる内容です。特に、レゴシリーズのユーモアやアクションが楽しめる点が強調されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/lego-batman-legacy-of-the-dark-knight-review-roundup/",
-        "date": "2026-05-18",
-        "is_translated": true
-      },
-      {
-        "title": "【エイリアン叙事詩「怒りのデス・ロード」を告げるカンヌの審査で予告編が到着することを期待：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事は、エイリアンを題材とした映画「怒りのデス・ロード」のカンヌでの審査で公開された予告編を取り上げています。記事では、映画の評価ポイントとして、ストーリーの展開や特効の質を高く評価しています。また、映画のレビューの内容として、映画の壮大な映像美や緊張感溢れるストーリーを紹介しています。この記事は、映画ファンやエイリアンシリーズの愛好者にとって、興味深い情報を得ることができるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/hope-reviews-cannes-2026-michael-fassbender/",
-        "date": "2026-05-18",
-        "is_translated": true
-      },
-      {
-        "title": "【エリオットの冒険プレビュー: スクウェア・エニックスの懐かしいゼルダのようなゲームは、一口サイ...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "スクウェア・エニックスの新作ゲーム「エリオットの冒険」は、懐かしいゼルダのようなゲームです。このゲームは、オープンワールドの冒険、魅力的なグラフィック、そして面白いゲームプレイが特徴です。レビューでは、このゲームの評価ポイントとして、自由に探索できる広大な世界、多種多様な敵やボスとのバトル、そしてストーリーの深みが挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/adventures-of-elliot-preview-square-enix/",
-        "date": "2026-05-18",
-        "is_translated": true
-      },
       {
         "title": "【基本プレイ無料『サカつく2026』“日本代表実装”のVer.2.0アプデ、6月配信へ。最新移籍...】",
         "platform": "AUTOMATON",
@@ -1333,8 +1165,34 @@
         "url": "https://www.polygon.com/2026-summer-games-movies-release-dates/",
         "date": "2026-05-22",
         "is_translated": true
+      },
+      {
+        "title": "【ダークゴシックアクションRPG「Crimson Moon」のゲームプレイ解説トレーラーが公開、...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ダークゴシックアクションRPG「Crimson Moon」のゲームプレイ解説トレーラーが公開されました。このレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンドトラックのクオリティ、そしてストーリーの深みを挙げています。また、ゲームのシステムや操作性についても詳しく解説しています。対象読者は、アクションRPGのファンやダークファンタジーを好む人向けです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167090.html",
+        "date": "2026-05-23",
+        "is_translated": false
+      },
+      {
+        "title": "【非同期型マルチプレイヤーモードを導入する「9 Kings」の最新パッチが5月25日に配信、ティ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「9 Kings」の最新パッチが5月25日に配信されました。このパッチでは非同期型マルチプレイヤーモードが導入され、ゲームの幅が拡大しました。このレビューでは、最新パッチの評価ポイントとして、新しいマルチプレイヤーモードの魅力やゲームバランスの調整が取り上げられます。また、ゲームのグラフィックやサウンドの質も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167087.html",
+        "date": "2026-05-23",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-22T22:08:33.640117"
+  "last_updated": "2026-05-23T02:50:58.293382"
 }
