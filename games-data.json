@@ -580,6 +580,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/tomb-raider-i-iii-remastered/info/",
         "date": "2026-05-23"
+      },
+      {
+        "title": "Monster Hunter: World",
+        "platform": "Various",
+        "type": "sale",
+        "description": "モンハンシリーズの最新作である「Monster Hunter: World」が、現在77%オフのセール中です。このアクションロールプレイングゲームは、巨大なモンスターを狩る爽快なアクションと、豊富な武器や防具のカスタマイズが特徴です。非常に人気の高いゲームであり、多くのユーザーから高評価を得ています。セール中の価格で入手することができるので、未プレイの方もぜひこの機会に購入してみてください。",
+        "price": "$6.87",
+        "originalPrice": "",
+        "discount": "-77%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/monster-hunter-world/info/",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "Dragon's Dogma 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "オープンワールドアクションRPGであるDragon's Dogma 2が、現在Variousで62%割引されています。このゲームは、広大な世界で自由に冒険できることが特徴です。ユーザーからの評価は非常に高く、多くのプレイヤーから人気を博しています。割引価格でこの高評価のゲームを購入するチャンスです。",
+        "price": "$26.73",
+        "originalPrice": "",
+        "discount": "-62%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
+        "date": "2026-05-24"
       }
     ],
     "review": [
@@ -1089,8 +1113,47 @@
         "url": "https://www.polygon.com/crushed-in-time-preview-interview/",
         "date": "2026-05-23",
         "is_translated": true
+      },
+      {
+        "title": "【『ヨッシーとフカシギの図鑑』は子供の頃の虫取りっぽさあり。『ルーンダイス』はパズル色強め。『ス...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、さまざまなゲームの特徴を紹介しています。『ヨッシーとフカシギの図鑑』は、子供の頃の虫取りのような感覚を味わえるゲームで、懐かしさを感じることができます。一方、 『ルーンダイス』はパズルの要素が強く、頭脳を鍛えることができるゲームです。このレビュー記事は、ゲームファンや家族で遊ぶことを検討している人にとって、ゲーム選びの参考になる内容となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260524-444853/",
+        "date": "2026-05-24",
+        "is_translated": false
+      },
+      {
+        "title": "【『サカつく2026』3か月ガチプレイ日記最終回は、“自分が育てたクラブ”にボコボコにされ続けた...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、サッカーのゲーム「サカつく2026」の3か月間のプレイ体験を紹介しています。記事では、プレイヤーが自分で育てたクラブチームと対戦した際の体験談を中心に、ゲームの評価ポイントとして操作性やチーム育成の自由度を高く評価しています。また、記事ではゲームの長期的な楽しみ方や、チームの強化方法についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260524-444804/",
+        "date": "2026-05-24",
+        "is_translated": false
+      },
+      {
+        "title": "【【特集】ヤギで街を破壊、心霊スポットに突撃、見えない世界を言葉で繋ぐ！仲間と遊ぶと100倍楽し...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、ユニークなゲームの魅力を紹介しています。ゲームの評価ポイントとして、ユーモアあふれる破壊要素や心霊スポットへの突撃、そして見えない世界を言葉で繋ぐという独創的なコンセプトが挙げられます。レビューの内容概要としては、ゲームの面白さやオリジナリティを重視した評価がなされています。対象読者としては、ユニークなゲームを求めるゲーマーや、新しい体験を楽しみたい方に読んでほしい記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/05/24/181804.html",
+        "date": "2026-05-24",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-24T03:29:14.847312"
+  "last_updated": "2026-05-24T10:41:55.093381"
 }
