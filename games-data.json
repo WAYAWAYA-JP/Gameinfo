@@ -1152,8 +1152,47 @@
         "url": "https://www.inside-games.jp/article/2026/05/24/181804.html",
         "date": "2026-05-24",
         "is_translated": false
+      },
+      {
+        "title": "【ドーン オブ ウォー 2 レビュー (2009)】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "「ドーン オブ ウォー 2」は、2009年にレビューされたゲームです。このゲームの評価ポイントは、グラフィックの高さやゲーム性の面白さがあります。レビューの内容概要としては、戦略的な要素が豊富で、プレイヤーがさまざまなシナリオを楽しむことができます。また、ゲームの音響や映像も高く評価されています。対象読者は、ストラテジーゲームのファンやアクションゲームが好きな人に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rts/dawn-of-war-2-review-2009/",
+        "date": "2026-05-24",
+        "is_translated": true
+      },
+      {
+        "title": "【Half-Life の最大の競争相手のデザインリーダーは、ゲームの発売時点でパブリッシャーは非...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、人気ゲーム「Half-Life」の最大の競争相手のデザインリーダーについて紹介しています。記事では、ゲームの発売時点でパブリッシャーが非存在だったことなどについて言及しています。評価ポイントとしては、ゲームのストーリーやグラフィック、サウンドデザインなどが挙げられます。レビューの内容概要としては、ゲームの独自性や魅力、そしてゲームの完成度などが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fps/the-design-lead-of-half-lifes-biggest-competitor-says-that-its-publisher-was-so-pissed-off-by-the-time-the-game-launched-that-it-didnt-bother-testing-it-properly-we-got-trashed-in-the-press-because-of-bugs/",
+        "date": "2026-05-24",
+        "is_translated": true
+      },
+      {
+        "title": "【Gothic 1 Remake プレビュー: 25 年前の RPG は独特の残忍な体験を残しています】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Gothic 1 Remakeは、25年前に発売されたRPGのリメイクであり、独特の残忍な体験をプレイヤーに提供します。このゲームの評価ポイントとしては、グラフィックの向上、ゲームプレイの改善、ストーリーの深化が挙げられます。レビューの内容概要としては、リメイクによりゲームの雰囲気や世界観がより一層豊かになったこと、難易度が高く挑戦的であること。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/gothic-1-remake-preview/",
+        "date": "2026-05-24",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-24T13:49:01.086767"
+  "last_updated": "2026-05-24T21:56:58.930067"
 }
