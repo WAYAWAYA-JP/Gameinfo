@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "MECHA MANIA",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、メカアクションゲームを多数含む「MECHA MANIA」のバンドルが現在販売中です。このバンドルには、人気タイトル「DAEMON X MACHINA」や「Zone of the Enders: The 2nd Runner」などが含まれています。メカアクションゲームファンにはたまらないジャンルの作品が勢揃いしているため、兴味がある方はぜひチェックしてみてください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/mechamania_bundle",
-        "date": "2026-05-14"
-      },
-      {
         "title": "HHPixel Traditions Bundle 2",
         "platform": "IndieGala",
         "type": "bundle",
@@ -257,54 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Smalland: Survive the Wilds",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Smalland: Survive the WildsがSteamで75% OFFセール中です。このゲームはサバイバルアクションジャンルの作品で、プレイヤーは小さな生物として自然界で生き残るために闘争します。現在のセールでは大幅な割引が適用されており、通常価格よりも大幅に安くなっています。ファンから高い評価を受けており、人気度も高いので、興味がある方は今回のセールを活用してお勧めします。",
-        "price": "¥975",
-        "originalPrice": "¥3,900",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/768200",
-        "date": "2026-05-17"
-      },
-      {
-        "title": "Subnautica 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サバイバルアドベンチャーゲームであるSubnauticaの続編「Subnautica 2」がVariousでセール中です。このゲームは、未知の海底世界を探索し、資源を集め、生物と遭遇するという特徴があります。現在、割引率が設定されており、通常価格よりも安く購入することができます。Subnauticaシリーズは、ユーザーの評価が高く、人気度も高いゲームです。",
-        "price": "$29.99",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/subnautica-2/info/",
-        "date": "2026-05-17"
-      },
-      {
-        "title": "Chip ‘n Clawz vs. The Brainioids Friend's Pass",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Chip ‘n Clawz vs. The Brainioids Friend's PassがVariousでセール中です。このゲームはアクションアドベンチャー要素が含まれたパズルゲームで、ユーモアのあるグラフィックと面白いゲームプレイが特徴です。現在、割引率が高いので、安価に購入できます。また、ユーザーの評価も高く、人気度も高いゲームです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/chip-n-clawz-vs-the-brainioids-friends-pass/info/",
-        "date": "2026-05-17"
-      },
-      {
-        "title": "Forza Horizon 6",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Forza Horizon 6がVariousでセール中です。このゲームはレースゲームのジャンルに属し、美しいグラフィックとリアルな運転体験が特徴です。セール中の割引率は最大50%までとかなりお得です。価格も割引前の価格より大幅に下がっており、現在は約5,000円から購入できます。このゲームは高評価をされており、ユーザーからも人気があります。",
-        "price": "$69.99",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/forza-horizon-6/info/",
-        "date": "2026-05-17"
-      },
       {
         "title": "Blasphemous 2",
         "platform": "Various",
@@ -643,162 +583,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料『サカつく2026』“日本代表実装”のVer.2.0アプデ、6月配信へ。最新移籍...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「サカつく2026」の最新バージョン、Ver.2.0についてのレビュー記事では、ゲームの評価ポイントとして日本代表の実装や最新の移籍データの反映などが挙げられています。このゲームは基本プレイ無料であり、最新のサッカー情勢を反映している点が特徴的です。対象読者としては、サッカーを愛するファンやオンラインゲームを楽しむユーザーが適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260519-443778/",
-        "date": "2026-05-19",
-        "is_translated": false
-      },
-      {
-        "title": "【催眠療法で自分自身の崩れゆく精神世界を探索する新作アドベンチャー「Falling Apart」...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Falling Apart」は、催眠療法で自分自身の崩れゆく精神世界を探索する新作アドベンチャーゲームです。このゲームの評価ポイントとしては、独特なストーリー展開やキャラクターの深みがあり、プレイヤーを引き込むことが特徴です。ゲームのレビューでは、ストーリーの複雑さやキャラクターの心理描写が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166923.html",
-        "date": "2026-05-19",
-        "is_translated": false
-      },
-      {
-        "title": "【プレイヤーのワークライフバランス改善を支援するデスクトップ常駐系農場ライフシム「Focus G...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Focus G...」は、プレイヤーのワークライフバランスを改善することを目的としたデスクトップ常駐系の農場ライフシミュレーションゲームです。このゲームは、ストレスを軽減するためのリラックス効果や、時間管理スキルの向上など、ユーザーの生活を支援する機能を備えています。ゲームの評価ポイントとしては、ユーザーにとってのストレス軽減効果や、時間管理スキルの向上などがあげられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166935.html",
-        "date": "2026-05-19",
-        "is_translated": false
-      },
-      {
-        "title": "【噂：SIEがシングルプレイヤー「PlayStation」ゲームのPC展開から撤退か、Jason...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、ソニー・インタラクティブ・エンターテインメント（SIE）がシングルプレイヤー用の「PlayStation」ゲームのPCへの展開から撤退する可能性について述べた噂を取り上げています。記事では、この噂の真相とその影響について詳しく分析しています。ゲームファンやPCゲーミングの愛好家にとって、この記事は重要な情報を提供するものです。また、ゲーム業界の動向にも注目する必要があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166922.html",
-        "date": "2026-05-19",
-        "is_translated": false
-      },
-      {
-        "title": "【HD-2D初のアクションRPG『冒険家エリオットの千年物語』は、“自分好みのスタイルを模索する...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "『冒険家エリオットの千年物語』は、HD-2D初のアクションRPGです。このゲームの評価ポイントとしては、ユニークなグラフィックや快適なゲームプレイが挙げられます。レビューの内容概要としては、自由度の高いキャラクター作成や、幅広いスタイルの模索が可能であることが評価されています。このゲームは、アクションゲームやRPGファンに特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/05/19/181520.html",
-        "date": "2026-05-19",
-        "is_translated": false
-      },
-      {
-        "title": "【鉱山ゴリゴリ削りクリッカー『Dwarf Eats Mountain』Steamでさっそく人気白...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、Steamで人気のゲーム「Dwarf Eats Mountain」を紹介しています。ゲームの評価ポイントとして、ユニークなコンセプトや面白いプレイスタイルが挙げられます。レビューでは、ゲームの魅力や欠点について具体的に述べられており、ゲームファンやSteamユーザーが参考にできる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260519-443927/",
-        "date": "2026-05-19",
-        "is_translated": false
-      },
-      {
-        "title": "【Zowie EC2-DW レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Zowie EC2-DW レビューの記事では、このゲームデバイスの評価ポイントとして、操作性やデザインが高く評価されています。具体的には、正確なマウス感覚や快適な握り心地が特徴的であるとされています。また、レビューではこのデバイスの長所や短所が詳細に紹介されており、デバイス選びを検討しているゲーマーやパソコンユーザーにとって参考になる内容となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/zowie-ec2-dw-review/",
-        "date": "2026-05-19",
-        "is_translated": true
-      },
-      {
-        "title": "【基本プレイ無料・戦車シューター『World of Tanks: HEAT』5月26日にリリース...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本記事は、基本プレイ無料の戦車シューター『World of Tanks: HEAT』のレビュー記事です。このゲームは5月26日にリリースされ、プレイヤーは様々な戦車を操り、戦略的な戦闘を楽しむことができます。レビューでは、ゲームのグラフィックやサウンド、そして戦闘システムの評価ポイントが概要的に紹介されています。特に、戦車のカスタマイズやマルチプレイヤー機能が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/woth-20260519-443988/",
-        "date": "2026-05-19",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料“ヒーロー制”MMORPG『Drakantos』第2回クローズドβテスト開催へ、...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料のMMORPG『Drakantos』の第2回クローズドβテストが開催されることとなった。このゲームは、ヒーロー制を採用しており、ユーザーは様々なヒーローを操作して冒険を楽しむことができる。本レビューでは、ゲームの評価ポイントとしてグラフィックの質、ゲーム性の多様性、ストーリーの深さを取り上げている。特に、グラフィックの質は高く、ゲームの世界観をリアルに体感できる。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260519-443980/",
-        "date": "2026-05-19",
-        "is_translated": false
-      },
-      {
-        "title": "【待望の正式リリースを迎えた「Forza Horizon 6」のPC Steam版同接ピークが2...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Forza Horizon 6」のPC Steam版が正式にリリースされ、待望のゲームに多くのユーザーが期待を寄せています。このゲームの評価ポイントとしては、美麗なグラフィック、リアルなゲームプレイ、豊富なカスタマイズオプションが挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドデザインの高さ、そしてカスタマイズオプションの豊富さが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166932.html",
-        "date": "2026-05-19",
-        "is_translated": false
-      },
-      {
-        "title": "【サンドボックスオープンワールドRPG続編「Outward 2」の早期アクセス版発売日とクローズ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Outward 2の早期アクセス版の発売日とクローズドベータテストの開始が発表されました。このゲームは、サンドボックスオープンワールドRPGの続編であり、プレイヤーは広大な世界を探索し、様々なクエストをこなします。レビューでは、ゲームのグラフィックの向上、戦闘システムの改善、そして新しいストーリーの導入が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166930.html",
-        "date": "2026-05-19",
-        "is_translated": false
-      },
-      {
-        "title": "【ヨッシーとふしぎな本のレビューまとめ: 任天堂の新しいスイッチ 2 ゲームは批評家を二分する】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "任天堂の新しいスイッチ2ゲーム「ヨッシーとふしぎな本」のレビュー記事では、批評家が二分されていることがわかります。このゲームの評価ポイントとして、グラフィックの美しさやゲームの新鮮さが挙げられます。レビューの内容概要としては、ゲームのストーリーや操作性が高く評価されている一方で、難易度が高すぎると意見が分かれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/yoshi-and-the-mysterious-book-review-roundup/",
-        "date": "2026-05-19",
-        "is_translated": true
-      },
       {
         "title": "【田舎暮らしシム『復興しよう！温泉町』を遊ぶと、“存在しない夏休み”の記憶が増えていく。精米まで...：レビュー】",
         "platform": "AUTOMATON",
@@ -1308,5 +1092,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-23T21:54:31.806671"
+  "last_updated": "2026-05-24T03:29:14.847312"
 }
