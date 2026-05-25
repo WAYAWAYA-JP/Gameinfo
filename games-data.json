@@ -1246,8 +1246,34 @@
         "url": "https://automaton-media.com/articles/newsjp/20260525-444952/",
         "date": "2026-05-25",
         "is_translated": false
+      },
+      {
+        "title": "【“The Elder Scrolls II: Daggerfall”にインスパイアされたクラシ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「The Elder Scrolls II: Daggerfall」にインスパイアされたクラシックRPGのレビュー記事です。このゲームは、膨大なストーリーやデタILEDなゲームシステムが特徴です。レビューのポイントとしては、ゲームの自由度が高く、プレイヤーが自分の冒険を楽しむことができること、グラフィックやサウンドトラックが美しく、臨場感があること。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167109.html",
+        "date": "2026-05-25",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam 週間の振り返り: Steam には限界空間ゲームが溢れており、私もそれは認めるが、...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Steamのレビュー記事では、限界空間ゲームが溢れていることを指摘しながらも、その中から優れた作品を探すことの重要性を強調しています。記事では、限界空間ゲームの特徴や魅力、そしてその中で注目すべき作品を紹介しています。Steamユーザーやゲームファンにとって、限界空間ゲームの魅力を再認識する機会となるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-is-flooded-with-liminal-spaces-games-and-i-approve-but-i-think-ive-found-the-best-to-start-with/",
+        "date": "2026-05-25",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-25T12:29:56.553128"
+  "last_updated": "2026-05-25T15:20:32.467781"
 }
