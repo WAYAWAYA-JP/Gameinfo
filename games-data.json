@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "HHPixel Traditions Bundle 2",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "HHPixel Traditions Bundle 2というバンドルがIndieGalaで販売中です。このバンドルには、RPGやアドベンチャーゲームなどのジャンルの、興味深いタイトルが収録されています。具体的には、\"Echoes of the Fey\"や\"The Path of Motus\"などのタイトルが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/pixel-traditions2-bundle",
-        "date": "2026-05-15"
-      },
-      {
         "title": "Creature Feature Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,66 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Blasphemous 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「Blasphemous 2」がVariousでセール中です。通常価格からの割引率は75%です。このゲームは、ダークファンタジー世界を舞台に、探索と戦闘を繰り返しながら、キャラクターを成長させていくことができます。プラットフォームのジャンプアクションも特徴的です。セール中の価格では、かなりお得に購入できます。評価も高く、人気のゲームとなっています。",
-        "price": "$7.50",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/blasphemous-2/info/",
-        "date": "2026-05-18"
-      },
-      {
-        "title": "サブノーティカ",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サブノーティカは、Steamで現在75%オフのセール中です。このゲームは、オープンワールドのサバイバルアドベンチャーゲームで、水中を探索することができる独特の特徴があります。評価は非常に高く、人気も高いゲームです。通常価格より大幅に安くなっているので、興味がある方はぜひこの機会にチェックしてみてください。",
-        "price": "¥1,075",
-        "originalPrice": "¥4,300",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/264710",
-        "date": "2026-05-18"
-      },
-      {
-        "title": "サブノーティカ：ビロウゼロ",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サブノーティカ：ビロウゼロは現在、Steamで75%OFFのセール中です。このゲームは、サバイバルとアクションを融合させたアドベンチャーゲームで、深海での探索が特徴です。通常価格からの大幅な割引により、安価にプレイすることができます。サブノーティカシリーズのファンや、深海を舞台にしたゲームに興味のある方にはおすすめです。",
-        "price": "¥1,075",
-        "originalPrice": "¥4,300",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/848450",
-        "date": "2026-05-18"
-      },
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "No Man's Skyは、サンドボックス系のスペースサバイバルゲームです。このゲームでは、プレイヤーは宇宙を自由に探索し、資源を集め、惑星を発見することができます。現在、Variousで62%の割引が行われており、格安で購入することができます。このゲームは、壮大な宇宙のSCALEと自由度の高さで人気を博しており、多くのプレイヤーから高評価を得ています。",
-        "price": "$22.95",
-        "originalPrice": "",
-        "discount": "-62%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-05-18"
-      },
-      {
-        "title": "Kingdom Come: Deliverance II",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Kingdom Come: Deliverance IIがVariousで55%オフのセール中です。このゲームは、オープンワールドアクションRPGのジャンルに属し、リアルな中世ヨーロッパの世界を舞台に、プレイヤーは自由に冒険できます。評価は非常に高く、人気度も高いゲームです。セール期間中は、通常価格より大幅に安くなりますので、興味がある方はお見逃しなく、お買い得なチャンスです。",
-        "price": "$27.19",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
-        "date": "2026-05-18"
-      },
       {
         "title": "Stray",
         "platform": "Various",
@@ -604,61 +532,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
         "date": "2026-05-24"
+      },
+      {
+        "title": "Bunny Guys!",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Bunny Guys!がVariousで100%割引のセール中です。このゲームは、ユーモアと個性的なキャラクターが特徴のアクションゲームです。現在の価格は無料です。ユーザーの評価は非常に高く、多くのプレイヤーに人気があるようです。興味がある方は、期間限定のセールをぜひチェックしてみてください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/bunny-guys/info/",
+        "date": "2026-05-25"
       }
     ],
     "review": [
-      {
-        "title": "【田舎暮らしシム『復興しよう！温泉町』を遊ぶと、“存在しない夏休み”の記憶が増えていく。精米まで...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『復興しよう！温泉町』は、田舎暮らしのシミュレーションゲームで、プレイヤーは温泉町を復興させるために様々な活動に従事します。このゲームの評価ポイントとしては、リラックスした雰囲気と多様な活動の選択肢が挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの評価、そしてゲームの自由度や再生性が高く楽しめる点が述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260520-443928/",
-        "date": "2026-05-20",
-        "is_translated": false
-      },
-      {
-        "title": "【HorizonユニバースのCo-opアクションスピンオフ「Horizon Hunters Ga...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "『Horizon Hunters』は、人気シリーズ『Horizon』のCo-opアクションスピンオフ作品です。このゲームは、美しいグラフィックとスリリングなアクションが特徴で、2人から4人までのプレイヤーが協力してモンスターと戦うことができます。レビューでは、このゲームの評価ポイントとして、協力プレイの楽しさ、グラフィックの質、ストーリーの面白さが挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166974.html",
-        "date": "2026-05-20",
-        "is_translated": false
-      },
-      {
-        "title": "【『レゴ バットマン：レガシー・オブ・ザ・ダークナイト』で、バットマンのファンだから見える景色。...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "レゴ バットマン：レガシー・オブ・ザ・ダークナイトは、バットマンのファンなら必見の作品です。このゲームは、バットマンの世界をレゴのブロックで再現しており、ユニークなグラフィックと面白いゲームプレイが特徴です。レビューでは、ゲームのストーリーやキャラクターのデザイン、そしてプレイヤーの自由度が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260520-444133/",
-        "date": "2026-05-20",
-        "is_translated": false
-      },
-      {
-        "title": "【人気Co-opシューターのローグライトスピンオフ「Deep Rock Galactic: Ro...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Deep Rock Galactic: Rival Escapade」のレビュー記事では、このゲームの評価ポイントとして、Co-opプレイの楽しさやグラフィックの高さが挙げられています。また、レビューの内容概要として、ゲームのシステムやステージデザインの評価が述べられており、Co-opシューターゲームファンやアクションゲームを好む読者にとって参考になる内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166991.html",
-        "date": "2026-05-20",
-        "is_translated": false
-      },
       {
         "title": "【『ARC Raiders』の「PvP好きor温厚派」判別マッチングシステム、“撃たれたから自衛...：レビュー】",
         "platform": "AUTOMATON",
@@ -722,19 +610,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/05167000.html",
         "date": "2026-05-21",
-        "is_translated": false
-      },
-      {
-        "title": "【Quantic Dreamが今年2月にリリースしたマルチプレイヤーアクション「Spellcas...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Quantic Dreamが今年2月にリリースしたマルチプレイヤーアクションゲーム「Spellcasters」のレビュー記事では、ゲームの評価ポイントとしてグラフィックの質やストーリーの深さ、そしてプレイヤーの自由度が高く評価されています。記事では、ゲームのレビューの内容として、キャラクターの成長システムやマルチプレイヤーモードの盛り上がりが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05166989.html",
-        "date": "2026-05-20",
         "is_translated": false
       },
       {
@@ -1191,8 +1066,125 @@
         "url": "https://www.polygon.com/gothic-1-remake-preview/",
         "date": "2026-05-24",
         "is_translated": true
+      },
+      {
+        "title": "【『007 ファースト・ライト』開発元、“フラゲネタバレ動画”拡散を受けすぐさま「公式ネタバレ動...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『007 ファースト・ライト』のレビュー記事では、このゲームの評価ポイントとして、映画的なストーリーやグラフィックの高さが挙げられています。また、ゲームのレビューの内容概要として、ステルスアクションの面白さや、キャラクターの魅力が紹介されています。対象読者としては、007シリーズのファンやアクションゲーム好きの方に、このレビュー記事が向けられているようです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260525-444940/",
+        "date": "2026-05-25",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料「街」オープンワールド『NTE』で「推しキャラ」と手つなぎデート。“オフの顔”の...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、基本プレイ無料のオープンワールドゲーム「NTE」について取り上げています。ゲームの評価ポイントとして、自由な世界で冒険することができる点や、好きなキャラクターとデートをすることができる点が挙げられます。記事では、ゲームの魅力や特徴について詳しく紹介しています。このレビューは、オープンワールドゲームやデートシミュレーションゲームが好きな人にとって参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260525-444914/",
+        "date": "2026-05-25",
+        "is_translated": false
+      },
+      {
+        "title": "【人気ボードゲーム“ワイアームスパン”のデジタル版「Wyrmspan」がアナウンス：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気ボードゲーム「ワイアームスパン」のデジタル版「Wyrmspan」が発表されました。このゲームの評価ポイントとしては、戦略的なゲームプレイやユニークなシステムが挙げられます。レビューの内容概要としては、ゲームの難易度や操作性が高く、ストラテジー系のゲームファンにはお勧めできる点が強調されています。また、対象読者としては、ボードゲームやストラテジーゲームが好きな人や。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167099.html",
+        "date": "2026-05-25",
+        "is_translated": false
+      },
+      {
+        "title": "【「Fallout 4」のPip-Boyで初代“FalloutがプレイできるMOD「Fallou...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Fallout 4」のPip-Boyで初代「Fallout」がプレイできるMOD「Fallout 4」のレビュー記事では、MODの独自性や魅力、操作性の向上などが評価ポイントとして挙げられています。このMODにより、初代「Fallout」の世界がよりリアルに体験できるようになり、ファンには必見の要素となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167104.html",
+        "date": "2026-05-25",
+        "is_translated": false
+      },
+      {
+        "title": "【「Path of Exile 2」“Return of the Ancients”アップデート...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Path of Exile 2」の最新アップデート「Return of the Ancients」についてのレビュー記事があります。この記事では、ゲームの評価ポイントとしてグラフィックの向上や新しいキャラクターの追加が紹介されています。さらに、ゲームのストーリーや新しい機能の追加についても触れています。ゲームファンやアクションRPGが好きな人にとって、このレビュー記事は参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167119.html",
+        "date": "2026-05-25",
+        "is_translated": false
+      },
+      {
+        "title": "【Io-Interactiveが最新作「007 First Light」の冒頭13分を紹介するゲ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Io-Interactiveの最新作「007 First Light」の冒頭13分が紹介されたレビュー記事では、ゲームの評価ポイントとしてグラフィックの高さやストーリーの面白さが挙げられています。また、レビューではゲームのプレイ感覚やサウンドトラックの質も高く評価されています。このレビューは、最新のゲーム情報に興味がある人や「007」シリーズのファン向けに役立つ内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167103.html",
+        "date": "2026-05-25",
+        "is_translated": false
+      },
+      {
+        "title": "【「Forza Horizon 6」のPC Steam同接ピークが30万人を突破、総プレイヤー数...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Forza Horizon 6」のPC Steam接続ピークが30万人を突破し、総プレイヤー数も大幅に増加したと伝えられています。このゲームは、グラフィックスやサウンドトラックの高品質さ、そして広大なオープンワールドが特徴です。レビューでは、ゲームの評価ポイントとして、リアルな運転感覚や多様な車種の選択肢が高く評価されています。また、ゲームのストーリーやキャラクターの魅力も注目されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167097.html",
+        "date": "2026-05-25",
+        "is_translated": false
+      },
+      {
+        "title": "【コスプレ】『鳴潮』2周年台湾イベントで公式コスプレイヤー集結！「花咲く約束」を彩る14名の美麗レイヤーが魅せる世界観が圧巻【写真79枚】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム『鳴潮』の2周年を記念した台湾イベントの公式コスプレイヤーが集結した様子を紹介しています。イベントでは、「花咲く約束」を彩る14名の美麗なコスプレイヤーが魅せる世界観が圧巻でした。この記事は、ゲームファンやコスプレ愛好家にとって興味深い内容であり、イベントの写真79枚も掲載されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/05/25/181828.html",
+        "date": "2026-05-25",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam 週間の振り返り: Steam には境界領域のゲームが溢れており、私もそれは認めるが...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Steamプラットフォームには様々な境界領域のゲームが溢れているが、その中から注目すべき作品をピックアップするのは難しい。そうした中で、 Steam週間の振り返りという記事では、ユーザーが評価したポイントやレビューの内容をまとめている。このレビュー記事では、評価ポイントとしてゲームのグラフィックやサウンド、そしてストーリーの面白さが取り上げられている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-is-flooded-with-liminal-spaces-games-and-i-approve-but-i-think-ive-found-the-best-to-start-with/",
+        "date": "2026-05-25",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-24T21:56:58.930067"
+  "last_updated": "2026-05-25T03:40:08.786591"
 }
