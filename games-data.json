@@ -544,6 +544,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/bunny-guys/info/",
         "date": "2026-05-25"
+      },
+      {
+        "title": "サブノーティカ",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サブノーティカは、Steamで現在75%オフのセール中です。このゲームは、オープンワールドのサバイバル要素とストーリーを組み合わせた、ユニークなアドベンチャーゲームです。プレイヤーは、海底の世界で探索やディープダイビングをしながら、神秘的な環境を解明していきます。評価は非常に高く、Steamでのユーザーレビューは「Overwhelmingly Positive」です。",
+        "price": "¥1,075",
+        "originalPrice": "¥4,300",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/264710",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "サブノーティカ：ビロウゼロ",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サブノーティカ：ビロウゼロは、アクションアドベンチャーゲームで、海底の未知の世界を探索することができます。現在、Steamで75%の割引セール中で、通常価格より大幅に安くなっています。このゲームは、美しいグラフィックとスリリングなゲームプレイが特徴で、多くのユーザーから高評価を得ています。人気度も高く、多くのゲーマーがプレイしています。",
+        "price": "¥1,075",
+        "originalPrice": "¥4,300",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/848450",
+        "date": "2026-05-25"
       }
     ],
     "review": [
@@ -1183,8 +1207,47 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-is-flooded-with-liminal-spaces-games-and-i-approve-but-i-think-ive-found-the-best-to-start-with/",
         "date": "2026-05-25",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料『NTE』、新モード「暗黒レーシング」が“バグ技の生まれ変わり”説浮上。「レース...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料のゲーム「NTE」には、新しいモード「暗黒レーシング」が追加されました。 このモードは、プレイヤーが高速でレースをしながら、障害物を避けながら進む必要があります。 このモードは、バグ技の生まれ変わり説が浮上しており、プレイヤーから高い評価を得ています。 このゲームは、レースゲームを好む人や、新しいゲームを探している人にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260525-444984/",
+        "date": "2026-05-25",
+        "is_translated": false
+      },
+      {
+        "title": "【マイニンテンドーストアにて、Nintendo Switch 2の購入条件から「Switchのプ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "マイニンテンドーストアにおけるNintendo Switch 2の購入条件から「Switchのプレイヤー層」のレビュー記事では、Switchの新作ゲームの魅力を評価するポイントとして、グラフィックスの向上、ゲームプレイの多様性、オンライン機能の改善などを挙げています。また、レビューでは、Switchの新作ゲームの評価ポイントとして、ストーリーの深み、キャラクターの魅力。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260525-444971/",
+        "date": "2026-05-25",
+        "is_translated": false
+      },
+      {
+        "title": "【新たなマルチ対応デスゲームホラー『HANDS OVER』発表。本当に腕が千切れる“イタイワニー...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "新たなマルチ対応デスゲームホラー『HANDS OVER』のレビュー記事では、ゲームの恐怖要素やユニークなゲーム性が評価されています。特に、プレイヤーの腕が切断されるという残酷な要素がゲームの特徴となっています。また、レビューではマルチプレイ機能の充実度やグラフィックの質も高く評価されています。ホラーゲームファンやアクションゲーム好きにとって、このゲームは非常に面白いものであると思います。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260525-444952/",
+        "date": "2026-05-25",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-25T03:40:08.786591"
+  "last_updated": "2026-05-25T12:29:56.553128"
 }
