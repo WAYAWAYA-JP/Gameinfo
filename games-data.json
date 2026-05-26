@@ -556,6 +556,30 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/357190",
         "date": "2026-05-26"
+      },
+      {
+        "title": "ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅は、人気のロールプレイングゲームです。このゲームは、モンスターコレクションや育成が特徴で、ドラゴンクエストシリーズのファンには必見です。現在、Steamで75% OFFのセール中で、通常価格よりも大幅に安くなっています。ドラゴンクエストシリーズのファンや、ロールプレイングゲームを楽しむ人にはおすすめです。",
+        "price": "¥1,245",
+        "originalPrice": "¥4,980",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2175540",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "ドラゴンクエストIII　そして伝説へ…",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ドラゴンクエストIII そして伝説へ…は、伝説のRPGシリーズ「ドラゴンクエスト」の第三作目で、オープンワールドの冒険やキャラクターの育成が特徴です。現在、Steamで50%オフのセール中であり、通常価格よりも大幅に安価に購入できます。このゲームは、シリーズのファンやRPG好きから高い評価を受けており、人気度も非常に高い作品となっています。",
+        "price": "¥3,839",
+        "originalPrice": "¥7,678",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2701660",
+        "date": "2026-05-26"
       }
     ],
     "review": [
@@ -1273,8 +1297,34 @@
         "url": "https://www.polygon.com/007-first-light-review-roundup/",
         "date": "2026-05-26",
         "is_translated": true
+      },
+      {
+        "title": "【『007 ファースト ライト』レビューまとめ：「ゴールデンアイ以来最高のジェームズ・ボンドゲーム」】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "『007 ファースト ライト』のレビュー記事によると、このゲームは「ゴールデンアイ以来最高のジェームズ・ボンドゲーム」と評価されています。記事では、ゲームの評価ポイントとして、ストーリーの面白さ、グラフィックの質、ゲームプレイの奥深さを挙げています。特に、ジェームズ・ボンドの世界を忠実に再現している点や、多様なミッションが用意されている点が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/007-first-light-review-roundup-the-best-james-bond-game-since-goldeneye/",
+        "date": "2026-05-26",
+        "is_translated": true
+      },
+      {
+        "title": "【Densh Attack プレビュー: トニー ホークのプロ スケーター、ただし TRAINS 付き】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム「Densh Attack」のプレビューを紹介しています。ゲームの評価ポイントとして、スケーターとしてのプレイヤーの操作感や、トレインを取り巻くシステムの面白さが高く評価されています。また、トニー・ホークのプロスケーターと比較しながらゲームの魅力が解説されています。対象読者は、スケートゲームやアクションゲームのファンに特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/denshattack-preview-interview/",
+        "date": "2026-05-26",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-26T15:55:04.610063"
+  "last_updated": "2026-05-26T22:19:15.083131"
 }
