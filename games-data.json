@@ -218,6 +218,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/buildshufflebattle_bundle",
         "date": "2026-05-23"
+      },
+      {
+        "title": "Creature Feature Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、 Creature Feature Bundleというバンドルが現在販売中です。このバンドルには、「Creature Feature」や「Monster Crown」などのタイトルが含まれており、ファンタジー系のゲームジャンルが中心となっています。大まかな価格帯は、10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/creaturefeaturebundle_bundle",
+        "date": "2026-05-26"
       }
     ],
     "sale": [
@@ -531,6 +543,18 @@
         "discount": "-85%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/devil-may-cry-5-and-vergil/info/",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "ULTIMATE MARVEL VS. CAPCOM 3",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気の対戦格闘ゲーム「ULTIMATE MARVEL VS. CAPCOM 3」がSteamで大幅なセール中です。このゲームは、キャラクターのバリエーションが豊富で、快-pacedなアクションが楽しめることが特徴です。現在、80%の割引が適用されており、通常よりも大幅に安くなっています。多くのユーザーから高評価を得ているこのゲームは、格闘ゲームのファンに人気があります。",
+        "price": "¥498",
+        "originalPrice": "¥2,490",
+        "discount": "80% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/357190",
         "date": "2026-05-26"
       }
     ],
@@ -1132,8 +1156,125 @@
         "url": "https://automaton-media.com/articles/newsjp/20260526-445156/",
         "date": "2026-05-26",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料・戦車“ヒーローシューター”『World of Tanks: HEAT』本日配信...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『World of Tanks: HEAT』は、基本プレイ無料の戦車ヒーローシューターです。このゲームの評価ポイントとしては、戦車のカスタマイズやチームプレイの重要性が挙げられます。レビューでは、ゲームのグラフィックやサウンドの質の高さ、そして簡単な操作性が評価されています。また、戦車ファンやアクションゲームを好む人にとって魅力的です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260526-445276/",
+        "date": "2026-05-26",
+        "is_translated": false
+      },
+      {
+        "title": "【注目のライフシム『Paralives』、初動でSteam同接「約8万人」。“4000円超え”の...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ライフシムゲーム「Paralives」のレビュー記事では、ゲームの初動販売状況やレビューの内容を紹介しています。このゲームはSteamで約8万人のプレイヤーを集め、4000円を超える価格にもかかわらず人気を博しています。レビューの内容では、ゲームのグラフィックやサウンド、キャラクターの自由度が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260526-445267/",
+        "date": "2026-05-26",
+        "is_translated": false
+      },
+      {
+        "title": "【リアル日本風鉄道運航シム『RUNNING TRAIN | 走ル列車！』高い期待に応える好評炸裂...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「RUNNING TRAIN | 走ル列車！」は、リアルな日本風鉄道運航シミュレーションゲームです。このゲームは、高い期待に応え、好評を得ています。評価ポイントとしては、リアルな鉄道運航の体験、多種多様な列車や路線の設定、ユーザーフレンドリーな操作システムなどが挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドの高品質、シミュレーションのリアルさ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260526-445253/",
+        "date": "2026-05-26",
+        "is_translated": false
+      },
+      {
+        "title": "【『マーベル・ライバルズ』公式、BANしたチーターたちの“ランク”を一斉に晒す。一番多いのはブロンズ：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『マーベル・ライバルズ』公式が、チーターたちをBANした際のランクを公開したことを紹介するレビュー記事があります。この記事では、チーターたちがどのランクでBANされたかを示し、一番多いのはブロンズランクであることが分かります。ゲームの評価ポイントとして、チーターの対策やランクシステムの分析が含まれています。対象読者は、ゲームファンや『マーベル・ライバルズ』プレイヤー向けの内容となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260526-445236/",
+        "date": "2026-05-26",
+        "is_translated": false
+      },
+      {
+        "title": "【ジェームズ・ボンドのオリジンを描く「007 First Light」の先行アクセスが遂に解禁、...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「007 First Light」のレビュー記事では、ジェームズ・ボンドのオリジンを描くこのゲームの先行アクセスが解禁されたことが紹介されています。このゲームの評価ポイントとして、ストーリーの引き出し方やキャラクターの深み、ゲームプレイのスリルがあります。レビューの内容概要としては、ゲームの世界観やキャラクターの設定が細かく描かれている点や、アクションシーンの爽快さが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167156.html",
+        "date": "2026-05-26",
+        "is_translated": false
+      },
+      {
+        "title": "【モバイル版「Slime Rancher」が本日発売、リリーストレーラーも：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "モバイル版の「Slime Rancher」が本日発売されました。このゲームでは、プレイヤーはスライムを飼育し、牧場を経営するというユニークな体験ができます。レビューでは、ゲームのグラフィックやサウンドトラックが高く評価されています。また、ゲームの操作性や難易度も良好との評価です。このゲームは、スライムを愛するファンや、牧場経営のゲームを楽しみたい人にお勧めです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167154.html",
+        "date": "2026-05-26",
+        "is_translated": false
+      },
+      {
+        "title": "【PCゲーマーさん、007 First Lightのレビューはどこにありますか?】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "PCゲーマー向けの情報サイト「PCゲーマーさん、007 First Lightのレビューはどこにありますか?」では、このゲームの評価ポイントとしてグラフィックの質やゲームプレイの奥深さを高く評価しています。また、レビューの内容概要として、ゲームのストーリーやキャラクターの魅力、そしてマルチプレイモードの面白さを紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/hey-pc-gamer-wheres-your-007-first-light-review/",
+        "date": "2026-05-26",
+        "is_translated": true
+      },
+      {
+        "title": "【007 ファースト・ライト レビュー: 若きボンドがその名にふさわしいことを証明】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "007 ファースト・ライトのレビュー記事では、若きボンドの活躍が描かれており、ゲームの評価ポイントとしてはストーリーの面白さやキャラクターの深みが挙げられます。また、レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの質の高さも評価されています。対象読者としては、ジェームズ・ボンドシリーズのファンやアクションゲームを好む人向けの記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/007-first-light-review/",
+        "date": "2026-05-26",
+        "is_translated": true
+      },
+      {
+        "title": "【007 ファースト ライト レビューまとめ: ゴールデンアイ以来最高のジェームズ ボンド ゲーム】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "「007 ファースト ライト レビューまとめ: ゴールデンアイ以来最高のジェームズ ボンド ゲーム」のレビュー記事では、ジェームズ ボンド シリーズのゲーム「007 ファースト ライト」がゴールデンアイ以来最高の作品であると評価されています。レビューのポイントとして、ゲームのグラフィックやサウンドトラックの高品質、ゲームプレイのスリルと緊張感、ストーリーの面白さが挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/007-first-light-review-roundup/",
+        "date": "2026-05-26",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-26T02:59:14.847398"
+  "last_updated": "2026-05-26T15:55:04.610063"
 }
