@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Creature Feature Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、 Creature Feature Bundleというバンドルの販売が行われています。このバンドルには、主要タイトルとして「Don't Starve Together」、「Oxenfree」、「The Infectious Madness of Doctor Dekker」などのゲームが含まれています。ジャンルは主にアドベンチャーやサバイバルゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/creaturefeaturebundle_bundle",
-        "date": "2026-05-16"
-      },
-      {
         "title": "Ticket to Ride: All Aboard Collection",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,102 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「Stray」が現在、52%の割引で販売中です。このゲームは、猫のキャラクターを操作して都市を探索するユニークな体験を提供します。多くの評論家やプレイヤーから高い評価を受けており、人気度も高まっています。価格が大幅に下がっているので、興味のある方は今がチャンスです。",
-        "price": "$14.37",
-        "originalPrice": "",
-        "discount": "-52%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-05-19"
-      },
-      {
-        "title": "V Rising",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "V Risingは、オープンワールドのサバイバルアクションゲームで、ドラキュラのような吸血鬼として生き残ることを目指します。現在、Steamで55% OFFのセール中で、通常価格より大幅に安くなっています。このゲームは、独自のゲームプレイとグラフィックスで人気を博しており、Steamでの評価は「非常に良い」となっています。",
-        "price": "¥1,530",
-        "originalPrice": "¥3,400",
-        "discount": "55% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1604030",
-        "date": "2026-05-19"
-      },
-      {
-        "title": "Pacific Drive",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Pacific DriveがVariousで67%オフのセール中です。このゲームは、スリリングなドライブを体験できるアクションアドベンチャーゲームで、評価も高い人気作品です。セール期間中は、通常価格より大幅に安く購入できるので、ドライブゲームファンにはおすすめです。",
-        "price": "$9.89",
-        "originalPrice": "",
-        "discount": "-67%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/pacific-drive/info/",
-        "date": "2026-05-19"
-      },
-      {
-        "title": "スーパーバニーマン",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "スーパーバニーマンは、Steamで現在50%の割引セール中です。このアクションゲームは、ユーモア溢れるグラフィックと面白いゲームプレイが特徴で、多くのプレイヤーから好評価を得ています。Steamユーザーからの評価は「非常に好評」となっており、人気度も高いゲームです。セール中のこの魅力的なゲームをぜひチェックしてみてください。",
-        "price": "¥850",
-        "originalPrice": "¥1,700",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/673750",
-        "date": "2026-05-19"
-      },
-      {
-        "title": "Subnautica",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サバイバルアクションゲームであるSubnauticaが、現在Variousで75%オフのセール中です。このゲームは、水中でのサバイバルを体験できるユニークな要素を持ち、美しいグラフィックと面白いゲーム性で人気を博しています。大量に売れており、ユーザーからの評価も高いので、セール中のこの機会にぜひお試しください。",
-        "price": "$7.49",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/subnautica/info/",
-        "date": "2026-05-19"
-      },
-      {
-        "title": "Devil May Cry 5",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Devil May Cry 5がSteamで85% OFFのセール中です。このアクションアドベンチャーゲームは、スタイリッシュな格闘システムと高品質のグラフィックで知られています。通常価格から大幅に割引されたこのゲームは、非常に評価が高く人気のあるタイトルです。Steamユーザーなら誰でもこの魅力的なゲームを体験できるので、ぜひこの機会に購入してみてください。",
-        "price": "¥448",
-        "originalPrice": "¥2,990",
-        "discount": "85% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/601150",
-        "date": "2026-05-19"
-      },
-      {
-        "title": "魔女の泉R",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "魔女の泉RがSteamで50% OFFセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、ユニークなストーリーとキャラクターが特徴です。通常価格から半額になるこのセールは、ファンや新規プレイヤーにとって絶好のチャンスです。魔女の泉Rは、ユーザーからの評価が高く人気のゲームであり、多くのプレイヤーから高い評価を得ています。",
-        "price": "¥2,150",
-        "originalPrice": "¥4,300",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1958220",
-        "date": "2026-05-19"
-      },
-      {
-        "title": "Elden Ring",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションRPGゲームであるElden RingがVariousで25%割引のセール中です。このゲームは、広大なオープンワールドと深いストーリーで知られており、多くのユーザーから高い評価を得ています。価格も割引によりお得なので、ゲームファンにはおすすめです。",
-        "price": "$44.99",
-        "originalPrice": "",
-        "discount": "-25%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/elden-ring/info/",
-        "date": "2026-05-19"
-      },
       {
         "title": "Balatro",
         "platform": "Various",
@@ -628,165 +520,21 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/2870920",
         "date": "2026-05-25"
+      },
+      {
+        "title": "Devil May Cry 5 + Vergil",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲームの名作「Devil May Cry 5 + Vergil」が、Variousで大幅な85%のセール中です。このゲームは高速なアクションとスタイリッシュなグラフィックで人気を博しており、多くのファンから高い評価を受けています。通常価格より大幅に安くなっているこのセールは、ゲームファンにとって絶好の購入機会です。",
+        "price": "$4.35",
+        "originalPrice": "",
+        "discount": "-85%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/devil-may-cry-5-and-vergil/info/",
+        "date": "2026-05-26"
       }
     ],
     "review": [
-      {
-        "title": "【『ARC Raiders』の「PvP好きor温厚派」判別マッチングシステム、“撃たれたから自衛...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ARC Raiders』のレビュー記事では、PvP好きと温厚派の判別マッチングシステムが紹介されています。このシステムは、プレイヤーの行動に応じて自動的にマッチングを行い、同じタイプのプレイヤー同士で対戦できるように設計されています。また、ゲームの評価ポイントとしては、グラフィックの質やゲームバランスの調整が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260521-444297/",
-        "date": "2026-05-21",
-        "is_translated": false
-      },
-      {
-        "title": "【『デトロイト ビカム ヒューマン』開発元の新作対戦ストラテジー『Spellcasters Ch...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『デトロイト ビカム ヒューマン』の開発元が新作対戦ストラテジー『Spellcasters』を発表しました。このレビュー記事では、ゲームの評価ポイントとして、独自の魔法システムやキャラクターの多様性を高く評価しています。また、戦略的思考を必要とするゲーム性や、グラフィックの美しさも評価ポイントに挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/spellcasters-chronicles-20260521-444276/",
-        "date": "2026-05-21",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料『クリスタル・オブ・アトラン』の『ニーア オートマタ』コラボ大型アプデ、本日配信...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "クリスタル・オブ・アトランの『ニーア オートマタ』コラボ大型アップデートのレビュー記事があります。この記事では、コラボの内容や新しいゲームモードの追加について評価しています。また、グラフィックやサウンドトラックの品質も評価ポイントになっています。この記事は、クリスタル・オブ・アトランやニーア オートマタのファン向けの内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260521-444272/",
-        "date": "2026-05-21",
-        "is_translated": false
-      },
-      {
-        "title": "【「シヴィライゼーション VII」を大きな変化をもたらす大規模アップデート“時の試練”が遂に配信...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「シヴィライゼーション VII」の大規模アップデート「時の試練」が配信されました。このアップデートは、大きな変化をもたらすもので、プレイヤーに新たな挑戦を提供します。レビューの内容としては、新しいゲームモードやユニットの追加、グラフィックの向上などが評価されています。また、ストーリーの深化やゲームバランスの調整も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05167016.html",
-        "date": "2026-05-21",
-        "is_translated": false
-      },
-      {
-        "title": "【可愛いペットコンパニオンを導入する「Moonlighter 2: The Endless Va...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Moonlighter 2: The Endless Va...」は、可愛いペットコンパニオンを導入する新しい要素を取り入れたゲームで、プレイヤーの評価ポイントとしては、ペットコンパニオンとの関係構築や、ゲームのグラフィックとサウンドトラックの品質が高く評価されています。また、レビューの内容概要としては、ゲームのストーリーとキャラクターの深み。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05167000.html",
-        "date": "2026-05-21",
-        "is_translated": false
-      },
-      {
-        "title": "【「ウルトラマンノア」がアクションフィギュア化！“ライトニングノア”エフェクトパーツなど付属し、...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "「ウルトラマンノア」がアクションフィギュア化され、レビュー記事が公開されています。このレビューでは、フィギュアの評価ポイントとして、デザイナーのディテールやポージングの自由度が高く評価されています。また、付属する「ライトニングノア」エフェクトパーツが特に注目されています。このレビューは、フィギュアや特撮のファンにとって参考になる内容で、ウルトラマンノアの魅力を再確認することができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/05/21/181646.html",
-        "date": "2026-05-21",
-        "is_translated": false
-      },
-      {
-        "title": "【“全部手描き”ダークファンタジーゲーム『Tormentum II』7月24日配信へ。高評価悪夢...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ダークファンタジーゲーム『Tormentum II』は、全部手描きで作られた独特の世界観が特徴です。このゲームは、7月24日に配信される予定で、すでに高評価を得ています。レビューでは、ゲームのグラフィックやストーリー、音楽などの点が評価されています。また、ゲームの難易度や操作性についても触れられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260521-444456/",
-        "date": "2026-05-21",
-        "is_translated": false
-      },
-      {
-        "title": "【Zero Parades: For Dead Spies レビュー: 絶対プレイすべき Dis...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "この記事は、ゲーム「Zero Parades: For Dead Spies」のレビューです。評価ポイントとして、ゲームのストーリー、グラフィック、サウンドなどの面が取り上げられています。レビューの内容概要としては、ゲームの独自の世界観や感動的なストーリーが高く評価されています。また、ゲームの難易度や操作性も好評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/zero-parades-for-dead-spies-review/",
-        "date": "2026-05-21",
-        "is_translated": true
-      },
-      {
-        "title": "【The Boroughs レビュー: Netflix の『ストレンジャー・シングス 未知の世界...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Netflixの『ストレンジャー・シングス 未知の世界』のレビュー記事である『The Boroughs』では、ゲームの評価ポイントとしてストーリーの深みやキャラクターの魅力が高く評価されています。レビューの内容概要としては、ゲームの世界観が豊かで、プレイヤーが探索したり戦闘したりする楽しみが感じられることが挙げられています。また、キャラクターの個性や関係性もよく描かれていると評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/the-boroughs-stranger-things-netflix/",
-        "date": "2026-05-21",
-        "is_translated": true
-      },
-      {
-        "title": "【Little Nightmaresを生んだTarsier Studiosの新作「REANIMA...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Little Nightmaresを生んだTarsier Studiosの新作「REANIMA...：レビュー」は、ゲームの独自の世界観やグラフィック、サウンドトラックなどが評価ポイントとなっています。レビューでは、ゲームのストーリーやゲームプレイの面白さ、グラフィックの美しさなどが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05167048.html",
-        "date": "2026-05-21",
-        "is_translated": false
-      },
-      {
-        "title": "【ジャングルに覆われた遺跡を探索する「Teardown」の新DLC“Relics of Bark...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Teardown」の新DLC「Relics of the Bark」は、ジャングルに覆われた遺跡を探索する新しいエリアを追加します。このDLCは、探索とパズル解決を重視しており、プレイヤーは古代の遺物を発見しながら、遺跡の秘密を解き明かさなければなりません。レビューのポイントとしては、新しいエリアの探索の自由度が高く、古代文明の雰囲気を感じることができる点が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05167041.html",
-        "date": "2026-05-21",
-        "is_translated": false
-      },
-      {
-        "title": "【数カ月間のリークと期待の高まりを経て、『アサシン クリード ブラック フラッグ リシンクド』は...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "数カ月間にわたるリークや期待の高まりを経て、最後に『アサシン クリード ブラック フラッグ リシンクド』が発売されました。このゲームは、グラフィックの向上や新しいゲームモードの追加など、多くの改良が施されています。レビューでは、このゲームの評価ポイントとして、グラフィックの美しさやストーリーの深み、そして新しいゲームモードの面白さが挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/after-months-of-leaks-and-building-expectations-assassins-creed-black-flag-resynced-is-a-surprisingly-clumsy-remake-with-bugs-and-parkour-missteps-marring-my-three-hour-preview",
-        "date": "2026-05-21",
-        "is_translated": true
-      },
       {
         "title": "【フリュー新作TPS『アノマリス／ANOMALITH』先行プレイ感想。気持ち悪くてホラー風味だが...】",
         "platform": "AUTOMATON",
@@ -929,19 +677,6 @@
         "url": "https://www.inside-games.jp/article/2026/05/22/181758.html",
         "date": "2026-05-22",
         "is_translated": false
-      },
-      {
-        "title": "【数カ月間のリークと期待の高まりを経て、『Assassin's Creed Black Flag...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "『Assassin's Creed Black Flag』のレビュー記事では、数ヶ月間にわたるリークや期待の高まりを経て、ゲームの評価ポイントを詳しく紹介しています。ゲームのグラフィックやサウンド、ゲームプレイの面での評価ポイントを中心にレビューされており、特に海戦シミュレーションの面での独自性や自由度の高さが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/after-months-of-leaks-and-building-expectations-assassins-creed-black-flag-resynced-is-a-surprisingly-clumsy-remake-with-bugs-and-parkour-missteps-marring-my-three-hour-preview",
-        "date": "2026-05-21",
-        "is_translated": true
       },
       {
         "title": "【スパイダーノワールのレビュー: ニコラス・ケイジのスパイダーマン ショーは、ワンダヴィジョンが...】",
@@ -1371,8 +1106,34 @@
         "url": "https://www.polygon.com/exodus-helium-sea-excerpt/",
         "date": "2026-05-25",
         "is_translated": true
+      },
+      {
+        "title": "【『ダークソウル3』を“足の裏”に映して実況プレイしたセクシー系配信者、TwitchにBANされ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、セクシー系配信者が「ダークソウル3」を足の裏に映して実況プレイした結果、TwitchにBANされたという話です。ゲームの評価ポイントとしては、プレイヤーの挑戦精神や創造性が高く評価されています。また、記事では配信者のユニークなプレイスタイルや、Twitchの管理体制への疑問も取り上げられています。対象読者は、ゲームやエンターテイメントに兴味がある人向けです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260526-445182/",
+        "date": "2026-05-26",
+        "is_translated": false
+      },
+      {
+        "title": "【人気王国建設ローグライク『9 Kings』大型アプデで「対人戦」モード実装。非同期9人対戦の生...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "人気ゲーム「9 Kings」の大型アップデートで対人戦モードが実装されました。このゲームはローグライク要素を取り入れた王国建設ゲームで、非同期9人対戦の生放送機能も搭載されています。レビューでは、対人戦モードの導入による新たな戦略の深みや、プレーヤーどうしの競争が高まっている点が評価されています。また、ゲームのバランスや操作性も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260526-445156/",
+        "date": "2026-05-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-25T22:08:11.506137"
+  "last_updated": "2026-05-26T02:59:14.847398"
 }
