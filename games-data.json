@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-05-27"
+      },
+      {
+        "title": "Detroit: Become Human",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Detroit: Become HumanがSteamで80% OFFのセール中です。このゲームはアドベンチャー系のアクションゲームで、人工知能のロボットが人間と同じ権利を求める物語が特徴です。現在、非常に低価格で購入できるChanceです。多くのユーザーから高評価を得ており、人気度も高いゲームですので、ぜひこの機会に購入してみてください。",
+        "price": "¥900",
+        "originalPrice": "¥4,500",
+        "discount": "80% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1222140",
+        "date": "2026-05-27"
       }
     ],
     "review": [
@@ -1208,8 +1220,60 @@
         "url": "https://www.polygon.com/backrooms-review-how-scary-is-it-horror-movie/",
         "date": "2026-05-27",
         "is_translated": true
+      },
+      {
+        "title": "【ジェームズ・ボンドのオリジンを描く「007 First Light」が本日発売：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「007 First Light」はジェームズ・ボンドのオリジンを描いたゲームです。このゲームの評価ポイントとしては、ストーリーの面白さやグラフィックの質が高く評価されています。レビューの内容概要としては、ゲームの世界観が非常にリアルで、プレイヤーがボンドとしての使命感を感じることができる点が高く評価されています。また、ゲームの難易度が適切で、初心者でも楽しめる点も強みです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167189.html",
+        "date": "2026-05-27",
+        "is_translated": false
+      },
+      {
+        "title": "【ミナ・ザ・ホロワーのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ミナ・ザ・ホロワーのレビューは、ゲームの評価ポイントを中心に構成されています。具体的には、ゲームのグラフィックやサウンドトラック、ストーリーの魅力などが評価されています。また、レビューの内容は、ゲームのジャンルや難易度、プレイ時間などについても触れています。このレビューは、ミナ・ザ・ホロワーをプレイしたい人や、ゲームの情報を探している人に対して有益な情報を提供しているので。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/mina-the-hollower-review/",
+        "date": "2026-05-27",
+        "is_translated": true
+      },
+      {
+        "title": "【007 First Light の PC パフォーマンスはマティーニのようにスムーズではありま...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "「007 First Light」のPCパフォーマンスをレビューした記事では、このゲームのスムーズな動作が高く評価されています。具体的には、グラフィックのクオリティやフレームレートの安定性が良好であるという点が挙げられます。また、ゲームの操作性やストーリーも好意的に評価されています。このレビューは、PCゲームファンやジェームズ・ボンドシリーズの愛好者にとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/007-first-lights-pc-performance-isnt-quite-martini-smooth-but-its-a-damn-sight-better-than-that-stuttering-reveal-footage",
+        "date": "2026-05-27",
+        "is_translated": true
+      },
+      {
+        "title": "【ミナ・ザ・ホロワーのレビューまとめ：ゼルダとブラッドボーンを融合させたレトロな名作】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ミナ・ザ・ホロワーのレビュー記事では、ゼルダとブラッドボーンを融合させたレトロな名作と評価されています。ゲームの評価ポイントとしては、独自のゲーム性やレトロなグラフィックが高く評価されています。レビューの内容概要としては、緊張感のあるゲームプレイや、豊富なアイテムやステージが紹介されています。対象読者としては、レトロゲームファンやアクションゲーム好きの方にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/mina-the-hollower-review-roundup/",
+        "date": "2026-05-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-27T12:19:42.757715"
+  "last_updated": "2026-05-27T15:59:55.606412"
 }
