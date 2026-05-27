@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/creaturefeaturebundle_bundle",
         "date": "2026-05-26"
+      },
+      {
+        "title": "Devil May Cry: Devil Trigger Reloaded Collection 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Devil May Cry: Devil Trigger Reloaded Collection 2026というバンドルが販売中です。このバンドルには、主要タイトルとしてDevil May Cry 5、Devil May Cry 4、Devil May Cry 3などのアクションゲームが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/devilmaycrydeviltriggerreloadedcollection2026_bundle",
+        "date": "2026-05-27"
       }
     ],
     "sale": [
@@ -567,6 +579,18 @@
         "discount": "80% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/1222140",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "Warhammer 40,000: Space Marine 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Warhammer 40,000: Space Marine 2は、アクションパックされたサードパーソンシューティングゲームで、人気の高いウォーハンマー40,000シリーズをベースにしています。このゲームは、70%の割引で販売中で、通常価格よりも大幅に安くなっています。ユーザーの評価は非常に高いとされており、ゲームのストーリーやグラフィック、快適なゲームプレイが評価されています。",
+        "price": "$17.99",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/warhammer-40000-space-marine-2/info/",
         "date": "2026-05-27"
       }
     ],
@@ -1272,8 +1296,34 @@
         "url": "https://www.polygon.com/mina-the-hollower-review-roundup/",
         "date": "2026-05-27",
         "is_translated": true
+      },
+      {
+        "title": "【Paralives はおそらく、乗り物酔いを引き起こすキャラクターエディターを備えた史上初のビ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Paralives は、独自のキャラクターエディターが特徴的なゲームで、乗り物酔いを引き起こすほどの詳細なカスタマイズが可能です。このゲームは、シミュレーションゲームファンやキャラクター制作に興味がある人に向けて作られており、レビューではその高度なグラフィックや自由度の高いゲームプレイが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/paralives-is-possibly-the-first-ever-videogame-with-a-character-editor-that-gives-people-motion-sickness",
+        "date": "2026-05-27",
+        "is_translated": true
+      },
+      {
+        "title": "【ミナ・ザ・ホロワー: 2026 年の最高の新作ゼルダ風にして GOTY 候補のクイックガイド：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事は、2026年の最高の新作ゼルダ風ゲームである「ミナ・ザ・ホロワー」について扱っています。ゲームの評価ポイントとして、壮大なストーリーや美しいグラフィック、そしてスリリングなゲームプレイが挙げられます。レビューの内容概要としては、ゲームの魅力や難易度のバランス、そして総評が述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/mina-the-hollower-game-release-date-platform/",
+        "date": "2026-05-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-27T15:59:55.606412"
+  "last_updated": "2026-05-27T22:41:13.210082"
 }
