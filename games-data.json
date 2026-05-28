@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Down in Bermuda",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "アドベンチャーゲームの「Down in Bermuda」がEpic Gamesで無料配布中です。このゲームの特徴は、探索とパズルの解決が中心になっており、プレイヤーはさまざまな島を探索しながら謎を解き明かしていきます。また、ユニークなグラフィックや魅力的なサウンドトラックもゲームの魅力です。プレイヤーはEpic Gamesのプラットフォームから直接ダウンロードして遊ぶことができます。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年05月28日まで",
+        "url": "https://store.epicgames.com/ja/p/down-in-bermuda",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Tomb Raider I-III Remastered Starring Lara Croft",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "アクションアドベンチャーゲームの「Tomb Raider I-III Remastered Starring Lara Croft」がEpic Gamesで無料配布中です。このゲームシリーズは、ララ・クロフトを主人公に据えた3Dアクションアドベンチャーの先駆けであり、魅力的なグラフィックや難易度の高いパズル、そして女性主人公のララ・クロフトの勇敢な冒険が特徴です。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年05月28日まで",
+        "url": "https://store.epicgames.com/ja/p/tomb-raider-iiii-remastered-538640",
+        "date": "2026-05-28"
+      }
+    ],
     "bundle": [
       {
         "title": "Dead Rising: Shop 'Til You Drop Bundle",
@@ -169,6 +194,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/devilmaycrydeviltriggerreloadedcollection2026_bundle",
         "date": "2026-05-27"
+      },
+      {
+        "title": "Monster Hunter: Spring Hunting Collection 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、モンハンシリーズのバンドル「Monster Hunter: Spring Hunting Collection 2026」が販売中です。このバンドルには、主要タイトルとして「Monster Hunter: World」、「Monster Hunter Rise」、「Monster Hunter Stories 2」の３本が含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/monsterhunterspringhuntingcollection2026_bundle",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Ticket to Ride: All Aboard Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、ボードゲームをテーマにした人気タイトルが集まった「Ticket to Ride: All Aboard Collection」のバンドルが販売中です。このバンドルには、主なタイトルとして「Ticket to Ride」、「Ticket to Ride: Europe」、「Ticket to Ride: First Journey」が含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/tickettorideallaboardcollection_bundle",
+        "date": "2026-05-28"
       }
     ],
     "sale": [
@@ -1160,8 +1209,73 @@
         "url": "https://www.pcgamer.com/games/strategy/warhammer-40-000-mechanicus-2-review/",
         "date": "2026-05-28",
         "is_translated": true
+      },
+      {
+        "title": "【『ヨッシーとフカシギの図鑑』レビュー。2Dアクションから「ゴール地点」を捨てた、任天堂の実験作】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ヨッシーとフカシギの図鑑』は、任天堂の実験作として注目されているゲームです。このゲームは従来の2Dアクションゲームから「ゴール地点」の概念を捨てており、プレイヤーが自由に探索することができます。レビューのポイントとしては、ゲームのグラフィックやサウンドトラックの評価が高く、またゲームの自由度も高く評価されています。さらに、ゲームのストーリーやキャラクターも魅力的です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/yoshi-20260528-445710/",
+        "date": "2026-05-28",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam基本プレイ無料デスクトップ放置RPG『タスクバーヒーロー』、一躍大ブームに。人気すぎ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで基本プレイ料無料のデスクトップ放置RPG『タスクバーヒーロー』が大ブームになりました。このゲームは、プレイヤーがヒーローを育てながら様々なミッションをクリアし、アイテムやスキルを集めることができます。評価ポイントとしては、簡単でアドベンチャーのようなゲームシステムや、様々なアイテムやスキルを集めることができること、そして基本プレイ料無料で遊べる点が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/tbh-task-bar-hero-20260528-445709/",
+        "date": "2026-05-28",
+        "is_translated": false
+      },
+      {
+        "title": "【マルチ対応・街づくりサバイバルクラフト『Romestead』あっという間にSteam同接約2万...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで配信中のマルチ対応サバイバルクラフトゲーム「Romestead」は、リリース後すぐに同プラットフォームのユーザーから大きな注目を集め、約2万件のレビューが寄せられています。このゲームの評価ポイントとしては、ユニークな街づくりシステムやマルチプレイヤー対応の充実度が挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの質の高さ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260528-445647/",
+        "date": "2026-05-28",
+        "is_translated": false
+      },
+      {
+        "title": "【タートルビーチ ステルス プロ II レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "タートルビーチ ステルス プロ II レビュー記事では、このゲーム機器の評価ポイントとして、サウンドのクオリティやワイヤレス機能の安定性が高いことが挙げられています。さらに、長時間の使用にも耐えるバッテリー寿命や、軽量で持ち運びやすいデザインも評価されています。ゲーム機器に興味がある方や、音質にこだわるゲーマー向けのレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-headsets/turtle-beach-stealth-pro-ii-review/",
+        "date": "2026-05-28",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam Deck OLEDの価格高騰により、PCゲームハードウェアで最もお買い得な製品とし...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Steam Deck OLEDの価格が高騰したことにより、PCゲームハードウェアで最もお買い得な製品として評価されることが多くなっています。レビューの内容としては、価格の高騰により他製品との比較検討が必要になること、ゲームのクオリティが高く滑らかなプレイが可能であること、またハードウェアの性能が優れていることなどが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-steam-deck-oleds-price-hikes-have-killed-its-status-as-the-best-deal-in-pc-games-hardware",
+        "date": "2026-05-28",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-28T02:58:42.012067"
+  "last_updated": "2026-05-28T12:26:04.755476"
 }
