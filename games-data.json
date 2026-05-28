@@ -24,6 +24,30 @@
         "deadline": "2026年05月28日まで",
         "url": "https://store.epicgames.com/ja/p/tomb-raider-iiii-remastered-538640",
         "date": "2026-05-28"
+      },
+      {
+        "title": "LONESTAR",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "アクションアドベンチャーゲームのLONESTARがEpic Gamesで無料配布中です。このゲームは、美しいグラフィックとスムーズな操作が特徴で、プレイヤーはさまざまなミッションをこなしながらキャラクターを成長させます。また、ゲームの世界観はユニークで、科学と幻想が交差する独特な設定が魅力です。無料配布中のこのゲームは、Epic Gamesから簡単にダウンロードして遊ぶことができます。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年06月04日まで",
+        "url": "https://store.epicgames.com/ja/p/lonestar-83f143",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Calico",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Calicoは、生活シミュレーションゲームです。猫カフェを運営して、猫たちと交流したり、カフェを改造したりすることができます。このゲームの魅力は、猫たちとのふれあいや、カフェのデザインを自由に変えることができる点にあります。また、ゲーム内のグラフィックもかわいらしく、リラックスした気分でプレイできるようになっています。現在、Epic Gamesプラットフォームで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年06月04日まで",
+        "url": "https://store.epicgames.com/ja/p/calico",
+        "date": "2026-05-28"
       }
     ],
     "bundle": [
@@ -543,6 +567,18 @@
         "discount": "-33%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Ready Or Not",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Ready Or Notは、タクティカルファーストパーソンシューティングゲームで、戦略的思考と迅速な行動を要求するゲームです。現在、55%の割引が適用されており、価格が大幅に下がっています。このゲームは、リアルなグラフィックと緊張感のあるサウンドデザインで、プレイヤーをゲーム世界に引き込むことができます。評価も高く、多くのプレイヤーから人気を博しています。",
+        "price": "$22.49",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ready-or-not/info/",
         "date": "2026-05-28"
       }
     ],
@@ -1274,8 +1310,34 @@
         "url": "https://www.rockpapershotgun.com/the-steam-deck-oleds-price-hikes-have-killed-its-status-as-the-best-deal-in-pc-games-hardware",
         "date": "2026-05-28",
         "is_translated": true
+      },
+      {
+        "title": "【HoMMシリーズ最新作「Heroes of Might & Magic: Olden Era」...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Heroes of Might & Magic: Olden Era」は、人気ゲームシリーズの最新作であり、ファンタジー世界での戦略と冒険を楽しむことができます。このゲームの評価ポイントとしては、グラフィックの向上、ゲームプレイの深化、新しいキャラクターの追加があります。レビューの内容概要としては、ゲームのストーリーが魅力的であること、戦略的な要素が豊富であること。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167212.html",
+        "date": "2026-05-28",
+        "is_translated": false
+      },
+      {
+        "title": "【MelGeek Centauri 80 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "MelGeek Centauri 80 レビュー記事では、キーボードのデザインと操作性、カスタマイズ性、価格の相場性などを評価ポイントとして挙げています。このレビューは、キーボード愛好家やガミングパソコンのユーザーを対象にしており、キーボードの性能と機能について詳細に紹介しています。また、レビューではキーボードの長所と短所についても触れており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/melgeek-centauri-80-review/",
+        "date": "2026-05-28",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-28T12:26:04.755476"
+  "last_updated": "2026-05-28T16:14:15.547793"
 }
