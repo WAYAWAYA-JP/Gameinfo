@@ -580,6 +580,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ready-or-not/info/",
         "date": "2026-05-28"
+      },
+      {
+        "title": "The Elder Scrolls IV: Oblivion Remastered",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Elder Scrolls IV: Oblivion RemasteredがVariousで30パーセント引き下げのセール中です。このゲームはオープンワールドのRPGとして知られており、豊富なストーリーや自由度の高いゲームプレイが特徴です。セール価格では通常価格よりも30パーセントお得に購入できます。",
+        "price": "$34.93",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-elder-scrolls-iv-oblivion-remastered/info/",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33は、Variousで32%割引されています。このゲームは、ユニークなグラフィックと難解なパズルが特徴で、ファンから高い評価を受けています。現在セール中なので、興味がある方はこの機会に試してみることをお勧めします。",
+        "price": "$33.84",
+        "originalPrice": "",
+        "discount": "-32%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-05-28"
       }
     ],
     "review": [
@@ -1339,5 +1363,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-28T16:14:15.547793"
+  "last_updated": "2026-05-28T22:41:41.570056"
 }
