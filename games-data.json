@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/drift86/info/",
         "date": "2026-05-29"
+      },
+      {
+        "title": "Mina the Hollower",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Mina the HollowerがVariousでセール中です。このアクションアドベンチャーゲームは、ユニークなグラフィックと面白いゲームプレイが特徴で、ファンから高い評価を得ています。現在、セール中で大幅な割引率が適用されており、通常価格よりもお得に購入できます。人気度も高く、多くのプレイヤーから支持されています。",
+        "price": "$19.99",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/mina-the-hollower/info/",
+        "date": "2026-05-29"
       }
     ],
     "review": [
@@ -1351,8 +1363,21 @@
         "url": "https://www.inside-games.jp/article/2026/05/29/182112.html",
         "date": "2026-05-29",
         "is_translated": false
+      },
+      {
+        "title": "【『鳴潮』Ver3.4、「サイバーパンク: エッジランナーズ」コラボとともに6月8日配信へ。ルー...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "サイバーパンク: エッジランナーズとのコラボレーションが注目される『鳴潮』Ver3.4が6月8日に配信されることが決定した。ゲームの評価ポイントとしては、サイバーパンク: エッジランナーズとのコラボレーションの内容や、新しいストーリーやキャラクターの追加などが挙げられる。レビュー記事では、これらの新要素について詳細な解説を行っている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260529-446048/",
+        "date": "2026-05-29",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-29T12:14:47.085282"
+  "last_updated": "2026-05-29T15:56:18.929300"
 }
