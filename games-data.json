@@ -218,6 +218,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/hentai-pair2-bundle",
         "date": "2026-05-29"
+      },
+      {
+        "title": "Humble 12 for $10 Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble 12 for $10 Bundleというバンドルが現在販売されています。このバンドルには、さまざまなゲームが含まれていますが、主要タイトルとしては、\"The Swapper\"や\"Guacamelee! Super Turbo Championship Edition\"、\"The Stanley Parable\"などがあります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/12for10_bundle",
+        "date": "2026-05-29"
       }
     ],
     "sale": [
@@ -567,6 +579,18 @@
         "discount": "",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/mina-the-hollower/info/",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "Path of Exile 2 - Early Access Supporter Pack (Special)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Path of Exile 2 - Early Access Supporter Pack (Special)がSteamで50% OFFのセール中です。このゲームはアクションRPGジャンルで、ダークファンタジーの世界を舞台に様々なキャラクターを操作して冒険することができます。現在の価格は割引前の半額で提供されており、ファンにはおすすめのチャンスです。",
+        "price": "¥2,321",
+        "originalPrice": "¥4,642",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1588213",
         "date": "2026-05-29"
       }
     ],
@@ -1379,5 +1403,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-29T15:56:18.929300"
+  "last_updated": "2026-05-29T22:28:55.088958"
 }
