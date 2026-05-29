@@ -206,6 +206,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/tickettorideallaboardcollection_bundle",
         "date": "2026-05-28"
+      },
+      {
+        "title": "Hentai Pair Bundle 2",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Hentai Pair Bundle 2のバンドルがIndieGalaで販売中です。このバンドルには、HentaiVerse、Bad Medicine -Infectious Teachers-、Starlessの3つの主要タイトルが含まれています。ジャンルはアダルトゲームで、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/hentai-pair2-bundle",
+        "date": "2026-05-29"
       }
     ],
     "sale": [
@@ -519,6 +531,30 @@
         "discount": "-40%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "Calico",
+        "platform": "Various",
+        "type": "sale",
+        "description": "CalicoがVariousで現在100％割引されています。このゲームは、生活シミュレーションとペットの世話を融合させたユニークな要素を持っており、多くのプレイヤーに愛されています。通常価格から大幅に割引されたこのゲームは、現在無料でプレイすることができます。非常に高い評価と人気度を誇るこのゲームは、シミュレーションゲームファンにとって見逃せない機会です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/calico/info/",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "Drift86",
+        "platform": "Various",
+        "type": "sale",
+        "description": "レーシングゲームのDrift86がVariousでセール中です。このゲームは、ドリフト走行を楽しむことができるレースゲームで、プレイヤーはスピードとスキルを駆使してコースを駆け抜けることができます。現在、100%割引中で、通常価格より大幅に安くなっています。評価も良く、ユーザーからの人気度も高いので、レーシングゲームファンにはおすすめです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/drift86/info/",
         "date": "2026-05-29"
       }
     ],
@@ -1276,8 +1312,47 @@
         "url": "https://www.inside-games.jp/article/2026/05/29/182075.html",
         "date": "2026-05-29",
         "is_translated": false
+      },
+      {
+        "title": "【『Forza Horizon 6』のナビAI「ANNA」、なぜか“暴走ドジっ娘”概念が広まる。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Forza Horizon 6のナビAI「ANNA」は、プレイヤーをサポートするために設計されていますが、「暴走ドジっ娘」概念が広まる原因となる不思議な要因があります。このレビュー記事では、ANNAの挙動やゲームの評価ポイント、特に操作性やグラフィックの質について詳しく説明しています。特に、レースゲームを好む人やAIの挙動に興味がある人には参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260529-445967/",
+        "date": "2026-05-29",
+        "is_translated": false
+      },
+      {
+        "title": "【ショベルナイトを生んだYacht Clubの新たな傑作アクションアドベンチャー「Mina th...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Yacht Club Gamesが新たにリリースしたアクションアドベンチャーゲーム「Mina the Hollower」のレビュー記事を紹介します。このゲームは、ショベルナイトの開発チームによって制作された作品で、独自の世界観とゲームプレイが特徴です。ゲームの評価ポイントとしては、キャラクターの多様性、ストーリーの深み、プレイヤビリティの高さが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/05167237.html",
+        "date": "2026-05-29",
+        "is_translated": false
+      },
+      {
+        "title": "【死んで覚えて、また死ぬ！落の底が舞台のメトロイドヴァニア『Elypse』は難易度カスタムで間口...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "メトロイドヴァニアの『Elypse』は、難易度カスタム機能により、さまざまなレベルのプレイヤーが楽しめるゲームです。このレビューでは、ゲームの評価ポイントとして、難易度カスタムの柔軟性、挑戦的なステージデザイン、そしてアクション要素の充実度が取り上げられています。さらに、レビューでは、ゲームのグラフィックやサウンドトラックの品質も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/05/29/182112.html",
+        "date": "2026-05-29",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-29T03:28:20.171056"
+  "last_updated": "2026-05-29T12:14:47.085282"
 }
