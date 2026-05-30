@@ -206,6 +206,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/12for10_bundle",
         "date": "2026-05-29"
+      },
+      {
+        "title": "Perplexing Puzzles",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、パズルゲームファン向けの「Perplexing Puzzles」というバンドルが販売中です。このバンドルには、代表的なタイトルとして「The Talos Principle」や「The Swapper」、「The Witness」などが含まれています。パズルジャンルのゲームが中心となっており、価格帯は大体1000円から2000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/perplexingpuzzles_bundle",
+        "date": "2026-05-30"
       }
     ],
     "sale": [
@@ -1143,8 +1155,60 @@
         "url": "https://automaton-media.com/articles/newsjp/20260529-446048/",
         "date": "2026-05-29",
         "is_translated": false
+      },
+      {
+        "title": "【宇宙艦隊RTS『ネビュラス：フリート・コマンド』大型アプデでついに日本語対応、宇宙戦がぐっと遊...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "宇宙艦隊RTS『ネビュラス：フリート・コマンド』の大型アップデートにより、日本語対応が実現しました。このアップデートにより、宇宙戦がより魅力的になりました。このレビュー記事では、ゲームの評価ポイントとしてグラフィックの向上や新しい機能の追加を紹介しています。また、宇宙戦略ゲームファンやRTSゲーム好きの方にオススメできるゲームとして紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260530-446136/",
+        "date": "2026-05-30",
+        "is_translated": false
+      },
+      {
+        "title": "【ドット絵ネズミアクション『Mina the Hollower』、“今年のメタスコア暫定1位”の...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「Mina the Hollower」は、ドット絵を用いたユニークなグラフィックが特徴的なネズミを主人公としたアクションゲームです。このゲームは、今年のメタスコアで暫定1位を獲得しており、多くのレビュアーから高い評価を受けています。レビューの内容としては、ゲームのグラフィックやサウンドトラックが高く評価されています。また、ゲームの難易度や操作性も良好であると評されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260530-446129/",
+        "date": "2026-05-30",
+        "is_translated": false
+      },
+      {
+        "title": "【ペットと戦う中華水墨画ローグライト『Realm of Ink』正式リリースで「プレイヤー約70...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "中華水墨画をテーマにしたローグライトゲーム「Realm of Ink」が正式にリリースされました。このゲームでは、ペットと一緒に戦いながら、美しい水墨画のようなグラフィックを楽しむことができます。レビューでは、ゲームの独自のグラフィックや、ペットとの戦闘システムが高く評価されています。また、ゲームの難易度や、ペットの育成システムも評価ポイントになっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/realm-of-ink-20260530-446120/",
+        "date": "2026-05-30",
+        "is_translated": false
+      },
+      {
+        "title": "【007 First Light レビュー - エキゾチックなジェット コースターの乗り物に時折...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、007 First Lightというゲームの評価ポイントについて触れています。ゲームの評価ポイントとして、エキゾチックなジェットコースターの乗り物に時折面白さを感じることができる点や、グラフィックの美しさなどが挙げられます。また、ゲームのストーリーや操作感についても触れています。対象読者は、007シリーズのファンやアクションゲームを好む人に向けられており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/007-first-light-review-a-flowing-thriller-that-blends-occasional-sandboxy-spying-into-exotic-rollercoaster-ride",
+        "date": "2026-05-30",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-05-30T02:54:58.509702"
+  "last_updated": "2026-05-30T10:47:23.393816"
 }
