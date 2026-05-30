@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Wild Rage Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Wild Rage BundleのバンドルがIndieGalaで販売中です。このバンドルには、Wild Rage、Rage Quest、Rage Against The Zombiesなどの主要タイトルが含まれています。アクションゲームやアドベンチャーゲームを中心にしたバンドルで、ファンにはたまらない魅力的な作品が多数収録されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/wild-rage-bundle",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Perplexing Puzzles",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、パズルゲームのファンに贈る「Perplexing Puzzles」のバンドルが販売中です。このバンドルには、人気タイトルである「The Talos Principle」や「The Swapper」、「The Witness」などのパズルゲームが含まれています。パズルゲームを楽しむことができるこのバンドルは、約1000円から1500円の価格帯で購入できます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/perplexingpuzzles_bundle",
-        "date": "2026-05-20"
-      },
-      {
         "title": "Double Shift: Simulation Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,30 +209,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "Various",
-        "type": "sale",
-        "description": "LEGO® Batman™: Legacy of the Dark KnightがVariousでセール中です。このゲームはアクションアドベンチャー要素のあるオープンワールドゲームで、バットマンシリーズのファンなら必見です。現在16％割引中で、通常の価格よりお得に購入できます。ユーザーの評価も高く、人気ゲームとして知られています。",
-        "price": "$58.69",
-        "originalPrice": "",
-        "discount": "-16%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/lego-batman-legacy-of-the-dark-knight/info/",
-        "date": "2026-05-23"
-      },
-      {
-        "title": "Tomb Raider I-III Remastered",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Tomb Raider I-III RemasteredがVariousで100%割引されています。このゲームはアクションアドベンチャー系のゲームで、初代トゥームレイダーから3までのリマスター版が含まれています。セール中は通常価格が100%割引になるため、完全無料でプレイすることができます。トゥームレイダーシリーズは、高い評価と人気を誇っており。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/tomb-raider-i-iii-remastered/info/",
-        "date": "2026-05-23"
-      },
       {
         "title": "Monster Hunter: World",
         "platform": "Various",
@@ -592,230 +544,21 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/1588213",
         "date": "2026-05-29"
+      },
+      {
+        "title": "Outer Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Outer Wildsは、宇宙を探索するアドベンチャーゲームです。このゲームは、タイムループを繰り返し、宇宙の秘密を解き明かしていくというユニークな特徴があります。現在、53%の割引で販売中で、非常に魅力的な価格になっています。Outer Wildsは、プレイヤーからの評価が非常に高く、多くの人がこのゲームを楽しんでいます。",
+        "price": "$11.84",
+        "originalPrice": "",
+        "discount": "-53%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
+        "date": "2026-05-30"
       }
     ],
     "review": [
-      {
-        "title": "【『007 ファースト・ライト』開発元、“フラゲネタバレ動画”拡散を受けすぐさま「公式ネタバレ動...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『007 ファースト・ライト』のレビュー記事では、このゲームの評価ポイントとして、映画的なストーリーやグラフィックの高さが挙げられています。また、ゲームのレビューの内容概要として、ステルスアクションの面白さや、キャラクターの魅力が紹介されています。対象読者としては、007シリーズのファンやアクションゲーム好きの方に、このレビュー記事が向けられているようです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260525-444940/",
-        "date": "2026-05-25",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料「街」オープンワールド『NTE』で「推しキャラ」と手つなぎデート。“オフの顔”の...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、基本プレイ無料のオープンワールドゲーム「NTE」について取り上げています。ゲームの評価ポイントとして、自由な世界で冒険することができる点や、好きなキャラクターとデートをすることができる点が挙げられます。記事では、ゲームの魅力や特徴について詳しく紹介しています。このレビューは、オープンワールドゲームやデートシミュレーションゲームが好きな人にとって参考になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260525-444914/",
-        "date": "2026-05-25",
-        "is_translated": false
-      },
-      {
-        "title": "【人気ボードゲーム“ワイアームスパン”のデジタル版「Wyrmspan」がアナウンス：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "人気ボードゲーム「ワイアームスパン」のデジタル版「Wyrmspan」が発表されました。このゲームの評価ポイントとしては、戦略的なゲームプレイやユニークなシステムが挙げられます。レビューの内容概要としては、ゲームの難易度や操作性が高く、ストラテジー系のゲームファンにはお勧めできる点が強調されています。また、対象読者としては、ボードゲームやストラテジーゲームが好きな人や。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05167099.html",
-        "date": "2026-05-25",
-        "is_translated": false
-      },
-      {
-        "title": "【「Fallout 4」のPip-Boyで初代“FalloutがプレイできるMOD「Fallou...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Fallout 4」のPip-Boyで初代「Fallout」がプレイできるMOD「Fallout 4」のレビュー記事では、MODの独自性や魅力、操作性の向上などが評価ポイントとして挙げられています。このMODにより、初代「Fallout」の世界がよりリアルに体験できるようになり、ファンには必見の要素となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05167104.html",
-        "date": "2026-05-25",
-        "is_translated": false
-      },
-      {
-        "title": "【「Path of Exile 2」“Return of the Ancients”アップデート...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Path of Exile 2」の最新アップデート「Return of the Ancients」についてのレビュー記事があります。この記事では、ゲームの評価ポイントとしてグラフィックの向上や新しいキャラクターの追加が紹介されています。さらに、ゲームのストーリーや新しい機能の追加についても触れています。ゲームファンやアクションRPGが好きな人にとって、このレビュー記事は参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05167119.html",
-        "date": "2026-05-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Io-Interactiveが最新作「007 First Light」の冒頭13分を紹介するゲ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Io-Interactiveの最新作「007 First Light」の冒頭13分が紹介されたレビュー記事では、ゲームの評価ポイントとしてグラフィックの高さやストーリーの面白さが挙げられています。また、レビューではゲームのプレイ感覚やサウンドトラックの質も高く評価されています。このレビューは、最新のゲーム情報に興味がある人や「007」シリーズのファン向けに役立つ内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05167103.html",
-        "date": "2026-05-25",
-        "is_translated": false
-      },
-      {
-        "title": "【「Forza Horizon 6」のPC Steam同接ピークが30万人を突破、総プレイヤー数...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Forza Horizon 6」のPC Steam接続ピークが30万人を突破し、総プレイヤー数も大幅に増加したと伝えられています。このゲームは、グラフィックスやサウンドトラックの高品質さ、そして広大なオープンワールドが特徴です。レビューでは、ゲームの評価ポイントとして、リアルな運転感覚や多様な車種の選択肢が高く評価されています。また、ゲームのストーリーやキャラクターの魅力も注目されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05167097.html",
-        "date": "2026-05-25",
-        "is_translated": false
-      },
-      {
-        "title": "【コスプレ】『鳴潮』2周年台湾イベントで公式コスプレイヤー集結！「花咲く約束」を彩る14名の美麗レイヤーが魅せる世界観が圧巻【写真79枚】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム『鳴潮』の2周年を記念した台湾イベントの公式コスプレイヤーが集結した様子を紹介しています。イベントでは、「花咲く約束」を彩る14名の美麗なコスプレイヤーが魅せる世界観が圧巻でした。この記事は、ゲームファンやコスプレ愛好家にとって興味深い内容であり、イベントの写真79枚も掲載されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/05/25/181828.html",
-        "date": "2026-05-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam 週間の振り返り: Steam には境界領域のゲームが溢れており、私もそれは認めるが...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Steamプラットフォームには様々な境界領域のゲームが溢れているが、その中から注目すべき作品をピックアップするのは難しい。そうした中で、 Steam週間の振り返りという記事では、ユーザーが評価したポイントやレビューの内容をまとめている。このレビュー記事では、評価ポイントとしてゲームのグラフィックやサウンド、そしてストーリーの面白さが取り上げられている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-is-flooded-with-liminal-spaces-games-and-i-approve-but-i-think-ive-found-the-best-to-start-with/",
-        "date": "2026-05-25",
-        "is_translated": true
-      },
-      {
-        "title": "【基本プレイ無料『NTE』、新モード「暗黒レーシング」が“バグ技の生まれ変わり”説浮上。「レース...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料のゲーム「NTE」には、新しいモード「暗黒レーシング」が追加されました。 このモードは、プレイヤーが高速でレースをしながら、障害物を避けながら進む必要があります。 このモードは、バグ技の生まれ変わり説が浮上しており、プレイヤーから高い評価を得ています。 このゲームは、レースゲームを好む人や、新しいゲームを探している人にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260525-444984/",
-        "date": "2026-05-25",
-        "is_translated": false
-      },
-      {
-        "title": "【マイニンテンドーストアにて、Nintendo Switch 2の購入条件から「Switchのプ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "マイニンテンドーストアにおけるNintendo Switch 2の購入条件から「Switchのプレイヤー層」のレビュー記事では、Switchの新作ゲームの魅力を評価するポイントとして、グラフィックスの向上、ゲームプレイの多様性、オンライン機能の改善などを挙げています。また、レビューでは、Switchの新作ゲームの評価ポイントとして、ストーリーの深み、キャラクターの魅力。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260525-444971/",
-        "date": "2026-05-25",
-        "is_translated": false
-      },
-      {
-        "title": "【新たなマルチ対応デスゲームホラー『HANDS OVER』発表。本当に腕が千切れる“イタイワニー...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "新たなマルチ対応デスゲームホラー『HANDS OVER』のレビュー記事では、ゲームの恐怖要素やユニークなゲーム性が評価されています。特に、プレイヤーの腕が切断されるという残酷な要素がゲームの特徴となっています。また、レビューではマルチプレイ機能の充実度やグラフィックの質も高く評価されています。ホラーゲームファンやアクションゲーム好きにとって、このゲームは非常に面白いものであると思います。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260525-444952/",
-        "date": "2026-05-25",
-        "is_translated": false
-      },
-      {
-        "title": "【“The Elder Scrolls II: Daggerfall”にインスパイアされたクラシ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「The Elder Scrolls II: Daggerfall」にインスパイアされたクラシックRPGのレビュー記事です。このゲームは、膨大なストーリーやデタILEDなゲームシステムが特徴です。レビューのポイントとしては、ゲームの自由度が高く、プレイヤーが自分の冒険を楽しむことができること、グラフィックやサウンドトラックが美しく、臨場感があること。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05167109.html",
-        "date": "2026-05-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam 週間の振り返り: Steam には限界空間ゲームが溢れており、私もそれは認めるが、...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Steamのレビュー記事では、限界空間ゲームが溢れていることを指摘しながらも、その中から優れた作品を探すことの重要性を強調しています。記事では、限界空間ゲームの特徴や魅力、そしてその中で注目すべき作品を紹介しています。Steamユーザーやゲームファンにとって、限界空間ゲームの魅力を再認識する機会となるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-is-flooded-with-liminal-spaces-games-and-i-approve-but-i-think-ive-found-the-best-to-start-with/",
-        "date": "2026-05-25",
-        "is_translated": true
-      },
-      {
-        "title": "【傑作オープンワールドRPG「Kenshi」のプレイヤー数が遂に300万人を突破、期間限定の大型...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Kenshi」はオープンワールドRPGの傑作として知られており、300万人を超えるプレイヤー数を達成しています。このゲームの評価ポイントとしては、広大な世界での自由な冒険や、複雑なストーリー、深いキャラクターシステムが挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの質の高さ、プレイヤーの自由度の高さが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05167110.html",
-        "date": "2026-05-25",
-        "is_translated": false
-      },
-      {
-        "title": "【非同期型マルチプレイヤーモードを導入する「9 Kings」の最新パッチが配信、100万本販売突破も】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「9 Kings」の最新パッチが配信されました。このパッチでは非同期型マルチプレイヤーモードが導入されており、プレイヤー同士の対戦がよりスムーズに楽しめるようになりました。また、このゲームはすでに100万本販売突破を達成しており、評価ポイントとしては、ユーザーが自由にプレイできる非同期型マルチプレイヤーモードの導入、ゲームのバランス調整、グラフィックの向上などがあげられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/05167111.html",
-        "date": "2026-05-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Exodus: The Helium Sea の第 1 章プレビューが公開されました — 読ん...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Exodus: The Helium Sea の第 1 章プレビューのレビュー記事があります。このゲームの評価ポイントとして、ストーリーの魅力、グラフィックの美しさ、ゲームプレイのスムーズさがあります。レビューの内容概要としては、ゲームの世界観が広大で深みがあり、プレイヤーの選択がストーリーに大きな影響を与える点が高い評価を受けています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/exodus-helium-sea-excerpt/",
-        "date": "2026-05-25",
-        "is_translated": true
-      },
       {
         "title": "【『ダークソウル3』を“足の裏”に映して実況プレイしたセクシー系配信者、TwitchにBANされ...】",
         "platform": "AUTOMATON",
@@ -1403,5 +1146,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-29T22:28:55.088958"
+  "last_updated": "2026-05-30T02:54:58.509702"
 }
