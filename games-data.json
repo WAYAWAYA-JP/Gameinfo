@@ -182,6 +182,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/perplexingpuzzles_bundle",
         "date": "2026-05-30"
+      },
+      {
+        "title": "Double Shift: Simulation Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Double Shift: Simulation Bundleというバンドルが現在販売中です。このバンドルには、パラドックスインタラクティブ社の「Cities: Skylines」や「Transport Fever 2」、そして「Farming Simulator 22」などのシミュレーションゲームが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/doubleshift_simulation_bundle",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "Warhammer Skulls 2026 Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Warhammer Skulls 2026 Bundleが現在販売中です。このバンドルには、Warhammer 40,000: Chaos Gate - Daemonhunters、Warhammer 40,000: Battlesector、Warhammer Age of Sigmar: Realms of Chaos - Soul Arenaなどの主要タイト…",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/warhammerskulls2026bundle_bundle",
+        "date": "2026-05-31"
       }
     ],
     "sale": [
@@ -991,8 +1015,21 @@
         "url": "https://www.pcgamer.com/games/fps/007-nightfire-review-2003/",
         "date": "2026-05-30",
         "is_translated": true
+      },
+      {
+        "title": "【『Forza Horizon 6』で秋を楽しむ。『007 ファーストライト』にてぽんこつスパイ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本記事は、ゲーム「Forza Horizon 6」と「007 ファーストライト」のレビューをまとめたものです。ゲームのグラフィックやプレイ性、ストーリーが評価ポイントとなっています。特に「Forza Horizon 6」では秋の季節を楽しむことができ、グラフィックの美しさが際立つようです。一方の「007 ファーストライト」では、スパイアクションの面白さが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260531-446218/",
+        "date": "2026-05-31",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-05-31T03:40:44.052117"
+  "last_updated": "2026-05-31T10:56:31.476035"
 }
