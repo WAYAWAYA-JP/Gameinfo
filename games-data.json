@@ -182,6 +182,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/warhammerskulls2026bundle_bundle",
         "date": "2026-05-31"
+      },
+      {
+        "title": "4X: Xplore, Xpand, Xploit, Xterminate",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、4Xと呼ばれるバンドルが販売中です。このバンドルには、Xplore、Xpand、Xploit、Xterminateなどの主要タイトルが含まれており、ストラテジーやシミュレーションジャンルのゲームを楽しむことができます。大まかな価格帯は数千円程度で、ストラテジーファンにとってはお得な購入になるかもしれません。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/4xxplorexpandxploitxterminate_bundle",
+        "date": "2026-06-01"
       }
     ],
     "sale": [
@@ -435,6 +447,18 @@
         "discount": "-51%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dead-cells/info/",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストがSteamで50%の割引セール中です。このゲームは、オープンワールドアクションアドベンチャーのジャンルに属し、豊富なゲームプレイと高度なグラフィックが特徴です。セール期間中は通常価格の半額で購入できます。グランド・セフト・オートシリーズは非常に人気があり、高い評価を獲得していますので、セールを逃さないようにしましょう。",
+        "price": "¥2,190",
+        "originalPrice": "¥4,380",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
         "date": "2026-06-01"
       }
     ],
@@ -867,8 +891,112 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-4-backrooms-games-released-on-steam-last-week-joining-a-list-of-over-500-cash-ins-parodies-and-legitimate-contenders/",
         "date": "2026-06-01",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料戦車シューター『World of Tanks: HEAT』は、チーム制ながら個人...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "World of Tanks: HEATは、基本プレイ無料の戦車シューターであり、チーム制ながら個人プレイヤーのスキルも重要視されるゲームです。このゲームの評価ポイントとしては、戦略的なチームプレイと個人の操作スキルの両方が注目される点があります。レビューの内容概要としては、グラフィックの質やゲームモードの多様性、そしてオンライン対戦の快適性が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/columnjp/woth-20260601-446421/",
+        "date": "2026-06-01",
+        "is_translated": false
+      },
+      {
+        "title": "【精神崩壊デッキ構築ローグライク『カオスゼロナイトメア』は、“ビルドは深く、プレイは短く”を頑張...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "カオスゼロナイトメアは、精神崩壊デッキ構築ローグライクゲームのレビュー記事です。このゲームは「ビルドは深く、プレイは短く」という特徴を持ち、デッキの構築の自由度が高く、プレイヤーは戦略的にカードを組み合わせることができます。レビューでは、ゲームの評価ポイントとして、カードのバリエーションや難易度の調整が適切であることを挙げています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/chaos-zero-nightmare-20260601-446296/",
+        "date": "2026-06-01",
+        "is_translated": false
+      },
+      {
+        "title": "【プレイヤーのワークライフバランス改善を支援するデスクトップ常駐系農場ライフシム「Focus G...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Focus Gは、プレイヤーのワークライフバランスを改善することを目的としたデスクトップ常駐系農場ライフシムです。このゲームの評価ポイントとしては、ストレス軽減効果が高く、プレイヤーがリラックスできる雰囲気を提供していることが挙げられます。また、シンプルながらも魅力的なゲーム性や、ユーザーインターフェースの使いやすさも評価ポイントです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167234.html",
+        "date": "2026-06-01",
+        "is_translated": false
+      },
+      {
+        "title": "【「スイッチ2」にどれくらい“満足”した？ 抑えめの価格に入手難、独占ソフトや値上げなど、波乱に...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、Nintendo Switch 2の満足度について評価しています。価格や入手難、独占ソフトのラインナップ、値上げについて論じています。ゲームファンや新しいハードウェアに興味がある方は、こちらの記事が参考になるでしょう。記事では、Switch 2の魅力や問題点について具体的に述べています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/01/182252.html",
+        "date": "2026-06-01",
+        "is_translated": false
+      },
+      {
+        "title": "【エクスカリバーは折れた、でもアーサー王は折れない！ハクスラ×ローグライト『Knight vs ...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、ハクスラとローグライトのコラボレーション作品「Knight vs ...」を評価しています。ゲームの評価ポイントとして、ユニークなゲームシステムとキャラクターの魅力が挙げられます。記事では、ゲームのレビューの内容概要として、戦略的なバトルシステムとキャラクターの成長要素が紹介されています。対象読者は、このゲームに興味がある人や、ハクスラとローグライトのファンである人です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/01/182247.html",
+        "date": "2026-06-01",
+        "is_translated": false
+      },
+      {
+        "title": "【Nvidia が、DLSS、レイ トレーシング、フレーム生成、その他好みの RTX 機能をサポ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、Nvidia の DLSS、レイ トレーシング、フレーム生成、その他の RTX 機能をサポートするゲームに対する評価ポイントを紹介しています。主な評価ポイントとして、グラフィックの品質とパフォーマンスの向上、そしてこれらの機能を活用したゲームプレイの体験が含まれます。また、レビューでは、これらの機能がゲームの全体的な楽しみ方にどのような影響を与えるかも検討しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/nvidia-unveil-their-first-all-in-one-laptop-processor-with-support-for-dlss-ray-tracing-frame-gen-and-all-those-other-rtx-features-you-love-and-hate",
+        "date": "2026-06-01",
+        "is_translated": true
+      },
+      {
+        "title": "【007 First Light レビュー - エキゾチックなジェット コースターの乗り心地に時...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "007 First Light レビューは、エキゾチックなジェットコースターの乗り心地に時を置いて、ゲームの評価ポイントを紹介しています。レビューの内容概要としては、ゲームのグラフィックやサウンド、ストーリーの魅力について触れています。また、ジェームズ・ボンドの世界観を楽しむファンや、アクションゲームを好む人に向けた内容となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/007-first-light-review-a-flowing-thriller-that-blends-occasional-sandboxy-spying-into-exotic-rollercoaster-ride",
+        "date": "2026-05-30",
+        "is_translated": true
+      },
+      {
+        "title": "【『メイティング・シーズン』レビュー：ニック・クロールのNetflixの新番組は『ビッグマウス』...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ニック・クロールのNetflix新番組「メイティング・シーズン」のレビュー記事では、この番組は「ビッグマウス」と比較されており、ユーモアとストーリーのバランスが取れていることが評価ポイントの1つです。また、キャラクターの深みと演技の質も高く評価されています。このレビューは、コメディ作品のファンやニック・クロールの作品を楽しみにしている人にとって参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/mating-season-review-big-mouth/",
+        "date": "2026-06-01",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-01T03:55:45.566503"
+  "last_updated": "2026-06-01T14:59:54.325387"
 }
