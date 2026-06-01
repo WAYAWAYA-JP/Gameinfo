@@ -194,6 +194,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/4xxplorexpandxploitxterminate_bundle",
         "date": "2026-06-01"
+      },
+      {
+        "title": "HHWild Rage Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、HHWild Rage Bundleが販売中です。このバンドルには、Wild Rage、Rage Against The Zombies、Zombie Rageなどの主要タイトルが含まれており、主にアクションとアドベンチャーを題材にしたゲームが特徴です。大まかな価格帯は10ドル以下とお手頃です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/wild-rage-bundle",
+        "date": "2026-06-01"
       }
     ],
     "sale": [
@@ -995,8 +1007,21 @@
         "url": "https://www.polygon.com/mating-season-review-big-mouth/",
         "date": "2026-06-01",
         "is_translated": true
+      },
+      {
+        "title": "【Cyber​​punk 2077: Turf Wars レビュー - 衝撃的なジャンルの反転】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "サイバーパンク2077の新しい拡張パック「Turf Wars」は、衝撃的なジャンルの反転をもたらします。このレビュー記事では、ゲームの評価ポイントとしてストーリーの深み、キャラクターの魅力、ゲームプレイのスムーズさを取り上げています。また、ゲームの評価としては、ジャンルを超えた新しい試みが成功している点や、ゲームの世界観がさらに豊かになった点が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/cyberpunk-2077-turf-wars-arcade-cabinet/",
+        "date": "2026-06-01",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-01T14:59:54.325387"
+  "last_updated": "2026-06-01T17:53:54.787284"
 }
