@@ -472,6 +472,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/3240220",
         "date": "2026-06-01"
+      },
+      {
+        "title": "Gravity Circuit",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲームであるGravity Circuitが、Variousというプラットフォームで現在-100%のセール中です。このゲームは、高速なアクションと複雑なステージ構成が特徴で、プレイヤーは様々な障害を克服しながら進んでいく必要があります。通常価格よりも大幅に安くなっているので、興味がある方は今すぐチェックしてみてください。ゲームの評価は高く、ユーザーから高い人気度を得ています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/gravity-circuit/info/",
+        "date": "2026-06-01"
       }
     ],
     "review": [
@@ -1020,8 +1032,21 @@
         "url": "https://www.polygon.com/cyberpunk-2077-turf-wars-arcade-cabinet/",
         "date": "2026-06-01",
         "is_translated": true
+      },
+      {
+        "title": "【Cataclysm Arcade 限定 TCG プレビューで 3 枚の新しいエンドリング カー...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Cataclysm Arcade 限定 TCG プレビューのレビュー記事では、3 枚の新しいエンドリング カーが紹介されています。この記事は、ゲームファンやトレーディングカードゲームの愛好家にとって、ゲームの新しい要素や機能についての貴重な情報を提供します。記事では、新しいエンドリング カーについての詳細な説明や、ゲームのプレイ性についての評価ポイントも触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/cataclysm-arcade-endlings-exclusive-card-reveal-kickstarter/",
+        "date": "2026-06-01",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-01T17:53:54.787284"
+  "last_updated": "2026-06-01T23:01:42.231388"
 }
