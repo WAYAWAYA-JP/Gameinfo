@@ -182,6 +182,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/wild-rage-bundle",
         "date": "2026-06-01"
+      },
+      {
+        "title": "Humble 15th Anniversary - Indie Icons Showcase",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble 15th Anniversary - Indie Icons Showcaseと題したバンドルが販売中です。このバンドルには、Hyper Light Drifter、Night in the Woods、Celesteなどの人気インディーゲームが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/humble15thanniversaryindieiconsshowcase_bundle",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "Build, Shuffle, Battle!",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Build, Shuffle, Battle!のバンドルが現在販売中です。このバンドルには、主にカードゲームやストラテジー要素が含まれるタイトルが収録されています。具体的には、Slay the SpireやCard Questのような人気タイトルが含まれています。このバンドルは、パズルや冒険ゲームのファンにとって魅力的です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/buildshufflebattle_bundle",
+        "date": "2026-06-02"
       }
     ],
     "sale": [
@@ -423,6 +447,30 @@
         "discount": "-68%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅がSteamで大幅な75%オフのセール中です。このゲームは、ドラゴンクエストシリーズのスピンオフ作品であり、モンスターコレクションと育成が楽しめるRPGです。セール期間中は、通常価格より大幅に安く購入することができます。ドラゴンクエストシリーズのファンにはもちろん、RPGやモンスターコレクションゲームが好きな人にもおすすめです。",
+        "price": "¥1,245",
+        "originalPrice": "¥4,980",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2175540",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "ドラゴンクエストIII　そして伝説へ…",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ドラゴンクエストIII そして伝説へ…がSteamで50% OFFセール中です。このゲームは人気のロールプレイングゲームで、伝説的なストーリーやキャラクターが特徴です。通常価格より半額の割引で購入することができます。ドラゴンクエストシリーズのファンやロールプレイングゲームを楽しむ人にはおすすめです。",
+        "price": "¥3,839",
+        "originalPrice": "¥7,678",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2701660",
         "date": "2026-06-02"
       }
     ],
@@ -959,8 +1007,99 @@
         "url": "https://www.rockpapershotgun.com/nvidia-unveil-their-first-all-in-one-laptop-processor-with-support-for-dlss-ray-tracing-frame-gen-and-all-those-other-rtx-features-you-love-and-hate",
         "date": "2026-06-01",
         "is_translated": true
+      },
+      {
+        "title": "【Steamで“3年埋もれた”マルチ対応空登りゲーム『Bunny Guys!』無料配布され一転人...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、Steamで配布されているマルチプレイ対応の空登りゲーム『Bunny Guys!』の評価ポイントについて触れています。特に、ゲームのグラフィックやサウンド、そしてマルチプレイ機能の評価が行われています。また、ゲームの魅力や欠点についてもレビューされており、ゲームファンやマルチプレイゲームを楽しみたい人に向けての参考情報として役立ちます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260602-446641/",
+        "date": "2026-06-02",
+        "is_translated": false
+      },
+      {
+        "title": "【スーパーヒーロー暴れ放題オープンワールド『UNDEFEATED: Genesis』は「飛行と破...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "スーパーヒーロー暴れ放題オープンワールドのゲーム「UNDEFEATED: Genesis」のレビュー記事では、飛行と破壊の自由度が高く、プレイヤーに多くの楽しみを提供することが評価ポイントとして挙げられています。また、グラフィックやサウンドトラックの質も高く、ゲームの世界観に没入しやすいと述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260602-446628/",
+        "date": "2026-06-02",
+        "is_translated": false
+      },
+      {
+        "title": "【近未来SFホラーダンジョンRPG『Descent Of Lunaris』試遊感想。“正気度”や...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Descent Of Lunaris』は近未来を舞台にしたSFホラーダンジョンRPGで、プレイヤーは「正気度」の管理や恐怖感を体験しながらゲームを進めていくことが特徴です。このゲームの評価ポイントとしては、独自の恐怖要素や心理描写が高く評価されています。レビューの内容概要としては、ゲームのストーリーやシステムの面白さだけでなく、プレイヤーに与える心理的な影響も掘り下げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/descent-of-lunaris-20260602-446601/",
+        "date": "2026-06-02",
+        "is_translated": false
+      },
+      {
+        "title": "【対戦FPS中に“熱々のお茶”を背中に浴びても、微動だにせずプレイし続けるゲーマーが目撃される。...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、プレイ中の集中力に驚かされるゲーマーを紹介しています。対戦FPS中に背中に熱々のお茶を浴びても動じない様子が話題になっています。評価ポイントとしては、プレイヤーの集中力やゲームへの没入度が高く、ストレス解消にはもってこいです。また、レビューの内容としては、ゲーマーの根気強さやゲームの面白さが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260602-446602/",
+        "date": "2026-06-02",
+        "is_translated": false
+      },
+      {
+        "title": "【コスプレ】「鳴潮 2nd Anniversary Fes.」開催！豪華すぎる公式コスプレイヤーが集結したフォトレポ第1弾【写真52枚】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、コスプレイベント「鳴潮 2nd Anniversary Fes.」のフォトレポ第1弾を紹介しています。豪華な公式コスプレイヤーが集結したこのイベントは、コスプレファンにとって大変魅力的です。記事では、イベントの概要や写真52枚が紹介されています。コスプレに興味がある方や、イベントの雰囲気を感じたい方にはお勧めの記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/02/182314.html",
+        "date": "2026-06-02",
+        "is_translated": false
+      },
+      {
+        "title": "【『シニガミ姫と異書館ノ怪物』で実感した「絵本シリーズ」の進化！ 痛みを伴う優しい物語を“新たな...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "「シニガミ姫と異書館ノ怪物」は、痛みを伴う優しい物語を新たな展開で描く絵本シリーズの最新作です。このゲームの評価ポイントとしては、ストーリーの深みとキャラクターの成長が際立っています。レビューの内容概要としては、物語の感動度とグラフィックの美しさが高く評価されています。このゲームは、優しい物語と痛みを共に描く絵本シリーズのファンに特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/02/182310.html",
+        "date": "2026-06-02",
+        "is_translated": false
+      },
+      {
+        "title": "【Panther Lake ラップトップだけで 1 週間プレイした後、Intel はゲームのモジ...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Intelの最新のPanther Lakeプロセッサを搭載したラップトップで1週間ゲームをプレイした後、Intelのゲームに対するモチベーションについてレビューしています。この記事では、パフォーマンス、グラフィックの質、バッテリー寿命などの評価ポイントを中心に、Panther Lakeのゲームプレイ体験について詳細に紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/after-a-week-of-playing-on-nothing-but-panther-lake-laptops-its-safe-to-say-that-intel-has-its-gaming-mojo-back",
+        "date": "2026-06-02",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-02T03:48:56.944140"
+  "last_updated": "2026-06-02T12:40:58.371739"
 }
