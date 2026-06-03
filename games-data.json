@@ -460,6 +460,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/tell-me-why-chapter-1/info/",
         "date": "2026-06-03"
+      },
+      {
+        "title": "Gang Beasts",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Gang BeastsがSteamで75% OFFセール中です。このゲームは、最大4人までのマルチプレイヤーが可能な格闘アクションゲームで、特徴的な柔らかいキャラクターのグラフィックが目を引く人気タイトルです。現在の割引価格では大変お得であり、これまでプレイしていなかったユーザーにもおすすめできます。Steamでの評価は「非常に好評」で、ユーザーからの支持が高いゲームです。",
+        "price": "¥575",
+        "originalPrice": "¥2,300",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/285900",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "Winexy",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Winexyは、Variousで現在100%割引のセール中で、通常価格より大幅に安くなっています。アクションゲームやパズルゲームなど、バラエティ豊かなジャンルが特徴で、ユーザーから高い評価を得ています。人気度も高く、多くのプレイヤーから支持されています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/winexy/info/",
+        "date": "2026-06-03"
       }
     ],
     "review": [
@@ -1099,8 +1123,21 @@
         "url": "https://www.inside-games.jp/article/2026/06/03/182370.html",
         "date": "2026-06-03",
         "is_translated": false
+      },
+      {
+        "title": "【Nintendo Switch 2版「LEGO Batman: Legacy of the D...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、Nintendo Switch 2版「LEGO Batman: Legacy of the Dark Knight」の魅力を紹介しています。評価ポイントとしては、ユーモア溢れるストーリー、カラフルで可愛らしいグラフィック、簡単で楽しいゲームプレイが挙げられます。レビューの内容概要としては、ゲームのストーリーが面白く、キャラクターの声優が素晴らしいこと、また。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167319.html",
+        "date": "2026-06-03",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-03T13:16:35.808396"
+  "last_updated": "2026-06-03T17:02:11.113170"
 }
