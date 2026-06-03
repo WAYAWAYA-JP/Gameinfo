@@ -206,6 +206,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/buildshufflebattle_bundle",
         "date": "2026-06-02"
+      },
+      {
+        "title": "IGN Live Bundle 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、IGN Live Bundle 2026が販売中です。このバンドルには、主要タイトルとして「Resident Evil 4」や「Cyberpunk 2077」、「The Witcher 3」が含まれています。ジャンルはアクションアドベンチャーやRPGが中心で、大まかな価格帯は5000円から10000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/ignlivebundle2026_bundle",
+        "date": "2026-06-03"
       }
     ],
     "sale": [
@@ -1139,5 +1151,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-03T17:02:11.113170"
+  "last_updated": "2026-06-03T23:05:51.606748"
 }
