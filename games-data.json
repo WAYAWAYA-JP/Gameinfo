@@ -436,6 +436,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cairn/info/",
         "date": "2026-06-03"
+      },
+      {
+        "title": "Moonrise Fall",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Moonrise Fallがバラエティーで91%オフのセール中です。このゲームは、探索とパズルを楽しむことができるユニークな特徴を持っています。現在の価格は大幅に割引されており、非常に魅力的です。ユーザーの評価も高く、人気度も高いので、ゲームファンにはおすすめです。",
+        "price": "$0.89",
+        "originalPrice": "",
+        "discount": "-91%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/moonrise-fall/info/",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "Tell Me Why: Chapter 1",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Tell Me Why: Chapter 1がバラエティー作品として現在100％割引で販売中です。この作品は、ストーリー重視のアドベンチャーゲームであり、プレイヤーは双子の兄弟姉妹の物語を追体験します。非常に高評価で人気の作品で、多くのプレイヤーから好評価を得ています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/tell-me-why-chapter-1/info/",
+        "date": "2026-06-03"
       }
     ],
     "review": [
@@ -1062,8 +1086,21 @@
         "url": "https://doope.jp/2026/06166679.html",
         "date": "2026-06-03",
         "is_translated": false
+      },
+      {
+        "title": "【コスプレ】台湾で出会った“忘れられない”コスプレイヤー・小楠。「ガンダム ジークアクス」マチュへの本気が詰まった撮り下ろし【写真11枚】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、台湾で出会ったコスプレイヤー・小楠の「ガンダム ジークアクス」マチュのコスプレを紹介しています。記事では、小楠の本気のコスプレが詰まった11枚の写真が撮り下ろされています。コスプレの質や小楠のパフォーマンス、写真のクオリティなどが評価ポイントとなっています。コスプレファンやガンダムシリーズの愛好者にとって、見逃せない記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/03/182370.html",
+        "date": "2026-06-03",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-03T03:57:11.932484"
+  "last_updated": "2026-06-03T13:16:35.808396"
 }
