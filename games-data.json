@@ -520,6 +520,54 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-06-04"
+      },
+      {
+        "title": "BIOHAZARD RE:4",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気のサバイバルホラーゲーム「BIOHAZARD RE:4」がSteamで大幅な75%オフのセール中です。このゲームは、ハイクオリティのグラフィックと心臓を躍らせる怖さで知られており、多くのプレイヤーから高い評価を得ています。通常価格よりも大幅に安くなっているので、ホラーゲームファンにはおすすめのチャンスです。",
+        "price": "¥1,247",
+        "originalPrice": "¥4,990",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2050650",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Street Fighter 6",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "格闘ゲームの名作「Street Fighter 6」がSteamで50%オフのセール中です。このゲームは、シリーズの最新作として話題となり、ファンから高い評価を得ています。格闘ゲームファンには必見の作品で、現在の価格は大幅に割引されています。人気度も高く、多くのユーザーから好評価を得ています。",
+        "price": "¥2,495",
+        "originalPrice": "¥4,990",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1364780",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Monster Hunter Rise + Sunbreak",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Monster Hunter Rise + SunbreakがSteamで大幅な84% OFFのセール中です。このアクションパックアドベンチャーゲームは、モンスターと戦う爽快なバトルや、豊富なカスタマイズ要素など、シリーズの特徴的な要素を存分に楽しむことができます。高い評価と人気を誇るこのゲームを、通常価格より大幅に安い価格で体験することができます。",
+        "price": "¥958",
+        "originalPrice": "¥5,990",
+        "discount": "84% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/692569",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Rogue Waters",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームのRogue Watersが、Variousで100%割引のセール中です。このゲームは、ユニークなゲームプレイとカジュアルなグラフィックで人気を博しており、多くのプレイヤーから高い評価を得ています。通常価格より大幅に安くなっており、興味がある方はぜひこの機会にチェックしてみてください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/rogue-waters/info/",
+        "date": "2026-06-04"
       }
     ],
     "review": [
@@ -1240,5 +1288,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-04T15:29:39.700655"
+  "last_updated": "2026-06-04T22:21:24.425131"
 }
