@@ -1,55 +1,6 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Down in Bermuda",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "アドベンチャーゲームの「Down in Bermuda」がEpic Gamesで無料配布中です。このゲームの特徴は、探索とパズルの解決が中心になっており、プレイヤーはさまざまな島を探索しながら謎を解き明かしていきます。また、ユニークなグラフィックや魅力的なサウンドトラックもゲームの魅力です。プレイヤーはEpic Gamesのプラットフォームから直接ダウンロードして遊ぶことができます。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年05月28日まで",
-        "url": "https://store.epicgames.com/ja/p/down-in-bermuda",
-        "date": "2026-05-28"
-      },
-      {
-        "title": "Tomb Raider I-III Remastered Starring Lara Croft",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "アクションアドベンチャーゲームの「Tomb Raider I-III Remastered Starring Lara Croft」がEpic Gamesで無料配布中です。このゲームシリーズは、ララ・クロフトを主人公に据えた3Dアクションアドベンチャーの先駆けであり、魅力的なグラフィックや難易度の高いパズル、そして女性主人公のララ・クロフトの勇敢な冒険が特徴です。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年05月28日まで",
-        "url": "https://store.epicgames.com/ja/p/tomb-raider-iiii-remastered-538640",
-        "date": "2026-05-28"
-      },
-      {
-        "title": "LONESTAR",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "アクションアドベンチャーゲームのLONESTARがEpic Gamesで無料配布中です。このゲームは、美しいグラフィックとスムーズな操作が特徴で、プレイヤーはさまざまなミッションをこなしながらキャラクターを成長させます。また、ゲームの世界観はユニークで、科学と幻想が交差する独特な設定が魅力です。無料配布中のこのゲームは、Epic Gamesから簡単にダウンロードして遊ぶことができます。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年06月04日まで",
-        "url": "https://store.epicgames.com/ja/p/lonestar-83f143",
-        "date": "2026-05-28"
-      },
-      {
-        "title": "Calico",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Calicoは、生活シミュレーションゲームです。猫カフェを運営して、猫たちと交流したり、カフェを改造したりすることができます。このゲームの魅力は、猫たちとのふれあいや、カフェのデザインを自由に変えることができる点にあります。また、ゲーム内のグラフィックもかわいらしく、リラックスした気分でプレイできるようになっています。現在、Epic Gamesプラットフォームで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年06月04日まで",
-        "url": "https://store.epicgames.com/ja/p/calico",
-        "date": "2026-05-28"
-      }
-    ],
+    "free": [],
     "bundle": [
       {
         "title": "Creature Feature Bundle",
@@ -218,57 +169,21 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/ignlivebundle2026_bundle",
         "date": "2026-06-03"
+      },
+      {
+        "title": "We Will Always Be Here: Pride Month 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、We Will Always Be Here: Pride Month 2026というバンドルが現在販売中です。このバンドルには、Butterfly Soup、Ladykiller in a Bind、My Ex-Boyfriend the Space Tyrantなどのタイトルが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/wewillalwaysbeherepridemonth2026_bundle",
+        "date": "2026-06-04"
       }
     ],
     "sale": [
-      {
-        "title": "God of War Ragnarök",
-        "platform": "Various",
-        "type": "sale",
-        "description": "人気アクションアドベンチャーゲームの「God of War Ragnarök」が、現在Variousで33％オフのセール中です。このゲームは、スリリングな戦闘や美しいグラフィックが特徴で、評価も非常に高い人気タイトルです。セール期間中は通常価格より大幅に安くなっているので、ゲームファンにはおすすめのチャンスです。",
-        "price": "$39.99",
-        "originalPrice": "",
-        "discount": "-33%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
-        "date": "2026-05-28"
-      },
-      {
-        "title": "Ready Or Not",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Ready Or Notは、タクティカルファーストパーソンシューティングゲームで、戦略的思考と迅速な行動を要求するゲームです。現在、55%の割引が適用されており、価格が大幅に下がっています。このゲームは、リアルなグラフィックと緊張感のあるサウンドデザインで、プレイヤーをゲーム世界に引き込むことができます。評価も高く、多くのプレイヤーから人気を博しています。",
-        "price": "$22.49",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ready-or-not/info/",
-        "date": "2026-05-28"
-      },
-      {
-        "title": "The Elder Scrolls IV: Oblivion Remastered",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Elder Scrolls IV: Oblivion RemasteredがVariousで30パーセント引き下げのセール中です。このゲームはオープンワールドのRPGとして知られており、豊富なストーリーや自由度の高いゲームプレイが特徴です。セール価格では通常価格よりも30パーセントお得に購入できます。",
-        "price": "$34.93",
-        "originalPrice": "",
-        "discount": "-30%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-elder-scrolls-iv-oblivion-remastered/info/",
-        "date": "2026-05-28"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33は、Variousで32%割引されています。このゲームは、ユニークなグラフィックと難解なパズルが特徴で、ファンから高い評価を受けています。現在セール中なので、興味がある方はこの機会に試してみることをお勧めします。",
-        "price": "$33.84",
-        "originalPrice": "",
-        "discount": "-32%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-05-28"
-      },
       {
         "title": "The Elder Scrolls V: Skyrim Special Edition",
         "platform": "Steam",
@@ -500,71 +415,6 @@
     ],
     "review": [
       {
-        "title": "【宇宙艦隊RTS『ネビュラス：フリート・コマンド』大型アプデでついに日本語対応、宇宙戦がぐっと遊...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "宇宙艦隊RTS『ネビュラス：フリート・コマンド』の大型アップデートにより、日本語対応が実現しました。このアップデートにより、宇宙戦がより魅力的になりました。このレビュー記事では、ゲームの評価ポイントとしてグラフィックの向上や新しい機能の追加を紹介しています。また、宇宙戦略ゲームファンやRTSゲーム好きの方にオススメできるゲームとして紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260530-446136/",
-        "date": "2026-05-30",
-        "is_translated": false
-      },
-      {
-        "title": "【ドット絵ネズミアクション『Mina the Hollower』、“今年のメタスコア暫定1位”の...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「Mina the Hollower」は、ドット絵を用いたユニークなグラフィックが特徴的なネズミを主人公としたアクションゲームです。このゲームは、今年のメタスコアで暫定1位を獲得しており、多くのレビュアーから高い評価を受けています。レビューの内容としては、ゲームのグラフィックやサウンドトラックが高く評価されています。また、ゲームの難易度や操作性も良好であると評されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260530-446129/",
-        "date": "2026-05-30",
-        "is_translated": false
-      },
-      {
-        "title": "【ペットと戦う中華水墨画ローグライト『Realm of Ink』正式リリースで「プレイヤー約70...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "中華水墨画をテーマにしたローグライトゲーム「Realm of Ink」が正式にリリースされました。このゲームでは、ペットと一緒に戦いながら、美しい水墨画のようなグラフィックを楽しむことができます。レビューでは、ゲームの独自のグラフィックや、ペットとの戦闘システムが高く評価されています。また、ゲームの難易度や、ペットの育成システムも評価ポイントになっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/realm-of-ink-20260530-446120/",
-        "date": "2026-05-30",
-        "is_translated": false
-      },
-      {
-        "title": "【007 First Light レビュー - エキゾチックなジェット コースターの乗り物に時折...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、007 First Lightというゲームの評価ポイントについて触れています。ゲームの評価ポイントとして、エキゾチックなジェットコースターの乗り物に時折面白さを感じることができる点や、グラフィックの美しさなどが挙げられます。また、ゲームのストーリーや操作感についても触れています。対象読者は、007シリーズのファンやアクションゲームを好む人に向けられており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/007-first-light-review-a-flowing-thriller-that-blends-occasional-sandboxy-spying-into-exotic-rollercoaster-ride",
-        "date": "2026-05-30",
-        "is_translated": true
-      },
-      {
-        "title": "【007: ナイトファイアレビュー (2003)】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "「007: ナイトファイア」は2003年に発売されたゲームで、グラフィックやサウンドの高さが評価ポイントとなっています。レビューでは、ゲームのストーリーやキャラクターの魅力、難易度のバランスが良く、プレイヤーに満足感を与えることができる点が高く評価されています。特に、ファーストパーソンシューティングゲームのファンや、ジェームズ・ボンドシリーズの愛好者にオススメできるゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/007-nightfire-review-2003/",
-        "date": "2026-05-30",
-        "is_translated": true
-      },
-      {
         "title": "【『Forza Horizon 6』で秋を楽しむ。『007 ファーストライト』にてぽんこつスパイ...：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -744,19 +594,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/nvidia-unveil-their-first-all-in-one-laptop-processor-with-support-for-dlss-ray-tracing-frame-gen-and-all-those-other-rtx-features-you-love-and-hate",
         "date": "2026-06-01",
-        "is_translated": true
-      },
-      {
-        "title": "【007 First Light レビュー - エキゾチックなジェット コースターの乗り心地に時...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "007 First Light レビューは、エキゾチックなジェットコースターの乗り心地に時を置いて、ゲームの評価ポイントを紹介しています。レビューの内容概要としては、ゲームのグラフィックやサウンド、ストーリーの魅力について触れています。また、ジェームズ・ボンドの世界観を楽しむファンや、アクションゲームを好む人に向けた内容となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/007-first-light-review-a-flowing-thriller-that-blends-occasional-sandboxy-spying-into-exotic-rollercoaster-ride",
-        "date": "2026-05-30",
         "is_translated": true
       },
       {
@@ -1148,8 +985,60 @@
         "url": "https://doope.jp/2026/06167319.html",
         "date": "2026-06-03",
         "is_translated": false
+      },
+      {
+        "title": "【癒し系悪夢カフェ経営ゲーム『My Little Cafe Nightmare』“好評率97%”...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『My Little Cafe Nightmare』は、癒し系悪夢カフェを経営するゲームで、好評率は97%と非常に高い評価を受けています。レビューでは、ユニークな設定や魅力的なキャラクター、そしてリラックスできるゲーム性が高く評価されています。さらに、ゲームのグラフィックやサウンドトラックも素晴らしいとされています。このゲームは、リラックスしたい方や、ユニークなゲームを探している方にピッタリです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260604-447060/",
+        "date": "2026-06-04",
+        "is_translated": false
+      },
+      {
+        "title": "【6月のプライド月間を支援するPCとXbox版「Tell Me Why」の無料配布が今年も実施、...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "PCとXbox版のゲーム「Tell Me Why」は、プレイヤーの選択がストーリーに影響を与える、アドベンチャーゲームです。このゲームは、プライド月間を支援するために、今年も無料配布が実施されました。 REVIEWの記事では、このゲームの評価ポイントとして、ストーリーの深み、キャラクターの魅力、グラフィックの美しさが挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167431.html",
+        "date": "2026-06-04",
+        "is_translated": false
+      },
+      {
+        "title": "【「ぶいすぽっ！」の「小雀とと」らVTuber3名が、新作『リミットゼロ ブレイカーズ』プレイ生...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、VTuberの「小雀とと」ら3名が新作ゲーム『リミットゼロ ブレイカーズ』をプレイした様子を紹介しています。評価ポイントとしては、ゲームの操作性やグラフィックの質が高く、快適にプレイできることが挙げられます。また、レビューではゲームのストーリーやキャラクターの魅力も高く評価されています。この記事は、VTuberファンや新作ゲームに興味がある方にぜひ読んでみてください。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/04/182393.html",
+        "date": "2026-06-04",
+        "is_translated": false
+      },
+      {
+        "title": "【「コードギアス 復活のルルーシュ」20周年記念「ゼロ」フィギュアが再登場！マスクとギアス目でプ...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "コードギアス 復活のルルーシュの20周年記念イベントで、ゼロのフィギュアが再登場しました。このフィギュアはマスクやギアス目が特徴です。コードギアスシリーズのファンにとっては、見逃せないアイテムです。このレビュー記事では、フィギュアの詳細や購入の可否について評価しています。対象読者は、コードギアスシリーズのファンやフィギュア収集家です。記事では、フィギュアのデザインや価格帯についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/04/182392.html",
+        "date": "2026-06-04",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-03T23:05:51.606748"
+  "last_updated": "2026-06-04T03:52:20.790574"
 }
