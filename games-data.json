@@ -24,6 +24,30 @@
         "deadline": "2026年06月04日まで",
         "url": "https://store.epicgames.com/ja/p/calico",
         "date": "2026-06-04"
+      },
+      {
+        "title": "Rogue Waters",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Rogue Watersは、ローグライク要素を含むアクションゲームです。特徴としては、ランダムに生成されるステージでプレイヤーが戦闘を繰り返すことができ、様々なアイテムを取得して強化することが魅力です。また、シンプルながらも奥深いゲームシステムが楽しめます。現在、Epic Gamesプラットフォームで無料配布中であり、誰でも簡単にダウンロードして遊ぶことができます。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年06月11日まで",
+        "url": "https://store.epicgames.com/ja/p/rogue-waters-9764d6",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Songs of Conquest",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Songs of Conquestは、ストラテジー要素を取り入れたファンタジー系のゲームで、プレイヤーがさまざまなキャラクターを操作して戦闘を行ったり、資源を管理したりすることができます。このゲームの特徴は、ユニークなキャラクターを集めてパーティーを編成することができ、戦略的な戦闘を楽しむことができます。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年06月11日まで",
+        "url": "https://store.epicgames.com/ja/p/songs-of-conquest",
+        "date": "2026-06-04"
       }
     ],
     "bundle": [
@@ -471,6 +495,30 @@
         "discount": "-77%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "007 First Light",
+        "platform": "Various",
+        "type": "sale",
+        "description": "今回は007 First LightがVariousでセール中です。13％オフという割引率で販売されています。このゲームはアクションアドベンチャー系の作品で、高い評価と人気度を誇っています。プレイヤーはジェームズ・ボンドとして様々なミッションを遂行し、スリリングなゲーム体験を楽しむことができます。セール期間中はお得な価格でこの作品をプレイすることができ。",
+        "price": "$60.89",
+        "originalPrice": "",
+        "discount": "-13%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/007-first-light/info/",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33がVariousで32%割引されています。このゲームは、ユーザーから高い評価と人気度を得ています。アドベンチャーとパズルを組み合わせたユニークな要素を持つこの作品は、32%の割引によりお得にプレイすることができます。",
+        "price": "$33.84",
+        "originalPrice": "",
+        "discount": "-32%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-06-04"
       }
     ],
@@ -1163,8 +1211,34 @@
         "url": "https://www.rockpapershotgun.com/007-first-light-sequels-will-be-helmed-by-mgm-and-theoretically-by-amazon-game-studios-as-the-corp-look-to-be-taking-more-direct-control-over-his-bondliness",
         "date": "2026-06-04",
         "is_translated": true
+      },
+      {
+        "title": "【「Mirthwood」にオンラインCo-opや船旅を導入する大型コンテンツアップデートがアナウ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Mirthwood」に大型コンテンツアップデートがアナウンスされました。このアップデートではオンラインCo-opや船旅などの新要素が導入され、ゲームの楽しみ方が一層豊かになります。レビューでは、このアップデートによってゲームの自由度と楽しみ方が増したことが高く評価されています。特に、オンラインCo-opによって友人との協力プレイが可能になり、ゲームの体験がより楽しくなったと評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167463.html",
+        "date": "2026-06-04",
+        "is_translated": false
+      },
+      {
+        "title": "【「META TAXI」超豪華メンバーがプレイ動画を連続投稿！タクシートークRPG『SOOPER...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "タクシードライバーが乗客から聞いた話をもとにクエストを解決していくタクシートークRPG『SOOPER...』のレビュー記事があります。このゲームは、プレイヤーの選択によって物語が変化することが特徴です。また、ゲームの評価ポイントとして、ユニークなゲームシステムや魅力的なキャラクターが挙げられます。特に、超豪華メンバーによるプレイ動画が連続投稿されるため。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/04/182431.html",
+        "date": "2026-06-04",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-04T11:52:34.353722"
+  "last_updated": "2026-06-04T15:29:39.700655"
 }
