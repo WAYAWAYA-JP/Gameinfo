@@ -496,6 +496,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
         "date": "2026-06-05"
+      },
+      {
+        "title": "Path of Exile 2 - Early Access Supporter Pack (Special)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Path of Exile 2 - Early Access Supporter Pack (Special)がSteamで50% OFFセール中です。このアクションRPGゲームは、ダークファンタジーの世界を舞台に、キャラクターのカスタマイズやアイテムの収集が楽しめるゲームです。現在、50%の割引で購入することができます。",
+        "price": "¥2,321",
+        "originalPrice": "¥4,642",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1588213",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "モンスターハンター：ワールド",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "モンスターハンター：ワールドは、ハンティングアクションゲームの代表的な作品であり、巨大なモンスターを狩る爽快なアクションが特徴です。現在、Steamで74% OFFのセール中となっており、大幅な割引価格でプレイできます。このゲームは、世界中のプレイヤーから高い評価を受けており、人気度も非常に高いです。多種多様なモンスターと戦い、強力な武器や防具を集めるという内容が、プレイヤーの心を掴んでいます。",
+        "price": "¥777",
+        "originalPrice": "¥2,990",
+        "discount": "74% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/582010",
+        "date": "2026-06-05"
       }
     ],
     "review": [
@@ -1187,8 +1211,34 @@
         "url": "https://doope.jp/2026/06167484.html",
         "date": "2026-06-05",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料「街」オープンワールド『NTE』に新実装の「AI自動運転」、結構ヤンチャで話題呼...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、基本プレイ無料のオープンワールドゲーム『NTE』の新しい機能である「AI自動運転」について紹介しています。記事では、この機能が非常に面白いことや、ゲーム内の自由度が高まっている点が評価されています。また、ゲームのグラフィックやサウンドも高く評価されています。このレビューは、『NTE』をプレイしたことがある人や、オープンワールドゲームのファンに特に役立つでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/neverness-to-everness-20260605-447390/",
+        "date": "2026-06-05",
+        "is_translated": false
+      },
+      {
+        "title": "【コンボ攻撃が気持ち良すぎ！2Dアクション好きが求める“手触り”全部入りの『グラビティ サーキッ...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、2Dアクションゲーム『グラビティ サーキット』がコンボ攻撃の気持ち良さや操作の手触りなど、2Dアクションファンが求める要素をすべて持ち合わせていると評価しています。記事では、ゲームの評価ポイントとして、スムーズな動きや多様な攻撃方法などが紹介されています。さらに、操作のしやすさやステージのデザインも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/05/182486.html",
+        "date": "2026-06-05",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-05T03:37:36.519091"
+  "last_updated": "2026-06-05T12:08:00.394199"
 }
