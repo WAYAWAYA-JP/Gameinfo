@@ -218,6 +218,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/wewillalwaysbeherepridemonth2026_bundle",
         "date": "2026-06-04"
+      },
+      {
+        "title": "Twist & Tangle Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Twist & Tangle Bundleのバンドルが販売中です。このバンドルには、Twist & Shout、Tangle Tower、Echoes of the Feyなどの主要タイトルが含まれています。ジャンルはパズルやアドベンチャーなど多岐にわたります。大まかな価格帯は10ドル以下で、バンドルとして購入することで個別購入よりも大幅に安く購入できます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
+        "date": "2026-06-05"
       }
     ],
     "sale": [
@@ -1240,5 +1252,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-05T12:08:00.394199"
+  "last_updated": "2026-06-05T15:17:53.783212"
 }
