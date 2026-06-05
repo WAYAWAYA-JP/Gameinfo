@@ -230,6 +230,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
         "date": "2026-06-05"
+      },
+      {
+        "title": "Frosty Games Fest Showcase Bundle 2026: Made in ANZ",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Frosty Games Fest Showcase Bundle 2026: Made in ANZというバンドルがHumble Bundleで販売中です。このバンドルには、オーストラリアやニュージーランドで作られたゲームが数多く含まれています。主要タイトルとして、例えば「Unpacking」や「The Pathless」などのタイトルがあります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/frostygamesfestshowcasebundle2026madeinanz_bundle",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Redline Racing Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、レースゲームのファン必見のRedline Racing Bundleが販売中です。このバンドルには、主要タイトルとして「Assetto Corsa」、「Project Cars 2」、「Dirt Rally 2.0」などが含まれています。レースゲームを楽しむことができるこのバンドルは、ジャンルとしてレースゲームに分類され。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/redlineracingbundle_bundle",
+        "date": "2026-06-05"
       }
     ],
     "sale": [
@@ -531,6 +555,18 @@
         "discount": "74% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/582010",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Cuphead",
+        "platform": "Various",
+        "type": "sale",
+        "description": "CupheadがVariousで40%割引のセール中です。このゲームはランナーアクションゲームのジャンルに属し、独特のアニメーションスタイルと難しいゲーム性が特徴です。現在の価格は割引前の価格より40%安くなっています。評価は非常に高く、人気度も高いゲームです。",
+        "price": "$11.99",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cuphead/info/",
         "date": "2026-06-05"
       }
     ],
@@ -1249,8 +1285,73 @@
         "url": "https://www.inside-games.jp/article/2026/06/05/182486.html",
         "date": "2026-06-05",
         "is_translated": false
+      },
+      {
+        "title": "【「SAW」犠牲者3vs1ジグソウのマルチプレイホラー『SAW: Genesis』発表。「ジグソ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "マルチプレイホラー『SAW: Genesis』は、映画「SAW」の世界を舞台に、3人の犠牲者と1人のジグソウが対戦する独特のゲームプレイが特徴です。このゲームの評価ポイントとしては、スリリングなサバイバル要素や、映画の世界観を忠実に再現したグラフィックが挙げられます。レビューの内容概要としては、ゲームの緊張感や恐怖要素、そしてマルチプレイ機能の評価が中心です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/sawa-20260606-447595/",
+        "date": "2026-06-05",
+        "is_translated": false
+      },
+      {
+        "title": "【ステルスシューター『Crossfire』発表。『クロスファイア』新作はシングルプレイ作品、すれ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "クロスファイアの新作であるシングルプレイのステルスシューター『Crossfire』のレビュー記事では、ゲームの評価ポイントとして、ストーリーの面白さやグラフィックの質、そして操作のスムーズさを挙げています。また、レビューでは、新しいステージの追加やキャラクターのカスタマイズ機能についても触れています。このレビュー記事は。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260606-447594/",
+        "date": "2026-06-05",
+        "is_translated": false
+      },
+      {
+        "title": "【XCOM系“スター・ウォーズ”ターン制ストラテジー「STAR WARS Zero Compan...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "『STAR WARS Zero Company』は、ターン制ストラテジーを基調とするゲームで、スター・ウォーズの世界観を背景にプレイヤーが戦略を立てて戦闘に臨みます。このゲームの評価ポイントとして、戦略的なゲームデザインとスター・ウォーズの世界観が融合している点が挙げられます。レビューの内容概要としては、戦闘システムの深みやストーリーの魅力が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167354.html",
+        "date": "2026-06-05",
+        "is_translated": false
+      },
+      {
+        "title": "【ソウルライクアクション続編「Mortal Shell II」のオープンベータテストが本日開幕、...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ソウルライクアクションゲームの続編「Mortal Shell II」のオープンベータテストが始まりました。このゲームの評価ポイントとしては、ダークファンタジーな世界観や、複雑な戦闘システムが挙げられます。また、レビューでは、ゲームのグラフィックやサウンドトラックの品質も高く評価されています。このレビューは、ソウルライクアクションゲームのファンや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167452.html",
+        "date": "2026-06-05",
+        "is_translated": false
+      },
+      {
+        "title": "【Control Resonant ゲームプレイ プレビューは 2026 年に最も期待されるアク...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Control Resonant ゲームプレイ プレビューは2026年の最も期待されるアクションゲームの一つです。このレビューでは、ゲームの評価ポイントとしてストーリーの深み、グラフィックの質、操作性のスムーズさを取り上げています。特に、ストーリーの複雑さとグラフィックの美しさは、高い評価を得ています。また、操作性のスムーズさも、プレイヤーがゲームに没頭できるように設計されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/control-resonant-hands-on-preview/",
+        "date": "2026-06-05",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-05T15:17:53.783212"
+  "last_updated": "2026-06-05T22:15:05.667540"
 }
