@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Creature Feature Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、 Creature Feature Bundleというバンドルが現在販売中です。このバンドルには、「Creature Feature」や「Monster Crown」などのタイトルが含まれており、ファンタジー系のゲームジャンルが中心となっています。大まかな価格帯は、10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/creaturefeaturebundle_bundle",
-        "date": "2026-05-26"
-      },
-      {
         "title": "Devil May Cry: Devil Trigger Reloaded Collection 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,78 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "The Elder Scrolls V: Skyrim Special Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "The Elder Scrolls V: Skyrim Special EditionがSteamで75% OFFのセール中です。このゲームは、オープンワールドのファンタジーRPGとして知られており、自由に世界を探索し、様々なクエストをこなすことができます。高い評価と人気度を誇り、多くのゲームファンに愛されている作品です。",
-        "price": "¥1,099",
-        "originalPrice": "¥4,399",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/489830",
-        "date": "2026-05-29"
-      },
-      {
-        "title": "Ghost of Tsushima DIRECTOR'S CUT",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「Ghost of Tsushima DIRECTOR'S CUT」が、現在40%オフのセール中です。このゲームは、美しい日本の風景と、剣術アクションを楽しむことができます。評価も高く、人気度も高い作品です。セール期間中は、通常価格より大幅に安く購入することができるので、興味がある方はぜひチェックしてみてください。",
-        "price": "$35.95",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
-        "date": "2026-05-29"
-      },
-      {
-        "title": "Calico",
-        "platform": "Various",
-        "type": "sale",
-        "description": "CalicoがVariousで現在100％割引されています。このゲームは、生活シミュレーションとペットの世話を融合させたユニークな要素を持っており、多くのプレイヤーに愛されています。通常価格から大幅に割引されたこのゲームは、現在無料でプレイすることができます。非常に高い評価と人気度を誇るこのゲームは、シミュレーションゲームファンにとって見逃せない機会です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/calico/info/",
-        "date": "2026-05-29"
-      },
-      {
-        "title": "Drift86",
-        "platform": "Various",
-        "type": "sale",
-        "description": "レーシングゲームのDrift86がVariousでセール中です。このゲームは、ドリフト走行を楽しむことができるレースゲームで、プレイヤーはスピードとスキルを駆使してコースを駆け抜けることができます。現在、100%割引中で、通常価格より大幅に安くなっています。評価も良く、ユーザーからの人気度も高いので、レーシングゲームファンにはおすすめです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/drift86/info/",
-        "date": "2026-05-29"
-      },
-      {
-        "title": "Mina the Hollower",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Mina the HollowerがVariousでセール中です。このアクションアドベンチャーゲームは、ユニークなグラフィックと面白いゲームプレイが特徴で、ファンから高い評価を得ています。現在、セール中で大幅な割引率が適用されており、通常価格よりもお得に購入できます。人気度も高く、多くのプレイヤーから支持されています。",
-        "price": "$19.99",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/mina-the-hollower/info/",
-        "date": "2026-05-29"
-      },
-      {
-        "title": "Path of Exile 2 - Early Access Supporter Pack (Special)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Path of Exile 2 - Early Access Supporter Pack (Special)がSteamで50% OFFのセール中です。このゲームはアクションRPGジャンルで、ダークファンタジーの世界を舞台に様々なキャラクターを操作して冒険することができます。現在の価格は割引前の半額で提供されており、ファンにはおすすめのチャンスです。",
-        "price": "¥2,321",
-        "originalPrice": "¥4,642",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1588213",
-        "date": "2026-05-29"
-      },
       {
         "title": "Outer Wilds",
         "platform": "Various",
@@ -568,74 +484,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/rogue-waters/info/",
         "date": "2026-06-04"
+      },
+      {
+        "title": "Resident Evil Requiem",
+        "platform": "Various",
+        "type": "sale",
+        "description": "バイオハザードシリーズの最新作「Resident Evil Requiem」が、現在Variousで32％オフのセール中です。このホラーアクションゲームは、恐怖を体験することができます。評価も高く人気度が高いので、セールを逃さないでください。",
+        "price": "$47.59",
+        "originalPrice": "",
+        "discount": "-32%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
+        "date": "2026-06-05"
       }
     ],
     "review": [
-      {
-        "title": "【『Forza Horizon 6』で秋を楽しむ。『007 ファーストライト』にてぽんこつスパイ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本記事は、ゲーム「Forza Horizon 6」と「007 ファーストライト」のレビューをまとめたものです。ゲームのグラフィックやプレイ性、ストーリーが評価ポイントとなっています。特に「Forza Horizon 6」では秋の季節を楽しむことができ、グラフィックの美しさが際立つようです。一方の「007 ファーストライト」では、スパイアクションの面白さが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260531-446218/",
-        "date": "2026-05-31",
-        "is_translated": false
-      },
-      {
-        "title": "【ファミコンからPS時代までの進化をプレイしながら追体験する！ゲーム史を愛する人に贈りたいアクシ...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事は、ファミコンからPS時代までのゲームの進化を追体験できるアクションゲームについて紹介しています。ゲームの評価ポイントとしては、懐かしいゲームのグラフィックやサウンド、そしてそれらの進化を体験できることが挙げられます。レビューの内容は、ゲームの歴史を愛する人向けの魅力的な体験ができることや、懐かしいゲームの要素を新しいアクションゲームで楽しめる点が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/05/31/182181.html",
-        "date": "2026-05-31",
-        "is_translated": false
-      },
-      {
-        "title": "【007 First Light の GOTY 2026 の可能性は 1 つの大きな理由により最...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "「007 First Light」のGOTY 2026へのノミネートの可能性について、1つの大きな理由により最も低いと考えられていることを紹介したレビュー記事です。この記事では、ゲームの評価ポイントとして、ストーリーの魅力、グラフィックの質、プレイアビリティの高さを取り上げ、また、レビューの内容として、ゲームの長所と短所を具体的に分析しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/007-first-light-goty-chances/",
-        "date": "2026-05-31",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam レビュアーは Destiny 2 を 10,000 時間プレイした後「このゲームは...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Destiny 2 を 10,000 時間プレイした Steam レビュアーは、このゲームについて詳細なレビューを書いています。評価ポイントとしては、ゲームのグラフィックやサウンドデザイン、そして膨大なプレイ時間に対するコンテンツの充実度などが挙げられます。また、レビュアーは、ゲームのストーリーやキャラクターの魅力にも触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/fps/steam-reviewer-says-i-am-done-with-this-game-after-10-000-hours-of-destiny-2-then-plays-another-160-hours-just-to-be-sure/",
-        "date": "2026-05-31",
-        "is_translated": true
-      },
-      {
-        "title": "【ジェームズ・ボンド 007: ブラッド・ストーンのレビュー (2011)】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ジェームズ・ボンド 007: ブラッド・ストーンのレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンドの質が高く、ゲームプレイのバリエーションが豊富であることが挙げられています。また、レビューの内容概要としては、ゲームのストーリーが面白く、キャラクターの設定が魅力的であることや、ゲームの難易度が適切であることが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/james-bond-007-blood-stone-review-2011/",
-        "date": "2026-05-31",
-        "is_translated": true
-      },
       {
         "title": "【空飛ぶ車で戦うオシャレ架空1930年代RPG『Aether & Iron（エーテル アンド ア...：レビュー】",
         "platform": "AUTOMATON",
@@ -1285,8 +1148,47 @@
         "url": "https://www.inside-games.jp/article/2026/06/04/182431.html",
         "date": "2026-06-04",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料「街」オープンワールド『NTE』グローバル売上が中国を追い抜く。特に“日本人気”...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、基本プレイ無料のオープンワールドゲーム「NTE」のグローバル売上について取り上げられています。特に日本での人気が高いことが注目され、中国を追い抜いた売上を記録していることが紹介されています。この記事は、ゲームの販売実績やユーザーの評価ポイントについて興味がある方に役立つコンテンツです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260605-447276/",
+        "date": "2026-06-05",
+        "is_translated": false
+      },
+      {
+        "title": "【タイタンクエスト特集第7回：「Titan Quest II」を楽しくプレイするための初心者向け...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "タイタンクエストシリーズの第2作「Titan Quest II」を楽しくプレイするための初心者向けガイドを紹介するレビュー記事です。この記事では、ゲームの評価ポイントとしてストーリーやゲームシステム、グラフィックの美しさなどが取り上げられています。また、初心者がゲームを始める際に注意するべきポイントや、ゲームの魅力を引き出すためのTipsも紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167449.html",
+        "date": "2026-06-05",
+        "is_translated": false
+      },
+      {
+        "title": "【「JDM：ジャパニーズドリフトマスター」のマルチプレイヤーモード実装が6月11日に決定】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「JDM：ジャパニーズドリフトマスター」のマルチプレイヤーモード実装が6月11日に決定したことを受けて、レビュー記事が公開されました。この記事では、マルチプレイヤーモードの実装によりゲームの多人数プレイ機能が大幅に強化された点や、グラフィックの向上などが評価ポイントとして挙げられています。また、ゲームの操作性や総合的な評価も概要に含まれており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167484.html",
+        "date": "2026-06-05",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-04T22:21:24.425131"
+  "last_updated": "2026-06-05T03:37:36.519091"
 }
