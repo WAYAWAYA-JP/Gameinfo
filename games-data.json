@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/redlineracingbundle_bundle",
         "date": "2026-06-05"
+      },
+      {
+        "title": "Devil May Cry: Devil Trigger Reloaded Collection 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Devil May Cry: Devil Trigger Reloaded Collection 2026というバンドルが現在販売中です。このバンドルには、Devil May Cryシリーズの主要タイトルであるDevil May Cry 5、Devil May Cry 4、Devil May Cry 3: Special Editionが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/devilmaycrydeviltriggerreloadedcollection2026_bundle",
+        "date": "2026-06-06"
       }
     ],
     "sale": [
@@ -567,6 +579,18 @@
         "discount": "-83%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-2-2019/info/",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "Outer Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Outer Wildsは、宇宙を舞台にしたアドベンチャーゲームで、プレイヤーがタイムループの中で宇宙の謎を解明します。このゲームは、独自の時間管理システムと、美しいグラフィックで知られています。現在、Variousで40%割引セール中で、ファンから高い評価を受けており、人気度も高いゲームです。",
+        "price": "$14.99",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
         "date": "2026-06-06"
       }
     ],
@@ -1194,8 +1218,34 @@
         "url": "https://www.polygon.com/among-us-tv-series-review-paramount/",
         "date": "2026-06-05",
         "is_translated": true
+      },
+      {
+        "title": "【『ファイナルファンタジーVII リベレーション』“前作の課題と解決”開発者インタビュー。「長時...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ファイナルファンタジーVII リベレーション』のレビュー記事では、ゲームの評価ポイントとしてストーリーの深化やグラフィックの向上が挙げられています。また、開発者のインタビューも掲載されており、前作の課題と解決策について語られています。対象読者は、ファイナルファンタジーシリーズのファンやアクションRPGを好む人向けです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/ff7rev-20260606-447870/",
+        "date": "2026-06-06",
+        "is_translated": false
+      },
+      {
+        "title": "【大群召喚ローグライト『ビー・マイ・ホード』試遊感想。人類見下し系妖艶ネクロマンサー、敵を倒すほ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ビー・マイ・ホード』は大群召喚ローグライトのゲームで、人類を見下す妖艶なネクロマンサーが敵を倒すための戦略を駆使する内容です。このゲームの評価ポイントとしては、戦略的なゲームプレイ、独特の世界観、そしてキャラクターの魅力があります。レビューの内容概要としては、戦闘システムの深み、ストーリーの引き付け方、そしてゲームのリプレイ性が高く楽しめる点が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/be-my-horde-20260606-447756/",
+        "date": "2026-06-06",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-06T02:58:09.748480"
+  "last_updated": "2026-06-06T10:53:32.589641"
 }
