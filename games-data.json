@@ -592,6 +592,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/outer-wilds/info/",
         "date": "2026-06-06"
+      },
+      {
+        "title": "Sons Of The Forest",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Sons Of The ForestがSteamで70% OFFのセール中です。このゲームはサバイバルアクションジャンルに属し、独自のゲームシステムとグラフィックが特徴です。現在、かなり低価格で購入することができ、多くのユーザーから高い評価を得ています。人気度も高く、Steamのユーザーから非常に好評です。",
+        "price": "¥1,020",
+        "originalPrice": "¥3,400",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1326470",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "Monster Hunter Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションパックされたハントアクションゲーム「Monster Hunter Wilds」が、現在Variousで62%割引のセール中です。このゲームは、素晴らしいグラフィックと面白いゲームプレイが特徴で、プレイヤーはさまざまなモンスターと戦い、強力な武器や防具を集めることができます。高い評価と人気度を誇るこのゲームは、ファンや新規プレイヤーにとって非常に魅力的です。",
+        "price": "$26.46",
+        "originalPrice": "",
+        "discount": "-62%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
+        "date": "2026-06-06"
       }
     ],
     "review": [
@@ -1244,8 +1268,34 @@
         "url": "https://automaton-media.com/articles/newsjp/be-my-horde-20260606-447756/",
         "date": "2026-06-06",
         "is_translated": false
+      },
+      {
+        "title": "【マイケル・マイヤーズの視点でプレイする「Halloween: The Game」のシングプレイ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "マイケル・マイヤーズの視点でプレイする「Halloween: The Game」のシングルプレイのレビュー記事では、ゲームの評価ポイントとして、ホラー要素の充実度やプレイヤーの緊張感をあげる要素を紹介しています。また、ゲームの雰囲気やサウンドトラックの効果も評価しています。対象読者は、ホラーゲームやマイケル・マイヤーズのファンで、緊張感のあるゲーム体験を求める人です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167598.html",
+        "date": "2026-06-06",
+        "is_translated": false
+      },
+      {
+        "title": "【ギルドウォーズ 2 レビュー (2012)】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ギルドウォーズ2は、2012年の人気オンラインゲームであり、そのレビュー記事では、ゲームの評価ポイントとしてグラフィックの美しさやスムーズな操作性が高く評価されています。また、レビューの内容概要としては、ゲームのストーリーが豊かで、プレイヤーが自由に冒険できる広大な世界が特徴的であると述べられています。対象読者としては、オンラインゲームを好む人やアクションゲームファン向けのコンテンツです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/mmo/guild-wars-2-review-2012/",
+        "date": "2026-06-06",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-06T13:57:14.491372"
+  "last_updated": "2026-06-06T22:02:58.468652"
 }
