@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Devil May Cry: Devil Trigger Reloaded Collection 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Devil May Cry: Devil Trigger Reloaded Collection 2026というバンドルが販売中です。このバンドルには、主要タイトルとしてDevil May Cry 5、Devil May Cry 4、Devil May Cry 3などのアクションゲームが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/devilmaycrydeviltriggerreloadedcollection2026_bundle",
-        "date": "2026-05-27"
-      },
-      {
         "title": "Monster Hunter: Spring Hunting Collection 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,18 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Outer Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Outer Wildsは、宇宙を探索するアドベンチャーゲームです。このゲームは、タイムループを繰り返し、宇宙の秘密を解き明かしていくというユニークな特徴があります。現在、53%の割引で販売中で、非常に魅力的な価格になっています。Outer Wildsは、プレイヤーからの評価が非常に高く、多くの人がこのゲームを楽しんでいます。",
-        "price": "$11.84",
-        "originalPrice": "",
-        "discount": "-53%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
-        "date": "2026-05-30"
-      },
       {
         "title": "IQ Under Construction",
         "platform": "Various",
@@ -568,165 +544,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cuphead/info/",
         "date": "2026-06-05"
+      },
+      {
+        "title": "Songs of Conquest",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ストラテジー系のゲームであるSongs of Conquestが、現在100%オフのセール中です。このゲームは、プレイヤーがさまざまなヒーローを集め、戦略的に戦うことが特徴です。通常価格より大幅に割引された価格で購入することができ、ストラテジー系のゲームを好む人にはおすすめです。評価も高く、人気度も高いので、ぜひこの機会に購入してみてください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/songs-of-conquest/info/",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "RESIDENT EVIL 2 (2019)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "RESIDENT EVIL 2は、2019年に発売されたサバイバルホラーのゲームです。このゲームは、恐怖感と緊張感を味わえることが特徴です。現在、Variousで83%の割引が行われており、非常に魅力的な価格で購入できます。多くのユーザーから高い評価を受けており、人気度も高いゲームです。",
+        "price": "$6.87",
+        "originalPrice": "",
+        "discount": "-83%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-2-2019/info/",
+        "date": "2026-06-06"
       }
     ],
     "review": [
-      {
-        "title": "【空飛ぶ車で戦うオシャレ架空1930年代RPG『Aether & Iron（エーテル アンド ア...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このゲームは、架空の1930年代を舞台に空飛ぶ車で戦うオシャレなRPGです。ゲームの評価ポイントとしては、ユニークな世界観やキャラクターのデザイン、そして空飛ぶ車を操作する爽快なアクションが際立っています。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの質の高さや、ストーリーの面白さが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/eather-and-iron-20260601-446249/",
-        "date": "2026-06-01",
-        "is_translated": false
-      },
-      {
-        "title": "【「Call of Duty: Modern Warfare 4」秘蔵版の特典トレーラーが公開、...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Call of Duty: Modern Warfare 4」秘蔵版の特典トレーラーが公開されました。このゲームの評価ポイントとしては、グラフィックの高さやスムーズなゲームプレイが挙げられます。レビューの内容概要としては、新しいストーリーモードやマルチプレイヤーモードの追加が評価されています。また、グラフィックの向上やサウンドデザインの素晴らしさも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167230.html",
-        "date": "2026-06-01",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam 週間のレビュー: 先週 Steam で 4 つのバックルーム ゲームがリリースされ...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Steam 週間のレビュー記事では、先週リリースされた4つのバックルームゲームについて評価しています。評価ポイントとしては、ゲームのグラフィックやサウンドの質、そしてゲームプレイの面白さが取り上げられています。記事では、これらのポイントについて詳細に説明し、各ゲームのレビュー内容をまとめています。特に、ゲームファンや新作ゲームに興味がある読者には、参考になる情報が盛り沢山です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-4-backrooms-games-released-on-steam-last-week-joining-a-list-of-over-500-cash-ins-parodies-and-legitimate-contenders/",
-        "date": "2026-06-01",
-        "is_translated": true
-      },
-      {
-        "title": "【基本プレイ無料戦車シューター『World of Tanks: HEAT』は、チーム制ながら個人...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "World of Tanks: HEATは、基本プレイ無料の戦車シューターであり、チーム制ながら個人プレイヤーのスキルも重要視されるゲームです。このゲームの評価ポイントとしては、戦略的なチームプレイと個人の操作スキルの両方が注目される点があります。レビューの内容概要としては、グラフィックの質やゲームモードの多様性、そしてオンライン対戦の快適性が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/columnjp/woth-20260601-446421/",
-        "date": "2026-06-01",
-        "is_translated": false
-      },
-      {
-        "title": "【精神崩壊デッキ構築ローグライク『カオスゼロナイトメア』は、“ビルドは深く、プレイは短く”を頑張...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "カオスゼロナイトメアは、精神崩壊デッキ構築ローグライクゲームのレビュー記事です。このゲームは「ビルドは深く、プレイは短く」という特徴を持ち、デッキの構築の自由度が高く、プレイヤーは戦略的にカードを組み合わせることができます。レビューでは、ゲームの評価ポイントとして、カードのバリエーションや難易度の調整が適切であることを挙げています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/chaos-zero-nightmare-20260601-446296/",
-        "date": "2026-06-01",
-        "is_translated": false
-      },
-      {
-        "title": "【プレイヤーのワークライフバランス改善を支援するデスクトップ常駐系農場ライフシム「Focus G...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Focus Gは、プレイヤーのワークライフバランスを改善することを目的としたデスクトップ常駐系農場ライフシムです。このゲームの評価ポイントとしては、ストレス軽減効果が高く、プレイヤーがリラックスできる雰囲気を提供していることが挙げられます。また、シンプルながらも魅力的なゲーム性や、ユーザーインターフェースの使いやすさも評価ポイントです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167234.html",
-        "date": "2026-06-01",
-        "is_translated": false
-      },
-      {
-        "title": "【「スイッチ2」にどれくらい“満足”した？ 抑えめの価格に入手難、独占ソフトや値上げなど、波乱に...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、Nintendo Switch 2の満足度について評価しています。価格や入手難、独占ソフトのラインナップ、値上げについて論じています。ゲームファンや新しいハードウェアに興味がある方は、こちらの記事が参考になるでしょう。記事では、Switch 2の魅力や問題点について具体的に述べています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/01/182252.html",
-        "date": "2026-06-01",
-        "is_translated": false
-      },
-      {
-        "title": "【エクスカリバーは折れた、でもアーサー王は折れない！ハクスラ×ローグライト『Knight vs ...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、ハクスラとローグライトのコラボレーション作品「Knight vs ...」を評価しています。ゲームの評価ポイントとして、ユニークなゲームシステムとキャラクターの魅力が挙げられます。記事では、ゲームのレビューの内容概要として、戦略的なバトルシステムとキャラクターの成長要素が紹介されています。対象読者は、このゲームに興味がある人や、ハクスラとローグライトのファンである人です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/01/182247.html",
-        "date": "2026-06-01",
-        "is_translated": false
-      },
-      {
-        "title": "【Nvidia が、DLSS、レイ トレーシング、フレーム生成、その他好みの RTX 機能をサポ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、Nvidia の DLSS、レイ トレーシング、フレーム生成、その他の RTX 機能をサポートするゲームに対する評価ポイントを紹介しています。主な評価ポイントとして、グラフィックの品質とパフォーマンスの向上、そしてこれらの機能を活用したゲームプレイの体験が含まれます。また、レビューでは、これらの機能がゲームの全体的な楽しみ方にどのような影響を与えるかも検討しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/nvidia-unveil-their-first-all-in-one-laptop-processor-with-support-for-dlss-ray-tracing-frame-gen-and-all-those-other-rtx-features-you-love-and-hate",
-        "date": "2026-06-01",
-        "is_translated": true
-      },
-      {
-        "title": "【『メイティング・シーズン』レビュー：ニック・クロールのNetflixの新番組は『ビッグマウス』...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ニック・クロールのNetflix新番組「メイティング・シーズン」のレビュー記事では、この番組は「ビッグマウス」と比較されており、ユーモアとストーリーのバランスが取れていることが評価ポイントの1つです。また、キャラクターの深みと演技の質も高く評価されています。このレビューは、コメディ作品のファンやニック・クロールの作品を楽しみにしている人にとって参考になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/mating-season-review-big-mouth/",
-        "date": "2026-06-01",
-        "is_translated": true
-      },
-      {
-        "title": "【Cyber​​punk 2077: Turf Wars レビュー - 衝撃的なジャンルの反転】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "サイバーパンク2077の新しい拡張パック「Turf Wars」は、衝撃的なジャンルの反転をもたらします。このレビュー記事では、ゲームの評価ポイントとしてストーリーの深み、キャラクターの魅力、ゲームプレイのスムーズさを取り上げています。また、ゲームの評価としては、ジャンルを超えた新しい試みが成功している点や、ゲームの世界観がさらに豊かになった点が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/cyberpunk-2077-turf-wars-arcade-cabinet/",
-        "date": "2026-06-01",
-        "is_translated": true
-      },
-      {
-        "title": "【Cataclysm Arcade 限定 TCG プレビューで 3 枚の新しいエンドリング カー...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Cataclysm Arcade 限定 TCG プレビューのレビュー記事では、3 枚の新しいエンドリング カーが紹介されています。この記事は、ゲームファンやトレーディングカードゲームの愛好家にとって、ゲームの新しい要素や機能についての貴重な情報を提供します。記事では、新しいエンドリング カーについての詳細な説明や、ゲームのプレイ性についての評価ポイントも触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/cataclysm-arcade-endlings-exclusive-card-reveal-kickstarter/",
-        "date": "2026-06-01",
-        "is_translated": true
-      },
       {
         "title": "【キャラガチャなし基本プレイ無料『デュエットナイトアビス』新大型アプデは“濃さ”の暴力。スチーム...】",
         "platform": "AUTOMATON",
@@ -793,19 +637,6 @@
         "is_translated": false
       },
       {
-        "title": "【“Dread Delusion”を手掛けたLovely Hellplaceの新作ターンベースR...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Lovely Hellplaceの新作ターンベースRPGについてのレビュー記事です。このゲームは「Dread Delusion」の開発チームによって制作されており、独自の世界観とゲームプレイが特徴です。レビューのポイントとしては、ゲームのグラフィックやサウンドトラック、ストーリーの深みなどが評価されています。また、ゲームの難易度やプレイ時間も考慮され、ファン向けの要素も盛り込まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167324.html",
-        "date": "2026-06-01",
-        "is_translated": false
-      },
-      {
         "title": "【AMD Radeon RX 9070 GRE レビュー (Acer Nitro)】",
         "platform": "PC Gamer",
         "type": "review",
@@ -816,19 +647,6 @@
         "deadline": "",
         "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-radeon-rx-9070-gre-review-acer-nitro/",
         "date": "2026-06-02",
-        "is_translated": true
-      },
-      {
-        "title": "【Nvidia が、DLSS、レイ トレーシング、フレーム生成、その他の好みの RTX 機能をサ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、Nvidia の技術である DLSS、レイ トレーシング、フレーム生成などの RTX 機能を取り上げています。記事では、これらの機能の性能と利点について評価しています。また、グラフィックカードの性能にも焦点を当て、ゲームの動作やグラフィックの品質についても触れています。主にゲーマーやグラフィックカードに興味のある方が対象読者となります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/nvidia-unveil-their-first-all-in-one-laptop-processor-with-support-for-dlss-ray-tracing-frame-gen-and-all-those-other-rtx-features-you-love-and-hate",
-        "date": "2026-06-01",
         "is_translated": true
       },
       {
@@ -1350,8 +1168,34 @@
         "url": "https://www.polygon.com/control-resonant-hands-on-preview/",
         "date": "2026-06-05",
         "is_translated": true
+      },
+      {
+        "title": "【PvPvE脱出シューター『SAND: Raiders of Sophie』6月10日配信へ。移...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『SAND: Raiders of Sophie』は、6月10日に配信されるPvPvE脱出シューターであり、プレイヤーは協力して脱出を目指すという面白いゲームです。このゲームの評価ポイントとしては、プレイヤー同士の協力と戦略の重要性や、ゲームの難易度のバランスが挙げられます。レビューの内容概要としては、ゲームのシステムやグラフィックの評価。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/sand-raiders-of-sophie-20260606-447785/",
+        "date": "2026-06-06",
+        "is_translated": false
+      },
+      {
+        "title": "【『Among Us』テレビ番組レビュー: この改作を阻止するために誰かが緊急会議を招集する必要...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "『Among Us』のテレビ番組レビューの記事では、この人気ゲームのテレビ化について評価しています。この番組の評価ポイントとして、ゲームの本来の魅力が失われていることが挙げられます。また、レビューでは、番組のストーリーが予想通りであり、ゲームの奥深さが伝わっておらず、またキャラクターの個性が弱い点などが指摘されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/among-us-tv-series-review-paramount/",
+        "date": "2026-06-05",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-05T22:15:05.667540"
+  "last_updated": "2026-06-06T02:58:09.748480"
 }
