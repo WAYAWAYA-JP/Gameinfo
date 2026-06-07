@@ -1140,8 +1140,86 @@
         "url": "https://www.polygon.com/another-world-review-hong-kong-anime/",
         "date": "2026-06-07",
         "is_translated": true
+      },
+      {
+        "title": "【3人プレイ専用“戦車ホラー”『Carcass Clad』発表。三人一組の操作で奇妙な町を脱出す...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Carcass Clad』は、3人プレイ専用の戦車ホラーゲームで、三人一組の操作で奇妙な町を脱出するというユニークなゲームです。このゲームの評価ポイントとしては、協力プレイが重要な要素となっていることや、ホラー要素の濃厚さが挙げられます。レビューの内容概要としては、ゲームのストーリーやグラフィックの評価、操作性の感想などが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/carcass-clad-20260608-448247/",
+        "date": "2026-06-07",
+        "is_translated": false
+      },
+      {
+        "title": "【モンスター収集オープンワールドRPG『Cassette Beasts 2002』正式発表。モン...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "モンスター収集オープンワールドRPG『Cassette Beasts 2002』のレビュー記事では、ゲームの評価ポイントとして、ユニークなモンスター収集システムや広大なオープンワールドの冒険が紹介されています。また、ゲームのグラフィックやサウンドトラックも高く評価されています。対象読者は、モンスター収集ゲームやオープンワールドRPGのファンであれば。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/cassette-beasts-2002-20260608-448226/",
+        "date": "2026-06-07",
+        "is_translated": false
+      },
+      {
+        "title": "【サンドボックスオープンワールドRPG続編「Outward 2」のオープンベータテストが開幕、実...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Outward 2」のオープンベータテストが開始されました。このゲームはサンドボックスオープンワールドRPGの続編となっており、プレイヤーは自由に世界を探索し、クエストや戦闘に挑むことができます。このレビューでは、ゲームのグラフィックやサウンド、ゲームプレイの深さなどを評価しています。また、ゲームの難易度や操作性についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167677.html",
+        "date": "2026-06-07",
+        "is_translated": false
+      },
+      {
+        "title": "【独創的なミステリー釣りゲーム「About Fishing」のデモがリリース、新トレーラーも：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、独創的なミステリー釣りゲーム「About Fishing」のデモを紹介しています。ゲームの評価ポイントとして、ユニークな釣りシステムやストーリーの深みが挙げられます。レビューでは、デモ版のプレイ感覚や、新トレーラーでのゲームの世界観が紹介されています。対象読者は、ミステリーゲームや釣りゲームのファンである方に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167671.html",
+        "date": "2026-06-07",
+        "is_translated": false
+      },
+      {
+        "title": "【人気動物園運営シムのナンバリング続編「Planet Zoo 2」のゲームプレイトレーラーが公開...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気動物園運営シムのナンバリング続編「Planet Zoo 2」のゲームプレイトレーラーが公開されました。このレビュー記事では、グラフィックの向上や新しい動物の追加、ゲームシステムの改善などが評価ポイントとなります。また、新しいゲームモードやキャラクターのカスタマイズも紹介されています。動物園運営シムファンや新規参入者にとって興味深い内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167665.html",
+        "date": "2026-06-07",
+        "is_translated": false
+      },
+      {
+        "title": "【ドラキュラ城を人間たちから守るタワーディフェンス系ローグライト「ReVamp」のプレイテストが...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「ReVamp」のレビュー記事では、タワーディフェンス系ローグライトゲームのプレイテストが紹介されています。このゲームはドラキュラ城を人間たちから守るという設定で、ローグライト要素とタワーディフェンスの組み合わせが特徴的です。評価ポイントとしては、ゲームの難易度バランス、グラフィックのクオリティ、ローグライト要素の深みなどが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167662.html",
+        "date": "2026-06-07",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-07T14:07:35.168505"
+  "last_updated": "2026-06-07T22:04:06.438430"
 }
