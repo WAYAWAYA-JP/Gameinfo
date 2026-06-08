@@ -230,6 +230,42 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/hentai-pair2-bundle",
         "date": "2026-06-08"
+      },
+      {
+        "title": "2K Sports Champions Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、2K Sports Champions Bundleのバンドルが販売中です。このバンドルには、人気スポーツゲームのNBA 2KシリーズやWWE 2Kシリーズ、NFL 2Kシリーズなどの主要タイトルが含まれています。ジャンルはスポーツゲームであり、大まかな価格帯は1,000円から2,000円程度です。スポーツゲームファンにはおすすめのバンドルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/2ksportschampionsbundle_bundle",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Critical Hits: ARPG Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Critical Hits: ARPG Bundleが販売中です。このバンドルには、主要タイトルとして「Torchlight III」、「Victor Vran」、「Grim Dawn」などが含まれており、Action RPGファンに人気の高い作品が多数収録されています。ジャンルはアクションRPGで、大まかな価格帯は約5000円から変動します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/criticalhitsarpgbundle_gamebundle",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Awesome Automation",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Awesome Automationというバンドルが現在販売中です。このバンドルには、Automation Empire、Factory Town、Planet Coasterなどのタイトルが含まれています。シミュレーションジャンルのゲームが中心となり、約2500円から購入することができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/awesomeautomation_bundle",
+        "date": "2026-06-08"
       }
     ],
     "sale": [
@@ -567,6 +603,66 @@
         "discount": "50% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Sea of Stars: Sunset Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Sea of Stars: Sunset EditionがSteamで50% OFFのセール中です。このゲームは、RPGとアドベンチャーの要素を組み合わせた、美しいグラフィックと魅力的なストーリーが特徴です。現在の価格は割引前のおよそ半額になっており、非常に魅力的なお買い得です。Sea of Starsは、ユーザーからの評価も非常に高く、多くのプレイヤーから人気を博していますので。",
+        "price": "¥2,000",
+        "originalPrice": "¥4,000",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/431745",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Returnal™",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Returnal™は、アクションパズルゲームとして知られており、スリル満点の体験を提供します。現在、Steamで67%の割引が行われており、大幅な価格割引です。Returnal™は、ユーザーから非常に高い評価を受けており、人気ゲームとして支持されています。このチャンスを逃さずに、Returnal™をプレイしてみてください。",
+        "price": "¥2,504",
+        "originalPrice": "¥7,590",
+        "discount": "67% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1649240",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Gravity Circuit",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲームであるGravity Circuitが、現在Variousで100%割引されています。このゲームは、ユニークなグラフィックと難しいゲームプレイが特徴です。価格は無料になり、誰でも遊ぶことができます。評価は高く、人気も高まっており、多くのプレイヤーから好評価を得ています。セール期間中は、無料でダウンロードして遊ぶことができます。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/gravity-circuit/info/",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Relaxing Simulator",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Relaxing SimulatorがVariousで大幅なセール中です。このゲームは、リラックスすることを目的としたシミュレーションゲームで、100％の割引が適用されています。プレイヤーは、ストレスを解消するために様々なアクティビティに参加し、心を癒すことができます。非常に評価の高いゲームであり、多くのユーザーから人気を博しています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/relaxing-simulator/info/",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Resident Evil 4 (2023)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "人気アクションアドベンチャーゲームの「Resident Evil 4」が、現在79%オフのセール中です。このゲームは、グラフィックやサウンドデザインが大幅に改善されたリメイク作品で、サバイバルホラーの要素も充実しています。高い評価を受けており、ファンや新規プレイヤーから人気を博しています。",
+        "price": "$8.59",
+        "originalPrice": "",
+        "discount": "-79%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
         "date": "2026-06-08"
       }
     ],
@@ -1197,5 +1293,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-08T16:08:52.664400"
+  "last_updated": "2026-06-08T22:26:15.757968"
 }
