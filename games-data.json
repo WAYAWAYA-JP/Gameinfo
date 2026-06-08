@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Hentai Pair Bundle 2",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Hentai Pair Bundle 2のバンドルがIndieGalaで販売中です。このバンドルには、HentaiVerse、Bad Medicine -Infectious Teachers-、Starlessの3つの主要タイトルが含まれています。ジャンルはアダルトゲームで、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/hentai-pair2-bundle",
-        "date": "2026-05-29"
-      },
-      {
-        "title": "Humble 12 for $10 Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Humble 12 for $10 Bundleというバンドルが現在販売されています。このバンドルには、さまざまなゲームが含まれていますが、主要タイトルとしては、\"The Swapper\"や\"Guacamelee! Super Turbo Championship Edition\"、\"The Stanley Parable\"などがあります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/12for10_bundle",
-        "date": "2026-05-29"
-      },
-      {
         "title": "Perplexing Puzzles",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,42 +209,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Dead Cells",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションパックされたローグライクゲームであるDead Cellsが、現在51％割引で販売中です。このゲームは、ランダムに生成されるダンジョンと、多様な武器やスキルシステムを備えており、プレイヤーに高い再生価値を提供します。Steamでの評価は「非常に好評」で、プレイヤーから高い人気を集めています。価格は割引前と比べて大幅に下がり、非常に魅力的なオファーになっています。",
-        "price": "$12.37",
-        "originalPrice": "",
-        "discount": "-51%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dead-cells/info/",
-        "date": "2026-06-01"
-      },
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストがSteamで50%の割引セール中です。このゲームは、オープンワールドアクションアドベンチャーのジャンルに属し、豊富なゲームプレイと高度なグラフィックが特徴です。セール期間中は通常価格の半額で購入できます。グランド・セフト・オートシリーズは非常に人気があり、高い評価を獲得していますので、セールを逃さないようにしましょう。",
-        "price": "¥2,190",
-        "originalPrice": "¥4,380",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-06-01"
-      },
-      {
-        "title": "Gravity Circuit",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲームであるGravity Circuitが、Variousというプラットフォームで現在-100%のセール中です。このゲームは、高速なアクションと複雑なステージ構成が特徴で、プレイヤーは様々な障害を克服しながら進んでいく必要があります。通常価格よりも大幅に安くなっているので、興味がある方は今すぐチェックしてみてください。ゲームの評価は高く、ユーザーから高い人気度を得ています。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/gravity-circuit/info/",
-        "date": "2026-06-01"
-      },
       {
         "title": "No Man's Sky",
         "platform": "Various",
@@ -595,97 +535,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料「街」オープンワールド『NTE』新キャラ「レクイエム」はふわふわ無気力コピー能力...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "この記事は、オープンワールドゲーム「NTE」の新キャラクター「レクイエム」のレビューです。このキャラクターの特徴は、ふわふわ無気力コピー能力を持っています。ゲームの評価ポイントとしては、キャラクターの能力やゲームの自由度が高く、プレイヤーが自分のスタイルで遊ぶことができる点が評価されます。また、グラフィックやサウンドの質も高く、臨場感があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260603-446823/",
-        "date": "2026-06-03",
-        "is_translated": false
-      },
-      {
-        "title": "【大型サバイバルMMO『Dune: Awakening』に「シングルプレイ用モード」実装へ。“P...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "大型サバイバルMMOの『Dune: Awakening』にシングルプレイ用モードが実装されることが発表されました。『Dune: Awakening』は、原作小説を基にした壮大な世界観と、キャラクターの育成やアイテムの作成などが楽しめるゲームです。レビューの内容概要として、グラフィックの美しさ、プレイヤーの自由度、ストーリーの深みが評価ポイントとなっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260603-446824/",
-        "date": "2026-06-03",
-        "is_translated": false
-      },
-      {
-        "title": "【Yacht Clubの新たな傑作アクションアドベンチャー「Mina the Hollower」...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Yacht Clubの新たな傑作アクションアドベンチャーゲーム「Mina the Hollower」のレビュー記事では、ゲームの評価ポイントとして、ダイナミックなアクション、魅力的なキャラクター、そして豊富なストーリーが挙げられています。このレビューは、アクションアドベンチャーゲームのファンや、Yacht Clubの作品を楽しみにしている方々にとって、参考になる情報を提供しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167314.html",
-        "date": "2026-06-03",
-        "is_translated": false
-      },
-      {
-        "title": "【新チャンピオン“セナ”のゲームプレイを紹介する「2XKO」の新トレーラーが公開、解禁は6月10日】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "新チャンピオン“セナ”のゲームプレイを紹介する「2XKO」の新トレーラーが公開されました。このトレーラーでは、セナの戦闘スタイルや能力が詳細に紹介されています。セナのゲームプレイは、スピードとパワーを兼ね備えたもので、プレイヤーはさまざまな戦略を駆使して戦うことができます。トレーラーでは、セナのストーリーも紹介されており、セナの背景や動機が明らかになります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167411.html",
-        "date": "2026-06-03",
-        "is_translated": false
-      },
-      {
-        "title": "【多数の新コンテンツを導入する「Marathon」のシーズン2が開幕、期間限定の無料プレイもスタート】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、多数の新コンテンツを導入する「Marathon」のシーズン2が開幕し、期間限定の無料プレイもスタートしたことを取り上げています。ゲームの新しいコンテンツや期間限定の無料プレイについて評価しています。対象読者は、ゲームファンや「Marathon」のシリーズを楽しみにしてきた人たちです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06166679.html",
-        "date": "2026-06-03",
-        "is_translated": false
-      },
-      {
-        "title": "【コスプレ】台湾で出会った“忘れられない”コスプレイヤー・小楠。「ガンダム ジークアクス」マチュへの本気が詰まった撮り下ろし【写真11枚】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事は、台湾で出会ったコスプレイヤー・小楠の「ガンダム ジークアクス」マチュのコスプレを紹介しています。記事では、小楠の本気のコスプレが詰まった11枚の写真が撮り下ろされています。コスプレの質や小楠のパフォーマンス、写真のクオリティなどが評価ポイントとなっています。コスプレファンやガンダムシリーズの愛好者にとって、見逃せない記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/03/182370.html",
-        "date": "2026-06-03",
-        "is_translated": false
-      },
-      {
-        "title": "【Nintendo Switch 2版「LEGO Batman: Legacy of the D...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、Nintendo Switch 2版「LEGO Batman: Legacy of the Dark Knight」の魅力を紹介しています。評価ポイントとしては、ユーモア溢れるストーリー、カラフルで可愛らしいグラフィック、簡単で楽しいゲームプレイが挙げられます。レビューの内容概要としては、ゲームのストーリーが面白く、キャラクターの声優が素晴らしいこと、また。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167319.html",
-        "date": "2026-06-03",
-        "is_translated": false
-      },
       {
         "title": "【癒し系悪夢カフェ経営ゲーム『My Little Cafe Nightmare』“好評率97%”...：レビュー】",
         "platform": "AUTOMATON",
@@ -1218,8 +1067,34 @@
         "url": "https://doope.jp/2026/06167662.html",
         "date": "2026-06-07",
         "is_translated": false
+      },
+      {
+        "title": "【Update：「Call of Duty: Modern Warfare 4」の“DMZ”モー...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、人気FPSゲーム「Call of Duty: Modern Warfare 4」の「DMZ」モードについて取り上げています。評価ポイントとして、モードの新鮮さ、ゲームプレイのスリル、グラフィックの質が高く評価されています。レビューの内容概要としては、モードの独自性、チームワークの重要性、難易度の適切さが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167591.html",
+        "date": "2026-06-08",
+        "is_translated": false
+      },
+      {
+        "title": "【「Blasphemous 2」の無料コンテンツアップデート“The Third Sin”がリリ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Blasphemous 2」の無料コンテンツアップデート「The Third Sin」のレビュー記事があります。この記事では、「The Third Sin」がもたらす新しい要素やゲームプレイの変化点などを評価しています。記事の内容としては、新しいステージやボスの追加、難易度の調整などが取り上げられています。さらに、ゲームのグラフィックやサウンドトラックの質も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167692.html",
+        "date": "2026-06-08",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-07T22:04:06.438430"
+  "last_updated": "2026-06-08T03:53:12.168229"
 }
