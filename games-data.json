@@ -206,6 +206,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/devilmaycrydeviltriggerreloadedcollection2026_bundle",
         "date": "2026-06-06"
+      },
+      {
+        "title": "Humble 12 for $10 Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble 12 for $10 Bundleのバンドルが販売中です。このバンドルには、主要タイトルとしてQuantum Conundrum、Guns of Icarus Online、Starboundなどが含まれています。ジャンルはアクションやアドベンチャーに分類され、大まかな価格帯は10ドル以下です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/12for10_bundle",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Hentai Pair Bundle 2",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Hentai Pair Bundle 2というバンドルがIndieGalaで販売中です。このバンドルには、Hentaiの代表的なタイトルである「Hentai Girl」「Hentai Boy」などが含まれています。ジャンルはアダルトゲームに分類され、価格帯は約1000円から2000円程度です。興味のある方は、IndieGalaのサイトをチェックしてみてください。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/hentai-pair2-bundle",
+        "date": "2026-06-08"
       }
     ],
     "sale": [
@@ -532,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/gothic-1-remake/info/",
         "date": "2026-06-07"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストがSteamで50% OFFセール中です。このゲームは、オープンワールドアクションアドベンチャーのジャンルに属し、豊富なミッションや自由度の高いゲームプレイが特徴です。通常価格から50%割引されるこのセールは、格安の価格でプレイする好機です。グランド・セフト・オートシリーズは非常に人気があり、高い評価を得ているため、多くのゲームファンに愛されています。",
+        "price": "¥2,190",
+        "originalPrice": "¥4,380",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-06-08"
       }
     ],
     "review": [
@@ -1093,8 +1129,47 @@
         "url": "https://doope.jp/2026/06167692.html",
         "date": "2026-06-08",
         "is_translated": false
+      },
+      {
+        "title": "【注目の塔登りバトロワ『Arkheron（アーケロン）』のサクッと遊べる新モード「スパイアーズ」...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "アクションゲーム『Arkheron（アーケロン）』の新モード「スパイアーズ」について紹介するレビュー記事です。この記事では、新モードの特徴や遊び方、またゲーム全体の評価ポイントとしてグラフィックや操作性について触れています。tower登りバトルが好きな方やアクションゲームを楽しみたい方には、参考になる情報が得られるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260608-448342/",
+        "date": "2026-06-08",
+        "is_translated": false
+      },
+      {
+        "title": "【スーパーマンとの冒険 シーズン 3 レビュー: SF とスーパーヒーロー アクションのほぼ完璧な融合】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "スーパーマンとの冒険シーズン3のレビュー記事では、SFとスーパーヒーローアクションがほぼ完璧に融合していることが評価ポイントの1つです。また、レビューではストーリーの魅力やキャラクターの深みも高く評価されています。スーパーマンファンやスーパーヒーローアクションが好きな読者にとって、このレビュー記事は必読の内容です。レビュー全体のトーンは、シーズン3の出来栄えを高く評価していることがわかります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/my-adventures-with-superman-season-3-review/",
+        "date": "2026-06-08",
+        "is_translated": true
+      },
+      {
+        "title": "【『ロスト ワイルド』プレビュー: 骨も凍るホラー ゲームでジュラシック パークとエイリアン ア...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "『ロスト ワイルド』は、ジュラシック パークとエイリアンのような恐怖感を体験できるホラー ゲームです。このゲームの評価ポイントとしては、リアルなグラフィックや迫力のあるサウンド設計が挙げられます。レビューの内容概要としては、ゲームの恐怖要素やストーリーの面白さ、そして操作性の評価があります。このレビュー記事は、ホラー ゲームやアドベンチャー ゲームが好きな人に特にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/lost-wild-preview/",
+        "date": "2026-06-08",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-08T03:53:12.168229"
+  "last_updated": "2026-06-08T13:06:12.174993"
 }
