@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Perplexing Puzzles",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、パズルゲームファン向けの「Perplexing Puzzles」というバンドルが販売中です。このバンドルには、代表的なタイトルとして「The Talos Principle」や「The Swapper」、「The Witness」などが含まれています。パズルジャンルのゲームが中心となっており、価格帯は大体1000円から2000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/perplexingpuzzles_bundle",
-        "date": "2026-05-30"
-      },
-      {
         "title": "Double Shift: Simulation Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -269,42 +257,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "No Man's Skyは、オープンワールドのサンドボックスゲームです。このゲームは、宇宙を自由に探索し、惑星に降り立って資源を集め、さまざまな生物と遭遇することができます。現在、Variousで68%割引されています。プレイヤーから高い評価を得ているこのゲームは、壮大な宇宙の冒険を體験できることで人気を博しています。",
-        "price": "$18.95",
-        "originalPrice": "",
-        "discount": "-68%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-06-02"
-      },
-      {
-        "title": "ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅がSteamで大幅な75%オフのセール中です。このゲームは、ドラゴンクエストシリーズのスピンオフ作品であり、モンスターコレクションと育成が楽しめるRPGです。セール期間中は、通常価格より大幅に安く購入することができます。ドラゴンクエストシリーズのファンにはもちろん、RPGやモンスターコレクションゲームが好きな人にもおすすめです。",
-        "price": "¥1,245",
-        "originalPrice": "¥4,980",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2175540",
-        "date": "2026-06-02"
-      },
-      {
-        "title": "ドラゴンクエストIII　そして伝説へ…",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ドラゴンクエストIII そして伝説へ…がSteamで50% OFFセール中です。このゲームは人気のロールプレイングゲームで、伝説的なストーリーやキャラクターが特徴です。通常価格より半額の割引で購入することができます。ドラゴンクエストシリーズのファンやロールプレイングゲームを楽しむ人にはおすすめです。",
-        "price": "¥3,839",
-        "originalPrice": "¥7,678",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2701660",
-        "date": "2026-06-02"
-      },
       {
         "title": "Cairn",
         "platform": "Various",
@@ -667,149 +619,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【癒し系悪夢カフェ経営ゲーム『My Little Cafe Nightmare』“好評率97%”...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『My Little Cafe Nightmare』は、癒し系悪夢カフェを経営するゲームで、好評率は97%と非常に高い評価を受けています。レビューでは、ユニークな設定や魅力的なキャラクター、そしてリラックスできるゲーム性が高く評価されています。さらに、ゲームのグラフィックやサウンドトラックも素晴らしいとされています。このゲームは、リラックスしたい方や、ユニークなゲームを探している方にピッタリです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260604-447060/",
-        "date": "2026-06-04",
-        "is_translated": false
-      },
-      {
-        "title": "【6月のプライド月間を支援するPCとXbox版「Tell Me Why」の無料配布が今年も実施、...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "PCとXbox版のゲーム「Tell Me Why」は、プレイヤーの選択がストーリーに影響を与える、アドベンチャーゲームです。このゲームは、プライド月間を支援するために、今年も無料配布が実施されました。 REVIEWの記事では、このゲームの評価ポイントとして、ストーリーの深み、キャラクターの魅力、グラフィックの美しさが挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167431.html",
-        "date": "2026-06-04",
-        "is_translated": false
-      },
-      {
-        "title": "【「ぶいすぽっ！」の「小雀とと」らVTuber3名が、新作『リミットゼロ ブレイカーズ』プレイ生...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、VTuberの「小雀とと」ら3名が新作ゲーム『リミットゼロ ブレイカーズ』をプレイした様子を紹介しています。評価ポイントとしては、ゲームの操作性やグラフィックの質が高く、快適にプレイできることが挙げられます。また、レビューではゲームのストーリーやキャラクターの魅力も高く評価されています。この記事は、VTuberファンや新作ゲームに興味がある方にぜひ読んでみてください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/04/182393.html",
-        "date": "2026-06-04",
-        "is_translated": false
-      },
-      {
-        "title": "【「コードギアス 復活のルルーシュ」20周年記念「ゼロ」フィギュアが再登場！マスクとギアス目でプ...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "コードギアス 復活のルルーシュの20周年記念イベントで、ゼロのフィギュアが再登場しました。このフィギュアはマスクやギアス目が特徴です。コードギアスシリーズのファンにとっては、見逃せないアイテムです。このレビュー記事では、フィギュアの詳細や購入の可否について評価しています。対象読者は、コードギアスシリーズのファンやフィギュア収集家です。記事では、フィギュアのデザインや価格帯についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/04/182392.html",
-        "date": "2026-06-04",
-        "is_translated": false
-      },
-      {
-        "title": "【Nintendo Classics版『ドンキーコング64』では、“処理落ち前提”だったシーンに...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、Nintendo Classics版『ドンキーコング64』について扱っており、ゲームの評価ポイントとしてグラフィックやサウンドの改善、そしてゲームプレイのスムーズ性が高まっている点が挙げられています。また、レビューでは処理落ちが少なくなったことや、新しい機能の追加なども評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260604-447205/",
-        "date": "2026-06-04",
-        "is_translated": false
-      },
-      {
-        "title": "【『ファイナルファンタジーXIV』の“ソロ攻略困難ボス”を、「ソロで2人プレイ」で倒した猛者現る...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ファイナルファンタジーXIV』の難しいボスを1人で2人のキャラクターを操作して倒したプレイヤーについて紹介する記事です。ソロプレイの難易度やテクニック、ゲームの魅力について触れています。ゲーム好きの読者や『ファイナルファンタジーXIV』のファンには興味深い記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260604-447132/",
-        "date": "2026-06-04",
-        "is_translated": false
-      },
-      {
-        "title": "【『Forza Horizon 6』の「渋谷スクランブル交差点」に突如プレイヤー大集結、“ドリフ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Forza Horizon 6の最新記事は、プレイヤーが突然集まってドリフト走行を行った渋谷スクランブル交差点の様子を紹介しています。記事では、プレイヤーの集団ドリフトの映像や、ゲーム内の渋谷スクランブル交差点の再現度について触れています。また、プレイヤー同士のコミュニケーションやチームワークも紹介されており、ゲームの社交的な側面も評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260604-447104/",
-        "date": "2026-06-04",
-        "is_translated": false
-      },
-      {
-        "title": "【“仲間の死”も“後悔”も受け入れて進め─見えない正解を探し続けるサバイバルシム『ASHWALK...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、サバイバルシム『ASHWALKERS』の魅力を紹介しています。ゲームの評価ポイントとして、プレイヤーが「仲間の死」や「後悔」を受け入れて進めなければならない点が挙げられます。また、見えない正解を探し続けることがゲームの醍醐味であることも特筆されています。レビューの内容概要としては、ゲームの難易度やストーリーの深みが強調されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/04/182427.html",
-        "date": "2026-06-04",
-        "is_translated": false
-      },
-      {
-        "title": "【『007 ファースト・ライト』続編は「MGM、そして理論上はアマゾン・ゲーム・スタジオ」が主導...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "「007 ファースト・ライト」の続編は、MGMとアマゾン・ゲーム・スタジオが主導する予定です。このゲームの評価ポイントとしては、ストーリーの展開、ゲームプレイのスムーズさ、グラフィックの質が挙げられます。レビューの内容概要としては、ゲームの世界観の広さ、キャラクターの深み、サウンドトラックの質が評価されています。このレビューは、007シリーズのファンやアクションゲームを好む人にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/007-first-light-sequels-will-be-helmed-by-mgm-and-theoretically-by-amazon-game-studios-as-the-corp-look-to-be-taking-more-direct-control-over-his-bondliness",
-        "date": "2026-06-04",
-        "is_translated": true
-      },
-      {
-        "title": "【「Mirthwood」にオンラインCo-opや船旅を導入する大型コンテンツアップデートがアナウ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Mirthwood」に大型コンテンツアップデートがアナウンスされました。このアップデートではオンラインCo-opや船旅などの新要素が導入され、ゲームの楽しみ方が一層豊かになります。レビューでは、このアップデートによってゲームの自由度と楽しみ方が増したことが高く評価されています。特に、オンラインCo-opによって友人との協力プレイが可能になり、ゲームの体験がより楽しくなったと評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167463.html",
-        "date": "2026-06-04",
-        "is_translated": false
-      },
-      {
-        "title": "【「META TAXI」超豪華メンバーがプレイ動画を連続投稿！タクシートークRPG『SOOPER...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "タクシードライバーが乗客から聞いた話をもとにクエストを解決していくタクシートークRPG『SOOPER...』のレビュー記事があります。このゲームは、プレイヤーの選択によって物語が変化することが特徴です。また、ゲームの評価ポイントとして、ユニークなゲームシステムや魅力的なキャラクターが挙げられます。特に、超豪華メンバーによるプレイ動画が連続投稿されるため。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/04/182431.html",
-        "date": "2026-06-04",
-        "is_translated": false
-      },
       {
         "title": "【基本プレイ無料「街」オープンワールド『NTE』グローバル売上が中国を追い抜く。特に“日本人気”...】",
         "platform": "AUTOMATON",
@@ -1290,8 +1099,47 @@
         "url": "https://www.polygon.com/resonance-plague-tale-legacy-hands-on-gameplay-footage/",
         "date": "2026-06-08",
         "is_translated": true
+      },
+      {
+        "title": "【ダークファンタジー吸血鬼RPGの公式アートブック「The Blood of Dawnwalke...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ダークファンタジーを題材にした吸血鬼RPGの公式アートブック「The Blood of Dawnwalker」のレビュー記事では、ゲームのグラフィックやキャラクター設計が高い評価を受けています。また、ストーリーの深みやゲームプレイの自由度も称賛されています。このレビューは、ダークファンタジーやRPGが好きな読者にとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167732.html",
+        "date": "2026-06-09",
+        "is_translated": false
+      },
+      {
+        "title": "【Yacht Clubが開発を手がけた新たな傑作アクション「Mina the Hollower」...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Yacht Clubが開発を手がけた新たな傑作アクションゲーム「Mina the Hollower」のレビュー記事では、ゲームの評価ポイントとして、スムーズな操作性、豊富なステージのバリエーション、そしてアクションとパズルの絶妙なバランスが高く評価されています。また、レビューの内容概要として、ゲームの難易度が適切に設定されており、初心者にもわかりやすいと言及されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167697.html",
+        "date": "2026-06-09",
+        "is_translated": false
+      },
+      {
+        "title": "【デリクト・スターのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "デリクト・スターのレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンド、ゲームプレイの面白さなどが挙げられます。レビューの内容概要としては、ゲームの独自性やオリジナリティ、そしてプレイヤーへの楽しさなどが具体的に述べられています。このレビュー記事は、ゲームファンや新しいゲームを探している人にとって、参考になる情報が得られるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/derelict-star-review/",
+        "date": "2026-06-08",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-08T22:26:15.757968"
+  "last_updated": "2026-06-09T02:57:24.297965"
 }
