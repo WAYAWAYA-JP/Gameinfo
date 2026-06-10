@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Double Shift: Simulation Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Double Shift: Simulation Bundleというバンドルが現在販売中です。このバンドルには、パラドックスインタラクティブ社の「Cities: Skylines」や「Transport Fever 2」、そして「Farming Simulator 22」などのシミュレーションゲームが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/doubleshift_simulation_bundle",
-        "date": "2026-05-31"
-      },
-      {
-        "title": "Warhammer Skulls 2026 Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Warhammer Skulls 2026 Bundleが現在販売中です。このバンドルには、Warhammer 40,000: Chaos Gate - Daemonhunters、Warhammer 40,000: Battlesector、Warhammer Age of Sigmar: Realms of Chaos - Soul Arenaなどの主要タイト…",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/warhammerskulls2026bundle_bundle",
-        "date": "2026-05-31"
-      },
-      {
         "title": "4X: Xplore, Xpand, Xploit, Xterminate",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -269,66 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Cairn",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「Cairn」が「Various」で38%オフのセール中です。このゲームは、美しいグラフィックとスリリングなアクションが特徴で、多くのユーザーから高い評価を受けています。現在の価格は割引により大幅に下がっており、興味のある方はこの機会にチェックしてみることをお勧めします。",
-        "price": "$18.60",
-        "originalPrice": "",
-        "discount": "-38%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cairn/info/",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Moonrise Fall",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Moonrise Fallがバラエティーで91%オフのセール中です。このゲームは、探索とパズルを楽しむことができるユニークな特徴を持っています。現在の価格は大幅に割引されており、非常に魅力的です。ユーザーの評価も高く、人気度も高いので、ゲームファンにはおすすめです。",
-        "price": "$0.89",
-        "originalPrice": "",
-        "discount": "-91%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/moonrise-fall/info/",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Tell Me Why: Chapter 1",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Tell Me Why: Chapter 1がバラエティー作品として現在100％割引で販売中です。この作品は、ストーリー重視のアドベンチャーゲームであり、プレイヤーは双子の兄弟姉妹の物語を追体験します。非常に高評価で人気の作品で、多くのプレイヤーから好評価を得ています。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/tell-me-why-chapter-1/info/",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Gang Beasts",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Gang BeastsがSteamで75% OFFセール中です。このゲームは、最大4人までのマルチプレイヤーが可能な格闘アクションゲームで、特徴的な柔らかいキャラクターのグラフィックが目を引く人気タイトルです。現在の割引価格では大変お得であり、これまでプレイしていなかったユーザーにもおすすめできます。Steamでの評価は「非常に好評」で、ユーザーからの支持が高いゲームです。",
-        "price": "¥575",
-        "originalPrice": "¥2,300",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/285900",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Winexy",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Winexyは、Variousで現在100%割引のセール中で、通常価格より大幅に安くなっています。アクションゲームやパズルゲームなど、バラエティ豊かなジャンルが特徴で、ユーザーから高い評価を得ています。人気度も高く、多くのプレイヤーから支持されています。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/winexy/info/",
-        "date": "2026-06-03"
-      },
       {
         "title": "Ready or Not",
         "platform": "Steam",
@@ -652,139 +568,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/sea-of-stars/info/",
         "date": "2026-06-09"
+      },
+      {
+        "title": "Lies of P",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Lies of PがSteamで50% OFFのセール中です。アクションアドベンチャーゲームのLies of Pは、ピノッキオをモチーフにした独特の世界観と、スムーズな操作が特徴です。現在、通常価格から大幅に値下げされており、ファン待望のチャンスです。ユーザーの評価は非常に高く、Steamでは「非常に好評」という評価を獲得しています。人気度も高く、多くのプレイヤーから支持されています。",
+        "price": "¥4,180",
+        "originalPrice": "¥8,360",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1627720",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Lords of the Fallen",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Lords of the Fallenは、ダークファンタジーを舞台にしたアクションRPGゲームで、現在Variousで70%割引のセール中です。このゲームは、ハードコアな戦闘システムと美しいグラフィックで知られており、ゲームファンから高い評価を得ています。価格も割引により大幅に下がっているので、興味を持っている方はこの機会にチェックしてみる価値があります。",
+        "price": "$8.90",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/lords-of-the-fallen/info/",
+        "date": "2026-06-10"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料「街」オープンワールド『NTE』グローバル売上が中国を追い抜く。特に“日本人気”...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、基本プレイ無料のオープンワールドゲーム「NTE」のグローバル売上について取り上げられています。特に日本での人気が高いことが注目され、中国を追い抜いた売上を記録していることが紹介されています。この記事は、ゲームの販売実績やユーザーの評価ポイントについて興味がある方に役立つコンテンツです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260605-447276/",
-        "date": "2026-06-05",
-        "is_translated": false
-      },
-      {
-        "title": "【タイタンクエスト特集第7回：「Titan Quest II」を楽しくプレイするための初心者向け...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "タイタンクエストシリーズの第2作「Titan Quest II」を楽しくプレイするための初心者向けガイドを紹介するレビュー記事です。この記事では、ゲームの評価ポイントとしてストーリーやゲームシステム、グラフィックの美しさなどが取り上げられています。また、初心者がゲームを始める際に注意するべきポイントや、ゲームの魅力を引き出すためのTipsも紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167449.html",
-        "date": "2026-06-05",
-        "is_translated": false
-      },
-      {
-        "title": "【「JDM：ジャパニーズドリフトマスター」のマルチプレイヤーモード実装が6月11日に決定】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「JDM：ジャパニーズドリフトマスター」のマルチプレイヤーモード実装が6月11日に決定したことを受けて、レビュー記事が公開されました。この記事では、マルチプレイヤーモードの実装によりゲームの多人数プレイ機能が大幅に強化された点や、グラフィックの向上などが評価ポイントとして挙げられています。また、ゲームの操作性や総合的な評価も概要に含まれており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167484.html",
-        "date": "2026-06-05",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料「街」オープンワールド『NTE』に新実装の「AI自動運転」、結構ヤンチャで話題呼...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、基本プレイ無料のオープンワールドゲーム『NTE』の新しい機能である「AI自動運転」について紹介しています。記事では、この機能が非常に面白いことや、ゲーム内の自由度が高まっている点が評価されています。また、ゲームのグラフィックやサウンドも高く評価されています。このレビューは、『NTE』をプレイしたことがある人や、オープンワールドゲームのファンに特に役立つでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/neverness-to-everness-20260605-447390/",
-        "date": "2026-06-05",
-        "is_translated": false
-      },
-      {
-        "title": "【コンボ攻撃が気持ち良すぎ！2Dアクション好きが求める“手触り”全部入りの『グラビティ サーキッ...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、2Dアクションゲーム『グラビティ サーキット』がコンボ攻撃の気持ち良さや操作の手触りなど、2Dアクションファンが求める要素をすべて持ち合わせていると評価しています。記事では、ゲームの評価ポイントとして、スムーズな動きや多様な攻撃方法などが紹介されています。さらに、操作のしやすさやステージのデザインも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/05/182486.html",
-        "date": "2026-06-05",
-        "is_translated": false
-      },
-      {
-        "title": "【「SAW」犠牲者3vs1ジグソウのマルチプレイホラー『SAW: Genesis』発表。「ジグソ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "マルチプレイホラー『SAW: Genesis』は、映画「SAW」の世界を舞台に、3人の犠牲者と1人のジグソウが対戦する独特のゲームプレイが特徴です。このゲームの評価ポイントとしては、スリリングなサバイバル要素や、映画の世界観を忠実に再現したグラフィックが挙げられます。レビューの内容概要としては、ゲームの緊張感や恐怖要素、そしてマルチプレイ機能の評価が中心です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/sawa-20260606-447595/",
-        "date": "2026-06-05",
-        "is_translated": false
-      },
-      {
-        "title": "【ステルスシューター『Crossfire』発表。『クロスファイア』新作はシングルプレイ作品、すれ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "クロスファイアの新作であるシングルプレイのステルスシューター『Crossfire』のレビュー記事では、ゲームの評価ポイントとして、ストーリーの面白さやグラフィックの質、そして操作のスムーズさを挙げています。また、レビューでは、新しいステージの追加やキャラクターのカスタマイズ機能についても触れています。このレビュー記事は。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260606-447594/",
-        "date": "2026-06-05",
-        "is_translated": false
-      },
-      {
-        "title": "【XCOM系“スター・ウォーズ”ターン制ストラテジー「STAR WARS Zero Compan...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "『STAR WARS Zero Company』は、ターン制ストラテジーを基調とするゲームで、スター・ウォーズの世界観を背景にプレイヤーが戦略を立てて戦闘に臨みます。このゲームの評価ポイントとして、戦略的なゲームデザインとスター・ウォーズの世界観が融合している点が挙げられます。レビューの内容概要としては、戦闘システムの深みやストーリーの魅力が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167354.html",
-        "date": "2026-06-05",
-        "is_translated": false
-      },
-      {
-        "title": "【ソウルライクアクション続編「Mortal Shell II」のオープンベータテストが本日開幕、...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ソウルライクアクションゲームの続編「Mortal Shell II」のオープンベータテストが始まりました。このゲームの評価ポイントとしては、ダークファンタジーな世界観や、複雑な戦闘システムが挙げられます。また、レビューでは、ゲームのグラフィックやサウンドトラックの品質も高く評価されています。このレビューは、ソウルライクアクションゲームのファンや。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167452.html",
-        "date": "2026-06-05",
-        "is_translated": false
-      },
-      {
-        "title": "【Control Resonant ゲームプレイ プレビューは 2026 年に最も期待されるアク...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Control Resonant ゲームプレイ プレビューは2026年の最も期待されるアクションゲームの一つです。このレビューでは、ゲームの評価ポイントとしてストーリーの深み、グラフィックの質、操作性のスムーズさを取り上げています。特に、ストーリーの複雑さとグラフィックの美しさは、高い評価を得ています。また、操作性のスムーズさも、プレイヤーがゲームに没頭できるように設計されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/control-resonant-hands-on-preview/",
-        "date": "2026-06-05",
-        "is_translated": true
-      },
       {
         "title": "【PvPvE脱出シューター『SAND: Raiders of Sophie』6月10日配信へ。移...：レビュー】",
         "platform": "AUTOMATON",
@@ -797,19 +607,6 @@
         "url": "https://automaton-media.com/articles/newsjp/sand-raiders-of-sophie-20260606-447785/",
         "date": "2026-06-06",
         "is_translated": false
-      },
-      {
-        "title": "【『Among Us』テレビ番組レビュー: この改作を阻止するために誰かが緊急会議を招集する必要...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "『Among Us』のテレビ番組レビューの記事では、この人気ゲームのテレビ化について評価しています。この番組の評価ポイントとして、ゲームの本来の魅力が失われていることが挙げられます。また、レビューでは、番組のストーリーが予想通りであり、ゲームの奥深さが伝わっておらず、またキャラクターの個性が弱い点などが指摘されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/among-us-tv-series-review-paramount/",
-        "date": "2026-06-05",
-        "is_translated": true
       },
       {
         "title": "【『ファイナルファンタジーVII リベレーション』“前作の課題と解決”開発者インタビュー。「長時...：レビュー】",
@@ -1356,8 +1153,99 @@
         "url": "https://automaton-media.com/articles/newsjp/20260609-448729/",
         "date": "2026-06-09",
         "is_translated": false
+      },
+      {
+        "title": "【“冷笑系主人公”の青春ノベル『二万分の一の雨粒達 – One in 20,000 raindr...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム「二万分の一の雨粒達 – One in 20,000 raindrops」の評価ポイントについて述べています。主な評価ポイントとして、ゲームのストーリーが魅力的で、登場人物のキャラクターが立体的に描かれていることが挙げられます。また、ゲームのグラフィックやサウンドトラックも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260610-448945/",
+        "date": "2026-06-10",
+        "is_translated": false
+      },
+      {
+        "title": "【モンスター育成アクション『ボイドリング・バウンド』同接8000人のロケットスタート。モンスター...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、モンスター育成アクションゲーム「ボイドリング・バウンド」の評価ポイントを紹介しています。同接8000人のロケットスタートというタイトルが示すように、初期の評価が非常に高いことがわかります。ゲームの評価ポイントとして、モンスターの育成システムやアクション要素の評価が高く、総評としても高い評価を得ています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260610-448919/",
+        "date": "2026-06-10",
+        "is_translated": false
+      },
+      {
+        "title": "【『ファイナルファンタジー レゾナンス』先行プレイ感想。『FF』初のHD-2D作品、「シネマティ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ファイナルファンタジー レゾナンス』は、シリーズ初のHD-2D作品であり、シネマティックなグラフィックや魅力的なストーリーが特徴です。このゲームの評価ポイントとしては、グラフィックやサウンドトラックの質が高いこと、キャラクターのデザインやバトルシステムの面白さなどがあります。レビューの内容概要としては、ゲームの世界観やストーリーの深み。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260610-448881/",
+        "date": "2026-06-10",
+        "is_translated": false
+      },
+      {
+        "title": "【マルチプレイヤーを大幅に強化する“N”シリーズ最新作「N PLUS INFINITY TIME...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「N PLUS INFINITY TIME...」は、マルチプレイヤー機能を大幅に強化した「N」シリーズの最新作です。このゲームの評価ポイントとしては、グラフィックの向上、ゲームプレイのスムーズ化、そしてマルチプレイヤーモードの拡張が挙げられます。レビューの内容概要としては、新しいステージの追加や、キャラクターのバリエーション増加が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167777.html",
+        "date": "2026-06-10",
+        "is_translated": false
+      },
+      {
+        "title": "【“サイクロップス”の参戦を告げる「Marvel Rivals」シーズン8.5のゲームプレイトレ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Marvel Rivals」のシーズン8.5のゲームプレイトレイルでは、「サイクロップス」の参戦が発表されています。このレビュー記事では、シーズン8.5の新しいゲーム機能やキャラクターの評価ポイントを紹介しています。特に、サイクロップスの能力やプレイスタイルの評価や、新しいシーズンのゲームバランスについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167451.html",
+        "date": "2026-06-09",
+        "is_translated": false
+      },
+      {
+        "title": "【この『FF』を待っていた。シリーズ初「HD-2D」採用の『FFレゾナンス』試遊で「ビジュアルの...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、シリーズ初の「HD-2D」というグラフィックを採用した『FFレゾナンス』の試遊レビューです。レビューでは、ビジュアルの評価ポイントやゲームの魅力などが述べられています。特に、グラフィックの美しさや、ゲームの世界観が掘り下げられています。この記事は、ファイナルファンタジーシリーズのファンや、新しいゲームを探している人に興味を持って読む価値があるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/10/182739.html",
+        "date": "2026-06-10",
+        "is_translated": false
+      },
+      {
+        "title": "【Aliens: Fireteam Elite 2 プレビュー: 派手で楽しい協力シューティング...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Aliens: Fireteam Elite 2は、派手で楽しい協力シューティングゲームです。このゲームの評価ポイントとしては、グラフィックの質とサウンドデザインが高く評価されています。また、レビューの内容概要としては、協力プレイの面白さや、エイリアンのデザインの迫力が挙げられます。このゲームは、シューティングゲームやエイリアンシリーズのファンに最もお勧めできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/aliens-fireteam-elite-2-preview/",
+        "date": "2026-06-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-09T22:24:14.136186"
+  "last_updated": "2026-06-10T03:35:31.998373"
 }
