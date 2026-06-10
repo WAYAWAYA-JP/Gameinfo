@@ -242,6 +242,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/perplexingpuzzles_bundle",
         "date": "2026-06-09"
+      },
+      {
+        "title": "Double Shift: Simulation Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Double Shift: Simulation Bundleが現在販売中です。このバンドルには、主要タイトルとして「House Flipper」、「Farming Simulator 22」、「Train Simulator 2021」などのシミュレーションゲームが含まれています。シミュレーションジャンルのゲームが好きな方にはお勧めのバンドルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/doubleshift_simulation_bundle",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Warhammer Skulls 2026 Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Warhammer Skulls 2026 Bundleが現在販売中です。このバンドルには、Warhammerシリーズの主要タイトルである「Warhammer 40,000: Chaos Gate - Daemonhunters」や「Warhammer Age of Sigmar: Storm Ground」などのゲームが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/warhammerskulls2026bundle_bundle",
+        "date": "2026-06-10"
       }
     ],
     "sale": [
@@ -1244,8 +1268,60 @@
         "url": "https://www.polygon.com/aliens-fireteam-elite-2-preview/",
         "date": "2026-06-10",
         "is_translated": true
+      },
+      {
+        "title": "【対戦ゲームのプレイヤー維持には「スキル上達の場」も重要か。競技系モードとカジュアルモードの“異...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "対戦ゲームのプレイヤー維持には、競技系モードとカジュアルモードのバランスが重要です。スキル上達の場を提供することで、プレイヤーが継続的にゲームに興味を持ち続けることができます。また、カジュアルモードでは初心者も安心してプレイできる環境を作り、競技系モードでは上級者が本気で戦えるステージを用意することで、幅広いプレイヤーを維持することができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260610-449062/",
+        "date": "2026-06-10",
+        "is_translated": false
+      },
+      {
+        "title": "【“セルフお絵描き”かくれんぼマルチ『めっちゃカメレオン』さっそく「Steam同接1万5000人...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、セルフお絵描きかくれんぼマルチのゲーム「めっちゃカメレオン」のレビュー内容をまとめたものです。このゲームは、Steam同接で1万5000人を超えるプレイヤーを集め、評価ポイントとしてグラフィックやゲーム性が高く評価されています。記事では、ゲームのユニークなシステムやマルチプレイの楽しさについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260610-448983/",
+        "date": "2026-06-10",
+        "is_translated": false
+      },
+      {
+        "title": "【『リングフィット アドベンチャー』を継続プレイすると「抑うつ症状が改善する可能性」示す研究。運...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『リングフィット アドベンチャー』を継続プレイすると「抑うつ症状が改善する可能性」を示す研究に関するレビュー記事があります。この記事では、ゲームの継続的なプレイが抑うつ症状の改善にどのような影響を与えるかについて調査しています。また、ゲームの評価ポイントとして、プレイヤーのモチベーションの維持やストレスの軽減などが取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260610-449013/",
+        "date": "2026-06-10",
+        "is_translated": false
+      },
+      {
+        "title": "【Faker、米TIME誌の「スポーツ界で影響力のある100人」に選ばれる―大谷翔平やメッシ、レ...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、韓国のプロゲーマーであるFakerが、米国のTIME誌によって選ばれた「スポーツ界で影響力のある100人」に選ばれたことを取り上げています。同リストには、大谷翔平やメッシ、レブロンなどの有名アスリートも含まれています。この記事では、Fakerの影響力と彼の成果について評価しています。また、eスポーツの成長とその将来性についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/10/182768.html",
+        "date": "2026-06-10",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-10T03:35:31.998373"
+  "last_updated": "2026-06-10T12:19:40.057296"
 }
