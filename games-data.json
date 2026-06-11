@@ -532,6 +532,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dying-light-2-stay-human-reloaded-edition/info/",
         "date": "2026-06-11"
+      },
+      {
+        "title": "FINAL FANTASY VII REBIRTH",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REBIRTHがSteamで60% OFFのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、 FINAL FANTASYシリーズの名作として知られています。セール中の価格は大幅に割引されており、ファンや新規プレイヤーにとって魅力的な機会となっています。評価も高く、人気度も非常に高いゲームですので、 놓치ないでください。",
+        "price": "¥2,631",
+        "originalPrice": "¥6,578",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2909400",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気のロールプレイングゲームであるFINAL FANTASY VII REMAKE INTERGRADEが、Steamで65%の割引セール中です。このゲームは、グラフィックの美しさと壮大なストーリーが特徴で、ファイナルファンタジーシリーズのファンから高い評価を受けています。現在の価格は大幅に下がっており、ゲームファンにはおすすめのチャンスです。",
+        "price": "¥1,917",
+        "originalPrice": "¥5,478",
+        "discount": "65% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1462040",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "Kingdom Come: Deliverance II",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Kingdom Come: Deliverance IIはオープンワールドのアクションRPGで、リアルな中世ヨーロッパを舞台にしているゲームで、現代のゲームとしては珍しい歴史的な正確さを重視した作品です。このゲームは、61%の割引が行われており、かなり安く購入できます。プレイヤーから高評価を獲得しており、史実を忠実に再現したグラフィックや、自由度の高いゲーム性が特徴です。",
+        "price": "$23.49",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
+        "date": "2026-06-11"
       }
     ],
     "review": [
@@ -1278,5 +1314,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-11T16:13:48.517257"
+  "last_updated": "2026-06-11T22:50:08.513134"
 }
