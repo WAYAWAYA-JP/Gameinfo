@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Rogue Waters",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Rogue Watersはアクションアドベンチャーゲームです。このゲームの特徴は、海賊をテーマにしており、プレイヤーが海賊になることができます。また、戦闘シーンが激しいことや、さまざまなアイテムを集めることができること、そして美しい海上のグラフィックが楽しめることが魅力です。現在、Epic Gamesプラットフォームで無料配布中なので、気軽にプレイすることができます。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年06月11日まで",
+        "url": "https://store.epicgames.com/ja/p/rogue-waters-9764d6",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "Songs of Conquest",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "現在、Epic Gamesでは無料で「Songs of Conquest」を配布中です。このゲームは、ストラテジー・シミュレーションゲームであり、プレイヤーがさまざまな王国を統治し、戦略的な戦闘を楽しむことができます。特徴としては、ユニークな魔法システムや多様なキャラクター、そして大規模な戦場での戦闘が魅力的です。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年06月11日まで",
+        "url": "https://store.epicgames.com/ja/p/songs-of-conquest",
+        "date": "2026-06-11"
+      }
+    ],
     "bundle": [
       {
         "title": "Humble 15th Anniversary - Indie Icons Showcase",
@@ -447,6 +472,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/lords-of-the-fallen/info/",
         "date": "2026-06-10"
+      },
+      {
+        "title": "Street Fighter 6",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ストリートファイター6がSteamで50%オフのセール中です、この格闘ゲームは熱いバトルと様々なキャラクターが特徴で、プレイヤーから高い評価を得ています。現在の割引では、通常価格よりも大幅に安く購入できます。人気度も高く、ファンから好評を博していますので、格闘ゲームファンにはおすすめの作品です。",
+        "price": "¥2,495",
+        "originalPrice": "¥4,990",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1364780",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "BIOHAZARD RE:4",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気のホラー・アクションゲーム「BIOHAZARD RE:4」がSteamで75% OFFのセール中です。このゲームは、シリーズの代表作として知られており、恐怖とスリルのバランスが絶妙な作品です。現在、非常に安い価格で購入することができるので、ファンにはもちろん、新規プレイヤーにもおすすめできます。高い評価と人気度を誇るこの作品を、この機会にプレイしてみてください。",
+        "price": "¥1,247",
+        "originalPrice": "¥4,990",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2050650",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "Dying Light 2 Stay Human - Reloaded Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの「Dying Light 2 Stay Human - Reloaded Edition」が現在、Variousで80%の割引セール中です。このゲームは、ゾンビが徘徊する世界で生存を争う様子を描き、高速なアクションとオープンワールドの自由度が特徴です。ファンから高い評価を受けており、非常に人気の高いゲームとなっています。",
+        "price": "$11.99",
+        "originalPrice": "",
+        "discount": "-80%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dying-light-2-stay-human-reloaded-edition/info/",
+        "date": "2026-06-11"
       }
     ],
     "review": [
@@ -1138,8 +1199,60 @@
         "url": "https://www.inside-games.jp/article/2026/06/11/182792.html",
         "date": "2026-06-11",
         "is_translated": false
+      },
+      {
+        "title": "【傑作フリーゲーム『Type Help』のリメイク版『ギャリー邸事件』、7月14日発売へ。3Dに...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "フリーゲーム『Type Help』のリメイク版『ギャリー邸事件』のレビュー記事があります。このゲームは7月14日に発売予定です。レビューのポイントとしては、3Dグラフィックの導入により、よりリアルなゲーム体験が可能になった点や、ストーリーの深化による魅力的なゲーム内容が挙げられます。さらに、ユーザーの評価やレビューから。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/the-incident-at-galley-house-20260611-449228/",
+        "date": "2026-06-11",
+        "is_translated": false
+      },
+      {
+        "title": "【任天堂、Nintendo Switch 2（多言語対応）のみ「プレイ時間50時間以上」の購入条...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "任天堂の新型ゲーム機「Nintendo Switch 2」は多言語に対応しており、特定の条件で購入することができます。購入条件としては、プレイ時間が50時間以上であることが求められます。この条件を満たすことで、多くのユーザーがこのゲーム機を購入することができます。ゲームの評価ポイントとしては、グラフィックの質やプレイ性、サウンドの豊かさが重要な要素です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260611-449235/",
+        "date": "2026-06-11",
+        "is_translated": false
+      },
+      {
+        "title": "【初代“Halo”キャンペーンリメイク「Halo: Campaign Evolved」の28分に...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Halo: Campaign Evolved」のレビュー記事では、初代「Halo」キャンペーンのリメイク版について評価しています。記事では、ゲームのグラフィックやサウンドデザインの改善点、さらに新しいゲームモードの追加などについて触れています。対象読者は、ファーストパーソン・シューティングゲームのファンや、Haloシリーズの愛好家などです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167769.html",
+        "date": "2026-06-11",
+        "is_translated": false
+      },
+      {
+        "title": "【Alienware AW2525HM 320 Hz ゲーミングモニターのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Alienware AW2525HM 320 Hz ゲーミングモニターのレビュー記事では、高速なリフレッシュレートや高解像度のディスプレイなどのゲームプレイ体験を高める機能を評価しています。また、モニターのデザインや操作性、コストパフォーマンスについても分析しています。このレビュー記事は、ゲーミングモニターを購入を検討しているゲーマーや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw2525hm-320-hz-gaming-monitor-review/",
+        "date": "2026-06-11",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-11T03:50:24.275208"
+  "last_updated": "2026-06-11T12:45:19.279735"
 }
