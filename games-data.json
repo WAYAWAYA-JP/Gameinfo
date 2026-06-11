@@ -1,80 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "LONESTAR",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "LONESTARは、Epic Gamesで無料配布中のアクションアドベンチャーゲームです。このゲームの魅力は、スリリングなアクションシーケンス、豊富なストーリー、そして美麗なグラフィックです。また、プレイヤーは、未来の世界を探索し、さまざまなミッションをこなすことができます。Epic Gamesプラットフォームで無料でダウンロードできるため、多くのプレイヤーに人気があります。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年06月04日まで",
-        "url": "https://store.epicgames.com/ja/p/lonestar-83f143",
-        "date": "2026-06-04"
-      },
-      {
-        "title": "Calico",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Epic Gamesでは、現在Calicoが無料配布中です。Calicoは、生活シミュレーションゲームです。このゲームの特徴は、動物と一緒に生活し、町を復興させることができる点です。また、自由に動物をカスタマイズしたり、町のデザインを変更したりすることができます。さらに、ゲーム内のさまざまなキャラクターとの交流も楽しめます。Epic Gamesから無料でダウンロードして遊ぶことができます。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年06月04日まで",
-        "url": "https://store.epicgames.com/ja/p/calico",
-        "date": "2026-06-04"
-      },
-      {
-        "title": "Rogue Waters",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Rogue Watersは、ローグライク要素を含むアクションゲームです。特徴としては、ランダムに生成されるステージでプレイヤーが戦闘を繰り返すことができ、様々なアイテムを取得して強化することが魅力です。また、シンプルながらも奥深いゲームシステムが楽しめます。現在、Epic Gamesプラットフォームで無料配布中であり、誰でも簡単にダウンロードして遊ぶことができます。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年06月11日まで",
-        "url": "https://store.epicgames.com/ja/p/rogue-waters-9764d6",
-        "date": "2026-06-04"
-      },
-      {
-        "title": "Songs of Conquest",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Songs of Conquestは、ストラテジー要素を取り入れたファンタジー系のゲームで、プレイヤーがさまざまなキャラクターを操作して戦闘を行ったり、資源を管理したりすることができます。このゲームの特徴は、ユニークなキャラクターを集めてパーティーを編成することができ、戦略的な戦闘を楽しむことができます。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年06月11日まで",
-        "url": "https://store.epicgames.com/ja/p/songs-of-conquest",
-        "date": "2026-06-04"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "4X: Xplore, Xpand, Xploit, Xterminate",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、4Xと呼ばれるバンドルが販売中です。このバンドルには、Xplore、Xpand、Xploit、Xterminateなどの主要タイトルが含まれており、ストラテジーやシミュレーションジャンルのゲームを楽しむことができます。大まかな価格帯は数千円程度で、ストラテジーファンにとってはお得な購入になるかもしれません。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/4xxplorexpandxploitxterminate_bundle",
-        "date": "2026-06-01"
-      },
-      {
-        "title": "HHWild Rage Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、HHWild Rage Bundleが販売中です。このバンドルには、Wild Rage、Rage Against The Zombies、Zombie Rageなどの主要タイトルが含まれており、主にアクションとアドベンチャーを題材にしたゲームが特徴です。大まかな価格帯は10ドル以下とお手頃です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/wild-rage-bundle",
-        "date": "2026-06-01"
-      },
       {
         "title": "Humble 15th Anniversary - Indie Icons Showcase",
         "platform": "Humble Bundle",
@@ -281,114 +208,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Ready or Not",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Ready or Notは、ストラテジーとアクションを組み合わせたタクティカルファーストパーソンシューティングゲームです。現在、Steamで50% OFFのセール中となっており、ファン待望のチャンスです。このゲームは、緊张感と戦略性を兼ね備え、プレイヤーに高レベルの集中力を要求します。非常に人気があり、高評価を得ているゲームであり。",
-        "price": "¥3,575",
-        "originalPrice": "¥7,150",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1144200",
-        "date": "2026-06-04"
-      },
-      {
-        "title": "Tell Me Why",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アドベンチャーゲーム「Tell Me Why」が現在、Variousで100%割引のセール中です。このゲームは、双子の兄妹を操作して家族の秘密を解き明かすという、物語に重きを置いたアドベンチャーゲームで、評価も良好です。価格は通常時より大幅に安くなっているので、興味がある方は今がチャンスです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/tell-me-why/info/",
-        "date": "2026-06-04"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ロックスターゲームスのオープンワールドアクションアドベンチャーゲームであるRed Dead Redemption 2が、現在Variousで77パーセント割引されています。このゲームは、グラフィックやストーリー、ゲームプレイの自由度が高く評価されており、世界中で高い人気を博しています。特に、西部開拓時代を舞台にした壮大な物語や、詳細なキャラクター造形などが特徴的です。",
-        "price": "$13.50",
-        "originalPrice": "",
-        "discount": "-77%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-06-04"
-      },
-      {
-        "title": "007 First Light",
-        "platform": "Various",
-        "type": "sale",
-        "description": "今回は007 First LightがVariousでセール中です。13％オフという割引率で販売されています。このゲームはアクションアドベンチャー系の作品で、高い評価と人気度を誇っています。プレイヤーはジェームズ・ボンドとして様々なミッションを遂行し、スリリングなゲーム体験を楽しむことができます。セール期間中はお得な価格でこの作品をプレイすることができ。",
-        "price": "$60.89",
-        "originalPrice": "",
-        "discount": "-13%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/007-first-light/info/",
-        "date": "2026-06-04"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33がVariousで32%割引されています。このゲームは、ユーザーから高い評価と人気度を得ています。アドベンチャーとパズルを組み合わせたユニークな要素を持つこの作品は、32%の割引によりお得にプレイすることができます。",
-        "price": "$33.84",
-        "originalPrice": "",
-        "discount": "-32%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-06-04"
-      },
-      {
-        "title": "BIOHAZARD RE:4",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "人気のサバイバルホラーゲーム「BIOHAZARD RE:4」がSteamで大幅な75%オフのセール中です。このゲームは、ハイクオリティのグラフィックと心臓を躍らせる怖さで知られており、多くのプレイヤーから高い評価を得ています。通常価格よりも大幅に安くなっているので、ホラーゲームファンにはおすすめのチャンスです。",
-        "price": "¥1,247",
-        "originalPrice": "¥4,990",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2050650",
-        "date": "2026-06-04"
-      },
-      {
-        "title": "Street Fighter 6",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "格闘ゲームの名作「Street Fighter 6」がSteamで50%オフのセール中です。このゲームは、シリーズの最新作として話題となり、ファンから高い評価を得ています。格闘ゲームファンには必見の作品で、現在の価格は大幅に割引されています。人気度も高く、多くのユーザーから好評価を得ています。",
-        "price": "¥2,495",
-        "originalPrice": "¥4,990",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1364780",
-        "date": "2026-06-04"
-      },
-      {
-        "title": "Monster Hunter Rise + Sunbreak",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Monster Hunter Rise + SunbreakがSteamで大幅な84% OFFのセール中です。このアクションパックアドベンチャーゲームは、モンスターと戦う爽快なバトルや、豊富なカスタマイズ要素など、シリーズの特徴的な要素を存分に楽しむことができます。高い評価と人気を誇るこのゲームを、通常価格より大幅に安い価格で体験することができます。",
-        "price": "¥958",
-        "originalPrice": "¥5,990",
-        "discount": "84% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/692569",
-        "date": "2026-06-04"
-      },
-      {
-        "title": "Rogue Waters",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームのRogue Watersが、Variousで100%割引のセール中です。このゲームは、ユニークなゲームプレイとカジュアルなグラフィックで人気を博しており、多くのプレイヤーから高い評価を得ています。通常価格より大幅に安くなっており、興味がある方はぜひこの機会にチェックしてみてください。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/rogue-waters/info/",
-        "date": "2026-06-04"
-      },
       {
         "title": "Resident Evil Requiem",
         "platform": "Various",
@@ -632,71 +451,6 @@
     ],
     "review": [
       {
-        "title": "【PvPvE脱出シューター『SAND: Raiders of Sophie』6月10日配信へ。移...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『SAND: Raiders of Sophie』は、6月10日に配信されるPvPvE脱出シューターであり、プレイヤーは協力して脱出を目指すという面白いゲームです。このゲームの評価ポイントとしては、プレイヤー同士の協力と戦略の重要性や、ゲームの難易度のバランスが挙げられます。レビューの内容概要としては、ゲームのシステムやグラフィックの評価。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/sand-raiders-of-sophie-20260606-447785/",
-        "date": "2026-06-06",
-        "is_translated": false
-      },
-      {
-        "title": "【『ファイナルファンタジーVII リベレーション』“前作の課題と解決”開発者インタビュー。「長時...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ファイナルファンタジーVII リベレーション』のレビュー記事では、ゲームの評価ポイントとしてストーリーの深化やグラフィックの向上が挙げられています。また、開発者のインタビューも掲載されており、前作の課題と解決策について語られています。対象読者は、ファイナルファンタジーシリーズのファンやアクションRPGを好む人向けです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/ff7rev-20260606-447870/",
-        "date": "2026-06-06",
-        "is_translated": false
-      },
-      {
-        "title": "【大群召喚ローグライト『ビー・マイ・ホード』試遊感想。人類見下し系妖艶ネクロマンサー、敵を倒すほ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ビー・マイ・ホード』は大群召喚ローグライトのゲームで、人類を見下す妖艶なネクロマンサーが敵を倒すための戦略を駆使する内容です。このゲームの評価ポイントとしては、戦略的なゲームプレイ、独特の世界観、そしてキャラクターの魅力があります。レビューの内容概要としては、戦闘システムの深み、ストーリーの引き付け方、そしてゲームのリプレイ性が高く楽しめる点が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/be-my-horde-20260606-447756/",
-        "date": "2026-06-06",
-        "is_translated": false
-      },
-      {
-        "title": "【マイケル・マイヤーズの視点でプレイする「Halloween: The Game」のシングプレイ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "マイケル・マイヤーズの視点でプレイする「Halloween: The Game」のシングルプレイのレビュー記事では、ゲームの評価ポイントとして、ホラー要素の充実度やプレイヤーの緊張感をあげる要素を紹介しています。また、ゲームの雰囲気やサウンドトラックの効果も評価しています。対象読者は、ホラーゲームやマイケル・マイヤーズのファンで、緊張感のあるゲーム体験を求める人です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167598.html",
-        "date": "2026-06-06",
-        "is_translated": false
-      },
-      {
-        "title": "【ギルドウォーズ 2 レビュー (2012)】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ギルドウォーズ2は、2012年の人気オンラインゲームであり、そのレビュー記事では、ゲームの評価ポイントとしてグラフィックの美しさやスムーズな操作性が高く評価されています。また、レビューの内容概要としては、ゲームのストーリーが豊かで、プレイヤーが自由に冒険できる広大な世界が特徴的であると述べられています。対象読者としては、オンラインゲームを好む人やアクションゲームファン向けのコンテンツです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/mmo/guild-wars-2-review-2012/",
-        "date": "2026-06-06",
-        "is_translated": true
-      },
-      {
         "title": "【基本プレイ無料『デュエットナイトアビス』新大型アプデは新要素ドカ盛りなのに「序盤もほぼ作り直し...】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -733,19 +487,6 @@
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20260607-447876/",
         "date": "2026-06-07",
-        "is_translated": false
-      },
-      {
-        "title": "【“Mass Effect”系アクションRPG「EXODUS」の20分に及ぶ本格的なゲームプレイ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「EXODUS」というアクションRPGのレビュー記事では、ゲームの本格的な20分間のプレイ内容を紹介しています。このゲームは「Mass Effect」に似たシステムを採用しており、ストーリーとキャラクターの深さ、グラフィックの質、ゲームプレイのスムーズさが評価ポイントとなっています。ファンやアクションRPGゲームが好きな人にはおすすめの記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167615.html",
-        "date": "2026-06-06",
         "is_translated": false
       },
       {
@@ -1345,8 +1086,60 @@
         "url": "https://www.polygon.com/halo-campaign-evolved-preview-hands-on/",
         "date": "2026-06-10",
         "is_translated": true
+      },
+      {
+        "title": "【シリーズ最新作「The Elder Scrolls VI」の発表から遂に8年、XBOXのMat...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "XBOXのMat...：レビューの記事では、シリーズ最新作「The Elder Scrolls VI」の発表から8年が経過した今、ゲームの評価ポイントとして、グラフィックの向上や新たなゲームエンジンの導入などが取り上げられています。また、レビューの内容として、ゲームのストーリーやプレイアビリティの充実性が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167782.html",
+        "date": "2026-06-11",
+        "is_translated": false
+      },
+      {
+        "title": "【新生「Fable」が実現する“生き生きとした世界”とアルビオンで暮らす非凡な人生に焦点を当てる...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Fable」の最新作は、アルビオンという「生き生きとした世界」に焦点を当て、非凡な人生を体験できるゲームです。このレビュー記事では、ゲームの評価ポイントとして、オープンワールドの自由度やキャラクターの成長システムが高く評価されています。また、ゲームのストーリーやグラフィックも優れており、ファンタジーRPGファンには必見のゲームと言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167781.html",
+        "date": "2026-06-11",
+        "is_translated": false
+      },
+      {
+        "title": "【携帯ハード『PSP』のBIGクッションが6月下旬発売！ゲームプレイにぴったりなドデカいサイズ感】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "PSP用のクッション「BIGクッション」が6月下旬に発売されます。このクッションは、ゲームプレイに適した大きなサイズ感が特徴です。このレビュー記事では、クッションのサイズ感や使い勝手、クッションのデザインなどについて評価しています。ゲームを長時間プレイする人向けの製品であり、クッションの快適さや持ちやすさなどが評価ポイントになっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/11/182794.html",
+        "date": "2026-06-11",
+        "is_translated": false
+      },
+      {
+        "title": "【『FF16』が遊び放題に！自分だけの剣を作れるRPGや『ソニック』高評価作も登場の2026年6...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "FF16や高評価のソニックシリーズの作品など、2026年6月に発売されるゲームを紹介する記事です。この記事では、期待されるゲームの評価ポイントとして、オリジナルの剣を作れるFF16や、スピード感あふれるソニックシリーズのプレイ感、グラフィックの美しさなどが紹介されています。ゲームファンやRPGを好む人に特におすすめの記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/11/182792.html",
+        "date": "2026-06-11",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-10T22:51:11.573570"
+  "last_updated": "2026-06-11T03:50:24.275208"
 }
