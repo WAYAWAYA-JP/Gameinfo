@@ -24,6 +24,30 @@
         "deadline": "2026年06月11日まで",
         "url": "https://store.epicgames.com/ja/p/songs-of-conquest",
         "date": "2026-06-11"
+      },
+      {
+        "title": "The Ouroboros King",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Ouroboros Kingは、戦略性の高いチェスとローグライクの要素を組み合わせた、ユニークなゲームです。このゲームの魅力は、プレイヤーが恐るべき軍隊を編成して戦うこと、強力な遺物を発見すること、そして驚くべき道具を購入して強敵を倒すことです。また、ローグライクのビルドの多様性とリプレイ性も高く、プレイヤーは毎回異なる戦略で挑戦できます。",
+        "price": "無料",
+        "originalPrice": "¥9",
+        "discount": "100% OFF",
+        "deadline": "2026年06月18日まで",
+        "url": "https://store.epicgames.com/ja/p/the-ouroboros-king",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "Warhammer 40K Speed Freeks",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Warhammer 40K Speed Freeksは、SFとアクションを融合させたレーシングゲームです。高速で刺激的なレースが楽しめること、カスタマイズ可能な車両が多数用意されていること、そして戦略的なバトルが可能なことが魅力です。このゲームはEpic Gamesストアで現在無料配布中です。",
+        "price": "無料",
+        "originalPrice": "¥19",
+        "discount": "100% OFF",
+        "deadline": "2026年06月18日まで",
+        "url": "https://store.epicgames.com/ja/p/b28e038bd68b4e80840e7fb8b747de54",
+        "date": "2026-06-11"
       }
     ],
     "bundle": [
@@ -1254,5 +1278,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-11T12:45:19.279735"
+  "last_updated": "2026-06-11T16:13:48.517257"
 }
