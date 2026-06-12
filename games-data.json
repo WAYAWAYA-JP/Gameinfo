@@ -604,6 +604,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
         "date": "2026-06-12"
+      },
+      {
+        "title": "Warhammer 40,000: Speed Freeks",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Warhammer 40,000: Speed FreeksがVariousで100%割引のセール中です。このゲームは、SFとアクションが融合したユニークなゲームです。通常価格が大幅に割引されているので、安く入手することができます。ユーザーからの評価も高く、人気度も高いという特徴があります。セール期間中は、完全無料でプレイすることができますので、おすすめです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/warhammer-40000-speed-freeks/info/",
+        "date": "2026-06-12"
       }
     ],
     "review": [
@@ -1282,8 +1294,34 @@
         "url": "https://www.polygon.com/erosion-preview-summer-game-fest-2026/",
         "date": "2026-06-12",
         "is_translated": true
+      },
+      {
+        "title": "【ProtoArc EM25 人間工学に基づいたマウスのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ProtoArc EM25 は人間工学に基づいたマウスで、ユーザーの手の疲れを軽減するために設計されています。このレビュー記事では、ProtoArc EM25 の特徴や利点、そしてユーザーの体験を紹介しています。特に、長時間の作業やゲームプレイに適している点や、操作性の高さなどが評価ポイントです。ゲーム愛好家やオフィスワーカーなど、長時間マウスを使用する人々にとって。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/protoarc-em25-ergonomic-mouse-review/",
+        "date": "2026-06-12",
+        "is_translated": true
+      },
+      {
+        "title": "【Sea of​​ Remnants ゲームプレイ プレビュー: 1 時間後には AC: Bla...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Sea of​​ Remnants ゲームプレイ プレビューのレビュー記事では、1 時間後のゲームの評価ポイントとして、ゲームの世界観やストーリー、操作性などの要素が評価されています。このレビューは、ゲームファンや新作ゲームに興味のある読者に最適です。記事では、ゲームのプレイ感覚やグラフィックの美しさなどが具体的に紹介されており、ゲームへの期待を高める内容となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/sea-of-remnants-summer-game-fest-preview/",
+        "date": "2026-06-12",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-12T15:29:29.021671"
+  "last_updated": "2026-06-12T22:25:23.670146"
 }
