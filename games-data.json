@@ -556,6 +556,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-red-lantern/info/",
         "date": "2026-06-12"
+      },
+      {
+        "title": "Path of Exile 2 - Early Access Supporter Pack (Special)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Path of Exile 2 - Early Access Supporter Pack (Special)がSteamで50% OFFセール中です。このパックは、人気のオンラインアクションRPG「Path of Exile 2」の早期アクセスサポートパックで、特別なアイテムやボーナスが含まれています。通常価格と比べて大幅に割引されているので、ファンや新規プレイヤーにはおすすめです。",
+        "price": "¥2,321",
+        "originalPrice": "¥4,642",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1588213",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "Rust",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "RustがSteamで50%OFFのセール中です。このゲームはサバイバルアクションジャンルの人気タイトルで、プレイヤーは荒野で生き残るためにリソースを集め、武器を作り、敵を倒す必要があります。現在の価格は通常価格の半額で、非常に魅力的です。また、このゲームはSteamで非常に高い評価を得ており、多くのプレイヤーから好評価を受けています。人気度も高く、多くのプレイヤーがこのゲームを楽しんでいます。",
+        "price": "¥2,300",
+        "originalPrice": "¥4,600",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/252490",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "Happy's Humble Burger Farm",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Happy's Humble Burger FarmがVariousで-100%セール中です。これは、サバイバルホラーとシミュレーションの要素を兼ね備えたユニークなゲームで、プレイヤーはハンバーガー店を運営しながら、恐ろしげな出来事に立ち向かっていきます。現在、100%割引のセール中で、通常価格よりも大幅に安く購入できます。ユーザーの評価は非常に高く、多くのプレイヤーから人気を博しています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/happys-humble-burger-farm/info/",
+        "date": "2026-06-12"
       }
     ],
     "review": [
@@ -1208,8 +1244,21 @@
         "url": "https://doope.jp/2026/06167835.html",
         "date": "2026-06-12",
         "is_translated": false
+      },
+      {
+        "title": "【宇宙探索MMO『SpaceCraft』Steamで人気白熱スタート、MMO要素には賛否ありつつ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "宇宙探索MMO『SpaceCraft』はSteamで人気を博しており、多くのユーザーから高い評価を得ています。このゲームの評価ポイントとしては、広大な宇宙を自由に探索できること、ユニークなゲームシステム、そして美しいグラフィックが挙げられます。レビューの内容概要としては、ゲームのMMO要素について賛否両論があること、ゲームの自由度が高いこと。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/spacecraft-20260612-449486/",
+        "date": "2026-06-12",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-12T03:48:06.265797"
+  "last_updated": "2026-06-12T12:18:04.210039"
 }
