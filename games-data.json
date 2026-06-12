@@ -592,6 +592,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/happys-humble-burger-farm/info/",
         "date": "2026-06-12"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Red Dead Redemption 2は、オープンワールド・アクションアドベンチャーゲームであり、西部開拓時代を舞台にした壮大な物語が特徴です。現在、78%の割引が適用されており、大幅に安価な価格でプレイすることができます。このゲームは、高度なグラフィックやリアルなゲームプレイが評価されており、世界中のプレイヤーから高い人気を誇っています。",
+        "price": "$13.46",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-06-12"
       }
     ],
     "review": [
@@ -1257,8 +1269,21 @@
         "url": "https://automaton-media.com/articles/newsjp/spacecraft-20260612-449486/",
         "date": "2026-06-12",
         "is_translated": false
+      },
+      {
+        "title": "【Erasion プレビュー: Hades 以来、ローグライクに起こる最高の出来事】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事は、ローグライクゲームの新作「Erasion」のプレビューを紹介しています。Hades以来、ローグライクゲームに起こった最高の出来事と評価されています。記事では、ゲームの評価ポイントとして、独自のゲームシステム、豊富なアイテムやスキルのバリエーション、そして繰り返しプレイするのが楽しい点が取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/erosion-preview-summer-game-fest-2026/",
+        "date": "2026-06-12",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-12T12:18:04.210039"
+  "last_updated": "2026-06-12T15:29:29.021671"
 }
