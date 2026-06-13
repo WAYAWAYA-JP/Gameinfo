@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/yuriinluckwaifusforlaifus_bundle",
         "date": "2026-06-13"
+      },
+      {
+        "title": "IGN Live Bundle 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、IGN Live Bundle 2026が現在販売中です。このバンドルには、主要タイトルとして「The Elder Scrolls V: Skyrim」、「Fallout 4」、「Dishonored 2」などのアクションアドベンチャーゲームが含まれています。ジャンルは主にアクションアドベンチャーで、大まかな価格帯は15ドルから30ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/ignlivebundle2026_bundle",
+        "date": "2026-06-13"
       }
     ],
     "sale": [
@@ -1195,8 +1207,60 @@
         "url": "https://www.polygon.com/blood-message-preview-summer-game-fest/",
         "date": "2026-06-12",
         "is_translated": true
+      },
+      {
+        "title": "【最大4人協力プレイ対応・荒野ドライブ探索ゲーム『over the hill』、体験版からさっそ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『over the hill』は、最大4人での協力プレイに対応した荒野ドライブ探索ゲームです。このゲームの評価ポイントとしては、美しい自然風景の中で車を運転する爽快感や、チームワークを必要とする協力プレイの面白さが挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの高品質さ、そしてプレイヤー同士のコミュニケーションを促進するゲームデザインが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/over-the-hill-20260613-449594/",
+        "date": "2026-06-13",
+        "is_translated": false
+      },
+      {
+        "title": "【ファンタジー戦乱SLG『ブリガンダイン アビス』先行プレイ感想。「戦場ドラマ」だけじゃない、「...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ブリガンダイン アビス』はファンタジー戦乱SLGのゲームで、先行プレイの感想が記事にまとめられています。このレビュー記事では、ゲームの評価ポイントとして「戦場ドラマ」だけでなく、ゲームの奥深さや魅力も紹介されています。特に、戦略的な思考が必要な戦闘システムや、キャラクターの成長要素などが評価されています。対象読者は、戦略ゲームやファンタジー作品を好きな人向けです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260613-449566/",
+        "date": "2026-06-13",
+        "is_translated": false
+      },
+      {
+        "title": "【最大4人マルチ対応・ローグライトアクション『Lost Castle 2』正式版リリース。同時接...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Lost Castle 2は、最大4人でのマルチプレイに対応したローグライトアクションゲームです。このゲームは、さまざまなキャラクターを操作して、ダンジョンを攻略することを目的としています。評価ポイントとしては、ゲームの難易度が適切であり、繰り返しプレイすることで新しい要素を発見できる点が高く評価されています。また、レビューでは、ゲームのグラフィックやサウンドトラックも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/lost-castle-2-20260613-449575/",
+        "date": "2026-06-13",
+        "is_translated": false
+      },
+      {
+        "title": "【続編の前にこれを遊んでおけば、感動が倍になる！『God of War』『CONTROL』など今...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム『God of War』や『CONTROL』などの評価ポイントを紹介しています。記事では、これらのゲームを遊ぶことで、続編の感動が倍になることが分かることを強調しています。また、ゲームの内容やグラフィックの高さなどが評価されています。このレビューは、ゲームファンや続編を待ち望む人にとって、参考になる情報を提供しているので、読んでみる価値があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/13/182919.html",
+        "date": "2026-06-13",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-13T03:34:48.814902"
+  "last_updated": "2026-06-13T11:13:58.558483"
 }
