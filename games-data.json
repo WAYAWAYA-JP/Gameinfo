@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "IGN Live Bundle 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、IGN Live Bundle 2026が販売中です。このバンドルには、主要タイトルとして「Resident Evil 4」や「Cyberpunk 2077」、「The Witcher 3」が含まれています。ジャンルはアクションアドベンチャーやRPGが中心で、大まかな価格帯は5000円から10000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/ignlivebundle2026_bundle",
-        "date": "2026-06-03"
-      },
-      {
         "title": "We Will Always Be Here: Pride Month 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -242,69 +230,21 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/4xxplorexpandxploitxterminate_bundle",
         "date": "2026-06-12"
+      },
+      {
+        "title": "Yuri in Luck: Waifus for Laifus",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Yuri in Luck: Waifus for Laifusを含むバンドルが現在販売中です。このバンドルには、Yuri in Luck: Waifus for Laifusのほかにも、他の乙女ゲームが収録されています。ジャンルは乙女ゲームで、価格帯はおおよそ500円から1,000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/yuriinluckwaifusforlaifus_bundle",
+        "date": "2026-06-13"
       }
     ],
     "sale": [
-      {
-        "title": "Songs of Conquest",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ストラテジー系のゲームであるSongs of Conquestが、現在100%オフのセール中です。このゲームは、プレイヤーがさまざまなヒーローを集め、戦略的に戦うことが特徴です。通常価格より大幅に割引された価格で購入することができ、ストラテジー系のゲームを好む人にはおすすめです。評価も高く、人気度も高いので、ぜひこの機会に購入してみてください。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/songs-of-conquest/info/",
-        "date": "2026-06-06"
-      },
-      {
-        "title": "RESIDENT EVIL 2 (2019)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "RESIDENT EVIL 2は、2019年に発売されたサバイバルホラーのゲームです。このゲームは、恐怖感と緊張感を味わえることが特徴です。現在、Variousで83%の割引が行われており、非常に魅力的な価格で購入できます。多くのユーザーから高い評価を受けており、人気度も高いゲームです。",
-        "price": "$6.87",
-        "originalPrice": "",
-        "discount": "-83%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-2-2019/info/",
-        "date": "2026-06-06"
-      },
-      {
-        "title": "Outer Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Outer Wildsは、宇宙を舞台にしたアドベンチャーゲームで、プレイヤーがタイムループの中で宇宙の謎を解明します。このゲームは、独自の時間管理システムと、美しいグラフィックで知られています。現在、Variousで40%割引セール中で、ファンから高い評価を受けており、人気度も高いゲームです。",
-        "price": "$14.99",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
-        "date": "2026-06-06"
-      },
-      {
-        "title": "Sons Of The Forest",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Sons Of The ForestがSteamで70% OFFのセール中です。このゲームはサバイバルアクションジャンルに属し、独自のゲームシステムとグラフィックが特徴です。現在、かなり低価格で購入することができ、多くのユーザーから高い評価を得ています。人気度も高く、Steamのユーザーから非常に好評です。",
-        "price": "¥1,020",
-        "originalPrice": "¥3,400",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1326470",
-        "date": "2026-06-06"
-      },
-      {
-        "title": "Monster Hunter Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションパックされたハントアクションゲーム「Monster Hunter Wilds」が、現在Variousで62%割引のセール中です。このゲームは、素晴らしいグラフィックと面白いゲームプレイが特徴で、プレイヤーはさまざまなモンスターと戦い、強力な武器や防具を集めることができます。高い評価と人気度を誇るこのゲームは、ファンや新規プレイヤーにとって非常に魅力的です。",
-        "price": "$26.46",
-        "originalPrice": "",
-        "discount": "-62%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
-        "date": "2026-06-06"
-      },
       {
         "title": "Gothic 1 Remake",
         "platform": "Various",
@@ -620,97 +560,6 @@
     ],
     "review": [
       {
-        "title": "【Update：「Call of Duty: Modern Warfare 4」の“DMZ”モー...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、人気FPSゲーム「Call of Duty: Modern Warfare 4」の「DMZ」モードについて取り上げています。評価ポイントとして、モードの新鮮さ、ゲームプレイのスリル、グラフィックの質が高く評価されています。レビューの内容概要としては、モードの独自性、チームワークの重要性、難易度の適切さが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167591.html",
-        "date": "2026-06-08",
-        "is_translated": false
-      },
-      {
-        "title": "【「Blasphemous 2」の無料コンテンツアップデート“The Third Sin”がリリ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Blasphemous 2」の無料コンテンツアップデート「The Third Sin」のレビュー記事があります。この記事では、「The Third Sin」がもたらす新しい要素やゲームプレイの変化点などを評価しています。記事の内容としては、新しいステージやボスの追加、難易度の調整などが取り上げられています。さらに、ゲームのグラフィックやサウンドトラックの質も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167692.html",
-        "date": "2026-06-08",
-        "is_translated": false
-      },
-      {
-        "title": "【注目の塔登りバトロワ『Arkheron（アーケロン）』のサクッと遊べる新モード「スパイアーズ」...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "アクションゲーム『Arkheron（アーケロン）』の新モード「スパイアーズ」について紹介するレビュー記事です。この記事では、新モードの特徴や遊び方、またゲーム全体の評価ポイントとしてグラフィックや操作性について触れています。tower登りバトルが好きな方やアクションゲームを楽しみたい方には、参考になる情報が得られるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260608-448342/",
-        "date": "2026-06-08",
-        "is_translated": false
-      },
-      {
-        "title": "【スーパーマンとの冒険 シーズン 3 レビュー: SF とスーパーヒーロー アクションのほぼ完璧な融合】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "スーパーマンとの冒険シーズン3のレビュー記事では、SFとスーパーヒーローアクションがほぼ完璧に融合していることが評価ポイントの1つです。また、レビューではストーリーの魅力やキャラクターの深みも高く評価されています。スーパーマンファンやスーパーヒーローアクションが好きな読者にとって、このレビュー記事は必読の内容です。レビュー全体のトーンは、シーズン3の出来栄えを高く評価していることがわかります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/my-adventures-with-superman-season-3-review/",
-        "date": "2026-06-08",
-        "is_translated": true
-      },
-      {
-        "title": "【『ロスト ワイルド』プレビュー: 骨も凍るホラー ゲームでジュラシック パークとエイリアン ア...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "『ロスト ワイルド』は、ジュラシック パークとエイリアンのような恐怖感を体験できるホラー ゲームです。このゲームの評価ポイントとしては、リアルなグラフィックや迫力のあるサウンド設計が挙げられます。レビューの内容概要としては、ゲームの恐怖要素やストーリーの面白さ、そして操作性の評価があります。このレビュー記事は、ホラー ゲームやアドベンチャー ゲームが好きな人に特にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/lost-wild-preview/",
-        "date": "2026-06-08",
-        "is_translated": true
-      },
-      {
-        "title": "【「Sea of Stars」の最終コンテンツアップデート“Sunset Edition”がリリ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Sea of Stars」の最終コンテンツアップデート“Sunset Edition”のレビュー記事では、ゲームの評価ポイントとしてストーリーの深みやキャラクターの魅力が高く評価されています。また、グラフィックやサウンドトラックの質も高く評価されており、ゲームの世界観を引き立てているとされています。このレビュー記事は、RPGファンやアクションゲーム好きの方に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167704.html",
-        "date": "2026-06-08",
-        "is_translated": false
-      },
-      {
-        "title": "【「Resonance: A Plague Tale Legacy」を 3 時間テストしてみたと...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "「Resonance: A Plague Tale Legacy」を3時間テストしてみたというレビュー記事では、ゲームの評価ポイントとしてグラフィックの美しさやストーリーの面白さが挙げられます。また、レビューの内容概要として、ゲームの操作感や難易度の調整が適切であることも述べられています。この記事は、ステALTHアクションゲームやアドベンチャーゲームが好きな人や。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/resonance-plague-tale-legacy-hands-on-gameplay-footage/",
-        "date": "2026-06-08",
-        "is_translated": true
-      },
-      {
         "title": "【ダークファンタジー吸血鬼RPGの公式アートブック「The Blood of Dawnwalke...：レビュー】",
         "platform": "doope!",
         "type": "review",
@@ -735,19 +584,6 @@
         "url": "https://doope.jp/2026/06167697.html",
         "date": "2026-06-09",
         "is_translated": false
-      },
-      {
-        "title": "【デリクト・スターのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "デリクト・スターのレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンド、ゲームプレイの面白さなどが挙げられます。レビューの内容概要としては、ゲームの独自性やオリジナリティ、そしてプレイヤーへの楽しさなどが具体的に述べられています。このレビュー記事は、ゲームファンや新しいゲームを探している人にとって、参考になる情報が得られるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/derelict-star-review/",
-        "date": "2026-06-08",
-        "is_translated": true
       },
       {
         "title": "【『鳴潮』大型アプデVer3.4でSteam同接いきなり「約5万人」、人気爆発中。「サイバーパン...：レビュー】",
@@ -1320,8 +1156,47 @@
         "url": "https://www.polygon.com/sea-of-remnants-summer-game-fest-preview/",
         "date": "2026-06-12",
         "is_translated": true
+      },
+      {
+        "title": "【新人お花屋さんシム『Puni the Florist』、まったり自由花束デザインで“好評率98...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Puni the Florist』は新人お花屋さんをシミュレートするゲームで、自由に花束をデザインできるというユニークな要素が評価されているようです。レビューでは、ゲームの評価ポイントとして、花束デザインの自由度の高さや、ゲームのリラックス効果が挙げられています。好評率98パーセントという高い評価を獲得していることから、気軽に遊べるゲームファンや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260613-449553/",
+        "date": "2026-06-13",
+        "is_translated": false
+      },
+      {
+        "title": "【“スタントマン”シリーズがど派手な復活を果たす「Stuntman: Hollywood」の本格...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、シリーズの復活作である「Stuntman: Hollywood」の本格的なレビューです。評価ポイントとしては、ゲームのグラフィックやサウンドデザイン、そしてプレイヤビリティが高く評価されています。記事では、ゲームのストーリーやミッションの内容も紹介されており、シリーズファンやアクションゲーム好きの方にぜひ読んでほしい内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167876.html",
+        "date": "2026-06-13",
+        "is_translated": false
+      },
+      {
+        "title": "【Blood Message のゲームプレイ プレビューで、『God of War』と同等のアク...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Blood Message のゲームプレイ プレビューのレビュー記事では、ゲームの評価ポイントとして、『God of War』と同等のアクション性やグラフィックの質が高く評価されています。また、レビューの内容概要としては、ゲームのストーリーやキャラクターの深みも高く評価されており、ゲームの世界観も引き立てています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/blood-message-preview-summer-game-fest/",
+        "date": "2026-06-12",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-12T22:25:23.670146"
+  "last_updated": "2026-06-13T03:34:48.814902"
 }
