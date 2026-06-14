@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/ignlivebundle2026_bundle",
         "date": "2026-06-13"
+      },
+      {
+        "title": "We Will Always Be Here: Pride Month 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、現在「We Will Always Be Here: Pride Month 2026」というバンドルが販売中です。このバンドルには、「Butterfly Soup」や「Ladykiller in a Bind」などのタイトルが含まれており、LGBTQ+をテーマにしたゲームが中心になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/wewillalwaysbeherepridemonth2026_bundle",
+        "date": "2026-06-14"
       }
     ],
     "sale": [
@@ -544,6 +556,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/warhammer-40000-speed-freeks/info/",
         "date": "2026-06-12"
+      },
+      {
+        "title": "Don't Starve Together",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サバイバルゲームの名作「Don't Starve Together」がSteamで大幅に値下げされています。通常の価格より90%割引されており、かなりお得な価格帯で購入することができます。このゲームは、ハードコアなサバイバル要素とユニークなグラフィックが特徴で、最大6人までのオンラインプレイも可能です。評価は非常に高く、Steamでの評価は「非常に好評」です。",
+        "price": "¥148",
+        "originalPrice": "¥1,480",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/322330",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "Resident Evil Requiem",
+        "platform": "Various",
+        "type": "sale",
+        "description": "バイオハザードシリーズの最新作「Resident Evil Requiem」が現在、Variousで32%オフのセール中です。このゲームは、サバイバルホラーのジャンルで知られており、スリリングなストーリーやグラフィックが特徴です。セール価格で購入することで、大幅な割引を受けることができます。また、このゲームは高い評価を受けており、ファンや批評家から人気を博しています。",
+        "price": "$47.59",
+        "originalPrice": "",
+        "discount": "-32%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
+        "date": "2026-06-14"
       }
     ],
     "review": [
@@ -1040,8 +1076,34 @@
         "url": "https://automaton-media.com/articles/special-column/20260614-449614/",
         "date": "2026-06-14",
         "is_translated": false
+      },
+      {
+        "title": "【『ドラゴンズドグマ 2』アプデでとっても快適に。『カミとミコ』の読後感良し。『Mina the...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本レビュー記事では、ゲーム『ドラゴンズドグマ 2』のアップデートにより快適にプレイできるようになった点や、漫画『カミとミコ』の読みごたえについて触れています。また、ゲーム『Mina the...：レビュー』のレビューも含まれています。ゲームや漫画の最新情報を知りたい方や、レビュー記事を読みたい方にはお勧めです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260614-449664/",
+        "date": "2026-06-14",
+        "is_translated": false
+      },
+      {
+        "title": "【『ファイナルファンタジーVII リベレーション』発表で『FF7リメイク』Steam版のプレイヤ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ファイナルファンタジーVII リベレーション』の発表により、Steam版の『FF7リメイク』のプレイヤーからはさまざまな反応が寄せられています。このレビュー記事では、ゲームの評価ポイントとしてグラフィックの質やストーリーの展開、そしてオペレーションのスムーズさが取り上げられています。また、ゲームの世界観やキャラクターの魅力も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/ff7r-20260614-449633/",
+        "date": "2026-06-14",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-14T03:55:55.491708"
+  "last_updated": "2026-06-14T11:30:05.089358"
 }
