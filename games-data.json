@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
         "date": "2026-06-14"
+      },
+      {
+        "title": "Eets",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Eetsは、パズル要素のあるユニークなゲームで、現在Variousで100%割引されています。ユーザーからは、高い評価と人気度を誇り、パズルファンには特におすすめです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/eets/info/",
+        "date": "2026-06-14"
       }
     ],
     "review": [
@@ -1102,8 +1114,47 @@
         "url": "https://automaton-media.com/articles/newsjp/ff7r-20260614-449633/",
         "date": "2026-06-14",
         "is_translated": false
+      },
+      {
+        "title": "【Sporeの開発者らは、エボリューションゲームのプレビューは実際に作っていたものよりも野心的で...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "エボリューションゲームのプレビューを実際のゲームよりも野心的に作っていたSporeの開発者らのレビュー記事では、ゲームの評価ポイントとしてグラフィックやゲームプレイの自由度が高く評価されています。また、レビューの内容概要としては、ゲームのシナリオの多様性や、プレイヤーの選択肢の幅が広いことが挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/life-sim/spore-devs-say-the-evolution-games-previews-were-more-ambitious-than-what-they-were-actually-making-and-they-built-a-fantasy-in-peoples-minds-that-was-unachievable/",
+        "date": "2026-06-14",
+        "is_translated": true
+      },
+      {
+        "title": "【洞窟物語+ レビュー (2012)】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "『洞窟物語+』は、2012年に発売されたアクションアドベンチャーゲームです。このゲームの評価ポイントとしては、豊富なステージ数やユニークなゲームシステムが挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックが高く評価されている点や、難易度が適切に設定されている点が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/cave-story-review-2012/",
+        "date": "2026-06-14",
+        "is_translated": true
+      },
+      {
+        "title": "【Enginefall プレビュー: Snowpiercer と Rust の出会いはここ数年で...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Enginefall プレビューのレビュー記事では、Snowpiercer と Rust の要素が組み合わさったゲームの魅力を紹介しています。このゲームは、壮大な世界観と独自のゲームプレイを提供することで、ここ数年で最も期待されるタイトルのひとつとなっています。レビューでは、ゲームのグラフィックやサウンドデザインも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/enginefall-impressions/",
+        "date": "2026-06-14",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-14T14:18:35.774277"
+  "last_updated": "2026-06-14T22:09:17.687733"
 }
