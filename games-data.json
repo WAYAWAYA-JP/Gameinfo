@@ -52,42 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Twist & Tangle Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Twist & Tangle Bundleのバンドルが販売中です。このバンドルには、Twist & Shout、Tangle Tower、Echoes of the Feyなどの主要タイトルが含まれています。ジャンルはパズルやアドベンチャーなど多岐にわたります。大まかな価格帯は10ドル以下で、バンドルとして購入することで個別購入よりも大幅に安く購入できます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
-        "date": "2026-06-05"
-      },
-      {
-        "title": "Frosty Games Fest Showcase Bundle 2026: Made in ANZ",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Frosty Games Fest Showcase Bundle 2026: Made in ANZというバンドルがHumble Bundleで販売中です。このバンドルには、オーストラリアやニュージーランドで作られたゲームが数多く含まれています。主要タイトルとして、例えば「Unpacking」や「The Pathless」などのタイトルがあります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/frostygamesfestshowcasebundle2026madeinanz_bundle",
-        "date": "2026-06-05"
-      },
-      {
-        "title": "Redline Racing Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、レースゲームのファン必見のRedline Racing Bundleが販売中です。このバンドルには、主要タイトルとして「Assetto Corsa」、「Project Cars 2」、「Dirt Rally 2.0」などが含まれています。レースゲームを楽しむことができるこのバンドルは、ジャンルとしてレースゲームに分類され。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/redlineracingbundle_bundle",
-        "date": "2026-06-05"
-      },
-      {
         "title": "Devil May Cry: Devil Trigger Reloaded Collection 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,78 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストがSteamで50% OFFセール中です。このゲームは、オープンワールドアクションアドベンチャーのジャンルに属し、豊富なミッションや自由度の高いゲームプレイが特徴です。通常価格から50%割引されるこのセールは、格安の価格でプレイする好機です。グランド・セフト・オートシリーズは非常に人気があり、高い評価を得ているため、多くのゲームファンに愛されています。",
-        "price": "¥2,190",
-        "originalPrice": "¥4,380",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-06-08"
-      },
-      {
-        "title": "Sea of Stars: Sunset Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Sea of Stars: Sunset EditionがSteamで50% OFFのセール中です。このゲームは、RPGとアドベンチャーの要素を組み合わせた、美しいグラフィックと魅力的なストーリーが特徴です。現在の価格は割引前のおよそ半額になっており、非常に魅力的なお買い得です。Sea of Starsは、ユーザーからの評価も非常に高く、多くのプレイヤーから人気を博していますので。",
-        "price": "¥2,000",
-        "originalPrice": "¥4,000",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/431745",
-        "date": "2026-06-08"
-      },
-      {
-        "title": "Returnal™",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Returnal™は、アクションパズルゲームとして知られており、スリル満点の体験を提供します。現在、Steamで67%の割引が行われており、大幅な価格割引です。Returnal™は、ユーザーから非常に高い評価を受けており、人気ゲームとして支持されています。このチャンスを逃さずに、Returnal™をプレイしてみてください。",
-        "price": "¥2,504",
-        "originalPrice": "¥7,590",
-        "discount": "67% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1649240",
-        "date": "2026-06-08"
-      },
-      {
-        "title": "Gravity Circuit",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲームであるGravity Circuitが、現在Variousで100%割引されています。このゲームは、ユニークなグラフィックと難しいゲームプレイが特徴です。価格は無料になり、誰でも遊ぶことができます。評価は高く、人気も高まっており、多くのプレイヤーから好評価を得ています。セール期間中は、無料でダウンロードして遊ぶことができます。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/gravity-circuit/info/",
-        "date": "2026-06-08"
-      },
-      {
-        "title": "Relaxing Simulator",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Relaxing SimulatorがVariousで大幅なセール中です。このゲームは、リラックスすることを目的としたシミュレーションゲームで、100％の割引が適用されています。プレイヤーは、ストレスを解消するために様々なアクティビティに参加し、心を癒すことができます。非常に評価の高いゲームであり、多くのユーザーから人気を博しています。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/relaxing-simulator/info/",
-        "date": "2026-06-08"
-      },
-      {
-        "title": "Resident Evil 4 (2023)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "人気アクションアドベンチャーゲームの「Resident Evil 4」が、現在79%オフのセール中です。このゲームは、グラフィックやサウンドデザインが大幅に改善されたリメイク作品で、サバイバルホラーの要素も充実しています。高い評価を受けており、ファンや新規プレイヤーから人気を博しています。",
-        "price": "$8.59",
-        "originalPrice": "",
-        "discount": "-79%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
-        "date": "2026-06-08"
-      },
       {
         "title": "Solarpunk",
         "platform": "Various",
@@ -595,149 +487,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【“冷笑系主人公”の青春ノベル『二万分の一の雨粒達 – One in 20,000 raindr...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「二万分の一の雨粒達 – One in 20,000 raindrops」の評価ポイントについて述べています。主な評価ポイントとして、ゲームのストーリーが魅力的で、登場人物のキャラクターが立体的に描かれていることが挙げられます。また、ゲームのグラフィックやサウンドトラックも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260610-448945/",
-        "date": "2026-06-10",
-        "is_translated": false
-      },
-      {
-        "title": "【モンスター育成アクション『ボイドリング・バウンド』同接8000人のロケットスタート。モンスター...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、モンスター育成アクションゲーム「ボイドリング・バウンド」の評価ポイントを紹介しています。同接8000人のロケットスタートというタイトルが示すように、初期の評価が非常に高いことがわかります。ゲームの評価ポイントとして、モンスターの育成システムやアクション要素の評価が高く、総評としても高い評価を得ています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260610-448919/",
-        "date": "2026-06-10",
-        "is_translated": false
-      },
-      {
-        "title": "【『ファイナルファンタジー レゾナンス』先行プレイ感想。『FF』初のHD-2D作品、「シネマティ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ファイナルファンタジー レゾナンス』は、シリーズ初のHD-2D作品であり、シネマティックなグラフィックや魅力的なストーリーが特徴です。このゲームの評価ポイントとしては、グラフィックやサウンドトラックの質が高いこと、キャラクターのデザインやバトルシステムの面白さなどがあります。レビューの内容概要としては、ゲームの世界観やストーリーの深み。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260610-448881/",
-        "date": "2026-06-10",
-        "is_translated": false
-      },
-      {
-        "title": "【マルチプレイヤーを大幅に強化する“N”シリーズ最新作「N PLUS INFINITY TIME...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「N PLUS INFINITY TIME...」は、マルチプレイヤー機能を大幅に強化した「N」シリーズの最新作です。このゲームの評価ポイントとしては、グラフィックの向上、ゲームプレイのスムーズ化、そしてマルチプレイヤーモードの拡張が挙げられます。レビューの内容概要としては、新しいステージの追加や、キャラクターのバリエーション増加が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167777.html",
-        "date": "2026-06-10",
-        "is_translated": false
-      },
-      {
-        "title": "【この『FF』を待っていた。シリーズ初「HD-2D」採用の『FFレゾナンス』試遊で「ビジュアルの...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事は、シリーズ初の「HD-2D」というグラフィックを採用した『FFレゾナンス』の試遊レビューです。レビューでは、ビジュアルの評価ポイントやゲームの魅力などが述べられています。特に、グラフィックの美しさや、ゲームの世界観が掘り下げられています。この記事は、ファイナルファンタジーシリーズのファンや、新しいゲームを探している人に興味を持って読む価値があるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/10/182739.html",
-        "date": "2026-06-10",
-        "is_translated": false
-      },
-      {
-        "title": "【Aliens: Fireteam Elite 2 プレビュー: 派手で楽しい協力シューティング...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Aliens: Fireteam Elite 2は、派手で楽しい協力シューティングゲームです。このゲームの評価ポイントとしては、グラフィックの質とサウンドデザインが高く評価されています。また、レビューの内容概要としては、協力プレイの面白さや、エイリアンのデザインの迫力が挙げられます。このゲームは、シューティングゲームやエイリアンシリーズのファンに最もお勧めできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/aliens-fireteam-elite-2-preview/",
-        "date": "2026-06-10",
-        "is_translated": true
-      },
-      {
-        "title": "【対戦ゲームのプレイヤー維持には「スキル上達の場」も重要か。競技系モードとカジュアルモードの“異...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "対戦ゲームのプレイヤー維持には、競技系モードとカジュアルモードのバランスが重要です。スキル上達の場を提供することで、プレイヤーが継続的にゲームに興味を持ち続けることができます。また、カジュアルモードでは初心者も安心してプレイできる環境を作り、競技系モードでは上級者が本気で戦えるステージを用意することで、幅広いプレイヤーを維持することができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260610-449062/",
-        "date": "2026-06-10",
-        "is_translated": false
-      },
-      {
-        "title": "【“セルフお絵描き”かくれんぼマルチ『めっちゃカメレオン』さっそく「Steam同接1万5000人...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、セルフお絵描きかくれんぼマルチのゲーム「めっちゃカメレオン」のレビュー内容をまとめたものです。このゲームは、Steam同接で1万5000人を超えるプレイヤーを集め、評価ポイントとしてグラフィックやゲーム性が高く評価されています。記事では、ゲームのユニークなシステムやマルチプレイの楽しさについて触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260610-448983/",
-        "date": "2026-06-10",
-        "is_translated": false
-      },
-      {
-        "title": "【『リングフィット アドベンチャー』を継続プレイすると「抑うつ症状が改善する可能性」示す研究。運...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『リングフィット アドベンチャー』を継続プレイすると「抑うつ症状が改善する可能性」を示す研究に関するレビュー記事があります。この記事では、ゲームの継続的なプレイが抑うつ症状の改善にどのような影響を与えるかについて調査しています。また、ゲームの評価ポイントとして、プレイヤーのモチベーションの維持やストレスの軽減などが取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260610-449013/",
-        "date": "2026-06-10",
-        "is_translated": false
-      },
-      {
-        "title": "【Faker、米TIME誌の「スポーツ界で影響力のある100人」に選ばれる―大谷翔平やメッシ、レ...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事は、韓国のプロゲーマーであるFakerが、米国のTIME誌によって選ばれた「スポーツ界で影響力のある100人」に選ばれたことを取り上げています。同リストには、大谷翔平やメッシ、レブロンなどの有名アスリートも含まれています。この記事では、Fakerの影響力と彼の成果について評価しています。また、eスポーツの成長とその将来性についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/10/182768.html",
-        "date": "2026-06-10",
-        "is_translated": false
-      },
-      {
-        "title": "【Halo Campaign Evolved プレビュー: Xbox のリメイクは 2 時間後に...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Halo Campaign Evolved プレビューのレビュー記事では、Xbox のリメイク版について2時間後にプレイした感想が述べられています。この記事では、グラフィックの向上やゲームプレイの改善など、リメイク版の評価ポイントが紹介されています。また、ゲームのストーリーや操作性の改善についても触れています。この記事は、Xbox やHalo シリーズのファンにとっては必読の内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/halo-campaign-evolved-preview-hands-on/",
-        "date": "2026-06-10",
-        "is_translated": true
-      },
       {
         "title": "【シリーズ最新作「The Elder Scrolls VI」の発表から遂に8年、XBOXのMat...：レビュー】",
         "platform": "doope!",
@@ -1153,8 +902,34 @@
         "url": "https://www.polygon.com/enginefall-impressions/",
         "date": "2026-06-14",
         "is_translated": true
+      },
+      {
+        "title": "【Steamの新たな中毒系ローグライク『ダイス・タバーン：運命の一投』は地味……なのに強烈な“運...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamの新たな中毒系ローグライクゲーム「ダイス・タバーン：運命の一投」は、地味な見た目に反して強烈な運要素が魅力的なゲームです。このゲームの評価ポイントとしては、運要素の強さ、複雑なゲームシステム、そして高レベルなリプレイ性があります。レビューでは、ゲームの魅力的な要素や難易度の高さについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260611-449280/",
+        "date": "2026-06-15",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam 週間の振り返り: 先週、Steam で 300 以上のゲームがリリースされ、そのう...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Steam 週刊レビュー記事では、先週にリリースされた300以上のゲームについて評価しています。特に、ゲームのグラフィック、ストーリー、ゲームプレイの面で高い評価を受けた作品を紹介しています。さらに、レビュアーは各ゲームの特徴や魅力を解説しており、ゲームファンや新規プレイヤーにとって参考になる情報が含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-more-than-300-games-released-on-steam-last-week-and-120-of-them-had-ai-disclosures/",
+        "date": "2026-06-15",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-14T22:09:17.687733"
+  "last_updated": "2026-06-15T04:08:09.333801"
 }
