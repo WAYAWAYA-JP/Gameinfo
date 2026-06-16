@@ -556,6 +556,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/split-fiction/info/",
         "date": "2026-06-16"
+      },
+      {
+        "title": "デッドバイデイライト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "デッドバイデイライトは、人気のサバイバルホラー系ゲームで、現在Steamで60%オフのセール中です。このゲームでは、プレイヤーはさまざまなキャラクターを操作して、恐ろしい殺人鬼から逃げる必要があります。ストラテジーとチームワークが重要な要素です。高い評価と人気度を誇り、ファンからも好評です。通常価格よりも大幅に安くなっているので、ゲームファンにはおすすめのセールです。",
+        "price": "¥792",
+        "originalPrice": "¥1,980",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/381210",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Stellaris",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ストラテジーゲームの「Stellaris」がVariousで73%割引されています。このゲームは、宇宙を舞台にしたグランドストラテジーで、プレイヤーは異星人の文明を発見し、外交や戦争を通じて宇宙の覇権を争います。評価は非常に高く、人気ゲームとして知られています。価格は大幅に下がっているので、興味がある方はこの機会にチェックしてみてください。",
+        "price": "$10.76",
+        "originalPrice": "",
+        "discount": "-73%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stellaris/info/",
+        "date": "2026-06-16"
       }
     ],
     "review": [
@@ -1172,5 +1196,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-16T17:07:21.963668"
+  "last_updated": "2026-06-16T22:53:19.449113"
 }
