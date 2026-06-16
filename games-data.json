@@ -544,6 +544,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/wild-terra-2-new-lands/info/",
         "date": "2026-06-16"
+      },
+      {
+        "title": "Split Fiction",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Split FictionがVariousで35%オフのセール中です。このゲームは、ユニークなストーリーテリングと挑戦的なパズルを特徴とするアドベンチャーゲームです。現在、35%の割引が適用され、大幅な価格割引を受けることができます。ユーザーの評価は非常に高く、多くのプレイヤーから人気を博しています。",
+        "price": "$32.49",
+        "originalPrice": "",
+        "discount": "-35%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/split-fiction/info/",
+        "date": "2026-06-16"
       }
     ],
     "review": [
@@ -1118,8 +1130,47 @@
         "url": "https://www.rockpapershotgun.com/assassins-creed-shadows-final-update-adds-one-last-story-mission-and-a-wearable-black-flag-resynced-advert",
         "date": "2026-06-16",
         "is_translated": true
+      },
+      {
+        "title": "【Rode NT1 第 5 世代マイクのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Rode NT1 第5世代マイクのレビュー記事では、このマイクの音質やデザイン、耐久性などが評価されています。レビューのポイントとしては、クリアで明るい音質、コンパクトで持ち運びやすいデザイン、長期間の使用に耐える耐久性などが挙げられます。このレビューは、音楽やポッドキャストの制作に興味がある人、またプロフェッショナルなマイクを探している人にとって、参考になります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/microphones/rode-nt1-5th-generation-microphone-review/",
+        "date": "2026-06-16",
+        "is_translated": true
+      },
+      {
+        "title": "【Phanteks XT View Matrix ケースレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Phanteks XT View Matrix ケースのレビュー記事では、ケースのデザインや性能、クオリティなどが評価されています。このレビューでは、ケースの透明な側面パネルが特徴的なデザインや、優れた冷却性、そして高品質な部品が使用されていることが評価ポイントとして挙げられています。また、組み立ての容易さやケーブルの整理のしやすさも評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/pc-cases/phanteks-xt-view-matrix-case-review/",
+        "date": "2026-06-16",
+        "is_translated": true
+      },
+      {
+        "title": "【レビュー: トイ・ストーリー 5 は奇跡的にシリーズをピクサーの黄金時代に戻す】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "トイ・ストーリー5のレビュー記事では、シリーズがピクサーの黄金時代に戻ったと評価されています。このゲームの評価ポイントとしては、ストーリーの出来栄えやキャラクターの魅力が挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックが高く評価されている点や、プレイヤーの感情を揺さぶるストーリー展開が特徴的であることが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/toy-story-5-review/",
+        "date": "2026-06-16",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-16T13:28:01.203108"
+  "last_updated": "2026-06-16T17:07:21.963668"
 }
