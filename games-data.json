@@ -258,30 +258,6 @@
     ],
     "sale": [
       {
-        "title": "Lies of P",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Lies of PがSteamで50% OFFのセール中です。アクションアドベンチャーゲームのLies of Pは、ピノッキオをモチーフにした独特の世界観と、スムーズな操作が特徴です。現在、通常価格から大幅に値下げされており、ファン待望のチャンスです。ユーザーの評価は非常に高く、Steamでは「非常に好評」という評価を獲得しています。人気度も高く、多くのプレイヤーから支持されています。",
-        "price": "¥4,180",
-        "originalPrice": "¥8,360",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1627720",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Lords of the Fallen",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Lords of the Fallenは、ダークファンタジーを舞台にしたアクションRPGゲームで、現在Variousで70%割引のセール中です。このゲームは、ハードコアな戦闘システムと美しいグラフィックで知られており、ゲームファンから高い評価を得ています。価格も割引により大幅に下がっているので、興味を持っている方はこの機会にチェックしてみる価値があります。",
-        "price": "$8.90",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/lords-of-the-fallen/info/",
-        "date": "2026-06-10"
-      },
-      {
         "title": "Street Fighter 6",
         "platform": "Steam",
         "type": "sale",
@@ -580,139 +556,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stellaris/info/",
         "date": "2026-06-16"
+      },
+      {
+        "title": "Dying Light 2: Reloaded Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「Dying Light 2: Reloaded Edition」がSteamで大幅なセール中です。このゲームは、ゾンビが徘徊する都市を舞台に、 Parkourアクションを駆使してサバイバルするという特徴があります。現在、80%の割引が適用されており、非常に魅力的な価格になっています。ゲームの評価は非常に高く、人気度も高いので、ゲームファンにはおすすめです。",
+        "price": "¥1,618",
+        "originalPrice": "¥8,090",
+        "discount": "80% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/129576",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "Age of Wonders 4",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Age of Wonders 4は、ターン制ストラテジー 게임です。このゲームは、プレイヤーが自分の王国を築き、他の王国と戦うことを特徴としています。現在、Variousで56%割引されており、大幅な値引きです。プレイヤーからの評価も高く、人気ゲームとして知られています。",
+        "price": "$21.96",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/age-of-wonders-4/info/",
+        "date": "2026-06-17"
       }
     ],
     "review": [
-      {
-        "title": "【Steamマルチ対応・高自由度ケバブ店経営シム『Kebab Chefs!』ついに正式リリース。...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamでリリースされたマルチプレイ対応のケバブ店経営シミュレーションゲーム「Kebab Chefs!」のレビュー記事を紹介します。このゲームでは、高い自由度を楽しむことができ、プレイヤーはケバブ店を経営しながらさまざまな要素を調整する必要があります。レビューのポイントとして、ゲームの自由度の高さ、ユニークなケバブ店経営のシステム、そしてマルチプレイでの楽しさが挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260612-449384/",
-        "date": "2026-06-12",
-        "is_translated": false
-      },
-      {
-        "title": "【「群玉県」オープンワールドレース『JDM: Japanese Drift Master』Ste...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「JDM: Japanese Drift Master」は、群玉県を舞台にしたオープンワールドレースゲームで、プレイヤーは自由に車を運転し、ドリフトを楽しむことができます。このゲームの評価ポイントとしては、リアルなグラフィックや、ドリフトの技術が高い評価を受けています。レビューの内容概要としては、ゲームの自由度が高いこと、グラフィックの美しさ、そしてドリフトの操作感がいいことが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/jdm-japanese-drift-master-20260612-449358/",
-        "date": "2026-06-12",
-        "is_translated": false
-      },
-      {
-        "title": "【協力ドタバタ線路建設ゲーム『Unrailed 2: バック・オン・トラック』正式リリースで“レ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Unrailed 2: バック・オン・トラック』は、協力プレイを重視したドタバタ線路建設ゲームで、プレイヤーはチームワークを通じて鉄道網を構築し、目的地への到達を目指します。このゲームの評価ポイントとしては、面白くADD的なゲーム性、多様なマップやキャラクターの存在、そして協力プレイの深さが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/unrailed-2-20260612-449352/",
-        "date": "2026-06-12",
-        "is_translated": false
-      },
-      {
-        "title": "【「JDM：ジャパニーズドリフトマスター」のマルチプレイヤーモードが実装、ローンチトレーラーも】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「JDM：ジャパニーズドリフトマスター」のレビュー記事では、ゲームの評価ポイントとしてマルチプレイヤーモードの実装が取り上げられています。記事では、ローンチトレーラーについても触れており、ゲームの新しい機能やグラフィックの改善について述べています。特に、ドリフトラバーやレーシングゲームファンにとって、このゲームが魅力的であることが強調されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167866.html",
-        "date": "2026-06-12",
-        "is_translated": false
-      },
-      {
-        "title": "【“Plague Tale”シリーズ最新作「Resonance: A Plague Tale L...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Resonance: A Plague Tale」は、「Plague Tale」シリーズの最新作です。このゲームは、壮大なストーリー、美しいグラフィックス、そして心を掴むサウンドトラックで構成されています。レビューでは、高い評価を得ている点として、ストーリーの深み、キャラクターの魅力、そしてゲームプレイのスリルがあるとされています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167836.html",
-        "date": "2026-06-12",
-        "is_translated": false
-      },
-      {
-        "title": "【オープンワールドレーシングゲーム「Clutch」の本格的なゲームプレイ映像が公開、開発はFor...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "オープンワールドレーシングゲーム「Clutch」の本格的なゲームプレイ映像が公開されました。このゲームは、For...という開発チームによって制作されています。レビューの内容としては、グラフィックの美しさや、カスタマイズの自由度、そしてオープンワールドでのレースのスリルが高く評価されています。レースゲームファンやオープンワールドゲームを好む人にとって、このゲームは非常に魅力的です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167835.html",
-        "date": "2026-06-12",
-        "is_translated": false
-      },
-      {
-        "title": "【宇宙探索MMO『SpaceCraft』Steamで人気白熱スタート、MMO要素には賛否ありつつ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "宇宙探索MMO『SpaceCraft』はSteamで人気を博しており、多くのユーザーから高い評価を得ています。このゲームの評価ポイントとしては、広大な宇宙を自由に探索できること、ユニークなゲームシステム、そして美しいグラフィックが挙げられます。レビューの内容概要としては、ゲームのMMO要素について賛否両論があること、ゲームの自由度が高いこと。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/spacecraft-20260612-449486/",
-        "date": "2026-06-12",
-        "is_translated": false
-      },
-      {
-        "title": "【Erasion プレビュー: Hades 以来、ローグライクに起こる最高の出来事】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事は、ローグライクゲームの新作「Erasion」のプレビューを紹介しています。Hades以来、ローグライクゲームに起こった最高の出来事と評価されています。記事では、ゲームの評価ポイントとして、独自のゲームシステム、豊富なアイテムやスキルのバリエーション、そして繰り返しプレイするのが楽しい点が取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/erosion-preview-summer-game-fest-2026/",
-        "date": "2026-06-12",
-        "is_translated": true
-      },
-      {
-        "title": "【ProtoArc EM25 人間工学に基づいたマウスのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ProtoArc EM25 は人間工学に基づいたマウスで、ユーザーの手の疲れを軽減するために設計されています。このレビュー記事では、ProtoArc EM25 の特徴や利点、そしてユーザーの体験を紹介しています。特に、長時間の作業やゲームプレイに適している点や、操作性の高さなどが評価ポイントです。ゲーム愛好家やオフィスワーカーなど、長時間マウスを使用する人々にとって。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/protoarc-em25-ergonomic-mouse-review/",
-        "date": "2026-06-12",
-        "is_translated": true
-      },
-      {
-        "title": "【Sea of​​ Remnants ゲームプレイ プレビュー: 1 時間後には AC: Bla...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Sea of​​ Remnants ゲームプレイ プレビューのレビュー記事では、1 時間後のゲームの評価ポイントとして、ゲームの世界観やストーリー、操作性などの要素が評価されています。このレビューは、ゲームファンや新作ゲームに興味のある読者に最適です。記事では、ゲームのプレイ感覚やグラフィックの美しさなどが具体的に紹介されており、ゲームへの期待を高める内容となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/sea-of-remnants-summer-game-fest-preview/",
-        "date": "2026-06-12",
-        "is_translated": true
-      },
       {
         "title": "【新人お花屋さんシム『Puni the Florist』、まったり自由花束デザインで“好評率98...：レビュー】",
         "platform": "AUTOMATON",
@@ -738,19 +608,6 @@
         "url": "https://doope.jp/2026/06167876.html",
         "date": "2026-06-13",
         "is_translated": false
-      },
-      {
-        "title": "【Blood Message のゲームプレイ プレビューで、『God of War』と同等のアク...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Blood Message のゲームプレイ プレビューのレビュー記事では、ゲームの評価ポイントとして、『God of War』と同等のアクション性やグラフィックの質が高く評価されています。また、レビューの内容概要としては、ゲームのストーリーやキャラクターの深みも高く評価されており、ゲームの世界観も引き立てています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/blood-message-preview-summer-game-fest/",
-        "date": "2026-06-12",
-        "is_translated": true
       },
       {
         "title": "【最大4人協力プレイ対応・荒野ドライブ探索ゲーム『over the hill』、体験版からさっそ...】",
@@ -1193,8 +1050,47 @@
         "url": "https://www.polygon.com/toy-story-5-review/",
         "date": "2026-06-16",
         "is_translated": true
+      },
+      {
+        "title": "【好評SF廃墟FPS『Luna Abyss』開発元、「発売からわずか1か月」でスタジオ閉鎖。7年...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "人気のSF廃墟FPSゲーム「Luna Abyss」の開発スタジオが、発売からわずか1か月で閉鎖になったと発表されました。このゲームの評価ポイントとしては、独自の世界観やグラフィックの美しさが挙げられます。レビューの内容概要としては、ゲームの雰囲気やサウンドトラックの評価が中心です。特に、SFやFPSゲームのファンであれば、必見のレビュー記事となります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/luna-abyss-20260617-450069/",
+        "date": "2026-06-17",
+        "is_translated": false
+      },
+      {
+        "title": "【新ヒーロー“シオン”や多彩な新コンテンツを導入する「オーバーウォッチ」シーズン3が開幕：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「オーバーウォッチ」シーズン3のレビュー記事では、新しく導入されたヒーロー「シオン」や多様な新コンテンツについて評価しています。また、ゲームの新しいシーズンの魅力や、プレイヤーに対する新しい挑戦についても触れています。このレビュー記事は、ゲームファンや「オーバーウォッチ」のプレイヤーにとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167969.html",
+        "date": "2026-06-17",
+        "is_translated": false
+      },
+      {
+        "title": "【グラップリングフックで地獄に落ちるこの信じられないほど緊迫した 2 時間のホラーをプレイしても...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、グラップリングフックで地獄に落ちるという緊迫した2時間のホラーを体験するゲームについてです。評価ポイントとしては、ゲームの緊張感、ストーリーの深み、そしてプレイヤーの感情を揺さぶる能力があります。内容は、ゲームの恐怖要素、ストーリーの展開、そしてプレイヤーの体験を中心に構成されています。この記事は、ホラーゲームファンやアクションゲームを楽しむ人に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/horror/i-need-you-to-play-this-unbelievably-tense-2-hour-horror-about-descending-into-hell-with-a-grappling-hook/",
+        "date": "2026-06-16",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-16T22:53:19.449113"
+  "last_updated": "2026-06-17T03:59:01.855001"
 }
