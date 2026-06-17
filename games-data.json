@@ -254,6 +254,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/devilmaycrydeviltriggerreloadedcollection2026_bundle",
         "date": "2026-06-16"
+      },
+      {
+        "title": "Massive Music 4 Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Massive Music 4 Bundleというバンドルの販売が行われています。このバンドルには、Electrocharge、Cyberpunk 2077: Radio Vol. 1、The Saboteurなどの主要タイトルが含まれており、ゲームや映画のサウンドトラックを中心とした音楽が楽しめます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/massive-music4-bundle",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "HHHentai Pair Bundle 2",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、HHHentai Pair Bundle 2というバンドルが現在販売中です。このバンドルには、エロティックな要素を含んだアダルトゲームが収録されています。主要タイトルとしては、成人向けのゲームが含まれており、ジャンルはアダルトゲームになります。大まかな価格帯は10ドルから20ドル程度で、購入することができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/hentai-pair2-bundle",
+        "date": "2026-06-17"
       }
     ],
     "sale": [
@@ -579,6 +603,18 @@
         "discount": "-56%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/age-of-wonders-4/info/",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "Sid Meier’s Civilization® VI",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Sid Meier’s Civilization VIがSteamで90% OFFのセール中です。このゲームは、ストラテジー系のシミュレーションゲームで、歴史上の文明を発展させながら、他の文明との戦略的な戦いを楽しむことができます。現在、90%の割引で購入することができ、非常に魅力的な価格です。このゲームは、高い評価と人気度を誇り、ストラテジー系のゲームファンには必見の作品となっています。",
+        "price": "¥700",
+        "originalPrice": "¥7,000",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/289070",
         "date": "2026-06-17"
       }
     ],
@@ -1089,8 +1125,86 @@
         "url": "https://www.pcgamer.com/games/horror/i-need-you-to-play-this-unbelievably-tense-2-hour-horror-about-descending-into-hell-with-a-grappling-hook/",
         "date": "2026-06-16",
         "is_translated": true
+      },
+      {
+        "title": "【DLCを出すと「ゲーム本編の販売ペースが約2倍にブーストされる」との研究結果。プレイヤーにも嬉...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、DLCの発売がゲーム本編の販売ペースに与える影響について述べられています。研究結果によると、DLCの発売により、ゲーム本編の販売ペースが約2倍に増加することが分かっています。これは、DLCがゲーム本編の魅力を再びプレイヤーの注目にさらす効果があることを示唆しています。ゲーム開発者やマーケターにとっては、DLCの効果的な利用が重要な戦略であることがわかります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260617-450243/",
+        "date": "2026-06-17",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料戦車シューター『World of Tanks: HEAT』開発者インタビュー。な...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『World of Tanks: HEAT』は無料の戦車シューターで、プレイヤーは様々な戦車を操作して戦闘に参加します。このゲームの評価ポイントとしては、戦車の操作性やグラフィックの質が高く、リアルな戦闘感覚を味わえることが挙げられます。レビューの内容概要としては、ゲームのバランスやステージデザインが良く、オンラインマルチプレイヤー機能も充実していることが分かります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/world-of-tanks-heat-interview-20260617-450211/",
+        "date": "2026-06-17",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料SF重厚RPG『カウンターサイド』8月でサービス終了へ。しかし「リブートプロジェ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料のSF重厚RPG『カウンターサイド』は8月でサービス終了することが発表されましたが、その代替として「リブートプロジェクト」が進行中です。このプロジェクトは、サービス終了後のゲームの未来を示唆しており、ファンには大きな期待を抱かせています。ゲームの評価ポイントとしては、ストーリーの深みやキャラクターの魅力、グラフィックの美しさが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260617-450156/",
+        "date": "2026-06-17",
+        "is_translated": false
+      },
+      {
+        "title": "【エリオットの冒険: ミレニアム物語 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "エリオットの冒険: ミレニアム物語は、ユニークなゲーム世界とキャラクターで知られています。このレビュー記事では、ゲームの評価ポイントとしてグラフィックの美しさ、ストーリーの深さ、そしてプレイヤーの自由度の高さを挙げています。また、レビューの内容概要としては、ゲームの世界観の紹介、キャラクターの魅力、そしてゲームプレイの面白さについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/the-adventures-of-elliot-the-millennium-tales-review/",
+        "date": "2026-06-17",
+        "is_translated": true
+      },
+      {
+        "title": "【The Guild: Europa 1410 は、難しいキングダムカム ボードゲームのようにプ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "The Guild: Europa 1410 は、キングダムカム ボードゲームシリーズの難しい作品のようにプレイできます。このゲームの評価ポイントは、複雑なルールや戦略的な思考が求められる点です。レビューの内容概要としては、ゲームの難易度やリプレイ性が高く、ボードゲームのファンにはお勧めできる点が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-guild-europa-1410-is-a-medieval-strategy-reboot-that-plays-like-a-fussy-kingdom-come-boardgame",
+        "date": "2026-06-17",
+        "is_translated": true
+      },
+      {
+        "title": "【Adventures of Elliot レビュー: 時間を尊重する魅力的な昔ながらの RPG】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Adventures of Elliotは、昔ながらの魅力を持ったRPGです。このゲームの評価ポイントとしては、懐かしいグラフィックとシンプルながらも深みのあるゲームシステムが挙げられます。レビューの内容概要としては、ゲームのストーリーが簡潔ながらも感動的なものであること、ゲームの難易度が適切で楽しいこと、そしてBGMが印象的なものであることが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/adventures-of-elliot-review/",
+        "date": "2026-06-17",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-17T03:59:01.855001"
+  "last_updated": "2026-06-17T12:51:27.247651"
 }
