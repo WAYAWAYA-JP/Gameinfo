@@ -278,6 +278,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/hentai-pair2-bundle",
         "date": "2026-06-17"
+      },
+      {
+        "title": "Upload VR Summer 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Upload VR Summer 2026のバンドルを販売中です。このバンドルには、人気のVRゲームである「Superhot VR」や「Job Simulator」、「Beat Saber」などが含まれています。アクションや音楽、シミュレーションなど、さまざまなジャンルのゲームが揃っており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/uploadvrsummer2026_bundle",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "Dungeon Defenders II Complete DLC Chest",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Dungeon Defenders II Complete DLC Chestというバンドルの販売が行われており、同バンドルには主要タイトルであるDungeon Defenders IIや、そのDLCが含まれています。このバンドルは、タワーディフェンスジャンルのゲームを楽しむためのもので、価格帯もお手頃です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/dungeondefendersiicompletedlcchest_bundle",
+        "date": "2026-06-17"
       }
     ],
     "sale": [
@@ -615,6 +639,30 @@
         "discount": "90% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/289070",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "Hollow Knight: Silksong",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Hollow Knight: Silksongは、アクションアドベンチャーゲームであり、美しいグラフィックと深いストーリーが特徴です。このゲームは、非常に高い評価と人気度を誇っており、現在はVariousで25%オフのセール中です。通常価格よりも大幅に安く購入することができ、ゲームファンにとってはお勧めのチャンスです。",
+        "price": "$14.99",
+        "originalPrice": "",
+        "discount": "-25%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hollow-knight-silksong/info/",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "Dead Cells",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの「Dead Cells」が、現在51%の割引で販売中です。このゲームは、ローグライク要素と難しい敵との戦いが特徴で、プレイヤーはさまざまなアイテムやスキルを使用して生き残りながら、ダンジョンを進んでいきます。高い評価と人気を誇るこのゲームは、ゲームファンから高い評価を受けており、プラットフォームやグラフィックもよくできています。",
+        "price": "$12.29",
+        "originalPrice": "",
+        "discount": "-51%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dead-cells/info/",
         "date": "2026-06-17"
       }
     ],
@@ -1245,5 +1293,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-17T15:51:48.720050"
+  "last_updated": "2026-06-17T22:45:18.243435"
 }
