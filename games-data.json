@@ -652,6 +652,54 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-06-18"
+      },
+      {
+        "title": "サイバーパンク2077",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サイバーパンク2077がSteamで70% OFFセール中です。このゲームはサイバーパンクをテーマにしたオープンワールドRPGで、未来的な世界を探索し、キャラクターをカスタマイズすることができます。通常価格より大幅に安くなっているので、気になる方はお得に購入することができます。サイバーパンク2077は高い評価と人気を誇り、多くのプレイヤーから高い評価を受けています。",
+        "price": "¥2,633",
+        "originalPrice": "¥8,778",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1091500",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REMAKE INTERGRADEがSteamで65% OFFセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、ファイナルファンタシーシリーズの名作であるFINAL FANTASY VIIのリメイク作品として人気を博しています。特徴としては、美麗なグラフィックや壮大なストーリー、そして戦闘システムの革新が挙げられます。",
+        "price": "¥1,917",
+        "originalPrice": "¥5,478",
+        "discount": "65% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1462040",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "The Witcher 3: Wild Hunt",
+        "platform": "Various",
+        "type": "sale",
+        "description": "『The Witcher 3: Wild Hunt』は、オープン_WORLDアクションRPGの名作です。現在、Variousで90%オフのセール中となっており、通常価格より大幅に安くなっています。このゲームは、高度なグラフィックと奥深いストーリーで知られており、多くのプレイヤーから高い評価を受けています。",
+        "price": "$3.99",
+        "originalPrice": "",
+        "discount": "-90%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-witcher-3-wild-hunt/info/",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "Cyberpunk 2077: Phantom Liberty",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サイバーパンクアドベンチャーゲームであるCyberpunk 2077: Phantom Libertyが、現在45%オフのセール中です。このゲームは、オープンワールドとストーリー駆動型のゲームプレイを備えた、サイバーパンクをテーマにしたアクションRPGです。高い評価と人気を誇るこのゲームは、豊富なグラフィックスと深いストーリーでプレイヤーを魅了していますので、お見逃しなくください。",
+        "price": "$16.49",
+        "originalPrice": "",
+        "discount": "-45%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077-phantom-liberty/info/",
+        "date": "2026-06-18"
       }
     ],
     "review": [
@@ -1317,8 +1365,34 @@
         "url": "https://automaton-media.com/articles/newsjp/epic-games-20260618-450560/",
         "date": "2026-06-18",
         "is_translated": false
+      },
+      {
+        "title": "【Melgeek Real81 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、Melgeek Real81というキーボードの評価ポイントを紹介しています。キーボードのデザインや操作感、機能的な点などを詳しくレビューしています。また、レビューの内容概要として、キーボードの使いやすさやカスタマイズ性、価格の値段性能比などを紹介しています。特に、キーボードを購入することを検討している方や、キーボードに関する情報を求めている方にとって、参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/melgeek-real81-review/",
+        "date": "2026-06-18",
+        "is_translated": true
+      },
+      {
+        "title": "【Epic が genAI に焦点を当てた Unreal Engine 6 の概要を発表した後、...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Epic が genAI に焦点を当てた Unreal Engine 6 の概要を発表した後、多くのゲームファンや開発者がこのエンジンの新機能やグラフィックの向上に注目しています。このレビュー記事では、Unreal Engine 6 の評価ポイントとして、グラフィックの高品質化、AI の活用によるゲーム開発の効率化、そしてマルチプラットフォームへの対応などを取り上げています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/after-epic-outline-a-genai-focused-unreal-engine-6-vampire-survivors-studio-poncle-say-theyre-reviewing-their-fortnite-collab",
+        "date": "2026-06-18",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-18T15:39:31.496199"
+  "last_updated": "2026-06-18T22:56:08.347456"
 }
