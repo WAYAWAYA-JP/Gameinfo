@@ -1,116 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Rogue Waters",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Rogue Watersはアクションアドベンチャーゲームです。このゲームの特徴は、海賊をテーマにしており、プレイヤーが海賊になることができます。また、戦闘シーンが激しいことや、さまざまなアイテムを集めることができること、そして美しい海上のグラフィックが楽しめることが魅力です。現在、Epic Gamesプラットフォームで無料配布中なので、気軽にプレイすることができます。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年06月11日まで",
-        "url": "https://store.epicgames.com/ja/p/rogue-waters-9764d6",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Songs of Conquest",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "現在、Epic Gamesでは無料で「Songs of Conquest」を配布中です。このゲームは、ストラテジー・シミュレーションゲームであり、プレイヤーがさまざまな王国を統治し、戦略的な戦闘を楽しむことができます。特徴としては、ユニークな魔法システムや多様なキャラクター、そして大規模な戦場での戦闘が魅力的です。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年06月11日まで",
-        "url": "https://store.epicgames.com/ja/p/songs-of-conquest",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "The Ouroboros King",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Ouroboros Kingは、戦略性の高いチェスとローグライクの要素を組み合わせた、ユニークなゲームです。このゲームの魅力は、プレイヤーが恐るべき軍隊を編成して戦うこと、強力な遺物を発見すること、そして驚くべき道具を購入して強敵を倒すことです。また、ローグライクのビルドの多様性とリプレイ性も高く、プレイヤーは毎回異なる戦略で挑戦できます。",
-        "price": "無料",
-        "originalPrice": "¥9",
-        "discount": "100% OFF",
-        "deadline": "2026年06月18日まで",
-        "url": "https://store.epicgames.com/ja/p/the-ouroboros-king",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Warhammer 40K Speed Freeks",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Warhammer 40K Speed Freeksは、SFとアクションを融合させたレーシングゲームです。高速で刺激的なレースが楽しめること、カスタマイズ可能な車両が多数用意されていること、そして戦略的なバトルが可能なことが魅力です。このゲームはEpic Gamesストアで現在無料配布中です。",
-        "price": "無料",
-        "originalPrice": "¥19",
-        "discount": "100% OFF",
-        "deadline": "2026年06月18日まで",
-        "url": "https://store.epicgames.com/ja/p/b28e038bd68b4e80840e7fb8b747de54",
-        "date": "2026-06-11"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Humble 12 for $10 Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Humble 12 for $10 Bundleのバンドルが販売中です。このバンドルには、主要タイトルとしてQuantum Conundrum、Guns of Icarus Online、Starboundなどが含まれています。ジャンルはアクションやアドベンチャーに分類され、大まかな価格帯は10ドル以下です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/12for10_bundle",
-        "date": "2026-06-08"
-      },
-      {
-        "title": "Hentai Pair Bundle 2",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Hentai Pair Bundle 2というバンドルがIndieGalaで販売中です。このバンドルには、Hentaiの代表的なタイトルである「Hentai Girl」「Hentai Boy」などが含まれています。ジャンルはアダルトゲームに分類され、価格帯は約1000円から2000円程度です。興味のある方は、IndieGalaのサイトをチェックしてみてください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/hentai-pair2-bundle",
-        "date": "2026-06-08"
-      },
-      {
-        "title": "2K Sports Champions Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、2K Sports Champions Bundleのバンドルが販売中です。このバンドルには、人気スポーツゲームのNBA 2KシリーズやWWE 2Kシリーズ、NFL 2Kシリーズなどの主要タイトルが含まれています。ジャンルはスポーツゲームであり、大まかな価格帯は1,000円から2,000円程度です。スポーツゲームファンにはおすすめのバンドルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/2ksportschampionsbundle_bundle",
-        "date": "2026-06-08"
-      },
-      {
-        "title": "Critical Hits: ARPG Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Critical Hits: ARPG Bundleが販売中です。このバンドルには、主要タイトルとして「Torchlight III」、「Victor Vran」、「Grim Dawn」などが含まれており、Action RPGファンに人気の高い作品が多数収録されています。ジャンルはアクションRPGで、大まかな価格帯は約5000円から変動します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/criticalhitsarpgbundle_gamebundle",
-        "date": "2026-06-08"
-      },
-      {
-        "title": "Awesome Automation",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Awesome Automationというバンドルが現在販売中です。このバンドルには、Automation Empire、Factory Town、Planet Coasterなどのタイトルが含まれています。シミュレーションジャンルのゲームが中心となり、約2500円から購入することができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/awesomeautomation_bundle",
-        "date": "2026-06-08"
-      },
       {
         "title": "Perplexing Puzzles",
         "platform": "Humble Bundle",
@@ -305,78 +196,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Street Fighter 6",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ストリートファイター6がSteamで50%オフのセール中です、この格闘ゲームは熱いバトルと様々なキャラクターが特徴で、プレイヤーから高い評価を得ています。現在の割引では、通常価格よりも大幅に安く購入できます。人気度も高く、ファンから好評を博していますので、格闘ゲームファンにはおすすめの作品です。",
-        "price": "¥2,495",
-        "originalPrice": "¥4,990",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1364780",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "BIOHAZARD RE:4",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "人気のホラー・アクションゲーム「BIOHAZARD RE:4」がSteamで75% OFFのセール中です。このゲームは、シリーズの代表作として知られており、恐怖とスリルのバランスが絶妙な作品です。現在、非常に安い価格で購入することができるので、ファンにはもちろん、新規プレイヤーにもおすすめできます。高い評価と人気度を誇るこの作品を、この機会にプレイしてみてください。",
-        "price": "¥1,247",
-        "originalPrice": "¥4,990",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2050650",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Dying Light 2 Stay Human - Reloaded Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームの「Dying Light 2 Stay Human - Reloaded Edition」が現在、Variousで80%の割引セール中です。このゲームは、ゾンビが徘徊する世界で生存を争う様子を描き、高速なアクションとオープンワールドの自由度が特徴です。ファンから高い評価を受けており、非常に人気の高いゲームとなっています。",
-        "price": "$11.99",
-        "originalPrice": "",
-        "discount": "-80%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dying-light-2-stay-human-reloaded-edition/info/",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "FINAL FANTASY VII REBIRTH",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY VII REBIRTHがSteamで60% OFFのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、 FINAL FANTASYシリーズの名作として知られています。セール中の価格は大幅に割引されており、ファンや新規プレイヤーにとって魅力的な機会となっています。評価も高く、人気度も非常に高いゲームですので、 놓치ないでください。",
-        "price": "¥2,631",
-        "originalPrice": "¥6,578",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2909400",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "人気のロールプレイングゲームであるFINAL FANTASY VII REMAKE INTERGRADEが、Steamで65%の割引セール中です。このゲームは、グラフィックの美しさと壮大なストーリーが特徴で、ファイナルファンタジーシリーズのファンから高い評価を受けています。現在の価格は大幅に下がっており、ゲームファンにはおすすめのチャンスです。",
-        "price": "¥1,917",
-        "originalPrice": "¥5,478",
-        "discount": "65% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1462040",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Kingdom Come: Deliverance II",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Kingdom Come: Deliverance IIはオープンワールドのアクションRPGで、リアルな中世ヨーロッパを舞台にしているゲームで、現代のゲームとしては珍しい歴史的な正確さを重視した作品です。このゲームは、61%の割引が行われており、かなり安く購入できます。プレイヤーから高評価を獲得しており、史実を忠実に再現したグラフィックや、自由度の高いゲーム性が特徴です。",
-        "price": "$23.49",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
-        "date": "2026-06-11"
-      },
       {
         "title": "FINAL FANTASY XVI コンプリートエディション",
         "platform": "Steam",
@@ -664,100 +483,45 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dead-cells/info/",
         "date": "2026-06-17"
+      },
+      {
+        "title": "CARRION",
+        "platform": "Various",
+        "type": "sale",
+        "description": "CARRIONは、ユーザーが肉食的なアメーバのような生物を操作し、研究施設から脱出を目指す、ホラーゲームです。現在、Variousで90%オフのセール中であり、非常に魅力的です。このゲームは、その独特なゲームプレイとストーリーから、高い評価と人気を得ています。",
+        "price": "$1.99",
+        "originalPrice": "",
+        "discount": "-90%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/carrion/info/",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "Vampire: The Masquerade® - Bloodlines™ 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Vampire: The Masquerade - Bloodlines 2は、ロールプレイゲームのジャンルに属するオープンワールドのアクションゲームです。このゲームでは、バンパイアとなり、さまざまなキャラクターを操作してストーリーを進めていきます。現在、50%割引された価格で購入することができます。多くのユーザーから高評価を得ており、バンパイアファンやRPGファンにはおすすめのゲームです。",
+        "price": "$29.99",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/vampire-the-masquerade-bloodlines-2/info/",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "SILENT HILL f",
+        "platform": "Various",
+        "type": "sale",
+        "description": "SILENT HILL fがVariousで50%割引のセール中です。このホラー系アドベンチャーゲームは、恐怖とサスペンスが特徴で、人気シリーズの新作として注目を集めています。現在の価格は大幅に割引されており、ファンやホラーゲームファンにとってはお勧めの購入機会です。",
+        "price": "$34.99",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/silent-hill-f/info/",
+        "date": "2026-06-18"
       }
     ],
     "review": [
-      {
-        "title": "【新人お花屋さんシム『Puni the Florist』、まったり自由花束デザインで“好評率98...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Puni the Florist』は新人お花屋さんをシミュレートするゲームで、自由に花束をデザインできるというユニークな要素が評価されているようです。レビューでは、ゲームの評価ポイントとして、花束デザインの自由度の高さや、ゲームのリラックス効果が挙げられています。好評率98パーセントという高い評価を獲得していることから、気軽に遊べるゲームファンや。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260613-449553/",
-        "date": "2026-06-13",
-        "is_translated": false
-      },
-      {
-        "title": "【“スタントマン”シリーズがど派手な復活を果たす「Stuntman: Hollywood」の本格...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、シリーズの復活作である「Stuntman: Hollywood」の本格的なレビューです。評価ポイントとしては、ゲームのグラフィックやサウンドデザイン、そしてプレイヤビリティが高く評価されています。記事では、ゲームのストーリーやミッションの内容も紹介されており、シリーズファンやアクションゲーム好きの方にぜひ読んでほしい内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167876.html",
-        "date": "2026-06-13",
-        "is_translated": false
-      },
-      {
-        "title": "【最大4人協力プレイ対応・荒野ドライブ探索ゲーム『over the hill』、体験版からさっそ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『over the hill』は、最大4人での協力プレイに対応した荒野ドライブ探索ゲームです。このゲームの評価ポイントとしては、美しい自然風景の中で車を運転する爽快感や、チームワークを必要とする協力プレイの面白さが挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの高品質さ、そしてプレイヤー同士のコミュニケーションを促進するゲームデザインが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/over-the-hill-20260613-449594/",
-        "date": "2026-06-13",
-        "is_translated": false
-      },
-      {
-        "title": "【ファンタジー戦乱SLG『ブリガンダイン アビス』先行プレイ感想。「戦場ドラマ」だけじゃない、「...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ブリガンダイン アビス』はファンタジー戦乱SLGのゲームで、先行プレイの感想が記事にまとめられています。このレビュー記事では、ゲームの評価ポイントとして「戦場ドラマ」だけでなく、ゲームの奥深さや魅力も紹介されています。特に、戦略的な思考が必要な戦闘システムや、キャラクターの成長要素などが評価されています。対象読者は、戦略ゲームやファンタジー作品を好きな人向けです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260613-449566/",
-        "date": "2026-06-13",
-        "is_translated": false
-      },
-      {
-        "title": "【最大4人マルチ対応・ローグライトアクション『Lost Castle 2』正式版リリース。同時接...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Lost Castle 2は、最大4人でのマルチプレイに対応したローグライトアクションゲームです。このゲームは、さまざまなキャラクターを操作して、ダンジョンを攻略することを目的としています。評価ポイントとしては、ゲームの難易度が適切であり、繰り返しプレイすることで新しい要素を発見できる点が高く評価されています。また、レビューでは、ゲームのグラフィックやサウンドトラックも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/lost-castle-2-20260613-449575/",
-        "date": "2026-06-13",
-        "is_translated": false
-      },
-      {
-        "title": "【続編の前にこれを遊んでおけば、感動が倍になる！『God of War』『CONTROL』など今...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム『God of War』や『CONTROL』などの評価ポイントを紹介しています。記事では、これらのゲームを遊ぶことで、続編の感動が倍になることが分かることを強調しています。また、ゲームの内容やグラフィックの高さなどが評価されています。このレビューは、ゲームファンや続編を待ち望む人にとって、参考になる情報を提供しているので、読んでみる価値があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/13/182919.html",
-        "date": "2026-06-13",
-        "is_translated": false
-      },
-      {
-        "title": "【X-MEN 97 シーズン 2 レビュー: マーベルのアニメ番組が戻ってきて、想像していたより...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "X-MEN 97 シーズン2のレビュー記事では、マーベルのアニメ番組が戻ってきて、想像していたよりも印象的な内容になっていることが評価されています。このレビューでは、ストーリーの展開やキャラクターの設定など、番組の評価ポイントが詳しく紹介されています。特に、ファン層が広がっているマーベル作品のファンや、アニメ好きの方に興味を持つことができる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/x-men-97-season-2-review/",
-        "date": "2026-06-13",
-        "is_translated": true
-      },
       {
         "title": "【基本プレイ無料「街」オープンワールド『NTE』、実は“ビル登り”が熱い。探索魔に刺さる、大都会...】",
         "platform": "AUTOMATON",
@@ -1290,8 +1054,73 @@
         "url": "https://www.polygon.com/adventures-elliot-millenium-tales-review-roundup/",
         "date": "2026-06-17",
         "is_translated": true
+      },
+      {
+        "title": "【『Dead by Daylight』Steam“同接12万人超”の大盛況。10周年記念「ジェイ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Dead by Daylight』はSteamで同接12万人超の大盛況を収めており、10周年記念の「ジェイ...：レビュー」では、ゲームの評価ポイントとして、サバイバルホラーの独自の魅力や、プレイヤー同士の緊張感があり面白い点が挙げられています。また、レビューではゲームのグラフィックやサウンドデザインも高く評価されており、ホラーゲームファンやアクションゲームを楽しむ人にオススメされるようです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260618-450334/",
+        "date": "2026-06-18",
+        "is_translated": false
+      },
+      {
+        "title": "【The ImmortalとUniversaが参戦する「Invincible VS」シーズン1の...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Invincible VS」シーズン1のレビュー記事では、The ImmortalとUniversaの参戦によってゲームの評価ポイントが高まっていることがわかります。このレビューでは、ゲームのストーリー展開やキャラクターのバリエーション、そして新しい参戦キャラクターの能力について評価しています。特に、The ImmortalとUniversaの参戦によってゲームのバランスが変化し。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168002.html",
+        "date": "2026-06-18",
+        "is_translated": false
+      },
+      {
+        "title": "【ローカストによる地上侵攻の始まりを描く「Gears of War: E-Day」の技術デモ映像...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Gears of War: E-Day」の技術デモ映像のレビュー記事では、このゲームのグラフィックやゲームプレイの評価ポイントが紹介されています。ローカストによる地上侵攻の始まりを描くこのゲームは、壮大な世界観や緊張感のある戦闘シーンでプレイヤーを引き付けます。特に、ゲームのグラフィックやサウンドデザインは高く評価されており、シリーズのファンやアクションゲーム好きには必見のタイトルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167995.html",
+        "date": "2026-06-18",
+        "is_translated": false
+      },
+      {
+        "title": "【複数の次元から集まったサムたちが戦うCo-opローグライトシューター「Serious Sam:...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、Co-opローグライトシューターである「Serious Sam」シリーズの最新作について紹介しています。ゲームの評価ポイントとしては、複数の次元から集まったサムたちが協力して戦うユニークなゲームプレイや、シューティングアクションの快適さが挙げられます。さらに、記事ではグラフィックやサウンドの質も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167997.html",
+        "date": "2026-06-18",
+        "is_translated": false
+      },
+      {
+        "title": "【「ストリートファイター6」Year4第1弾キャラクター“ヤスミン”のゲームプレイトレーラーが公...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "『ストリートファイター6』のYear4第1弾キャラクターである「ヤスミン」のゲームプレイトレーラーが公開されました。このトレーラーでは、ヤスミンの戦闘スタイルや特殊技が紹介されています。トレーラーを見ると、ヤスミンの動きが非常にスピーディで、相手に圧力をかけることができるようです。また、彼女の特殊技は相手を空中に浮かせることができるため、空中戦でも活躍できる可能性が高いでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06167988.html",
+        "date": "2026-06-18",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-17T22:45:18.243435"
+  "last_updated": "2026-06-18T03:46:43.477675"
 }
