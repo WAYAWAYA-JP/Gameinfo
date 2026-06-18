@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "The Ouroboros King",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Ouroboros Kingは、戦略性とビルドの多様性を兼ね備えたローグライクゲームです。チェスのような戦略的な深みとローグライクのリプレイ性を楽しむことができます。プレイヤーは強力な軍隊を編成し、遺物を発見してキャラクターを強化し、様々なアイテムを購入してキャラクターをカスタマイズできます。さらに、ゲームの進行に応じて、新しいビルドや戦略を発見することができます。",
+        "price": "無料",
+        "originalPrice": "¥9",
+        "discount": "100% OFF",
+        "deadline": "2026年06月18日まで",
+        "url": "https://store.epicgames.com/ja/p/the-ouroboros-king",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "Warhammer 40K Speed Freeks",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Warhammer 40K Speed Freeksは、サイバーパンクとSFの要素を組み合わせたアクションレースゲームです。高速のレース、バトル要素、カスタマイズ可能な乗り物が特徴的です。また、ゲーム内のストーリーやキャラクターも魅力的に描かれています。このゲームは現在、Epic Gamesプラットフォームで無料配布中で、ゲームファンにはとてもおすすめできます。",
+        "price": "無料",
+        "originalPrice": "¥19",
+        "discount": "100% OFF",
+        "deadline": "2026年06月18日まで",
+        "url": "https://store.epicgames.com/ja/p/b28e038bd68b4e80840e7fb8b747de54",
+        "date": "2026-06-18"
+      }
+    ],
     "bundle": [
       {
         "title": "Perplexing Puzzles",
@@ -193,6 +218,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/dungeondefendersiicompletedlcchest_bundle",
         "date": "2026-06-17"
+      },
+      {
+        "title": "Humble 12 for $10 Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble 12 for $10 Bundleが販売中です。このバンドルには、主要タイトルとして「The Swapper」や「Gone Home」、「The Stanley Parable」などが含まれています。ジャンルはインディーゲームが中心で、大まかな価格帯は10ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/12for10_bundle",
+        "date": "2026-06-18"
       }
     ],
     "sale": [
@@ -518,6 +555,66 @@
         "discount": "-50%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/silent-hill-f/info/",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "Street Fighter 6",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気格闘ゲームのStreet Fighter 6がSteamで50% OFFセール中です。ファイティングゲームファンには必見のタイトルであり、シリーズの最新作として注目を集めています。ストーリーモードやオンライン対戦モードを含む様々なモードが用意されており、プレイヤーが楽しめるコンテンツが豊富です。現在のセールでは、通常価格より50%割引されており。",
+        "price": "¥2,495",
+        "originalPrice": "¥4,990",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1364780",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "BIOHAZARD RE:4",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "BIOHAZARD RE:4がSteamで75% OFFセール中です。このゲームはサバイバルホラーのジャンルで、恐怖を味わいながらプレイすることができます。Steamでの評価は非常に高く、人気度も高いゲームです。通常価格から大幅に割引されたこのセールは、ファンや新規プレイヤーにとって絶好の機会です。",
+        "price": "¥1,247",
+        "originalPrice": "¥4,990",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2050650",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "FINAL FANTASY VII REBIRTH",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REBIRTHがSteamで60% OFFセール中です。このゲームは、ロールプレイングゲームの名作FINAL FANTASY VIIのリメイク作品で、壮大なストーリーと深いキャラクター設定が特徴です。現在、Steamで60%の割引が適用されており、通常価格よりも大幅に安く購入できます。",
+        "price": "¥2,631",
+        "originalPrice": "¥6,578",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2909400",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "SILENT HILL 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サバイバルホラーゲームの名作であるSILENT HILL 2が、現在60%割引で販売中です。このゲームは、ストーリーが深く、雰囲気のあるサウンドトラックやグラフィックが特徴で、多くのプレイヤーから高い評価を受けています。ホラーゲームファンには必見の作品で、価格も割引によって大幅に下がっていますので、おすすめです。",
+        "price": "$31.56",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "Shadows of Doubt",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Shadows of Doubtは、探偵を題材にしたアクションアドベンチャーゲームで、現在Variousで56%割引のセール中です。このゲームでは、プレイヤーが探偵となり、複雑な事件を解決するために様々な手段を活用します。評価は非常に高く、ユーザーからの評価も非常に好調です。価格も割引によりお手頃になりましたので、おすすめのゲームです。",
+        "price": "$10.88",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/shadows-of-doubt/info/",
         "date": "2026-06-18"
       }
     ],
@@ -1119,8 +1216,60 @@
         "url": "https://doope.jp/2026/06167988.html",
         "date": "2026-06-18",
         "is_translated": false
+      },
+      {
+        "title": "【Steamで3年前にサービス終了した中世MMORPG『Gloria Victis』が“復活”、...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで3年前にサービス終了した中世MMORPG『Gloria Victis』が復活しました。このゲームは、中世の雰囲気を再現し、リアルな戦闘システムや広大なオープンワールドを提供しています。評価ポイントとしては、グラフィックの改善、ゲームバランスの調整、そして新しいコンテンツの追加があります。レビューの内容概要としては、復活後のゲームの改善点や新しい機能の紹介。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260618-450527/",
+        "date": "2026-06-18",
+        "is_translated": false
+      },
+      {
+        "title": "【『デイヴ・ザ・ダイバー イン・ザ・ジャングル』先行プレイ感想。新好感度システムでデイヴのコミュ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『デイヴ・ザ・ダイバー イン・ザ・ジャングル』の先行プレイのレビュー記事では、新しい好感度システムやデイヴのコミュニケーションが高く評価されています。また、ゲームのグラフィックやサウンドトラックも魅力的な要素として紹介されています。このレビュー記事は、新作ゲームに興味がある方や、シリーズのファンにとって、ゲームの評価ポイントや魅力的な要素を知るのに役立つでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/dave-the-diver-20260618-450414/",
+        "date": "2026-06-18",
+        "is_translated": false
+      },
+      {
+        "title": "【『グランブルーファンタジー リリンク：エンドレスラグナロク』は“キャラいっぱい多彩アクション”...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『グランブルーファンタジー リリンク：エンドレスラグナロク』は、キャラクターが豊富で多彩なアクションが楽しめるゲームです。このゲームの評価ポイントとしては、キャラクターのバリエーションやアクションの自由度が高く、プレイヤーが自分好みのスタイルで遊ぶことができる点が挙げられます。レビューでは、このゲームのグラフィックやサウンドトラックも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/relink-ragnarok-20260617-450263/",
+        "date": "2026-06-18",
+        "is_translated": false
+      },
+      {
+        "title": "【デイブ・ザ・ダイバー：イン・ザ・ジャングル レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "デイブ・ザ・ダイバー：イン・ザ・ジャングルは、ユニークなゲームプレイとグラフィックが特徴的な作品です。このレビューでは、ゲームの評価ポイントとして、ゲーム性の面白さ、グラフィックの美しさ、サウンドトラックの魅力を挙げています。また、ストーリーの深みやキャラクターの魅力も高く評価されています。ゲームファンやアドベンチャーゲームを好む人向けのレビュー記事であり、ゲームの全体像を把握することができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/dave-the-diver-in-the-jungle-review/",
+        "date": "2026-06-18",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-18T03:46:43.477675"
+  "last_updated": "2026-06-18T12:24:49.257670"
 }
