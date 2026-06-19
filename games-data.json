@@ -616,6 +616,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dead-space-2023/info/",
         "date": "2026-06-19"
+      },
+      {
+        "title": "Rust",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "現在、Steamではサンドボックス系サバイバルゲームであるRustが50%オフのセール中です。このゲームは、プレイヤーが島に漂着し、資源を集めながら生活するというコンセプトで人気があり、ユーザーから高い評価を得ています。Steamでの評価は「非常に好評」となっており、多くのプレイヤーから支持されています。価格は通常時よりも50%割引されており、安く入手するチャンスです。",
+        "price": "¥2,300",
+        "originalPrice": "¥4,600",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/252490",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "FINAL FANTASY XVI コンプリートエディション",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY XVI コンプリートエディションがSteamで60% OFFのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、壮大なストーリーや美しいグラフィックが特徴です。通常価格より大幅に安くなっています。また、ゲームの評価は非常に高く、人気度も高いので、ファイナルファンタジーシリーズのファンには必見の作品です。",
+        "price": "¥3,960",
+        "originalPrice": "¥9,900",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1111230",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "Resident Evil 4 (2023)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Resident Evil 4 (2023)がVariousで79%オフのセール中です。このゲームはサバイバルホラーのジャンルに属し、恐怖と緊張を込めたストーリーが特徴です。現在の価格は大幅に値下げされており、ファンや新規プレイヤーにとって魅力的です。評価も非常に高く、人気度も高いゲームです。",
+        "price": "$8.59",
+        "originalPrice": "",
+        "discount": "-79%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
+        "date": "2026-06-19"
       }
     ],
     "review": [
@@ -1281,8 +1317,34 @@
         "url": "https://doope.jp/2026/06168016.html",
         "date": "2026-06-19",
         "is_translated": false
+      },
+      {
+        "title": "【Steam約300円の謎のゲーム『Pickupbal』“好評率99％”の熱い高評価、ブームの兆...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで約300円で購入できる謎のゲーム『Pickupbal』は、好評率99％という高い評価を獲得しています。このゲームの評価ポイントとしては、ゲームプレイの面白さ、グラフィックの簡潔さ、そして低価格であることが挙げられます。レビューでは、プレイヤーがこのゲームのアドベンチャー性や、操作の簡単さを高く評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260619-450736/",
+        "date": "2026-06-19",
+        "is_translated": false
+      },
+      {
+        "title": "【手塚治虫「鉄腕アトム」「ブッダ」「ヒョウタンツギ」がゴールドミニフィギュア化！特製のディスプレ...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "手塚治虫の有名作品「鉄腕アトム」、「ブッダ」、「ヒョウタンツギ」のキャラクターがゴールドミニフィギュアになりました。この商品は、特製のディスプレイケース付きで、コレクターにはもってこいです。レビューでは、フィギュアの精密さやディスプレイケースのデザインが高く評価されています。特に、手塚治虫作品のファンやフィギュア収集家には興味があるかもしれません。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/19/183246.html",
+        "date": "2026-06-19",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-19T04:09:16.650750"
+  "last_updated": "2026-06-19T12:45:22.172503"
 }
