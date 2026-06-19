@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Perplexing Puzzles",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Perplexing Puzzlesと呼ばれるバンドルが現在販売中です。このバンドルには、The Talos Principle、The Swapper、The Witnessなどの主要タイトルが含まれており、パズルゲームのファンにとって魅力的です。ジャンルはパズルで、大まかな価格帯は数千円から1万円程度とします。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/perplexingpuzzles_bundle",
-        "date": "2026-06-09"
-      },
-      {
         "title": "Double Shift: Simulation Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,114 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "FINAL FANTASY XVI コンプリートエディション",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY XVI コンプリートエディションがSteamで60% OFFのセール中です。このゲームは、オープンワールドのRPGジャンルに分類され、シリーズのファンによって高い評価を受けています。現在の価格は、大幅な割引により魅力的です。多くのプレイヤーから高評価を受け、人気度も高いので、ファンタジーRPGを楽しむならこの機会に一度試してみてください。",
-        "price": "¥3,960",
-        "originalPrice": "¥9,900",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1111230",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "CRISIS CORE –FINAL FANTASY VII– REUNION",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "CRISIS CORE –FINAL FANTASY VII– REUNIONがSteamで65% OFFセール中です。このゲームはアクションRPGのジャンルで、ファイナルファンタジーシリーズの名作であるFFVIIのストーリーを新たな視点から描いています。現在、通常価格より65%割引されており、ファンにはもちろん、新規プレイヤーにもおすすめできます。",
-        "price": "¥2,387",
-        "originalPrice": "¥6,820",
-        "discount": "65% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1608070",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "The Ouroboros King",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Ouroboros KingがVariousで100%割引のセール中です。このゲームはアクションとロールプレイングの要素を組み合わせた、ユニークなゲームデザインが特徴です。現在、完全に無料でプレイできるので、興味がある方は是非チェックしてみてください。多くのユーザーから高い評価を得ており、人気度も高いので、無料でプレイする機会を逃さないようにしましょう。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-ouroboros-king/info/",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "The Red Lantern",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アドベンチャーゲームの「The Red Lantern」が現在、Variousで100%割引セール中です。このゲームは、犬と共に北極圏を旅するユニークな体験を提供し、高い評価を得ています。通常価格からの100%割引により、完全無料でプレイすることができます。高い人気度と評価を誇るこのゲームを今すぐダウンロードして、北極圏の雄大な景色と犬との絆を体験してみてください。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-red-lantern/info/",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Path of Exile 2 - Early Access Supporter Pack (Special)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Path of Exile 2 - Early Access Supporter Pack (Special)がSteamで50% OFFセール中です。このパックは、人気のオンラインアクションRPG「Path of Exile 2」の早期アクセスサポートパックで、特別なアイテムやボーナスが含まれています。通常価格と比べて大幅に割引されているので、ファンや新規プレイヤーにはおすすめです。",
-        "price": "¥2,321",
-        "originalPrice": "¥4,642",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1588213",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Rust",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "RustがSteamで50%OFFのセール中です。このゲームはサバイバルアクションジャンルの人気タイトルで、プレイヤーは荒野で生き残るためにリソースを集め、武器を作り、敵を倒す必要があります。現在の価格は通常価格の半額で、非常に魅力的です。また、このゲームはSteamで非常に高い評価を得ており、多くのプレイヤーから好評価を受けています。人気度も高く、多くのプレイヤーがこのゲームを楽しんでいます。",
-        "price": "¥2,300",
-        "originalPrice": "¥4,600",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/252490",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Happy's Humble Burger Farm",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Happy's Humble Burger FarmがVariousで-100%セール中です。これは、サバイバルホラーとシミュレーションの要素を兼ね備えたユニークなゲームで、プレイヤーはハンバーガー店を運営しながら、恐ろしげな出来事に立ち向かっていきます。現在、100%割引のセール中で、通常価格よりも大幅に安く購入できます。ユーザーの評価は非常に高く、多くのプレイヤーから人気を博しています。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/happys-humble-burger-farm/info/",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Red Dead Redemption 2は、オープンワールド・アクションアドベンチャーゲームであり、西部開拓時代を舞台にした壮大な物語が特徴です。現在、78%の割引が適用されており、大幅に安価な価格でプレイすることができます。このゲームは、高度なグラフィックやリアルなゲームプレイが評価されており、世界中のプレイヤーから高い人気を誇っています。",
-        "price": "$13.46",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Warhammer 40,000: Speed Freeks",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Warhammer 40,000: Speed FreeksがVariousで100%割引のセール中です。このゲームは、SFとアクションが融合したユニークなゲームです。通常価格が大幅に割引されているので、安く入手することができます。ユーザーからの評価も高く、人気度も高いという特徴があります。セール期間中は、完全無料でプレイすることができますので、おすすめです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/warhammer-40000-speed-freeks/info/",
-        "date": "2026-06-12"
-      },
       {
         "title": "Don't Starve Together",
         "platform": "Steam",
@@ -700,87 +580,45 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cyberpunk-2077-phantom-liberty/info/",
         "date": "2026-06-18"
+      },
+      {
+        "title": "ウィッチャー３　ワイルドハント　コンプリートエディション",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ウィッチャー３ ワイルドハント コンプリートエディションがSteamで80% OFFのセール中です。このゲームはアクションRPGのジャンルに属し、豊富なストーリーやキャラクターが特徴です。コンプリートエディションには、すべてのDLCが含まれており、プレイヤーはゲームの全容を体験できます。評価は非常に高く、人気ゲームとして知られています。",
+        "price": "¥1,320",
+        "originalPrice": "¥6,600",
+        "discount": "80% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/124923",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "Dead Space",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気ホラーゲームのDead SpaceがSteamで大幅な90%オフのセール中です。このゲームは、スリルと恐怖を感じることができるサバイバルホラーゲームで、プレイヤーは宇宙ステーションで異形の生物と戦います。高い評価と人気度を誇るこのゲームを、通常価格よりも大幅に安く体験することができます。",
+        "price": "¥870",
+        "originalPrice": "¥8,700",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1693980",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "Dead Space (2023)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "『Dead Space』（2023年）がVariousで90%オフのセール中です。この作品は、サバイバルホラーのゲームとして知られており、特に宇宙を舞台にした恐怖体験が特徴的です。通常価格から大幅に値下げされたこのセールは、ゲームファンにとって大きな機会です。高い評価と人気を誇るこのゲームを、格安の価格で体験することができます。",
+        "price": "$5.99",
+        "originalPrice": "",
+        "discount": "-90%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dead-space-2023/info/",
+        "date": "2026-06-19"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料「街」オープンワールド『NTE』、実は“ビル登り”が熱い。探索魔に刺さる、大都会...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「NTE」というオープンワールドゲームは、基本プレイ無料で大都市を探索することができます。このゲームの特徴は、ビル登りという新しい要素が含まれており、探索を好きな人にとっては非常に魅力的です。ゲームの評価ポイントとしては、広大なマップ、自由度の高いビル登り、リアルなグラフィックスが挙げられます。レビューの内容概要としては、ゲームのシステム、グラフィックス、サウンドなどの点が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260614-449614/",
-        "date": "2026-06-14",
-        "is_translated": false
-      },
-      {
-        "title": "【『ドラゴンズドグマ 2』アプデでとっても快適に。『カミとミコ』の読後感良し。『Mina the...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本レビュー記事では、ゲーム『ドラゴンズドグマ 2』のアップデートにより快適にプレイできるようになった点や、漫画『カミとミコ』の読みごたえについて触れています。また、ゲーム『Mina the...：レビュー』のレビューも含まれています。ゲームや漫画の最新情報を知りたい方や、レビュー記事を読みたい方にはお勧めです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260614-449664/",
-        "date": "2026-06-14",
-        "is_translated": false
-      },
-      {
-        "title": "【『ファイナルファンタジーVII リベレーション』発表で『FF7リメイク』Steam版のプレイヤ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ファイナルファンタジーVII リベレーション』の発表により、Steam版の『FF7リメイク』のプレイヤーからはさまざまな反応が寄せられています。このレビュー記事では、ゲームの評価ポイントとしてグラフィックの質やストーリーの展開、そしてオペレーションのスムーズさが取り上げられています。また、ゲームの世界観やキャラクターの魅力も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/ff7r-20260614-449633/",
-        "date": "2026-06-14",
-        "is_translated": false
-      },
-      {
-        "title": "【Sporeの開発者らは、エボリューションゲームのプレビューは実際に作っていたものよりも野心的で...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "エボリューションゲームのプレビューを実際のゲームよりも野心的に作っていたSporeの開発者らのレビュー記事では、ゲームの評価ポイントとしてグラフィックやゲームプレイの自由度が高く評価されています。また、レビューの内容概要としては、ゲームのシナリオの多様性や、プレイヤーの選択肢の幅が広いことが挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/life-sim/spore-devs-say-the-evolution-games-previews-were-more-ambitious-than-what-they-were-actually-making-and-they-built-a-fantasy-in-peoples-minds-that-was-unachievable/",
-        "date": "2026-06-14",
-        "is_translated": true
-      },
-      {
-        "title": "【洞窟物語+ レビュー (2012)】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "『洞窟物語+』は、2012年に発売されたアクションアドベンチャーゲームです。このゲームの評価ポイントとしては、豊富なステージ数やユニークなゲームシステムが挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックが高く評価されている点や、難易度が適切に設定されている点が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/cave-story-review-2012/",
-        "date": "2026-06-14",
-        "is_translated": true
-      },
-      {
-        "title": "【Enginefall プレビュー: Snowpiercer と Rust の出会いはここ数年で...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Enginefall プレビューのレビュー記事では、Snowpiercer と Rust の要素が組み合わさったゲームの魅力を紹介しています。このゲームは、壮大な世界観と独自のゲームプレイを提供することで、ここ数年で最も期待されるタイトルのひとつとなっています。レビューでは、ゲームのグラフィックやサウンドデザインも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/enginefall-impressions/",
-        "date": "2026-06-14",
-        "is_translated": true
-      },
       {
         "title": "【Steamの新たな中毒系ローグライク『ダイス・タバーン：運命の一投』は地味……なのに強烈な“運...：レビュー】",
         "platform": "AUTOMATON",
@@ -1391,8 +1229,60 @@
         "url": "https://www.rockpapershotgun.com/after-epic-outline-a-genai-focused-unreal-engine-6-vampire-survivors-studio-poncle-say-theyre-reviewing-their-fortnite-collab",
         "date": "2026-06-18",
         "is_translated": true
+      },
+      {
+        "title": "【高評価忍者アクション『SHINOBI 復讐の斬撃』Nintendo Switch 2版発表、9...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「SHINOBI 復讐の斬撃」は、Nintendo Switch向けに発売された高評価忍者アクションゲームです。このゲームの評価ポイントとしては、スピーディなアクションと忍者のスリーキルな動きが注目されています。レビューの内容概要としては、ゲームの難易度が適切であり、プレイヤーに満足感を与えることが挙げられています。また、グラフィックやサウンドトラックも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/shinobi-20260619-450640/",
+        "date": "2026-06-19",
+        "is_translated": false
+      },
+      {
+        "title": "【協力プレイ対応・銀行強盗FPS『CRIME BOSS: ROCKAY CITY』“過去最大”ア...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『CRIME BOSS: ROCKAY CITY』は、協力プレイ対応の銀行強盗FPSゲームです。このゲームの評価ポイントとしては、協力プレイの要素が豊富であり、チームワークを重視したプレイが楽しめることや、グラフィックのクオリティが高く、ゲームの世界がリアルに感じられることが挙げられます。レビューの内容概要としては、ゲームのストーリーやキャラクターの個性が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260619-450617/",
+        "date": "2026-06-19",
+        "is_translated": false
+      },
+      {
+        "title": "【マークとソフィアの新たな物語を描く「Until Then」のAfterimages DLCが本...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Until Then」のAfterimages DLCは、マークとソフィアの新たな物語を描く内容です。このレビュー記事では、DLCの評価ポイントとして、ストーリーの深み、キャラクターの成長、ゲームのグラフィックの美しさを取り上げています。また、DLCのレビューの内容概要として、ゲームの世界観の拡張、キャラクターの新たな一面の紹介、ゲームのプレイ時間の延長などが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168021.html",
+        "date": "2026-06-19",
+        "is_translated": false
+      },
+      {
+        "title": "【「Invincible VS」シーズン1に参戦する新ファイター“Universa”のゲームプレ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Invincible VS」のシーズン1に参戦する新ファイター「Universa」のゲームプレイを紹介するレビュー記事です。この記事では、ゲームの評価ポイントとして、Universaの独自の能力や戦闘スタイル、そしてゲーム全体のバランスについて触れています。また、レビューの内容概要として、Universaの強みと弱み、そして対戦相手に対する戦略についても紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168016.html",
+        "date": "2026-06-19",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-18T22:56:08.347456"
+  "last_updated": "2026-06-19T04:09:16.650750"
 }
