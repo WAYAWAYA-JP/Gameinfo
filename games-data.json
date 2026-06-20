@@ -52,42 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Double Shift: Simulation Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Double Shift: Simulation Bundleが現在販売中です。このバンドルには、主要タイトルとして「House Flipper」、「Farming Simulator 22」、「Train Simulator 2021」などのシミュレーションゲームが含まれています。シミュレーションジャンルのゲームが好きな方にはお勧めのバンドルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/doubleshift_simulation_bundle",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Warhammer Skulls 2026 Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Warhammer Skulls 2026 Bundleが現在販売中です。このバンドルには、Warhammerシリーズの主要タイトルである「Warhammer 40,000: Chaos Gate - Daemonhunters」や「Warhammer Age of Sigmar: Storm Ground」などのゲームが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/warhammerskulls2026bundle_bundle",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "The Complete Inkle Library",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、The Complete Inkle Libraryというバンドルが販売中です。このバンドルには、80 Days、Heaven's Vault、Sorcery!などの主要タイトルが含まれています。ジャンルはアドベンチャーやロールプレイングゲームが中心で、大まかな価格帯は1,000円から3,000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/completeinklelibrary_bundle",
-        "date": "2026-06-10"
-      },
-      {
         "title": "4X: Xplore, Xpand, Xploit, Xterminate",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -668,149 +632,6 @@
     ],
     "review": [
       {
-        "title": "【Steamの新たな中毒系ローグライク『ダイス・タバーン：運命の一投』は地味……なのに強烈な“運...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamの新たな中毒系ローグライクゲーム「ダイス・タバーン：運命の一投」は、地味な見た目に反して強烈な運要素が魅力的なゲームです。このゲームの評価ポイントとしては、運要素の強さ、複雑なゲームシステム、そして高レベルなリプレイ性があります。レビューでは、ゲームの魅力的な要素や難易度の高さについて触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260611-449280/",
-        "date": "2026-06-15",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam 週間の振り返り: 先週、Steam で 300 以上のゲームがリリースされ、そのう...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Steam 週刊レビュー記事では、先週にリリースされた300以上のゲームについて評価しています。特に、ゲームのグラフィック、ストーリー、ゲームプレイの面で高い評価を受けた作品を紹介しています。さらに、レビュアーは各ゲームの特徴や魅力を解説しており、ゲームファンや新規プレイヤーにとって参考になる情報が含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-more-than-300-games-released-on-steam-last-week-and-120-of-them-had-ai-disclosures/",
-        "date": "2026-06-15",
-        "is_translated": true
-      },
-      {
-        "title": "【“Steamでは発売禁止”人間牧場ホラー『HORSES』いきなり日本語実装へ。問題作だけど高評...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamでは発売禁止とされていた人間牧場ホラー『HORSES』が日本語に対応したことがわかりました。このゲームは問題作として知られていますが、高い評価を得ています。レビューでは、ユニークなゲーム性やサスペンス溢れるストーリーが高く評価されています。さらに、グラフィックやサウンドトラックも高く評価されています。このゲームはホラーゲームファンやユニークなゲームを求めるプレイヤーに推奨できます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260615-449876/",
-        "date": "2026-06-15",
-        "is_translated": false
-      },
-      {
-        "title": "【不穏生活シム『ほの暮しの庭』先行入村感想。生活シムとして現時点でかなり高い完成度のゲーム、しか...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "生活シムゲーム『ほの暮しの庭』の先行入村感想をまとめたレビュー記事では、現時点で高い完成度を備えた生活シムとして評価されています。ゲームの評価ポイントとしては、システムの充実度、グラフィックの美しさ、ストーリーの引き込み方が挙げられます。レビューの内容概要としては、ゲームの操作性やストーリーの展開が好評価されている点が特筆されます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/honogurashi-20260616-449094/",
-        "date": "2026-06-15",
-        "is_translated": false
-      },
-      {
-        "title": "【「Call of Duty: Modern Warfare 4」キャンペーンモードの先行アクセ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Call of Duty: Modern Warfare 4」のキャンペーンモードの先行アクセスについてのレビュー記事では、ゲームの評価ポイントとして、ストーリーの引き付け方やグラフィックの鮮やかさ、そしてゲームプレイのスムーズさが挙げられています。記事では、キャンペーンモードの内容や新しい機能の導入についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167880.html",
-        "date": "2026-06-15",
-        "is_translated": false
-      },
-      {
-        "title": "【ハウス・オブ・ザ・ドラゴン シーズン 3 レビュー: HotD がついにゲーム・オブ・スローン...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ハウス・オブ・ザ・ドラゴンシーズン3のレビュー記事では、ゲーム・オブ・スローンズの世界観を引き継いだこのドラマが、視聴者の期待に応えているかを評価しています。レビューのポイントとして、シーズン3の物語構成や登場人物のキャラクター設定が挙げられます。また、ドラマの世界観やストーリーの展開が、ゲーム・オブ・スローンズのファンにはおすすめできるものかどうかも評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/house-of-the-dragon-season-3-review/",
-        "date": "2026-06-15",
-        "is_translated": true
-      },
-      {
-        "title": "【ソニー Inzone H6 Air レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ソニーInzone H6 Airのレビュー記事では、ゲームの音質や通話機能の評価ポイントを中心に、レビューの内容を概説しています。特に、ゲームプレイ時の音の臨場感や通話時のクオリティについて重点的に評価しています。また、レビューでは、ハードウェアの設計や価格設定についても触れています。この記事は、ゲームヘッドセットを購入する際に参考にしたい方や。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-headsets/sony-inzone-h6-air-review/",
-        "date": "2026-06-15",
-        "is_translated": true
-      },
-      {
-        "title": "【MSI Versa 300 ワイヤレス 8K レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "MSI Versa 300 ワイヤレス 8K レビューは、最新のゲーム機器に対する評価ポイントを提供しています。レビューの内容概要としては、8K解像度での映像品質、ワイヤレス接続の安定性、そしてゲーム実行時のパフォーマンスが取り上げられています。ゲーム愛好家や最新技術に興味を持つ方が対象読者となります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/msi-versa-300-wireless-8k-review/",
-        "date": "2026-06-15",
-        "is_translated": true
-      },
-      {
-        "title": "【元 GTFO 開発者によるホラー シムである Mole で、血なまぐさい宗教的象徴が満ち溢れた...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Moleは、元GTFO開発者によるホラー性の高いシミュレーションゲームです。このゲームでは、血なまぐさい宗教的象徴が満ち溢れており、プレイヤーは恐怖を体験することができます。レビューのポイントとしては、ゲームの雰囲気やグラフィックの質が高く評価されています。また、宗教的なテーマを扱ったストーリーや、プレイヤーが自由に探索することができるオープンワールドの広さも称賛されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/control-a-huge-drilling-vessel-rife-with-bloody-religious-symbolism-in-mole-a-horror-sim-from-former-gtfo-developers",
-        "date": "2026-06-15",
-        "is_translated": true
-      },
-      {
-        "title": "【元 GTFO 開発者によるホラー シム、Mole で血なまぐさい宗教的象徴が満ちた巨大な掘削船...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、ホラー要素が強いシミュレーションゲーム「Mole」の魅力を紹介しています。元GTFO開発者が手掛けたこのゲームは、宗教的象徴が満ちた巨大な掘削船を舞台に、プレイヤーは恐怖と戦いながら進めていきます。ゲームの評価ポイントとしては、独特の世界観や恐怖を煽るサウンドデザインがあげられます。さらに、ゲームのレビューでは、ストーリーやゲームプレイの面白さも高評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/control-a-huge-drilling-vessel-rife-with-bloody-religious-symbolism-in-mole-a-horror-sim-from-former-gtfo-developers",
-        "date": "2026-06-15",
-        "is_translated": true
-      },
-      {
-        "title": "【物議を醸しているドラゴンズ ドグマ 2 のマイクロトランザクションが廃止される：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ドラゴンズ ドグマ 2 のレビュー記事では、このゲームの評価ポイントとして、マイクロトランザクションの廃止が注目されています。このゲームは物議を醸しているため、プレイヤーから様々な意見が寄せられます。レビューの内容概要としては、マイクロトランザクションの廃止がプレイヤーに与える影響や、ゲームの全体的な評価、そしてゲームプレイの改善点などが取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/capcom-pulls-dragons-dogma-2-microtransactions-dlc-launch/",
-        "date": "2026-06-15",
-        "is_translated": true
-      },
-      {
         "title": "【Steam新作サイバーパンクACT『ナイトブラッドW：断罪の狼』は“ドット絵版『DMC』”なス...：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -834,19 +655,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/06167939.html",
         "date": "2026-06-16",
-        "is_translated": false
-      },
-      {
-        "title": "【新ヒーロー“シオン”や多彩な新コンテンツを導入する「オーバーウォッチ」シーズン3のローンチトレ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「オーバーウォッチ」のシーズン3がローンチされ、多くの新要素が導入されています。新ヒーロー「シオン」の登場は特に注目されており、多彩な新コンテンツも盛り込まれています。このシーズンを評価するポイントとしては、新ヒーローの能力やゲームバランスの調整、そして新しいコンテンツの充実度などがあります。レビューでは、これらの要素がどのようにゲーム全体に影響を与えるかが検討されており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167934.html",
-        "date": "2026-06-15",
         "is_translated": false
       },
       {
@@ -1394,8 +1202,34 @@
         "url": "https://www.inside-games.jp/article/2026/06/19/183254.html",
         "date": "2026-06-19",
         "is_translated": false
+      },
+      {
+        "title": "【終末少女ロボット“JFPS”『最終回収SQUAD』、シンプルながら緊張感あるゲームプレイで「非...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ゲーム「最終回収SQUAD」は、シンプルながら緊張感あるゲームプレイが特徴です。このゲームの評価ポイントとしては、緊張感のあるサバイバル要素や、簡単ながらも深みのあるゲームシステムが挙げられます。レビューでは、ゲームの不気味な雰囲気や、プレイヤーが取る選択の重さも高く評価されています。このレビュー記事は、サバイバルゲームやロボット関連のゲームに興味がある方に最もお勧めできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/the-lastsalvage-squad-20260620-450808/",
+        "date": "2026-06-20",
+        "is_translated": false
+      },
+      {
+        "title": "【シリーズぜんぶ高評価シム『ツーポイント』の、「本格シムなのに失敗を許す」開発哲学。『ヴァンサバ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "シムシリーズの『ツーポイント』は、高評価を得ているシリーズであり、その開発哲学は「本格的なシミュレーションゲームでありながら、失敗を許す」ものです。この哲学は、プレイヤーに自由度とチャレンジングな体験を提供します。『ヴァンサバ...』のレビュー記事では、このゲームの評価ポイントとして、ゲームデザイン、グラフィック、サウンドなどの点が取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/20260620-450788/",
+        "date": "2026-06-20",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-19T22:03:41.783112"
+  "last_updated": "2026-06-20T03:32:29.552680"
 }
