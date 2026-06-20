@@ -652,6 +652,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
         "date": "2026-06-20"
+      },
+      {
+        "title": "ROBOBEAT",
+        "platform": "Various",
+        "type": "sale",
+        "description": "リズムアクションゲームのROBOBEATがVariousで100%割引されています。このゲームは、ユニークなリズムシステムとキャラクターを備えた、音楽とアクションを融合させた独特のゲームです。通常価格よりも大幅に割引された現在の価格で購入することができます。ROBOBEATは、ユーザーからの評価も高く、リズムゲームファンに人気のあるタイトルです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/robobeat/info/",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「Stray」が現在、Variousで50%割引セール中です。このゲームは、猫の視点から都市を探索するユニークな体験を提供し、高い評価と人気を誇ります。ファンからの評価も高く、多くの人がこのゲームを楽しんでいます。",
+        "price": "$14.95",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-06-20"
       }
     ],
     "review": [
@@ -1291,8 +1315,21 @@
         "url": "https://www.inside-games.jp/article/2026/06/20/183296.html",
         "date": "2026-06-20",
         "is_translated": false
+      },
+      {
+        "title": "【EAがウルティマの商標を更新するようだが、その作者は来年ゲームの著作権を取り戻すのを待っている：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、EAがウルティマの商標を更新したことを受けて、ゲームのオリジナル作者は来年著作権を取り戻すのを待っている姿が紹介されています。記事では、ゲームの評価ポイントとして、オリジナルのゲームデザインやストーリー、グラフィックのクオリティが高く評価されています。また、レビューでは、ゲームの世界観やキャラクターの深みも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/as-ea-appear-to-renew-the-trademark-for-ultima-its-creator-lies-in-wait-to-reclaim-the-games-copyright-next-year",
+        "date": "2026-06-20",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-20T14:17:22.392902"
+  "last_updated": "2026-06-20T22:06:22.938639"
 }
