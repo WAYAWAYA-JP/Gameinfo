@@ -218,6 +218,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/june2unes_bundle",
         "date": "2026-06-19"
+      },
+      {
+        "title": "The Complete Inkle Library",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、The Complete Inkle Libraryというバンドルが販売中です。このバンドルには、80 Days、Heaven's Vault、Sorcery!などの主要タイトルが含まれており、テキストアドベンチャーやゲームブックなどを楽しむことができます。ジャンルはアドベンチャーやロールプレイングゲームに属し、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/completeinklelibrary_bundle",
+        "date": "2026-06-20"
       }
     ],
     "sale": [
@@ -628,6 +640,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
         "date": "2026-06-19"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ロックスターゲームズから発売されたオープンワールドアクションアドベンチャーゲームのRed Dead Redemption 2が、現在Variousで77%割引のセール中です。このゲームは、美しいグラフィックと豊富なストーリー、幅広い自由度でプレイヤーから高く評価されています。特に、西部開拓時代を舞台にした壮大な物語と、細かい描写が注目されています。",
+        "price": "$13.50",
+        "originalPrice": "",
+        "discount": "-77%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-06-20"
       }
     ],
     "review": [
@@ -1228,8 +1252,47 @@
         "url": "https://automaton-media.com/articles/interviewsjp/20260620-450788/",
         "date": "2026-06-20",
         "is_translated": false
+      },
+      {
+        "title": "【最大8人マルチ対応・銀河系ハンバーガー店シム『Burger Bots Inc.』正式リリース。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Burger Bots Inc.』は、最大8人まで同時プレイ可能なマルチモードを備えた、銀河系を舞台にしたハンバーガーショップシミュレーションゲームです。レビューでは、ゲームのユニークな設定、面白いゲームプレイ、そしてマルチプレイ機能の評価が高まっています。特に、最大8人までの同時プレイが可能な点や。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260620-450834/",
+        "date": "2026-06-20",
+        "is_translated": false
+      },
+      {
+        "title": "【実写インタラクティブドラマゲーム『盛世天下：女帝への道I&II』プレイ感想。「大河ドラマを自分...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "実写インタラクティブドラマゲーム『盛世天下：女帝への道I&II』のレビュー記事では、ゲームの独自のプレイ感覚やストーリーの引き出し方が評価されています。ゲームの主な評価ポイントとしては、プレイヤーが自分で大河ドラマのようなストーリーを体験できる点や、ドラマの展開が非常に面白い点が挙げられます。このレビュー記事は、インタラクティブドラマゲームや歴史ドラマが好きな人に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/roadtoempress-20260620-450819/",
+        "date": "2026-06-20",
+        "is_translated": false
+      },
+      {
+        "title": "【コスプレ】細いウエストに美脚が眩しい！人気コスプレイヤー・月海つくねが初の台湾撮影会へ──台北で見せた“お月見さま”の笑顔【写真19枚】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、人気コスプレイヤーである月海つくねが初めて台湾で撮影会を行った際の様子を紹介しています。記事では、月海つくねの美しいコスプレ姿や、彼女の魅力的な笑顔が紹介されています。記事の内容は、月海つくねのファンやコスプレに興味がある人にとって楽しめる内容です。記事の評価ポイントとしては、月海つくねの美しい姿、彼女の笑顔の魅力、台湾での撮影会の様子などが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/20/183296.html",
+        "date": "2026-06-20",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-20T03:32:29.552680"
+  "last_updated": "2026-06-20T11:17:40.836535"
 }
