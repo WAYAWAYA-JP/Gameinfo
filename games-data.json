@@ -1225,8 +1225,21 @@
         "url": "https://www.pcgamer.com/games/action/dishonored-review-2012/",
         "date": "2026-06-21",
         "is_translated": true
+      },
+      {
+        "title": "【データアナリストは、Steam における「AI の汚名」により、ゲームが取得するレビューの数が...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事では、Steam における「AI の汚名」がゲームの評価に与える影響についてデータアナリストが分析しています。特に、ゲームが取得するレビューの数が減少する原因として、AI の悪評が要因となっていることが指摘されています。さらに、この記事ではレビューの内容概要として、ゲームの評価ポイントやユーザーの反応についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/software/ai/data-analyst-finds-ai-stigma-on-steam-can-reduce-the-number-of-reviews-a-game-gets-by-around-53-percent-and-the-reviews-it-does-get-are-more-negative/",
+        "date": "2026-06-21",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-21T14:24:28.788548"
+  "last_updated": "2026-06-21T22:14:37.313357"
 }
