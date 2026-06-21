@@ -234,42 +234,6 @@
     ],
     "sale": [
       {
-        "title": "Don't Starve Together",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サバイバルゲームの名作「Don't Starve Together」がSteamで大幅に値下げされています。通常の価格より90%割引されており、かなりお得な価格帯で購入することができます。このゲームは、ハードコアなサバイバル要素とユニークなグラフィックが特徴で、最大6人までのオンラインプレイも可能です。評価は非常に高く、Steamでの評価は「非常に好評」です。",
-        "price": "¥148",
-        "originalPrice": "¥1,480",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/322330",
-        "date": "2026-06-14"
-      },
-      {
-        "title": "Resident Evil Requiem",
-        "platform": "Various",
-        "type": "sale",
-        "description": "バイオハザードシリーズの最新作「Resident Evil Requiem」が現在、Variousで32%オフのセール中です。このゲームは、サバイバルホラーのジャンルで知られており、スリリングなストーリーやグラフィックが特徴です。セール価格で購入することで、大幅な割引を受けることができます。また、このゲームは高い評価を受けており、ファンや批評家から人気を博しています。",
-        "price": "$47.59",
-        "originalPrice": "",
-        "discount": "-32%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
-        "date": "2026-06-14"
-      },
-      {
-        "title": "Eets",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Eetsは、パズル要素のあるユニークなゲームで、現在Variousで100%割引されています。ユーザーからは、高い評価と人気度を誇り、パズルファンには特におすすめです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/eets/info/",
-        "date": "2026-06-14"
-      },
-      {
         "title": "Monster Hunter Rise + Sunbreak",
         "platform": "Steam",
         "type": "sale",
@@ -680,149 +644,6 @@
     ],
     "review": [
       {
-        "title": "【Steam新作サイバーパンクACT『ナイトブラッドW：断罪の狼』は“ドット絵版『DMC』”なス...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamで配信されている新作のサイバーパンクアクションゲーム『ナイトブラッドW：断罪の狼』は、ドット絵版の『デビルメイクライ』のような快適なアクションが楽しめる作品です。このゲームの評価ポイントとしては、スムーズなアクション、独特のドット絵グラフィック、そして豊富なステージ構成が挙げられます。レビューの内容概要としては、アクションゲームファンにはたまらない快適なゲームプレイ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260609-448587/",
-        "date": "2026-06-16",
-        "is_translated": false
-      },
-      {
-        "title": "【傑作“Braid”と“The Witness”を生んだJonathan Blow氏の最新パズル...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Jonathan Blow氏が手がけた最新のパズルゲームのレビュー記事です。このゲームは、傑作と評される「Braid」と「The Witness」を生んだJonathan Blow氏の新作です。レビューでは、ゲームの評価ポイントとして、パズルの難易度やグラフィックの美しさが高く評価されています。また、ゲームのストーリーやサウンドトラックも魅力的です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167939.html",
-        "date": "2026-06-16",
-        "is_translated": false
-      },
-      {
-        "title": "【今年屈指のメタスコアを獲得したゲーム『Mina The Hollower』、なぜこんなにも高評...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "今年度屈指のメタスコアを獲得したゲーム『Mina The Hollower』のレビュー記事では、ゲームの高い評価ポイントを紹介しています。記事では、ゲームの魅力的なグラフィックや、ユニークなゲームプレイシステム、そして感動的なストーリーが評価ポイントとして挙げられています。また、記事では、ゲームの世界観やキャラクター設計にも焦点が当てられており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/columnjp/mina-20260616-450029/",
-        "date": "2026-06-16",
-        "is_translated": false
-      },
-      {
-        "title": "【『ポケモンカードゲーム』のプレイを競う“AIエージェント”開発コンテストいきなり始動。松尾研究...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "この記事は、ポケモンカードゲームのプレイをAIエージェントで競う開発コンテストのレビューです。評価ポイントとしては、AIエージェントの開発の難易度やコンテストの参加方法が挙げられます。レビューの内容概要としては、コンテストの概要や参加者の反応などが紹介されています。この記事は、ポケモンカードゲームやAI技術に興味がある方に読んでいただける内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260616-450028/",
-        "date": "2026-06-16",
-        "is_translated": false
-      },
-      {
-        "title": "【大ボリュームアクションRPG『FFVII リバース』を「ブーストモード」で1周してみた。クリア...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "大ボリュームアクションRPGである『FFVII リバース』を「ブーストモード」で1周してみたレビュー記事です。このゲームは、ストーリー、キャラクター、グラフィックなどの点で高く評価されます。特に、キャラクターの成長システムやバトルシーンのスピード感が際立っています。アクションRPGのファンや『FFVII』シリーズの愛好家にはお勧めのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/columnjp/ff7-20260616-450003/",
-        "date": "2026-06-16",
-        "is_translated": false
-      },
-      {
-        "title": "【しぐれうい、『バニーガーデン2』を実況…アーカイブを残すかは「現場で判断します」ー“完全健全”...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "しぐれういさんの実況ゲーム「バニーガーデン2」のレビュー記事があります。このレビューでは、ゲームの魅力や評価ポイントについて紹介しています。ゲームの評価ポイントとしては、ゲームのグラフィックやサウンド、そしてプレイヤーの自由度が高く楽しめることなどが挙げられます。対象読者は、ゲームファンや実況ゲームを楽しむ人に適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/16/183062.html",
-        "date": "2026-06-16",
-        "is_translated": false
-      },
-      {
-        "title": "【自律型エルゴチェア ウルトラ 2 レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事は、自律型エルゴチェアのウルトラ2についての評価ポイントやレビューの内容概要を紹介しています。主な評価ポイントとして、座り心地や耐久性、機能性などが挙げられ、レビューではこれらのポイントを詳しく分析しています。対象読者は、エルゴノミクスに興味がある人やオフィスチェアを購入する予定の方に適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-chairs/autonomous-ergochair-ultra-2-review/",
-        "date": "2026-06-16",
-        "is_translated": true
-      },
-      {
-        "title": "【Assassin's Creed Shadows の最終アップデートでは、最後のストーリー ミ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Assassin's Creed Shadows の最終アップデートのレビュー記事では、最後のストーリー ミッションの内容や新しい機能の追加などが評価ポイントとして挙げられています。レビューでは、ゲームのストーリー展開やグラフィックの質、プレイヤビリティなどの点が高く評価されています。また、ゲームのバランスや難易度も適切に調整されていると述べています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/assassins-creed-shadows-final-update-adds-one-last-story-mission-and-a-wearable-black-flag-resynced-advert",
-        "date": "2026-06-16",
-        "is_translated": true
-      },
-      {
-        "title": "【Rode NT1 第 5 世代マイクのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Rode NT1 第5世代マイクのレビュー記事では、このマイクの音質やデザイン、耐久性などが評価されています。レビューのポイントとしては、クリアで明るい音質、コンパクトで持ち運びやすいデザイン、長期間の使用に耐える耐久性などが挙げられます。このレビューは、音楽やポッドキャストの制作に興味がある人、またプロフェッショナルなマイクを探している人にとって、参考になります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/microphones/rode-nt1-5th-generation-microphone-review/",
-        "date": "2026-06-16",
-        "is_translated": true
-      },
-      {
-        "title": "【Phanteks XT View Matrix ケースレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Phanteks XT View Matrix ケースのレビュー記事では、ケースのデザインや性能、クオリティなどが評価されています。このレビューでは、ケースの透明な側面パネルが特徴的なデザインや、優れた冷却性、そして高品質な部品が使用されていることが評価ポイントとして挙げられています。また、組み立ての容易さやケーブルの整理のしやすさも評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/pc-cases/phanteks-xt-view-matrix-case-review/",
-        "date": "2026-06-16",
-        "is_translated": true
-      },
-      {
-        "title": "【レビュー: トイ・ストーリー 5 は奇跡的にシリーズをピクサーの黄金時代に戻す】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "トイ・ストーリー5のレビュー記事では、シリーズがピクサーの黄金時代に戻ったと評価されています。このゲームの評価ポイントとしては、ストーリーの出来栄えやキャラクターの魅力が挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックが高く評価されている点や、プレイヤーの感情を揺さぶるストーリー展開が特徴的であることが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/toy-story-5-review/",
-        "date": "2026-06-16",
-        "is_translated": true
-      },
-      {
         "title": "【好評SF廃墟FPS『Luna Abyss』開発元、「発売からわずか1か月」でスタジオ閉鎖。7年...：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -847,19 +668,6 @@
         "url": "https://doope.jp/2026/06167969.html",
         "date": "2026-06-17",
         "is_translated": false
-      },
-      {
-        "title": "【グラップリングフックで地獄に落ちるこの信じられないほど緊迫した 2 時間のホラーをプレイしても...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事は、グラップリングフックで地獄に落ちるという緊迫した2時間のホラーを体験するゲームについてです。評価ポイントとしては、ゲームの緊張感、ストーリーの深み、そしてプレイヤーの感情を揺さぶる能力があります。内容は、ゲームの恐怖要素、ストーリーの展開、そしてプレイヤーの体験を中心に構成されています。この記事は、ホラーゲームファンやアクションゲームを楽しむ人に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/horror/i-need-you-to-play-this-unbelievably-tense-2-hour-horror-about-descending-into-hell-with-a-grappling-hook/",
-        "date": "2026-06-16",
-        "is_translated": true
       },
       {
         "title": "【DLCを出すと「ゲーム本編の販売ペースが約2倍にブーストされる」との研究結果。プレイヤーにも嬉...】",
@@ -1328,8 +1136,21 @@
         "url": "https://www.rockpapershotgun.com/as-ea-appear-to-renew-the-trademark-for-ultima-its-creator-lies-in-wait-to-reclaim-the-games-copyright-next-year",
         "date": "2026-06-20",
         "is_translated": true
+      },
+      {
+        "title": "【ニンテンドーダイレクトで睡眠時間の危機を確信した…！『FE 万紫千紅』『DQM4』ほか、この秋...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、ニンテンドーダイレクトで発表された新作ゲームについての評価ポイントを紹介しています。特に『FE 万紫千紅』や『DQM4』などの秋に発売予定のゲームについて、ゲームシステムやストーリーの魅力などを簡潔にまとめています。この記事は、ニンテンドーダイレクトの発表を楽しみにしているゲーマーや、最新のゲーム情報に興味がある人に読んでほしい内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/21/183319.html",
+        "date": "2026-06-21",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-20T22:06:22.938639"
+  "last_updated": "2026-06-21T04:03:51.611893"
 }
