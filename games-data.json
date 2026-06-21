@@ -640,6 +640,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-06-20"
+      },
+      {
+        "title": "theHunter: Call of the Wild™",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "theHunter: Call of the Wild™は、Steamで現在90%オフのセール中です。このゲームは、オープンワールドのハンティングシミュレーターで、美しい自然の中で様々な動物を狩ることができます。リアルなグラフィックスと音響効果が特徴で、ハンティングゲームファンには必見です。現在の価格は大幅に割引されており、評価も非常に高く人気度も高いので。",
+        "price": "¥230",
+        "originalPrice": "¥2,300",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/518790",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "Mass Effect™ Legendary Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Mass Effect™ Legendary EditionがVariousで92%オフのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、壮大なストーリーや魅力的なキャラクターで知られています。現在、非常に低価格で購入することができ、多くのユーザーから高評価を得ています。世界中で人気の高いゲームであり、SFファンやアクションゲーム好きには必見の作品です。",
+        "price": "$4.79",
+        "originalPrice": "",
+        "discount": "-92%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/mass-effect-legendary-edition/info/",
+        "date": "2026-06-21"
       }
     ],
     "review": [
@@ -1188,8 +1212,21 @@
         "url": "https://www.rockpapershotgun.com/as-ea-appear-to-renew-the-trademark-for-ultima-its-creator-lies-in-wait-to-reclaim-the-games-copyright-next-year",
         "date": "2026-06-20",
         "is_translated": true
+      },
+      {
+        "title": "【不名誉な審査 (2012)：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "不名誉な審査は、2012年に発売されたゲームで、プレイヤーがさまざまなミッションをこなしてストーリーを進めていく内容です。このゲームの評価ポイントとしては、ストーリーの面白さやグラフィックのクオリティが高く、ゲームの世界観が引き立てられている点が挙げられます。また、レビューでは、操作性の良さやサウンドトラックの素晴らしさも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/dishonored-review-2012/",
+        "date": "2026-06-21",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-21T11:45:55.350120"
+  "last_updated": "2026-06-21T14:24:28.788548"
 }
