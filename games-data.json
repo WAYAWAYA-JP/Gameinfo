@@ -640,6 +640,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/citizen-sleeper/info/",
         "date": "2026-06-22"
+      },
+      {
+        "title": "餓狼伝説 City of the Wolves",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "餓狼伝説 City of the Wolvesは、格闘ゲームのファンに人気のあるタイトルです。このゲームは、激しい戦闘と美しいグラフィックが特徴で、プレイヤーはさまざまなキャラクターを操作して対戦することができます。現在、Steamで50% OFFのセール中で、通常価格よりも大幅に安くなっています。評価も高く、多くのプレイヤーから好評価を得ています。",
+        "price": "¥1,490",
+        "originalPrice": "¥2,980",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2492040",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サイバーパンク・ゲームであるCyberpunk 2077が現在、Variousで70%割引のセール中です。このゲームは、オープンワールドとRPGの要素を備えたアクションアドベンチャーゲームで、2077年の暗い未来世界を舞台に、プレイヤーは強力な武器や能力を駆使して、さまざまなミッションをクリアしていきます。評価は高く、人気も高まっていますので、セール中のこの機会にぜひお試しください。",
+        "price": "$17.99",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
+        "date": "2026-06-22"
       }
     ],
     "review": [
@@ -1201,8 +1225,21 @@
         "url": "https://www.rockpapershotgun.com/steam-machine-prices-start-at-879-1049-valve-confirm-as-randomised-reservations-open-for-the-steamos-pc",
         "date": "2026-06-22",
         "is_translated": true
+      },
+      {
+        "title": "【「推測するには危険すぎる」：Valveは「価格を下げる人もいる」と認めた後、Steam Mac...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、ValveのSteam Macに関連する価格設定について触れています。Valveは、価格設定について推測することは危険すぎると述べつつも、価格を下げる人もいることを認めています。この記事では、Steam Macの価格設定やその影響について詳しく分析しています。特に、ゲームファンやSteamユーザーにとっては。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/steam-machine-price-valve-interview",
+        "date": "2026-06-22",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-22T17:07:19.500976"
+  "last_updated": "2026-06-22T22:48:04.551751"
 }
