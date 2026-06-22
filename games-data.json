@@ -628,6 +628,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/mass-effect-legendary-edition/info/",
         "date": "2026-06-21"
+      },
+      {
+        "title": "Citizen Sleeper",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Citizen SleeperがVariousで100%割引されているようです。このゲームはロールプレイゲームであり、ユニークなシステムとストーリーが特徴です。現在の価格は無償で提供されており、非常に魅力的です。ユーザーの評価は非常に高く、多くのプレイヤーがこのゲームを楽しんでいます。また、人気度も高く、多くのレビューが寄せられています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/citizen-sleeper/info/",
+        "date": "2026-06-22"
       }
     ],
     "review": [
@@ -1150,8 +1162,47 @@
         "url": "https://www.rockpapershotgun.com/gothic-1-remake-review-the-classic-rpg-returns-with-countless-subtle-improvements",
         "date": "2026-06-22",
         "is_translated": true
+      },
+      {
+        "title": "【スチームマシンのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "スチームマシンのレビュー記事では、ゲームの評価ポイントとしてグラフィックの高さや操作性の良さが挙げられています。また、レビューの内容概要としては、ゲームのストーリーやサウンドトラックの魅力が紹介されており、ゲームファンや新規プレイヤーにとって大変参考になる内容です。特に、グラフィックやサウンドにこだわるプレイヤーや、ストーリー重視のプレイヤーが対象読者として考えられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-pcs/steam-machine-review-2026/",
+        "date": "2026-06-22",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam Machine レビュー: 希望よりも高価だが、特別すぎて愛せない特異なリビング ...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Steam Machineのレビュー記事では、期待よりも高価で特別すぎて愛せないリビングデバイスとして評価されています。この記事では、Steam Machineの評価ポイントとして、高価な価格設定やリビングデバイスとしての特異性が取り上げられています。また、レビューの内容概要として、Steam Machineの性能や使い勝手の評価などが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/steam-machine-review",
+        "date": "2026-06-22",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam Machine の価格は £879 / $1049 から、SteamOS PC 向...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Steam Machine の価格は £879 / $1049 からと、高価な製品となりますが、SteamOS PC 向けの製品としての評価ポイントは、ハードウェアの性能、ゲームの互換性、そしてユーザーインターフェイスの使いやすさです。また、この製品のレビューでは、高性能なグラフィックカードや高速なプロセッサを搭載していること、SteamOS の使いやすさや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/steam-machine-prices-start-at-879-1049-valve-confirm-as-randomised-reservations-open-for-the-steamos-pc",
+        "date": "2026-06-22",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-22T14:37:33.274109"
+  "last_updated": "2026-06-22T17:07:19.500976"
 }
