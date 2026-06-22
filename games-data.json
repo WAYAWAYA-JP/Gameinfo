@@ -1098,8 +1098,60 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-spammy-ai-generated-capsule-art-is-a-pox-and-it-makes-browsing-steam-less-fun/",
         "date": "2026-06-22",
         "is_translated": true
+      },
+      {
+        "title": "【MMORPG『メイプルストーリー』夏の大型アプデ「CROWN」は新規・復帰勢必見の手厚い育成支...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "MMORPG『メイプルストーリー』の夏の大型アップデート「CROWN」は、新規プレイヤーや復帰したプレイヤーにとって非常に魅力的です。このアップデートでは、キャラクターの育成を手厚くサポートする内容が多く含まれています。まず、新しいスキルシステムが導入され、キャラクターの成長に幅が広がりました。また、豊富なクエストやイベントが用意されており、プレイヤーを楽しませるための充実した内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/maplestory-crown-20260622-450999/",
+        "date": "2026-06-22",
+        "is_translated": false
+      },
+      {
+        "title": "【マルチ対応過酷サバイバル『Don’t Starve Together』リリース10周年で「St...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "マルチ対応過酷サバイバルゲーム「Don't Starve Together」のリリース10周年を記念して、レビュー記事が掲載されています。このゲームは、サバイバル要素とマルチプレイ機能が特徴で、プレイヤーは荒野の中で生き残るために様々なアイテムを収集し、敵と戦う必要があります。レビューでは、このゲームの独自の世界観や難易度の高さが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260622-451002/",
+        "date": "2026-06-22",
+        "is_translated": false
+      },
+      {
+        "title": "【巨大メカ娘FPS『最終回収SQUAD』は「手応え満点のバトル」「人類滅亡の絶望感」「新たな癖が...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "『最終回収SQUAD』は、巨大メカ娘が登場するFPSゲームで、手応えのあるバトルや人類滅亡の絶望感が特徴的です。このゲームのレビューでは、手応え満点のバトルや人類滅亡の絶望感、新たな癖が身につくことなどが評価ポイントとして挙げられています。FPSゲームファンやアクションゲーム好きの方にオススメできるレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/22/183390.html",
+        "date": "2026-06-22",
+        "is_translated": false
+      },
+      {
+        "title": "【Gothic 1 Remake レビュー - 古典的な RPG が無数の微妙な改善を加えて復活】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Gothic 1 Remakeは、古典的なRPGが無数の微妙な改善を加えて復活しています。このゲームは、グラフィックやゲーム性の向上により、より現代的で快適なプレイ体験を提供しています。評価ポイントとしては、ストーリーの深み、キャラクターの多様性、自由度の高いゲーム性が挙げられます。レビューの内容概要としては、ゲームの世界観やシステムの紹介、プレイの楽しさや難易度のバランスなどが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/gothic-1-remake-review-the-classic-rpg-returns-with-countless-subtle-improvements",
+        "date": "2026-06-22",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-22T04:04:25.773956"
+  "last_updated": "2026-06-22T14:37:33.274109"
 }
