@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "4X: Xplore, Xpand, Xploit, Xterminate",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、4Xと呼ばれるバンドルが現在販売中です。このバンドルには、Xplore、Xpand、Xploit、Xterminateなどのタイトルが含まれています。ジャンルはストラテジーです。大まかな価格帯は500円から1,500円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/4xxplorexpandxploitxterminate_bundle",
-        "date": "2026-06-12"
-      },
-      {
         "title": "Yuri in Luck: Waifus for Laifus",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,30 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Monster Hunter Rise + Sunbreak",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Monster Hunter Rise + SunbreakがSteamで84% OFFセール中です。このアクションアドベンチャーゲームは、モンスターハンターシリーズの最新作であり、ハンティングアクションと協力プレイを重視した特徴があります。通常価格より大幅に割引されたこのオファーは、シリーズファンや新規プレイヤーにとって大きな機会です。",
-        "price": "¥958",
-        "originalPrice": "¥5,990",
-        "discount": "84% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/692569",
-        "date": "2026-06-15"
-      },
-      {
-        "title": "DAVE THE DIVER",
-        "platform": "Various",
-        "type": "sale",
-        "description": "DAVE THE DIVERは、ダイビングをテーマにしたアクションアドベンチャーゲームです。このゲームはユニークなグラフィックと面白いゲームプレイが特徴で、現在Variousで63%オフのセール中です。評価は高く、人気も高いので、興味がある方はこの機会にチェックしてみてください。",
-        "price": "$7.37",
-        "originalPrice": "",
-        "discount": "-63%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
-        "date": "2026-06-15"
-      },
       {
         "title": "Clair Obscur: Expedition 33",
         "platform": "Various",
@@ -667,149 +631,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【好評SF廃墟FPS『Luna Abyss』開発元、「発売からわずか1か月」でスタジオ閉鎖。7年...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "人気のSF廃墟FPSゲーム「Luna Abyss」の開発スタジオが、発売からわずか1か月で閉鎖になったと発表されました。このゲームの評価ポイントとしては、独自の世界観やグラフィックの美しさが挙げられます。レビューの内容概要としては、ゲームの雰囲気やサウンドトラックの評価が中心です。特に、SFやFPSゲームのファンであれば、必見のレビュー記事となります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/luna-abyss-20260617-450069/",
-        "date": "2026-06-17",
-        "is_translated": false
-      },
-      {
-        "title": "【新ヒーロー“シオン”や多彩な新コンテンツを導入する「オーバーウォッチ」シーズン3が開幕：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「オーバーウォッチ」シーズン3のレビュー記事では、新しく導入されたヒーロー「シオン」や多様な新コンテンツについて評価しています。また、ゲームの新しいシーズンの魅力や、プレイヤーに対する新しい挑戦についても触れています。このレビュー記事は、ゲームファンや「オーバーウォッチ」のプレイヤーにとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167969.html",
-        "date": "2026-06-17",
-        "is_translated": false
-      },
-      {
-        "title": "【DLCを出すと「ゲーム本編の販売ペースが約2倍にブーストされる」との研究結果。プレイヤーにも嬉...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、DLCの発売がゲーム本編の販売ペースに与える影響について述べられています。研究結果によると、DLCの発売により、ゲーム本編の販売ペースが約2倍に増加することが分かっています。これは、DLCがゲーム本編の魅力を再びプレイヤーの注目にさらす効果があることを示唆しています。ゲーム開発者やマーケターにとっては、DLCの効果的な利用が重要な戦略であることがわかります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260617-450243/",
-        "date": "2026-06-17",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料戦車シューター『World of Tanks: HEAT』開発者インタビュー。な...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『World of Tanks: HEAT』は無料の戦車シューターで、プレイヤーは様々な戦車を操作して戦闘に参加します。このゲームの評価ポイントとしては、戦車の操作性やグラフィックの質が高く、リアルな戦闘感覚を味わえることが挙げられます。レビューの内容概要としては、ゲームのバランスやステージデザインが良く、オンラインマルチプレイヤー機能も充実していることが分かります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/world-of-tanks-heat-interview-20260617-450211/",
-        "date": "2026-06-17",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料SF重厚RPG『カウンターサイド』8月でサービス終了へ。しかし「リブートプロジェ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料のSF重厚RPG『カウンターサイド』は8月でサービス終了することが発表されましたが、その代替として「リブートプロジェクト」が進行中です。このプロジェクトは、サービス終了後のゲームの未来を示唆しており、ファンには大きな期待を抱かせています。ゲームの評価ポイントとしては、ストーリーの深みやキャラクターの魅力、グラフィックの美しさが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260617-450156/",
-        "date": "2026-06-17",
-        "is_translated": false
-      },
-      {
-        "title": "【エリオットの冒険: ミレニアム物語 レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "エリオットの冒険: ミレニアム物語は、ユニークなゲーム世界とキャラクターで知られています。このレビュー記事では、ゲームの評価ポイントとしてグラフィックの美しさ、ストーリーの深さ、そしてプレイヤーの自由度の高さを挙げています。また、レビューの内容概要としては、ゲームの世界観の紹介、キャラクターの魅力、そしてゲームプレイの面白さについて触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/the-adventures-of-elliot-the-millennium-tales-review/",
-        "date": "2026-06-17",
-        "is_translated": true
-      },
-      {
-        "title": "【The Guild: Europa 1410 は、難しいキングダムカム ボードゲームのようにプ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "The Guild: Europa 1410 は、キングダムカム ボードゲームシリーズの難しい作品のようにプレイできます。このゲームの評価ポイントは、複雑なルールや戦略的な思考が求められる点です。レビューの内容概要としては、ゲームの難易度やリプレイ性が高く、ボードゲームのファンにはお勧めできる点が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/the-guild-europa-1410-is-a-medieval-strategy-reboot-that-plays-like-a-fussy-kingdom-come-boardgame",
-        "date": "2026-06-17",
-        "is_translated": true
-      },
-      {
-        "title": "【Adventures of Elliot レビュー: 時間を尊重する魅力的な昔ながらの RPG】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Adventures of Elliotは、昔ながらの魅力を持ったRPGです。このゲームの評価ポイントとしては、懐かしいグラフィックとシンプルながらも深みのあるゲームシステムが挙げられます。レビューの内容概要としては、ゲームのストーリーが簡潔ながらも感動的なものであること、ゲームの難易度が適切で楽しいこと、そしてBGMが印象的なものであることが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/adventures-of-elliot-review/",
-        "date": "2026-06-17",
-        "is_translated": true
-      },
-      {
-        "title": "【Game Scienceが開発を手がけた傑作西遊記アクション「黒神話：悟空」の販売が遂に累計3...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ゲームScienceによるアクションゲーム「黒神話：悟空」は、西遊記をモチーフにした傑作で、販売累計が3万本を突破しました。このゲームは、独自のストーリーやキャラクター、そしてスムーズな操作感で高く評価されています。レビューでは、ゲームのグラフィックやサウンドトラックも高く評価されています。特に、アクションゲームや西遊記のファンにはおすすめのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06167923.html",
-        "date": "2026-06-17",
-        "is_translated": false
-      },
-      {
-        "title": "【電気的な近接戦闘から驚きの Firewatch のうなずきまで、Control Resonan...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、Control Resonanceというゲームについて評価しています。ゲームの評価ポイントとして、電気的な近接戦闘やFirewatchのような意外なストーリーの展開が挙げられています。レビューの内容概要として、ゲームの戦闘システムやストーリーの深みについて言及されています。このレビューは。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/from-its-electric-melee-fights-to-its-surprise-firewatch-nods-control-resonants-radical-sequelcraft-looks-like-it-might-just-pay-off",
-        "date": "2026-06-17",
-        "is_translated": true
-      },
-      {
-        "title": "【『エリオットの冒険』レビューまとめ：クールな戦闘、まあその他はすべて】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "「エリオットの冒険」はクールな戦闘システムが特徴的なゲームで、他の要素は平凡ではあるものの、戦闘が非常に楽しいことが評価ポイントです。レビューでは、戦闘の爽快さやグラフィックの質の高さが高く評価され、ゲームファンやアクションゲーム好きにはお勧めとされています。また、ストーリーやキャラクターの魅力もあるものの、他のゲームに対する参考になりそうです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/adventures-elliot-millenium-tales-review-roundup/",
-        "date": "2026-06-17",
-        "is_translated": true
-      },
       {
         "title": "【『Dead by Daylight』Steam“同接12万人超”の大盛況。10周年記念「ジェイ...：レビュー】",
         "platform": "AUTOMATON",
@@ -1238,8 +1059,47 @@
         "url": "https://www.pcgamer.com/software/ai/data-analyst-finds-ai-stigma-on-steam-can-reduce-the-number-of-reviews-a-game-gets-by-around-53-percent-and-the-reviews-it-does-get-are-more-negative/",
         "date": "2026-06-21",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料セクシー吸血鬼MMO『ヴァンピール』で作る、理想のデカお姉さんヴァンパイア。血み...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "この記事は、基本プレイ無料のセクシーな吸血鬼MMOゲーム『ヴァンピール』のレビューです。ゲームでは、理想のデカお姉さんヴァンパイアを作ることができます。記事では、ゲームの評価ポイントとして、グラフィックの質やゲームプレイの面白さ、そしてキャラクターのカスタマイズの自由度が高く評価されています。また、ゲームのストーリーやサウンドトラックも魅力的です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/columnjp/20260622-450960/",
+        "date": "2026-06-22",
+        "is_translated": false
+      },
+      {
+        "title": "【発売から10年が経過したPC Steam版「Don’t Starve Together」が同接...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Steam版「Don’t Starve Together」は、発売から10年が経過し、同接を迎えています。このゲームの評価ポイントとしては、サバイバル要素の充実やユニークなグラフィックが挙げられます。レビューの内容概要としては、ゲームの長期的な楽しさやマルチプレイの魅力が高く評価されています。さらに、ゲームの世界観やシステムの深みも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168024.html",
+        "date": "2026-06-22",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam 週間の振り返り: AI によって生成されたスパム状のカプセル アートは痘瘡であり、...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Steamでの週刊レビューでは、AIによって生成されたスパムのようなカプセルアートが問題となっていることが分かりました。このレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンドの質、ゲームプレイの面白さなどを取り上げています。また、レビューの内容概要としては、カプセルアートの問題点やゲームの魅力について述べています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-spammy-ai-generated-capsule-art-is-a-pox-and-it-makes-browsing-steam-less-fun/",
+        "date": "2026-06-22",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-21T22:14:37.313357"
+  "last_updated": "2026-06-22T04:04:25.773956"
 }
