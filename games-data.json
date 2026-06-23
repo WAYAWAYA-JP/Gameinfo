@@ -194,6 +194,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/completeinklelibrary_bundle",
         "date": "2026-06-20"
+      },
+      {
+        "title": "IGN Live Bundle 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、IGN Live Bundle 2026というバンドルが販売中です。このバンドルには、人気タイトル「Elden Ring」や「Cyberpunk 2077」、「The Witcher 3」などが含まれています。ジャンルはアクションやRPGを中心に構成されています。大まかな価格帯は、1,000円から5,000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/ignlivebundle2026_bundle",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "Yuri in Luck: Waifus for Laifus",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Yuri in Luck: Waifus for Laifusを含むバンドルが販売中です。このバンドルには、Yuri in Luck: Waifus for Laifusのほか、恋愛や女性主人公を題材としたゲームが収録されています。ジャンルはビジュアルノベルやアドベンチャーゲームです。価格帯は約1,000円から約5,000円までと幅広い選択肢があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/yuriinluckwaifusforlaifus_bundle",
+        "date": "2026-06-23"
       }
     ],
     "sale": [
@@ -580,6 +604,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-06-22"
+      },
+      {
+        "title": "デッドバイデイライト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "デッドバイデイライトは、Steamで現在60%オフのセール中です。このサバイバルホラーゲームは、4人の生存者が1人のキラーと戦う対戦要素を含み、Popularに評価されています。Steamでは高い人気度を誇り、多くのプレイヤーから好評価を得ています。通常価格より大幅に安くなっているので、ホラーゲームファンには絶好のチャンスです。",
+        "price": "¥792",
+        "originalPrice": "¥1,980",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/381210",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "デイヴ・ザ・ダイバー",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "デイヴ・ザ・ダイバーは、Steamで現在50%オフのセール中です。このゲームは、アクションアドベンチャー系のダイビングゲームで、深海でのダイビングを体験できるユニークな特徴があります。プレイヤーは、色々な魚や海洋生物と出会い、海底の秘密を解き明かすことができます。評価は非常に高く、多くのユーザーから好評を博しており、人気度も高いゲームです。",
+        "price": "¥1,200",
+        "originalPrice": "¥2,400",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1868140",
+        "date": "2026-06-23"
       }
     ],
     "review": [
@@ -1063,8 +1111,21 @@
         "url": "https://www.inside-games.jp/article/2026/06/23/183411.html",
         "date": "2026-06-23",
         "is_translated": false
+      },
+      {
+        "title": "【歴史的な名作が完全復活を果たした「Gothic 1 Remake」の評価トレーラーがお披露目】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Gothic 1 Remake」の評価トレーラーが発表されました。このゲームは歴史的な名作が完全に復活しています。レビューの内容は、グラフィックの向上、ゲームプレイの改善、ストーリーの魅力などを評価しています。特に、オリジナル版のファンには必見の作品となっています。また、新規プレイヤーも楽しめる内容になっています。対象読者は、オープンワールドRPGファンやアクションゲーム好きの方です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168120.html",
+        "date": "2026-06-23",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-23T03:26:27.422026"
+  "last_updated": "2026-06-23T12:06:37.147136"
 }
