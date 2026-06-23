@@ -628,6 +628,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/1868140",
         "date": "2026-06-23"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33はアクションアドベンチャーゲームで、現在Variousで31％割引されています。このゲームは、ユニークなグラフィックとスリリングなゲームプレイで知られており、ファンから高い評価を受けています。セール期間中は、通常価格よりも大幅に安く購入できるので、ゲーム好きの方にはお勧めです。",
+        "price": "$34.69",
+        "originalPrice": "",
+        "discount": "-31%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-06-23"
       }
     ],
     "review": [
@@ -1202,8 +1214,21 @@
         "url": "https://www.polygon.com/dragonball-xenoverse-3-preview/",
         "date": "2026-06-23",
         "is_translated": true
+      },
+      {
+        "title": "【最大8人プレイに対応するCo-opアクションローグライク「LORT」の販売が50万本のマイルス...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "コープアクションローグライクゲーム「LORT」は最大8人プレイに対応しており、販売本数50万本を達成しました。このゲームは、複数のプレイヤーが協力して様々なステージを攻略することが特徴です。評価ポイントとしては、多人数プレイ時の盛り上がりや、ランダムに生成されるステージの多様性があげられます。さらに、キャラクターのカスタマイズ要素や、ボス戦の難易度も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168146.html",
+        "date": "2026-06-23",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-23T15:14:48.053268"
+  "last_updated": "2026-06-23T22:12:30.329295"
 }
