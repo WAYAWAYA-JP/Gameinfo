@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/summer-blade-bundle",
         "date": "2026-06-24"
+      },
+      {
+        "title": "Going Rogue: A Lite Heavy Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Going Rogue: A Lite Heavy Bundleというバンドルが現在販売中です。このバンドルには、Roguebook、Card Quest、Monster Crownなどのタイトルが含まれており、ローグライクやカードゲームなどのジャンルが特徴です。大まかな価格帯は、500円から1500円程度と幅があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/goingrogueliteheavybundle_bundle",
+        "date": "2026-06-24"
       }
     ],
     "sale": [
@@ -615,6 +627,18 @@
         "discount": "-47%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/horizon-zero-dawn-remastered/info/",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "AI Limit",
+        "platform": "Various",
+        "type": "sale",
+        "description": "AI Limitは、バラエティに富んだゲームです。現在、43%オフのセール中で、魅力的な価格でプレイすることができます。このゲームは、ユーザーから高評価を受けており、人気度も高いと言えるでしょう。セール期間中は、通常価格よりも大幅に安く購入することができるので、注目すべきゲームの一つです。",
+        "price": "$19.89",
+        "originalPrice": "",
+        "discount": "-43%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ai-limit/info/",
         "date": "2026-06-24"
       }
     ],
@@ -1167,5 +1191,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-24T14:44:19.125004"
+  "last_updated": "2026-06-24T22:17:26.393152"
 }
