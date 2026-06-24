@@ -592,6 +592,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-06-23"
+      },
+      {
+        "title": "Overcooked! 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Overcooked! 2がSteamで75% OFFセール中です。このゲームは、協力プレイを重視したアクションパズルゲームで、最大4人でプレイできます。プレイヤーは、キッチンで料理を作りながら、障害物や動く床などを回避して、チームワークを発揮します。現在、Steamで大幅な割引が行われており、通常価格よりも75%安く購入できます。",
+        "price": "¥642",
+        "originalPrice": "¥2,570",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/728880",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Horizon Zero Dawn™ Remastered",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Horizon Zero Dawn™ RemasteredがVariousで47%オフのセール中です。このゲームは、アクションアドベンチャーとロールプレイングの要素を組み合わせたオープンワールドゲームで、ロボットと人類が共存する未来世界を舞台にします。高い評価と人気を誇り、強力な主人公と豊富なストーリーが特徴です。現在の価格は、通常価格より47%割引された特別価格で提供されています。",
+        "price": "$26.39",
+        "originalPrice": "",
+        "discount": "-47%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/horizon-zero-dawn-remastered/info/",
+        "date": "2026-06-24"
       }
     ],
     "review": [
@@ -1127,8 +1151,21 @@
         "url": "https://automaton-media.com/articles/newsjp/20260624-451558/",
         "date": "2026-06-24",
         "is_translated": false
+      },
+      {
+        "title": "【Steamで「AI生成コンテンツの使用開示」に記載がある場合、レビューが少なくなるというデータ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで「AI生成コンテンツの使用開示」に記載があるゲームは、レビュー数が少なくなる傾向があることがわかりました。この記事では、このデータの背景と原因について分析しています。また、AIを使用したゲーム開発の利点と欠点についても触れています。ゲーム開発者やAI技術に興味のある方に役立つ内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260624-451676/",
+        "date": "2026-06-24",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-24T11:44:23.737850"
+  "last_updated": "2026-06-24T14:44:19.125004"
 }
