@@ -1,92 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "The Ouroboros King",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Ouroboros Kingは、戦略性とビルドの多様性を兼ね備えたローグライクゲームです。チェスのような戦略的な深みとローグライクのリプレイ性を楽しむことができます。プレイヤーは強力な軍隊を編成し、遺物を発見してキャラクターを強化し、様々なアイテムを購入してキャラクターをカスタマイズできます。さらに、ゲームの進行に応じて、新しいビルドや戦略を発見することができます。",
-        "price": "無料",
-        "originalPrice": "¥9",
-        "discount": "100% OFF",
-        "deadline": "2026年06月18日まで",
-        "url": "https://store.epicgames.com/ja/p/the-ouroboros-king",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Warhammer 40K Speed Freeks",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Warhammer 40K Speed Freeksは、サイバーパンクとSFの要素を組み合わせたアクションレースゲームです。高速のレース、バトル要素、カスタマイズ可能な乗り物が特徴的です。また、ゲーム内のストーリーやキャラクターも魅力的に描かれています。このゲームは現在、Epic Gamesプラットフォームで無料配布中で、ゲームファンにはとてもおすすめできます。",
-        "price": "無料",
-        "originalPrice": "¥19",
-        "discount": "100% OFF",
-        "deadline": "2026年06月18日まで",
-        "url": "https://store.epicgames.com/ja/p/b28e038bd68b4e80840e7fb8b747de54",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Citizen Sleeper",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "現在、Epic Gamesでは、ゲーム『Citizen Sleeper』が無料配布中です。このゲームは、ロールプレイングゲームのジャンルに属し、特徴的な要素としては、サイバーパンクな世界観や、キャラクターの能力をアップグレードすることができます。また、プレイヤーは、自分のキャラクターをカスタマイズして、さまざまなミッションをこなしていく魅力があります。",
-        "price": "無料",
-        "originalPrice": "¥19",
-        "discount": "100% OFF",
-        "deadline": "2026年06月25日まで",
-        "url": "https://store.epicgames.com/ja/p/da528841e0eb43d8b93fd243c6767b0c",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "ROBOBEAT",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "ROBOBEATは、リズムアクションゲームです。特徴としては、ユニークなリズムシステムや、キャラクターのデザインが魅力的であり、音楽に合わせてアクションを起こすことでゲームを進めていくことができます。また、ゲームの難易度は、初心者から上級者まで対応しており、幅広いプレイヤーが楽しめるという点も特徴です。現在、Epic Gamesプラットフォームで無料配布中であり、誰でも簡単に遊ぶことができます。",
-        "price": "無料",
-        "originalPrice": "¥23",
-        "discount": "100% OFF",
-        "deadline": "2026年06月25日まで",
-        "url": "https://store.epicgames.com/ja/p/4ee365fd76704f37ae3dc13676f1ac61",
-        "date": "2026-06-18"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Frosty Games Fest Showcase Bundle 2026: Made in ANZ",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Frosty Games Fest Showcase Bundle 2026: Made in ANZというバンドルがHumble Bundleで販売中です。このバンドルには、\"Way of the Hunter\"や\"Blind Fate\"などの主要タイトルが含まれており、主にアクションやアドベンチャー系のジャンルを中心に構成されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/frostygamesfestshowcasebundle2026madeinanz_bundle",
-        "date": "2026-06-15"
-      },
-      {
-        "title": "Redline Racing Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Redline Racing Bundleというバンドルの販売が行われています。このバンドルには、主要タイトルとして「Dirt Rally 2.0」、「Wreckfest」、「GRID」のようなレースゲームが含まれており、レースゲームファンにとっておすすめです。ジャンルはレースゲームで、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/redlineracingbundle_bundle",
-        "date": "2026-06-15"
-      },
-      {
-        "title": "Twist & Tangle Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Twist & Tangle Bundleのバンドルが販売中です。このバンドルには、Twist & Tangle、Tangle Tower、Twistyのタイトルなどが含まれています。ジャンルは、パズルとアドベンチャーに属し、大まかな価格帯は10〜20ドルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
-        "date": "2026-06-15"
-      },
       {
         "title": "Devil May Cry: Devil Trigger Reloaded Collection 2026",
         "platform": "Humble Bundle",
@@ -242,165 +157,21 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/goingrogueliteheavybundle_bundle",
         "date": "2026-06-24"
+      },
+      {
+        "title": "June 2026 Humble Choice",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "現在、Humble BundleではJune 2026 Humble Choiceのバンドルが販売中です。このバンドルには、主要タイトルとして『Hot Wheels Unleashed』や『WRC 10』などのレースゲーム、さらにアクションゲームやアドベンチャーゲームなどが含まれています。ジャンルはレースゲームやアクションゲーム、アドベンチャーゲームなど多様で。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/june_2026_choice",
+        "date": "2026-06-25"
       }
     ],
     "sale": [
-      {
-        "title": "CARRION",
-        "platform": "Various",
-        "type": "sale",
-        "description": "CARRIONは、ユーザーが肉食的なアメーバのような生物を操作し、研究施設から脱出を目指す、ホラーゲームです。現在、Variousで90%オフのセール中であり、非常に魅力的です。このゲームは、その独特なゲームプレイとストーリーから、高い評価と人気を得ています。",
-        "price": "$1.99",
-        "originalPrice": "",
-        "discount": "-90%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/carrion/info/",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Vampire: The Masquerade® - Bloodlines™ 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Vampire: The Masquerade - Bloodlines 2は、ロールプレイゲームのジャンルに属するオープンワールドのアクションゲームです。このゲームでは、バンパイアとなり、さまざまなキャラクターを操作してストーリーを進めていきます。現在、50%割引された価格で購入することができます。多くのユーザーから高評価を得ており、バンパイアファンやRPGファンにはおすすめのゲームです。",
-        "price": "$29.99",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/vampire-the-masquerade-bloodlines-2/info/",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "SILENT HILL f",
-        "platform": "Various",
-        "type": "sale",
-        "description": "SILENT HILL fがVariousで50%割引のセール中です。このホラー系アドベンチャーゲームは、恐怖とサスペンスが特徴で、人気シリーズの新作として注目を集めています。現在の価格は大幅に割引されており、ファンやホラーゲームファンにとってはお勧めの購入機会です。",
-        "price": "$34.99",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/silent-hill-f/info/",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Street Fighter 6",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "人気格闘ゲームのStreet Fighter 6がSteamで50% OFFセール中です。ファイティングゲームファンには必見のタイトルであり、シリーズの最新作として注目を集めています。ストーリーモードやオンライン対戦モードを含む様々なモードが用意されており、プレイヤーが楽しめるコンテンツが豊富です。現在のセールでは、通常価格より50%割引されており。",
-        "price": "¥2,495",
-        "originalPrice": "¥4,990",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1364780",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "BIOHAZARD RE:4",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "BIOHAZARD RE:4がSteamで75% OFFセール中です。このゲームはサバイバルホラーのジャンルで、恐怖を味わいながらプレイすることができます。Steamでの評価は非常に高く、人気度も高いゲームです。通常価格から大幅に割引されたこのセールは、ファンや新規プレイヤーにとって絶好の機会です。",
-        "price": "¥1,247",
-        "originalPrice": "¥4,990",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2050650",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "FINAL FANTASY VII REBIRTH",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY VII REBIRTHがSteamで60% OFFセール中です。このゲームは、ロールプレイングゲームの名作FINAL FANTASY VIIのリメイク作品で、壮大なストーリーと深いキャラクター設定が特徴です。現在、Steamで60%の割引が適用されており、通常価格よりも大幅に安く購入できます。",
-        "price": "¥2,631",
-        "originalPrice": "¥6,578",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2909400",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "SILENT HILL 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サバイバルホラーゲームの名作であるSILENT HILL 2が、現在60%割引で販売中です。このゲームは、ストーリーが深く、雰囲気のあるサウンドトラックやグラフィックが特徴で、多くのプレイヤーから高い評価を受けています。ホラーゲームファンには必見の作品で、価格も割引によって大幅に下がっていますので、おすすめです。",
-        "price": "$31.56",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Shadows of Doubt",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Shadows of Doubtは、探偵を題材にしたアクションアドベンチャーゲームで、現在Variousで56%割引のセール中です。このゲームでは、プレイヤーが探偵となり、複雑な事件を解決するために様々な手段を活用します。評価は非常に高く、ユーザーからの評価も非常に好調です。価格も割引によりお手頃になりましたので、おすすめのゲームです。",
-        "price": "$10.88",
-        "originalPrice": "",
-        "discount": "-56%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/shadows-of-doubt/info/",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "No Man's Skyがバラエティストアで60%オフのセール中です。このゲームは、サンドボックス要素と宇宙探索を特徴とするオープンワールドアドベンチャーゲームです。プレイヤーは、無限に広がる宇宙を旅して、新しい惑星を発見し、資源を採集することができます。評価は高く、人気も高いゲームで、ファンからの支持が厚いです。セール期間中は、通常価格よりも大幅に安く購入することができます。",
-        "price": "$23.95",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "サイバーパンク2077",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サイバーパンク2077がSteamで70% OFFセール中です。このゲームはサイバーパンクをテーマにしたオープンワールドRPGで、未来的な世界を探索し、キャラクターをカスタマイズすることができます。通常価格より大幅に安くなっているので、気になる方はお得に購入することができます。サイバーパンク2077は高い評価と人気を誇り、多くのプレイヤーから高い評価を受けています。",
-        "price": "¥2,633",
-        "originalPrice": "¥8,778",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1091500",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY VII REMAKE INTERGRADEがSteamで65% OFFセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、ファイナルファンタシーシリーズの名作であるFINAL FANTASY VIIのリメイク作品として人気を博しています。特徴としては、美麗なグラフィックや壮大なストーリー、そして戦闘システムの革新が挙げられます。",
-        "price": "¥1,917",
-        "originalPrice": "¥5,478",
-        "discount": "65% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1462040",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "The Witcher 3: Wild Hunt",
-        "platform": "Various",
-        "type": "sale",
-        "description": "『The Witcher 3: Wild Hunt』は、オープン_WORLDアクションRPGの名作です。現在、Variousで90%オフのセール中となっており、通常価格より大幅に安くなっています。このゲームは、高度なグラフィックと奥深いストーリーで知られており、多くのプレイヤーから高い評価を受けています。",
-        "price": "$3.99",
-        "originalPrice": "",
-        "discount": "-90%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-witcher-3-wild-hunt/info/",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Cyberpunk 2077: Phantom Liberty",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サイバーパンクアドベンチャーゲームであるCyberpunk 2077: Phantom Libertyが、現在45%オフのセール中です。このゲームは、オープンワールドとストーリー駆動型のゲームプレイを備えた、サイバーパンクをテーマにしたアクションRPGです。高い評価と人気を誇るこのゲームは、豊富なグラフィックスと深いストーリーでプレイヤーを魅了していますので、お見逃しなくください。",
-        "price": "$16.49",
-        "originalPrice": "",
-        "discount": "-45%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077-phantom-liberty/info/",
-        "date": "2026-06-18"
-      },
       {
         "title": "ウィッチャー３　ワイルドハント　コンプリートエディション",
         "platform": "Steam",
@@ -644,84 +415,6 @@
     ],
     "review": [
       {
-        "title": "【終末少女ロボット“JFPS”『最終回収SQUAD』、シンプルながら緊張感あるゲームプレイで「非...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ゲーム「最終回収SQUAD」は、シンプルながら緊張感あるゲームプレイが特徴です。このゲームの評価ポイントとしては、緊張感のあるサバイバル要素や、簡単ながらも深みのあるゲームシステムが挙げられます。レビューでは、ゲームの不気味な雰囲気や、プレイヤーが取る選択の重さも高く評価されています。このレビュー記事は、サバイバルゲームやロボット関連のゲームに興味がある方に最もお勧めできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/the-lastsalvage-squad-20260620-450808/",
-        "date": "2026-06-20",
-        "is_translated": false
-      },
-      {
-        "title": "【シリーズぜんぶ高評価シム『ツーポイント』の、「本格シムなのに失敗を許す」開発哲学。『ヴァンサバ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "シムシリーズの『ツーポイント』は、高評価を得ているシリーズであり、その開発哲学は「本格的なシミュレーションゲームでありながら、失敗を許す」ものです。この哲学は、プレイヤーに自由度とチャレンジングな体験を提供します。『ヴァンサバ...』のレビュー記事では、このゲームの評価ポイントとして、ゲームデザイン、グラフィック、サウンドなどの点が取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/20260620-450788/",
-        "date": "2026-06-20",
-        "is_translated": false
-      },
-      {
-        "title": "【最大8人マルチ対応・銀河系ハンバーガー店シム『Burger Bots Inc.』正式リリース。...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Burger Bots Inc.』は、最大8人まで同時プレイ可能なマルチモードを備えた、銀河系を舞台にしたハンバーガーショップシミュレーションゲームです。レビューでは、ゲームのユニークな設定、面白いゲームプレイ、そしてマルチプレイ機能の評価が高まっています。特に、最大8人までの同時プレイが可能な点や。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260620-450834/",
-        "date": "2026-06-20",
-        "is_translated": false
-      },
-      {
-        "title": "【実写インタラクティブドラマゲーム『盛世天下：女帝への道I&II』プレイ感想。「大河ドラマを自分...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "実写インタラクティブドラマゲーム『盛世天下：女帝への道I&II』のレビュー記事では、ゲームの独自のプレイ感覚やストーリーの引き出し方が評価されています。ゲームの主な評価ポイントとしては、プレイヤーが自分で大河ドラマのようなストーリーを体験できる点や、ドラマの展開が非常に面白い点が挙げられます。このレビュー記事は、インタラクティブドラマゲームや歴史ドラマが好きな人に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/roadtoempress-20260620-450819/",
-        "date": "2026-06-20",
-        "is_translated": false
-      },
-      {
-        "title": "【コスプレ】細いウエストに美脚が眩しい！人気コスプレイヤー・月海つくねが初の台湾撮影会へ──台北で見せた“お月見さま”の笑顔【写真19枚】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事は、人気コスプレイヤーである月海つくねが初めて台湾で撮影会を行った際の様子を紹介しています。記事では、月海つくねの美しいコスプレ姿や、彼女の魅力的な笑顔が紹介されています。記事の内容は、月海つくねのファンやコスプレに興味がある人にとって楽しめる内容です。記事の評価ポイントとしては、月海つくねの美しい姿、彼女の笑顔の魅力、台湾での撮影会の様子などが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/20/183296.html",
-        "date": "2026-06-20",
-        "is_translated": false
-      },
-      {
-        "title": "【EAがウルティマの商標を更新するようだが、その作者は来年ゲームの著作権を取り戻すのを待っている：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、EAがウルティマの商標を更新したことを受けて、ゲームのオリジナル作者は来年著作権を取り戻すのを待っている姿が紹介されています。記事では、ゲームの評価ポイントとして、オリジナルのゲームデザインやストーリー、グラフィックのクオリティが高く評価されています。また、レビューでは、ゲームの世界観やキャラクターの深みも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/as-ea-appear-to-renew-the-trademark-for-ultima-its-creator-lies-in-wait-to-reclaim-the-games-copyright-next-year",
-        "date": "2026-06-20",
-        "is_translated": true
-      },
-      {
         "title": "【ニンテンドーダイレクトで睡眠時間の危機を確信した…！『FE 万紫千紅』『DQM4』ほか、この秋...：レビュー】",
         "platform": "インサイド",
         "type": "review",
@@ -759,19 +452,6 @@
         "url": "https://www.inside-games.jp/article/2026/06/21/183327.html",
         "date": "2026-06-21",
         "is_translated": false
-      },
-      {
-        "title": "【EAがUltimaの商標を更新するようだが、その作者は来年ゲームの著作権を取り戻すのを待っている：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、EAがUltimaの商標を更新しようとしているというニュースの中で、その作者が来年ゲームの著作権を取り戻すのを待っている状況を紹介しています。 Ultimaシリーズのゲームデザインやストーリー、ゲームプレイの評価ポイントが詳しく説明されており、シリーズのファンやロールプレイングゲームに興味がある人にはおすすめのレビューです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/as-ea-appear-to-renew-the-trademark-for-ultima-its-creator-lies-in-wait-to-reclaim-the-games-copyright-next-year",
-        "date": "2026-06-20",
-        "is_translated": true
       },
       {
         "title": "【不名誉な審査 (2012)：レビュー】",
@@ -1188,8 +868,73 @@
         "url": "https://automaton-media.com/articles/newsjp/20260624-451676/",
         "date": "2026-06-24",
         "is_translated": false
+      },
+      {
+        "title": "【マルチ対応高評価リズムアクション『ラタタン（RATATAN）』正式リリース日を10月15日へ延...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "マルチ対応のリズムアクションゲーム「ラタタン」が正式リリースされることが発表されました。このゲームは、音楽に合わせてキャラクターを操作して障害物を避ける内容で、ユーザーからは操作性や音楽選曲の豊富さが高く評価されています。特に、マルチプレイ機能が充実しており、友人や家族と一緒にプレイすることができます。ゲームファンや音楽好きの方に特にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260625-451598/",
+        "date": "2026-06-25",
+        "is_translated": false
+      },
+      {
+        "title": "【Riot Gamesのアンチチート「Vanguard」に“ゲームプレイ中だけ起動できる機能”追...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Riot Gamesのアンチチートツール「Vanguard」についてのレビュー記事です。このツールは、ゲームプレイ中のみに起動できる機能を備えており、ユーザーの安全と公平性を守るために設計されています。レビューでは、このツールの有効性とユーザーへの影響について評価しています。ゲームプレイヤーが気になるのは、チート対策の徹底とプライバシー保護のバランスです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/vanguard-20260625-451740/",
+        "date": "2026-06-25",
+        "is_translated": false
+      },
+      {
+        "title": "【『ブレイブルー セントラルフィクション（BBCF）』に「9年振り」の新キャラ追加へ。『ブレイブ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ブレイブルー セントラルフィクション（BBCF）』は、新キャラが9年振りにも関わらず追加されることが決定しました。このゲームの評価ポイントは、新キャラの追加によるゲーム性の向上や、ストーリーモードの深化などです。レビューの内容概要としては、新キャラの能力やゲームバランスの調整などが挙げられます。このゲームは、対戦型格闘ゲームファンや『ブレイブルー』シリーズの愛好者にとって。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/blazblue-centralfiction-20260625-451716/",
+        "date": "2026-06-25",
+        "is_translated": false
+      },
+      {
+        "title": "【人気動物園運営シムのナンバリング続編「Planet Zoo 2」の新要素を35分に渡って紹介す...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Planet Zoo 2は、人気動物園運営シムのナンバリング続編です。このゲームは、新しいグラフィックやゲームプレイ機構を搭載しており、プレイヤーはよりリアルな動物園運営の体験を楽しむことができます。レビューでは、ゲームのグラフィックの向上や新しい动物の追加などが評価されています。また、ゲームの操作性や難易度の調整も適切に行われていると言及されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168198.html",
+        "date": "2026-06-25",
+        "is_translated": false
+      },
+      {
+        "title": "【「Call of Duty: Black Ops 7」シーズン04リローデッドの新マルチプレイ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Call of Dutyシリーズの最新作「Call of Duty: Black Ops 7」のシーズン04リローデッドの新マルチプレイヤーモードについて紹介しています。新しいマップやゲームモードの追加、グラフィックの向上など、シリーズファン必見のポイントを評価しています。また、レビューでは、ゲームのバランスや難易度、そしてオンライン対戦の盛り上がりなどをチェックしています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168192.html",
+        "date": "2026-06-24",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-24T22:17:26.393152"
+  "last_updated": "2026-06-25T03:25:37.745147"
 }
