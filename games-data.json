@@ -532,6 +532,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/outer-wilds/info/",
         "date": "2026-06-25"
+      },
+      {
+        "title": "Ready Or Not",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Ready Or Notは、タクティカルファーストパーソンシューティングゲームです。Variousで現在56%割引されており、非常に安くなっています。このゲームは、プレイヤーがSWATユニットを操作し、様々なミッションをクリアすることを目標にしています。高い評価と人気度を誇り、ファンからも高い支持を受けています。",
+        "price": "$21.95",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ready-or-not/info/",
+        "date": "2026-06-25"
       }
     ],
     "review": [
@@ -1148,5 +1160,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-25T11:39:57.614375"
+  "last_updated": "2026-06-25T14:44:05.341918"
 }
