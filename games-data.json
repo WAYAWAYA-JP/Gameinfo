@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Citizen Sleeper",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Epic Gamesでは、現在『Citizen Sleeper』が無料配布中です。このゲームは、ロールプレイングゲームのジャンルに属し、特徴としては、未来的な宇宙ステーションを舞台にした物語や、キャラクターの成長システム、そして自由度の高いゲームプレイが魅力です。プレイヤーは、さまざまな選択肢を選んで物語を進め、キャラクターのスキルや関係を深めていくことができます。",
+        "price": "無料",
+        "originalPrice": "¥19",
+        "discount": "100% OFF",
+        "deadline": "2026年06月25日まで",
+        "url": "https://store.epicgames.com/ja/p/da528841e0eb43d8b93fd243c6767b0c",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "ROBOBEAT",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "ROBOBEATは、音楽とアクションを融合させたリズムアクションゲームです。特徴としては、ユニークな音楽に合わせてキャラクターを操作し、障害物をクリアする必要があります。また、多様なステージやキャラクターが用意されており、プレイヤーは自分の好みに応じて選択できる魅力があります。さらに、ゲームの難易度は段階的に上がり、プレイヤーのスキルを試される挑戦的な要素もあります。",
+        "price": "無料",
+        "originalPrice": "¥23",
+        "discount": "100% OFF",
+        "deadline": "2026年06月25日まで",
+        "url": "https://store.epicgames.com/ja/p/4ee365fd76704f37ae3dc13676f1ac61",
+        "date": "2026-06-25"
+      }
+    ],
     "bundle": [
       {
         "title": "Devil May Cry: Devil Trigger Reloaded Collection 2026",
@@ -168,6 +193,42 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.humblebundle.com/games/june_2026_choice",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Frosty Games Fest Showcase Bundle 2026: Made in ANZ",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Frosty Games Fest Showcase Bundle 2026: Made in ANZというバンドルがHumble Bundleで販売中です。このバンドルには、オーストラリアとニュージーランドで制作されたゲームが収録されており、主要タイトルとしては、\"ゲームタイトル1\"、\"ゲームタイトル2\"、\"ゲームタイトル3\"などが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/frostygamesfestshowcasebundle2026madeinanz_bundle",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Redline Racing Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Redline Racing Bundleが現在販売中です。このバンドルには、Wreckfest、TrackMania、Assetto Corsa Competizioneなどの人気レースゲームが含まれています。レースゲームファンにはおすすめのバンドルで、価格帯は大体2000円から3000円程度とお手頃です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/redlineracingbundle_bundle",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Twist & Tangle Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Twist & Tangle Bundleというバンドルが販売中です。このバンドルには、Twist & Tangle、Echoes of the Fey、Mythic Discourseなどのタイトルが含まれています。ジャンルはアドベンチャーやパズルゲームです。大まかな価格帯は、10ドル以下です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
         "date": "2026-06-25"
       }
     ],
@@ -411,6 +472,66 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ai-limit/info/",
         "date": "2026-06-24"
+      },
+      {
+        "title": "サイバーパンク2077",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サイバーパンク2077がSteamで70% OFFセール中です。このゲームは、オープンワールドのRPGジャンルに分類され、未来的な世界を舞台にしたサイバーパンクテーマが特徴です。現在、通常価格よりも70%割引されています。サイバーパンク2077は、リリース当初から高い評価を受けており、ユーザーからの人気度も非常に高いゲームです。",
+        "price": "¥2,633",
+        "originalPrice": "¥8,778",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1091500",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "FINAL FANTASY VII REBIRTH",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気ゲームシリーズ「ファイナルファンタジー」の最新作「FINAL FANTASY VII REBIRTH」がSteamで60%オフのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、グラフィックやストーリーが特徴的です。現在、通常価格よりも大幅に安くなっています。ファイナルファンタジーシリーズは、世界中で高い評価と人気を誇り、多くのファンがこのシリーズを愛しています。",
+        "price": "¥2,631",
+        "originalPrice": "¥6,578",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2909400",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REMAKE INTERGRADEがSteamで65% OFFのセール中です。このゲームはロールプレイングゲームのジャンルで、特徴的なストーリーやキャラクターで知られています。現在、通常価格より65%割引されており、ファイナルファンタジーシリーズのファンにはおすすめです。評価も高く、人気度も高いゲームであり、セール中のこの機会にプレイするのが良いでしょう。",
+        "price": "¥1,917",
+        "originalPrice": "¥5,478",
+        "discount": "65% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1462040",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Horizon Forbidden West Complete Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Horizon Forbidden West Complete EditionがVariousで現在56%オフのセール中です。このゲームはアクションアドベンチャー ジャンルに属し、美麗なグラフィックとスリリングなゲームプレイが特徴です。現在の価格は割引前と比較して大幅に安くなっています。評価も非常に高く、多くのユーザーから高い人気を誇っています。",
+        "price": "$26.28",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/horizon-forbidden-west-complete-edition/info/",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Outer Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Outer Wildsは、宇宙を探索するアドベンチャーゲームで、ユニークなタイムループシステムが特徴です。今回は、Variousで53%オフのセール中で、通常よりも大幅に安くなっています。 Outer Wildsは、高い評価と人気を誇り、プレイヤーから高い評価を得ています。",
+        "price": "$11.85",
+        "originalPrice": "",
+        "discount": "-53%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
+        "date": "2026-06-25"
       }
     ],
     "review": [
@@ -933,8 +1054,99 @@
         "url": "https://doope.jp/2026/06168192.html",
         "date": "2026-06-24",
         "is_translated": false
+      },
+      {
+        "title": "【Steam「非常に好評」植物栽培ショップ経営シム『Plant Nursery Simulato...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで「非常に好評」されている植物栽培ショップ経営シム『Plant Nursery Simulator』のレビュー記事では、ゲームの評価ポイントとして、ゲーム内の自由度や植物の種類の多さが挙げられています。レビューの内容概要として、ゲームのグラフィックやサウンドトラックの高品質さも賞賛されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260625-451829/",
+        "date": "2026-06-25",
+        "is_translated": false
+      },
+      {
+        "title": "【Nintendo Switch 2/ Switch向けセールに約570本どっさり追加。『ウィッ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Nintendo Switchのセールに約570本の新しいゲームが追加されました。このセールでは、さまざまなジャンルのゲームが割引されており、ユーザーには多くの選択肢が用意されています。特に、『ウィッチャー3』などの人気ゲームのレビュー記事もあり、ゲームの評価ポイントやレビューの内容概要を知ることができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260625-451801/",
+        "date": "2026-06-25",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam中華冥界経営シム『Hundred Nights: DIFU』は、ダークかと思いきやユ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで配信中の「Hundred Nights: DIFU」は、中華冥界を舞台にしたユニークな経営シムゲームです。このゲームでは、冥界の経営を通じて、ユーザーはさまざまなキャラクターを集め、建物を建設し、資源を管理する必要があります。レビューのポイントとして、ゲームの独自の世界観と、深いストーリーが評価されています。また、ゲームのシステムも複雑で、プレイヤーに戦略性と戦術性を要求します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260625-451568/",
+        "date": "2026-06-25",
+        "is_translated": false
+      },
+      {
+        "title": "【あの世でも“ガチ労働”冥界経営シム『Hundred Nights: DIFU』開発者が目指す「...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Hundred Nights: DIFU』は、冥界を経営するユニークなシミュレーションゲームです。このゲームの評価ポイントは、ユーザーが冥界を効率的に運営するためのさまざまな戦略を立てる必要があることです。レビューの内容概要としては、ゲームの独自の世界観や面白さ、そして難易度の調整が適切であることが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/20260625-451579/",
+        "date": "2026-06-25",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料セクシー吸血鬼MMO『ヴァンピール』7月22日正式リリースへ。すでに海外では大人...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "セクシーな吸血鬼を題材としたMMOゲーム「ヴァンピール」は、7月22日に正式にリリースされる予定です。すでに海外では大人気となっており、日本でも注目を集めています。このゲームの評価ポイントとしては、美麗でセクシーなキャラクター、豊富なストーリー、自由度の高いプレイスタイルが挙げられます。レビューでは、ゲームのグラフィックやサウンドトラックの高品質も称賛されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260625-451781/",
+        "date": "2026-06-25",
+        "is_translated": false
+      },
+      {
+        "title": "【『DELTARUNE（デルタルーン）』Steam同接約30万人の爆発的人気。待望の「チャプター...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『DELTARUNE』はSteamで約30万人のユーザーから爆発的人気を得ています。この記事では、待望の『DELTARUNE』の「チャプター2」のレビュー内容を紹介します。レビューのポイントとしては、ストーリーの深化、キャラクターの成長、ゲームシステムの改善が挙げられます。ゲームファンやアクションRPGを楽しむユーザーにとって、こちらのレビュー記事は必読です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260625-451775/",
+        "date": "2026-06-25",
+        "is_translated": false
+      },
+      {
+        "title": "【「詐欺」と「縁故主義」に苦情を申し立てた元Haloアートディレクター、差し迫ったXboxの人員...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、元HaloアートディレクターがXboxの人員に対して「詐欺」と「縁故主義」について苦情を申し立てたことを取り上げています。記事では、この問題がもたらす影響やゲーム業界への影響について言及しています。ゲームファンやXboxのユーザーにとって、Xboxの人員管理やゲーム開発への影響について知る機会になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/former-halo-art-director-who-complained-about-fraud-and-cronyism-warns-looming-xbox-layoffs-are-chance-for-bosses-to-settle-scores",
+        "date": "2026-06-25",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-25T03:25:37.745147"
+  "last_updated": "2026-06-25T11:39:57.614375"
 }
