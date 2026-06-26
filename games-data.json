@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Devil May Cry: Devil Trigger Reloaded Collection 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Devil May Cry: Devil Trigger Reloaded Collection 2026というバンドルが販売中です。このバンドルには、Devil May Cryシリーズの主要タイトルであるDevil May Cry 5、Devil May Cry 4、Devil May Cry 3が含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/devilmaycrydeviltriggerreloadedcollection2026_bundle",
-        "date": "2026-06-16"
-      },
-      {
         "title": "Massive Music 4 Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -257,78 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "ウィッチャー３　ワイルドハント　コンプリートエディション",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ウィッチャー３ ワイルドハント コンプリートエディションがSteamで80% OFFのセール中です。このゲームはアクションRPGのジャンルに属し、豊富なストーリーやキャラクターが特徴です。コンプリートエディションには、すべてのDLCが含まれており、プレイヤーはゲームの全容を体験できます。評価は非常に高く、人気ゲームとして知られています。",
-        "price": "¥1,320",
-        "originalPrice": "¥6,600",
-        "discount": "80% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/124923",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "Dead Space",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "人気ホラーゲームのDead SpaceがSteamで大幅な90%オフのセール中です。このゲームは、スリルと恐怖を感じることができるサバイバルホラーゲームで、プレイヤーは宇宙ステーションで異形の生物と戦います。高い評価と人気度を誇るこのゲームを、通常価格よりも大幅に安く体験することができます。",
-        "price": "¥870",
-        "originalPrice": "¥8,700",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1693980",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "Dead Space (2023)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "『Dead Space』（2023年）がVariousで90%オフのセール中です。この作品は、サバイバルホラーのゲームとして知られており、特に宇宙を舞台にした恐怖体験が特徴的です。通常価格から大幅に値下げされたこのセールは、ゲームファンにとって大きな機会です。高い評価と人気を誇るこのゲームを、格安の価格で体験することができます。",
-        "price": "$5.99",
-        "originalPrice": "",
-        "discount": "-90%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dead-space-2023/info/",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "Rust",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "現在、Steamではサンドボックス系サバイバルゲームであるRustが50%オフのセール中です。このゲームは、プレイヤーが島に漂着し、資源を集めながら生活するというコンセプトで人気があり、ユーザーから高い評価を得ています。Steamでの評価は「非常に好評」となっており、多くのプレイヤーから支持されています。価格は通常時よりも50%割引されており、安く入手するチャンスです。",
-        "price": "¥2,300",
-        "originalPrice": "¥4,600",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/252490",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "FINAL FANTASY XVI コンプリートエディション",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY XVI コンプリートエディションがSteamで60% OFFのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、壮大なストーリーや美しいグラフィックが特徴です。通常価格より大幅に安くなっています。また、ゲームの評価は非常に高く、人気度も高いので、ファイナルファンタジーシリーズのファンには必見の作品です。",
-        "price": "¥3,960",
-        "originalPrice": "¥9,900",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1111230",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "Resident Evil 4 (2023)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Resident Evil 4 (2023)がVariousで79%オフのセール中です。このゲームはサバイバルホラーのジャンルに属し、恐怖と緊張を込めたストーリーが特徴です。現在の価格は大幅に値下げされており、ファンや新規プレイヤーにとって魅力的です。評価も非常に高く、人気度も高いゲームです。",
-        "price": "$8.59",
-        "originalPrice": "",
-        "discount": "-79%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
-        "date": "2026-06-19"
-      },
       {
         "title": "Red Dead Redemption 2",
         "platform": "Various",
@@ -631,71 +547,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【ニンテンドーダイレクトで睡眠時間の危機を確信した…！『FE 万紫千紅』『DQM4』ほか、この秋...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事は、ニンテンドーダイレクトで発表された新作ゲームについての評価ポイントを紹介しています。特に『FE 万紫千紅』や『DQM4』などの秋に発売予定のゲームについて、ゲームシステムやストーリーの魅力などを簡潔にまとめています。この記事は、ニンテンドーダイレクトの発表を楽しみにしているゲーマーや、最新のゲーム情報に興味がある人に読んでほしい内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/21/183319.html",
-        "date": "2026-06-21",
-        "is_translated": false
-      },
-      {
-        "title": "【『パワフルプロ野球2026-2027』は遊び甲斐あり。『レイダース』前に『スプラトゥーン3』で...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『パワフルプロ野球2026-2027』は、シリーズファンにとっては当然のことながら、新規プレイヤーにも楽しい要素が多く含まれているゲームです。このレビュー記事では、ゲームのグラフィックやサウンド、プレーヤビリティなどの評価ポイントについて触れています。また、他のゲームとの比較や、シリーズの進化についても言及しています。特に、『スプラトゥーン3』や『レイダース』との比較が興味深いです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260621-450913/",
-        "date": "2026-06-21",
-        "is_translated": false
-      },
-      {
-        "title": "【コスプレ】小悪魔メイド姿で際立つ魅惑の美ふともも！香港アイドル兼コスプレイヤーが魅せる白い柔肌のS字カーブがすごい【写真9枚】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事は、香港のアイドル兼コスプレイヤーが小悪魔メイドのコスプレを披露している様子を紹介しています。特に、彼女の白い肌と美しいふとももが際立つS字カーブは見どころの一つです。対象読者は、コスプレやアイドルファン、美しい女性の写真を楽しむ人のために適しています。記事の内容は、コスプレイヤーの美しい姿や魅力的なポーズ、そして彼女のファッションセンスを紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/21/183327.html",
-        "date": "2026-06-21",
-        "is_translated": false
-      },
-      {
-        "title": "【不名誉な審査 (2012)：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "不名誉な審査は、2012年に発売されたゲームで、プレイヤーがさまざまなミッションをこなしてストーリーを進めていく内容です。このゲームの評価ポイントとしては、ストーリーの面白さやグラフィックのクオリティが高く、ゲームの世界観が引き立てられている点が挙げられます。また、レビューでは、操作性の良さやサウンドトラックの素晴らしさも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/dishonored-review-2012/",
-        "date": "2026-06-21",
-        "is_translated": true
-      },
-      {
-        "title": "【データアナリストは、Steam における「AI の汚名」により、ゲームが取得するレビューの数が...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事では、Steam における「AI の汚名」がゲームの評価に与える影響についてデータアナリストが分析しています。特に、ゲームが取得するレビューの数が減少する原因として、AI の悪評が要因となっていることが指摘されています。さらに、この記事ではレビューの内容概要として、ゲームの評価ポイントやユーザーの反応についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/software/ai/data-analyst-finds-ai-stigma-on-steam-can-reduce-the-number-of-reviews-a-game-gets-by-around-53-percent-and-the-reviews-it-does-get-are-more-negative/",
-        "date": "2026-06-21",
-        "is_translated": true
-      },
       {
         "title": "【基本プレイ無料セクシー吸血鬼MMO『ヴァンピール』で作る、理想のデカお姉さんヴァンパイア。血み...】",
         "platform": "AUTOMATON",
@@ -1267,8 +1118,34 @@
         "url": "https://www.polygon.com/netflixs-live-action-avatar-season-2-succeeds-by-leaning-into-the-political-horror-of-its-world/",
         "date": "2026-06-25",
         "is_translated": true
+      },
+      {
+        "title": "【高評価スタイリッシュ荒ぶりリズムゲーム『UNBEATABLE』7月27日の無料アプデで待望の日...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『UNBEATABLE』は、高評価を得ているスタイリッシュで荒ぶりが魅力的なリズムゲームです。7月27日には無料のアップデートが予定されており、待望の日が近づいています。このゲームの評価ポイントとしては、独自のリズムゲームプレイ、美しいビジュアル、そしてキャラクターの個性が挙げられます。レビューでは、これらの点が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260626-451952/",
+        "date": "2026-06-26",
+        "is_translated": false
+      },
+      {
+        "title": "【ガールズバンドアドベンチャー「UNBEATABLE」の日本語対応と大型DLC、Nintendo...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「UNBEATABLE」のレビュー記事では、このゲームの日本語対応と大型DLCのリリースが高く評価されています。特に、ゲーム内のストーリーやキャラクターの魅力が際立っており、プレイヤーに強い印象を与えると評価されています。また、Nintendo Switch版のパフォーマンスも好調で、快適なゲーム体験ができるようです。このレビューは、音楽ゲームやアドベンチャーゲームのファンに特にお勧めされます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168185.html",
+        "date": "2026-06-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-25T22:21:29.327208"
+  "last_updated": "2026-06-26T03:33:30.501663"
 }
