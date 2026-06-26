@@ -544,6 +544,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stellar-blade/info/",
         "date": "2026-06-25"
+      },
+      {
+        "title": "ペルソナ５ ザ・ロイヤル",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ５ ザ・ロイヤルがSteamで70% OFFのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、深いストーリーと魅力的なキャラクターで知られています。現在の価格は大幅に割引されており、非常に魅力的なオファーとなっています。ペルソナシリーズは、高い評価と人気度を誇り、ファンから高い支持を受けています。セール期間中は、こちらのゲームをプレイするのは絶好の機会です。",
+        "price": "¥2,303",
+        "originalPrice": "¥7,678",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1687950",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "God of War Ragnarök",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「God of War Ragnarök」が、現在41%割引のセール中です。このゲームは、北欧神話をベースにした壮大なストーリーや、美しいグラフィックス、そして激しいアクションが特徴です。高い評価を獲得しており、多くのゲームファンから人気を博しています。価格も割引により大幅に下がっているので、興味がある方にはお勧めのゲームです。",
+        "price": "$35.40",
+        "originalPrice": "",
+        "discount": "-41%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
+        "date": "2026-06-26"
       }
     ],
     "review": [
@@ -1144,8 +1168,34 @@
         "url": "https://doope.jp/2026/06168185.html",
         "date": "2026-06-26",
         "is_translated": false
+      },
+      {
+        "title": "【マルチ対応ドラゴン大陸サバイバルクラフト『ルーンスケープ：ドラゴンワイルズ』一気に人気再燃中。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "マルチ対応ドラゴン大陸サバイバルクラフト『ルーンスケープ：ドラゴンワイルズ』は、一気に人気を再燃させています。このゲームの評価ポイントとして、美しいグラフィックや広大な世界が挙げられます。レビューの内容概要としては、ゲーム内の自由度の高さやドラゴンとのバトルが楽しめる点が評価されています。これは、サバイバルクラフトゲームを楽しむことに興味のある方や、ドラゴンを題材にしたゲームファンにとって。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260626-452156/",
+        "date": "2026-06-26",
+        "is_translated": false
+      },
+      {
+        "title": "【リバイバルされた「ストライクフリーダムガンダム」METAL BUILDが発売間近！高評価の“聖...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "METAL BUILDシリーズの「ストライクフリーダムガンダム」がリバイバルされ、発売が間近にあります。この製品は高評価を受けており、「聖戦士ダンブル」のレビュー記事でその内容が紹介されています。評価ポイントとしては、ディテールや塗装の質、ポージングの自由度が高いことが挙げられます。レビューの内容概要としては、製品の作り込みが素晴らしいことや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/26/183627.html",
+        "date": "2026-06-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-26T03:33:30.501663"
+  "last_updated": "2026-06-26T11:44:26.789374"
 }
