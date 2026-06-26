@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
         "date": "2026-06-25"
+      },
+      {
+        "title": "Arc System Works: Evo Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Arc System Works: Evo Collectionというバンドルが現在販売中です。このバンドルには、主要タイトルとして『Guilty Gear XX Accent Core + R』や『BlazBlue: Central Fiction』、『River City Girls』などの人気ゲームが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/arcsystemworksevocollection_bundle",
+        "date": "2026-06-26"
       }
     ],
     "sale": [
@@ -1207,8 +1219,47 @@
         "url": "https://doope.jp/2026/06168246.html",
         "date": "2026-06-26",
         "is_translated": false
+      },
+      {
+        "title": "【フォードの“F-150”をお披露目する「American Truck Simulator」“R...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "アメリカのトラックシミュレーター「American Truck Simulator」に新しい車種「F-150」が登場しました。このゲームは、アメリカの大きなトラックを運転して貨物を運ぶシミュレーションゲームです。評価ポイントとしては、グラフィックの高さ、操作のリアルさ、自由度の高さがあげられます。具体的には、美しい景色の中をトラックを運転することができ、トラックのカスタマイズも豊富です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168268.html",
+        "date": "2026-06-26",
+        "is_translated": false
+      },
+      {
+        "title": "【可愛いネコの配達ドライバーを描く「Easy Delivery Co.」の無料アップデートがアナ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Easy Delivery Co.」は、可愛いネコの配達ドライバーを描いたゲームで、最近無料アップデートが公開されました。このゲームの評価ポイントは、ユニークなキャラクター設計と、シンプルながらも面白いゲームプレイが楽しめる点です。また、レビューでは、ゲームのグラフィックやサウンドトラックの質も高く評価されています。対象読者は、カジュアルゲームやアニマル系のゲームが好きな人にお勧めです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168250.html",
+        "date": "2026-06-26",
+        "is_translated": false
+      },
+      {
+        "title": "【めちゃカメレオン レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "めちゃカメレオンは、ユニークなゲーム性とグラフィックが特徴的な作品です。このゲームの評価ポイントとしては、カメレオンを操作して色々な物に変身するという面白いシステムや、多彩なステージデザインが挙げられます。また、レビューでは、ゲームの難易度や操作感も高く評価されています。ゲームファンやアクションゲーム好きの方に特におすすめできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/sports/meccha-chameleon-review/",
+        "date": "2026-06-26",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-26T14:37:19.095480"
+  "last_updated": "2026-06-26T22:13:30.385640"
 }
