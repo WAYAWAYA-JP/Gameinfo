@@ -206,6 +206,42 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/arcsystemworksevocollection_bundle",
         "date": "2026-06-26"
+      },
+      {
+        "title": "Upload VR Summer 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Upload VR Summer 2026バンドルが現在販売中です。このバンドルには、主要タイトルとして「Superhot VR」、「Job Simulator」、「Space Junkies」などの人気VRゲームが含まれています。ジャンルはアクション、シミュレーション、シューティングなど多様なジャンルが含まれており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/uploadvrsummer2026_bundle",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "Dungeon Defenders II Complete DLC Chest",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Dungeon Defenders II Complete DLC Chestというバンドルが現在販売中です。このバンドルには、Dungeon Defenders IIを含む主要タイトルが2-3本収録されており、アクションとタワーディフェンスを融合させた独自のゲームプレイが楽しめます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/dungeondefendersiicompletedlcchest_bundle",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "Massive Music 4 Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Massive Music 4 Bundleというバンドルが販売中です。このバンドルには、主要タイトルとして「Symphonic Orchestra」、「Epic Drums」、「Cinematic Sound Effects」などのゲーム音楽やサウンドトラックを作成するためのソフトウェアが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/massive-music4-bundle",
+        "date": "2026-06-27"
       }
     ],
     "sale": [
@@ -496,6 +532,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
         "date": "2026-06-26"
+      },
+      {
+        "title": "Ghost of Tsushima DIRECTOR'S CUT",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの「Ghost of Tsushima DIRECTOR'S CUT」が、現在47%割引のセール中です。このゲームは、美しいグラフィックとスリリングなアクションが特徴で、プレイヤーは日本の島々を舞台に、武士として戦いながら、敵を倒していく必要があります。評価は非常に高く、人気も高いです。",
+        "price": "$31.71",
+        "originalPrice": "",
+        "discount": "-47%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
+        "date": "2026-06-27"
       }
     ],
     "review": [
@@ -1031,8 +1079,21 @@
         "url": "https://www.pcgamer.com/games/sports/meccha-chameleon-review/",
         "date": "2026-06-26",
         "is_translated": true
+      },
+      {
+        "title": "【ウマ娘新育成シナリオ「らっしゃい！トレセン軒！ ～恩返し、始めました～」先行プレイ感想。「任意...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「らっしゃい！トレセン軒！ ～恩返し、始めました～」の先行プレイ感想を紹介するレビュー記事です。このレビューでは、シナリオの新しい育成要素やストーリーの魅力、ゲーム内のグラフィックやサウンドの質について評価しています。ゲームファンやウマ娘シリーズの愛好者にとって、 このレビューは新作の魅力を知るための参考になります。ゲームの評価ポイントとして、ストーリーの深みやキャラクターの発展があげられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/umamusume-20260627-452259/",
+        "date": "2026-06-27",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-27T02:56:06.888726"
+  "last_updated": "2026-06-27T10:57:18.875813"
 }
