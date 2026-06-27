@@ -52,54 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Massive Music 4 Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Massive Music 4 Bundleというバンドルの販売が行われています。このバンドルには、Electrocharge、Cyberpunk 2077: Radio Vol. 1、The Saboteurなどの主要タイトルが含まれており、ゲームや映画のサウンドトラックを中心とした音楽が楽しめます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/massive-music4-bundle",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "HHHentai Pair Bundle 2",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、HHHentai Pair Bundle 2というバンドルが現在販売中です。このバンドルには、エロティックな要素を含んだアダルトゲームが収録されています。主要タイトルとしては、成人向けのゲームが含まれており、ジャンルはアダルトゲームになります。大まかな価格帯は10ドルから20ドル程度で、購入することができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/hentai-pair2-bundle",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Upload VR Summer 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Upload VR Summer 2026のバンドルを販売中です。このバンドルには、人気のVRゲームである「Superhot VR」や「Job Simulator」、「Beat Saber」などが含まれています。アクションや音楽、シミュレーションなど、さまざまなジャンルのゲームが揃っており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/uploadvrsummer2026_bundle",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Dungeon Defenders II Complete DLC Chest",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Dungeon Defenders II Complete DLC Chestというバンドルの販売が行われており、同バンドルには主要タイトルであるDungeon Defenders IIや、そのDLCが含まれています。このバンドルは、タワーディフェンスジャンルのゲームを楽しむためのもので、価格帯もお手頃です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/dungeondefendersiicompletedlcchest_bundle",
-        "date": "2026-06-17"
-      },
-      {
         "title": "Humble 12 for $10 Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,42 +209,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ロックスターゲームズから発売されたオープンワールドアクションアドベンチャーゲームのRed Dead Redemption 2が、現在Variousで77%割引のセール中です。このゲームは、美しいグラフィックと豊富なストーリー、幅広い自由度でプレイヤーから高く評価されています。特に、西部開拓時代を舞台にした壮大な物語と、細かい描写が注目されています。",
-        "price": "$13.50",
-        "originalPrice": "",
-        "discount": "-77%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-06-20"
-      },
-      {
-        "title": "ROBOBEAT",
-        "platform": "Various",
-        "type": "sale",
-        "description": "リズムアクションゲームのROBOBEATがVariousで100%割引されています。このゲームは、ユニークなリズムシステムとキャラクターを備えた、音楽とアクションを融合させた独特のゲームです。通常価格よりも大幅に割引された現在の価格で購入することができます。ROBOBEATは、ユーザーからの評価も高く、リズムゲームファンに人気のあるタイトルです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/robobeat/info/",
-        "date": "2026-06-20"
-      },
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「Stray」が現在、Variousで50%割引セール中です。このゲームは、猫の視点から都市を探索するユニークな体験を提供し、高い評価と人気を誇ります。ファンからの評価も高く、多くの人がこのゲームを楽しんでいます。",
-        "price": "$14.95",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-06-20"
-      },
       {
         "title": "theHunter: Call of the Wild™",
         "platform": "Steam",
@@ -583,149 +499,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料セクシー吸血鬼MMO『ヴァンピール』で作る、理想のデカお姉さんヴァンパイア。血み...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "この記事は、基本プレイ無料のセクシーな吸血鬼MMOゲーム『ヴァンピール』のレビューです。ゲームでは、理想のデカお姉さんヴァンパイアを作ることができます。記事では、ゲームの評価ポイントとして、グラフィックの質やゲームプレイの面白さ、そしてキャラクターのカスタマイズの自由度が高く評価されています。また、ゲームのストーリーやサウンドトラックも魅力的です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/columnjp/20260622-450960/",
-        "date": "2026-06-22",
-        "is_translated": false
-      },
-      {
-        "title": "【発売から10年が経過したPC Steam版「Don’t Starve Together」が同接...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Steam版「Don’t Starve Together」は、発売から10年が経過し、同接を迎えています。このゲームの評価ポイントとしては、サバイバル要素の充実やユニークなグラフィックが挙げられます。レビューの内容概要としては、ゲームの長期的な楽しさやマルチプレイの魅力が高く評価されています。さらに、ゲームの世界観やシステムの深みも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168024.html",
-        "date": "2026-06-22",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam 週間の振り返り: AI によって生成されたスパム状のカプセル アートは痘瘡であり、...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Steamでの週刊レビューでは、AIによって生成されたスパムのようなカプセルアートが問題となっていることが分かりました。このレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンドの質、ゲームプレイの面白さなどを取り上げています。また、レビューの内容概要としては、カプセルアートの問題点やゲームの魅力について述べています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-spammy-ai-generated-capsule-art-is-a-pox-and-it-makes-browsing-steam-less-fun/",
-        "date": "2026-06-22",
-        "is_translated": true
-      },
-      {
-        "title": "【MMORPG『メイプルストーリー』夏の大型アプデ「CROWN」は新規・復帰勢必見の手厚い育成支...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "MMORPG『メイプルストーリー』の夏の大型アップデート「CROWN」は、新規プレイヤーや復帰したプレイヤーにとって非常に魅力的です。このアップデートでは、キャラクターの育成を手厚くサポートする内容が多く含まれています。まず、新しいスキルシステムが導入され、キャラクターの成長に幅が広がりました。また、豊富なクエストやイベントが用意されており、プレイヤーを楽しませるための充実した内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/maplestory-crown-20260622-450999/",
-        "date": "2026-06-22",
-        "is_translated": false
-      },
-      {
-        "title": "【マルチ対応過酷サバイバル『Don’t Starve Together』リリース10周年で「St...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "マルチ対応過酷サバイバルゲーム「Don't Starve Together」のリリース10周年を記念して、レビュー記事が掲載されています。このゲームは、サバイバル要素とマルチプレイ機能が特徴で、プレイヤーは荒野の中で生き残るために様々なアイテムを収集し、敵と戦う必要があります。レビューでは、このゲームの独自の世界観や難易度の高さが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260622-451002/",
-        "date": "2026-06-22",
-        "is_translated": false
-      },
-      {
-        "title": "【巨大メカ娘FPS『最終回収SQUAD』は「手応え満点のバトル」「人類滅亡の絶望感」「新たな癖が...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "『最終回収SQUAD』は、巨大メカ娘が登場するFPSゲームで、手応えのあるバトルや人類滅亡の絶望感が特徴的です。このゲームのレビューでは、手応え満点のバトルや人類滅亡の絶望感、新たな癖が身につくことなどが評価ポイントとして挙げられています。FPSゲームファンやアクションゲーム好きの方にオススメできるレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/22/183390.html",
-        "date": "2026-06-22",
-        "is_translated": false
-      },
-      {
-        "title": "【Gothic 1 Remake レビュー - 古典的な RPG が無数の微妙な改善を加えて復活】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Gothic 1 Remakeは、古典的なRPGが無数の微妙な改善を加えて復活しています。このゲームは、グラフィックやゲーム性の向上により、より現代的で快適なプレイ体験を提供しています。評価ポイントとしては、ストーリーの深み、キャラクターの多様性、自由度の高いゲーム性が挙げられます。レビューの内容概要としては、ゲームの世界観やシステムの紹介、プレイの楽しさや難易度のバランスなどが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/gothic-1-remake-review-the-classic-rpg-returns-with-countless-subtle-improvements",
-        "date": "2026-06-22",
-        "is_translated": true
-      },
-      {
-        "title": "【スチームマシンのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "スチームマシンのレビュー記事では、ゲームの評価ポイントとしてグラフィックの高さや操作性の良さが挙げられています。また、レビューの内容概要としては、ゲームのストーリーやサウンドトラックの魅力が紹介されており、ゲームファンや新規プレイヤーにとって大変参考になる内容です。特に、グラフィックやサウンドにこだわるプレイヤーや、ストーリー重視のプレイヤーが対象読者として考えられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-pcs/steam-machine-review-2026/",
-        "date": "2026-06-22",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam Machine レビュー: 希望よりも高価だが、特別すぎて愛せない特異なリビング ...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Steam Machineのレビュー記事では、期待よりも高価で特別すぎて愛せないリビングデバイスとして評価されています。この記事では、Steam Machineの評価ポイントとして、高価な価格設定やリビングデバイスとしての特異性が取り上げられています。また、レビューの内容概要として、Steam Machineの性能や使い勝手の評価などが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/steam-machine-review",
-        "date": "2026-06-22",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam Machine の価格は £879 / $1049 から、SteamOS PC 向...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Steam Machine の価格は £879 / $1049 からと、高価な製品となりますが、SteamOS PC 向けの製品としての評価ポイントは、ハードウェアの性能、ゲームの互換性、そしてユーザーインターフェイスの使いやすさです。また、この製品のレビューでは、高性能なグラフィックカードや高速なプロセッサを搭載していること、SteamOS の使いやすさや。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/steam-machine-prices-start-at-879-1049-valve-confirm-as-randomised-reservations-open-for-the-steamos-pc",
-        "date": "2026-06-22",
-        "is_translated": true
-      },
-      {
-        "title": "【「推測するには危険すぎる」：Valveは「価格を下げる人もいる」と認めた後、Steam Mac...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、ValveのSteam Macに関連する価格設定について触れています。Valveは、価格設定について推測することは危険すぎると述べつつも、価格を下げる人もいることを認めています。この記事では、Steam Macの価格設定やその影響について詳しく分析しています。特に、ゲームファンやSteamユーザーにとっては。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/steam-machine-price-valve-interview",
-        "date": "2026-06-22",
-        "is_translated": true
-      },
       {
         "title": "【龍が如く開発元新作『STRANGER THAN HEAVEN』戦闘先行プレイ感想。主人公の両手...】",
         "platform": "AUTOMATON",
@@ -1261,5 +1034,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-26T22:13:30.385640"
+  "last_updated": "2026-06-27T02:56:06.888726"
 }
