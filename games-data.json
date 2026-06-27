@@ -544,6 +544,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
         "date": "2026-06-27"
+      },
+      {
+        "title": "Ghostwire: Tokyo",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの「Ghostwire: Tokyo」がSteamで90%オフのセール中です。このゲームは、東京を舞台に超自然的な力を持った主人公が、都市を脅かす悪霊と戦うという内容で、独自の世界観と戦闘システムが特徴です。通常価格と比べて大幅に安くなっているので、興味がある方はおすすめです。評価も良好で、多くのユーザーから高い人気を博しています。",
+        "price": "¥877",
+        "originalPrice": "¥8,778",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1475810",
+        "date": "2026-06-27"
       }
     ],
     "review": [
@@ -1095,5 +1107,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-27T10:57:18.875813"
+  "last_updated": "2026-06-27T13:56:20.283192"
 }
