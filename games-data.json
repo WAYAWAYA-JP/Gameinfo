@@ -544,6 +544,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-last-of-us-part-i/info/",
         "date": "2026-06-27"
+      },
+      {
+        "title": "Resident Evil 4 (2023)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "バイオハザードシリーズの最新作である『Resident Evil 4 (2023)』が、Variousで79%オフのセール中です。このサバイバルホラーゲームは、恐怖とスリルのバランスが取れたゲームプレイが特徴で、シリーズファンから高い評価を得ています。現在の価格は大幅に値下げされており、気軽にプレイすることができます。",
+        "price": "$8.55",
+        "originalPrice": "",
+        "discount": "-79%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
+        "date": "2026-06-28"
       }
     ],
     "review": [
@@ -978,5 +990,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-28T11:06:43.113556"
+  "last_updated": "2026-06-28T14:02:19.684624"
 }
