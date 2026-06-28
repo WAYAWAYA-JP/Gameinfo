@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
         "date": "2026-06-28"
+      },
+      {
+        "title": "God of War",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの「God of War」が、現在63%割引でのセール中です。このシリーズは、激しい戦闘シーンと壮大な物語で人気を博しており、評価も非常に高いゲームです。セール価格でこの人気ゲームをプレイするチャンスです。",
+        "price": "$18.40",
+        "originalPrice": "",
+        "discount": "-63%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/god-of-war/info/",
+        "date": "2026-06-28"
       }
     ],
     "review": [
@@ -987,8 +999,21 @@
         "url": "https://automaton-media.com/articles/newsjp/20260628-452400/",
         "date": "2026-06-28",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料セクシー吸血鬼MMO『ヴァンピール』は“当たり前”を壊す「開発者が自分で遊びたい...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ヴァンピール』は基本プレイ無料のセクシーな吸血鬼を題材にしたMMOゲームで、開発者自身が遊びたいという考えで作られています。このゲームは従来のMMOの常識を覆す内容で、開発者の意図に興味を持つゲーマーにオススメです。また、ゲームのグラフィックやストーリー、自由度の高さなどが評価ポイントとなります。特にMMOゲームファンや新しいゲーム体験を求めるユーザーが対象読者となります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/20260629-452009/",
+        "date": "2026-06-28",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-28T14:02:19.684624"
+  "last_updated": "2026-06-28T22:02:02.751606"
 }
