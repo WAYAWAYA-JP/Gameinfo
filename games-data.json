@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Humble 12 for $10 Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Humble 12 for $10 Bundleが販売中です。このバンドルには、主要タイトルとして「The Swapper」や「Gone Home」、「The Stanley Parable」などが含まれています。ジャンルはインディーゲームが中心で、大まかな価格帯は10ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/12for10_bundle",
-        "date": "2026-06-18"
-      },
-      {
         "title": "June 2unes",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,30 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "theHunter: Call of the Wild™",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "theHunter: Call of the Wild™は、Steamで現在90%オフのセール中です。このゲームは、オープンワールドのハンティングシミュレーターで、美しい自然の中で様々な動物を狩ることができます。リアルなグラフィックスと音響効果が特徴で、ハンティングゲームファンには必見です。現在の価格は大幅に割引されており、評価も非常に高く人気度も高いので。",
-        "price": "¥230",
-        "originalPrice": "¥2,300",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/518790",
-        "date": "2026-06-21"
-      },
-      {
-        "title": "Mass Effect™ Legendary Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Mass Effect™ Legendary EditionがVariousで92%オフのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、壮大なストーリーや魅力的なキャラクターで知られています。現在、非常に低価格で購入することができ、多くのユーザーから高評価を得ています。世界中で人気の高いゲームであり、SFファンやアクションゲーム好きには必見の作品です。",
-        "price": "$4.79",
-        "originalPrice": "",
-        "discount": "-92%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/mass-effect-legendary-edition/info/",
-        "date": "2026-06-21"
-      },
       {
         "title": "Citizen Sleeper",
         "platform": "Various",
@@ -584,175 +548,6 @@
     ],
     "review": [
       {
-        "title": "【龍が如く開発元新作『STRANGER THAN HEAVEN』戦闘先行プレイ感想。主人公の両手...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「STRANGER THAN HEAVEN」のレビュー記事では、戦闘システムやグラフィックの高さが評価ポイントとして挙げられています。また、主人公の両手が物語の重要な要素であり、戦闘や探索に大きな影響を与えることも紹介されています。ゲームの評価ポイントとして、戦闘のスピード感やグラフィックの美しさが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/stranger-than-heaven-20260623-451119/",
-        "date": "2026-06-23",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam据置ゲーミングPC「Steam Machine」を1週間使ってみた感想。結論は「ザ・...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steam据置ゲーミングPC「Steam Machine」を1週間使ってみた感想を紹介するレビュー記事です。この記事では、Steam Machineのゲームの評価ポイントとして、ハードウェアの性能やゲームの操作性、グラフィックの質などが挙げられています。さらに、レビューではSteam Machineの利点や欠点、総評などが書かれており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/steam-machine-20260623-451088/",
-        "date": "2026-06-23",
-        "is_translated": false
-      },
-      {
-        "title": "【遂に発売を迎える「Steam Machine」の詳細なベンチマークを含むDigital Fou...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Steam Machineの発売を記念して、Digital Foundryのレビュー記事を紹介します。記事では、Steam Machineのベンチマークを詳しく紹介しています。ゲームの評価ポイントとしては、ハードウェアのパフォーマンスやグラフィックの質が重要です。記事では、Steam Machineの性能を他のゲーム機と比較して紹介しています。対象読者は、ゲームやPCに興味のある人におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168118.html",
-        "date": "2026-06-23",
-        "is_translated": false
-      },
-      {
-        "title": "【映画“ソウ”をビデオゲーム化する3vs1マルチプレイヤーホラー「SAW: Genesis」の本...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "映画「ソウ」をビデオゲーム化した「SAW: Genesis」は、3対1のマルチプレイヤーホラーゲームです。このゲームの評価ポイントとしては、映画の世界観を忠実に再現している点や、サスペンス溢れるストーリーが特徴的です。また、レビューでは、プレイヤー同士の緊張感や恐怖感を演出することに成功している点が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168124.html",
-        "date": "2026-06-23",
-        "is_translated": false
-      },
-      {
-        "title": "【約10年振りの最新作『スターフォックス』に過ぎる“期待と不安”は、体験版が払拭してくれるのか？...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "約10年ぶりの最新作『スターフォックス』についてのレビュー記事では、体験版を通じてゲームの期待と不安が払拭されるかを検証しています。記事では、ゲームの評価ポイントとしてグラフィックの品質、操作のスムーズ性、ストーリーの面白さなどを取り上げ、ゲームの全体的な完成度について評価しています。また、体験版の内容と最新作の違いについても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/23/183411.html",
-        "date": "2026-06-23",
-        "is_translated": false
-      },
-      {
-        "title": "【歴史的な名作が完全復活を果たした「Gothic 1 Remake」の評価トレーラーがお披露目】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Gothic 1 Remake」の評価トレーラーが発表されました。このゲームは歴史的な名作が完全に復活しています。レビューの内容は、グラフィックの向上、ゲームプレイの改善、ストーリーの魅力などを評価しています。特に、オリジナル版のファンには必見の作品となっています。また、新規プレイヤーも楽しめる内容になっています。対象読者は、オープンワールドRPGファンやアクションゲーム好きの方です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168120.html",
-        "date": "2026-06-23",
-        "is_translated": false
-      },
-      {
-        "title": "【巨大美少女戦士ロボと対決する「電車アタック」のボス戦ゲームプレイ映像がお披露目、発売は7月15日】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このゲームの評価ポイントは、ボス戦のスリルやグラフィックの美しさです。レビューの内容概要としては、巨大美少女戦士ロボとの対決が楽しみなボス戦や、ゲームのストーリーや操作感も評価されています。対象読者は、アクションゲームやボス戦が好きな人向けです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168114.html",
-        "date": "2026-06-23",
-        "is_translated": false
-      },
-      {
-        "title": "【長寿MMOのクラフト系オープンワールドサバイバルスピンオフ「RuneScape: Dragon...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、クラフト系オープンワールドサバイバルゲーム「RuneScape: Dragon」の評価ポイントを紹介しています。ゲームの評価ポイントとして、豊富なクラフトシステムや廣大なオープンワールドマップが挙げられます。また、レビューの内容概要として、ゲームのグラフィックやサウンドデザインの高品質さや、プレイヤー同士の交流の重要性が述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168117.html",
-        "date": "2026-06-23",
-        "is_translated": false
-      },
-      {
-        "title": "【「スター・ウォーズ: ギャラクティック・レーサー」ではポッドレーサー・ピンポンをプレイさせてく...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "スター・ウォーズ: ギャラクティック・レーサーは、ポッドレーサー・ピンポンをプレイできるゲームです。このレビュー記事では、このゲームの評価ポイントとして、スピード感のあるレース体験や、スター・ウォーズの世界観を再現したグラフィックが紹介されています。また、ゲームの操作性や難易度も評価されています。スター・ウォーズファンやレースゲーム好きの方に特におすすめのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-let-me-play-podracer-ping-pong-though-its-high-stakes-roguelike-gauntlet-feels-more-tuned-for-pace-focused-speeder-freaks",
-        "date": "2026-06-23",
-        "is_translated": true
-      },
-      {
-        "title": "【「状況がすぐに変わるようには見えなかった」：Valveは、Steam Machineの遅延の背...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、ValveのSteam Machineの遅延について論じています。記事では、Steam Machineの状況がすぐに変わるようには見えなかったと指摘しています。また、記事ではSteam Machineの評価ポイントについて触れており、特にハードウェアの性能とゲームの互換性について言及しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/it-didnt-look-like-things-were-going-to-change-anytime-soon-valve-insist-price-worries-were-never-behind-steam-machine-delays",
-        "date": "2026-06-23",
-        "is_translated": true
-      },
-      {
-        "title": "【スター・ウォーズ: ギャラクティック・レーサーのプレビュー: バーンアウトとポッドレーシングは...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "スター・ウォーズ: ギャラクティック・レーサーは、バーンアウトとポッドレーシングを組み合わせたゲームで、スピードとスリルが味わえるレース体験を提供します。このゲームは、グラフィックの美しさやサウンドトラックの迫力など、総合的なゲーム性が高く評価されています。特に、スター・ウォーズシリーズのファンには、お馴染みのキャラクターと舞台が登場することで、より一層の楽しみ方が可能です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/star-wars-galactic-racer-preview/",
-        "date": "2026-06-23",
-        "is_translated": true
-      },
-      {
-        "title": "【ドラゴンボール ゼノバース 3 プレビュー: RPG はゴッド オブ ウォーにスーパーサイヤ人...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "『ドラゴンボール ゼノバース 3』は、人気アニメシリーズ『ドラゴンボール』をベースにしたアクションRPGゲームです。このゲームの評価ポイントとしては、美麗なグラフィックやスピーディなバトルシステムが挙げられます。また、豊富なキャラクター選択や多様なゲームモードも魅力的です。レビューの内容概要としては、ゲームのストーリーが原作ファンにも新規プレイヤーにも楽しめる内容であることや。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/dragonball-xenoverse-3-preview/",
-        "date": "2026-06-23",
-        "is_translated": true
-      },
-      {
-        "title": "【最大8人プレイに対応するCo-opアクションローグライク「LORT」の販売が50万本のマイルス...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "コープアクションローグライクゲーム「LORT」は最大8人プレイに対応しており、販売本数50万本を達成しました。このゲームは、複数のプレイヤーが協力して様々なステージを攻略することが特徴です。評価ポイントとしては、多人数プレイ時の盛り上がりや、ランダムに生成されるステージの多様性があげられます。さらに、キャラクターのカスタマイズ要素や、ボス戦の難易度も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168146.html",
-        "date": "2026-06-23",
-        "is_translated": false
-      },
-      {
         "title": "【戦国MMOSLG『信長の野望 天下への道』にて3陣営に分かれて全国のプレイヤーが激突、「推し配...】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -789,19 +584,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/06168115.html",
         "date": "2026-06-24",
-        "is_translated": false
-      },
-      {
-        "title": "【人気ソウルライクシリーズ最新作「Lords of the Fallen II」の発売が2027...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Lords of the Fallen II」のレビュー記事では、最新のソウルライクシリーズについて評価しています。このゲームは、難易度やゲーム性、グラフィックの品質などで高評価を得ています。また、ストーリーやキャラクターの深みも評価ポイントのひとつです。特に、ソウルライクシリーズのファンやアクションRPGを楽しむ人たちにとって、興味を持つ内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168149.html",
-        "date": "2026-06-23",
         "is_translated": false
       },
       {
@@ -1128,8 +910,34 @@
         "url": "https://automaton-media.com/articles/reportjp/umamusume-20260627-452259/",
         "date": "2026-06-27",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料『NTE』の「変人・小ボケだらけの街」に今、あえてツッコミまくってみる。見れば見...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料のゲーム『NTE』のレビュー記事では、ゲーム内で「変人」や「小ボケ」が多く登場する街について、あえてツッコミを入れてみる内容が紹介されています。この記事では、ゲームのユーモアやキャラクター設定、ストーリーの面白さなどが評価ポイントとして取り上げられており、ゲームファンやコメディー好きの方におすすめできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260628-452349/",
+        "date": "2026-06-28",
+        "is_translated": false
+      },
+      {
+        "title": "【『ブレイブルー セントラルフィクション（BBCF）』9年振りの新キャラは「トリニティ＝グラスフ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ブレイブルー セントラルフィクション』のレビュー記事では、このゲームの新キャラクター「トリニティ＝グラスフィールド」について触れています。ゲームの評価ポイントとして、グラフィックの美しさや新要素の導入が挙げられます。また、レビューでは、ゲームのストーリーや操作性についても評価しています。この記事は、対象読者として『ブレイブルー セントラルフィクション』のファンや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260628-452388/",
+        "date": "2026-06-28",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-27T22:02:17.889744"
+  "last_updated": "2026-06-28T03:39:06.075358"
 }
