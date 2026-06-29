@@ -218,6 +218,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/massive-music4-bundle",
         "date": "2026-06-27"
+      },
+      {
+        "title": "June 2unes",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、June 2unesのバンドルが現在販売中です。このバンドルには、主要タイトルとして「Ori and the Blind Forest」や「Cuphead」、また「Hyper Light Drifter」などの作品が含まれています。ジャンルはアクションアドベンチャーやシューティングゲームが中心です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/june2unes_bundle",
+        "date": "2026-06-29"
       }
     ],
     "sale": [
@@ -543,6 +555,18 @@
         "discount": "-61%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "Devil May Cry 5 + Vergil",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるDevil May Cry 5 + Vergilが、Variousで87%割引されていて、セール中です。このゲームは、ダイナミックなアクションと壮大なストーリーが特徴で、ファンから高い評価を得ています。通常価格よりも大幅に安くなっているので、ゲームファンにとってはおすすめの購入機会です。",
+        "price": "$3.95",
+        "originalPrice": "",
+        "discount": "-87%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/devil-may-cry-5-and-vergil/info/",
         "date": "2026-06-29"
       }
     ],
@@ -975,8 +999,60 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-sales-are-the-best-time-to-hoard-dozens-of-forgotten-90s-pc-gaming-oddities/",
         "date": "2026-06-29",
         "is_translated": true
+      },
+      {
+        "title": "【“暴力ゲーム有害説”を示す研究を「ゲーマーは疑って遠ざけがちな可能性」。“レッテル貼り”と受け...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、「暴力ゲーム有害説」を示す研究に対するゲーマーの姿勢を批判的に分析しています。ゲーマーは、ゲームを悪影響があると結論付ける研究に対して、疑問を抱き、遠ざけがちな可能性があると指摘されています。また、ゲームが人間に与える影響を単純に説明する「レッテル貼り」にも注意が必要です。この記事は、ゲームの影響について、より深い理解を求めるゲーマーやゲーム研究者に興味をもたれるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260629-452526/",
+        "date": "2026-06-29",
+        "is_translated": false
+      },
+      {
+        "title": "【異空間をひたすら歩くゲーム『nophenia』がSteamでアツい好評博す。ホラーじゃないけど...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで人気を博しているゲーム「nophenia」は、ホラー要素がないにもかかわらず、プレイヤーから高い評価を得ています。このゲームの特徴は、異空間を歩き続けるというシンプルなゲームプレイで、プレイヤーは不気味な雰囲気に包まれることが特徴です。レビューでは、このゲームの評価ポイントとして、独自の世界観やサウンドトラック、そして不気味な雰囲気を醸し出すグラフィックが挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260629-452488/",
+        "date": "2026-06-29",
+        "is_translated": false
+      },
+      {
+        "title": "【Dead or Alive 6 のオリジナル バージョンは、Steam で現在 70% の否定...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Dead or Alive 6 のオリジナルバージョンは、Steam で現在 70% の否定的なレビューを受けています。このゲームの評価ポイントとしては、グラフィックやサウンドの質が高いことが挙げられます。しかし、ゲームプレイのバランスやストーリーモードの短さが否定的な要因として指摘されています。対象読者は、格闘ゲームファンやアクションゲームを楽しむ人に向けてのレビューです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/fighting/the-original-version-of-dead-or-alive-6-was-delisted-in-favor-of-a-rerelease-thats-currently-at-70-percent-negative-reviews-on-steam-tecmo-just-sees-this-as-the-coomer-franchise/",
+        "date": "2026-06-29",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam Machine レビュー: 価格に負けた素晴らしいカジュアル PC のエントリーポイント】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事は、Steam Machine に関する評価ポイントを紹介しています。記事では、価格が低くて手軽なカジュアル PC としてのエントリーポイントに適している点や、ユーザーにとって魅力的な機能をいくつか紹介しています。また、記事は Steam Machine を初めて購入する人や、カジュアル PC に興味がある人に向けて書かれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/steam-machine-review/",
+        "date": "2026-06-29",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-29T03:43:38.952062"
+  "last_updated": "2026-06-29T13:06:00.691857"
 }
