@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/rollercoaster-tycoon-3-complete-edition/info/",
         "date": "2026-06-29"
+      },
+      {
+        "title": "Indiana Jones and the Great Circle",
+        "platform": "Various",
+        "type": "sale",
+        "description": "インディアナ・ジョーンズとグレート・サークルは、アクションアドベンチャーゲームです。現在、Variousで47%割引されています。このゲームは、インディアナ・ジョーンズシリーズのファンにはもちろん、快-pacedなアクションと壮大なストーリーが好きな人にもおすすめです。評価も高く、人気度は高いので、割引期間中に購入することをお勧めします。",
+        "price": "$36.95",
+        "originalPrice": "",
+        "discount": "-47%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/indiana-jones-and-the-great-circle/info/",
+        "date": "2026-06-29"
       }
     ],
     "review": [
@@ -1115,8 +1127,21 @@
         "url": "https://www.pcgamer.com/hardware/pc-cases/thermaltake-retro-360-tg-case-review/",
         "date": "2026-06-29",
         "is_translated": true
+      },
+      {
+        "title": "【Logitech G316 X (タクタイル) ゲーミング キーボード レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Logitech G316 X（タクタイル）ゲーミングキーボードのレビュー記事では、このキーボードの評価ポイントを紹介しています。記事の内容概要としては、キーボードの性能、タクタイルフィードバック、耐久性などが挙げられます。また、ゲーミングキーボードに興味があるユーザー向けの情報も含まれています。対象読者としては、ゲーミングキーボードを購入検討中の方や。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/logitech-g316-x-tactile-gaming-keyboard-review/",
+        "date": "2026-06-29",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-29T15:57:43.363015"
+  "last_updated": "2026-06-29T22:08:21.729645"
 }
