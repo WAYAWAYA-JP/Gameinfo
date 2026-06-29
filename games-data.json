@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "June 2unes",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleで「June 2unes」のバンドルが現在販売中です。このバンドルには、主要タイトルとして「Crysis Remastered」、「The Surge 2」、「Wreckfest」などが含まれています。ジャンルはアクションやレースなど多様なジャンルを網羅しており、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/june2unes_bundle",
-        "date": "2026-06-19"
-      },
-      {
         "title": "The Complete Inkle Library",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,42 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Citizen Sleeper",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Citizen SleeperがVariousで100%割引されているようです。このゲームはロールプレイゲームであり、ユニークなシステムとストーリーが特徴です。現在の価格は無償で提供されており、非常に魅力的です。ユーザーの評価は非常に高く、多くのプレイヤーがこのゲームを楽しんでいます。また、人気度も高く、多くのレビューが寄せられています。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/citizen-sleeper/info/",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "餓狼伝説 City of the Wolves",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "餓狼伝説 City of the Wolvesは、格闘ゲームのファンに人気のあるタイトルです。このゲームは、激しい戦闘と美しいグラフィックが特徴で、プレイヤーはさまざまなキャラクターを操作して対戦することができます。現在、Steamで50% OFFのセール中で、通常価格よりも大幅に安くなっています。評価も高く、多くのプレイヤーから好評価を得ています。",
-        "price": "¥1,490",
-        "originalPrice": "¥2,980",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2492040",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サイバーパンク・ゲームであるCyberpunk 2077が現在、Variousで70%割引のセール中です。このゲームは、オープンワールドとRPGの要素を備えたアクションアドベンチャーゲームで、2077年の暗い未来世界を舞台に、プレイヤーは強力な武器や能力を駆使して、さまざまなミッションをクリアしていきます。評価は高く、人気も高まっていますので、セール中のこの機会にぜひお試しください。",
-        "price": "$17.99",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-06-22"
-      },
       {
         "title": "デッドバイデイライト",
         "platform": "Steam",
@@ -568,74 +520,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/god-of-war/info/",
         "date": "2026-06-28"
+      },
+      {
+        "title": "The Binding of Isaac: Rebirth",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの人気タイトル「The Binding of Isaac: Rebirth」が、現在90%オフのセール中です。このゲームは、ランダムに生成されるダンジョンを探索し、様々なアイテムを集めながら敵と戦い、最終ボスを倒すことを目標にします。高い再生性と独自のシステムが特徴で、プレイヤーは毎回違った体験を楽しむことができます。",
+        "price": "$1.49",
+        "originalPrice": "",
+        "discount": "-90%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-binding-of-isaac-rebirth/info/",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "StrayがVariousで61%オフのセール中です。Strayはアクションアドベンチャーゲームで、猫の視点から街を探索することができます。評価はとても高い人気タイトルで、多くのプレイヤーから好評を博しています。現在の価格はセールにより大幅に割引されており、ゲームファンにとってはお見逃しできない機会です。",
+        "price": "$11.67",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-06-29"
       }
     ],
     "review": [
-      {
-        "title": "【戦国MMOSLG『信長の野望 天下への道』にて3陣営に分かれて全国のプレイヤーが激突、「推し配...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "戦国時代を舞台にしたMMOSLG『信長の野望 天下への道』は、プレイヤーが3つの陣営に分かれて全国で激しく争う内容です。このゲームの評価ポイントとしては、戦略的なゲーム性や歴史的な背景が楽しめる点が挙げられます。また、レビューでは、プレイヤー同士のコミュニケーションやチームワークの重要性も強調されています。戦国時代や戦略ゲームが好きな方におすすめのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260624-451420/",
-        "date": "2026-06-24",
-        "is_translated": false
-      },
-      {
-        "title": "【「Invincible VS」の新ファイター“The Immortal”を紹介するゲームプレイ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Invincible VS」の新ファイター「The Immortal」を紹介するゲームプレイのレビュー記事では、ゲームの評価ポイントとして、新キャラクターの能力や戦闘スタイル、ゲームバランスの調整などを評価しています。また、記事では、新ファイターの特徴やゲームプレイの変化点について詳しく紹介しており、ファンや新規プレイヤーにとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168155.html",
-        "date": "2026-06-24",
-        "is_translated": false
-      },
-      {
-        "title": "【「Call of Duty: Black Ops 7」新ゾンビマップ“蠱惑城”のゲームプレイト...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Call of Duty: Black Ops 7」の新ゾンビマップ「蠱惑城」のゲームプレイをレビューしています。総評としては、ゾンビマップのデザインや難易度のバランスが良く、プレイヤーを引きつける要素が多数含まれています。また、ステージの雰囲気やサウンドエフェクトも高く評価されています。対象読者は、ゾンビゲームやFPSゲームが好きな人向けで。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168115.html",
-        "date": "2026-06-24",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料タイムトラベル美少女RPG『MIRESI：視えない未来』リリースに向け本格始動。...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『MIRESI：視えない未来』は、タイムトラベルを題材にした美少女RPGで、基本プレイ無料としてリリースされます。このゲームは、ユーザーの評価ポイントとして、ストーリーの面白さやキャラクターの魅力が挙げられます。レビューの内容概要としては、ゲームのシステムやグラフィックの 퀄리티、音楽の美しさなどが評価されています。対象読者としては、タイムトラベルや美少女RPGが好きな人にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260624-451558/",
-        "date": "2026-06-24",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamで「AI生成コンテンツの使用開示」に記載がある場合、レビューが少なくなるというデータ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamで「AI生成コンテンツの使用開示」に記載があるゲームは、レビュー数が少なくなる傾向があることがわかりました。この記事では、このデータの背景と原因について分析しています。また、AIを使用したゲーム開発の利点と欠点についても触れています。ゲーム開発者やAI技術に興味のある方に役立つ内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260624-451676/",
-        "date": "2026-06-24",
-        "is_translated": false
-      },
       {
         "title": "【マルチ対応高評価リズムアクション『ラタタン（RATATAN）』正式リリース日を10月15日へ延...】",
         "platform": "AUTOMATON",
@@ -686,19 +597,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/06168198.html",
         "date": "2026-06-25",
-        "is_translated": false
-      },
-      {
-        "title": "【「Call of Duty: Black Ops 7」シーズン04リローデッドの新マルチプレイ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Call of Dutyシリーズの最新作「Call of Duty: Black Ops 7」のシーズン04リローデッドの新マルチプレイヤーモードについて紹介しています。新しいマップやゲームモードの追加、グラフィックの向上など、シリーズファン必見のポイントを評価しています。また、レビューでは、ゲームのバランスや難易度、そしてオンライン対戦の盛り上がりなどをチェックしています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168192.html",
-        "date": "2026-06-24",
         "is_translated": false
       },
       {
@@ -1012,8 +910,73 @@
         "url": "https://automaton-media.com/articles/interviewsjp/20260629-452009/",
         "date": "2026-06-28",
         "is_translated": false
+      },
+      {
+        "title": "【鬼畜ローグライクアクション『The Binding of Isaac: Rebirth』リリー...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "鬼畜ローグライクアクションゲームである『The Binding of Isaac: Rebirth』のレビュー記事では、ゲームの評価ポイントとして、独自のゲームシステムやグラフィックの魅力が挙げられています。また、レビューの内容概要としては、ゲームの難易度の高さや繰り返しプレイの面白さが述べられており、ローグライクゲームファンやアクションゲーム好きに向けたレビューとなっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260629-452463/",
+        "date": "2026-06-29",
+        "is_translated": false
+      },
+      {
+        "title": "【“Marvel’s Wolverine”の公式アートブック「Marvel’s Wolverin...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Marvel’s Wolverine」の公式アートブック「Marvel’s Wolverine」は、ゲームファンに必見のアイテムです。ゲームのグラフィックやキャラクター設計を詳細に紹介しているため、ゲーム開発のプロセスを垣間見ることができます。また、アートブックのデザインやレイアウトも優れており、ファンにはたまらない贅沢な内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168289.html",
+        "date": "2026-06-29",
+        "is_translated": false
+      },
+      {
+        "title": "【「Invincible VS」に新ファイター“Angstrom Levy”が参戦、シーズン1の...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "本レビュー記事では、新しいファイター「Angstrom Levy」がゲーム「Invincible VS」に参戦したことを紹介しています。記事では、シーズン1の新要素やゲームプレイの魅力について解説しています。また、ゲームの評価ポイントとして、新しいファイターの参戦によるバリエーションの増加や、新しい戦略の可能性について触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168284.html",
+        "date": "2026-06-28",
+        "is_translated": false
+      },
+      {
+        "title": "【「鉄拳8」シーズン3に参戦する“ボブ”のゲームプレイ映像がお披露目、ロジャーJr.のティザーも】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「鉄拳8」シーズン3に参戦する“ボブ”のゲームプレイ映像がお披露目されたことが話題です。このゲームは、プレイヤーがさまざまなキャラクターを操作して対戦する対戦型格闘ゲームで、グラフィックや操作性が高く評価されています。レビューの内容としては、ボブの新しい技や移動方法、ロジャーJr.のティザーの発表などが紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168253.html",
+        "date": "2026-06-28",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam 週間の振り返り: Steam セールは、忘れ去られた 90 年代の PC ゲームの...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、Steam 週間の振り返りを特集しており、 Steam セールで注目された忘れ去られた90年代のPCゲームを取り上げています。記事では、これらのゲームの評価ポイントとして、懐かしさやレトロなグラフィック、そして当時のゲーム性が高く評価されています。また、レビューの内容として、ゲームのストーリーや操作感、グラフィックのレトロさが紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-sales-are-the-best-time-to-hoard-dozens-of-forgotten-90s-pc-gaming-oddities/",
+        "date": "2026-06-29",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-28T22:02:02.751606"
+  "last_updated": "2026-06-29T03:43:38.952062"
 }
