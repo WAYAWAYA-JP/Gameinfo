@@ -568,6 +568,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/devil-may-cry-5-and-vergil/info/",
         "date": "2026-06-29"
+      },
+      {
+        "title": "RollerCoaster Tycoon® 3: Complete Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "人気のテーマパーク経営シミュレーションゲームであるRollerCoaster Tycoon 3: Complete Editionが、現在100%割引されているため、完全無料でプレイできます。このゲームは、ユーザーが自由にテーマパークを設計し、管理することができ、ローラーコースターの作成やパークの運営など、多様な要素を楽しむことができます。高い評価と人気度を誇るこのゲームを、ぜひお試しください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/rollercoaster-tycoon-3-complete-edition/info/",
+        "date": "2026-06-29"
       }
     ],
     "review": [
@@ -1051,8 +1063,60 @@
         "url": "https://www.polygon.com/steam-machine-review/",
         "date": "2026-06-29",
         "is_translated": true
+      },
+      {
+        "title": "【発売が迫る「Assassin’s Creed Black Flag Resynced」のPS5...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "発売が迫る「Assassin’s Creed Black Flag Resynced」のPS5版についてのレビュー記事では、グラフィックの向上や操作性の改善などが評価ポイントとして挙げられています。また、ゲームの世界観やストーリーも高く評価されており、シリーズのファンには必見のタイトルであると言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168264.html",
+        "date": "2026-06-29",
+        "is_translated": false
+      },
+      {
+        "title": "【昆虫型エイリアンと戦う見下ろし型Co-opシューター「DarkSwarm」の新たなゲームプレイ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「DarkSwarm」は、プレイヤーが協力して昆虫型エイリアンと戦う、見下ろし型のシューティングゲームです。このゲームの評価ポイントとしては、コラボレーションの重要性や、キャラクターの多様性などが挙げられます。レビューでは、ゲームの快適な協力プレイ体験や、さまざまな敵に対する戦略的なアプローチが称賛されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168260.html",
+        "date": "2026-06-29",
+        "is_translated": false
+      },
+      {
+        "title": "【「JDM：ジャパニーズドリフトマスター」の新DLC“American Classics”が本日配信：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「JDM：ジャパニーズドリフトマスター」の新DLC「American Classics」が発売されました。このDLCではアメリカのクラシックカーを操作することができます。レビューでは、新しい車両の追加やグラフィックの向上などが評価されています。特に、クラシックカーの操作感やサウンドデザインがリアルで楽しめることが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168257.html",
+        "date": "2026-06-29",
+        "is_translated": false
+      },
+      {
+        "title": "【Thermaltake Retro 360 TG ケースレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Thermaltake Retro 360 TG ケースレビューでは、ゲーム愛好家のための優秀なケースとして高く評価されています。このレビュー記事では、ケースのデザインと構造、冷却システムの性能、そして拡張性と設置の容易さを含む3つの重要なポイントについて詳しく説明しています。特に、ハイスペックなゲーム機器を搭載するユーザーや、静音性と高性能を求めるゲーマーにとって、このレビューは参考になります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/pc-cases/thermaltake-retro-360-tg-case-review/",
+        "date": "2026-06-29",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-29T13:06:00.691857"
+  "last_updated": "2026-06-29T15:57:43.363015"
 }
