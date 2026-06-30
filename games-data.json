@@ -592,6 +592,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
         "date": "2026-06-30"
+      },
+      {
+        "title": "Monster Hunter Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲーム「Monster Hunter Wilds」がVariousで64%割引のセール中です。このゲームは、モンスターを狩りながら冒険することが特徴で、グラフィックやゲーム性が高く評価されています。多くのプレイヤーから人気を博しており、セール期間中は通常価格より大幅に安く購入できます。",
+        "price": "$25.15",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
+        "date": "2026-06-30"
       }
     ],
     "review": [
@@ -1114,8 +1126,21 @@
         "url": "https://www.polygon.com/splatoon-raiders-preview/",
         "date": "2026-06-30",
         "is_translated": true
+      },
+      {
+        "title": "【Steam Machine を分解すると、Valve が貴重な RAM を他の部品の下に埋めて...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Steam Machineを分解すると、Valveが貴重なRAMを他の部品の下に埋めていることが分かりました。このレビュー記事では、Steam Machineのハードウェア構成やパフォーマンスなどの評価ポイントが紹介されています。記事では、Steam Machineの内部構造や性能の良さなどを評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/disassembling-the-steam-machine-suggests-valve-are-protecting-its-precious-ram-by-burying-it-under-a-dozen-other-parts",
+        "date": "2026-06-30",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-30T14:32:27.942119"
+  "last_updated": "2026-06-30T22:15:37.363281"
 }
