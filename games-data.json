@@ -218,6 +218,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/june2unes_bundle",
         "date": "2026-06-29"
+      },
+      {
+        "title": "The Complete Inkle Library",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、「The Complete Inkle Library」というバンドルが現在販売中です。このバンドルには、「80 Days」、「Heaven's Vault」、「Sorcery!」などの主要タイトルが含まれています。インクル社のゲームを集めたこのバンドルは、テキストアドベンチャーやストーリー重視のゲームファンには特に魅力的です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/completeinklelibrary_bundle",
+        "date": "2026-06-30"
       }
     ],
     "sale": [
@@ -544,6 +556,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/indiana-jones-and-the-great-circle/info/",
         "date": "2026-06-29"
+      },
+      {
+        "title": "Lobotomy Corporation | Monster Management Simulation",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Lobotomy Corporationは、Steamで66%OFFのセール中です。このゲームは、モンスターを管理するシミュレーションゲームで、プレイヤーは秘密の研究施設を運営し、さまざまなモンスターを収容・研究します。ストラテジーやタイムマネジメントが求められるこのゲームは、ユニークなゲームプレイとデザインで人気を博しています。",
+        "price": "¥873",
+        "originalPrice": "¥2,570",
+        "discount": "66% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/568220",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "Library Of Ruina",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Library Of RuinaがSteamで66%の割引セール中です。このゲームは、戦略とアクションを組み合わせた独特なジャンルで人気を博しています。プレイヤーは、様々なキャラクターを操作してバトルに挑み、戦略的な思考が求められます。現在、Steamで大幅な割引が行われており、通常価格よりも格安にプレイすることができます。評価も高く、多くのプレイヤーから好評価を受けています。",
+        "price": "¥1,050",
+        "originalPrice": "¥3,090",
+        "discount": "66% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1256670",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "Detroit: Become Human",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Detroit: Become HumanがVariousで大幅な90%のセール中です。このアドベンチャーゲームは、人工知能が人間と同等の知能を持った世界を舞台に、3人のアンドロイドの物語を描きます。高評価を得ている作品であり、ゲームのストーリーやグラフィックが特徴です。通常価格から大幅に割引されたこのセールは、ゲームファンにとってお得な機会です。",
+        "price": "$3.99",
+        "originalPrice": "",
+        "discount": "-90%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
+        "date": "2026-06-30"
       }
     ],
     "review": [
@@ -949,8 +997,60 @@
         "url": "https://www.inside-games.jp/article/2026/06/30/183779.html",
         "date": "2026-06-30",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料都市オープンワールドの『NTE』のキャラは「1キャラで1ゲームの軸にできる」ぐら...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "都市オープンワールドのゲーム「NTE」は基本プレイが無料で、1キャラで1ゲームの軸にできるぐらいキャラクターが強力です。このゲームの評価ポイントは、オープンワールドの自由度、キャラクターの多様性、ストーリーの深みです。レビューの内容概要は、ゲームの世界観、キャラクターのカスタマイズ、戦闘システムの評価です。このゲームは、オープンワールドゲームのファンやアクションゲーム好きの方に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/nte-202607-452636/",
+        "date": "2026-06-30",
+        "is_translated": false
+      },
+      {
+        "title": "【Steamの次なる協力プレイゲーム、病院シム『Night Shift Hospital』発表。...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamの新しい協力プレイゲーム「Night Shift Hospital」が発表されました。このゲームは病院をシミュレートする内容で、プレイヤーは医者や看護師となり、患者を治療します。評価ポイントとしては、協力プレイの要素が高く、チームワークが求められます。また、グラフィックやサウンドトラックも高品質です。レビューの内容としては、ゲームの難易度や操作性について言及されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260630-452624/",
+        "date": "2026-06-30",
+        "is_translated": false
+      },
+      {
+        "title": "【キャラガチャなし基本プレイ無料『デュエットナイトアビス』大型アプデでCV戸松遥さんの重火器メイ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『デュエルトナイトアビス』は、キャラガチャがなく基本プレイ無料のゲームで、大型アップデートにより新しいキャラクターが追加されました。このゲームの評価ポイントとしては、自由度の高いカスタマイズや、魅力的なキャラクターのデザインが挙げられます。レビューの内容概要としては、新しいキャラクターの紹介や、ゲームシステムの改善が行われた点が取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260630-452598/",
+        "date": "2026-06-30",
+        "is_translated": false
+      },
+      {
+        "title": "【Human Vapor レビュー: Netflix の新しい SF スリラーは、スティーブン・...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Human Vapor のレビュー記事では、Netflix の新しい SF スリラー作品について評価しています。この記事では、作品の評価ポイントとして、ストーリーの独創性やキャラクターの深みを挙げています。また、レビューの内容概要として、作品のテーマや作りの良さを述べています。興味のある読者は、SF スリラー作品のファンや Netflix の新しい作品を探している人に、この記事はおすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/human-vapor-netflix-review/",
+        "date": "2026-06-30",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-30T03:31:38.809308"
+  "last_updated": "2026-06-30T11:45:00.402217"
 }
