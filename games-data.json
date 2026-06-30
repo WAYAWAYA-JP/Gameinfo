@@ -1049,8 +1049,73 @@
         "url": "https://www.polygon.com/human-vapor-netflix-review/",
         "date": "2026-06-30",
         "is_translated": true
+      },
+      {
+        "title": "【18年ぶりの復活を果たす“テュロック”シリーズ最新作「Turok: Origins」初のゲーム...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Turok: Origins」は、18年ぶりに復活した「テュロック」シリーズの最新作です。このゲームは、シリーズのファンが楽しみに待っていた作品で、グラフィックやサウンドの質が向上しています。レビューでは、ゲームのアクション要素やストーリーが高く評価されています。また、シリーズ初心者でも楽しめる内容になっています。このレビューは、シリーズのファンやアクションゲーム好きの方に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168321.html",
+        "date": "2026-06-30",
+        "is_translated": false
+      },
+      {
+        "title": "【Be Quiet Dark Rock 6 と Dark Rock Pro 6 のレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Be Quiet Dark Rock 6 と Dark Rock Pro 6 のレビュー記事では、CPUクーラーの性能や静音性、設計や使いやすさなどが評価されています。このレビューは、PCパーツやガジェットに興味がある方々にとって、クーラー選びの参考になる内容になっています。記事では、これらの製品の強みや弱みを明確にし、ユーザーが自分のニーズに合ったクーラーを選択する手助けをしています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/cooling/be-quiet-dark-rock-6-and-dark-rock-pro-6-review/",
+        "date": "2026-06-30",
+        "is_translated": true
+      },
+      {
+        "title": "【タートルビーチコマンドシリーズ KB7 TKL レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "タートルビーチコマンドシリーズのKB7 TKLについてのレビュー記事では、ゲームプレイの快適性やキーボードの耐久性、操作のしやすさなどの評価ポイントが提示されています。記事では、ゲーム中の反応速度やキーボードの構造的な特徴について詳しく解説しています。このレビュー記事は、ゲームに熱中しているゲーマーや、高品質なキーボードを探しているユーザーにとって、参考になる内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/turtle-beach-command-series-kb7-tkl-review/",
+        "date": "2026-06-30",
+        "is_translated": true
+      },
+      {
+        "title": "【Xbox が新しい Game Pass セールを一時停止しているという報告は、サービスが変更さ...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Xboxの新しいGame Passセールが一時停止したという報告がありました。このサービス変更についてのレビューでは、セールの停止理由や将来の対応について触れています。ゲームファンの方々が注目すべき点は、新しいセールの発売時期や、代替サービスへの移行方法などです。また、Xboxのサービス変更がユーザーに与える影響についても説明されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/xbox-game-pass-pause/",
+        "date": "2026-06-30",
+        "is_translated": true
+      },
+      {
+        "title": "【『スプラトゥーン レイダース』プレビュー: Switch 2 シューティングゲームはシングルプ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "『スプラトゥーン レイダース』はSwitch 2のシューティングゲームで、シングルプレイヤー向けに設計されています。このゲームの評価ポイントとしては、ユニークなゲームプレイ、色々なステージ、そして多様な武器が挙げられます。レビューの内容概要としては、新しいプレイヤーにも分かりやすいチュートリアル、難易度のバランスが取れていること、そしてグラフィックのクオリティが高いことが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/splatoon-raiders-preview/",
+        "date": "2026-06-30",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-06-30T11:45:00.402217"
+  "last_updated": "2026-06-30T14:32:27.942119"
 }
