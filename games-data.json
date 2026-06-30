@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "The Complete Inkle Library",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、The Complete Inkle Libraryというバンドルが販売中です。このバンドルには、80 Days、Heaven's Vault、Sorcery!などの主要タイトルが含まれており、テキストアドベンチャーやゲームブックなどを楽しむことができます。ジャンルはアドベンチャーやロールプレイングゲームに属し、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/completeinklelibrary_bundle",
-        "date": "2026-06-20"
-      },
-      {
         "title": "IGN Live Bundle 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,42 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "デッドバイデイライト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "デッドバイデイライトは、Steamで現在60%オフのセール中です。このサバイバルホラーゲームは、4人の生存者が1人のキラーと戦う対戦要素を含み、Popularに評価されています。Steamでは高い人気度を誇り、多くのプレイヤーから好評価を得ています。通常価格より大幅に安くなっているので、ホラーゲームファンには絶好のチャンスです。",
-        "price": "¥792",
-        "originalPrice": "¥1,980",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/381210",
-        "date": "2026-06-23"
-      },
-      {
-        "title": "デイヴ・ザ・ダイバー",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "デイヴ・ザ・ダイバーは、Steamで現在50%オフのセール中です。このゲームは、アクションアドベンチャー系のダイビングゲームで、深海でのダイビングを体験できるユニークな特徴があります。プレイヤーは、色々な魚や海洋生物と出会い、海底の秘密を解き明かすことができます。評価は非常に高く、多くのユーザーから好評を博しており、人気度も高いゲームです。",
-        "price": "¥1,200",
-        "originalPrice": "¥2,400",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1868140",
-        "date": "2026-06-23"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33はアクションアドベンチャーゲームで、現在Variousで31％割引されています。このゲームは、ユニークなグラフィックとスリリングなゲームプレイで知られており、ファンから高い評価を受けています。セール期間中は、通常価格よりも大幅に安く購入できるので、ゲーム好きの方にはお勧めです。",
-        "price": "$34.69",
-        "originalPrice": "",
-        "discount": "-31%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-06-23"
-      },
       {
         "title": "Overcooked! 2",
         "platform": "Steam",
@@ -595,175 +547,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【マルチ対応高評価リズムアクション『ラタタン（RATATAN）』正式リリース日を10月15日へ延...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "マルチ対応のリズムアクションゲーム「ラタタン」が正式リリースされることが発表されました。このゲームは、音楽に合わせてキャラクターを操作して障害物を避ける内容で、ユーザーからは操作性や音楽選曲の豊富さが高く評価されています。特に、マルチプレイ機能が充実しており、友人や家族と一緒にプレイすることができます。ゲームファンや音楽好きの方に特にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260625-451598/",
-        "date": "2026-06-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Riot Gamesのアンチチート「Vanguard」に“ゲームプレイ中だけ起動できる機能”追...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Riot Gamesのアンチチートツール「Vanguard」についてのレビュー記事です。このツールは、ゲームプレイ中のみに起動できる機能を備えており、ユーザーの安全と公平性を守るために設計されています。レビューでは、このツールの有効性とユーザーへの影響について評価しています。ゲームプレイヤーが気になるのは、チート対策の徹底とプライバシー保護のバランスです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/vanguard-20260625-451740/",
-        "date": "2026-06-25",
-        "is_translated": false
-      },
-      {
-        "title": "【『ブレイブルー セントラルフィクション（BBCF）』に「9年振り」の新キャラ追加へ。『ブレイブ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ブレイブルー セントラルフィクション（BBCF）』は、新キャラが9年振りにも関わらず追加されることが決定しました。このゲームの評価ポイントは、新キャラの追加によるゲーム性の向上や、ストーリーモードの深化などです。レビューの内容概要としては、新キャラの能力やゲームバランスの調整などが挙げられます。このゲームは、対戦型格闘ゲームファンや『ブレイブルー』シリーズの愛好者にとって。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/blazblue-centralfiction-20260625-451716/",
-        "date": "2026-06-25",
-        "is_translated": false
-      },
-      {
-        "title": "【人気動物園運営シムのナンバリング続編「Planet Zoo 2」の新要素を35分に渡って紹介す...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Planet Zoo 2は、人気動物園運営シムのナンバリング続編です。このゲームは、新しいグラフィックやゲームプレイ機構を搭載しており、プレイヤーはよりリアルな動物園運営の体験を楽しむことができます。レビューでは、ゲームのグラフィックの向上や新しい动物の追加などが評価されています。また、ゲームの操作性や難易度の調整も適切に行われていると言及されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168198.html",
-        "date": "2026-06-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam「非常に好評」植物栽培ショップ経営シム『Plant Nursery Simulato...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamで「非常に好評」されている植物栽培ショップ経営シム『Plant Nursery Simulator』のレビュー記事では、ゲームの評価ポイントとして、ゲーム内の自由度や植物の種類の多さが挙げられています。レビューの内容概要として、ゲームのグラフィックやサウンドトラックの高品質さも賞賛されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260625-451829/",
-        "date": "2026-06-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Nintendo Switch 2/ Switch向けセールに約570本どっさり追加。『ウィッ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Nintendo Switchのセールに約570本の新しいゲームが追加されました。このセールでは、さまざまなジャンルのゲームが割引されており、ユーザーには多くの選択肢が用意されています。特に、『ウィッチャー3』などの人気ゲームのレビュー記事もあり、ゲームの評価ポイントやレビューの内容概要を知ることができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260625-451801/",
-        "date": "2026-06-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam中華冥界経営シム『Hundred Nights: DIFU』は、ダークかと思いきやユ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamで配信中の「Hundred Nights: DIFU」は、中華冥界を舞台にしたユニークな経営シムゲームです。このゲームでは、冥界の経営を通じて、ユーザーはさまざまなキャラクターを集め、建物を建設し、資源を管理する必要があります。レビューのポイントとして、ゲームの独自の世界観と、深いストーリーが評価されています。また、ゲームのシステムも複雑で、プレイヤーに戦略性と戦術性を要求します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260625-451568/",
-        "date": "2026-06-25",
-        "is_translated": false
-      },
-      {
-        "title": "【あの世でも“ガチ労働”冥界経営シム『Hundred Nights: DIFU』開発者が目指す「...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Hundred Nights: DIFU』は、冥界を経営するユニークなシミュレーションゲームです。このゲームの評価ポイントは、ユーザーが冥界を効率的に運営するためのさまざまな戦略を立てる必要があることです。レビューの内容概要としては、ゲームの独自の世界観や面白さ、そして難易度の調整が適切であることが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/20260625-451579/",
-        "date": "2026-06-25",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料セクシー吸血鬼MMO『ヴァンピール』7月22日正式リリースへ。すでに海外では大人...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "セクシーな吸血鬼を題材としたMMOゲーム「ヴァンピール」は、7月22日に正式にリリースされる予定です。すでに海外では大人気となっており、日本でも注目を集めています。このゲームの評価ポイントとしては、美麗でセクシーなキャラクター、豊富なストーリー、自由度の高いプレイスタイルが挙げられます。レビューでは、ゲームのグラフィックやサウンドトラックの高品質も称賛されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260625-451781/",
-        "date": "2026-06-25",
-        "is_translated": false
-      },
-      {
-        "title": "【『DELTARUNE（デルタルーン）』Steam同接約30万人の爆発的人気。待望の「チャプター...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『DELTARUNE』はSteamで約30万人のユーザーから爆発的人気を得ています。この記事では、待望の『DELTARUNE』の「チャプター2」のレビュー内容を紹介します。レビューのポイントとしては、ストーリーの深化、キャラクターの成長、ゲームシステムの改善が挙げられます。ゲームファンやアクションRPGを楽しむユーザーにとって、こちらのレビュー記事は必読です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260625-451775/",
-        "date": "2026-06-25",
-        "is_translated": false
-      },
-      {
-        "title": "【「詐欺」と「縁故主義」に苦情を申し立てた元Haloアートディレクター、差し迫ったXboxの人員...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、元HaloアートディレクターがXboxの人員に対して「詐欺」と「縁故主義」について苦情を申し立てたことを取り上げています。記事では、この問題がもたらす影響やゲーム業界への影響について言及しています。ゲームファンやXboxのユーザーにとって、Xboxの人員管理やゲーム開発への影響について知る機会になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/former-halo-art-director-who-complained-about-fraud-and-cronyism-warns-looming-xbox-layoffs-are-chance-for-bosses-to-settle-scores",
-        "date": "2026-06-25",
-        "is_translated": true
-      },
-      {
-        "title": "【「Steamサマーセール 2026」開幕。『バイオハザード レクイエム』早くもセール、『ウィッ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamサマーセール2026が開幕しました。このイベントでは人気ゲームが大幅に割引されるため、ゲームファンにとっては待ちに待ったイベントです。特に注目されるのは、最近発売された『バイオハザード レクイエム』が早くもセール対象になっている点です。また、『ウィッチャー3 ワイルドハント』のレビュー記事も公開されており、ゲームの評価ポイントとしてグラフィックの高さやストーリーの深みが挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260626-451906/",
-        "date": "2026-06-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Netflix の『アバター: エアベンダー シーズン 2』レビュー: 単なる漫画の実写コピー...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Netflixの『アバター：エアベンダー シーズン2』のレビュー記事では、単なる漫画の実写コピーであると指摘されています。このレビューでは、ストーリーの面白さ、キャラクターの深さ、視覚効果の質などを評価ポイントとして挙げています。シーズン2は、オリジナルの漫画ファンにとっては必見の作品である一方で、新規視聴者にとっては理解しづらい部分もあると指摘されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/netflixs-live-action-avatar-season-2-succeeds-by-leaning-into-the-political-horror-of-its-world/",
-        "date": "2026-06-25",
-        "is_translated": true
-      },
       {
         "title": "【高評価スタイリッシュ荒ぶりリズムゲーム『UNBEATABLE』7月27日の無料アプデで待望の日...】",
         "platform": "AUTOMATON",
@@ -1140,8 +923,34 @@
         "url": "https://www.pcgamer.com/hardware/gaming-keyboards/logitech-g316-x-tactile-gaming-keyboard-review/",
         "date": "2026-06-29",
         "is_translated": true
+      },
+      {
+        "title": "【「オーバーウォッチ」x「YOASOBI」コラボのゲームプレイトレーラーが公開】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「オーバーウォッチ」と「YOASOBI」のコラボレーションが実現し、ゲームプレイトレーラーが公開されました。コラボレーションの内容やゲームの新しい要素が盛り込まれたトレーラーは、ファンを大いに賛嘆させました。ゲームのグラフィックやサウンドトラックにもこだわりがあり、コラボレーションの意義を感じることができます。ファンやゲーム好きの方に特におすすめの記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/06168309.html",
+        "date": "2026-06-29",
+        "is_translated": false
+      },
+      {
+        "title": "【全て最安値を更新！『ペルソナ4G』『ペルソナ3P』が各990円、最新作への予習に最適─Stea...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "ペルソナシリーズの『ペルソナ4G』と『ペルソナ3P』は、現在最安値の990円で購入できます。この価格は、最新作への予習に最適です。この記事は、ペルソナシリーズのファンや、新規参入者にとって、ゲームの内容や魅力を紹介しています。記事では、ゲームの評価ポイントとして、ストーリーやキャラクターの深み、バトルシステムの面白さなどを取り上げています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/06/30/183779.html",
+        "date": "2026-06-30",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-06-29T22:08:21.729645"
+  "last_updated": "2026-06-30T03:31:38.809308"
 }
