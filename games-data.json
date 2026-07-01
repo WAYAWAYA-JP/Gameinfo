@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/completeinklelibrary_bundle",
         "date": "2026-06-30"
+      },
+      {
+        "title": "HHMassive Music 4 Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "HHMassive Music 4 Bundleは、IndieGalaで現在販売中です。このバンドルには、主要タイトルとして「Massive Music Volume 1」、「Massive Music Volume 2」、「Massive Music Volume 3」が含まれており、ゲーム用のサウンドトラックを提供する音楽バンドルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/massive-music4-bundle",
+        "date": "2026-07-01"
       }
     ],
     "sale": [
@@ -568,6 +580,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
         "date": "2026-06-30"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "No Man's Skyは、オープンワールドのサンドボックスゲームで、宇宙を自由に探索できる特徴があります。現在、69%の割引で提供されており、非常に魅力的な価格帯です。このゲームは、グラフィックやサウンドトラックにも評価が高いことで知られており、多くのユーザーから高い評価を得ています。また、ゲームの内容も豊富で、プレイヤーはさまざまな惑星を訪れて資源を収集したり。",
+        "price": "$18.89",
+        "originalPrice": "",
+        "discount": "-69%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "The Invincible",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Invincibleはサイエンスフィクションをテーマにしたアドベンチャーゲームで、現在Variousで90%割引のセール中です。このゲームは、ユニークなグラフィックと深いストーリーが特徴で、プレイヤーは未知の惑星を探索しながら謎を解き明かすことができます。高い評価と人気度を誇るこのゲームは、ファンから高い評価を受けており、幅広い年齢層のプレイヤーに楽しめます。",
+        "price": "$2.99",
+        "originalPrice": "",
+        "discount": "-90%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-invincible/info/",
+        "date": "2026-07-01"
       }
     ],
     "review": [
@@ -999,8 +1035,86 @@
         "url": "https://www.rockpapershotgun.com/disassembling-the-steam-machine-suggests-valve-are-protecting-its-precious-ram-by-burying-it-under-a-dozen-other-parts",
         "date": "2026-06-30",
         "is_translated": true
+      },
+      {
+        "title": "【『アークナイツ：エンドフィールド』の高難度イベント「危機契約」で評価値54を突破したプレイヤー...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『アークナイツ：エンドフィールド』の高難度イベント「危機契約」で評価値54を突破したプレイヤーのレビュー記事では、ゲームの評価ポイントとして、難易度の高さや戦略的深みが評価されています。また、レビューの内容として、イベントの難しさやゲームシステムの面白さが介绍されており、対象読者としては、このゲームに興味を持つプレイヤーや、ゲームの評価に興味を持つ人が対象です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260701-452842/",
+        "date": "2026-07-01",
+        "is_translated": false
+      },
+      {
+        "title": "【悪霊掃除ホラーコメディ『100均除霊師』発表。調査無視の脳筋プレイも可、ただし悪霊ブチギレ】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ホラーゲームファン向けの新作『100均除霊師』のレビューです。このゲームは、悪霊を退治するコメディ要素が含まれており、プレイヤーは調査を怠ってでも先に進めることができますが、悪霊が怒り出すこともあります。このゲームの評価ポイントは、ユーモアのあるストーリー、自由度の高いゲームプレイ、そしてサスペンス溢れるホラーエレメントの組み合わせです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260701-452815/",
+        "date": "2026-07-01",
+        "is_translated": false
+      },
+      {
+        "title": "【美少女リズムゲーム『Muse Dash 2』Steamでもぬるっとお披露目。オンラインマルチプ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "美少女リズムゲーム『Muse Dash 2』のレビュー記事では、ゲームの評価ポイントとして、オンラインマルチプレイ機能の実装や、新しいキャラクターと楽曲の追加が紹介されています。また、レビューの内容概要として、ゲームの操作のしやすさや、可愛いキャラクターのデザインが高評価されていることも述べられています。このレビュー記事は、リズムゲームや美少女ゲームのファンであれば、十分に楽しめる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260701-452806/",
+        "date": "2026-07-01",
+        "is_translated": false
+      },
+      {
+        "title": "【「低労力のスロップ」: Slay the Spire 2 の背後にある Godot エンジンの...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム「Slay the Spire 2」の背後にあるGodotエンジンについて紹介しています。評価ポイントとしては、ゲームエンジンの低労力なスロップの実現や、開発者の工夫が見られる点が挙げられます。記事では、Godotエンジンの特徴や、ゲーム開発への応用例についても触れています。対象読者は、ゲーム開発に興味のある人や、Godotエンジンを使用したい人向けです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/low-effort-slop-the-creators-of-the-godot-engine-behind-slay-the-spire-2-are-cracking-down-on-vibe-coding-and-now-require-genai-disclosures",
+        "date": "2026-07-01",
+        "is_translated": true
+      },
+      {
+        "title": "【「これを秘密にしておくのは拷問だった」: Against the Storm 2 が実現する可...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Against the Storm 2のレビュー記事では、このゲームの評価ポイントとして、ユニークなゲームシステムやグラフィックの向上を挙げています。また、レビューの内容概要として、ゲームの難易度やリプレイ性について触れています。ゲームファンや新しいゲームを探している人にとって、このレビュー記事は参考になるでしょう。記事では、ゲームの魅力や改善点について詳細に説明しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/keeping-this-under-wraps-has-been-torture-against-the-storm-2-could-happen-but-first-eremite-are-making-a-survival-game-set-in-the-city-builders-festering-world",
+        "date": "2026-07-01",
+        "is_translated": true
+      },
+      {
+        "title": "【リズム天国グルーヴレビュー：ヒット作にこだわる任天堂の奇抜な音楽ゲーム】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "リズム天国グルーヴは、任天堂の奇抜な音楽ゲームです。このゲームは、簡単な操作で楽しくリズムに乗ることができ、ユニークなゲーム性が特徴です。レビューのポイントとしては、楽曲の選曲が豊富で、ゲームの難易度が適切であること、そしてグラフィックやサウンドが高品質であることが挙げられます。このゲームは、音楽ゲームのファンや、リズムに強い興味を持つ人に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/rhythm-heaven-groove-review/",
+        "date": "2026-07-01",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-01T03:40:25.729754"
+  "last_updated": "2026-07-01T12:06:22.364923"
 }
