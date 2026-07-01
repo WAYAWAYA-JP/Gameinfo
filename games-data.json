@@ -254,6 +254,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/sensual-clinic-bundle",
         "date": "2026-07-01"
+      },
+      {
+        "title": "Let's Go Gambling!...aw dang it.",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、「Let's Go Gambling!...aw dang it.」を含むバンドルが販売中です。このバンドルには、主要タイトルとして「Let's Go Gambling!...aw dang it.」やその他のゲームが収録されています。ジャンルは、主にカジノやギャンブルをテーマにしたゲームです。大まかな価格帯は、1,000円から2,000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/letsgogamblingawdangit_bundle",
+        "date": "2026-07-01"
       }
     ],
     "sale": [
@@ -1177,8 +1189,21 @@
         "url": "https://doope.jp/2026/07168361.html",
         "date": "2026-07-01",
         "is_translated": false
+      },
+      {
+        "title": "【プラグマタは初期の社内レビューでカプコンから期待外れと言われました】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "プラグマタは初期の社内レビューでカプコンから期待外れと言われたという記事のレビューを紹介します。ゲームの評価ポイントとして、ストーリーやゲームプレイの面白さ、グラフィックの質などが挙げられます。レビューの内容概要としては、ゲームの世界観やキャラクターの魅力、難易度のバランスなどが取り上げられています。これは、カプコンのファンやアクションゲーム好きの方々が読むのに適したレビューです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/pragmata-internal-capcom-reviews-called-the-game-disappointing/",
+        "date": "2026-07-01",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-01T14:49:15.771810"
+  "last_updated": "2026-07-01T22:17:30.959018"
 }
