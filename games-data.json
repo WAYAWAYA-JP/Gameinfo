@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/massive-music4-bundle",
         "date": "2026-07-01"
+      },
+      {
+        "title": "Sensual Clinic Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Sensual Clinic BundleというバンドルがIndieGalaで販売中です。このバンドルには、「Sensual Adventures: The Game」や「Clinic」などの主要タイトルが含まれています。ジャンルはアダルトコンテンツが中心で、大まかな価格帯は10ドルから20ドル程度です。このバンドルは、インディーゲームファンにとってお得な選択肢となるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/sensual-clinic-bundle",
+        "date": "2026-07-01"
       }
     ],
     "sale": [
@@ -1113,8 +1125,60 @@
         "url": "https://www.polygon.com/rhythm-heaven-groove-review/",
         "date": "2026-07-01",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料・戦車ヒーローシューター『World of Tanks: HEAT』シーズン1開...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本記事は、基本プレイ無料の戦車ヒーローシューター「World of Tanks: HEAT」のシーズン1のレビュー記事です。このゲームの評価ポイントとして、戦車のカスタマイズの自由度やマルチプレイヤーでの戦略の重要性が挙げられます。また、ゲームのグラフィックやサウンドデザインも高く評価されています。対象読者としては、戦車ゲームやアクションゲームのファンに勧められます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260701-452875/",
+        "date": "2026-07-01",
+        "is_translated": false
+      },
+      {
+        "title": "【Epic Gamesのボスが「Steamは手数料が高すぎて『原神』など基本プレイ無料ゲームを取...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Epic Gamesのボスは、Steamの手数料が高すぎて、基本プレイ無料ゲームの取り扱いを困難にしていると指摘しています。この記事では、Epic Gamesの見解と、Steamの手数料がゲーム開発や配信に与える影響について詳しく紹介しています。対象読者は、ゲーム開発者やゲームファンで、SteamやEpic Games Storeの利用経験がある人に役立つ情報です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260701-452862/",
+        "date": "2026-07-01",
+        "is_translated": false
+      },
+      {
+        "title": "【クエストの改善に焦点を当てる「ENDLESS Legend 2」の大型アップデート“Retol...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ENDLESS Legend 2の最新の大型アップデート「Retrolambda」は、クエストの改善に焦点を当てています。このアップデートでは、クエストのシステムが大幅に改良され、ユーザーの体験が向上しています。また、新しいクエストやキャラクターも追加されており、ゲームの内容が豊かになりました。このレビュー記事では、このアップデートの評価ポイントとして。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168362.html",
+        "date": "2026-07-01",
+        "is_translated": false
+      },
+      {
+        "title": "【オルクとスペースマリーンの対戦を紹介する「W40k: Dawn of War IV」の本格的な...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「W40k: Dawn of War IV」のレビュー記事では、オルクとスペースマリーンの対戦を紹介しながら、ゲームの評価ポイントを説明しています。ゲームのグラフィックやサウンド、ゲームプレイの面で高く評価されており、戦略性が高く、プレイヤーは戦略的にユニットを配置して戦う必要があります。対象読者は、ウォーハンマー40kシリーズのファンやリアルタイムストラテジーゲームを好む人向けで。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168361.html",
+        "date": "2026-07-01",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-01T12:06:22.364923"
+  "last_updated": "2026-07-01T14:49:15.771810"
 }
