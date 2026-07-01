@@ -234,42 +234,6 @@
     ],
     "sale": [
       {
-        "title": "Overcooked! 2",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Overcooked! 2がSteamで75% OFFセール中です。このゲームは、協力プレイを重視したアクションパズルゲームで、最大4人でプレイできます。プレイヤーは、キッチンで料理を作りながら、障害物や動く床などを回避して、チームワークを発揮します。現在、Steamで大幅な割引が行われており、通常価格よりも75%安く購入できます。",
-        "price": "¥642",
-        "originalPrice": "¥2,570",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/728880",
-        "date": "2026-06-24"
-      },
-      {
-        "title": "Horizon Zero Dawn™ Remastered",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Horizon Zero Dawn™ RemasteredがVariousで47%オフのセール中です。このゲームは、アクションアドベンチャーとロールプレイングの要素を組み合わせたオープンワールドゲームで、ロボットと人類が共存する未来世界を舞台にします。高い評価と人気を誇り、強力な主人公と豊富なストーリーが特徴です。現在の価格は、通常価格より47%割引された特別価格で提供されています。",
-        "price": "$26.39",
-        "originalPrice": "",
-        "discount": "-47%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/horizon-zero-dawn-remastered/info/",
-        "date": "2026-06-24"
-      },
-      {
-        "title": "AI Limit",
-        "platform": "Various",
-        "type": "sale",
-        "description": "AI Limitは、バラエティに富んだゲームです。現在、43%オフのセール中で、魅力的な価格でプレイすることができます。このゲームは、ユーザーから高評価を受けており、人気度も高いと言えるでしょう。セール期間中は、通常価格よりも大幅に安く購入することができるので、注目すべきゲームの一つです。",
-        "price": "$19.89",
-        "originalPrice": "",
-        "discount": "-43%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ai-limit/info/",
-        "date": "2026-06-24"
-      },
-      {
         "title": "サイバーパンク2077",
         "platform": "Steam",
         "type": "sale",
@@ -607,110 +571,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【高評価スタイリッシュ荒ぶりリズムゲーム『UNBEATABLE』7月27日の無料アプデで待望の日...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『UNBEATABLE』は、高評価を得ているスタイリッシュで荒ぶりが魅力的なリズムゲームです。7月27日には無料のアップデートが予定されており、待望の日が近づいています。このゲームの評価ポイントとしては、独自のリズムゲームプレイ、美しいビジュアル、そしてキャラクターの個性が挙げられます。レビューでは、これらの点が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260626-451952/",
-        "date": "2026-06-26",
-        "is_translated": false
-      },
-      {
-        "title": "【ガールズバンドアドベンチャー「UNBEATABLE」の日本語対応と大型DLC、Nintendo...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「UNBEATABLE」のレビュー記事では、このゲームの日本語対応と大型DLCのリリースが高く評価されています。特に、ゲーム内のストーリーやキャラクターの魅力が際立っており、プレイヤーに強い印象を与えると評価されています。また、Nintendo Switch版のパフォーマンスも好調で、快適なゲーム体験ができるようです。このレビューは、音楽ゲームやアドベンチャーゲームのファンに特にお勧めされます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168185.html",
-        "date": "2026-06-26",
-        "is_translated": false
-      },
-      {
-        "title": "【マルチ対応ドラゴン大陸サバイバルクラフト『ルーンスケープ：ドラゴンワイルズ』一気に人気再燃中。...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "マルチ対応ドラゴン大陸サバイバルクラフト『ルーンスケープ：ドラゴンワイルズ』は、一気に人気を再燃させています。このゲームの評価ポイントとして、美しいグラフィックや広大な世界が挙げられます。レビューの内容概要としては、ゲーム内の自由度の高さやドラゴンとのバトルが楽しめる点が評価されています。これは、サバイバルクラフトゲームを楽しむことに興味のある方や、ドラゴンを題材にしたゲームファンにとって。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260626-452156/",
-        "date": "2026-06-26",
-        "is_translated": false
-      },
-      {
-        "title": "【リバイバルされた「ストライクフリーダムガンダム」METAL BUILDが発売間近！高評価の“聖...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "METAL BUILDシリーズの「ストライクフリーダムガンダム」がリバイバルされ、発売が間近にあります。この製品は高評価を受けており、「聖戦士ダンブル」のレビュー記事でその内容が紹介されています。評価ポイントとしては、ディテールや塗装の質、ポージングの自由度が高いことが挙げられます。レビューの内容概要としては、製品の作り込みが素晴らしいことや。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/26/183627.html",
-        "date": "2026-06-26",
-        "is_translated": false
-      },
-      {
-        "title": "【早期アクセスローンチを果たしたディーゼルパンクPvPvEアクション「SAND」のプレイヤー数が...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、早期アクセスローンチを果たしたディーゼルパンクPvPvEアクションゲーム「SAND」のプレイヤー数の増加について取り上げています。ゲームの評価ポイントとしては、ユニークなゲームデザインやスムーズなゲームプレイがあげられます。また、レビューの内容概要としては、ゲームのストーリーやグラフィックのクオリティが高く、プレイヤーに満足感を与えることが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168246.html",
-        "date": "2026-06-26",
-        "is_translated": false
-      },
-      {
-        "title": "【フォードの“F-150”をお披露目する「American Truck Simulator」“R...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "アメリカのトラックシミュレーター「American Truck Simulator」に新しい車種「F-150」が登場しました。このゲームは、アメリカの大きなトラックを運転して貨物を運ぶシミュレーションゲームです。評価ポイントとしては、グラフィックの高さ、操作のリアルさ、自由度の高さがあげられます。具体的には、美しい景色の中をトラックを運転することができ、トラックのカスタマイズも豊富です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168268.html",
-        "date": "2026-06-26",
-        "is_translated": false
-      },
-      {
-        "title": "【可愛いネコの配達ドライバーを描く「Easy Delivery Co.」の無料アップデートがアナ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Easy Delivery Co.」は、可愛いネコの配達ドライバーを描いたゲームで、最近無料アップデートが公開されました。このゲームの評価ポイントは、ユニークなキャラクター設計と、シンプルながらも面白いゲームプレイが楽しめる点です。また、レビューでは、ゲームのグラフィックやサウンドトラックの質も高く評価されています。対象読者は、カジュアルゲームやアニマル系のゲームが好きな人にお勧めです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168250.html",
-        "date": "2026-06-26",
-        "is_translated": false
-      },
-      {
-        "title": "【めちゃカメレオン レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "めちゃカメレオンは、ユニークなゲーム性とグラフィックが特徴的な作品です。このゲームの評価ポイントとしては、カメレオンを操作して色々な物に変身するという面白いシステムや、多彩なステージデザインが挙げられます。また、レビューでは、ゲームの難易度や操作感も高く評価されています。ゲームファンやアクションゲーム好きの方に特におすすめできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/sports/meccha-chameleon-review/",
-        "date": "2026-06-26",
-        "is_translated": true
-      },
       {
         "title": "【ウマ娘新育成シナリオ「らっしゃい！トレセン軒！ ～恩返し、始めました～」先行プレイ感想。「任意...】",
         "platform": "AUTOMATON",
@@ -1142,5 +1002,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-30T22:15:37.363281"
+  "last_updated": "2026-07-01T03:40:25.729754"
 }
