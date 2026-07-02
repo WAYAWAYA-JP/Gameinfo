@@ -1,55 +1,6 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Citizen Sleeper",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Epic Gamesでは、現在『Citizen Sleeper』が無料配布中です。このゲームは、ロールプレイングゲームのジャンルに属し、特徴としては、未来的な宇宙ステーションを舞台にした物語や、キャラクターの成長システム、そして自由度の高いゲームプレイが魅力です。プレイヤーは、さまざまな選択肢を選んで物語を進め、キャラクターのスキルや関係を深めていくことができます。",
-        "price": "無料",
-        "originalPrice": "¥19",
-        "discount": "100% OFF",
-        "deadline": "2026年06月25日まで",
-        "url": "https://store.epicgames.com/ja/p/da528841e0eb43d8b93fd243c6767b0c",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "ROBOBEAT",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "ROBOBEATは、音楽とアクションを融合させたリズムアクションゲームです。特徴としては、ユニークな音楽に合わせてキャラクターを操作し、障害物をクリアする必要があります。また、多様なステージやキャラクターが用意されており、プレイヤーは自分の好みに応じて選択できる魅力があります。さらに、ゲームの難易度は段階的に上がり、プレイヤーのスキルを試される挑戦的な要素もあります。",
-        "price": "無料",
-        "originalPrice": "¥23",
-        "discount": "100% OFF",
-        "deadline": "2026年06月25日まで",
-        "url": "https://store.epicgames.com/ja/p/4ee365fd76704f37ae3dc13676f1ac61",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "『RollerCoaster Tycoon 3』Complete Edition",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『RollerCoaster Tycoon 3』Complete Editionは、シミュレーションゲームの一つで、テーマパークの経営を楽しむことができます。このゲームの特徴は、自由にパークを設計できること、さまざまなアトラクションや施設を配置できること、そして訪れる客の反応を観察できることです。また、グラフィックやサウンドもリアルで、遊び心があります。",
-        "price": "無料",
-        "originalPrice": "¥20",
-        "discount": "100% OFF",
-        "deadline": "2026年07月02日まで",
-        "url": "https://store.epicgames.com/ja/p/rollercoaster-tycoon-3-complete-edition/home",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Voidwrought",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "「Voidwrought」は、手描きで描かれた恐怖の宇宙を舞台にした2Dアクションプラットフォームゲームです。このゲームでは、目覚め始めた最古の文明の遺跡を探索し、そこに住む神々を討伐することができます。プレイヤーはパワーアップしながら、古代の芸術ファクトを発見し、残骸の中に神殿を拡大させることができます。このゲームの特徴は、独自の恐怖の宇宙、探索と戦闘のバランス、そして神殿の拡大システムです。",
-        "price": "無料",
-        "originalPrice": "¥19",
-        "discount": "100% OFF",
-        "deadline": "2026年07月02日まで",
-        "url": "https://store.epicgames.com/ja/p/8d0e69e541454ac7818117af13960b30",
-        "date": "2026-06-25"
-      }
-    ],
+    "free": [],
     "bundle": [
       {
         "title": "IGN Live Bundle 2026",
@@ -269,138 +220,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "サイバーパンク2077",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サイバーパンク2077がSteamで70% OFFセール中です。このゲームは、オープンワールドのRPGジャンルに分類され、未来的な世界を舞台にしたサイバーパンクテーマが特徴です。現在、通常価格よりも70%割引されています。サイバーパンク2077は、リリース当初から高い評価を受けており、ユーザーからの人気度も非常に高いゲームです。",
-        "price": "¥2,633",
-        "originalPrice": "¥8,778",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1091500",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "FINAL FANTASY VII REBIRTH",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "人気ゲームシリーズ「ファイナルファンタジー」の最新作「FINAL FANTASY VII REBIRTH」がSteamで60%オフのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、グラフィックやストーリーが特徴的です。現在、通常価格よりも大幅に安くなっています。ファイナルファンタジーシリーズは、世界中で高い評価と人気を誇り、多くのファンがこのシリーズを愛しています。",
-        "price": "¥2,631",
-        "originalPrice": "¥6,578",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2909400",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY VII REMAKE INTERGRADEがSteamで65% OFFのセール中です。このゲームはロールプレイングゲームのジャンルで、特徴的なストーリーやキャラクターで知られています。現在、通常価格より65%割引されており、ファイナルファンタジーシリーズのファンにはおすすめです。評価も高く、人気度も高いゲームであり、セール中のこの機会にプレイするのが良いでしょう。",
-        "price": "¥1,917",
-        "originalPrice": "¥5,478",
-        "discount": "65% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1462040",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Horizon Forbidden West Complete Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Horizon Forbidden West Complete EditionがVariousで現在56%オフのセール中です。このゲームはアクションアドベンチャー ジャンルに属し、美麗なグラフィックとスリリングなゲームプレイが特徴です。現在の価格は割引前と比較して大幅に安くなっています。評価も非常に高く、多くのユーザーから高い人気を誇っています。",
-        "price": "$26.28",
-        "originalPrice": "",
-        "discount": "-56%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/horizon-forbidden-west-complete-edition/info/",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Outer Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Outer Wildsは、宇宙を探索するアドベンチャーゲームで、ユニークなタイムループシステムが特徴です。今回は、Variousで53%オフのセール中で、通常よりも大幅に安くなっています。 Outer Wildsは、高い評価と人気を誇り、プレイヤーから高い評価を得ています。",
-        "price": "$11.85",
-        "originalPrice": "",
-        "discount": "-53%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Ready Or Not",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Ready Or Notは、タクティカルファーストパーソンシューティングゲームです。Variousで現在56%割引されており、非常に安くなっています。このゲームは、プレイヤーがSWATユニットを操作し、様々なミッションをクリアすることを目標にしています。高い評価と人気度を誇り、ファンからも高い支持を受けています。",
-        "price": "$21.95",
-        "originalPrice": "",
-        "discount": "-56%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ready-or-not/info/",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "ペルソナ３ リロード",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ペルソナ３ リロードがSteamで65% OFFセール中です。このゲームは、人気のRPGシリーズ「ペルソナ」の一作で、ダークファンタジーをテーマにしています。ストーリーは、主人公が仲間たちと共に、夜間に現れる怪物たちと戦いながら、謎を解き明かしていくという内容です。現在のセールにより、通常価格よりも大幅に安くなっています。評価も高く、多くのユーザーから好評価を得ています。",
-        "price": "¥2,687",
-        "originalPrice": "¥7,678",
-        "discount": "65% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2161700",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームのSekiro™: Shadows Die Twice - GOTY EditionがSteamで50% OFFのセール中です。このゲームは、挑戦的なゲームプレイと壮大なストーリーが特徴で、ゲームオブザイヤー賞を受賞しています。現在、半額での購入が可能で、評価も非常に高い人気ゲームです。",
-        "price": "¥4,180",
-        "originalPrice": "¥8,360",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/814380",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "空の軌跡 the 1st",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "空の軌跡 the 1stがSteamで50% OFFセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、壮大なストーリーや独自のキャラクターが特徴です。現在の価格は割引により大幅に下がり、ファンタジーRPGファンにはおすすめです。ユーザーの評価も非常に高く、人気度も高いゲームです。",
-        "price": "¥4,400",
-        "originalPrice": "¥8,800",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3375780",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Marvel's Spider-Man Remastered",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Marvel's Spider-Man Remasteredは、アクションアドベンチャーゲームの一つで、スパイダーマンを操作してニューヨーク市を守るという内容です。このゲームは、高い評価と人気を誇り、グラフィックやスターリングも優れています。現在、Variousで64%セール中で、大幅な割引が適用されています。通常の価格と比較して、非常に安価に購入することができます。",
-        "price": "$21.55",
-        "originalPrice": "",
-        "discount": "-64%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Stellar Blade",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Stellar Bladeはアクションアドベンチャーゲームで、美しいグラフィックとスムーズなゲームプレイが特徴です。現在、Variousで40%オフのセール中で、ファンから高い評価を得ています。人気度も高く、多くのプレイヤーから支持されています。",
-        "price": "$36.13",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stellar-blade/info/",
-        "date": "2026-06-25"
-      },
       {
         "title": "ペルソナ５ ザ・ロイヤル",
         "platform": "Steam",
@@ -628,22 +447,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-invincible/info/",
         "date": "2026-07-01"
+      },
+      {
+        "title": "007 First Light",
+        "platform": "Various",
+        "type": "sale",
+        "description": "007 First LightがVariousでセール中です、このセールでは13%割引となります。ステルスアクションゲームを楽しむことができる007 First Lightは、ジェームズ・ボンドシリーズのファンにはたまらない魅力的なゲームで、高評価を得ています。価格も割引によりお得に遊べますので、おすすみです。",
+        "price": "$60.89",
+        "originalPrice": "",
+        "discount": "-13%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/007-first-light/info/",
+        "date": "2026-07-02"
       }
     ],
     "review": [
-      {
-        "title": "【ウマ娘新育成シナリオ「らっしゃい！トレセン軒！ ～恩返し、始めました～」先行プレイ感想。「任意...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「らっしゃい！トレセン軒！ ～恩返し、始めました～」の先行プレイ感想を紹介するレビュー記事です。このレビューでは、シナリオの新しい育成要素やストーリーの魅力、ゲーム内のグラフィックやサウンドの質について評価しています。ゲームファンやウマ娘シリーズの愛好者にとって、 このレビューは新作の魅力を知るための参考になります。ゲームの評価ポイントとして、ストーリーの深みやキャラクターの発展があげられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/umamusume-20260627-452259/",
-        "date": "2026-06-27",
-        "is_translated": false
-      },
       {
         "title": "【基本プレイ無料『NTE』の「変人・小ボケだらけの街」に今、あえてツッコミまくってみる。見れば見...】",
         "platform": "AUTOMATON",
@@ -1202,8 +1020,73 @@
         "url": "https://www.polygon.com/pragmata-internal-capcom-reviews-called-the-game-disappointing/",
         "date": "2026-07-01",
         "is_translated": true
+      },
+      {
+        "title": "【PS5/PS4向け「PS Plusフリープレイ」7月で、人気FPS『Call of Duty:...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "PS5およびPS4向けの「PS Plusフリープレイ」で7月に提供される人気FPSゲーム「Call of Duty」シリーズについてのレビュー記事です。この記事では、ゲームの評価ポイントとしてグラフィックの高さや快適なゲームプレイ性、そして多様なマルチプレイヤーモードが紹介されています。また、シリーズのファンやFPSゲームが好きな人に特にオススメされる点も含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260702-452953/",
+        "date": "2026-07-02",
+        "is_translated": false
+      },
+      {
+        "title": "【新作MMORPG『AION2』先行プレイ感想。「僧帽筋」から「お腹のへこみ」までいじれる、高い...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "新作MMORPG『AION2』の先行プレイ感想を紹介するレビュー記事です。このゲームでは、「僧帽筋」から「お腹のへこみ」まで細かい部分も自由にカスタマイズできることが高評価ポイントの1つです。また、ゲームのグラフィックや操作感も高い評価を受けています。このレビュー記事は、MMORPGファンや新作ゲームに興味がある方に向けて、ゲームの魅力や遊び心を紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/aion2-20260701-452885/",
+        "date": "2026-07-02",
+        "is_translated": false
+      },
+      {
+        "title": "【プレイヤープログレッションやミニマップを導入する早期アクセス版「Wreckfest 2」の第8...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Wreckfest 2」の早期アクセス版の第8回アップデートのレビュー記事です。このゲームは、プレイヤーの進捗状況を管理するプログレッションシステムや、ミニマップを導入するなど、様々な新しい機能を追加しています。記事では、このアップデートの内容や、ゲームの評価ポイントなどが紹介されています。特に、レースゲームのファンや、破壊的なアクションゲームを楽しむ人に向けて。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168394.html",
+        "date": "2026-07-02",
+        "is_translated": false
+      },
+      {
+        "title": "【KraftonとUnknown Worldsが「Subnautica 2」の巨額ボーナスを巡る...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "KraftonとUnknown Worldsが「Subnautica 2」の巨額ボーナスを巡る話題を取り上げたレビュー記事は、ゲームのグラフィックやサウンドデザインの高さ、そして奥深いストーリーを評価しています。また、ゲームの自由度や探索要素も高く評価されています。このレビューは、オープンワールドゲームやSF作品のファンに特に役立つ内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168372.html",
+        "date": "2026-07-02",
+        "is_translated": false
+      },
+      {
+        "title": "【古書店経営ゲーム「Tiny Bookshop」のモバイル対応がアナウンス、リリースは7月9日：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "モバイル対応がアナウンスされリリース予定の「Tiny Bookshop」は、古書店を経営するゲームです。このゲームの評価ポイントとしては、ユニークなゲームシステムや、リラックスできる雰囲気があります。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの美しさ、そしてプレイヤーの選択が物語に与える影響について触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168387.html",
+        "date": "2026-07-02",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-01T22:17:30.959018"
+  "last_updated": "2026-07-02T03:25:48.910577"
 }
