@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "『RollerCoaster Tycoon 3』Complete Edition",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『RollerCoaster Tycoon 3』Complete Editionは、シミュレーションゲームのジャンルに属する魅力的で人気のあるゲームです。このゲームの特徴としては、自由度の高いテーマパークの設計や、さまざまなアトラクションの管理、そして訪れる客の満足度を上げるための戦略的経営が挙げられます。また、グラフィックやサウンドトラックも高品質で、プレイヤーを楽しませます。",
+        "price": "無料",
+        "originalPrice": "¥20",
+        "discount": "100% OFF",
+        "deadline": "2026年07月02日まで",
+        "url": "https://store.epicgames.com/ja/p/rollercoaster-tycoon-3-complete-edition/home",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "Voidwrought",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "「Voidwrought」は、手描きで描かれた恐怖の宇宙を舞台にした2Dアクションプラットフォームゲームです。このゲームの特徴としては、最古の文明の遺跡を探索し、そこに住む神々を討伐することができます。また、パワーアップすることで古代の芸術ファクトを発見し、残骸の中に神殿を拡大させることができます。さらに、ゲームの世界観やグラフィックも大きな魅力です。",
+        "price": "無料",
+        "originalPrice": "¥19",
+        "discount": "100% OFF",
+        "deadline": "2026年07月02日まで",
+        "url": "https://store.epicgames.com/ja/p/8d0e69e541454ac7818117af13960b30",
+        "date": "2026-07-02"
+      }
+    ],
     "bundle": [
       {
         "title": "IGN Live Bundle 2026",
@@ -458,6 +483,54 @@
         "discount": "-13%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/007-first-light/info/",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "サイバーパンク2077",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サイバーパンク2077がSteamで70% OFFセール中です。このゲームは、オープンワールドとRPGの要素を組み合わせたサイバーパンクシリーズの最新作で、未来的な世界を自由に探索できます。現在、Steamで大幅な割引が行われており、通常価格よりも70%安く購入することができます。サイバーパンク2077は、グラフィックやストーリー、キャラクターの深みなどが高く評価されており。",
+        "price": "¥2,633",
+        "originalPrice": "¥8,778",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1091500",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Sekiro: Shadows Die Twice - GOTY EditionがSteamで50% OFFセール中です。このアクションアドベンチャーゲームは、難度の高い戦闘と探索が特徴です。高い評価と人気を誇り、ゲームオブザイヤー賞を受賞しています。通常価格より半額で購入できるこのセールは、ファンにとって大きなチャンスです。",
+        "price": "¥4,180",
+        "originalPrice": "¥8,360",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/814380",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "ペルソナ３ リロード",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ３ リロードがSteamで65% OFFセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、深いストーリーと魅力的なキャラクターが特徴です。現在、セール中であり、通常価格よりも大幅に安くなっています。ペルソナシリーズのファンにはもちろん、RPGファン全般に人気の高いタイトルで、高い評価を獲得しています。",
+        "price": "¥2,687",
+        "originalPrice": "¥7,678",
+        "discount": "65% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2161700",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "ARC Raiders",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ARC RaidersがVariousで32%オフのセール中です。このゲームはアクションパックされた協力プレイ要素が特徴で、プレイヤーはチームを組んで強力な敵と戦います。現在の価格は割引前と比べて大幅に安くなっています。ユーザーの評価は一般的に高く、協力プレイの面白さやグラフィックの美しさが称賛されています。人気度も高く、多くのプレイヤーが参加しています。",
+        "price": "$27.35",
+        "originalPrice": "",
+        "discount": "-32%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/arc-raiders/info/",
         "date": "2026-07-02"
       }
     ],
@@ -1085,8 +1158,60 @@
         "url": "https://doope.jp/2026/07168387.html",
         "date": "2026-07-02",
         "is_translated": false
+      },
+      {
+        "title": "【スーパーマーケットを“片付ける”だけのゲーム『Supermarket Chaos』なぜか熱い人...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、プレイヤーがスーパーマーケットを「片付ける」だけのゲーム『Supermarket Chaos』について評価しています。評価ポイントとして、ゲームのシンプルさと面白さ、リピートプレイの価値があり、誰でも簡単に遊べることが挙げられています。レビューの内容概要としては、ゲームのユニークさと魅力、プレイヤーにとっての楽しさが強調されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260702-453064/",
+        "date": "2026-07-02",
+        "is_translated": false
+      },
+      {
+        "title": "【ローグライク・オートバトラー『Cats In The Shell』発表。パーツカスタマイズ戦闘...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ローグライク・オートバトラー『Cats In The Shell』のレビュー記事では、このゲームの評価ポイントとしてパーツカスタマイズ戦闘システムが取り上げられています。レビューの内容概要としては、戦闘システムの独自性やカスタマイズの自由度が高いことが評価されています。また、ゲームの進行がスムーズで、オートバトラーの要素がうまく融合していることも述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/cats-in-the-shell-20260702-453026/",
+        "date": "2026-07-02",
+        "is_translated": false
+      },
+      {
+        "title": "【デスクトップ猫アプリ『Pat the Cat』、可愛さ爆発で“好評率100％”スタート。画面い...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "デスクトップ猫アプリ『Pat the Cat』は、可愛さが爆発的に出ているため、好評率100％でスタートしました。このアプリの評価ポイントは、猫の可愛いデザインとユーザーの画面内の操作に対する反応です。レビューの内容概要としては、ユーザーが猫と触れ合うことの楽しさや、ストレス解消の効果が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/pat-the-cat-20260702-452990/",
+        "date": "2026-07-02",
+        "is_translated": false
+      },
+      {
+        "title": "【「Modern Warfare III」や「For the King II」を含む2026年7...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "2026年7月にリリースされるゲームのレビュー記事です。この記事では「Modern Warfare III」や「For the King II」を含む新作ゲームの評価ポイントを紹介します。記事ではゲームのグラフィックやゲームプレイの面白さ、ストーリーの深みなどを評価しています。ゲームファンや新作ゲームに興味がある人にとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168371.html",
+        "date": "2026-07-02",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-02T03:25:48.910577"
+  "last_updated": "2026-07-02T11:33:21.406355"
 }
