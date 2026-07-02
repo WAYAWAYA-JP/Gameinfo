@@ -24,6 +24,30 @@
         "deadline": "2026年07月02日まで",
         "url": "https://store.epicgames.com/ja/p/8d0e69e541454ac7818117af13960b30",
         "date": "2026-07-02"
+      },
+      {
+        "title": "熱血硬派くにおくん外伝 リバーシティガールズ2",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "熱血硬派くにおくん外伝 リバーシティガールズ2は、人気ゲームシリーズの最新作で、アクションゲームのジャンルに属します。このゲームの特徴は、女性キャラクターを主人公として登場させることで、従来のシリーズとは一線を画しており、女性の闘いを描くことで新たな魅力を醸し出しています。また、協力プレイや多彩な攻撃技が楽しめる点も大きな魅力です。現在、Epic Gamesプラットフォームで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "¥38",
+        "discount": "100% OFF",
+        "deadline": "2026年07月09日まで",
+        "url": "https://store.epicgames.com/ja/p/f6229ed5b32d4e098b930103b6470b49",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "I Have No Mouth, and I Must Scream",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "I Have No Mouth, and I Must Screamは、サイバーパンクを題材にしたアドベンチャーゲームです。このゲームの特徴は、1995年に発売された古典的な作品でありながら、独自のストーリーテリングと深いテーマを持っていることです。また、プレイヤーは5人の登場人物の中から1人を選択し、それぞれの視点で物語を進めていく魅力があります。",
+        "price": "無料",
+        "originalPrice": "¥9",
+        "discount": "100% OFF",
+        "deadline": "2026年07月09日まで",
+        "url": "https://store.epicgames.com/ja/p/0937dc8ff7874fb8897a678d8a27c9ac",
+        "date": "2026-07-02"
       }
     ],
     "bundle": [
@@ -531,6 +555,18 @@
         "discount": "-32%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/arc-raiders/info/",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "I Have No Mouth, and I Must Scream",
+        "platform": "Various",
+        "type": "sale",
+        "description": "I Have No Mouth, and I Must Screamがバラエティーに属するゲームですが、現在100%割引のセール中です。このゲームは、サイバーパンクをテーマにしたアドベンチャーゲームで、評価も高く人気があります。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/i-have-no-mouth-and-i-must-scream/info/",
         "date": "2026-07-02"
       }
     ],
@@ -1236,8 +1272,34 @@
         "url": "https://www.rockpapershotgun.com/flask-is-a-grim-brew-of-homunculus-autobattling-and-hand-drawn-alchemy-and-its-got-a-new-demo-on-steam",
         "date": "2026-07-02",
         "is_translated": true
+      },
+      {
+        "title": "【ホムンクルスを作り戦わせる錬金術デッキ構築ローグライクオートバトラー「FLASK」のデモがリリ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「FLASK」のデモは、ホムンクルスを作り戦わせる錬金術デッキ構築ローグライクオートバトラーです。このゲームは、独自のデッキ構築システムや戦略的なホムンクルス運用が評価ポイントです。レビューでは、ゲームの魅力的なグラフィックやサウンドトラック、そして奥深い戦略的なゲームプレイが高く評価されています。特に、ローグライクゲームやオートバトラーのファン向けのゲームとして推奨されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168374.html",
+        "date": "2026-07-02",
+        "is_translated": false
+      },
+      {
+        "title": "【ソウルを舞台にした MMO シューター Cinder City が、初期仕様に 64 GB の...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Cinder City は、ソウルを舞台にした MMO シューターで、初期仕様に 64 GB のstorageが必要です。このゲームは、グラフィックの美しさや、キャラクターの自由度が高く評価されています。また、ソウルの街中を自由に探索できることが特徴的です。対象読者は、MMO シューターが好きな人や、ソウルの文化に興味がある人です。このゲームは、初心者にも親しみやすい操作性で楽しめます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/seoul-set-mmo-shooter-cinder-city-halves-its-ram-requirements-after-initial-specs-listed-64gb-of-memory",
+        "date": "2026-07-02",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-02T14:16:26.046279"
+  "last_updated": "2026-07-02T22:06:05.488152"
 }
