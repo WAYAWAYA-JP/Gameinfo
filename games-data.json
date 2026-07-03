@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/letsgogamblingawdangit_bundle",
         "date": "2026-07-01"
+      },
+      {
+        "title": "Yuri in Luck: Waifus for Laifus",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Yuri in Luck: Waifus for Laifusを含むバンドルが販売中です。このバンドルには、Yuri in Luck: Waifus for Laifusの他にも、同ジャンルの人気タイトルが含まれています。ジャンルはビジュアルノベルやアドベンチャーゲームなど多様なものが含まれており、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/yuriinluckwaifusforlaifus_bundle",
+        "date": "2026-07-03"
       }
     ],
     "sale": [
@@ -543,6 +555,18 @@
         "discount": "-100%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/a-simple-garbage-sorting-game/info/",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "Resident Evil Requiem",
+        "platform": "Various",
+        "type": "sale",
+        "description": "バイオハザードシリーズの最新作『Resident Evil Requiem』がVariousで32％オフのセール中です。このアクションアドベンチャーゲームは、人気シリーズの最新作であり、サバイバルホラーの要素を満たした魅力的なゲームです。現在、セール価格で購入することができ、多くのユーザーから高評価を獲得しています。",
+        "price": "$47.90",
+        "originalPrice": "",
+        "discount": "-32%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
         "date": "2026-07-03"
       }
     ],
@@ -1248,8 +1272,34 @@
         "url": "https://doope.jp/2026/07168415.html",
         "date": "2026-07-03",
         "is_translated": false
+      },
+      {
+        "title": "【シリーズ一挙復刻『がんばれゴエモン大集合！』では、Nintendo Switch版以外で“おば...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ニンテンドーゲームキューブで発売された「がんばれゴエモン～東海道中 大江戸天狗り返しの巻～」のレビューでは、シリーズファンにはお勧めできる作品であると評価されています。本作は、シリーズのキャラクターが総登場する点や、ステージのバリエーションが豊富な点が評価されています。また、シリーズに親しみのある人向けの内容になっているため、新規参入者にはお勧めしづらい点もあります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260703-453227/",
+        "date": "2026-07-03",
+        "is_translated": false
+      },
+      {
+        "title": "【Relic が新しい Company of Heroes RTS を発表、世界大戦全体を戦う時...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Relic が新しい Company of Heroes RTS を発表したというレビュー記事です。この記事では、新しい Company of Heroes の評価ポイントとして、グラフィックの向上やゲームプレイの改善などが取り上げられています。また、第二次世界大戦を舞台にしたこのゲームでは、戦略的な戦闘やリソース管理が重要な要素です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/relic-announce-a-new-company-of-heroes-rts-a-wave-defence-roguelite-for-strategy-buffs-who-dont-have-time-to-fight-a-whole-world-war",
+        "date": "2026-07-03",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-03T02:49:20.994188"
+  "last_updated": "2026-07-03T11:31:39.497794"
 }
