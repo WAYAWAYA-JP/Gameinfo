@@ -568,6 +568,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
         "date": "2026-07-03"
+      },
+      {
+        "title": "PRAGMATA",
+        "platform": "Various",
+        "type": "sale",
+        "description": "PRAGMATAは、Variousで現在-18%のセール中です。このゲームは、ユニークなストーリーやグラフィックで知られており、多くのユーザーから高い評価を得ています。セール期間中は通常価格よりも安く購入できます。",
+        "price": "$49.17",
+        "originalPrice": "",
+        "discount": "-18%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/pragmata/info/",
+        "date": "2026-07-03"
       }
     ],
     "review": [
@@ -1298,8 +1310,21 @@
         "url": "https://www.rockpapershotgun.com/relic-announce-a-new-company-of-heroes-rts-a-wave-defence-roguelite-for-strategy-buffs-who-dont-have-time-to-fight-a-whole-world-war",
         "date": "2026-07-03",
         "is_translated": true
+      },
+      {
+        "title": "【「不評じゃないけど」と言い張る不評レビューに、開発者が悲痛な叫び。“好きだけど不評”の見過ごせ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、開発者がプレイヤーから不評なレビューを受けた際の悲痛な叫びを取り上げています。不評なレビューですが、開発者はプレイヤーがゲームを「好きだけど不評」という理由で低評価をしていることに気付き、開発者自身もその点を認めています。ゲームの評価ポイントとしては、レビューの内容が開発者の意図と異なる点や、プレイヤーの意見が開発に影響を与える点などが含まれます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260703-453249/",
+        "date": "2026-07-03",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-03T11:31:39.497794"
+  "last_updated": "2026-07-03T14:22:33.380781"
 }
