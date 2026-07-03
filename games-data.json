@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "IGN Live Bundle 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、IGN Live Bundle 2026というバンドルが販売中です。このバンドルには、人気タイトル「Elden Ring」や「Cyberpunk 2077」、「The Witcher 3」などが含まれています。ジャンルはアクションやRPGを中心に構成されています。大まかな価格帯は、1,000円から5,000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/ignlivebundle2026_bundle",
-        "date": "2026-06-23"
-      },
-      {
-        "title": "Yuri in Luck: Waifus for Laifus",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Yuri in Luck: Waifus for Laifusを含むバンドルが販売中です。このバンドルには、Yuri in Luck: Waifus for Laifusのほか、恋愛や女性主人公を題材としたゲームが収録されています。ジャンルはビジュアルノベルやアドベンチャーゲームです。価格帯は約1,000円から約5,000円までと幅広い選択肢があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/yuriinluckwaifusforlaifus_bundle",
-        "date": "2026-06-23"
-      },
-      {
         "title": "We Will Always Be Here: Pride Month 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -269,30 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "ペルソナ５ ザ・ロイヤル",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ペルソナ５ ザ・ロイヤルがSteamで70% OFFのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、深いストーリーと魅力的なキャラクターで知られています。現在の価格は大幅に割引されており、非常に魅力的なオファーとなっています。ペルソナシリーズは、高い評価と人気度を誇り、ファンから高い支持を受けています。セール期間中は、こちらのゲームをプレイするのは絶好の機会です。",
-        "price": "¥2,303",
-        "originalPrice": "¥7,678",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1687950",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "God of War Ragnarök",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「God of War Ragnarök」が、現在41%割引のセール中です。このゲームは、北欧神話をベースにした壮大なストーリーや、美しいグラフィックス、そして激しいアクションが特徴です。高い評価を獲得しており、多くのゲームファンから人気を博しています。価格も割引により大幅に下がっているので、興味がある方にはお勧めのゲームです。",
-        "price": "$35.40",
-        "originalPrice": "",
-        "discount": "-41%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
-        "date": "2026-06-26"
-      },
       {
         "title": "Ghost of Tsushima DIRECTOR'S CUT",
         "platform": "Various",
@@ -568,87 +520,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/i-have-no-mouth-and-i-must-scream/info/",
         "date": "2026-07-02"
+      },
+      {
+        "title": "空の軌跡 the 1st",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "空の軌跡 the 1stがSteamで50% OFFセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、ストーリーとキャラクターが特徴的です。現在、通常価格の半額で購入することができます。高い評価と人気を誇るこのゲームは、ファンタジーとアドベンチャーを求めるユーザーに最適です。",
+        "price": "¥4,400",
+        "originalPrice": "¥8,800",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3375780",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "A Simple Garbage Sorting Game",
+        "platform": "Various",
+        "type": "sale",
+        "description": "A Simple Garbage Sorting GameがVariousで-100%のセール中です。このゲームは、ごみの分別をテーマにしたユニークなゲームで、プレイヤーはさまざまなごみを適切なカテゴリに分ける必要があります。現在、完全に無料でプレイできます。簡単ながらも面白く、環境保護について考えるきっかけとなるゲームです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/a-simple-garbage-sorting-game/info/",
+        "date": "2026-07-03"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料『NTE』の「変人・小ボケだらけの街」に今、あえてツッコミまくってみる。見れば見...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料のゲーム『NTE』のレビュー記事では、ゲーム内で「変人」や「小ボケ」が多く登場する街について、あえてツッコミを入れてみる内容が紹介されています。この記事では、ゲームのユーモアやキャラクター設定、ストーリーの面白さなどが評価ポイントとして取り上げられており、ゲームファンやコメディー好きの方におすすめできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260628-452349/",
-        "date": "2026-06-28",
-        "is_translated": false
-      },
-      {
-        "title": "【『ブレイブルー セントラルフィクション（BBCF）』9年振りの新キャラは「トリニティ＝グラスフ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ブレイブルー セントラルフィクション』のレビュー記事では、このゲームの新キャラクター「トリニティ＝グラスフィールド」について触れています。ゲームの評価ポイントとして、グラフィックの美しさや新要素の導入が挙げられます。また、レビューでは、ゲームのストーリーや操作性についても評価しています。この記事は、対象読者として『ブレイブルー セントラルフィクション』のファンや。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260628-452388/",
-        "date": "2026-06-28",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料「街」オープンワールド『NTE』新キャラ「カオス」は、爽やかイケメン狂犬仕立て。...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料のオープンワールドゲーム「NTE」に新キャラクター「カオス」が追加されました。カオスはイケメンだが狂犬のような性格をしています。ゲームの評価ポイントとしては、新キャラクターの追加によるゲーム性の向上や、オープンワールドでの自由度の高さが挙げられます。レビューの内容概要としては、新キャラクターの紹介やゲームのグラフィックの高さなどが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260628-452334/",
-        "date": "2026-06-28",
-        "is_translated": false
-      },
-      {
-        "title": "【『ぽこ あ ポケモン』は「感謝される」のがめっちゃ嬉しいし、“復帰”もかなりしやすい。『アーク...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ぽこ あ ポケモン』は感謝されることがとても嬉しいし、復帰もしやすいゲームです。『アークナイツ』のレビュー記事では、このゲームの特徴や魅力について詳しく紹介しています。読者は、このレビュー記事からゲームの評価ポイントを知ることができ、自分に合ったゲームを選ぶことができます。特に、ポケモンシリーズのファンや、リズムゲームを楽しむ人にはおすすめのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260628-452412/",
-        "date": "2026-06-28",
-        "is_translated": false
-      },
-      {
-        "title": "【「きしめん」でお馴染み『Nursery Rhyme -ナーサリィ☆ライム-』が現代向けに蘇る。...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Nursery Rhyme -ナーサリィ☆ライム-』は、伝統的な日本の食文化である「きしめん」でお馴染みのタイトルです。このゲームは現代向けに蘇り、プレイヤーを新たな世界に引き込んでいます。レビューの内容としては、ゲームのグラフィックやサウンドトラック、そしてストーリーの深みなどが高く評価されています。特に、ゲームの世界観やキャラクターの造形が巧みであると評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260628-452400/",
-        "date": "2026-06-28",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料セクシー吸血鬼MMO『ヴァンピール』は“当たり前”を壊す「開発者が自分で遊びたい...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ヴァンピール』は基本プレイ無料のセクシーな吸血鬼を題材にしたMMOゲームで、開発者自身が遊びたいという考えで作られています。このゲームは従来のMMOの常識を覆す内容で、開発者の意図に興味を持つゲーマーにオススメです。また、ゲームのグラフィックやストーリー、自由度の高さなどが評価ポイントとなります。特にMMOゲームファンや新しいゲーム体験を求めるユーザーが対象読者となります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/20260629-452009/",
-        "date": "2026-06-28",
-        "is_translated": false
-      },
       {
         "title": "【鬼畜ローグライクアクション『The Binding of Isaac: Rebirth』リリー...：レビュー】",
         "platform": "AUTOMATON",
@@ -673,32 +571,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/06168289.html",
         "date": "2026-06-29",
-        "is_translated": false
-      },
-      {
-        "title": "【「Invincible VS」に新ファイター“Angstrom Levy”が参戦、シーズン1の...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "本レビュー記事では、新しいファイター「Angstrom Levy」がゲーム「Invincible VS」に参戦したことを紹介しています。記事では、シーズン1の新要素やゲームプレイの魅力について解説しています。また、ゲームの評価ポイントとして、新しいファイターの参戦によるバリエーションの増加や、新しい戦略の可能性について触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168284.html",
-        "date": "2026-06-28",
-        "is_translated": false
-      },
-      {
-        "title": "【「鉄拳8」シーズン3に参戦する“ボブ”のゲームプレイ映像がお披露目、ロジャーJr.のティザーも】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「鉄拳8」シーズン3に参戦する“ボブ”のゲームプレイ映像がお披露目されたことが話題です。このゲームは、プレイヤーがさまざまなキャラクターを操作して対戦する対戦型格闘ゲームで、グラフィックや操作性が高く評価されています。レビューの内容としては、ボブの新しい技や移動方法、ロジャーJr.のティザーの発表などが紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168253.html",
-        "date": "2026-06-28",
         "is_translated": false
       },
       {
@@ -1298,8 +1170,86 @@
         "url": "https://www.rockpapershotgun.com/seoul-set-mmo-shooter-cinder-city-halves-its-ram-requirements-after-initial-specs-listed-64gb-of-memory",
         "date": "2026-07-02",
         "is_translated": true
+      },
+      {
+        "title": "【高評価ビル清掃アクション×青春生活シム『スカイ・ザ・スクレーパー』PS5/Switch/Swi...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "スカイ・ザ・スクレーパーは、ビル清掃アクションと青春生活シムが融合したユニークなゲームです。このゲームは、プレイヤーがビルからゴミを掃除する清掃アクションと、キャラクターの日常生活を描くシミュレーションが特徴です。評価ポイントとしては、独自のゲームシステム、キャラクターの成長要素、ストーリーの感動度があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/sky-the-scraper-20260703-453123/",
+        "date": "2026-07-03",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料MMORPG『メイプルストーリー』大型アプデ「CROWN」配信開始。育成爆速・既...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『メイプルストーリー』の大型アプデ「CROWN」についてのレビュー記事です。このゲームは基本プレイ無料のMMORPGで、キャラクターの育成が爆速になるなどの特徴があります。ゲームの評価ポイントとしては、キャラクターの育成が簡単になり、ゲームの世界がより豊かになった点が際立っています。また、既存のユーザーだけでなく、新規のユーザーにもお勧めできる点も評価ポイントとして挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/maplestory-20260703-453105/",
+        "date": "2026-07-03",
+        "is_translated": false
+      },
+      {
+        "title": "【『リズム天国 ミラクルスターズ』の「ドラムレッスン」に猛者たち殺到、異様な熱気。“リズムのプロ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "リズム天国シリーズの最新作『リズム天国 ミラクルスターズ』のレビュー記事では、ゲームの評価ポイントとしてドラムレッスンの難易度の高さやリズムゲームの面白さを挙げています。記事では、ドラムレッスンに挑戦するプレイヤーが多く、リズムゲームの醍醐味を楽しめることが評価されています。このレビューは、リズム天国シリーズのファンやリズムゲームに興味がある人にとって参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/rhythm-heaven-groove-20260703-453104/",
+        "date": "2026-07-03",
+        "is_translated": false
+      },
+      {
+        "title": "【「The Alters」の新DLC“Last Variable”のゲームプレイトレーラーが公開...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「The Alters」の新DLC「Last Variable」のゲームプレイトレーラーが公開されたレビュー記事では、ゲームの評価ポイントとして、ストーリーの深化や新要素の追加が高く評価されています。また、レビューの内容概要として、トレーラーでの新キャラクターの登場やゲームシステムの変更点が紹介されており、ゲームファンやシリーズの愛好家にとっては必見の記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168420.html",
+        "date": "2026-07-03",
+        "is_translated": false
+      },
+      {
+        "title": "【「Rust」に賃貸アパートや経営可能な貸店舗を導入する大型アップデートが配信：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Rust」に賃貸アパートや経営可能な貸店舗を導入する大型アップデートが配信されたことを紹介するレビュー記事です。この記事では、新しいアップデートの評価ポイントとして、賃貸アパートの追加や貸店舗の経営が可能になった点などを取り上げています。さらに、ゲームの新しい要素がプレイヤーに与える影響や、ゲーム全体のバランスへの影響についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168379.html",
+        "date": "2026-07-03",
+        "is_translated": false
+      },
+      {
+        "title": "【Fall Guysのオリジナルクリエイターたちが手がけるドタバタCo-opカエルゲーム「Fro...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Fall Guysのオリジナルクリエイターが手がける新作ゲーム「Frog」についてのレビュー記事です。このゲームはドタバタコープカエルゲームで、プレイヤーはカエルを操作して様々な課題をクリアします。レビューでは、ゲームのユーモアのあるグラフィックや面白いゲームプレイ、そして協力プレイの要素が高く評価されています。特に、家族や友人と一緒に楽しめるコンテンツとしておすすめされています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168415.html",
+        "date": "2026-07-03",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-02T22:06:05.488152"
+  "last_updated": "2026-07-03T02:49:20.994188"
 }
