@@ -230,6 +230,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/summergamesdonequick2026_bundle",
         "date": "2026-07-03"
+      },
+      {
+        "title": "Going Rogue: A Lite Heavy Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Going Rogue: A Lite Heavy Bundleというバンドルの販売が行われています。このバンドルには、Rogue State、Heavy Bullets、Going Underなどのタイトルが含まれており、ローグライクやアクションゲームを中心としたジャンルのゲームが多数収録されています。大まかな価格帯は数千円程度とリーズナブルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/goingrogueliteheavybundle_bundle",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "Summer Blade Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Summer Blade Bundleが販売中です。このバンドルには、主要タイトルとして「Blade Kitten」や「Slain: Back from Hell」、「Blade Warrior」などのゲームが含まれています。ジャンルはアクションやアドベンチャーに属します。大まかな価格帯は10ドル以下です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/summer-blade-bundle",
+        "date": "2026-07-04"
       }
     ],
     "sale": [
@@ -531,6 +555,30 @@
         "discount": "-70%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストがSteamで50% OFFセール中です。このオープンワールドアクションゲームは、豊富なゲームプレイと壮大なグラフィックで知られており、非常に人気があります。通常価格よりも半額で購入できるこのセールは、大幅な割引率と高い評価により、多くのゲームファンが注目しています。",
+        "price": "¥2,190",
+        "originalPrice": "¥4,380",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "The Binding of Isaac: Rebirth Complete Bundle",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Binding of Isaac: Rebirth Complete Bundleがバラエティーで90%割引のセール中です。このパッケージは、ローグライク・ホラー要素のあるアクションゲーム「The Binding of Isaac: Rebirth」と、そのすべてのDLCを含んでいます。非常に難易度が高く、プレイヤーはランダムに生成されるダンジョンを探索してアイテムを集め。",
+        "price": "$5.06",
+        "originalPrice": "",
+        "discount": "-90%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-binding-of-isaac-rebirth-complete-bundle/info/",
         "date": "2026-07-04"
       }
     ],
@@ -1171,8 +1219,21 @@
         "url": "https://doope.jp/2026/07168434.html",
         "date": "2026-07-04",
         "is_translated": false
+      },
+      {
+        "title": "【コスプレ】ゲームから飛び出したとしか思えない！日中美女コスプレイヤーが共演した『NTE』\"異能者・零\"が美しすぎた【写真11枚】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、日中の美女コスプレイヤーが出演した「NTE異能者・零」の写真を紹介しています。美しくて印象的な11枚の写真が掲載されています。コスプレやゲームが好きな人なら必見の記事です。このゲームは、コスプレの質の高さやゲームの世界観、美しい写真の数などが評価ポイントになっています。特にコスプレのファンやゲーム好きの方にオススメの記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/07/04/184044.html",
+        "date": "2026-07-04",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-04T02:44:58.956582"
+  "last_updated": "2026-07-04T10:53:49.096771"
 }
