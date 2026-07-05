@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
         "date": "2026-07-04"
+      },
+      {
+        "title": "ペルソナ５ ザ・ロイヤル",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ５ ザ・ロイヤルは、Steamで70%オフのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、深いストーリーと魅力的なキャラクターで人気を博しています。プレイヤーは、東京を舞台に、社会の不正に対抗する「心の怪盗団」となることになります。ゲームの評価は非常に高く、多くのユーザーから高評価を得ています。",
+        "price": "¥2,303",
+        "originalPrice": "¥7,678",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1687950",
+        "date": "2026-07-05"
       }
     ],
     "review": [
@@ -1091,8 +1103,21 @@
         "url": "https://automaton-media.com/articles/now-gaming/20260705-453363/",
         "date": "2026-07-05",
         "is_translated": false
+      },
+      {
+        "title": "【「GTA 6」のレビュー計画により、The Game AwardsでGOTYレースが大混乱に陥...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "The Game AwardsでのGOTYレースが大混乱に陥る「GTA 6」のレビュー計画について紹介しています。この記事では、評価ポイントとしてゲームのストーリーやグラフィックの質、そしてプレイヤーの自由度が高く評価されている点を取り上げています。また、レビューの内容概要として、ゲームの世界観やキャラクターの深み、そしてミッションの多様性が述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/goty-watch-gta-6-reviews-the-game-awards/",
+        "date": "2026-07-05",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-05T11:03:34.997095"
+  "last_updated": "2026-07-05T13:53:06.934280"
 }
