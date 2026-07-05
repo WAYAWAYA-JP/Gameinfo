@@ -52,54 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "June 2026 Humble Choice",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "現在、Humble BundleではJune 2026 Humble Choiceのバンドルが販売中です。このバンドルには、主要タイトルとして『Hot Wheels Unleashed』や『WRC 10』などのレースゲーム、さらにアクションゲームやアドベンチャーゲームなどが含まれています。ジャンルはレースゲームやアクションゲーム、アドベンチャーゲームなど多様で。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/june_2026_choice",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Frosty Games Fest Showcase Bundle 2026: Made in ANZ",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Frosty Games Fest Showcase Bundle 2026: Made in ANZというバンドルがHumble Bundleで販売中です。このバンドルには、オーストラリアとニュージーランドで制作されたゲームが収録されており、主要タイトルとしては、\"ゲームタイトル1\"、\"ゲームタイトル2\"、\"ゲームタイトル3\"などが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/frostygamesfestshowcasebundle2026madeinanz_bundle",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Redline Racing Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Redline Racing Bundleが現在販売中です。このバンドルには、Wreckfest、TrackMania、Assetto Corsa Competizioneなどの人気レースゲームが含まれています。レースゲームファンにはおすすめのバンドルで、価格帯は大体2000円から3000円程度とお手頃です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/redlineracingbundle_bundle",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Twist & Tangle Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Twist & Tangle Bundleというバンドルが販売中です。このバンドルには、Twist & Tangle、Echoes of the Fey、Mythic Discourseなどのタイトルが含まれています。ジャンルはアドベンチャーやパズルゲームです。大まかな価格帯は、10ドル以下です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
-        "date": "2026-06-25"
-      },
-      {
         "title": "Arc System Works: Evo Collection",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,30 +209,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Resident Evil 4 (2023)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "バイオハザードシリーズの最新作である『Resident Evil 4 (2023)』が、Variousで79%オフのセール中です。このサバイバルホラーゲームは、恐怖とスリルのバランスが取れたゲームプレイが特徴で、シリーズファンから高い評価を得ています。現在の価格は大幅に値下げされており、気軽にプレイすることができます。",
-        "price": "$8.55",
-        "originalPrice": "",
-        "discount": "-79%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
-        "date": "2026-06-28"
-      },
-      {
-        "title": "God of War",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームの「God of War」が、現在63%割引でのセール中です。このシリーズは、激しい戦闘シーンと壮大な物語で人気を博しており、評価も非常に高いゲームです。セール価格でこの人気ゲームをプレイするチャンスです。",
-        "price": "$18.40",
-        "originalPrice": "",
-        "discount": "-63%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/god-of-war/info/",
-        "date": "2026-06-28"
-      },
       {
         "title": "The Binding of Isaac: Rebirth",
         "platform": "Various",
@@ -607,149 +535,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【全て最安値を更新！『ペルソナ4G』『ペルソナ3P』が各990円、最新作への予習に最適─Stea...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "ペルソナシリーズの『ペルソナ4G』と『ペルソナ3P』は、現在最安値の990円で購入できます。この価格は、最新作への予習に最適です。この記事は、ペルソナシリーズのファンや、新規参入者にとって、ゲームの内容や魅力を紹介しています。記事では、ゲームの評価ポイントとして、ストーリーやキャラクターの深み、バトルシステムの面白さなどを取り上げています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/06/30/183779.html",
-        "date": "2026-06-30",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料都市オープンワールドの『NTE』のキャラは「1キャラで1ゲームの軸にできる」ぐら...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "都市オープンワールドのゲーム「NTE」は基本プレイが無料で、1キャラで1ゲームの軸にできるぐらいキャラクターが強力です。このゲームの評価ポイントは、オープンワールドの自由度、キャラクターの多様性、ストーリーの深みです。レビューの内容概要は、ゲームの世界観、キャラクターのカスタマイズ、戦闘システムの評価です。このゲームは、オープンワールドゲームのファンやアクションゲーム好きの方に適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/nte-202607-452636/",
-        "date": "2026-06-30",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamの次なる協力プレイゲーム、病院シム『Night Shift Hospital』発表。...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamの新しい協力プレイゲーム「Night Shift Hospital」が発表されました。このゲームは病院をシミュレートする内容で、プレイヤーは医者や看護師となり、患者を治療します。評価ポイントとしては、協力プレイの要素が高く、チームワークが求められます。また、グラフィックやサウンドトラックも高品質です。レビューの内容としては、ゲームの難易度や操作性について言及されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260630-452624/",
-        "date": "2026-06-30",
-        "is_translated": false
-      },
-      {
-        "title": "【キャラガチャなし基本プレイ無料『デュエットナイトアビス』大型アプデでCV戸松遥さんの重火器メイ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『デュエルトナイトアビス』は、キャラガチャがなく基本プレイ無料のゲームで、大型アップデートにより新しいキャラクターが追加されました。このゲームの評価ポイントとしては、自由度の高いカスタマイズや、魅力的なキャラクターのデザインが挙げられます。レビューの内容概要としては、新しいキャラクターの紹介や、ゲームシステムの改善が行われた点が取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260630-452598/",
-        "date": "2026-06-30",
-        "is_translated": false
-      },
-      {
-        "title": "【Human Vapor レビュー: Netflix の新しい SF スリラーは、スティーブン・...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Human Vapor のレビュー記事では、Netflix の新しい SF スリラー作品について評価しています。この記事では、作品の評価ポイントとして、ストーリーの独創性やキャラクターの深みを挙げています。また、レビューの内容概要として、作品のテーマや作りの良さを述べています。興味のある読者は、SF スリラー作品のファンや Netflix の新しい作品を探している人に、この記事はおすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/human-vapor-netflix-review/",
-        "date": "2026-06-30",
-        "is_translated": true
-      },
-      {
-        "title": "【18年ぶりの復活を果たす“テュロック”シリーズ最新作「Turok: Origins」初のゲーム...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Turok: Origins」は、18年ぶりに復活した「テュロック」シリーズの最新作です。このゲームは、シリーズのファンが楽しみに待っていた作品で、グラフィックやサウンドの質が向上しています。レビューでは、ゲームのアクション要素やストーリーが高く評価されています。また、シリーズ初心者でも楽しめる内容になっています。このレビューは、シリーズのファンやアクションゲーム好きの方に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/06168321.html",
-        "date": "2026-06-30",
-        "is_translated": false
-      },
-      {
-        "title": "【Be Quiet Dark Rock 6 と Dark Rock Pro 6 のレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Be Quiet Dark Rock 6 と Dark Rock Pro 6 のレビュー記事では、CPUクーラーの性能や静音性、設計や使いやすさなどが評価されています。このレビューは、PCパーツやガジェットに興味がある方々にとって、クーラー選びの参考になる内容になっています。記事では、これらの製品の強みや弱みを明確にし、ユーザーが自分のニーズに合ったクーラーを選択する手助けをしています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/cooling/be-quiet-dark-rock-6-and-dark-rock-pro-6-review/",
-        "date": "2026-06-30",
-        "is_translated": true
-      },
-      {
-        "title": "【タートルビーチコマンドシリーズ KB7 TKL レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "タートルビーチコマンドシリーズのKB7 TKLについてのレビュー記事では、ゲームプレイの快適性やキーボードの耐久性、操作のしやすさなどの評価ポイントが提示されています。記事では、ゲーム中の反応速度やキーボードの構造的な特徴について詳しく解説しています。このレビュー記事は、ゲームに熱中しているゲーマーや、高品質なキーボードを探しているユーザーにとって、参考になる内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/turtle-beach-command-series-kb7-tkl-review/",
-        "date": "2026-06-30",
-        "is_translated": true
-      },
-      {
-        "title": "【Xbox が新しい Game Pass セールを一時停止しているという報告は、サービスが変更さ...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Xboxの新しいGame Passセールが一時停止したという報告がありました。このサービス変更についてのレビューでは、セールの停止理由や将来の対応について触れています。ゲームファンの方々が注目すべき点は、新しいセールの発売時期や、代替サービスへの移行方法などです。また、Xboxのサービス変更がユーザーに与える影響についても説明されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/xbox-game-pass-pause/",
-        "date": "2026-06-30",
-        "is_translated": true
-      },
-      {
-        "title": "【『スプラトゥーン レイダース』プレビュー: Switch 2 シューティングゲームはシングルプ...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "『スプラトゥーン レイダース』はSwitch 2のシューティングゲームで、シングルプレイヤー向けに設計されています。このゲームの評価ポイントとしては、ユニークなゲームプレイ、色々なステージ、そして多様な武器が挙げられます。レビューの内容概要としては、新しいプレイヤーにも分かりやすいチュートリアル、難易度のバランスが取れていること、そしてグラフィックのクオリティが高いことが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/splatoon-raiders-preview/",
-        "date": "2026-06-30",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam Machine を分解すると、Valve が貴重な RAM を他の部品の下に埋めて...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Steam Machineを分解すると、Valveが貴重なRAMを他の部品の下に埋めていることが分かりました。このレビュー記事では、Steam Machineのハードウェア構成やパフォーマンスなどの評価ポイントが紹介されています。記事では、Steam Machineの内部構造や性能の良さなどを評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/disassembling-the-steam-machine-suggests-valve-are-protecting-its-precious-ram-by-burying-it-under-a-dozen-other-parts",
-        "date": "2026-06-30",
-        "is_translated": true
-      },
       {
         "title": "【『アークナイツ：エンドフィールド』の高難度イベント「危機契約」で評価値54を突破したプレイヤー...】",
         "platform": "AUTOMATON",
@@ -1272,5 +1057,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-04T21:58:46.247738"
+  "last_updated": "2026-07-05T02:55:38.129288"
 }
