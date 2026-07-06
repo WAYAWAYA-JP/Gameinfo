@@ -544,6 +544,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/fell-in-love-with-coser-5/info/",
         "date": "2026-07-06"
+      },
+      {
+        "title": "Stellar Blade",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲーム「Stellar Blade」が、Variousで41%割引のセール中です。このゲームは、美しいグラフィックとスムーズな操作が特徴で、プレイヤーから高い評価を得ています。価格も割引で大幅に下がっているので、興味がある方はぜひチェックしてみてください。",
+        "price": "$35.40",
+        "originalPrice": "",
+        "discount": "-41%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stellar-blade/info/",
+        "date": "2026-07-06"
       }
     ],
     "review": [
@@ -1066,8 +1078,21 @@
         "url": "https://www.inside-games.jp/article/2026/07/06/184138.html",
         "date": "2026-07-06",
         "is_translated": false
+      },
+      {
+        "title": "【新たなゲームモードを導入する「Easy Delivery Co.」の無料アップデートが配信：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Easy Delivery Co.」の無料アップデートが配信されました。このアップデートでは、新たなゲームモードが導入されています。このゲームは、プレイヤーが運送会社を経営するシミュレーションゲームです。レビューの内容としては、新しいゲームモードの導入により、ゲームの再生価値が高まったことや、グラフィックの向上などが評価されています。また、ゲームの操作性やサウンドトラックも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168488.html",
+        "date": "2026-07-06",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-06T12:45:42.873687"
+  "last_updated": "2026-07-06T15:47:09.451879"
 }
