@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stellar-blade/info/",
         "date": "2026-07-06"
+      },
+      {
+        "title": "River City Girls 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "River City Girls 2がバラエティストアで100%割引されているようです。このゲームは、サイドスクロールアクションゲームで、複数のプレイヤーが協力して敵を倒すことができます。グラフィックやサウンドトラックも高く評価されており、ファンから高い評価を得ています。現在の価格は完全無料で、興味がある方はぜひこの機会にチェックしてみてください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/river-city-girls-2/info/",
+        "date": "2026-07-06"
       }
     ],
     "review": [
@@ -1091,8 +1103,21 @@
         "url": "https://doope.jp/2026/07168488.html",
         "date": "2026-07-06",
         "is_translated": false
+      },
+      {
+        "title": "【Paddle Paddle Paddle が「非常に肯定的な」レビューと 55,000 件の返...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Paddle Paddle Paddle は、非常に肯定的なレビューと多数のプレイヤーからの支持を得ています。このゲームは、ユーザーから55,000件以上のレビューを集め、ゲームコミュニティで大きな注目を集めています。ゲームの評価ポイントとしては、ユニークなゲームプレイ、魅力的なグラフィック、そして高い再プレイ性が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/steam-refund-policy-paddle-paddle-paddle-friendslop-reviews/",
+        "date": "2026-07-06",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-06T15:47:09.451879"
+  "last_updated": "2026-07-06T22:13:58.278972"
 }
