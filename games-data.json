@@ -218,6 +218,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
         "date": "2026-07-05"
+      },
+      {
+        "title": "Arc System Works: Evo Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Arc System Works: Evo Collectionというバンドルの販売が行われています。このバンドルには、Guilty Gear XX Accent Core Plus RやBlazBlue: Central Fictionなどの主要タイトルが含まれており、ファイティングゲームファンには必見のアイテムです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/arcsystemworksevocollection_bundle",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "HHSummer Blade Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、HHSummer Blade Bundleが現在販売中です。このバンドルには、Summer in MaraやBladeboundなど、2本の主要タイトルが含まれています。ジャンルはアクションやアドベンチャーに分類され、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/summer-blade-bundle",
+        "date": "2026-07-06"
       }
     ],
     "sale": [
@@ -496,6 +520,30 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/1687950",
         "date": "2026-07-05"
+      },
+      {
+        "title": "Rust",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サバイバルゲームの代表作であるRustが、Steamで50%オフのセール中です。このゲームは、荒野で生き残るために資源を集め、建物を建設し、他のプレイヤーとの戦いなど、様々な要素を楽しむことができます。現在、Steamでは大幅な割引が行われており、通常価格よりも半額で購入することができます。Rustは、そのリアルなゲーム性と高い再生性で、世界中のプレイヤーから高く評価されています。",
+        "price": "¥2,300",
+        "originalPrice": "¥4,600",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/252490",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "Fell in love with coser 5",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの「Fell in love with coser 5」がVariousで100%割引されています。このゲームは、ユニークなゲーム性と美しいグラフィックで人気を博しており、多くのプレイヤーから高評価を受けています。現在、完全無料でプレイできるため、興味がある方はこの機会にチェックしてみてください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/fell-in-love-with-coser-5/info/",
+        "date": "2026-07-06"
       }
     ],
     "review": [
@@ -966,8 +1014,60 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-just-got-its-first-dopamine-site-so-you-can-fatten-a-fake-backlog-without-spending-a-cent/",
         "date": "2026-07-06",
         "is_translated": true
+      },
+      {
+        "title": "【須田剛一氏の新作『ロミオ・イズ・ア・デッドマン』、「酷評レビュー」をあえて宣伝トレイラーに載せ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "須田剛一氏の新作『ロミオ・イズ・ア・デッドマン』は、宣伝トレイラーに酷評レビューを載せるというユニークなアプローチで話題になっています。このゲームの評価ポイントとしては、独自のストーリー展開やユーモアのあるキャラクター設定が挙げられます。レビューの内容概要としては、ゲームのオリジナリティやプレイヤーの意表を突く演出が高く評価されていることや、一方で。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260706-453452/",
+        "date": "2026-07-06",
+        "is_translated": false
+      },
+      {
+        "title": "【Steamの高評価ゲーム開発者、「購入者の21％も返金申請していた」と悲鳴。“クリア済みなのに...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamの高評価ゲーム開発者によると、購入者の21％が返金を申請していたとのことです。このゲームは高評価を受けていますが、プレイヤーの中には「クリア済みなのに...」と感じる人もいるようです。ゲームの評価ポイントとしては、面白さやグラフィックの質が高く評価されている点があります。しかし、一方で、プレイヤーの中には難易度が高すぎるという意見もあります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260706-453441/",
+        "date": "2026-07-06",
+        "is_translated": false
+      },
+      {
+        "title": "【「Euro Truck Simulator 2」に長距離バスを導入する「Coaches」DLC...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Euro Truck Simulator 2」に新しい要素を追加する「Coaches」DLCのレビュー記事があります。この記事では、長距離バスを運転する新しい機能がゲームにどのような変化をもたらしたかを評価しています。主な評価ポイントとして、バス運転のリアルさや新しいルートの追加、そしてゲームの全体的なバランスが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168441.html",
+        "date": "2026-07-06",
+        "is_translated": false
+      },
+      {
+        "title": "【『崩壊：スターレイル』爻光とUGREENのコラボは「限定ギフトBOX」が超豪華！全6商品に使え...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "『崩壊：スターレイル』の爻光とUGREENのコラボレーションが話題です。このコラボレーションでは、限られた期間中にしか手に入らない「限定ギフトBOX」が提供されており、その内容は非常に豪華です。このレビュー記事では、限定ギフトBOXの中身やコラボレーションの特徴などを詳しく紹介しています。ゲームファンやコラボレーションアイテムを収集している人には必見の記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/07/06/184138.html",
+        "date": "2026-07-06",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-06T03:22:39.688616"
+  "last_updated": "2026-07-06T12:45:42.873687"
 }
