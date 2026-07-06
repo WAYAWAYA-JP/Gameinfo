@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Arc System Works: Evo Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Arc System Works: Evo Collectionというバンドルが現在販売中です。このバンドルには、主要タイトルとして『Guilty Gear XX Accent Core + R』や『BlazBlue: Central Fiction』、『River City Girls』などの人気ゲームが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/arcsystemworksevocollection_bundle",
-        "date": "2026-06-26"
-      },
-      {
         "title": "Upload VR Summer 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,66 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "The Binding of Isaac: Rebirth",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームの人気タイトル「The Binding of Isaac: Rebirth」が、現在90%オフのセール中です。このゲームは、ランダムに生成されるダンジョンを探索し、様々なアイテムを集めながら敵と戦い、最終ボスを倒すことを目標にします。高い再生性と独自のシステムが特徴で、プレイヤーは毎回違った体験を楽しむことができます。",
-        "price": "$1.49",
-        "originalPrice": "",
-        "discount": "-90%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-binding-of-isaac-rebirth/info/",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "StrayがVariousで61%オフのセール中です。Strayはアクションアドベンチャーゲームで、猫の視点から街を探索することができます。評価はとても高い人気タイトルで、多くのプレイヤーから好評を博しています。現在の価格はセールにより大幅に割引されており、ゲームファンにとってはお見逃しできない機会です。",
-        "price": "$11.67",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Devil May Cry 5 + Vergil",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームであるDevil May Cry 5 + Vergilが、Variousで87%割引されていて、セール中です。このゲームは、ダイナミックなアクションと壮大なストーリーが特徴で、ファンから高い評価を得ています。通常価格よりも大幅に安くなっているので、ゲームファンにとってはおすすめの購入機会です。",
-        "price": "$3.95",
-        "originalPrice": "",
-        "discount": "-87%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/devil-may-cry-5-and-vergil/info/",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "RollerCoaster Tycoon® 3: Complete Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "人気のテーマパーク経営シミュレーションゲームであるRollerCoaster Tycoon 3: Complete Editionが、現在100%割引されているため、完全無料でプレイできます。このゲームは、ユーザーが自由にテーマパークを設計し、管理することができ、ローラーコースターの作成やパークの運営など、多様な要素を楽しむことができます。高い評価と人気度を誇るこのゲームを、ぜひお試しください。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/rollercoaster-tycoon-3-complete-edition/info/",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Indiana Jones and the Great Circle",
-        "platform": "Various",
-        "type": "sale",
-        "description": "インディアナ・ジョーンズとグレート・サークルは、アクションアドベンチャーゲームです。現在、Variousで47%割引されています。このゲームは、インディアナ・ジョーンズシリーズのファンにはもちろん、快-pacedなアクションと壮大なストーリーが好きな人にもおすすめです。評価も高く、人気度は高いので、割引期間中に購入することをお勧めします。",
-        "price": "$36.95",
-        "originalPrice": "",
-        "discount": "-47%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/indiana-jones-and-the-great-circle/info/",
-        "date": "2026-06-29"
-      },
       {
         "title": "Lobotomy Corporation | Monster Management Simulation",
         "platform": "Steam",
@@ -571,149 +499,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【『アークナイツ：エンドフィールド』の高難度イベント「危機契約」で評価値54を突破したプレイヤー...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『アークナイツ：エンドフィールド』の高難度イベント「危機契約」で評価値54を突破したプレイヤーのレビュー記事では、ゲームの評価ポイントとして、難易度の高さや戦略的深みが評価されています。また、レビューの内容として、イベントの難しさやゲームシステムの面白さが介绍されており、対象読者としては、このゲームに興味を持つプレイヤーや、ゲームの評価に興味を持つ人が対象です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260701-452842/",
-        "date": "2026-07-01",
-        "is_translated": false
-      },
-      {
-        "title": "【悪霊掃除ホラーコメディ『100均除霊師』発表。調査無視の脳筋プレイも可、ただし悪霊ブチギレ】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ホラーゲームファン向けの新作『100均除霊師』のレビューです。このゲームは、悪霊を退治するコメディ要素が含まれており、プレイヤーは調査を怠ってでも先に進めることができますが、悪霊が怒り出すこともあります。このゲームの評価ポイントは、ユーモアのあるストーリー、自由度の高いゲームプレイ、そしてサスペンス溢れるホラーエレメントの組み合わせです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260701-452815/",
-        "date": "2026-07-01",
-        "is_translated": false
-      },
-      {
-        "title": "【美少女リズムゲーム『Muse Dash 2』Steamでもぬるっとお披露目。オンラインマルチプ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "美少女リズムゲーム『Muse Dash 2』のレビュー記事では、ゲームの評価ポイントとして、オンラインマルチプレイ機能の実装や、新しいキャラクターと楽曲の追加が紹介されています。また、レビューの内容概要として、ゲームの操作のしやすさや、可愛いキャラクターのデザインが高評価されていることも述べられています。このレビュー記事は、リズムゲームや美少女ゲームのファンであれば、十分に楽しめる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260701-452806/",
-        "date": "2026-07-01",
-        "is_translated": false
-      },
-      {
-        "title": "【「低労力のスロップ」: Slay the Spire 2 の背後にある Godot エンジンの...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「Slay the Spire 2」の背後にあるGodotエンジンについて紹介しています。評価ポイントとしては、ゲームエンジンの低労力なスロップの実現や、開発者の工夫が見られる点が挙げられます。記事では、Godotエンジンの特徴や、ゲーム開発への応用例についても触れています。対象読者は、ゲーム開発に興味のある人や、Godotエンジンを使用したい人向けです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/low-effort-slop-the-creators-of-the-godot-engine-behind-slay-the-spire-2-are-cracking-down-on-vibe-coding-and-now-require-genai-disclosures",
-        "date": "2026-07-01",
-        "is_translated": true
-      },
-      {
-        "title": "【「これを秘密にしておくのは拷問だった」: Against the Storm 2 が実現する可...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Against the Storm 2のレビュー記事では、このゲームの評価ポイントとして、ユニークなゲームシステムやグラフィックの向上を挙げています。また、レビューの内容概要として、ゲームの難易度やリプレイ性について触れています。ゲームファンや新しいゲームを探している人にとって、このレビュー記事は参考になるでしょう。記事では、ゲームの魅力や改善点について詳細に説明しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/keeping-this-under-wraps-has-been-torture-against-the-storm-2-could-happen-but-first-eremite-are-making-a-survival-game-set-in-the-city-builders-festering-world",
-        "date": "2026-07-01",
-        "is_translated": true
-      },
-      {
-        "title": "【リズム天国グルーヴレビュー：ヒット作にこだわる任天堂の奇抜な音楽ゲーム】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "リズム天国グルーヴは、任天堂の奇抜な音楽ゲームです。このゲームは、簡単な操作で楽しくリズムに乗ることができ、ユニークなゲーム性が特徴です。レビューのポイントとしては、楽曲の選曲が豊富で、ゲームの難易度が適切であること、そしてグラフィックやサウンドが高品質であることが挙げられます。このゲームは、音楽ゲームのファンや、リズムに強い興味を持つ人に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/rhythm-heaven-groove-review/",
-        "date": "2026-07-01",
-        "is_translated": true
-      },
-      {
-        "title": "【基本プレイ無料・戦車ヒーローシューター『World of Tanks: HEAT』シーズン1開...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本記事は、基本プレイ無料の戦車ヒーローシューター「World of Tanks: HEAT」のシーズン1のレビュー記事です。このゲームの評価ポイントとして、戦車のカスタマイズの自由度やマルチプレイヤーでの戦略の重要性が挙げられます。また、ゲームのグラフィックやサウンドデザインも高く評価されています。対象読者としては、戦車ゲームやアクションゲームのファンに勧められます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260701-452875/",
-        "date": "2026-07-01",
-        "is_translated": false
-      },
-      {
-        "title": "【Epic Gamesのボスが「Steamは手数料が高すぎて『原神』など基本プレイ無料ゲームを取...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Epic Gamesのボスは、Steamの手数料が高すぎて、基本プレイ無料ゲームの取り扱いを困難にしていると指摘しています。この記事では、Epic Gamesの見解と、Steamの手数料がゲーム開発や配信に与える影響について詳しく紹介しています。対象読者は、ゲーム開発者やゲームファンで、SteamやEpic Games Storeの利用経験がある人に役立つ情報です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260701-452862/",
-        "date": "2026-07-01",
-        "is_translated": false
-      },
-      {
-        "title": "【クエストの改善に焦点を当てる「ENDLESS Legend 2」の大型アップデート“Retol...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ENDLESS Legend 2の最新の大型アップデート「Retrolambda」は、クエストの改善に焦点を当てています。このアップデートでは、クエストのシステムが大幅に改良され、ユーザーの体験が向上しています。また、新しいクエストやキャラクターも追加されており、ゲームの内容が豊かになりました。このレビュー記事では、このアップデートの評価ポイントとして。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168362.html",
-        "date": "2026-07-01",
-        "is_translated": false
-      },
-      {
-        "title": "【オルクとスペースマリーンの対戦を紹介する「W40k: Dawn of War IV」の本格的な...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「W40k: Dawn of War IV」のレビュー記事では、オルクとスペースマリーンの対戦を紹介しながら、ゲームの評価ポイントを説明しています。ゲームのグラフィックやサウンド、ゲームプレイの面で高く評価されており、戦略性が高く、プレイヤーは戦略的にユニットを配置して戦う必要があります。対象読者は、ウォーハンマー40kシリーズのファンやリアルタイムストラテジーゲームを好む人向けで。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168361.html",
-        "date": "2026-07-01",
-        "is_translated": false
-      },
-      {
-        "title": "【プラグマタは初期の社内レビューでカプコンから期待外れと言われました】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "プラグマタは初期の社内レビューでカプコンから期待外れと言われたという記事のレビューを紹介します。ゲームの評価ポイントとして、ストーリーやゲームプレイの面白さ、グラフィックの質などが挙げられます。レビューの内容概要としては、ゲームの世界観やキャラクターの魅力、難易度のバランスなどが取り上げられています。これは、カプコンのファンやアクションゲーム好きの方々が読むのに適したレビューです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/pragmata-internal-capcom-reviews-called-the-game-disappointing/",
-        "date": "2026-07-01",
-        "is_translated": true
-      },
       {
         "title": "【PS5/PS4向け「PS Plusフリープレイ」7月で、人気FPS『Call of Duty:...】",
         "platform": "AUTOMATON",
@@ -1116,8 +901,73 @@
         "url": "https://www.polygon.com/goty-watch-gta-6-reviews-the-game-awards/",
         "date": "2026-07-05",
         "is_translated": true
+      },
+      {
+        "title": "【陰鬱な中世ファンタジー世界の関所を描くホラーシミュレーション「Dreadwoods Gatek...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "本記事は、陰鬱な中世ファンタジー世界を舞台にしたホラーシミュレーションゲーム「Dreadwoods Gate」についてのレビューです。このゲームは、プレイヤーに恐怖と不安を感じさせる雰囲気とグラフィックで知られています。評価ポイントとしては、ホラーゲームとしての完成度や世界観の深さ、ストーリーの面白さなどがあります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168437.html",
+        "date": "2026-07-06",
+        "is_translated": false
+      },
+      {
+        "title": "【第一次世界大戦シューター「Over The Top: WWI」に“アメリカ外征軍”を導入する新...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Over The Top: WWI」は第一次世界大戦を舞台にしたシューティングゲームで、アメリカ外征軍の導入が新たな要素となりました。このレビュー記事では、新しいキャラクターの能力やゲームプレイの変化、グラフィックの向上などについて評価しています。対象読者は、第一次世界大戦やシューティングゲームに興味のある方です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168436.html",
+        "date": "2026-07-06",
+        "is_translated": false
+      },
+      {
+        "title": "【2023年にアナウンスされた「Prodeus」の“The Elder Veil”DLCは現在も...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Prodeus」の「The Elder Veil」DLCのレビュー記事では、ゲームの評価ポイントとして、新しいストーリーやマップの追加が取り上げられています。また、ゲームのグラフィックやサウンドの向上も評価されており、ファンには必見のコンテンツとなっています。このレビューは、ゲーム好きや「Prodeus」のファンに特にオススメでき、最新のDLCの内容や評価を知りたい方には参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168438.html",
+        "date": "2026-07-06",
+        "is_translated": false
+      },
+      {
+        "title": "【発売から12年が経過した「The Binding of Isaac: Rebirth」のSte...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「The Binding of Isaac: Rebirth」のレビュー記事では、発売から12年が経過したこのゲームの評価ポイントを紹介しています。ゲームの評価ポイントとして、ロ Roguelike要素の高さやアイテムのバリエーション豊富さが挙げられています。また、ゲームの難易度や繰り返しプレイの魅力もレビューの内容に含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168439.html",
+        "date": "2026-07-05",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam 週間の振り返り: Steam に初の「ドーパミン サイト」が追加されたので、1 セ...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Steam 週間の振り返りというレビュー記事では、Steam に初めて「ドーパミン サイト」が追加されたことが紹介されています。この記事では、ゲームの評価ポイントとして新しいサイトの機能や利点について触れています。記事の内容概要としては、新しいサイトの特徴やゲームへの影響について説明しています。対象読者は Steam ユーザーやゲーム好きの方に向けて書かれており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-just-got-its-first-dopamine-site-so-you-can-fatten-a-fake-backlog-without-spending-a-cent/",
+        "date": "2026-07-06",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-05T22:01:34.726418"
+  "last_updated": "2026-07-06T03:22:39.688616"
 }
