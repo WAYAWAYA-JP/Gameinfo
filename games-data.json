@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/dungeondefendersiicompletedlcchest_bundle",
         "date": "2026-07-07"
+      },
+      {
+        "title": "July 2026 Humble Choice",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、2022年7月のHumble Choiceのバンドルが販売中です。このバンドルには、主要タイトルとして「Stray」、「F1 2021」、「Far Cry 6」などのゲームが含まれています。このバンドルはアクションゲームやアドベンチャーゲームを中心としたもので、価格帯はおよそ1,200円から1,500円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/july_2026_choice",
+        "date": "2026-07-07"
       }
     ],
     "sale": [
@@ -531,6 +543,18 @@
         "discount": "-49%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/indiana-jones-and-the-great-circle/info/",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アドベンチャーゲーム「Clair Obscur: Expedition 33」が現在、Variousで33%割引されています。このゲームは、ユーザーからの評価が高く、人気度も高いゲームです。もし興味がある場合は、この機会に試してみてください。",
+        "price": "$33.54",
+        "originalPrice": "",
+        "discount": "-33%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-07-07"
       }
     ],
@@ -1028,8 +1052,47 @@
         "url": "https://doope.jp/2026/07168503.html",
         "date": "2026-07-07",
         "is_translated": false
+      },
+      {
+        "title": "【元『ウィッチャー』開発者の新作『The Blood of Dawnwalker』は超自由なのに...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『The Blood of Dawnwalker』は、元『ウィッチャー』開発者によって作られた新作ゲームで、超自由なゲームプレイが特徴です。このゲームの評価ポイントとしては、自由度の高さ、ユニークなゲームシステム、そして豊富なストーリーが挙げられます。レビューの内容概要としては、ゲームの自由さが高く、プレイヤーが自分の好きなように進めることができる点が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/the-blood-of-dawnwalker-20260707-453686/",
+        "date": "2026-07-07",
+        "is_translated": false
+      },
+      {
+        "title": "【空の冒険はまだ終わらない！『グラブルリリンク ER』「マギラフリラ」など新実装6人の手応えや新...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "『グラブルリリンク ER』のレビュー記事では、新しく実装されたキャラクター「マギラフリラ」など6人の能力や新しい要素について評価しています。ゲームの評価ポイントとしては、新キャラクターの手応えや新しいストーリーの導入などがあります。レビューの内容概要としては、新キャラクターの能力やゲームの進化が紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/07/08/184193.html",
+        "date": "2026-07-07",
+        "is_translated": false
+      },
+      {
+        "title": "【バキ道 The Invincible Samurai パート 2 レビュー: シリーズで最も興...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "バキ道 The Invincible Samurai パート 2は、シリーズの中で最も興味深い作品の一つです。このレビュー記事では、ゲームの評価ポイントとして、ストーリーの深化やキャラクターの成長が際立っていることを挙げています。また、シリーズのファンには必見の作品であると言えるでしょう。対象読者は、バキ道シリーズを楽しみにしてきたファンや、新規にシリーズに興味を持つ読者です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/baki-invincible-samurai-musashi-reviewl/",
+        "date": "2026-07-07",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-07T14:50:36.115788"
+  "last_updated": "2026-07-07T22:11:14.218631"
 }
