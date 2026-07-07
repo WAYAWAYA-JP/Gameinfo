@@ -520,6 +520,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
         "date": "2026-07-07"
+      },
+      {
+        "title": "Indiana Jones and the Great Circle",
+        "platform": "Various",
+        "type": "sale",
+        "description": "インディアナジョーンズシリーズの新作「Indiana Jones and the Great Circle」がVariousで49%オフのセール中です。このアクションアドベンチャーゲームは、シリーズのファンから高評価を得ており、現在の価格はかなり魅力的です。人気シリーズの新作と言えば、ファンだけでなく、新規プレイヤーも注目しています。",
+        "price": "$35.69",
+        "originalPrice": "",
+        "discount": "-49%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/indiana-jones-and-the-great-circle/info/",
+        "date": "2026-07-07"
       }
     ],
     "review": [
@@ -1003,8 +1015,21 @@
         "url": "https://www.pcgamer.com/hardware/gaming-monitors/asus-rog-strix-xg129c-review/",
         "date": "2026-07-07",
         "is_translated": true
+      },
+      {
+        "title": "【生育環境の調整や動物のケアに焦点を当てる「Planet Zoo 2」の最新映像が公開、発売は1...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Planet Zoo 2」の最新映像が公開されました。このゲームは、動物のケアや生育環境の調整に焦点を当てています。レビュー記事では、ゲームのグラフィックやサウンドの評価ポイントが紹介されています。また、動物の種類や施設のカスタマイズについても触れています。動物愛好家やシミュレーションゲームファンにとって興味深い内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168503.html",
+        "date": "2026-07-07",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-07T11:48:46.397485"
+  "last_updated": "2026-07-07T14:50:36.115788"
 }
