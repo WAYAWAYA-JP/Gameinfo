@@ -52,42 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Upload VR Summer 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Upload VR Summer 2026バンドルが現在販売中です。このバンドルには、主要タイトルとして「Superhot VR」、「Job Simulator」、「Space Junkies」などの人気VRゲームが含まれています。ジャンルはアクション、シミュレーション、シューティングなど多様なジャンルが含まれており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/uploadvrsummer2026_bundle",
-        "date": "2026-06-27"
-      },
-      {
-        "title": "Dungeon Defenders II Complete DLC Chest",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Dungeon Defenders II Complete DLC Chestというバンドルが現在販売中です。このバンドルには、Dungeon Defenders IIを含む主要タイトルが2-3本収録されており、アクションとタワーディフェンスを融合させた独自のゲームプレイが楽しめます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/dungeondefendersiicompletedlcchest_bundle",
-        "date": "2026-06-27"
-      },
-      {
-        "title": "Massive Music 4 Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Massive Music 4 Bundleというバンドルが販売中です。このバンドルには、主要タイトルとして「Symphonic Orchestra」、「Epic Drums」、「Cinematic Sound Effects」などのゲーム音楽やサウンドトラックを作成するためのソフトウェアが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/massive-music4-bundle",
-        "date": "2026-06-27"
-      },
-      {
         "title": "June 2unes",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,54 +209,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Lobotomy Corporation | Monster Management Simulation",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Lobotomy Corporationは、Steamで66%OFFのセール中です。このゲームは、モンスターを管理するシミュレーションゲームで、プレイヤーは秘密の研究施設を運営し、さまざまなモンスターを収容・研究します。ストラテジーやタイムマネジメントが求められるこのゲームは、ユニークなゲームプレイとデザインで人気を博しています。",
-        "price": "¥873",
-        "originalPrice": "¥2,570",
-        "discount": "66% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/568220",
-        "date": "2026-06-30"
-      },
-      {
-        "title": "Library Of Ruina",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Library Of RuinaがSteamで66%の割引セール中です。このゲームは、戦略とアクションを組み合わせた独特なジャンルで人気を博しています。プレイヤーは、様々なキャラクターを操作してバトルに挑み、戦略的な思考が求められます。現在、Steamで大幅な割引が行われており、通常価格よりも格安にプレイすることができます。評価も高く、多くのプレイヤーから好評価を受けています。",
-        "price": "¥1,050",
-        "originalPrice": "¥3,090",
-        "discount": "66% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1256670",
-        "date": "2026-06-30"
-      },
-      {
-        "title": "Detroit: Become Human",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Detroit: Become HumanがVariousで大幅な90%のセール中です。このアドベンチャーゲームは、人工知能が人間と同等の知能を持った世界を舞台に、3人のアンドロイドの物語を描きます。高評価を得ている作品であり、ゲームのストーリーやグラフィックが特徴です。通常価格から大幅に割引されたこのセールは、ゲームファンにとってお得な機会です。",
-        "price": "$3.99",
-        "originalPrice": "",
-        "discount": "-90%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
-        "date": "2026-06-30"
-      },
-      {
-        "title": "Monster Hunter Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲーム「Monster Hunter Wilds」がVariousで64%割引のセール中です。このゲームは、モンスターを狩りながら冒険することが特徴で、グラフィックやゲーム性が高く評価されています。多くのプレイヤーから人気を博しており、セール期間中は通常価格より大幅に安く購入できます。",
-        "price": "$25.15",
-        "originalPrice": "",
-        "discount": "-64%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
-        "date": "2026-06-30"
-      },
       {
         "title": "No Man's Sky",
         "platform": "Various",
@@ -571,175 +487,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【PS5/PS4向け「PS Plusフリープレイ」7月で、人気FPS『Call of Duty:...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "PS5およびPS4向けの「PS Plusフリープレイ」で7月に提供される人気FPSゲーム「Call of Duty」シリーズについてのレビュー記事です。この記事では、ゲームの評価ポイントとしてグラフィックの高さや快適なゲームプレイ性、そして多様なマルチプレイヤーモードが紹介されています。また、シリーズのファンやFPSゲームが好きな人に特にオススメされる点も含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260702-452953/",
-        "date": "2026-07-02",
-        "is_translated": false
-      },
-      {
-        "title": "【新作MMORPG『AION2』先行プレイ感想。「僧帽筋」から「お腹のへこみ」までいじれる、高い...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "新作MMORPG『AION2』の先行プレイ感想を紹介するレビュー記事です。このゲームでは、「僧帽筋」から「お腹のへこみ」まで細かい部分も自由にカスタマイズできることが高評価ポイントの1つです。また、ゲームのグラフィックや操作感も高い評価を受けています。このレビュー記事は、MMORPGファンや新作ゲームに興味がある方に向けて、ゲームの魅力や遊び心を紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/aion2-20260701-452885/",
-        "date": "2026-07-02",
-        "is_translated": false
-      },
-      {
-        "title": "【プレイヤープログレッションやミニマップを導入する早期アクセス版「Wreckfest 2」の第8...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Wreckfest 2」の早期アクセス版の第8回アップデートのレビュー記事です。このゲームは、プレイヤーの進捗状況を管理するプログレッションシステムや、ミニマップを導入するなど、様々な新しい機能を追加しています。記事では、このアップデートの内容や、ゲームの評価ポイントなどが紹介されています。特に、レースゲームのファンや、破壊的なアクションゲームを楽しむ人に向けて。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168394.html",
-        "date": "2026-07-02",
-        "is_translated": false
-      },
-      {
-        "title": "【KraftonとUnknown Worldsが「Subnautica 2」の巨額ボーナスを巡る...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "KraftonとUnknown Worldsが「Subnautica 2」の巨額ボーナスを巡る話題を取り上げたレビュー記事は、ゲームのグラフィックやサウンドデザインの高さ、そして奥深いストーリーを評価しています。また、ゲームの自由度や探索要素も高く評価されています。このレビューは、オープンワールドゲームやSF作品のファンに特に役立つ内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168372.html",
-        "date": "2026-07-02",
-        "is_translated": false
-      },
-      {
-        "title": "【古書店経営ゲーム「Tiny Bookshop」のモバイル対応がアナウンス、リリースは7月9日：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "モバイル対応がアナウンスされリリース予定の「Tiny Bookshop」は、古書店を経営するゲームです。このゲームの評価ポイントとしては、ユニークなゲームシステムや、リラックスできる雰囲気があります。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの美しさ、そしてプレイヤーの選択が物語に与える影響について触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168387.html",
-        "date": "2026-07-02",
-        "is_translated": false
-      },
-      {
-        "title": "【スーパーマーケットを“片付ける”だけのゲーム『Supermarket Chaos』なぜか熱い人...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、プレイヤーがスーパーマーケットを「片付ける」だけのゲーム『Supermarket Chaos』について評価しています。評価ポイントとして、ゲームのシンプルさと面白さ、リピートプレイの価値があり、誰でも簡単に遊べることが挙げられています。レビューの内容概要としては、ゲームのユニークさと魅力、プレイヤーにとっての楽しさが強調されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260702-453064/",
-        "date": "2026-07-02",
-        "is_translated": false
-      },
-      {
-        "title": "【ローグライク・オートバトラー『Cats In The Shell』発表。パーツカスタマイズ戦闘...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ローグライク・オートバトラー『Cats In The Shell』のレビュー記事では、このゲームの評価ポイントとしてパーツカスタマイズ戦闘システムが取り上げられています。レビューの内容概要としては、戦闘システムの独自性やカスタマイズの自由度が高いことが評価されています。また、ゲームの進行がスムーズで、オートバトラーの要素がうまく融合していることも述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/cats-in-the-shell-20260702-453026/",
-        "date": "2026-07-02",
-        "is_translated": false
-      },
-      {
-        "title": "【デスクトップ猫アプリ『Pat the Cat』、可愛さ爆発で“好評率100％”スタート。画面い...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "デスクトップ猫アプリ『Pat the Cat』は、可愛さが爆発的に出ているため、好評率100％でスタートしました。このアプリの評価ポイントは、猫の可愛いデザインとユーザーの画面内の操作に対する反応です。レビューの内容概要としては、ユーザーが猫と触れ合うことの楽しさや、ストレス解消の効果が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/pat-the-cat-20260702-452990/",
-        "date": "2026-07-02",
-        "is_translated": false
-      },
-      {
-        "title": "【「Modern Warfare III」や「For the King II」を含む2026年7...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "2026年7月にリリースされるゲームのレビュー記事です。この記事では「Modern Warfare III」や「For the King II」を含む新作ゲームの評価ポイントを紹介します。記事ではゲームのグラフィックやゲームプレイの面白さ、ストーリーの深みなどを評価しています。ゲームファンや新作ゲームに興味がある人にとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168371.html",
-        "date": "2026-07-02",
-        "is_translated": false
-      },
-      {
-        "title": "【ポストアポカリプス世界で暮らす可愛い農業シム「Doloc Town」の製品版1.0リリースが8...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ポストアポカリプスを舞台に可愛らしいキャラクターが農業に励む「Doloc Town」の製品版1.0がリリースされました。このゲームは、ユーザーが荒廃した世界で新たな生活を始めるというコンセプトで、農業や建物の建設などの活動を通じてコミュニティを築いていくことができます。評価ポイントとしては、ゲームのグラフィックやサウンドトラックの品質が高く、プレイヤーに心地よい体験を提供しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168369.html",
-        "date": "2026-07-02",
-        "is_translated": false
-      },
-      {
-        "title": "【Flask はホムンクルスの自動戦闘と手描きの錬金術を組み合わせた恐ろしい作品で、Steam ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、Flask というゲームの評価ポイントを紹介しています。Flask はホムンクルスを自動戦闘させながら、手描きの錬金術を組み合わせたユニークな作品です。レビューでは、ゲームのグラフィックや戦闘システム、そしてストーリーの魅力について触れています。特に、手描きのグラフィックや、自動戦闘システムの面白さが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/flask-is-a-grim-brew-of-homunculus-autobattling-and-hand-drawn-alchemy-and-its-got-a-new-demo-on-steam",
-        "date": "2026-07-02",
-        "is_translated": true
-      },
-      {
-        "title": "【ホムンクルスを作り戦わせる錬金術デッキ構築ローグライクオートバトラー「FLASK」のデモがリリ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「FLASK」のデモは、ホムンクルスを作り戦わせる錬金術デッキ構築ローグライクオートバトラーです。このゲームは、独自のデッキ構築システムや戦略的なホムンクルス運用が評価ポイントです。レビューでは、ゲームの魅力的なグラフィックやサウンドトラック、そして奥深い戦略的なゲームプレイが高く評価されています。特に、ローグライクゲームやオートバトラーのファン向けのゲームとして推奨されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168374.html",
-        "date": "2026-07-02",
-        "is_translated": false
-      },
-      {
-        "title": "【ソウルを舞台にした MMO シューター Cinder City が、初期仕様に 64 GB の...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Cinder City は、ソウルを舞台にした MMO シューターで、初期仕様に 64 GB のstorageが必要です。このゲームは、グラフィックの美しさや、キャラクターの自由度が高く評価されています。また、ソウルの街中を自由に探索できることが特徴的です。対象読者は、MMO シューターが好きな人や、ソウルの文化に興味がある人です。このゲームは、初心者にも親しみやすい操作性で楽しめます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/seoul-set-mmo-shooter-cinder-city-halves-its-ram-requirements-after-initial-specs-listed-64gb-of-memory",
-        "date": "2026-07-02",
-        "is_translated": true
-      },
       {
         "title": "【高評価ビル清掃アクション×青春生活シム『スカイ・ザ・スクレーパー』PS5/Switch/Swi...】",
         "platform": "AUTOMATON",
@@ -1116,8 +863,47 @@
         "url": "https://www.polygon.com/steam-refund-policy-paddle-paddle-paddle-friendslop-reviews/",
         "date": "2026-07-06",
         "is_translated": true
+      },
+      {
+        "title": "【話題沸騰中のブサイク自由人生RPG『活俠傳』日本語Modに「ルビ」実装へ。難しい漢字多めの“武...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "話題沸騰中のブサイク自由人生RPG『活俠傳』の日本語Modに「ルビ」実装が予定されています。このゲームは難しい漢字が多く使われていることから、ルビの実装はプレイヤーの読みやすさを大幅に高めることが予想されます。レビューでは、このゲームの自由度の高さやユニークなゲームシステムが評価されています。また、漢字を勉強したい人や、独自のゲーム性を楽しみたい人にもおすすめできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260707-453543/",
+        "date": "2026-07-07",
+        "is_translated": false
+      },
+      {
+        "title": "【オンラインゲームの迷惑プレイヤーは「BANして終わり」では足りない可能性。被害と“向き合わせる...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "オンラインゲームにおける迷惑プレイヤーの対策について検討する記事です。この記事では、単に迷惑行為を行ったプレイヤーをBANするだけでは解決しない可能性があることを指摘しています。具体的には、被害を受けたプレイヤーへの補償や、迷惑行為を行った理由を探り、問題の根本的な解決策を模索する必要性を強調しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260707-453531/",
+        "date": "2026-07-07",
+        "is_translated": false
+      },
+      {
+        "title": "【日本の90年代アニメにインスパイアされたSwitch 2向けCo-opアドベンチャー「Orbi...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、日本の90年代アニメにインスパイアされたSwitch 2向けのCo-opアドベンチャーゲーム「Orbi...」の評価ポイントとレビューの内容概要を紹介しています。ゲームのグラフィックやサウンドトラック、そして協力プレイの面白さが評価される点として挙げられています。また、90年代アニメファンやCo-opアドベンチャーゲーム好きの方には特にオススメできる作品であると言えるでしょ…",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168490.html",
+        "date": "2026-07-06",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-06T22:13:58.278972"
+  "last_updated": "2026-07-07T02:55:48.299591"
 }
