@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/doom-the-dark-ages/info/",
         "date": "2026-07-08"
+      },
+      {
+        "title": "RESIDENT EVIL 2 (2019)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "RESIDENT EVIL 2は、2019年に発売されたサバイバルホラーゲームです。このゲームは、プレイヤーがゾンビが徘徊する世界で生存するために戦う必要があり、ホラー要素とアクションが特徴です。現在、Variousで83%オフのセール中で、非常に安くなっています。このゲームは、グラフィックやゲームプレイが高く評価されており、人気も高いです。",
+        "price": "$6.75",
+        "originalPrice": "",
+        "discount": "-83%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-2-2019/info/",
+        "date": "2026-07-08"
       }
     ],
     "review": [
@@ -1193,8 +1205,47 @@
         "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-review-roundup/",
         "date": "2026-07-08",
         "is_translated": true
+      },
+      {
+        "title": "【ネクロンとアデプトゥス・メカニカスの対戦を紹介する「W40k: Dawn of War IV」...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「W40k: Dawn of War IV」のレビュー記事では、ネクロンとアデプトゥス・メカニカスの対戦を紹介しています。このゲームの評価ポイントとしては、グラフィックの質の高さ、戦略的なゲームプレイ、ストーリーの深みが挙げられます。レビューでは、ゲームのシステムや操作のしやすさも評価されています。ウォーハンマー40kシリーズのファンや、ストラテジーゲームを楽しむ人に向けたレビューです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168471.html",
+        "date": "2026-07-08",
+        "is_translated": false
+      },
+      {
+        "title": "【Game Pass入りを含む「Buckshot Roulette」のXBOX版が本日発売、ロー...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "XBOX版の「Buckshot Roulette」が発売され、ゲームレビュー記事ではこのゲームの評価ポイントとして、ゲームプレイのスピード感やアクション要素が高く、面白さを感じることができる点が挙げられています。また、ゲームの難易度が適切で、プレイヤーが挑戦意欲を感じることができる点も評価されています。このレビューは、XBOXユーザーやアクションゲームファンに興味がある方におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168527.html",
+        "date": "2026-07-08",
+        "is_translated": false
+      },
+      {
+        "title": "【Assassin's Creed Black Flag Resynced は、適切な設定を使用...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Assassin's Creed Black Flag Resynced は、適切な設定を使用した場合に高い評価を受けています。このゲームの評価ポイントとしては、スムーズなゲームプレイ、グラフィックの向上、魅力的なストーリーが挙げられます。レビューの内容概要としては、ゲームの操作性の向上、キャラクターの深み、オープンワールドの自由度が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynced-steam-deck-and-steam-machine-performance-and-settings",
+        "date": "2026-07-08",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-08T14:28:44.480824"
+  "last_updated": "2026-07-08T22:05:18.402077"
 }
