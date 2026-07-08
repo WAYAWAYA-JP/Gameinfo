@@ -246,30 +246,6 @@
     ],
     "sale": [
       {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "No Man's Skyは、オープンワールドのサンドボックスゲームで、宇宙を自由に探索できる特徴があります。現在、69%の割引で提供されており、非常に魅力的な価格帯です。このゲームは、グラフィックやサウンドトラックにも評価が高いことで知られており、多くのユーザーから高い評価を得ています。また、ゲームの内容も豊富で、プレイヤーはさまざまな惑星を訪れて資源を収集したり。",
-        "price": "$18.89",
-        "originalPrice": "",
-        "discount": "-69%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "The Invincible",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Invincibleはサイエンスフィクションをテーマにしたアドベンチャーゲームで、現在Variousで90%割引のセール中です。このゲームは、ユニークなグラフィックと深いストーリーが特徴で、プレイヤーは未知の惑星を探索しながら謎を解き明かすことができます。高い評価と人気度を誇るこのゲームは、ファンから高い評価を受けており、幅広い年齢層のプレイヤーに楽しめます。",
-        "price": "$2.99",
-        "originalPrice": "",
-        "discount": "-90%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-invincible/info/",
-        "date": "2026-07-01"
-      },
-      {
         "title": "007 First Light",
         "platform": "Various",
         "type": "sale",
@@ -556,126 +532,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-07-07"
+      },
+      {
+        "title": "Kingdom Come: Deliverance II",
+        "platform": "Various",
+        "type": "sale",
+        "description": "キングダムカム・デリバランスIIがバラエティストアで65%オフのセール中です。このゲームはオープンワールドアクションRPGであり、中世のボヘミアを舞台に物語が展開します。リアルなグラフィックと自由度の高いゲームプレイが特徴です。セール期間中は65%割引で購入可能で、非常に魅力的です。キングダムカム・デリバランスシリーズは、ストーリーとゲーム性の高さで人気を博しており。",
+        "price": "$21.00",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
+        "date": "2026-07-08"
       }
     ],
     "review": [
-      {
-        "title": "【高評価ビル清掃アクション×青春生活シム『スカイ・ザ・スクレーパー』PS5/Switch/Swi...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "スカイ・ザ・スクレーパーは、ビル清掃アクションと青春生活シムが融合したユニークなゲームです。このゲームは、プレイヤーがビルからゴミを掃除する清掃アクションと、キャラクターの日常生活を描くシミュレーションが特徴です。評価ポイントとしては、独自のゲームシステム、キャラクターの成長要素、ストーリーの感動度があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/sky-the-scraper-20260703-453123/",
-        "date": "2026-07-03",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料MMORPG『メイプルストーリー』大型アプデ「CROWN」配信開始。育成爆速・既...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『メイプルストーリー』の大型アプデ「CROWN」についてのレビュー記事です。このゲームは基本プレイ無料のMMORPGで、キャラクターの育成が爆速になるなどの特徴があります。ゲームの評価ポイントとしては、キャラクターの育成が簡単になり、ゲームの世界がより豊かになった点が際立っています。また、既存のユーザーだけでなく、新規のユーザーにもお勧めできる点も評価ポイントとして挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/maplestory-20260703-453105/",
-        "date": "2026-07-03",
-        "is_translated": false
-      },
-      {
-        "title": "【『リズム天国 ミラクルスターズ』の「ドラムレッスン」に猛者たち殺到、異様な熱気。“リズムのプロ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "リズム天国シリーズの最新作『リズム天国 ミラクルスターズ』のレビュー記事では、ゲームの評価ポイントとしてドラムレッスンの難易度の高さやリズムゲームの面白さを挙げています。記事では、ドラムレッスンに挑戦するプレイヤーが多く、リズムゲームの醍醐味を楽しめることが評価されています。このレビューは、リズム天国シリーズのファンやリズムゲームに興味がある人にとって参考になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/rhythm-heaven-groove-20260703-453104/",
-        "date": "2026-07-03",
-        "is_translated": false
-      },
-      {
-        "title": "【「The Alters」の新DLC“Last Variable”のゲームプレイトレーラーが公開...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「The Alters」の新DLC「Last Variable」のゲームプレイトレーラーが公開されたレビュー記事では、ゲームの評価ポイントとして、ストーリーの深化や新要素の追加が高く評価されています。また、レビューの内容概要として、トレーラーでの新キャラクターの登場やゲームシステムの変更点が紹介されており、ゲームファンやシリーズの愛好家にとっては必見の記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168420.html",
-        "date": "2026-07-03",
-        "is_translated": false
-      },
-      {
-        "title": "【「Rust」に賃貸アパートや経営可能な貸店舗を導入する大型アップデートが配信：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Rust」に賃貸アパートや経営可能な貸店舗を導入する大型アップデートが配信されたことを紹介するレビュー記事です。この記事では、新しいアップデートの評価ポイントとして、賃貸アパートの追加や貸店舗の経営が可能になった点などを取り上げています。さらに、ゲームの新しい要素がプレイヤーに与える影響や、ゲーム全体のバランスへの影響についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168379.html",
-        "date": "2026-07-03",
-        "is_translated": false
-      },
-      {
-        "title": "【Fall Guysのオリジナルクリエイターたちが手がけるドタバタCo-opカエルゲーム「Fro...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Fall Guysのオリジナルクリエイターが手がける新作ゲーム「Frog」についてのレビュー記事です。このゲームはドタバタコープカエルゲームで、プレイヤーはカエルを操作して様々な課題をクリアします。レビューでは、ゲームのユーモアのあるグラフィックや面白いゲームプレイ、そして協力プレイの要素が高く評価されています。特に、家族や友人と一緒に楽しめるコンテンツとしておすすめされています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168415.html",
-        "date": "2026-07-03",
-        "is_translated": false
-      },
-      {
-        "title": "【シリーズ一挙復刻『がんばれゴエモン大集合！』では、Nintendo Switch版以外で“おば...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ニンテンドーゲームキューブで発売された「がんばれゴエモン～東海道中 大江戸天狗り返しの巻～」のレビューでは、シリーズファンにはお勧めできる作品であると評価されています。本作は、シリーズのキャラクターが総登場する点や、ステージのバリエーションが豊富な点が評価されています。また、シリーズに親しみのある人向けの内容になっているため、新規参入者にはお勧めしづらい点もあります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260703-453227/",
-        "date": "2026-07-03",
-        "is_translated": false
-      },
-      {
-        "title": "【Relic が新しい Company of Heroes RTS を発表、世界大戦全体を戦う時...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Relic が新しい Company of Heroes RTS を発表したというレビュー記事です。この記事では、新しい Company of Heroes の評価ポイントとして、グラフィックの向上やゲームプレイの改善などが取り上げられています。また、第二次世界大戦を舞台にしたこのゲームでは、戦略的な戦闘やリソース管理が重要な要素です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/relic-announce-a-new-company-of-heroes-rts-a-wave-defence-roguelite-for-strategy-buffs-who-dont-have-time-to-fight-a-whole-world-war",
-        "date": "2026-07-03",
-        "is_translated": true
-      },
-      {
-        "title": "【「不評じゃないけど」と言い張る不評レビューに、開発者が悲痛な叫び。“好きだけど不評”の見過ごせ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、開発者がプレイヤーから不評なレビューを受けた際の悲痛な叫びを取り上げています。不評なレビューですが、開発者はプレイヤーがゲームを「好きだけど不評」という理由で低評価をしていることに気付き、開発者自身もその点を認めています。ゲームの評価ポイントとしては、レビューの内容が開発者の意図と異なる点や、プレイヤーの意見が開発に影響を与える点などが含まれます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260703-453249/",
-        "date": "2026-07-03",
-        "is_translated": false
-      },
       {
         "title": "【ホラーゲームの明るさ設定、「そのまま遊ぶor思いっきり明るくする」議論勃発。恐怖と遊びやすさとの葛藤：レビュー】",
         "platform": "AUTOMATON",
@@ -1091,8 +962,47 @@
         "url": "https://www.polygon.com/baki-invincible-samurai-musashi-reviewl/",
         "date": "2026-07-07",
         "is_translated": true
+      },
+      {
+        "title": "【『めっちゃカメレオン』の自動ペイントチーターを追い詰める、“チーター晒し上げ矢印”が流行る。不...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『めっちゃカメレオン』の自動ペイントチーターを追い詰める「チーター晒し上げ矢印」が流行っています。不満気なレビュー記事では、このゲームの面白さやユーザビリティ、グラフィックの評価ポイントが紹介されています。ゲームの魅力や遊び方について気になる点を知りたい方や、ゲームのレビュー記事を読み込みたい方にはお勧めです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260708-453827/",
+        "date": "2026-07-08",
+        "is_translated": false
+      },
+      {
+        "title": "【『マインクラフト』新スナップショットで「クッション」登場、ついに“座れる”ように。野宿に便利な...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "マインクラフトの最新スナップショットでは、待望の「クッション」が登場し、プレイヤーはついに座ることができるようになりました。これにより、野宿の際にプレイヤーはよりリアルな体験を楽しむことができ、ゲームの雰囲気も一層豊かになりました。このレビュー記事は、マインクラフトを愛するファンや、新しいゲーム機能に興味がある読者に向けて、ゲームの新機能や魅力について紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260708-453796/",
+        "date": "2026-07-07",
+        "is_translated": false
+      },
+      {
+        "title": "【映画“ハロウィン”シリーズをビデオゲーム化する「Halloween: The Game」の“O...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Halloween: The Game」のレビュー記事では、映画「ハロウィン」シリーズをビデオゲーム化したこの作品の評価ポイントを紹介しています。ゲームの評価ポイントとしては、映画の雰囲気を再現したグラフィックや、サウンドトラックの効果が高いと評価されています。また、ゲームのレビューの内容概要としては、ストーリーが映画シリーズとよく連携していることや、ゲームの操作性が良く。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168517.html",
+        "date": "2026-07-08",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-07T22:11:14.218631"
+  "last_updated": "2026-07-08T02:32:48.388819"
 }
