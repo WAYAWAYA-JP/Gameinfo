@@ -568,6 +568,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
         "date": "2026-07-08"
+      },
+      {
+        "title": "DOOM: The Dark Ages",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DOOM: The Dark AgesがVariousで72％割引されています。このゲームはアクションパックされたファーストパーソン・シューティングゲームで、-darkな雰囲気と激しい戦闘が特徴です。現在の大幅な割引により、通常価格よりも大幅に安価に購入できます。ファンからの評価も高く、人気度も高いので、ゲームファンにはお勧めのタイトルです。",
+        "price": "$19.87",
+        "originalPrice": "",
+        "discount": "-72%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/doom-the-dark-ages/info/",
+        "date": "2026-07-08"
       }
     ],
     "review": [
@@ -1129,8 +1141,60 @@
         "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-review/",
         "date": "2026-07-08",
         "is_translated": true
+      },
+      {
+        "title": "【LiberNovo Omni Pro レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "LiberNovo Omni Pro レビュー記事では、ゲームの評価ポイントとして、グラフィックのクオリティやゲームプレイの深み、ストーリーの引き付け方などが取り上げられています。また、レビューの内容概要として、ゲームの操作性やサウンドトラックの魅力、そして総合的な遊び応えについても触れています。このレビュー記事は、ゲームファンや新作ゲームを探している人に特に役立つ内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-chairs/libernovo-omni-pro-review/",
+        "date": "2026-07-08",
+        "is_translated": true
+      },
+      {
+        "title": "【Geekom A9 Max AI AMD ミニ PC レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Geekom A9 Max AI AMD ミニ PC レビュー記事では、ミニ PC の性能やデザイン、価格帯などを評価しています。具体的には、高速な処理能力や多機能なポートを備えている点が高く評価されています。また、ゲームやビデオ編集などの用途で効果を発揮する点も強みとして挙げられています。このレビュー記事は、ミニ PC に興味のあるユーザーや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-pcs/geekom-a9-max-ai-amd-mini-pc-review/",
+        "date": "2026-07-08",
+        "is_translated": true
+      },
+      {
+        "title": "【ブリガンダイン アビス プレビュー: カルト的人気のシリーズがファイアーエムブレム風味で帰ってくる】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "本レビューでは、カルト的人気を誇るシリーズ「ブリガンダイン アビス」がファイアーエムブレムのような新たなタイトルで帰ってくることを紹介しています。ゲームの評価ポイントとして、戦略性の高い戦闘システムや、多彩なキャラクターの育成が挙げられます。また、ストーリーにもこだわりが見られ、シリーズのファンにはもちろん、新規プレイヤーにもお勧めできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/brigandine-abyss-preview/",
+        "date": "2026-07-08",
+        "is_translated": true
+      },
+      {
+        "title": "【『アサシン クリード ブラック フラッグ リシンクド』レビューまとめ：リメイク疲れが始まった】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "アサシン クリード ブラック フラッグ リシンクドのレビュー記事では、シリーズのリメイク疲れが始まっていることを指摘しています。評価ポイントとしては、グラフィックの向上や新しい要素の追加が見られますが、ストーリーやゲームプレイの面で新鮮味に欠ける点が挙げられます。対象読者としては、アサシン クリード シリーズのファンやオープンワールドゲームを楽しむ人向けです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-review-roundup/",
+        "date": "2026-07-08",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-08T11:03:25.162359"
+  "last_updated": "2026-07-08T14:28:44.480824"
 }
