@@ -556,6 +556,30 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/2161700",
         "date": "2026-07-09"
+      },
+      {
+        "title": "ドラゴンボール ゼノバース2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでは、人気アクションゲーム「ドラゴンボール ゼノバース2」が現在75%オフのセール中です。このゲームは、ドラゴンボールシリーズのキャラクターが登場するファイティングゲームで、ストーリーモードや対戦モードなどが楽しめます。セール期間中は、通常価格より大幅に安い価格で購入できます。ドラゴンボールシリーズのファンやアクションゲーム好きにはおすすめのタイトルで。",
+        "price": "¥742",
+        "originalPrice": "¥2,970",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/454650",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "God of War Ragnarök",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「God of War Ragnarök」が、現在41%割引で販売中です。このゲームは、人気ゲームシリーズ「God of War」の最新作であり、激しい戦闘シーンや美しいグラフィックスが特徴です。高い評価を受けており、多くのゲームファンが注目を集めています。価格も割引により大幅に下がっていますので、おすすめのゲームです。",
+        "price": "$35.44",
+        "originalPrice": "",
+        "discount": "-41%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
+        "date": "2026-07-09"
       }
     ],
     "review": [
@@ -1159,5 +1183,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-09T15:23:11.738230"
+  "last_updated": "2026-07-09T22:22:17.426449"
 }
