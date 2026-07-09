@@ -24,6 +24,30 @@
         "deadline": "2026年07月09日まで",
         "url": "https://store.epicgames.com/ja/p/0937dc8ff7874fb8897a678d8a27c9ac",
         "date": "2026-07-09"
+      },
+      {
+        "title": "Nova Lands",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Nova Landsはオープンワールドゲームで、工場建設、探検、島を行うことができます。惑星を探索したり、便利なボットで産業を自動管理したりすることができ、交渉や戦闘を通じてクエストを進めて行きます。このゲームの特徴として、自由に惑星を探索できること、ボットを活用して効率的に産業を管理できること、そして交渉や戦闘を通じてストーリーを進められることがあります。",
+        "price": "無料",
+        "originalPrice": "¥23",
+        "discount": "100% OFF",
+        "deadline": "2026年07月16日まで",
+        "url": "https://store.epicgames.com/ja/p/acb83bd813054e599598de9e76f6d95d",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "Tattoo Tycoon",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "このゲームでは、プレイヤーがタトゥーアーティストとなり、自分だけのタトゥースタジオを経営します。変わった好みの客に完璧なデザインを提案したり、フワっとした注文からボディアートの素晴らしさを考えながら、ささやかな個人スタジオからタトゥガ・ベイの様々な地域に系列店を展開するような大成功を目指すことができます。",
+        "price": "無料",
+        "originalPrice": "¥34",
+        "discount": "100% OFF",
+        "deadline": "2026年07月16日まで",
+        "url": "https://store.epicgames.com/ja/p/tattoo-tycoon",
+        "date": "2026-07-09"
       }
     ],
     "bundle": [
@@ -1135,5 +1159,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-09T12:01:26.933957"
+  "last_updated": "2026-07-09T15:23:11.738230"
 }
