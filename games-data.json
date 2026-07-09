@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "熱血硬派くにおくん外伝 リバーシティガールズ2",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "熱血硬派くにおくん外伝 リバーシティガールズ2は、ベルトスクロールアクションゲームです。このゲームの特徴は、複数のキャラクターから選択できることや、激しいアクションシーンが楽しめること、そしてコミカルなストーリーが展開されることです。このゲームは、Epic Gamesプラットフォームで無料配布中であり、ファンやアクションゲーム好きの方に人気があります。",
+        "price": "無料",
+        "originalPrice": "¥38",
+        "discount": "100% OFF",
+        "deadline": "2026年07月09日まで",
+        "url": "https://store.epicgames.com/ja/p/f6229ed5b32d4e098b930103b6470b49",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "I Have No Mouth, and I Must Scream",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Epic Gamesでは、SFホラーゲーム「I Have No Mouth, and I Must Scream」が無料で配布中です。このゲームは、人工知能をテーマにしたストーリーや、独自のグラフィック、そしてユニークなゲームプレイが特徴です。また、プレイヤーはさまざまなキャラクターを操作して、物語を進めていくことができます。",
+        "price": "無料",
+        "originalPrice": "¥9",
+        "discount": "100% OFF",
+        "deadline": "2026年07月09日まで",
+        "url": "https://store.epicgames.com/ja/p/0937dc8ff7874fb8897a678d8a27c9ac",
+        "date": "2026-07-09"
+      }
+    ],
     "bundle": [
       {
         "title": "The Complete Inkle Library",
@@ -181,6 +206,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/july_2026_choice",
         "date": "2026-07-07"
+      },
+      {
+        "title": "June 2unes",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、June 2unesのバンドルが現在販売中です。このバンドルには、主要タイトルとして「Ori and the Blind Forest」、「Cuphead」、「Hyper Light Drifter」などのゲームが含まれています。ジャンルはアクションアドベンチャーやシューティングゲームを中心に構成されており、大まかな価格帯は15ドルから25ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/june2unes_bundle",
+        "date": "2026-07-09"
       }
     ],
     "sale": [
@@ -459,6 +496,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-2-2019/info/",
         "date": "2026-07-08"
+      },
+      {
+        "title": "サイバーパンク2077",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サイバーパンク2077がSteamで70% OFFセール中です。このゲームはオープンワールドRPGのジャンルに属し、未来的な世界を舞台にしたサイバーパンクをテーマにしています。オリジナル価格から70%割引されるので、お得にプレイすることができます。サイバーパンク2077は、グラフィックやストーリー、ゲームプレイ性などが高く評価されており、人気のゲームとして知られています。",
+        "price": "¥2,633",
+        "originalPrice": "¥8,778",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1091500",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Sekiro: Shadows Die Twice - GOTY EditionがSteamで50% OFFのセール中です。このゲームは、アクションアドベンチャー系のジャンルで、難易度の高い挑戦的なゲームプレイが特徴です。現在、50%の割引で購入することができ、ファンからは非常に高い評価を受けています。",
+        "price": "¥4,180",
+        "originalPrice": "¥8,360",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/814380",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "ペルソナ３ リロード",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ３ リロードがSteamで65% OFFのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、深いストーリーと魅力的なキャラクターで知られています。現在の価格は大幅に割引されており、ファンにとっては絶好のチャンスです。ペルソナシリーズは、ゲームファンから非常に高い評価と人気度を誇っており、ペルソナ３ リロードも高い評価を受けています。",
+        "price": "¥2,687",
+        "originalPrice": "¥7,678",
+        "discount": "65% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2161700",
+        "date": "2026-07-09"
       }
     ],
     "review": [
@@ -1033,8 +1106,34 @@
         "url": "https://www.inside-games.jp/article/2026/07/09/184260.html",
         "date": "2026-07-09",
         "is_translated": false
+      },
+      {
+        "title": "【ゲーム大会配信の「実況」と「解説」、実は“追ってる情報”から全然違う。『シージ』公式実況キャス...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム大会配信の「実況」と「解説」について取り上げています。ゲーム大会配信では、実況者や解説者がプレイヤーの戦術や技術を解説し、観客を盛り上げますが、その際に提示される情報は、プレイヤーが通常ゲームをプレイする際に参考にする情報とは異なるとされています。この記事では、特に『シージ』公式実況キャスターの解説が如何にゲームの本質を捉えているかを取り上げ。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/columnjp/20260709-454192/",
+        "date": "2026-07-09",
+        "is_translated": false
+      },
+      {
+        "title": "【Bungieが「Destiny 2」の全プレイヤー向けに新エンブレムを配布、今後のサポートに関...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Bungieが「Destiny 2」の全プレイヤー向けに新エンブレムを配布することを発表しましたので、そのお知らせと今後のサポートに関する情報を確認することができます。記事の評価ポイントとして、配布されるエンブレムのデザインや今後のゲーム展開に関する期待感が含まれています。ゲームファンや「Destiny 2」のプレイヤーにとって、最新情報を知る機会を提供するレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168539.html",
+        "date": "2026-07-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-09T02:50:21.949807"
+  "last_updated": "2026-07-09T12:01:26.933957"
 }
