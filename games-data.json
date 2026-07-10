@@ -544,6 +544,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/703080",
         "date": "2026-07-10"
+      },
+      {
+        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "platform": "Various",
+        "type": "sale",
+        "description": "S.T.A.L.K.E.R. 2: Heart of Chornobylは、オープンワールドとFPSの要素を組み合わせたサバイバルホラーゲームであり、ウクライナのチェルノブイリ原子力発電所を舞台にしているので、リアルなグラフィックと緊張感のあるゲームプレイが特徴です。このゲームは現在、40%割引で販売されており、非常に魅力的です。また、ゲームの評価は高く、人気度も高いので、おすすみです。",
+        "price": "$36.20",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
+        "date": "2026-07-10"
       }
     ],
     "review": [
@@ -1183,8 +1195,21 @@
         "url": "https://www.pcgamer.com/hardware/gaming-monitors/ktc-25m1-review/",
         "date": "2026-07-10",
         "is_translated": true
+      },
+      {
+        "title": "【アサシン クリード ブラック フラッグ リシンクドの標準版は「完全な体験である」とユービーアイ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "ユービーアイソフトのアサシンクリードシリーズの最新作「アサシン クリード ブラック フラッグ リシンクド」の標準版についてのレビュー記事があります。このゲームは完全な体験であると評価されています。レビューのポイントとして、ゲームのグラフィックやサウンドデザインが高く評価されており、シリーズファンにはもちろん、新しいプレイヤーにもお勧めできる作品となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynceds-standard-edition-is-is-the-full-complete-experience-ubisoft-insist-in-response-to-steam-dlc-furore",
+        "date": "2026-07-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-10T11:50:45.061680"
+  "last_updated": "2026-07-10T14:41:01.974695"
 }
