@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "The Complete Inkle Library",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、「The Complete Inkle Library」というバンドルが現在販売中です。このバンドルには、「80 Days」、「Heaven's Vault」、「Sorcery!」などの主要タイトルが含まれています。インクル社のゲームを集めたこのバンドルは、テキストアドベンチャーやストーリー重視のゲームファンには特に魅力的です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/completeinklelibrary_bundle",
-        "date": "2026-06-30"
-      },
-      {
         "title": "HHMassive Music 4 Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -245,66 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "空の軌跡 the 1st",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "空の軌跡 the 1stがSteamで50% OFFセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、ストーリーとキャラクターが特徴的です。現在、通常価格の半額で購入することができます。高い評価と人気を誇るこのゲームは、ファンタジーとアドベンチャーを求めるユーザーに最適です。",
-        "price": "¥4,400",
-        "originalPrice": "¥8,800",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3375780",
-        "date": "2026-07-03"
-      },
-      {
-        "title": "A Simple Garbage Sorting Game",
-        "platform": "Various",
-        "type": "sale",
-        "description": "A Simple Garbage Sorting GameがVariousで-100%のセール中です。このゲームは、ごみの分別をテーマにしたユニークなゲームで、プレイヤーはさまざまなごみを適切なカテゴリに分ける必要があります。現在、完全に無料でプレイできます。簡単ながらも面白く、環境保護について考えるきっかけとなるゲームです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/a-simple-garbage-sorting-game/info/",
-        "date": "2026-07-03"
-      },
-      {
-        "title": "Resident Evil Requiem",
-        "platform": "Various",
-        "type": "sale",
-        "description": "バイオハザードシリーズの最新作『Resident Evil Requiem』がVariousで32％オフのセール中です。このアクションアドベンチャーゲームは、人気シリーズの最新作であり、サバイバルホラーの要素を満たした魅力的なゲームです。現在、セール価格で購入することができ、多くのユーザーから高評価を獲得しています。",
-        "price": "$47.90",
-        "originalPrice": "",
-        "discount": "-32%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
-        "date": "2026-07-03"
-      },
-      {
-        "title": "PRAGMATA",
-        "platform": "Various",
-        "type": "sale",
-        "description": "PRAGMATAは、Variousで現在-18%のセール中です。このゲームは、ユニークなストーリーやグラフィックで知られており、多くのユーザーから高い評価を得ています。セール期間中は通常価格よりも安く購入できます。",
-        "price": "$49.17",
-        "originalPrice": "",
-        "discount": "-18%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/pragmata/info/",
-        "date": "2026-07-03"
-      },
-      {
-        "title": "Ready Or Not",
-        "platform": "Various",
-        "type": "sale",
-        "description": "タクティカルファーストパーソンシューティングゲームであるReady Or Notが、現在 Various で 57 パーセント オフ のセール中です。このゲームは、戦略的思考とチームワークを重視した、リアルなシューティング体験を提供します。高い評価と人気を誇るこのゲームは、ファンから高い評価を受けており、セール期間中はお勧めの購入対象です。",
-        "price": "$21.55",
-        "originalPrice": "",
-        "discount": "-57%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ready-or-not/info/",
-        "date": "2026-07-03"
-      },
       {
         "title": "Cyberpunk 2077",
         "platform": "Various",
@@ -580,35 +508,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
         "date": "2026-07-09"
+      },
+      {
+        "title": "The Last of Us™ Part I",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Last of Us Part Iがバラエティストアで16％オフのセール中です。このアクションアドベンチャーゲームは、感動的なストーリーと高品質のグラフィックで人気を博しており、レビューでも非常に高く評価されています。通常価格よりも安く入手できるこの機会を逃さないでください。",
+        "price": "$49.54",
+        "originalPrice": "",
+        "discount": "-16%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-last-of-us-part-i/info/",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "God of War",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの「God of War」がVariousで15%オフのセール中です。このゲームは、激しい戦闘や壮大なストーリーで知られており、非常に人気があり、高い評価を受けています。セール価格で購入することで、大幅な割引を受けることができますので、おすすみです。",
+        "price": "$42.49",
+        "originalPrice": "",
+        "discount": "-15%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/god-of-war/info/",
+        "date": "2026-07-10"
       }
     ],
     "review": [
-      {
-        "title": "【『リズム天国 ミラクルスターズ』でリズムまみれの日々。『ぽこ あ ポケモン』のサントラください...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『リズム天国 ミラクルスターズ』のレビュー記事では、ゲームの評価ポイントとしてリズムアクションの面白さや楽曲の魅力を挙げています。また、記事では『ぽこ あ ポケモン』のサウンドトラックの魅力も触れており、音楽が好きな人やリズムゲームのファンにとって是非読んでみるべき記事です。記事全体で作者の熱意が伝わってくるので、音楽ゲームが好きな読者には特に楽しめる内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260705-453363/",
-        "date": "2026-07-05",
-        "is_translated": false
-      },
-      {
-        "title": "【「GTA 6」のレビュー計画により、The Game AwardsでGOTYレースが大混乱に陥...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "The Game AwardsでのGOTYレースが大混乱に陥る「GTA 6」のレビュー計画について紹介しています。この記事では、評価ポイントとしてゲームのストーリーやグラフィックの質、そしてプレイヤーの自由度が高く評価されている点を取り上げています。また、レビューの内容概要として、ゲームの世界観やキャラクターの深み、そしてミッションの多様性が述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/goty-watch-gta-6-reviews-the-game-awards/",
-        "date": "2026-07-05",
-        "is_translated": true
-      },
       {
         "title": "【陰鬱な中世ファンタジー世界の関所を描くホラーシミュレーション「Dreadwoods Gatek...：レビュー】",
         "platform": "doope!",
@@ -646,19 +572,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/07168438.html",
         "date": "2026-07-06",
-        "is_translated": false
-      },
-      {
-        "title": "【発売から12年が経過した「The Binding of Isaac: Rebirth」のSte...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「The Binding of Isaac: Rebirth」のレビュー記事では、発売から12年が経過したこのゲームの評価ポイントを紹介しています。ゲームの評価ポイントとして、ロ Roguelike要素の高さやアイテムのバリエーション豊富さが挙げられています。また、ゲームの難易度や繰り返しプレイの魅力もレビューの内容に含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168439.html",
-        "date": "2026-07-05",
         "is_translated": false
       },
       {
@@ -1180,8 +1093,34 @@
         "url": "https://doope.jp/2026/07168539.html",
         "date": "2026-07-09",
         "is_translated": false
+      },
+      {
+        "title": "【『アサシン クリード ブラック フラッグ RE:シンクロ』、Steam同接「約10万人」でシリ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "アサシン クリード ブラック フラッグ RE:シンクロは、約10万人のユーザーが同時にプレイしたことがあり、非常に人気のあるゲームです。このゲームの評価ポイントとしては、美しいグラフィックやスリリングなアクションシーンが挙げられます。また、レビューの内容としては、ゲームのストーリーや操作性が高く評価されています。このゲームは、アクションアドベンチャーゲームを好むユーザーに特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260710-454226/",
+        "date": "2026-07-10",
+        "is_translated": false
+      },
+      {
+        "title": "【アニメ「Ghost of Tsushima 冥人奇譚」のキャラクターアート映像がお披露目：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、アニメ「Ghost of Tsushima 冥人奇譚」のキャラクターアート映像の紹介に焦点を当てています。評価ポイントとしては、アニメのビジュアル的にも魅力的なキャラクター造形や、ストーリーの深みなどがあげられます。レビューの内容概要としては、アニメの世界観やキャラクターの個性が細かく描かれている点が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168546.html",
+        "date": "2026-07-10",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-09T22:22:17.426449"
+  "last_updated": "2026-07-10T02:52:35.901563"
 }
