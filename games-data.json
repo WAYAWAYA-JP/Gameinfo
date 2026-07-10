@@ -532,6 +532,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/god-of-war/info/",
         "date": "2026-07-10"
+      },
+      {
+        "title": "プラネット ズー",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "プラネット ズーは、Steamで現在95% OFFのセール中です。このゲームは、ユニークなゲーム性と面白いストーリーが特徴で、多くのユーザーから高評価を得ています。人気度も高く、ゲームファンからの支持も厚いです。通常価格より大幅に安くなっているので、気になる方はこの機会にぜひお試しください。",
+        "price": "¥237",
+        "originalPrice": "¥4,750",
+        "discount": "95% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/703080",
+        "date": "2026-07-10"
       }
     ],
     "review": [
@@ -1119,8 +1131,60 @@
         "url": "https://doope.jp/2026/07168546.html",
         "date": "2026-07-10",
         "is_translated": false
+      },
+      {
+        "title": "【最大4人協力・死体処理アクション『Shady job』発表。未完成な摩天楼の頂上を目指して運搬...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Shady job』は、最大4人で協力プレイが可能な死体処理アクションゲームです。このゲームでは、未完成な摩天楼の頂上を目指して、チームワークを鍛錬しながら死体を運搬します。レビューの内容としては、ゲームの協力プレイの面白さ、グラフィックの細かい表現、そして挑戦的なステージデザインが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/shady-job-20260710-454364/",
+        "date": "2026-07-10",
+        "is_translated": false
+      },
+      {
+        "title": "【『パルワールド』正式リリースでいきなり「Steam同接20万人超」の人気爆発。新コンテンツ大量...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "パルワールドは、正式リリース直後にSteamで同時接続者が20万人を超える人気ゲームです。このゲームの評価ポイントには、ユニークなゲームシステムや多様なコンテンツが含まれています。レビューでは、新コンテンツの追加やゲームのバランス調整が評価されています。対象読者は、MMORPGやサンドボックスゲームのファンにとって、このレビューは参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260710-454338/",
+        "date": "2026-07-10",
+        "is_translated": false
+      },
+      {
+        "title": "【ホロライブタレント夢のアイランド「ハーモニー・ガーデン」にひと足お先に上陸！　先行プレイで日帰...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "ホロライブタレントの夢のアイランド「ハーモニー・ガーデン」についてのレビュー記事です。この記事では、先行プレイで得られた日帰りプレイの体験や感想、ゲームの評価ポイントとしてグラフィックやサウンド、ゲーム性について触れています。特に、ホロライブファンやゲーム好きの方に興味があるかもしれません。記事では、ゲームの魅力や遊び方について詳しく紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/07/10/184340.html",
+        "date": "2026-07-10",
+        "is_translated": false
+      },
+      {
+        "title": "【KTC 25M1 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "KTC 25M1 レビューは、モニターの性能やデザイン、価格帯などを評価しています。レビューの内容としては、モニターの画質やレスポンス、コネクタの種類などが詳しく紹介されています。また、モニターの使いやすさや環境に合わせた設定のしやすさも評価ポイントに含まれています。このレビュー記事は、モニターを購入を検討している人や、ゲームやグラフィックデザインを行っている人にとって。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/ktc-25m1-review/",
+        "date": "2026-07-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-10T02:52:35.901563"
+  "last_updated": "2026-07-10T11:50:45.061680"
 }
