@@ -230,6 +230,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/june2unes_bundle",
         "date": "2026-07-09"
+      },
+      {
+        "title": "Narrative 12 for $10 Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Narrative 12 for $10 Bundleと呼ばれるバンドルが現在販売中です。このバンドルには、さまざまな物語を題材にしたゲームが収録されており、代表的なタイトルとしては「What Remains of Edith Finch」や「Gone Home」などがあります。ジャンルはナラティブ重視のアドベンチャーゲームが中心となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/narrative12for10bundle_bundle",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Squad Goals",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Squad Goalsというバンドルが販売中です。このバンドルには、メモリアルガーデンやFor the King、Moving Outなどのタイトルが含まれています。ジャンルはアクションやアドベンチャーが中心で、価格帯は1,000円から3,000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/squadgoals_bundle",
+        "date": "2026-07-10"
       }
     ],
     "sale": [
@@ -555,6 +579,18 @@
         "discount": "-40%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Detroit: Become Human",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Detroit: Become Humanは、サイバーパンクを舞台にしたアドベンチャーゲームです。これは、Androidたちが人間と共存する世界を描いた、物語重視のゲームで、プレイヤーの選択によってストーリーが変化します。現在、84%の割引で提供されており、非常に魅力的です。また、このゲームは高い評価を受けており、多くのプレイヤーから人気を博しています。",
+        "price": "$6.51",
+        "originalPrice": "",
+        "discount": "-84%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
         "date": "2026-07-10"
       }
     ],
@@ -1208,8 +1244,21 @@
         "url": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynceds-standard-edition-is-is-the-full-complete-experience-ubisoft-insist-in-response-to-steam-dlc-furore",
         "date": "2026-07-10",
         "is_translated": true
+      },
+      {
+        "title": "【インディーズ開発者、ゲームのレビュー爆撃の中でSteam返金悪用への批判を擁護「楽しんでクリア...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、インディーズゲーム開発者が、あるゲームに対するレビュー爆撃の中で、Steamの返金機能の悪用への批判を擁護している状況を取り上げています。具体的には、開発者は、プレイヤーがゲームを「楽しんでクリアした」というレビューに対して、返金の悪用を非難しています。この記事は、ゲーム開発者の視点から、Steamの返金機能の問題点と、プレイヤーとの関係を考察しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/indie-dev-defends-criticism-of-steam-refund-abuse-amid-review-bombing-of-his-game-its-wrong-to-refund-a-game-after-having-fun-with-it-and-completing-it/",
+        "date": "2026-07-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-10T14:41:01.974695"
+  "last_updated": "2026-07-10T22:01:55.149868"
 }
