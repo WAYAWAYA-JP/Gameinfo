@@ -52,42 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "HHMassive Music 4 Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "HHMassive Music 4 Bundleは、IndieGalaで現在販売中です。このバンドルには、主要タイトルとして「Massive Music Volume 1」、「Massive Music Volume 2」、「Massive Music Volume 3」が含まれており、ゲーム用のサウンドトラックを提供する音楽バンドルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/massive-music4-bundle",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Sensual Clinic Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Sensual Clinic BundleというバンドルがIndieGalaで販売中です。このバンドルには、「Sensual Adventures: The Game」や「Clinic」などの主要タイトルが含まれています。ジャンルはアダルトコンテンツが中心で、大まかな価格帯は10ドルから20ドル程度です。このバンドルは、インディーゲームファンにとってお得な選択肢となるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/sensual-clinic-bundle",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Let's Go Gambling!...aw dang it.",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、「Let's Go Gambling!...aw dang it.」を含むバンドルが販売中です。このバンドルには、主要タイトルとして「Let's Go Gambling!...aw dang it.」やその他のゲームが収録されています。ジャンルは、主にカジノやギャンブルをテーマにしたゲームです。大まかな価格帯は、1,000円から2,000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/letsgogamblingawdangit_bundle",
-        "date": "2026-07-01"
-      },
-      {
         "title": "Yuri in Luck: Waifus for Laifus",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,66 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サイバーパンク2077は、オープンワールドRPGとして知られており、豊富なストーリーやキャラクターのカスタマイズが特徴です。現在、Variousで70%割引のセール中で、大幅な価格引き下げにより、通常価格より格安で購入できます。このゲームは、グラフィックやゲームプレイの質の高さから、ゲームファンから高い評価を受けており、人気度も非常に高いです。",
-        "price": "$17.99",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-07-04"
-      },
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストがSteamで50% OFFセール中です。このオープンワールドアクションゲームは、豊富なゲームプレイと壮大なグラフィックで知られており、非常に人気があります。通常価格よりも半額で購入できるこのセールは、大幅な割引率と高い評価により、多くのゲームファンが注目しています。",
-        "price": "¥2,190",
-        "originalPrice": "¥4,380",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-07-04"
-      },
-      {
-        "title": "The Binding of Isaac: Rebirth Complete Bundle",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Binding of Isaac: Rebirth Complete Bundleがバラエティーで90%割引のセール中です。このパッケージは、ローグライク・ホラー要素のあるアクションゲーム「The Binding of Isaac: Rebirth」と、そのすべてのDLCを含んでいます。非常に難易度が高く、プレイヤーはランダムに生成されるダンジョンを探索してアイテムを集め。",
-        "price": "$5.06",
-        "originalPrice": "",
-        "discount": "-90%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-binding-of-isaac-rebirth-complete-bundle/info/",
-        "date": "2026-07-04"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ロックスターゲームズが開発したオープンワールドアクションアドベンチャーゲーム「Red Dead Redemption 2」が、現在77%割引でセール中です。このゲームは、西部開拓時代を舞台に、盗賊団の一員として様々なミッションを遂行する内容で、高評価を得ています。ゲームの評価・人気度も非常に高く、多くのユーザーから支持を得ています。",
-        "price": "$13.50",
-        "originalPrice": "",
-        "discount": "-77%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-07-04"
-      },
-      {
-        "title": "Marvel's Spider-Man Remastered",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Marvel's Spider-Man RemasteredがVariousで64%割引のセール中です。このアクションアドベンチャーゲームは、スパイダーマンとして街を駆け抜け、悪者と戦う様子を再現しており、グラフィックが美しく、ストーリーも面白いと評判です。多くのゲームファンから高評価を受けており、人気度も非常に高いと言えるでしょう。",
-        "price": "$21.55",
-        "originalPrice": "",
-        "discount": "-64%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
-        "date": "2026-07-04"
-      },
       {
         "title": "ペルソナ５ ザ・ロイヤル",
         "platform": "Steam",
@@ -592,139 +496,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
         "date": "2026-07-10"
+      },
+      {
+        "title": "Nova Lands",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Nova LandsがVariousで100%割引されています。このゲームは、広大な宇宙を舞台にしたアクションアドベンチャーゲームです。プレイヤーは、さまざまな惑星を探索し、異星人の攻撃から人々を守るために戦います。現在、セール中で、通常価格から100%割引されており、無料でプレイできます。ユーザーの評価は非常に高く、人気度も高いので、興味がある人はぜひチェックしてみてください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/nova-lands/info/",
+        "date": "2026-07-11"
       }
     ],
     "review": [
-      {
-        "title": "【陰鬱な中世ファンタジー世界の関所を描くホラーシミュレーション「Dreadwoods Gatek...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "本記事は、陰鬱な中世ファンタジー世界を舞台にしたホラーシミュレーションゲーム「Dreadwoods Gate」についてのレビューです。このゲームは、プレイヤーに恐怖と不安を感じさせる雰囲気とグラフィックで知られています。評価ポイントとしては、ホラーゲームとしての完成度や世界観の深さ、ストーリーの面白さなどがあります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168437.html",
-        "date": "2026-07-06",
-        "is_translated": false
-      },
-      {
-        "title": "【第一次世界大戦シューター「Over The Top: WWI」に“アメリカ外征軍”を導入する新...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Over The Top: WWI」は第一次世界大戦を舞台にしたシューティングゲームで、アメリカ外征軍の導入が新たな要素となりました。このレビュー記事では、新しいキャラクターの能力やゲームプレイの変化、グラフィックの向上などについて評価しています。対象読者は、第一次世界大戦やシューティングゲームに興味のある方です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168436.html",
-        "date": "2026-07-06",
-        "is_translated": false
-      },
-      {
-        "title": "【2023年にアナウンスされた「Prodeus」の“The Elder Veil”DLCは現在も...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Prodeus」の「The Elder Veil」DLCのレビュー記事では、ゲームの評価ポイントとして、新しいストーリーやマップの追加が取り上げられています。また、ゲームのグラフィックやサウンドの向上も評価されており、ファンには必見のコンテンツとなっています。このレビューは、ゲーム好きや「Prodeus」のファンに特にオススメでき、最新のDLCの内容や評価を知りたい方には参考になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168438.html",
-        "date": "2026-07-06",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam 週間の振り返り: Steam に初の「ドーパミン サイト」が追加されたので、1 セ...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Steam 週間の振り返りというレビュー記事では、Steam に初めて「ドーパミン サイト」が追加されたことが紹介されています。この記事では、ゲームの評価ポイントとして新しいサイトの機能や利点について触れています。記事の内容概要としては、新しいサイトの特徴やゲームへの影響について説明しています。対象読者は Steam ユーザーやゲーム好きの方に向けて書かれており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-just-got-its-first-dopamine-site-so-you-can-fatten-a-fake-backlog-without-spending-a-cent/",
-        "date": "2026-07-06",
-        "is_translated": true
-      },
-      {
-        "title": "【須田剛一氏の新作『ロミオ・イズ・ア・デッドマン』、「酷評レビュー」をあえて宣伝トレイラーに載せ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "須田剛一氏の新作『ロミオ・イズ・ア・デッドマン』は、宣伝トレイラーに酷評レビューを載せるというユニークなアプローチで話題になっています。このゲームの評価ポイントとしては、独自のストーリー展開やユーモアのあるキャラクター設定が挙げられます。レビューの内容概要としては、ゲームのオリジナリティやプレイヤーの意表を突く演出が高く評価されていることや、一方で。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260706-453452/",
-        "date": "2026-07-06",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamの高評価ゲーム開発者、「購入者の21％も返金申請していた」と悲鳴。“クリア済みなのに...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamの高評価ゲーム開発者によると、購入者の21％が返金を申請していたとのことです。このゲームは高評価を受けていますが、プレイヤーの中には「クリア済みなのに...」と感じる人もいるようです。ゲームの評価ポイントとしては、面白さやグラフィックの質が高く評価されている点があります。しかし、一方で、プレイヤーの中には難易度が高すぎるという意見もあります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260706-453441/",
-        "date": "2026-07-06",
-        "is_translated": false
-      },
-      {
-        "title": "【「Euro Truck Simulator 2」に長距離バスを導入する「Coaches」DLC...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Euro Truck Simulator 2」に新しい要素を追加する「Coaches」DLCのレビュー記事があります。この記事では、長距離バスを運転する新しい機能がゲームにどのような変化をもたらしたかを評価しています。主な評価ポイントとして、バス運転のリアルさや新しいルートの追加、そしてゲームの全体的なバランスが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168441.html",
-        "date": "2026-07-06",
-        "is_translated": false
-      },
-      {
-        "title": "【『崩壊：スターレイル』爻光とUGREENのコラボは「限定ギフトBOX」が超豪華！全6商品に使え...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "『崩壊：スターレイル』の爻光とUGREENのコラボレーションが話題です。このコラボレーションでは、限られた期間中にしか手に入らない「限定ギフトBOX」が提供されており、その内容は非常に豪華です。このレビュー記事では、限定ギフトBOXの中身やコラボレーションの特徴などを詳しく紹介しています。ゲームファンやコラボレーションアイテムを収集している人には必見の記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/07/06/184138.html",
-        "date": "2026-07-06",
-        "is_translated": false
-      },
-      {
-        "title": "【新たなゲームモードを導入する「Easy Delivery Co.」の無料アップデートが配信：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Easy Delivery Co.」の無料アップデートが配信されました。このアップデートでは、新たなゲームモードが導入されています。このゲームは、プレイヤーが運送会社を経営するシミュレーションゲームです。レビューの内容としては、新しいゲームモードの導入により、ゲームの再生価値が高まったことや、グラフィックの向上などが評価されています。また、ゲームの操作性やサウンドトラックも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168488.html",
-        "date": "2026-07-06",
-        "is_translated": false
-      },
-      {
-        "title": "【Paddle Paddle Paddle が「非常に肯定的な」レビューと 55,000 件の返...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Paddle Paddle Paddle は、非常に肯定的なレビューと多数のプレイヤーからの支持を得ています。このゲームは、ユーザーから55,000件以上のレビューを集め、ゲームコミュニティで大きな注目を集めています。ゲームの評価ポイントとしては、ユニークなゲームプレイ、魅力的なグラフィック、そして高い再プレイ性が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/steam-refund-policy-paddle-paddle-paddle-friendslop-reviews/",
-        "date": "2026-07-06",
-        "is_translated": true
-      },
       {
         "title": "【話題沸騰中のブサイク自由人生RPG『活俠傳』日本語Modに「ルビ」実装へ。難しい漢字多めの“武...：レビュー】",
         "platform": "AUTOMATON",
@@ -749,19 +535,6 @@
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20260707-453531/",
         "date": "2026-07-07",
-        "is_translated": false
-      },
-      {
-        "title": "【日本の90年代アニメにインスパイアされたSwitch 2向けCo-opアドベンチャー「Orbi...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、日本の90年代アニメにインスパイアされたSwitch 2向けのCo-opアドベンチャーゲーム「Orbi...」の評価ポイントとレビューの内容概要を紹介しています。ゲームのグラフィックやサウンドトラック、そして協力プレイの面白さが評価される点として挙げられています。また、90年代アニメファンやCo-opアドベンチャーゲーム好きの方には特にオススメできる作品であると言えるでしょ…",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168490.html",
-        "date": "2026-07-06",
         "is_translated": false
       },
       {
@@ -1257,8 +1030,21 @@
         "url": "https://www.pcgamer.com/gaming-industry/indie-dev-defends-criticism-of-steam-refund-abuse-amid-review-bombing-of-his-game-its-wrong-to-refund-a-game-after-having-fun-with-it-and-completing-it/",
         "date": "2026-07-10",
         "is_translated": true
+      },
+      {
+        "title": "【『パックマン』『テトリス』などの名作がポケットサイズに！ 見た目も可愛い「ピクセルポケットプロ...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "「ピクセルポケットプロ」は、クラシックゲームの名作である「パックマン」や「テトリス」などがポケットサイズで遊べる便利なゲーム機です。このゲーム機は見た目も可愛らしく、持ち運びも容易です。レビューでは、ゲームの評価ポイントとして、操作のしやすさやグラフィックのクオリティが高く評価されています。また、懐かしいゲームを楽しむことができるため、レトロゲームファンや家族で遊ぶのに適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/07/11/184379.html",
+        "date": "2026-07-11",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-10T22:01:55.149868"
+  "last_updated": "2026-07-11T02:30:20.929164"
 }
