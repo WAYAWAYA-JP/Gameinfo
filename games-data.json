@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/death-stranding-2-on-the-beach/info/",
         "date": "2026-07-11"
+      },
+      {
+        "title": "Marvel's Spider-Man Remastered",
+        "platform": "Various",
+        "type": "sale",
+        "description": "人気のオープンワールドアクションゲーム、Marvel's Spider-Man RemasteredがVariousで58%オフのセール中です。このゲームは、スパイダーマンの魅力を存分に楽しむことができ、グラフィックやゲームプレイも高く評価されています。プレイヤーは、ニューヨーク市を自由に移動し、様々なミッションやボスバトルを体験できます。",
+        "price": "$24.99",
+        "originalPrice": "",
+        "discount": "-58%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
+        "date": "2026-07-11"
       }
     ],
     "review": [
@@ -1107,5 +1119,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-11T13:39:59.177068"
+  "last_updated": "2026-07-11T21:48:31.693661"
 }
