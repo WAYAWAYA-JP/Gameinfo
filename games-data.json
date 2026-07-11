@@ -218,6 +218,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/squadgoals_bundle",
         "date": "2026-07-10"
+      },
+      {
+        "title": "Let's Go Gambling!...aw dang it.",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、カジノをテーマにしたゲームが集まった「Let's Go Gambling!...aw dang it.」というバンドルが販売中です。このバンドルには、カジノゲームやパズルゲームなどが含まれており、主要タイトルには「Poker Night 2」や「Governor of Poker 2」などがあります。ジャンルはカジノゲームやパズルゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/letsgogamblingawdangit_bundle",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "Sensual Clinic Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Sensual Clinic Bundleというバンドルが現在販売中です。このバンドルには、Sakura Cupid、Sakura Sadist、Sakura Reflexesなどのエロゲータイトルが含まれています。主要ジャンルはアダルトゲームです。大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/sensual-clinic-bundle",
+        "date": "2026-07-11"
       }
     ],
     "sale": [
@@ -507,6 +531,30 @@
         "discount": "-100%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/nova-lands/info/",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストは、オープンワールドアクションアドベンチャーゲームです。このゲームは、美麗なグラフィックと自由度の高いゲームプレイが特徴です。現在、Steamで56% OFFのセール中で、通常価格よりも大幅に安くなっています。このゲームは、ユーザーから非常に高い評価を受けており、世界中で人気を博しています。",
+        "price": "¥2,851",
+        "originalPrice": "¥6,480",
+        "discount": "56% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "DEATH STRANDING 2: ON THE BEACH",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲーム「DEATH STRANDING 2: ON THE BEACH」が、現在Variousで31%割引のセール中です。このゲームは、ユニークなゲームプレイとストーリーで人気を博しており、多くのプレイヤーから高い評価を得ています。セール期間中は、通常価格よりも大幅に安くなり、格安で購入することができます。",
+        "price": "$48.35",
+        "originalPrice": "",
+        "discount": "-31%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/death-stranding-2-on-the-beach/info/",
         "date": "2026-07-11"
       }
     ],
@@ -1043,8 +1091,21 @@
         "url": "https://www.inside-games.jp/article/2026/07/11/184379.html",
         "date": "2026-07-11",
         "is_translated": false
+      },
+      {
+        "title": "【“事件だけ先に見せる”ガチ推理ゲーム『超探偵シャーロックちゃん2 ～爆炎の因習村～』発表。まず...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「超探偵シャーロックちゃん2 ～爆炎の因習村～」は、事件だけ先に見せて、プレイヤーに推理を挑むガチ推理ゲームです。このゲームの評価ポイントは、事件の複雑さや、探偵のシャーロックちゃんのユニークなキャラクターです。レビューの内容概要としては、ゲームの難易度や、ストーリーの面白さが高く評価されています。このゲームは、推理ゲームを好む人や、シャーロックちゃんのファンに適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260711-454525/",
+        "date": "2026-07-11",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-11T02:30:20.929164"
+  "last_updated": "2026-07-11T10:13:49.347999"
 }
