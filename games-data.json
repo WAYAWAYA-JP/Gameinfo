@@ -246,18 +246,6 @@
     ],
     "sale": [
       {
-        "title": "ペルソナ５ ザ・ロイヤル",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ペルソナ５ ザ・ロイヤルは、Steamで70%オフのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、深いストーリーと魅力的なキャラクターで人気を博しています。プレイヤーは、東京を舞台に、社会の不正に対抗する「心の怪盗団」となることになります。ゲームの評価は非常に高く、多くのユーザーから高評価を得ています。",
-        "price": "¥2,303",
-        "originalPrice": "¥7,678",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1687950",
-        "date": "2026-07-05"
-      },
-      {
         "title": "Rust",
         "platform": "Steam",
         "type": "sale",
@@ -568,152 +556,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
         "date": "2026-07-11"
+      },
+      {
+        "title": "The Alters",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Altersは、 Variousで現在52%オフのセール中です。このゲームは、ユニークなゲーム性とストーリーが特徴で、ファンタジーとアドベンチャーの要素を組み合わせたものです。セール価格で購入することで、通常価格よりも大幅に安くプレイすることができます。ユーザーの評価は非常に高く、人気度も高まっています。",
+        "price": "$16.80",
+        "originalPrice": "",
+        "discount": "-52%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-alters/info/",
+        "date": "2026-07-12"
       }
     ],
     "review": [
-      {
-        "title": "【話題沸騰中のブサイク自由人生RPG『活俠傳』日本語Modに「ルビ」実装へ。難しい漢字多めの“武...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "話題沸騰中のブサイク自由人生RPG『活俠傳』の日本語Modに「ルビ」実装が予定されています。このゲームは難しい漢字が多く使われていることから、ルビの実装はプレイヤーの読みやすさを大幅に高めることが予想されます。レビューでは、このゲームの自由度の高さやユニークなゲームシステムが評価されています。また、漢字を勉強したい人や、独自のゲーム性を楽しみたい人にもおすすめできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260707-453543/",
-        "date": "2026-07-07",
-        "is_translated": false
-      },
-      {
-        "title": "【オンラインゲームの迷惑プレイヤーは「BANして終わり」では足りない可能性。被害と“向き合わせる...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "オンラインゲームにおける迷惑プレイヤーの対策について検討する記事です。この記事では、単に迷惑行為を行ったプレイヤーをBANするだけでは解決しない可能性があることを指摘しています。具体的には、被害を受けたプレイヤーへの補償や、迷惑行為を行った理由を探り、問題の根本的な解決策を模索する必要性を強調しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260707-453531/",
-        "date": "2026-07-07",
-        "is_translated": false
-      },
-      {
-        "title": "【“ゲーム内eスポーツチーム”運営シム『Esports Manager 2026』Steamでさ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Esports Manager 2026』は、ゲーム内eスポーツチームを運営するシミュレーションゲームです。このゲームは、チームの管理や戦略の立て方、選手の育成などが楽しめる点が評価ポイントとなっています。レビューの中では、ゲームの深みやリPLAY性の高さが高く評価されています。また、eスポーツファンやシミュレーションゲームが好きな人に特におすすめされるゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260707-453726/",
-        "date": "2026-07-07",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料運営型ゲーム黄金時代に、「買い切りゲーム」はどんな“ならでは体験”を提供できるの...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、基本プレイ無料運営型ゲームが主流になりつつある現在、買い切りゲームがユーザーに提供できる独自の体験を探る内容です。記事では、買い切りゲームの魅力や、ゲームデザインの自由度が高く、ユーザーへの課金の圧力がなく、ストーリーや世界観への没入感が高いことを評価しています。また、ゲームの完成度や、プレイヤーが自由に選べる遊び方も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/atelier-20260707-453674/",
-        "date": "2026-07-07",
-        "is_translated": false
-      },
-      {
-        "title": "【『LoveR Kiss EM』で味わえるのは「写真を撮るほど恋に落ちていく」という体験─自由度...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "『LoveR Kiss EM』は、自由度の高いゲームで、プレイヤーは写真を撮るほど恋に落ちていくというユニークな体験が楽しめるゲームです。このゲームの評価ポイントとしては、自由なカメラ操作や、写真を撮ることでストーリーが進展する点が挙げられます。レビューでは、ゲームの魅力や、自由な写真撮影がもたらす新しい恋愛体験について触れています。特に、恋愛ゲームや写真撮影が好きな人にはおすすめのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/07/07/184183.html",
-        "date": "2026-07-07",
-        "is_translated": false
-      },
-      {
-        "title": "【ロジクール モビフォールド レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ロジクール モビフォールド レビュー記事では、モバイル向けゲームのユーザーインターフェイスや操作性、グラフィックのクオリティなどを評価しています。具体的には、ゲームのストーリー展開やサウンドトラックの評価、そしてプレイヤーにとっての魅力的な要素などがレビューの中心となっています。このレビュー記事は、モバイルゲームに興味のあるユーザーや、新しいゲームを探しているゲーマーにとって。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/logitech-mobi-fold-review/",
-        "date": "2026-07-07",
-        "is_translated": true
-      },
-      {
-        "title": "【ASUS ROG Strix XG129C レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ASUS ROG Strix XG129C は、ゲームプレイに最適化された高性能モニターです。このモニターの評価ポイントは、高速なレスポンス時間、広い視野角、優れた色再現能力です。レビューの内容概要としては、モニターのデザインと機能、ゲームプレイでの実際のパフォーマンス、価格と価値の関係が取り上げられています。このレビュー記事は、ゲーマーや高性能モニターに興味のある方に特に役立つでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/asus-rog-strix-xg129c-review/",
-        "date": "2026-07-07",
-        "is_translated": true
-      },
-      {
-        "title": "【生育環境の調整や動物のケアに焦点を当てる「Planet Zoo 2」の最新映像が公開、発売は1...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Planet Zoo 2」の最新映像が公開されました。このゲームは、動物のケアや生育環境の調整に焦点を当てています。レビュー記事では、ゲームのグラフィックやサウンドの評価ポイントが紹介されています。また、動物の種類や施設のカスタマイズについても触れています。動物愛好家やシミュレーションゲームファンにとって興味深い内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168503.html",
-        "date": "2026-07-07",
-        "is_translated": false
-      },
-      {
-        "title": "【元『ウィッチャー』開発者の新作『The Blood of Dawnwalker』は超自由なのに...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『The Blood of Dawnwalker』は、元『ウィッチャー』開発者によって作られた新作ゲームで、超自由なゲームプレイが特徴です。このゲームの評価ポイントとしては、自由度の高さ、ユニークなゲームシステム、そして豊富なストーリーが挙げられます。レビューの内容概要としては、ゲームの自由さが高く、プレイヤーが自分の好きなように進めることができる点が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/the-blood-of-dawnwalker-20260707-453686/",
-        "date": "2026-07-07",
-        "is_translated": false
-      },
-      {
-        "title": "【空の冒険はまだ終わらない！『グラブルリリンク ER』「マギラフリラ」など新実装6人の手応えや新...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "『グラブルリリンク ER』のレビュー記事では、新しく実装されたキャラクター「マギラフリラ」など6人の能力や新しい要素について評価しています。ゲームの評価ポイントとしては、新キャラクターの手応えや新しいストーリーの導入などがあります。レビューの内容概要としては、新キャラクターの能力やゲームの進化が紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/07/08/184193.html",
-        "date": "2026-07-07",
-        "is_translated": false
-      },
-      {
-        "title": "【バキ道 The Invincible Samurai パート 2 レビュー: シリーズで最も興...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "バキ道 The Invincible Samurai パート 2は、シリーズの中で最も興味深い作品の一つです。このレビュー記事では、ゲームの評価ポイントとして、ストーリーの深化やキャラクターの成長が際立っていることを挙げています。また、シリーズのファンには必見の作品であると言えるでしょう。対象読者は、バキ道シリーズを楽しみにしてきたファンや、新規にシリーズに興味を持つ読者です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/baki-invincible-samurai-musashi-reviewl/",
-        "date": "2026-07-07",
-        "is_translated": true
-      },
       {
         "title": "【『めっちゃカメレオン』の自動ペイントチーターを追い詰める、“チーター晒し上げ矢印”が流行る。不...：レビュー】",
         "platform": "AUTOMATON",
@@ -725,19 +582,6 @@
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20260708-453827/",
         "date": "2026-07-08",
-        "is_translated": false
-      },
-      {
-        "title": "【『マインクラフト』新スナップショットで「クッション」登場、ついに“座れる”ように。野宿に便利な...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "マインクラフトの最新スナップショットでは、待望の「クッション」が登場し、プレイヤーはついに座ることができるようになりました。これにより、野宿の際にプレイヤーはよりリアルな体験を楽しむことができ、ゲームの雰囲気も一層豊かになりました。このレビュー記事は、マインクラフトを愛するファンや、新しいゲーム機能に興味がある読者に向けて、ゲームの新機能や魅力について紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260708-453796/",
-        "date": "2026-07-07",
         "is_translated": false
       },
       {
@@ -1119,5 +963,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-11T21:48:31.693661"
+  "last_updated": "2026-07-12T02:35:48.080447"
 }
