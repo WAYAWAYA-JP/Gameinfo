@@ -568,6 +568,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-alters/info/",
         "date": "2026-07-12"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームのStrayがVariousで50%割引になりました。このゲームは、猫の視点から探索するユニークな体験を提供し、美しいグラフィックと面白いストーリーが特徴です。現在の価格は割引されていますので、興味がある方はこの機会にチェックしてみてください。レビュアーからも高い評価を得ており、人気のゲームとなっています。",
+        "price": "$14.89",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-07-12"
       }
     ],
     "review": [
@@ -960,8 +972,60 @@
         "url": "https://automaton-media.com/articles/newsjp/20260711-454525/",
         "date": "2026-07-11",
         "is_translated": false
+      },
+      {
+        "title": "【『ミカクテイ事件の観測者』の完成度に度肝を抜かれた。『エコーズ・オブ・アインクラッド』の戦闘は...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム「ミカクテイ事件の観測者」の完成度や「エコーズ・オブ・アインクラッド」の戦闘システムについて評価しています。記事では、これらのゲームの評価ポイントとしてストーリーやグラフィックのクオリティ、そして戦闘システムの複雑さなどが取り上げられています。ゲームファンや新しいタイトルを探している人にとっては、参考になる情報が得られるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260712-454597/",
+        "date": "2026-07-12",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料『NTE』大型アプデで“別のゲーム”まで実装。異世界RPGに空飛ぶ無敵バイク、「...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "この記事は、基本プレイ無料のゲーム『NTE』の大型アップデートについて紹介しています。アップデートにより、空飛ぶ無敵バイクが実装され、ゲームの内容が大幅に変更されました。この記事は、ゲームの評価ポイントとしてアップデート後の新しいゲーム性や空飛ぶバイクの導入について触れています。特に、ゲームの自由度の向上や、新しい要素の搭載による新鮮さについて評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260711-454484/",
+        "date": "2026-07-12",
+        "is_translated": false
+      },
+      {
+        "title": "【サッカーW杯で熱い『サカつく2026』累計500時間プレイヤーが配布選手“平塚浪馬”フル活用で...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、サッカーW杯をテーマにしたゲーム『サカつく2026』について紹介しています。このゲームは、サッカーW杯の熱気を体験できる内容で、特に累計500時間プレイヤーには特別な配布選手「平塚浪馬」が用意されています。ゲームの評価ポイントとしては、リアルなサッカーの再現度や、ユーザーの自由度が高いという点が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260711-454456/",
+        "date": "2026-07-12",
+        "is_translated": false
+      },
+      {
+        "title": "【REJECT・Euriece（ユリース）「自分の仕事以上のプレイを」―世界大会での経験とチーム...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、プロゲーマーであるREJECT・Euriece（ユリース）について紹介しています。世界大会での経験とチームでの活動について語り、更なる成長への意欲を感じることができます。ゲーマーだけでなく、チームスポーツのファンにもおすすめの記事です。ユリースのプレイスタイルや対戦の戦略についても触れていますので、ゲームファンは必読の記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/07/12/184424.html",
+        "date": "2026-07-12",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-12T02:35:48.080447"
+  "last_updated": "2026-07-12T10:26:27.484662"
 }
