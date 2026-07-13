@@ -532,6 +532,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dead-cells/info/",
         "date": "2026-07-13"
+      },
+      {
+        "title": "Against the Storm アゲインスト・ザ・ストーム",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Against the Stormは、シティビルダーとサバイバルゲームの要素を組み合わせたユニークなゲームです。現在、Steamで70%オフのセール中で、通常価格より大幅に安くなっています。このゲームは、プレイヤーが荒野の中で都市を建設し、資源を管理しながら、厳しい環境に挑戦します。ゲームの評価は高く、ユーザーから良好的な評価を得ています。",
+        "price": "¥894",
+        "originalPrice": "¥2,980",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1336490",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "人気のオープンワールドアクションゲーム「Red Dead Redemption 2」が、Variousで78%割引のセール中です。このゲームは、広大なアメリカ西部の世界を自由に探索することができ、リアルなグラフィックと豊富なストーリーが特徴です。多くのゲームファンから高い評価を受けており、Metacriticでは非常に高いスコアを獲得しています。",
+        "price": "$13.35",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-07-13"
       }
     ],
     "review": [
@@ -849,5 +873,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-13T14:48:21.521357"
+  "last_updated": "2026-07-13T21:56:20.332839"
 }
