@@ -218,6 +218,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/sensual-clinic-bundle",
         "date": "2026-07-11"
+      },
+      {
+        "title": "Summer Games Done Quick 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Summer Games Done Quick 2026のバンドルが現在販売中です。このバンドルには、さまざまなゲームが収録されており、代表的なタイトルとして「Celeste」や「Hyper Light Drifter」、「Cuphead」などが含まれています。ジャンルはアクションゲームやプラットフォーマーなど多様で。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/summergamesdonequick2026_bundle",
+        "date": "2026-07-13"
       }
     ],
     "sale": [
@@ -744,8 +756,34 @@
         "url": "https://automaton-media.com/articles/newsjp/20260713-454629/",
         "date": "2026-07-13",
         "is_translated": false
+      },
+      {
+        "title": "【「Warhammer 40,000: Dark Heresy」の新たなプレイアブルキャラクター...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Warhammer 40,000: Dark Heresy」の新たなプレイアブルキャラクターについてのレビュー記事です。このゲームは、ダークファンタジー世界を舞台に、プレイヤーがキャラクターを操作して戦略的に戦うことができます。このレビューでは、新キャラクターの能力や戦闘スタイル、グラフィックの質などの評価ポイントについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168593.html",
+        "date": "2026-07-13",
+        "is_translated": false
+      },
+      {
+        "title": "【「非常に残念な見落とし」：サウジアラビアのスタジオ所有権に対する反発を受け、ゲームはすぐに終了...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、サウジアラビアのスタジオ所有権に対する反発を受けてゲームがすぐに終了したことを評価しています。ゲームの評価ポイントとしては、ゲームの内容が期待はずれだったこと、サウジアラビアのスタジオ所有権が問題視されたこと、そしてゲームの終了が早すぎたことなどが挙げられます。レビューの内容概要としては、ゲームの内容の不足、所有権問題の影響、そしてゲームの短期間での終了が指摘されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/an-oversight-we-deeply-regret-games-done-quick-cancel-snk-sponsored-stream-following-backlash-over-studios-saudi-arabian-ownership",
+        "date": "2026-07-13",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-13T02:37:32.952786"
+  "last_updated": "2026-07-13T12:02:03.814638"
 }
