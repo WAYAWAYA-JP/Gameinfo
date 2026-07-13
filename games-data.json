@@ -520,6 +520,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-07-12"
+      },
+      {
+        "title": "Dead Cells",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるDead Cellsが、現在51%割引のセール中です。このゲームは、ローグライク要素を取り入れた難易度の高いゲームプレイが特徴で、プレイヤーはさまざまな敵と戦いながら、キャラクターを成長させていきます。Metacriticなどのレビューサイトでは、高い評価を獲得しており、多くのプレイヤーから人気を博しています。",
+        "price": "$12.37",
+        "originalPrice": "",
+        "discount": "-51%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dead-cells/info/",
+        "date": "2026-07-13"
       }
     ],
     "review": [
@@ -782,8 +794,60 @@
         "url": "https://www.rockpapershotgun.com/an-oversight-we-deeply-regret-games-done-quick-cancel-snk-sponsored-stream-following-backlash-over-studios-saudi-arabian-ownership",
         "date": "2026-07-13",
         "is_translated": true
+      },
+      {
+        "title": "【ゴールデンアイ系レトロスパイシューター「Agent 64: Spies Never Die」の...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Agent 64: Spies Never Die」はゴールデンアイ系レトロスパイシューターとして発売されており、レトロなグラフィックやサウンド、そしてスパイアクションを楽しむことができます。レビューの評価ポイントとしては、レトロな雰囲気を再現したグラフィックやサウンド、そしてスパイアクションの面白さが挙げられます。また、ゲームの難易度やステージ構成も評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168646.html",
+        "date": "2026-07-13",
+        "is_translated": false
+      },
+      {
+        "title": "【モバイル版「Don’t Starve Together」のゲームプレイ映像が登場、発売は202...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "モバイル版「Don’t Starve Together」のレビューでは、ゲームプレイの自由度やサバイバル要素の評価が高まっています。また、ユーザーインターフェースやゲームバランスの見直しが行われている点も評価ポイントとなっています。このレビューは、サバイバルゲームファンやモバイルゲームプレイヤーにとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168631.html",
+        "date": "2026-07-13",
+        "is_translated": false
+      },
+      {
+        "title": "【Summer Games Done Quick が慈善活動に 240 万ドルを集め、サウジアラ...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Summer Games Done Quick は慈善活動に 240 万ドルを集めました。このイベントのレビュー記事では、イベントの評価ポイントとして、参加者の熱意やゲームプレイの質の高さが取り上げられています。また、サウジアラビアにおけるこのイベントの影響や、ゲームコミュニティへの貢献度も評価されています。この記事は、ゲームイベントや慈善活動に興味がある人に読んでほしい内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/summer-games-done-quick-raises-usd2-4-million-for-charity-cancels-sponsored-stream-with-snk-over-saudi-arabia-ties/",
+        "date": "2026-07-13",
+        "is_translated": true
+      },
+      {
+        "title": "【「非常に遺憾な見落とし」：サウジアラビアのスタジオ所有権に対する反発を受け、ゲームはすぐに終了...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、サウジアラビアのスタジオ所有権に対する反発を受けてゲームが終了したことを取り上げています。ゲームの評価ポイントとしては、ゲームデザインやストーリーの面白さが挙げられますが、スタジオ所有権問題が大きな評価ポイントになっています。対象読者は、ゲームファンや社会問題に関心がある人です。記事では、ゲームの終了が「非常に遺憾な見落とし」であったと評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/an-oversight-we-deeply-regret-games-done-quick-cancel-snk-sponsored-stream-following-backlash-over-studios-saudi-arabian-ownership",
+        "date": "2026-07-13",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-13T12:02:03.814638"
+  "last_updated": "2026-07-13T14:48:21.521357"
 }
