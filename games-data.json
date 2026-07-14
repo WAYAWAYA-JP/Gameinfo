@@ -206,6 +206,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/summergamesdonequick2026_bundle",
         "date": "2026-07-13"
+      },
+      {
+        "title": "Going Rogue: A Lite Heavy Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Going Rogue: A Lite Heavy Bundleというバンドルが現在販売中です。このバンドルには、Going RogueやRogue Stateなど、主要なタイトルが2-3本含まれています。ジャンルはアクションやアドベンチャーに属し、大まかな価格帯は数千円から1万円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/goingrogueliteheavybundle_bundle",
+        "date": "2026-07-14"
       }
     ],
     "sale": [
@@ -508,6 +520,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/keepup-survival/info/",
         "date": "2026-07-14"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "No Man's SkyがSteamで60% OFFセール中です、このオープンワールドのサンドボックスゲームは、宇宙を自由に探索することができます。プレイヤーは、未知の惑星に降り立ち、資源を集め、新しい生物との遭遇ができるため、非常に人気があります。セール中の価格は大幅に下がっているため、興味がある方は今がチャンスです。",
+        "price": "¥2,600",
+        "originalPrice": "¥6,500",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/275850",
+        "date": "2026-07-14"
       }
     ],
     "review": [
@@ -809,8 +833,73 @@
         "url": "https://doope.jp/2026/07168652.html",
         "date": "2026-07-13",
         "is_translated": false
+      },
+      {
+        "title": "【大ヒット3Dアニメ会社が本気で作る初ゲーム『BRINGER』は清々しいほど“映像特化”。AAA...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "大ヒット3Dアニメ会社が初めてゲームを作った『BRINGER』は、映像に特化したゲームです。このゲームの評価ポイントは、見た目の美しさやストーリーの面白さ、それから操作のしやすさなどです。ゲームのレビューでは、グラフィックのクオリティが高いことや、キャラクターのデザインが素晴らしいこと、それからサウンドトラックが印象的なことなどが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260714-454950/",
+        "date": "2026-07-14",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料FPS『サドンアタック：ゼロポイント』試遊感想。あの頃のFPSは、こんなにも無骨...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、基本プレイ無料のFPSゲーム「サドンアタック：ゼロポイント」の試遊感想を紹介しています。ゲームの評価ポイントとしては、クラシックなFPSの無骨さやシンプルなゲーム性が際立っていることがあげられます。レビューの内容概要としては、ゲームの操作感やグラフィックの質などが紹介されています。この記事は、FPSゲームやクラシックゲームのファンにとって、参考になる情報が含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/sa-20260714-454924/",
+        "date": "2026-07-14",
+        "is_translated": false
+      },
+      {
+        "title": "【「100時間超プレイヤー」続出の百合恋愛ゲーム『恋に落ちるしかなかった』、強火ファン量産の裏側...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、百合恋愛ゲーム『恋に落ちるしかなかった』について取り上げており、100時間以上プレイしたプレイヤーが続出しているという評価ポイントが特筆されます。記事では、このゲームの強烈なファン層を生み出す要因や、ゲームの魅力についても触れています。主な対象読者は、このゲームのファンや恋愛ゲームに興味がある人たちです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/20260714-454923/",
+        "date": "2026-07-14",
+        "is_translated": false
+      },
+      {
+        "title": "【プレイヤーの行動や声をまねるAIが出現する独創的なCo-opサバイバルホラー「MIMESIS」...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「MIMESIS」という独創的なCo-opサバイバルホラーは、プレイヤーの行動や声をまねるAIが出現することでユニークな体験を提供します。このゲームは、恐怖を共有するための協力プレイや、AIの学習能力を上手く利用する戦略を評価します。ゲームの評価ポイントとしては、AIの学習能力や協力プレイの重要性が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168666.html",
+        "date": "2026-07-14",
+        "is_translated": false
+      },
+      {
+        "title": "【新作『白銀の城』は中国でもかなりの注目度！ 「BW2026」会場で体験したボス「Vita et...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "新作『白銀の城』は中国でも注目度が高いゲームです。『BW2026』会場では、ボス「Vita et...」との対決が体験できました。このゲームの評価ポイントは、グラフィックの美しさや難易度の高さなどです。レビューの内容概要としては、ゲームのストーリーや操作感などが高く評価されています。このゲームは、格闘ゲームファンやアクションゲーム好きの方にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/07/14/184517.html",
+        "date": "2026-07-14",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-14T02:22:00.369887"
+  "last_updated": "2026-07-14T10:43:57.595813"
 }
