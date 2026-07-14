@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Going Rogue: A Lite Heavy Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Going Rogue: A Lite Heavy Bundleというバンドルの販売が行われています。このバンドルには、Rogue State、Heavy Bullets、Going Underなどのタイトルが含まれており、ローグライクやアクションゲームを中心としたジャンルのゲームが多数収録されています。大まかな価格帯は数千円程度とリーズナブルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/goingrogueliteheavybundle_bundle",
-        "date": "2026-07-04"
-      },
-      {
-        "title": "Summer Blade Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Summer Blade Bundleが販売中です。このバンドルには、主要タイトルとして「Blade Kitten」や「Slain: Back from Hell」、「Blade Warrior」などのゲームが含まれています。ジャンルはアクションやアドベンチャーに属します。大まかな価格帯は10ドル以下です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/summer-blade-bundle",
-        "date": "2026-07-04"
-      },
-      {
         "title": "June 2026 Humble Choice",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,42 +209,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Resident Evil 4 (2023)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームの『バイオハザード4』（2023）が、現在79%オフでのセール中です。このゲームは、ホラー要素とアクション要素の両方を兼ね備え、シリーズファンから高く評価されています。価格も大幅に値下げされているので、ゲームファンにはおすすめのタイトルです。",
-        "price": "$8.46",
-        "originalPrice": "",
-        "discount": "-79%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
-        "date": "2026-07-07"
-      },
-      {
-        "title": "Indiana Jones and the Great Circle",
-        "platform": "Various",
-        "type": "sale",
-        "description": "インディアナジョーンズシリーズの新作「Indiana Jones and the Great Circle」がVariousで49%オフのセール中です。このアクションアドベンチャーゲームは、シリーズのファンから高評価を得ており、現在の価格はかなり魅力的です。人気シリーズの新作と言えば、ファンだけでなく、新規プレイヤーも注目しています。",
-        "price": "$35.69",
-        "originalPrice": "",
-        "discount": "-49%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/indiana-jones-and-the-great-circle/info/",
-        "date": "2026-07-07"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アドベンチャーゲーム「Clair Obscur: Expedition 33」が現在、Variousで33%割引されています。このゲームは、ユーザーからの評価が高く、人気度も高いゲームです。もし興味がある場合は、この機会に試してみてください。",
-        "price": "$33.54",
-        "originalPrice": "",
-        "discount": "-33%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-07-07"
-      },
       {
         "title": "Kingdom Come: Deliverance II",
         "platform": "Various",
@@ -556,48 +496,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
         "date": "2026-07-13"
+      },
+      {
+        "title": "KeepUp Survival",
+        "platform": "Various",
+        "type": "sale",
+        "description": "KeepUp SurvivalがVariousで-100%セール中です。このゲームはサバイバルゲームのジャンルで、プレイヤーがさまざまな障害を克服して生存することを目的としています。現在、100%割引のセール中で、通常価格より大幅に安くなっています。KeepUp Survivalは、ユーザーから高い評価を得ており、人気度も高く、多くのプレイヤーから支持されています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/keepup-survival/info/",
+        "date": "2026-07-14"
       }
     ],
     "review": [
-      {
-        "title": "【盤上の決着が速い、カード集めも速い、だから繰り返す\"もう1戦\"―『カルドセプト ビギンズ』先行...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム「カルドセプト ビギンズ」の魅力を紹介しています。ゲームの特徴として、盤上の決着が早く、カードを集めるスピードも速いことが挙げられます。こうした要素が組み合わさることで、プレイヤーは「もう1戦」という気持ちに駆り立てられます。対象読者は、カードゲームやボードゲームに興味がある人向けです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/07/09/184260.html",
-        "date": "2026-07-09",
-        "is_translated": false
-      },
-      {
-        "title": "【ゲーム大会配信の「実況」と「解説」、実は“追ってる情報”から全然違う。『シージ』公式実況キャス...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム大会配信の「実況」と「解説」について取り上げています。ゲーム大会配信では、実況者や解説者がプレイヤーの戦術や技術を解説し、観客を盛り上げますが、その際に提示される情報は、プレイヤーが通常ゲームをプレイする際に参考にする情報とは異なるとされています。この記事では、特に『シージ』公式実況キャスターの解説が如何にゲームの本質を捉えているかを取り上げ。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/columnjp/20260709-454192/",
-        "date": "2026-07-09",
-        "is_translated": false
-      },
-      {
-        "title": "【Bungieが「Destiny 2」の全プレイヤー向けに新エンブレムを配布、今後のサポートに関...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Bungieが「Destiny 2」の全プレイヤー向けに新エンブレムを配布することを発表しましたので、そのお知らせと今後のサポートに関する情報を確認することができます。記事の評価ポイントとして、配布されるエンブレムのデザインや今後のゲーム展開に関する期待感が含まれています。ゲームファンや「Destiny 2」のプレイヤーにとって、最新情報を知る機会を提供するレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168539.html",
-        "date": "2026-07-09",
-        "is_translated": false
-      },
       {
         "title": "【『アサシン クリード ブラック フラッグ RE:シンクロ』、Steam同接「約10万人」でシリ...：レビュー】",
         "platform": "AUTOMATON",
@@ -870,8 +783,34 @@
         "url": "https://www.rockpapershotgun.com/an-oversight-we-deeply-regret-games-done-quick-cancel-snk-sponsored-stream-following-backlash-over-studios-saudi-arabian-ownership",
         "date": "2026-07-13",
         "is_translated": true
+      },
+      {
+        "title": "【『アサシン クリード ブラック フラッグ RE:シンクロ』レビュー。リメイクにより文脈から切り...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『アサシン クリード ブラック フラッグ RE:シンクロ』は、リメイクされた作品であり、オリジナルの文脈から切り離された独自の世界観を持ちます。このゲームは、グラフィックの向上や新しいゲームモードの追加など、多くの改良点があります。ゲームの評価ポイントとしては、スムーズな操作性や豊富なミッション内容が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/ac4-20260714-454785/",
+        "date": "2026-07-14",
+        "is_translated": false
+      },
+      {
+        "title": "【ソーシャルディダクションゲームに焦点を当てる「Steamソーシャルディダクションフェス」が開幕...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Steamソーシャルディダクションフェスは、ソーシャルディダクションゲームに焦点を当てたイベントです。このイベントは、プレイヤーがさまざまなソーシャルディダクションゲームを体験することができ、各ゲームのユニークな要素や魅力を探求することができます。評価ポイントとしては、ゲームのグラフィックやサウンドデザイン、そしてプレイヤー同士の交流ができる度合いなどが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168652.html",
+        "date": "2026-07-13",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-13T21:56:20.332839"
+  "last_updated": "2026-07-14T02:22:00.369887"
 }
