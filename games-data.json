@@ -194,6 +194,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/goingrogueliteheavybundle_bundle",
         "date": "2026-07-14"
+      },
+      {
+        "title": "Pixel Traditions 3 Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでPixel Traditions 3 Bundleが販売中です。このバンドルには、Retro Game Challenge、Oniken、Battle Princess Madelynなどの主要タイトルが含まれており、主にアクションやアドベンチャーの要素を持つレトロ風のゲームが多く含まれています。ジャンルは主にアクションやアドベンチャーです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/pixel-traditions3-bundle",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "Twist & Tangle Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Twist & Tangle Bundleというバンドルが販売中です。このバンドルには、Twist、Tangleなどのタイトルが含まれており、パズルやアドベンチャーなどのジャンルを楽しむことができます。大まかな価格帯は、幾らかと言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
+        "date": "2026-07-15"
       }
     ],
     "sale": [
@@ -471,6 +495,18 @@
         "discount": "50% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/2947440",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "Kingdom Come: Deliverance II",
+        "platform": "Various",
+        "type": "sale",
+        "description": "中世を舞台にしたオープンワールドアクションRPGゲーム『Kingdom Come: Deliverance II』が、現在Variousで65%オフのセール中です。このゲームはリアルな戦闘システムと深いストーリーで人気を博しており、多くのユーザーから高評価を得ています。セール期間中は通常価格よりも大幅に安く購入できるので、ゲームファンにはお勧めのチャンスです。",
+        "price": "$20.99",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
         "date": "2026-07-15"
       }
     ],
@@ -786,8 +822,34 @@
         "url": "https://doope.jp/2026/07168635.html",
         "date": "2026-07-14",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料「街」オープンワールド『NTE』、約2か月で売上高「330億円」突破していた。S...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料のオープンワールドゲーム「NTE」は約2か月で売上高330億円を突破しており、評価ポイントとしては自由度の高いゲーム世界や魅力的なキャラクターが挙げられます。また、レビューの内容概要としては、ゲームのグラフィックやサウンドの質の高さや、プレイヤー同士のコミュニティーの活発さが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/nte-20260715-455057/",
+        "date": "2026-07-15",
+        "is_translated": false
+      },
+      {
+        "title": "【どうぶつカフェ経営シム『Tailside: Cozy Cafe Sim』、アプデで公式日本語対...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Tailside: Cozy Cafe Sim』は、かわいい動物たちが出入りするカフェを経営するシミュレーションゲームです。このゲームの評価ポイントとしては、可愛らしいグラフィックやリラックスした雰囲気、そして自由度の高いカフェのカスタマイズが挙げられます。レビューの内容概要としては、ゲームの魅力やカフェの運営の面白さ、そして公式日本語対応による親しみやすさが紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/tailside-cozy-cafe-sim-20260715-455032/",
+        "date": "2026-07-15",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-15T02:14:58.965682"
+  "last_updated": "2026-07-15T10:48:05.417200"
 }
