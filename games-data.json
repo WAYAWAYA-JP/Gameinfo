@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "June 2026 Humble Choice",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、2022年6月のHumble Choiceバンドルが現在販売中です。このバンドルには、主要タイトルとして「Death's Door」、「FIST：Forged In Shadow Torch」、「Inscryption」などが含まれており、ゲームジャンルはアクションやアドベンチャーにわたります。大まかな価格帯は10ドルから20ドル程度と予想されます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/june_2026_choice",
-        "date": "2026-07-05"
-      },
-      {
-        "title": "Twist & Tangle Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Twist & Tangle Bundleが現在販売中です。このバンドルには、Twist、Tangle、Braidなどの主要タイトルが含まれており、パズルやアクションゲームを中心としたジャンルです。大まかな価格帯は数百円から数千円と幅がありますが、バンドルとして購入することで、各タイトルを個別に購入するよりも安価にゲームを楽しむことができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
-        "date": "2026-07-05"
-      },
-      {
         "title": "Arc System Works: Evo Collection",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -221,66 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Kingdom Come: Deliverance II",
-        "platform": "Various",
-        "type": "sale",
-        "description": "キングダムカム・デリバランスIIがバラエティストアで65%オフのセール中です。このゲームはオープンワールドアクションRPGであり、中世のボヘミアを舞台に物語が展開します。リアルなグラフィックと自由度の高いゲームプレイが特徴です。セール期間中は65%割引で購入可能で、非常に魅力的です。キングダムカム・デリバランスシリーズは、ストーリーとゲーム性の高さで人気を博しており。",
-        "price": "$21.00",
-        "originalPrice": "",
-        "discount": "-65%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
-        "date": "2026-07-08"
-      },
-      {
-        "title": "Devil May Cry 5 + Vergil",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲームの名作「Devil May Cry 5 + Vergil」が、現在Variousで87%割引のセール中です。このゲームは、高速でスタイリッシュなアクションと、豊富なストーリーが特徴で、高い評価を獲得しています。ファンから高い人気を誇り、シリーズの最新作として注目されています。",
-        "price": "$3.95",
-        "originalPrice": "",
-        "discount": "-87%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/devil-may-cry-5-and-vergil/info/",
-        "date": "2026-07-08"
-      },
-      {
-        "title": "Monster Hunter Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "モンスターハンターのシリーズの一つである「Monster Hunter Wilds」が、現在64%割引のセール中です。このゲームはアクションアドベンチャー系のゲームで、特徴的なハンターのキャラクターを操作して様々なモンスターと戦うことができます。評価は非常に高く、人気度も高いゲームです。価格は通常時と比較して64%オフとなっており、大幅に安くなっています。ゲームファンにはおすすめのセールです。",
-        "price": "$24.95",
-        "originalPrice": "",
-        "discount": "-64%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
-        "date": "2026-07-08"
-      },
-      {
-        "title": "DOOM: The Dark Ages",
-        "platform": "Various",
-        "type": "sale",
-        "description": "DOOM: The Dark AgesがVariousで72％割引されています。このゲームはアクションパックされたファーストパーソン・シューティングゲームで、-darkな雰囲気と激しい戦闘が特徴です。現在の大幅な割引により、通常価格よりも大幅に安価に購入できます。ファンからの評価も高く、人気度も高いので、ゲームファンにはお勧めのタイトルです。",
-        "price": "$19.87",
-        "originalPrice": "",
-        "discount": "-72%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/doom-the-dark-ages/info/",
-        "date": "2026-07-08"
-      },
-      {
-        "title": "RESIDENT EVIL 2 (2019)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "RESIDENT EVIL 2は、2019年に発売されたサバイバルホラーゲームです。このゲームは、プレイヤーがゾンビが徘徊する世界で生存するために戦う必要があり、ホラー要素とアクションが特徴です。現在、Variousで83%オフのセール中で、非常に安くなっています。このゲームは、グラフィックやゲームプレイが高く評価されており、人気も高いです。",
-        "price": "$6.75",
-        "originalPrice": "",
-        "discount": "-83%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-2-2019/info/",
-        "date": "2026-07-08"
-      },
       {
         "title": "サイバーパンク2077",
         "platform": "Steam",
@@ -532,113 +448,33 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/275850",
         "date": "2026-07-14"
+      },
+      {
+        "title": "幻想水滸伝 I&II HDリマスター 門の紋章戦争 / デュナン統一戦争",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "幻想水滸伝 I&II HDリマスターは、門の紋章戦争とデュナン統一戦争を収録した、ロールプレイングゲームです。このゲームは、魅力的なストーリーや深いキャラクター設定が特徴です。現在、Steamで50% OFFセール中で、通常価格よりも大幅に安くなっています。幻想水滸伝シリーズは、ファンから高い評価を受けており、人気度も非常に高く、多くのプレイヤーに愛されているゲームです。",
+        "price": "¥2,750",
+        "originalPrice": "¥5,500",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1932640",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "SILENT HILL f",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "SILENT HILL fがSteamで50% OFFセール中です。これは、サバイバルホラーゲームであり、恐怖とサスペンスを体験できるゲームです。通常価格から半額になるこのチャンスは、ホラーゲームファンにとって見逃せないものです。Steamユーザーの評価は非常に高く、人気度も高いゲームです。",
+        "price": "¥4,290",
+        "originalPrice": "¥8,580",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2947440",
+        "date": "2026-07-15"
       }
     ],
     "review": [
-      {
-        "title": "【『アサシン クリード ブラック フラッグ RE:シンクロ』、Steam同接「約10万人」でシリ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "アサシン クリード ブラック フラッグ RE:シンクロは、約10万人のユーザーが同時にプレイしたことがあり、非常に人気のあるゲームです。このゲームの評価ポイントとしては、美しいグラフィックやスリリングなアクションシーンが挙げられます。また、レビューの内容としては、ゲームのストーリーや操作性が高く評価されています。このゲームは、アクションアドベンチャーゲームを好むユーザーに特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260710-454226/",
-        "date": "2026-07-10",
-        "is_translated": false
-      },
-      {
-        "title": "【アニメ「Ghost of Tsushima 冥人奇譚」のキャラクターアート映像がお披露目：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、アニメ「Ghost of Tsushima 冥人奇譚」のキャラクターアート映像の紹介に焦点を当てています。評価ポイントとしては、アニメのビジュアル的にも魅力的なキャラクター造形や、ストーリーの深みなどがあげられます。レビューの内容概要としては、アニメの世界観やキャラクターの個性が細かく描かれている点が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168546.html",
-        "date": "2026-07-10",
-        "is_translated": false
-      },
-      {
-        "title": "【最大4人協力・死体処理アクション『Shady job』発表。未完成な摩天楼の頂上を目指して運搬...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Shady job』は、最大4人で協力プレイが可能な死体処理アクションゲームです。このゲームでは、未完成な摩天楼の頂上を目指して、チームワークを鍛錬しながら死体を運搬します。レビューの内容としては、ゲームの協力プレイの面白さ、グラフィックの細かい表現、そして挑戦的なステージデザインが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/shady-job-20260710-454364/",
-        "date": "2026-07-10",
-        "is_translated": false
-      },
-      {
-        "title": "【『パルワールド』正式リリースでいきなり「Steam同接20万人超」の人気爆発。新コンテンツ大量...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "パルワールドは、正式リリース直後にSteamで同時接続者が20万人を超える人気ゲームです。このゲームの評価ポイントには、ユニークなゲームシステムや多様なコンテンツが含まれています。レビューでは、新コンテンツの追加やゲームのバランス調整が評価されています。対象読者は、MMORPGやサンドボックスゲームのファンにとって、このレビューは参考になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260710-454338/",
-        "date": "2026-07-10",
-        "is_translated": false
-      },
-      {
-        "title": "【ホロライブタレント夢のアイランド「ハーモニー・ガーデン」にひと足お先に上陸！　先行プレイで日帰...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "ホロライブタレントの夢のアイランド「ハーモニー・ガーデン」についてのレビュー記事です。この記事では、先行プレイで得られた日帰りプレイの体験や感想、ゲームの評価ポイントとしてグラフィックやサウンド、ゲーム性について触れています。特に、ホロライブファンやゲーム好きの方に興味があるかもしれません。記事では、ゲームの魅力や遊び方について詳しく紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/07/10/184340.html",
-        "date": "2026-07-10",
-        "is_translated": false
-      },
-      {
-        "title": "【KTC 25M1 レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "KTC 25M1 レビューは、モニターの性能やデザイン、価格帯などを評価しています。レビューの内容としては、モニターの画質やレスポンス、コネクタの種類などが詳しく紹介されています。また、モニターの使いやすさや環境に合わせた設定のしやすさも評価ポイントに含まれています。このレビュー記事は、モニターを購入を検討している人や、ゲームやグラフィックデザインを行っている人にとって。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/ktc-25m1-review/",
-        "date": "2026-07-10",
-        "is_translated": true
-      },
-      {
-        "title": "【アサシン クリード ブラック フラッグ リシンクドの標準版は「完全な体験である」とユービーアイ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "ユービーアイソフトのアサシンクリードシリーズの最新作「アサシン クリード ブラック フラッグ リシンクド」の標準版についてのレビュー記事があります。このゲームは完全な体験であると評価されています。レビューのポイントとして、ゲームのグラフィックやサウンドデザインが高く評価されており、シリーズファンにはもちろん、新しいプレイヤーにもお勧めできる作品となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynceds-standard-edition-is-is-the-full-complete-experience-ubisoft-insist-in-response-to-steam-dlc-furore",
-        "date": "2026-07-10",
-        "is_translated": true
-      },
-      {
-        "title": "【インディーズ開発者、ゲームのレビュー爆撃の中でSteam返金悪用への批判を擁護「楽しんでクリア...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事は、インディーズゲーム開発者が、あるゲームに対するレビュー爆撃の中で、Steamの返金機能の悪用への批判を擁護している状況を取り上げています。具体的には、開発者は、プレイヤーがゲームを「楽しんでクリアした」というレビューに対して、返金の悪用を非難しています。この記事は、ゲーム開発者の視点から、Steamの返金機能の問題点と、プレイヤーとの関係を考察しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/indie-dev-defends-criticism-of-steam-refund-abuse-amid-review-bombing-of-his-game-its-wrong-to-refund-a-game-after-having-fun-with-it-and-completing-it/",
-        "date": "2026-07-10",
-        "is_translated": true
-      },
       {
         "title": "【『パックマン』『テトリス』などの名作がポケットサイズに！ 見た目も可愛い「ピクセルポケットプロ...：レビュー】",
         "platform": "インサイド",
@@ -911,8 +747,47 @@
         "url": "https://doope.jp/2026/07168645.html",
         "date": "2026-07-14",
         "is_translated": false
+      },
+      {
+        "title": "【戦国自由RPG『Expeditions: Samurai』8月7日早期アクセス配信へ。高評価シ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "戦国時代を舞台にした自由度の高いRPG『Expeditions: Samurai』のレビュー記事です。このゲームは、戦略性の高い戦闘システムや、キャラクターの育成が楽しめる点が評価ポイントです。また、グラフィックやサウンドトラックも高く評価されています。戦国時代やRPGが好きな方は、このゲームをチェックしてみてください。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260715-454989/",
+        "date": "2026-07-15",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料『サカつく2026』代表チームで競う最新イベント「インターナショナルカップ」発表...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「サカつく2026」の最新イベント「インターナショナルカップ」では、代表チームで競い合うことができます。このイベントは、基本プレイ無料のゲームで楽しむことができ、ユーザーがチームを率いて世界大会を戦うことができます。レビューのポイントとしては、イベントの新鮮さやゲーム性の向上、グラフィックの美しさなどが挙げられます。このレビューは、スポーツゲームやサッカーが好きな人に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260715-454974/",
+        "date": "2026-07-15",
+        "is_translated": false
+      },
+      {
+        "title": "【「Battlefield 6|REDSEC」に大規模な海戦を導入するシーズン4“Naval”の...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Battlefield 6」のシーズン4“Naval”では、大規模な海戦が導入されており、プレイヤーは海上での戦闘を体験できます。レビューでは、この新しい海戦システムがゲームの評価ポイントの1つとなっており、戦略的な戦闘が楽しめることが評価されています。さらに、グラフィックの向上やサウンドデザインの実現度も高く、臨場感のあるゲーム体験ができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168635.html",
+        "date": "2026-07-14",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-14T21:57:03.155205"
+  "last_updated": "2026-07-15T02:14:58.965682"
 }
