@@ -218,6 +218,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
         "date": "2026-07-15"
+      },
+      {
+        "title": "Humble Handhelds Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Humble Handhelds Bundleが販売中です。このバンドルには、主要タイトルとしてA Short Hike、Forager、West of Loathingなどが含まれています。ジャンルはアクションアドベンチャーやロールプレイングゲームなど多様で、ファンタジー要素もあります。大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/handheldsbundle_bundle",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "Liminal Spaces",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Liminal Spacesというバンドルが販売中です。これは、不穏な雰囲気を楽しみたい人向けの、アトモスフィア重視のゲームをまとめたバンドルで、主要タイトルには「The Pathless」や「Abzû」、「What Remains of Edith Finch」が含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/liminalspaces_bundle",
+        "date": "2026-07-15"
       }
     ],
     "sale": [
@@ -861,8 +885,99 @@
         "url": "https://doope.jp/2026/07168692.html",
         "date": "2026-07-15",
         "is_translated": false
+      },
+      {
+        "title": "【爆走する電車でサイバーパンクな日本を縦断する新作アクション「電車アタック」が本日発売、ローンチ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "サイバーパンクな日本の世界を舞台に、爆走する電車で冒険する新作アクションゲーム「電車アタック」が発売されました。このゲームの評価ポイントとしては、スピーディなアクションと壮大な世界観が挙げられます。レビューの内容としては、ゲームのグラフィックやサウンドトラックの質の高さ、また難易度の調整が適切であることが評価されています。サイバーパンクな世界観やアクションゲームが好きな方にはおすすめのゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168719.html",
+        "date": "2026-07-15",
+        "is_translated": false
+      },
+      {
+        "title": "【「Call of Duty: Modern Warfare 4」の新モード“Kill Bloc...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Call of Duty: Modern Warfare 4」の新モード“Kill Block”に関するレビュー記事では、ゲームの評価ポイントとして、新しいモードの導入やグラフィックの向上、ストーリーの深化が挙げられます。レビューの内容概要としては、新モードの戦略的なプレイスタイルや、グラフィックの改善による臨場感の増加、ストーリーの複雑さが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168699.html",
+        "date": "2026-07-15",
+        "is_translated": false
+      },
+      {
+        "title": "【フロム・ソフトウェアが「The Duskbloods」のネットワークテスト実施スケジュールを発...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "フロム・ソフトウェアの「The Duskbloods」のネットワークテスト実施スケジュールが発表されたことを受けて、レビュー記事が公開されました。この記事では、ゲームの評価ポイントとして、ネットワークテストの内容や、ゲームプレイの魅力について触れています。また、グラフィックやサウンドデザインの質も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168696.html",
+        "date": "2026-07-15",
+        "is_translated": false
+      },
+      {
+        "title": "【フロム・ソフトウェア新作『The Duskbloods』ネットワークテストが8月21日～24日...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "フロム・ソフトウェアの新作『The Duskbloods』のネットワークテストが8月21日から24日まで行われるというレビュー記事があります。このゲームはオンライン要素が含まれており、プレイヤー同士のバトルや協力プレイが楽しめます。レビューでは、ゲームのグラフィックやサウンドデザイン、ネットワークの安定性などが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/07/15/184605.html",
+        "date": "2026-07-15",
+        "is_translated": false
+      },
+      {
+        "title": "【ムーンライト・ピークスのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ムーンライト・ピークスのレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンドトラックの高品質さ、そしてストーリーの深さが挙げられています。また、レビューの内容としては、ゲームの雰囲気やキャラクターの魅力、そしてゲームプレイの面白さについても触れています。これらの点から見ると、ムーンライト・ピークスはグラフィックやサウンドを重視するゲーマー。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/life-sim/moonlight-peaks-review/",
+        "date": "2026-07-15",
+        "is_translated": true
+      },
+      {
+        "title": "【Dell Pro 5 ウェブカメラのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Dell Pro 5 ウェブカメラのレビュー記事では、ウェブカメラの評価ポイントとして、画質、音質、取り付けのしやすさなどが紹介されています。記事では、Dell Pro 5 ウェブカメラの優れた点として、高解像度の映像や広角のカメラなどが挙げられており、ビデオ会議やオンライン授業に適していると評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/webcams/dell-pro-5-webcam-review/",
+        "date": "2026-07-15",
+        "is_translated": true
+      },
+      {
+        "title": "【Densh Attack レビュー: 2026 年のこれまでの最高のゲームの 1 つは、鉄道、...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Densh Attackは、2026年のこれまでの最高のゲームの1つです。このゲームは、鉄道をテーマにしており、ユニークなゲーム性が特徴です。レビューの内容としては、グラフィックやサウンドの高質、加えてゲームの長さや難易度のバランスが評価されています。また、ゲームシステムの面白さや新鮮さも高く評価されています。このゲームは、鉄道ファンやアクションゲーム好きの方に特にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/denshattack-review",
+        "date": "2026-07-15",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-15T13:54:47.305535"
+  "last_updated": "2026-07-15T22:00:25.556483"
 }
