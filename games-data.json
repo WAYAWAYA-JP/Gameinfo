@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Nova Lands",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Nova Landsは、オープンワールドゲームであり、工場建設、探検、島の開発が楽しめるゲームです。このゲームの特徴は、惑星を探索しながら産業を自動管理することや、クエストに挑戦することです。また、ボットを活用して効果的に資源を管理することもできます。ゲームを進める中で、武力による解決や交渉によって困難な状況を乗り越える必要があります。",
+        "price": "無料",
+        "originalPrice": "¥23",
+        "discount": "100% OFF",
+        "deadline": "2026年07月16日まで",
+        "url": "https://store.epicgames.com/ja/p/acb83bd813054e599598de9e76f6d95d",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "Tattoo Tycoon",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "このゲームは、シミュレーションジャンルのゲームです。タトゥーアーティストとして、自分だけのタトゥースタジオを経営し、変わった好みの客に完璧なデザインを提案することが特徴です。フワっとした注文からボディアートの素晴らしさを考えながら、ささやかな個人スタジオから大成功を目指すことが魅力です。さらに、タトゥガ・ベイの様々な地域に系列店を展開することができます。",
+        "price": "無料",
+        "originalPrice": "¥34",
+        "discount": "100% OFF",
+        "deadline": "2026年07月16日まで",
+        "url": "https://store.epicgames.com/ja/p/tattoo-tycoon",
+        "date": "2026-07-16"
+      }
+    ],
     "bundle": [
       {
         "title": "Upload VR Summer 2026",
@@ -169,6 +194,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/liminalspaces_bundle",
         "date": "2026-07-15"
+      },
+      {
+        "title": "Arc System Works: Evo Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、人気ゲームメーカーのArc System Worksが提供する「Arc System Works: Evo Collection」のバンドルが販売中です。このバンドルには、主要タイトルとして「GUILTY GEAR XX ACCENT CORE PLUS R」や「BLAZBLUE CENTRALFICTION」などのファイティングゲームが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/arcsystemworksevocollection_bundle",
+        "date": "2026-07-16"
       }
     ],
     "sale": [
@@ -410,6 +447,18 @@
         "discount": "-40%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/outer-wilds/info/",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "Denshattack!",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲーム「Densha de Attack!」がVariousで32%オフのセール中です。このゲームは、ユニークな鉄道をテーマにしたアクション要素が特徴で、ユーザーの評価は非常に高い人気ゲームとなっています。現在の価格は割引前の価格より大幅に安くなっており、興味がある方にはおすすめのセールです。",
+        "price": "$13.57",
+        "originalPrice": "",
+        "discount": "-32%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/denshattack/info/",
         "date": "2026-07-16"
       }
     ],
@@ -855,8 +904,47 @@
         "url": "https://doope.jp/2026/07168698.html",
         "date": "2026-07-15",
         "is_translated": false
+      },
+      {
+        "title": "【“ひきこもりリスク”の高い人は、オンラインゲームでも交流を好まない傾向。匿名でも“人付き合いは...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、オンラインゲームにおける交流の特徴について焦点を当てています。特に、「ひきこもりリスク」が高い人々は、オンラインゲームでも他人との交流を避ける傾向にあることがわかりました。匿名性が保たれているオンライン環境においても、人々の交流に関する悩みや葛藤が浮き彫りになるという点が興味深いです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260716-455325/",
+        "date": "2026-07-16",
+        "is_translated": false
+      },
+      {
+        "title": "【『火山の娘』完全版先行プレイ感想。フルボイス化と演出強化没入感マシマシ、快適さ向上実感の新要素満載】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム『火山の娘』の完全版先行プレイについて紹介しています。フルボイス化や演出の強化により、没入感と快適さが大幅に向上しています。新しい要素も多数追加されており、ゲームの評価ポイントとしては、グラフィックやサウンドの向上、プレイアビリティの改善などが挙げられます。ゲームファンやアクションゲームが好きな人にとって、このレビューは参考になります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/volcano-princess-20260716-455268/",
+        "date": "2026-07-16",
+        "is_translated": false
+      },
+      {
+        "title": "【Secretlab Atlas レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Secretlab Atlas レビューの記事では、ゲーム用チェアの評価ポイントとして、座り心地や耐久性、デザインなどを考慮しています。記事では、チェアのクッション性や背もたれの支持度、また組み立ての容易さなどについても触れています。ゲーム愛好家や長時間パソコンを使う人向けのチェアとしての評価を探している方に読んで頂くことをお勧めします。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-chairs/secretlab-atlas-review/",
+        "date": "2026-07-16",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-16T02:27:21.736124"
+  "last_updated": "2026-07-16T10:58:20.625979"
 }
