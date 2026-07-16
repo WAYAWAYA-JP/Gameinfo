@@ -24,6 +24,30 @@
         "deadline": "2026年07月16日まで",
         "url": "https://store.epicgames.com/ja/p/tattoo-tycoon",
         "date": "2026-07-16"
+      },
+      {
+        "title": "Luto",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Lutoは、家から出られない人の役を演じる心理的ホラー体験です。逃げようとするたびに、未知の世界へとさらに深く導かれます。見た目とはまったく異なるものが待っており、すべてがあなたの感覚を試すことになります。ルートや選択肢が複数あり、プレイヤーの選択によって物語が展開します。サウンドやグラフィックもホラーな雰囲気を醸し出しており、恐怖を体験することができます。",
+        "price": "無料",
+        "originalPrice": "¥23",
+        "discount": "100% OFF",
+        "deadline": "2026年07月23日まで",
+        "url": "https://store.epicgames.com/ja/p/67459b70a96e40ca96d5676d8a4fd8c5",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "Echo Generation: Midnight Edition",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Echo Generation: Midnight Editionは、現在Epic Gamesで無料配布中のゲームです。このゲームは、RPG要素とアクション要素を兼ね備えた、ユニークなゲームジャンルを持っています。特徴としては、独自のグラフィックと、キャラクターの成長システムが魅力です。また、ストーリーは、90年代の雰囲気を感じることができ、ノスタルジックな要素もあります。",
+        "price": "無料",
+        "originalPrice": "¥24",
+        "discount": "100% OFF",
+        "deadline": "2026年07月23日まで",
+        "url": "https://store.epicgames.com/ja/p/cbf3f5857ec241bab03dbb7eb03efad8",
+        "date": "2026-07-16"
       }
     ],
     "bundle": [
@@ -459,6 +483,18 @@
         "discount": "-32%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/denshattack/info/",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サイバーパンク2077は、オープンワールドRPGとして知られており、豊富なストーリーやキャラクターが特徴です。現在、Variousで70%割引のセール中で、大幅に価格が下がっています。このゲームは、革新的なグラフィックスや深いストーリーテリングで高く評価されており、人気ゲームとして多くのプレイヤーから支持されています。",
+        "price": "$17.99",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-07-16"
       }
     ],
@@ -956,8 +992,21 @@
         "url": "https://automaton-media.com/articles/newsjp/20260716-455370/",
         "date": "2026-07-16",
         "is_translated": false
+      },
+      {
+        "title": "【Ubisoftが「Assassin’s Creed Black Flag Resynced」向...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Ubisoftが「Assassin’s Creed Black Flag Resynced」をリリースした際のレビュー記事では、ゲームの評価ポイントとしてグラフィックの向上や新しいゲームモードの追加が挙げられています。また、ゲームの自由度やストーリーの面白さも高く評価されています。このレビュー記事は、ゲームファンやアクションアドベンチャーゲームを好む人にとって参考になる情報を提供しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168709.html",
+        "date": "2026-07-16",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-16T14:07:11.772609"
+  "last_updated": "2026-07-16T22:03:47.146940"
 }
