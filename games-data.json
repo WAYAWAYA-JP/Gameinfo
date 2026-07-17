@@ -206,6 +206,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/july_2026_choice",
         "date": "2026-07-17"
+      },
+      {
+        "title": "2K Megahits 2026 Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、2K Megahits 2026 Bundleのバンドルが現在販売中です。このバンドルには、Mafia、WWE 2K、NBA 2Kシリーズなどの主要タイトルが含まれており、ジャンルはアクションやスポーツにわたっています。大まかな価格帯は1000〜2000円程度で購入可能です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/2kmegahits2026bundle_bundle",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Even Steamier Sakura Special",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleで「Even Steamier Sakura Special」のバンドルが販売中です。このバンドルには「Sakura Agent」や「Sakura Nova」などの主要タイトルが含まれており、エロジックアドベンチャーゲームジャンルが中心となっています。大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/evensteamiersakuraspecial_bundle",
+        "date": "2026-07-17"
       }
     ],
     "sale": [
@@ -459,6 +483,18 @@
         "discount": "-64%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Catch Me",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲーム「Catch Me」が、バラエティ豊かな「Various」でセール中です。このゲームは、スピーディな操作と戦略的な思考が必要な、刺激的なゲームプレイを提供します。通常価格より大幅に割引された価格で購入でき、多くのユーザーから高い評価を得ています。人気度も高く、ファンからは「面白い」と評価されています。",
+        "price": "$1.99",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/catch-me/info/",
         "date": "2026-07-17"
       }
     ],
@@ -956,8 +992,73 @@
         "url": "https://automaton-media.com/articles/newsjp/20260717-455636/",
         "date": "2026-07-17",
         "is_translated": false
+      },
+      {
+        "title": "【“Yooka-Laylee”のマリオカート系レースゲーム「Super Yooka-Laylee...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Yooka-Laylee」のマリオカート系レースゲーム「Super Yooka-Laylee...：レビュー」のレビュー記事では、ゲームの評価ポイントとしてグラフィックや操作性が高く評価されています。また、レビューの内容概要として、レースゲームとしての完成度やキャラクターの魅力が述べられています。このレビュー記事は、レースゲームや「Yooka-Laylee」シリーズのファンに特に役立つでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168764.html",
+        "date": "2026-07-17",
+        "is_translated": false
+      },
+      {
+        "title": "【“トップガン”コラボを含む「Battlefield 6」シーズン4の詳細が解禁、開幕は7月21日：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Battlefield 6」のシーズン4の詳細が解禁されました。シーズン4では、「トップガン」コラボも含まれており、開幕は7月21日です。このレビュー記事では、「Battlefield 6」の最新シーズンの評価ポイントを紹介します。記事の内容概要としては、コラボの内容や新機能の説明、またゲームのグラフィックやサウンドの評価などが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168778.html",
+        "date": "2026-07-17",
+        "is_translated": false
+      },
+      {
+        "title": "【「Starfield」の累計プレイヤー数が1,700万人を突破、新コンテンツ“Starborn...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Starfield」の累計プレイヤー数が1,700万人を突破したことを受け、新コンテンツ「Starborn」のレビュー記事があります。このゲームは、広大な宇宙を自由に探索できるオープンワールドゲームとして高い評価を受けています。レビューでは、ゲームのグラフィックやサウンドトラック、そして新しいコンテンツの追加により、ゲームの世界がさらに豊かになったと評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168769.html",
+        "date": "2026-07-17",
+        "is_translated": false
+      },
+      {
+        "title": "【「The Elder Scrolls VI」の開発は計画通りに進行中、Bethesda Gam...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「The Elder Scrolls VI」の開発状況についてのレビュー記事があります。このゲームの評価ポイントとして、グラフィックの質やストーリーの深さが挙げられます。レビューの内容概要としては、開発の進行状況やゲームの期待度について触れています。対象読者は、The Elder Scrollsシリーズのファンや新作ゲームに興味がある人です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168768.html",
+        "date": "2026-07-17",
+        "is_translated": false
+      },
+      {
+        "title": "【Hytale が 22 のビデオと 37 の新しい画像を含む今後のコンテンツの大規模なプレビュ...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Hytale のレビュー記事では、22 のビデオと 37 の新しい画像を含む大規模なコンテンツのプレビューが紹介されています。ゲームの評価ポイントとして、グラフィックやサウンドの質が高く、ゲームプレイが面白いことが挙げられています。さらに、ゲームの世界観やストーリーも評価されています。このレビュー記事は、Hytale に興味がある人や、ゲームの最新情報を知りたい人におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/hytale-releases-massive-preview-of-upcoming-content-including-22-videos-and-37-new-images/",
+        "date": "2026-07-17",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-17T13:51:00.494116"
+  "last_updated": "2026-07-17T21:53:29.241019"
 }
