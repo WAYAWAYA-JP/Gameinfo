@@ -194,6 +194,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/arcsystemworksevocollection_bundle",
         "date": "2026-07-16"
+      },
+      {
+        "title": "July 2026 Humble Choice",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、2022年7月のHumble Choiceバンドルが販売中です。このバンドルには、「Stray」、「The Ascent」、「F1 2021」などのタイトルが含まれており、ジャンルはアクションやレースなど多様です。大まかな価格帯は10ドルから20ドル程度で、バンドル内容や価格は変動する可能性があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/july_2026_choice",
+        "date": "2026-07-17"
       }
     ],
     "sale": [
@@ -411,6 +423,30 @@
         "discount": "-50%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/lies-of-p/info/",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Capcom Arcade Stadium Complete Pack",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気のゲームプラットフォームであるSteamで、Capcom Arcade Stadium Complete Packが75%オフのセール中です。このパックは、Capcomの名作アーケードゲームをまとめたもので、クラシックなアクションゲームやシューティングゲームが楽しめます。セール価格で購入することで、大幅な割引を受けることができます。Steamユーザーからは、高評価を得ています。",
+        "price": "¥1,497",
+        "originalPrice": "¥5,990",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1257696",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "SILENT HILL 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サバイバルホラーゲームであるSILENT HILL 2が、現在61%割引されて販売中です。このゲームは、心を震わすストーリーと、アットモスフィアのあるサウンドデザインで知られており、ホラーゲームファンには必見の作品です。高い評価と人気があるこのゲームを、格安の価格で体験することができます。",
+        "price": "$26.95",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
         "date": "2026-07-17"
       }
     ],
@@ -869,8 +905,34 @@
         "url": "https://doope.jp/2026/07168709.html",
         "date": "2026-07-16",
         "is_translated": false
+      },
+      {
+        "title": "【傑作フリーゲーム刷新版『ギャリー邸事件』、好評率97％の圧倒的スタート。過去の「残響」を読み解...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、フリーゲーム『ギャリー邸事件』の評価ポイントについて紹介しています。好評率97％という高評価を得ているこのゲームの特徴や魅力がわかります。ゲームのストーリーやシステム、グラフィックなどについても触れています。さらに、過去の「残響」との関連性も読み解かれています。ゲームファンや新しいゲームを探している人にとって、参考になる情報が得られると思います。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260717-455566/",
+        "date": "2026-07-17",
+        "is_translated": false
+      },
+      {
+        "title": "【愉快な人気パーティゲーム続編「Heave Ho 2」が本日発売、賑やかなゲームプレイを紹介する...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気パーティゲームの続編「Heave Ho 2」が発売されました。このゲームは、プレイヤーが協力して目標を達成することを目指し、ユーモアあふれるキャラクターとコミカルなゲームプレイが特徴です。評価ポイントとしては、ゲームの多人数プレイ機能、ユニークなステージデザイン、そして笑いを誘うキャラクターの挙動が挙げられます。パーティゲームやコメディーが好きな方は、ぜひこのゲームを試してみてください。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168757.html",
+        "date": "2026-07-17",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-17T02:29:55.687860"
+  "last_updated": "2026-07-17T10:45:58.371674"
 }
