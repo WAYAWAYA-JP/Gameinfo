@@ -52,42 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Upload VR Summer 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Upload VR Summer 2026のバンドルが現在販売中です。このバンドルには、人気のVRゲームを収録しており、主要タイトルとして「Superhot VR」や「Job Simulator」などが含まれています。ジャンルはアクションやシミュレーションが中心で、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/uploadvrsummer2026_bundle",
-        "date": "2026-07-07"
-      },
-      {
-        "title": "Dungeon Defenders II Complete DLC Chest",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Dungeon Defenders II Complete DLC Chestというバンドルの販売が行われています。このバンドルには、Dungeon Defenders IIを始めとする主要タイトルが含まれており、アクションやタワーディフェンス要素が含まれたゲームを楽しむことができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/dungeondefendersiicompletedlcchest_bundle",
-        "date": "2026-07-07"
-      },
-      {
-        "title": "July 2026 Humble Choice",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、2022年7月のHumble Choiceのバンドルが販売中です。このバンドルには、主要タイトルとして「Stray」、「F1 2021」、「Far Cry 6」などのゲームが含まれています。このバンドルはアクションゲームやアドベンチャーゲームを中心としたもので、価格帯はおよそ1,200円から1,500円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/july_2026_choice",
-        "date": "2026-07-07"
-      },
-      {
         "title": "June 2unes",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,66 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "The Last of Us™ Part I",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Last of Us Part Iがバラエティストアで16％オフのセール中です。このアクションアドベンチャーゲームは、感動的なストーリーと高品質のグラフィックで人気を博しており、レビューでも非常に高く評価されています。通常価格よりも安く入手できるこの機会を逃さないでください。",
-        "price": "$49.54",
-        "originalPrice": "",
-        "discount": "-16%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-last-of-us-part-i/info/",
-        "date": "2026-07-10"
-      },
-      {
-        "title": "God of War",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームの「God of War」がVariousで15%オフのセール中です。このゲームは、激しい戦闘や壮大なストーリーで知られており、非常に人気があり、高い評価を受けています。セール価格で購入することで、大幅な割引を受けることができますので、おすすみです。",
-        "price": "$42.49",
-        "originalPrice": "",
-        "discount": "-15%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/god-of-war/info/",
-        "date": "2026-07-10"
-      },
-      {
-        "title": "プラネット ズー",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "プラネット ズーは、Steamで現在95% OFFのセール中です。このゲームは、ユニークなゲーム性と面白いストーリーが特徴で、多くのユーザーから高評価を得ています。人気度も高く、ゲームファンからの支持も厚いです。通常価格より大幅に安くなっているので、気になる方はこの機会にぜひお試しください。",
-        "price": "¥237",
-        "originalPrice": "¥4,750",
-        "discount": "95% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/703080",
-        "date": "2026-07-10"
-      },
-      {
-        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-        "platform": "Various",
-        "type": "sale",
-        "description": "S.T.A.L.K.E.R. 2: Heart of Chornobylは、オープンワールドとFPSの要素を組み合わせたサバイバルホラーゲームであり、ウクライナのチェルノブイリ原子力発電所を舞台にしているので、リアルなグラフィックと緊張感のあるゲームプレイが特徴です。このゲームは現在、40%割引で販売されており、非常に魅力的です。また、ゲームの評価は高く、人気度も高いので、おすすみです。",
-        "price": "$36.20",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
-        "date": "2026-07-10"
-      },
-      {
-        "title": "Detroit: Become Human",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Detroit: Become Humanは、サイバーパンクを舞台にしたアドベンチャーゲームです。これは、Androidたちが人間と共存する世界を描いた、物語重視のゲームで、プレイヤーの選択によってストーリーが変化します。現在、84%の割引で提供されており、非常に魅力的です。また、このゲームは高い評価を受けており、多くのプレイヤーから人気を博しています。",
-        "price": "$6.51",
-        "originalPrice": "",
-        "discount": "-84%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
-        "date": "2026-07-10"
-      },
       {
         "title": "Nova Lands",
         "platform": "Various",
@@ -496,61 +400,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-07-16"
+      },
+      {
+        "title": "Lies Of P",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Lies Of Pは、Variousで現在50%割引のセール中です。このゲームは、アクションアドベンチャーを融合させた独自のジャンルで人気を博しており、多くのユーザーから高い評価を得ています。現在の価格は割引により大幅に下がっており、魅力的なストーリーや快適なゲームプレイを楽しむ機会です。",
+        "price": "$29.99",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/lies-of-p/info/",
+        "date": "2026-07-17"
       }
     ],
     "review": [
-      {
-        "title": "【『ミカクテイ事件の観測者』の完成度に度肝を抜かれた。『エコーズ・オブ・アインクラッド』の戦闘は...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム「ミカクテイ事件の観測者」の完成度や「エコーズ・オブ・アインクラッド」の戦闘システムについて評価しています。記事では、これらのゲームの評価ポイントとしてストーリーやグラフィックのクオリティ、そして戦闘システムの複雑さなどが取り上げられています。ゲームファンや新しいタイトルを探している人にとっては、参考になる情報が得られるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260712-454597/",
-        "date": "2026-07-12",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料『NTE』大型アプデで“別のゲーム”まで実装。異世界RPGに空飛ぶ無敵バイク、「...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "この記事は、基本プレイ無料のゲーム『NTE』の大型アップデートについて紹介しています。アップデートにより、空飛ぶ無敵バイクが実装され、ゲームの内容が大幅に変更されました。この記事は、ゲームの評価ポイントとしてアップデート後の新しいゲーム性や空飛ぶバイクの導入について触れています。特に、ゲームの自由度の向上や、新しい要素の搭載による新鮮さについて評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260711-454484/",
-        "date": "2026-07-12",
-        "is_translated": false
-      },
-      {
-        "title": "【サッカーW杯で熱い『サカつく2026』累計500時間プレイヤーが配布選手“平塚浪馬”フル活用で...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、サッカーW杯をテーマにしたゲーム『サカつく2026』について紹介しています。このゲームは、サッカーW杯の熱気を体験できる内容で、特に累計500時間プレイヤーには特別な配布選手「平塚浪馬」が用意されています。ゲームの評価ポイントとしては、リアルなサッカーの再現度や、ユーザーの自由度が高いという点が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260711-454456/",
-        "date": "2026-07-12",
-        "is_translated": false
-      },
-      {
-        "title": "【REJECT・Euriece（ユリース）「自分の仕事以上のプレイを」―世界大会での経験とチーム...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事は、プロゲーマーであるREJECT・Euriece（ユリース）について紹介しています。世界大会での経験とチームでの活動について語り、更なる成長への意欲を感じることができます。ゲーマーだけでなく、チームスポーツのファンにもおすすめの記事です。ユリースのプレイスタイルや対戦の戦略についても触れていますので、ゲームファンは必読の記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/07/12/184424.html",
-        "date": "2026-07-12",
-        "is_translated": false
-      },
       {
         "title": "【基本プレイ無料FPS『サドンアタック：ゼロポイント』7月30日より早期アクセス配信へ。人気老舗...】",
         "platform": "AUTOMATON",
@@ -1008,5 +872,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-16T22:03:47.146940"
+  "last_updated": "2026-07-17T02:29:55.687860"
 }
