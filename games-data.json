@@ -448,6 +448,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
         "date": "2026-07-17"
+      },
+      {
+        "title": "Metaphor: ReFantazio",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Metaphor: ReFantazioは、 Variousで64%割引されています。这はアドベンチャーゲームで、ファンタジーな世界を探索することができます。ユーザーの評価は良好で、人気度も高いゲームです。現在の価格は割引された状態なので、興味がある方はこの機会にチェックしてみてください。",
+        "price": "$24.99",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
+        "date": "2026-07-17"
       }
     ],
     "review": [
@@ -931,8 +943,21 @@
         "url": "https://doope.jp/2026/07168757.html",
         "date": "2026-07-17",
         "is_translated": false
+      },
+      {
+        "title": "【『ゼンレスゾーンゼロ』新バージョンは7月29日リリースへ。満を持して登場の新プレイアブルキャラ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ゼンレスゾーンゼロ』の新バージョンは7月29日にリリースされることが決定しました。この新バージョンには、新しいプレイアブルキャラクターが追加されるなど、多くの更新が行われています。本稿では、この新バージョンのゲームの評価ポイントを3点ほど紹介します。まず、新キャラクターの導入により、プレイヤーはより多様な戦略を立てることができます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260717-455636/",
+        "date": "2026-07-17",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-17T10:45:58.371674"
+  "last_updated": "2026-07-17T13:51:00.494116"
 }
