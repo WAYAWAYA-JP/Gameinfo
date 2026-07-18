@@ -460,6 +460,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-life-and-suffering-of-sir-brante/info/",
         "date": "2026-07-18"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストは、オープンワールドアクションアドベンチャーゲームであり、自由に世界を移動してミッションをクリアしたり、様々なアクティビティに参加したりすることができます。現在、Steamで50%OFFのセール中であり、大幅に安くなっています。評価も非常に高く、人気のゲームとして知られています。",
+        "price": "¥2,190",
+        "originalPrice": "¥4,380",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-07-18"
       }
     ],
     "review": [
@@ -930,8 +942,47 @@
         "url": "https://doope.jp/2026/07168803.html",
         "date": "2026-07-18",
         "is_translated": false
+      },
+      {
+        "title": "【モンスターしばきローグライク×オートバトル『Guildrun』、体験版からさっそく大人気の様相...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Guildrunは、モンスターしばきローグライクとオートバトルを組み合わせたゲームで、体験版から人気を博しています。レビューでは、ゲームの評価ポイントとして、戦略的で複雑なゲームシステムや、キャラクターの育成要素、そしてリプレイ性の高さを挙げています。さらに、ゲームの雰囲気やグラフィックの퀄리ティも高く、ローグライクゲームファンやオートバトルゲームファンに人気があると言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/guildrun-20260718-455700/",
+        "date": "2026-07-18",
+        "is_translated": false
+      },
+      {
+        "title": "【マルチ対応・鉱石掘りまくり工場自動化シム『Ore Factory Squad』、デモ版の勢いそ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Ore Factory Squadは、マルチプレイ対応の鉱石掘りまくり工場自動化シミュレーションゲームです。このゲームの評価ポイントとしては、工場の自動化システムやマルチプレイの実装が挙げられます。レビューの内容概要としては、ゲームのシステムの深さや、プレイヤー同士の協力プレイの楽しさが評価されています。このゲームは、シミュレーションゲームやマルチプレイゲームが好きな人にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260718-455675/",
+        "date": "2026-07-18",
+        "is_translated": false
+      },
+      {
+        "title": "【人気サバイバルサンドボックス「Necesse」初の大型アップデート“錆とロマンス”の配信が7月...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気サバイバルサンドボックスゲーム「Necesse」の大型アップデート「錆とロマンス」が7月に配信されました。このアップデートは、新しい機能やアイテムを追加し、ゲームの世界をより豊かにします。レビューでは、このアップデートがゲームのプレイ性やグラフィックを向上させたと評価しています。また、新しいストーリーやキャラクターの追加も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168808.html",
+        "date": "2026-07-18",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-18T02:20:20.219482"
+  "last_updated": "2026-07-18T10:17:38.761847"
 }
