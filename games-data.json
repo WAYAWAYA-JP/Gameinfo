@@ -234,54 +234,6 @@
     ],
     "sale": [
       {
-        "title": "Nova Lands",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Nova LandsがVariousで100%割引されています。このゲームは、広大な宇宙を舞台にしたアクションアドベンチャーゲームです。プレイヤーは、さまざまな惑星を探索し、異星人の攻撃から人々を守るために戦います。現在、セール中で、通常価格から100%割引されており、無料でプレイできます。ユーザーの評価は非常に高く、人気度も高いので、興味がある人はぜひチェックしてみてください。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/nova-lands/info/",
-        "date": "2026-07-11"
-      },
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストは、オープンワールドアクションアドベンチャーゲームです。このゲームは、美麗なグラフィックと自由度の高いゲームプレイが特徴です。現在、Steamで56% OFFのセール中で、通常価格よりも大幅に安くなっています。このゲームは、ユーザーから非常に高い評価を受けており、世界中で人気を博しています。",
-        "price": "¥2,851",
-        "originalPrice": "¥6,480",
-        "discount": "56% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-07-11"
-      },
-      {
-        "title": "DEATH STRANDING 2: ON THE BEACH",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲーム「DEATH STRANDING 2: ON THE BEACH」が、現在Variousで31%割引のセール中です。このゲームは、ユニークなゲームプレイとストーリーで人気を博しており、多くのプレイヤーから高い評価を得ています。セール期間中は、通常価格よりも大幅に安くなり、格安で購入することができます。",
-        "price": "$48.35",
-        "originalPrice": "",
-        "discount": "-31%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/death-stranding-2-on-the-beach/info/",
-        "date": "2026-07-11"
-      },
-      {
-        "title": "Marvel's Spider-Man Remastered",
-        "platform": "Various",
-        "type": "sale",
-        "description": "人気のオープンワールドアクションゲーム、Marvel's Spider-Man RemasteredがVariousで58%オフのセール中です。このゲームは、スパイダーマンの魅力を存分に楽しむことができ、グラフィックやゲームプレイも高く評価されています。プレイヤーは、ニューヨーク市を自由に移動し、様々なミッションやボスバトルを体験できます。",
-        "price": "$24.99",
-        "originalPrice": "",
-        "discount": "-58%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
-        "date": "2026-07-11"
-      },
-      {
         "title": "The Alters",
         "platform": "Various",
         "type": "sale",
@@ -496,100 +448,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/catch-me/info/",
         "date": "2026-07-17"
+      },
+      {
+        "title": "The Life and Suffering of Sir Brante",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Life and Suffering of Sir BranteがVariousで100%割引されています。このゲームは、選択によってストーリーが変化するアドベンチャーゲームで、プレイヤーは中世の貴族の生涯を体験します。評価は非常に高く、多くのユーザーから称賛されており、現在は無料でプレイすることができます。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-life-and-suffering-of-sir-brante/info/",
+        "date": "2026-07-18"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料FPS『サドンアタック：ゼロポイント』7月30日より早期アクセス配信へ。人気老舗...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "人気老舗FPSシリーズの最新作『サドンアタック：ゼロポイント』が7月30日より早期アクセス配信を開始するというニュースを受けて、ゲームのレビュー記事が公開されています。このゲームは基本プレイ無料で、早期アクセス配信では様々なモードやマップがプレイ可能になります。レビュー記事では、ゲームのグラフィックやサウンド、ゲームプレイの快適さなどが評価ポイントとして取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260713-454629/",
-        "date": "2026-07-13",
-        "is_translated": false
-      },
-      {
-        "title": "【「Warhammer 40,000: Dark Heresy」の新たなプレイアブルキャラクター...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Warhammer 40,000: Dark Heresy」の新たなプレイアブルキャラクターについてのレビュー記事です。このゲームは、ダークファンタジー世界を舞台に、プレイヤーがキャラクターを操作して戦略的に戦うことができます。このレビューでは、新キャラクターの能力や戦闘スタイル、グラフィックの質などの評価ポイントについて触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168593.html",
-        "date": "2026-07-13",
-        "is_translated": false
-      },
-      {
-        "title": "【「非常に残念な見落とし」：サウジアラビアのスタジオ所有権に対する反発を受け、ゲームはすぐに終了...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、サウジアラビアのスタジオ所有権に対する反発を受けてゲームがすぐに終了したことを評価しています。ゲームの評価ポイントとしては、ゲームの内容が期待はずれだったこと、サウジアラビアのスタジオ所有権が問題視されたこと、そしてゲームの終了が早すぎたことなどが挙げられます。レビューの内容概要としては、ゲームの内容の不足、所有権問題の影響、そしてゲームの短期間での終了が指摘されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/an-oversight-we-deeply-regret-games-done-quick-cancel-snk-sponsored-stream-following-backlash-over-studios-saudi-arabian-ownership",
-        "date": "2026-07-13",
-        "is_translated": true
-      },
-      {
-        "title": "【ゴールデンアイ系レトロスパイシューター「Agent 64: Spies Never Die」の...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Agent 64: Spies Never Die」はゴールデンアイ系レトロスパイシューターとして発売されており、レトロなグラフィックやサウンド、そしてスパイアクションを楽しむことができます。レビューの評価ポイントとしては、レトロな雰囲気を再現したグラフィックやサウンド、そしてスパイアクションの面白さが挙げられます。また、ゲームの難易度やステージ構成も評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168646.html",
-        "date": "2026-07-13",
-        "is_translated": false
-      },
-      {
-        "title": "【モバイル版「Don’t Starve Together」のゲームプレイ映像が登場、発売は202...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "モバイル版「Don’t Starve Together」のレビューでは、ゲームプレイの自由度やサバイバル要素の評価が高まっています。また、ユーザーインターフェースやゲームバランスの見直しが行われている点も評価ポイントとなっています。このレビューは、サバイバルゲームファンやモバイルゲームプレイヤーにとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168631.html",
-        "date": "2026-07-13",
-        "is_translated": false
-      },
-      {
-        "title": "【Summer Games Done Quick が慈善活動に 240 万ドルを集め、サウジアラ...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Summer Games Done Quick は慈善活動に 240 万ドルを集めました。このイベントのレビュー記事では、イベントの評価ポイントとして、参加者の熱意やゲームプレイの質の高さが取り上げられています。また、サウジアラビアにおけるこのイベントの影響や、ゲームコミュニティへの貢献度も評価されています。この記事は、ゲームイベントや慈善活動に興味がある人に読んでほしい内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/summer-games-done-quick-raises-usd2-4-million-for-charity-cancels-sponsored-stream-with-snk-over-saudi-arabia-ties/",
-        "date": "2026-07-13",
-        "is_translated": true
-      },
-      {
-        "title": "【「非常に遺憾な見落とし」：サウジアラビアのスタジオ所有権に対する反発を受け、ゲームはすぐに終了...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、サウジアラビアのスタジオ所有権に対する反発を受けてゲームが終了したことを取り上げています。ゲームの評価ポイントとしては、ゲームデザインやストーリーの面白さが挙げられますが、スタジオ所有権問題が大きな評価ポイントになっています。対象読者は、ゲームファンや社会問題に関心がある人です。記事では、ゲームの終了が「非常に遺憾な見落とし」であったと評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/an-oversight-we-deeply-regret-games-done-quick-cancel-snk-sponsored-stream-following-backlash-over-studios-saudi-arabian-ownership",
-        "date": "2026-07-13",
-        "is_translated": true
-      },
       {
         "title": "【『アサシン クリード ブラック フラッグ RE:シンクロ』レビュー。リメイクにより文脈から切り...】",
         "platform": "AUTOMATON",
@@ -601,19 +474,6 @@
         "deadline": "",
         "url": "https://automaton-media.com/articles/impressionjp/ac4-20260714-454785/",
         "date": "2026-07-14",
-        "is_translated": false
-      },
-      {
-        "title": "【ソーシャルディダクションゲームに焦点を当てる「Steamソーシャルディダクションフェス」が開幕...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Steamソーシャルディダクションフェスは、ソーシャルディダクションゲームに焦点を当てたイベントです。このイベントは、プレイヤーがさまざまなソーシャルディダクションゲームを体験することができ、各ゲームのユニークな要素や魅力を探求することができます。評価ポイントとしては、ゲームのグラフィックやサウンドデザイン、そしてプレイヤー同士の交流ができる度合いなどが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168652.html",
-        "date": "2026-07-13",
         "is_translated": false
       },
       {
@@ -1057,8 +917,21 @@
         "url": "https://www.pcgamer.com/games/survival-crafting/hytale-releases-massive-preview-of-upcoming-content-including-22-videos-and-37-new-images/",
         "date": "2026-07-17",
         "is_translated": true
+      },
+      {
+        "title": "【高い評価を獲得したナラティブRPG「The Life and Suffering of Sir...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ナラティブRPG「The Life and Suffering of Sir...」は高い評価を獲得しており、レビューではストーリーが深く感動的なものであることや、プレイヤーの選択が重要な役割を果たすことが評価ポイントとして挙げられています。また、ゲームの世界観やキャラクター設定も高く評価されており、RPGファンやストーリー重視のプレイヤーにとっては必見の作品です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168803.html",
+        "date": "2026-07-18",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-17T21:53:29.241019"
+  "last_updated": "2026-07-18T02:20:20.219482"
 }
