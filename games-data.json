@@ -460,6 +460,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/echo-generation-midnight-edition/info/",
         "date": "2026-07-19"
+      },
+      {
+        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "platform": "Various",
+        "type": "sale",
+        "description": "S.T.A.L.K.E.R. 2: Heart of Chornobylは、ファーストパーソン・シューティングゲームに分類されるオープンワールドのサバイバルホラーゲームです。このゲームは、グラフィックやサウンドデザインが高く評価されており、プレイヤーは放射能に汚染されたチェルノブイル原子力発電所周辺の地域を探索しながら、さまざまなミッションをこなしていきます。",
+        "price": "$49.79",
+        "originalPrice": "",
+        "discount": "-17%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "Palworld",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Palworldは、ユニークなキャラクターと広大な世界を特徴とする、オープンワールドアドベンチャーゲームです。このゲームでは、様々なパルを集め、育て、冒険のパートナーとして活用することができます。現在、Variousで30%割引のセール中であり、大幅に安価な価格で購入することが可能です。Palworldは、ユーザーから高い評価を得ており、多くのゲーマーに支持されています。",
+        "price": "$20.99",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/palworld/info/",
+        "date": "2026-07-19"
       }
     ],
     "review": [
@@ -894,5 +918,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-19T13:37:26.794708"
+  "last_updated": "2026-07-19T21:51:59.515766"
 }
