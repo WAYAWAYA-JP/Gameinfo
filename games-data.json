@@ -448,6 +448,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/indiana-jones-and-the-great-circle/info/",
         "date": "2026-07-18"
+      },
+      {
+        "title": "Echo Generation: Midnight Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Echo Generation: Midnight Editionは、ロールプレイングゲームとアクションゲームの要素を組み合わせたユニークなゲームで、現在Variousで100%割引されていて、完全無料で遊ぶことができます。このゲームは、ストーリーテリングとキャラクターデザインが高く評価されており、ファンから人気を博しています。無料でプレイできるこの機会を逃さないでください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/echo-generation-midnight-edition/info/",
+        "date": "2026-07-19"
       }
     ],
     "review": [
@@ -866,8 +878,21 @@
         "url": "https://automaton-media.com/articles/newsjp/20260719-455716/",
         "date": "2026-07-19",
         "is_translated": false
+      },
+      {
+        "title": "【『亰都ザナドゥ』でペルソナなメトロイドヴァニア学園生活シムを楽しむ。『アーケロン』新モードで色...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "この記事では、『亰都ザナドゥ』と『アーケロン』のレビューを紹介しています。『亰都ザナドゥ』では、ペルソナのようなキャラクターとメトロイドヴァニアスタイルのゲームプレイが特徴的です。また、学園生活シミュレーション要素も含まれています。一方、『アーケロン』では、新しいモードが追加されており、より多様なゲーム体験が楽しめます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260719-455748/",
+        "date": "2026-07-19",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-19T02:32:59.112358"
+  "last_updated": "2026-07-19T10:26:32.383532"
 }
