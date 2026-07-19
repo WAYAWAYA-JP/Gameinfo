@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "June 2unes",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、June 2unesのバンドルが現在販売中です。このバンドルには、主要タイトルとして「Ori and the Blind Forest」、「Cuphead」、「Hyper Light Drifter」などのゲームが含まれています。ジャンルはアクションアドベンチャーやシューティングゲームを中心に構成されており、大まかな価格帯は15ドルから25ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/june2unes_bundle",
-        "date": "2026-07-09"
-      },
-      {
         "title": "Narrative 12 for $10 Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,30 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "The Alters",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Altersは、 Variousで現在52%オフのセール中です。このゲームは、ユニークなゲーム性とストーリーが特徴で、ファンタジーとアドベンチャーの要素を組み合わせたものです。セール価格で購入することで、通常価格よりも大幅に安くプレイすることができます。ユーザーの評価は非常に高く、人気度も高まっています。",
-        "price": "$16.80",
-        "originalPrice": "",
-        "discount": "-52%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-alters/info/",
-        "date": "2026-07-12"
-      },
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームのStrayがVariousで50%割引になりました。このゲームは、猫の視点から探索するユニークな体験を提供し、美しいグラフィックと面白いストーリーが特徴です。現在の価格は割引されていますので、興味がある方はこの機会にチェックしてみてください。レビュアーからも高い評価を得ており、人気のゲームとなっています。",
-        "price": "$14.89",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-07-12"
-      },
       {
         "title": "Dead Cells",
         "platform": "Various",
@@ -488,97 +452,6 @@
     ],
     "review": [
       {
-        "title": "【『アサシン クリード ブラック フラッグ RE:シンクロ』レビュー。リメイクにより文脈から切り...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『アサシン クリード ブラック フラッグ RE:シンクロ』は、リメイクされた作品であり、オリジナルの文脈から切り離された独自の世界観を持ちます。このゲームは、グラフィックの向上や新しいゲームモードの追加など、多くの改良点があります。ゲームの評価ポイントとしては、スムーズな操作性や豊富なミッション内容が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/ac4-20260714-454785/",
-        "date": "2026-07-14",
-        "is_translated": false
-      },
-      {
-        "title": "【大ヒット3Dアニメ会社が本気で作る初ゲーム『BRINGER』は清々しいほど“映像特化”。AAA...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "大ヒット3Dアニメ会社が初めてゲームを作った『BRINGER』は、映像に特化したゲームです。このゲームの評価ポイントは、見た目の美しさやストーリーの面白さ、それから操作のしやすさなどです。ゲームのレビューでは、グラフィックのクオリティが高いことや、キャラクターのデザインが素晴らしいこと、それからサウンドトラックが印象的なことなどが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260714-454950/",
-        "date": "2026-07-14",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料FPS『サドンアタック：ゼロポイント』試遊感想。あの頃のFPSは、こんなにも無骨...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、基本プレイ無料のFPSゲーム「サドンアタック：ゼロポイント」の試遊感想を紹介しています。ゲームの評価ポイントとしては、クラシックなFPSの無骨さやシンプルなゲーム性が際立っていることがあげられます。レビューの内容概要としては、ゲームの操作感やグラフィックの質などが紹介されています。この記事は、FPSゲームやクラシックゲームのファンにとって、参考になる情報が含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/sa-20260714-454924/",
-        "date": "2026-07-14",
-        "is_translated": false
-      },
-      {
-        "title": "【「100時間超プレイヤー」続出の百合恋愛ゲーム『恋に落ちるしかなかった』、強火ファン量産の裏側...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、百合恋愛ゲーム『恋に落ちるしかなかった』について取り上げており、100時間以上プレイしたプレイヤーが続出しているという評価ポイントが特筆されます。記事では、このゲームの強烈なファン層を生み出す要因や、ゲームの魅力についても触れています。主な対象読者は、このゲームのファンや恋愛ゲームに興味がある人たちです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/20260714-454923/",
-        "date": "2026-07-14",
-        "is_translated": false
-      },
-      {
-        "title": "【プレイヤーの行動や声をまねるAIが出現する独創的なCo-opサバイバルホラー「MIMESIS」...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「MIMESIS」という独創的なCo-opサバイバルホラーは、プレイヤーの行動や声をまねるAIが出現することでユニークな体験を提供します。このゲームは、恐怖を共有するための協力プレイや、AIの学習能力を上手く利用する戦略を評価します。ゲームの評価ポイントとしては、AIの学習能力や協力プレイの重要性が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168666.html",
-        "date": "2026-07-14",
-        "is_translated": false
-      },
-      {
-        "title": "【新作『白銀の城』は中国でもかなりの注目度！ 「BW2026」会場で体験したボス「Vita et...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "新作『白銀の城』は中国でも注目度が高いゲームです。『BW2026』会場では、ボス「Vita et...」との対決が体験できました。このゲームの評価ポイントは、グラフィックの美しさや難易度の高さなどです。レビューの内容概要としては、ゲームのストーリーや操作感などが高く評価されています。このゲームは、格闘ゲームファンやアクションゲーム好きの方にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/07/14/184517.html",
-        "date": "2026-07-14",
-        "is_translated": false
-      },
-      {
-        "title": "【王国防衛ローグライト「The King is Watching」のコンソール版ローンチが202...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「The King is Watching」のコンソール版が202年でローンチされ、レビュー記事が公開されています。このゲームはローグライトジャンルの王国防衛ゲームで、プレイヤーは王国を防衛するために様々な戦略を講じる必要があります。レビューでは、ゲームの評価ポイントとして、独自のローグライトシステムや、王国の防衛を助けるためのアイテムやスキルの豊富さが挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168645.html",
-        "date": "2026-07-14",
-        "is_translated": false
-      },
-      {
         "title": "【戦国自由RPG『Expeditions: Samurai』8月7日早期アクセス配信へ。高評価シ...】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -602,19 +475,6 @@
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20260715-454974/",
         "date": "2026-07-15",
-        "is_translated": false
-      },
-      {
-        "title": "【「Battlefield 6|REDSEC」に大規模な海戦を導入するシーズン4“Naval”の...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Battlefield 6」のシーズン4“Naval”では、大規模な海戦が導入されており、プレイヤーは海上での戦闘を体験できます。レビューでは、この新しい海戦システムがゲームの評価ポイントの1つとなっており、戦略的な戦闘が楽しめることが評価されています。さらに、グラフィックの向上やサウンドデザインの実現度も高く、臨場感のあるゲーム体験ができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168635.html",
-        "date": "2026-07-14",
         "is_translated": false
       },
       {
@@ -993,8 +853,21 @@
         "url": "https://doope.jp/2026/07168808.html",
         "date": "2026-07-18",
         "is_translated": false
+      },
+      {
+        "title": "【『パルワールド』、Steam同接「90万人超え」で勢いさらに加速。正式リリースを迎え、早期アク...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『パルワールド』はSteamで大きな人気を博しており、早期アクセス期間中に90万人を超えるプレイヤーが参加している。レビュー記事では、このゲームの評価ポイントとして、独自のゲーム性や魅力的な世界観を挙げている。また、ゲームのグラフィックやサウンドトラックも高く評価されている。対象読者は、このゲームに興味がある人やSteamで新しいゲームを探している人におすすめされる。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260719-455716/",
+        "date": "2026-07-19",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-18T21:50:47.053637"
+  "last_updated": "2026-07-19T02:32:59.112358"
 }
