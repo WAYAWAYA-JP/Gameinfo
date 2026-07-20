@@ -472,6 +472,54 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/starfield/info/",
         "date": "2026-07-20"
+      },
+      {
+        "title": "Tainted Grail: The Fall of Avalon",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Tainted Grail: The Fall of Avalonは、ダークファンタジーをテーマにしたローグライクRPGゲームで、現在Steamで50%OFFのセール中です。このゲームは、王国の陥落を描くストーリーと、ランダムに生成されるマップを探索するシステムが特徴です。さらに、複数のキャラクターを操作して戦闘に臨むことができるため、戦略的な面もあります。",
+        "price": "¥2,450",
+        "originalPrice": "¥4,900",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1466060",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Red Dead Redemption 2がSteamで75% OFFのセール中です。このゲームはオープンワールドアクションアドベンチャーで、グラフィックやストーリーが高く評価されています。現在、通常価格より大幅に割引されており、非常に魅力的な価格でプレイすることができます。ゲームの評価は非常に高く、人気度も高いので、ゲームファンにはおすすめのタイトルです。",
+        "price": "¥2,154",
+        "originalPrice": "¥8,618",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1174180",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アドベンチャーゲーム「Clair Obscur: Expedition 33」が現在、Variousで25%オフのセール中です。このゲームは、ユニークなグラフィックと難解なパズルで知られており、多くのプレイヤーから高い評価を受けています。セール期間中は、通常価格よりも安く手に入れることができます。人気度も高く、ファンからの支持が厚いゲームとして知られています。",
+        "price": "$37.49",
+        "originalPrice": "",
+        "discount": "-25%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Gray Zone Warfare",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Gray Zone Warfareは、戦略的なゲームプレイが特徴的な戦術シミュレーションゲームです。このゲームは、現在Variousで33%割引されているため、通常価格よりも安くプレイすることができます。ゲームの評価は高く、ユーザーから好評価を受けており、戦略ゲームファンに人気があります。",
+        "price": "$26.99",
+        "originalPrice": "",
+        "discount": "-33%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/gray-zone-warfare/info/",
+        "date": "2026-07-20"
       }
     ],
     "review": [
@@ -877,8 +925,34 @@
         "url": "https://www.polygon.com/rick-and-morty-spinoff-president-curtis-review/",
         "date": "2026-07-20",
         "is_translated": true
+      },
+      {
+        "title": "【Samsung 990 レビュー: 低スペックの SSD ですが、ゲームには妙に優れています】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、Samsung 990という低スペックのSSDが、ゲームの性能において意外に優れているという点に焦点を当てています。記事では、150GB/sの読み取り速度と130GB/sの書き込み速度を実現するこのSSDの特徴や、ゲームのロード時間の短縮など、ゲームプレイにおける優位性について詳しく説明しています。さらに、ベンチマークテストの結果や、ゲームプレイの実感についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/samsung-990-review-a-lower-spec-ssd-thats-weirdly-great-for-games",
+        "date": "2026-07-20",
+        "is_translated": true
+      },
+      {
+        "title": "【The Mermaid Mask は 2026 年で最もレビューされたゲームの 1 つです。そ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "The Mermaid Mask は2026年で最もレビューされたゲームの1つです。ゲームの評価ポイントとしては、美しいグラフィックや魅力的なストーリーが挙げられます。レビューの内容概要としては、ゲームの操作性や難易度の適切さが高く評価されており、また、ゲームの世界観やキャラクターのデザインも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/the-mermaid-mask-recommendation/",
+        "date": "2026-07-20",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-20T14:20:33.644547"
+  "last_updated": "2026-07-20T21:59:44.396246"
 }
