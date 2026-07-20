@@ -851,8 +851,34 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
         "date": "2026-07-20",
         "is_translated": true
+      },
+      {
+        "title": "【「Euro Truck Simulator 2: Coaches」DLCに登場する長距離バスの...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Euro Truck Simulator 2: Coaches」DLCのレビュー記事では、長距離バスの運転ができる新しいコンテンツが登場したことを紹介しています。このゲームの評価ポイントとして、リアルな運転シミュレーションやグラフィックの向上が挙げられます。また、レビューの内容では、新しいバスの種類やルートの追加が好評であると述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168789.html",
+        "date": "2026-07-20",
+        "is_translated": false
+      },
+      {
+        "title": "【カーティス大統領レビュー：『リック・アンド・モーティ』初のスピンオフは、アメリカ建国250周年...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "カーティス大統領レビューは、リック・アンド・モーティの初のスピンオフ作品について紹介しています。このレビュー記事では、作品の内容とアメリカ建国250周年に対する評価ポイントを説明しています。特に、ストーリーの面白さやキャラクターの魅力を高く評価しています。対象読者は、リック・アンド・モーティのファンやアニメ好きの方に適しています。記事では、作品の新鮮なアイデアやユーモアも評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/rick-and-morty-spinoff-president-curtis-review/",
+        "date": "2026-07-20",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-20T11:43:56.372666"
+  "last_updated": "2026-07-20T14:20:33.644547"
 }
