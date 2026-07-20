@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Narrative 12 for $10 Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Narrative 12 for $10 Bundleと呼ばれるバンドルが現在販売中です。このバンドルには、さまざまな物語を題材にしたゲームが収録されており、代表的なタイトルとしては「What Remains of Edith Finch」や「Gone Home」などがあります。ジャンルはナラティブ重視のアドベンチャーゲームが中心となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/narrative12for10bundle_bundle",
-        "date": "2026-07-10"
-      },
-      {
-        "title": "Squad Goals",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Squad Goalsというバンドルが販売中です。このバンドルには、メモリアルガーデンやFor the King、Moving Outなどのタイトルが含まれています。ジャンルはアクションやアドベンチャーが中心で、価格帯は1,000円から3,000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/squadgoals_bundle",
-        "date": "2026-07-10"
-      },
-      {
         "title": "Let's Go Gambling!...aw dang it.",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -221,42 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Dead Cells",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームであるDead Cellsが、現在51%割引のセール中です。このゲームは、ローグライク要素を取り入れた難易度の高いゲームプレイが特徴で、プレイヤーはさまざまな敵と戦いながら、キャラクターを成長させていきます。Metacriticなどのレビューサイトでは、高い評価を獲得しており、多くのプレイヤーから人気を博しています。",
-        "price": "$12.37",
-        "originalPrice": "",
-        "discount": "-51%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dead-cells/info/",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "Against the Storm アゲインスト・ザ・ストーム",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Against the Stormは、シティビルダーとサバイバルゲームの要素を組み合わせたユニークなゲームです。現在、Steamで70%オフのセール中で、通常価格より大幅に安くなっています。このゲームは、プレイヤーが荒野の中で都市を建設し、資源を管理しながら、厳しい環境に挑戦します。ゲームの評価は高く、ユーザーから良好的な評価を得ています。",
-        "price": "¥894",
-        "originalPrice": "¥2,980",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1336490",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "人気のオープンワールドアクションゲーム「Red Dead Redemption 2」が、Variousで78%割引のセール中です。このゲームは、広大なアメリカ西部の世界を自由に探索することができ、リアルなグラフィックと豊富なストーリーが特徴です。多くのゲームファンから高い評価を受けており、Metacriticでは非常に高いスコアを獲得しています。",
-        "price": "$13.35",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-07-13"
-      },
       {
         "title": "KeepUp Survival",
         "platform": "Various",
@@ -484,165 +424,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/palworld/info/",
         "date": "2026-07-19"
+      },
+      {
+        "title": "Warhammer 40,000: Space Marine 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Warhammer 40,000: Space Marine 2は、人気のアクションゲームで、Steamで現在70%オフのセール中です。このゲームは、未来の宇宙を舞台に、強力な戦士が敵を倒す爽快なアクションが楽しめます。ゲームの評価は非常に高く、人気度も高いです。価格が大幅に下がっているので、興味がある方はぜひこの機会にチェックしてみてください。",
+        "price": "¥2,940",
+        "originalPrice": "¥9,800",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2183900",
+        "date": "2026-07-20"
       }
     ],
     "review": [
-      {
-        "title": "【戦国自由RPG『Expeditions: Samurai』8月7日早期アクセス配信へ。高評価シ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "戦国時代を舞台にした自由度の高いRPG『Expeditions: Samurai』のレビュー記事です。このゲームは、戦略性の高い戦闘システムや、キャラクターの育成が楽しめる点が評価ポイントです。また、グラフィックやサウンドトラックも高く評価されています。戦国時代やRPGが好きな方は、このゲームをチェックしてみてください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260715-454989/",
-        "date": "2026-07-15",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料『サカつく2026』代表チームで競う最新イベント「インターナショナルカップ」発表...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「サカつく2026」の最新イベント「インターナショナルカップ」では、代表チームで競い合うことができます。このイベントは、基本プレイ無料のゲームで楽しむことができ、ユーザーがチームを率いて世界大会を戦うことができます。レビューのポイントとしては、イベントの新鮮さやゲーム性の向上、グラフィックの美しさなどが挙げられます。このレビューは、スポーツゲームやサッカーが好きな人に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260715-454974/",
-        "date": "2026-07-15",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料「街」オープンワールド『NTE』、約2か月で売上高「330億円」突破していた。S...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料のオープンワールドゲーム「NTE」は約2か月で売上高330億円を突破しており、評価ポイントとしては自由度の高いゲーム世界や魅力的なキャラクターが挙げられます。また、レビューの内容概要としては、ゲームのグラフィックやサウンドの質の高さや、プレイヤー同士のコミュニティーの活発さが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/nte-20260715-455057/",
-        "date": "2026-07-15",
-        "is_translated": false
-      },
-      {
-        "title": "【どうぶつカフェ経営シム『Tailside: Cozy Cafe Sim』、アプデで公式日本語対...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Tailside: Cozy Cafe Sim』は、かわいい動物たちが出入りするカフェを経営するシミュレーションゲームです。このゲームの評価ポイントとしては、可愛らしいグラフィックやリラックスした雰囲気、そして自由度の高いカフェのカスタマイズが挙げられます。レビューの内容概要としては、ゲームの魅力やカフェの運営の面白さ、そして公式日本語対応による親しみやすさが紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/tailside-cozy-cafe-sim-20260715-455032/",
-        "date": "2026-07-15",
-        "is_translated": false
-      },
-      {
-        "title": "【多彩な新コンテンツを導入する「The Outlast Trials」のシーズン7“Projec...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "The Outlast Trialsのシーズン7“Project: Pegasus”では、多彩な新しいコンテンツが導入されています。このレビュー記事では、新しいマップやゲームモードの評価ポイントを紹介しています。さらに、開発チームの努力やプレイヤーの体験など、ゲームの評価ポイントを詳しく説明しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168692.html",
-        "date": "2026-07-15",
-        "is_translated": false
-      },
-      {
-        "title": "【爆走する電車でサイバーパンクな日本を縦断する新作アクション「電車アタック」が本日発売、ローンチ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "サイバーパンクな日本の世界を舞台に、爆走する電車で冒険する新作アクションゲーム「電車アタック」が発売されました。このゲームの評価ポイントとしては、スピーディなアクションと壮大な世界観が挙げられます。レビューの内容としては、ゲームのグラフィックやサウンドトラックの質の高さ、また難易度の調整が適切であることが評価されています。サイバーパンクな世界観やアクションゲームが好きな方にはおすすめのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168719.html",
-        "date": "2026-07-15",
-        "is_translated": false
-      },
-      {
-        "title": "【「Call of Duty: Modern Warfare 4」の新モード“Kill Bloc...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Call of Duty: Modern Warfare 4」の新モード“Kill Block”に関するレビュー記事では、ゲームの評価ポイントとして、新しいモードの導入やグラフィックの向上、ストーリーの深化が挙げられます。レビューの内容概要としては、新モードの戦略的なプレイスタイルや、グラフィックの改善による臨場感の増加、ストーリーの複雑さが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168699.html",
-        "date": "2026-07-15",
-        "is_translated": false
-      },
-      {
-        "title": "【フロム・ソフトウェアが「The Duskbloods」のネットワークテスト実施スケジュールを発...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "フロム・ソフトウェアの「The Duskbloods」のネットワークテスト実施スケジュールが発表されたことを受けて、レビュー記事が公開されました。この記事では、ゲームの評価ポイントとして、ネットワークテストの内容や、ゲームプレイの魅力について触れています。また、グラフィックやサウンドデザインの質も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168696.html",
-        "date": "2026-07-15",
-        "is_translated": false
-      },
-      {
-        "title": "【フロム・ソフトウェア新作『The Duskbloods』ネットワークテストが8月21日～24日...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "フロム・ソフトウェアの新作『The Duskbloods』のネットワークテストが8月21日から24日まで行われるというレビュー記事があります。このゲームはオンライン要素が含まれており、プレイヤー同士のバトルや協力プレイが楽しめます。レビューでは、ゲームのグラフィックやサウンドデザイン、ネットワークの安定性などが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/07/15/184605.html",
-        "date": "2026-07-15",
-        "is_translated": false
-      },
-      {
-        "title": "【ムーンライト・ピークスのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ムーンライト・ピークスのレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンドトラックの高品質さ、そしてストーリーの深さが挙げられています。また、レビューの内容としては、ゲームの雰囲気やキャラクターの魅力、そしてゲームプレイの面白さについても触れています。これらの点から見ると、ムーンライト・ピークスはグラフィックやサウンドを重視するゲーマー。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/life-sim/moonlight-peaks-review/",
-        "date": "2026-07-15",
-        "is_translated": true
-      },
-      {
-        "title": "【Dell Pro 5 ウェブカメラのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Dell Pro 5 ウェブカメラのレビュー記事では、ウェブカメラの評価ポイントとして、画質、音質、取り付けのしやすさなどが紹介されています。記事では、Dell Pro 5 ウェブカメラの優れた点として、高解像度の映像や広角のカメラなどが挙げられており、ビデオ会議やオンライン授業に適していると評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/webcams/dell-pro-5-webcam-review/",
-        "date": "2026-07-15",
-        "is_translated": true
-      },
-      {
-        "title": "【Densh Attack レビュー: 2026 年のこれまでの最高のゲームの 1 つは、鉄道、...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Densh Attackは、2026年のこれまでの最高のゲームの1つです。このゲームは、鉄道をテーマにしており、ユニークなゲーム性が特徴です。レビューの内容としては、グラフィックやサウンドの高質、加えてゲームの長さや難易度のバランスが評価されています。また、ゲームシステムの面白さや新鮮さも高く評価されています。このゲームは、鉄道ファンやアクションゲーム好きの方に特にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/denshattack-review",
-        "date": "2026-07-15",
-        "is_translated": true
-      },
       {
         "title": "【高い評価を獲得したスーパーヒーロー職場コメディ「Dispatch」のXBOX版ローンチが7月2...】",
         "platform": "doope!",
@@ -654,19 +450,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/07167576.html",
         "date": "2026-07-16",
-        "is_translated": false
-      },
-      {
-        "title": "【2011年の名作が生まれ変わる「Rayman Origins: Enhanced Editio...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "2011年の名作が生まれ変わった「Rayman Origins: Enhanced Edition」のレビュー記事では、このゲームのグラフィックやサウンドトラックの高品質さ、そしてアクションゲームとしての完成度が高く評価されています。また、プレイヤーは美しく色彩豊かなステージを楽しみながら、さまざまな敵や障害を克服する必要があり、ゲームの難易度も適切です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168698.html",
-        "date": "2026-07-15",
         "is_translated": false
       },
       {
@@ -915,8 +698,34 @@
         "url": "https://automaton-media.com/articles/now-gaming/20260719-455748/",
         "date": "2026-07-19",
         "is_translated": false
+      },
+      {
+        "title": "【恐竜と共生する架空の中世を描く都市建設RTS/アクションRPGハイブリッド「Dinolords...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、恐竜と共生する架空の中世を舞台にした都市建設RTSとアクションRPGが融合したゲーム「Dinolords」の魅力を紹介しています。ゲームの評価ポイントとして、ユニークなゲームシステムや恐竜との共生が挙げられます。レビューの内容概要は、ゲームの世界観やゲームプレイの面白さ、グラフィックの美しさなどを取り上げています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168773.html",
+        "date": "2026-07-20",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam 週間の振り返り: Steam ゲームの半数以上が 2027 ～ 2028 年までに...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Steam 週間の振り返りという記事では、Steam プラットフォームで提供されているゲームの現状について分析しています。記事の主な評価ポイントは、2027年から2028年までの間にリリースされるゲームのラインナップや、Steam ゲームの質の向上などです。レビューの内容としては、ゲームのグラフィックの進化、ゲームプレイの多様性、そしてゲームのストーリー性の深化が取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
+        "date": "2026-07-20",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-19T21:51:59.515766"
+  "last_updated": "2026-07-20T03:36:52.419156"
 }
