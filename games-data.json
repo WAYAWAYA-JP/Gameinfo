@@ -194,6 +194,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/evensteamiersakuraspecial_bundle",
         "date": "2026-07-17"
+      },
+      {
+        "title": "Narrative 12 for $10 Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Narrative 12 for $10 Bundleのバンドルが販売中です。このバンドルには、主なタイトルとして「The Council」、「The Infectious Madness of Doctor Dekker」、「The Shapeshifting Detective」などのナラティブ重視のゲームが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/narrative12for10bundle_bundle",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Squad Goals",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Squad Goalsというバンドルが販売中です。このバンドルには、主に『Door Kickers』や『Door Kickers 2: Task Force North』、『Hard West』などのタイトルが含まれており、ストラテジーやシミュレーションジャンルのゲームが中心です。大まかな価格帯は10ドルから20ドル程度とみられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/squadgoals_bundle",
+        "date": "2026-07-20"
       }
     ],
     "sale": [
@@ -435,6 +459,18 @@
         "discount": "70% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/2183900",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Starfield",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Starfieldは、スペースを舞台にしたオープンワールドのアクションアドベンチャーゲームで、現在Variousで17%割引のセール中です。このゲームは、豊富なストーリーと広大な宇宙を自由に探索できることが特徴です。評価も高く、人気度も高いゲームです。",
+        "price": "$41.49",
+        "originalPrice": "",
+        "discount": "-17%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/starfield/info/",
         "date": "2026-07-20"
       }
     ],
@@ -724,8 +760,99 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
         "date": "2026-07-20",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料“欲望開花”美少女RPG『パールインブルー』発表。毎月ヒロイン追加、少女たちと送...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料の美少女RPG「パールインブルー」についてのレビュー記事では、毎月新しいヒロインが追加される点や、少女たちとの会話やイベントを楽しめる点、そして美しいグラフィックや魅力的なストーリーが評価ポイントとして挙げられていることがわかります。このゲームは、美少女RPGファンやキャラクターとの交流を楽しむことを好むユーザーに特にオススメできるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260720-455788/",
+        "date": "2026-07-20",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam病原体ローグライクSTG『Pathogenic』密かな注目、からの人気爆発中。自由に...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで人気の病原体ローグライクSTG『Pathogenic』は、自由にプレイヤーの戦略を生み出せるため、評価ポイントが高いです。レビューの内容は、ゲームの自由度、戦略的深度、グラフィックの質の高さなどの点が評価されています。また、ローグライクゲームやSTGのファンには必見の作品と言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260720-455780/",
+        "date": "2026-07-20",
+        "is_translated": false
+      },
+      {
+        "title": "【話題沸騰中のブサイク人生RPG『活俠傳』日本語Modに「難しい漢字のルビ」実装。書蓉も火閃電も...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、話題沸騰中のブサイク人生RPG『活俠傳』の日本語Modについて取り上げています。評価ポイントとしては、難しい漢字にルビが付与されている点が特筆され、書蓉や火閃電などのキャラクターも紹介されています。レビュー全体の内容は、ゲームの魅力や日本語Modの利点について述べられており、ゲームファンやRPG好きの方々が対象読者となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260720-455773/",
+        "date": "2026-07-20",
+        "is_translated": false
+      },
+      {
+        "title": "【“Astroneer”世界が舞台となる新作「STARSEEKER: Astroneer Exp...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「STARSEEKER: Astroneer Exp...」は、人気ゲーム「Astroneer」の世界を舞台にした新作です。このゲームの評価ポイントとしては、美しいグラフィックや自由度の高いゲームプレイが挙げられます。レビューの内容概要としては、探索や建築の面白さ、そして新しい要素の追加などが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168825.html",
+        "date": "2026-07-20",
+        "is_translated": false
+      },
+      {
+        "title": "【「Call of Duty: Modern Warfare 4」“キルブロック”モードの本格的...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Call of Duty: Modern Warfare 4」のレビュー記事では、ゲームの評価ポイントとして「キルブロック」モードの本格的な導入が紹介されています。このモードでは、プレイヤーはチームを組んで戦い、キルブロックを取得することでゲームを有利に進めることができます。レビューの内容概要としては、ゲームのグラフィックの高さやサウンドデザインの効果的な使用が挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168776.html",
+        "date": "2026-07-20",
+        "is_translated": false
+      },
+      {
+        "title": "【ソニック & オールスター レーシング トランスフォームド レビュー (2018)】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ソニック & オールスター レーシング トランスフォームドは、レースゲームのファン必見の作品です。このゲームの評価ポイントとしては、高速でアクション満載のレースモードや、カスタマイズ可能な車両、豊富なコンテンツなどがあります。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの高品質、そしてプレイヤーのスキルに応じた適切な難易度設定が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/racing/sonic-and-all-stars-racing-transformed-review-2018/",
+        "date": "2026-07-20",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam 週間の振り返り: 2027 年から 2028 年までに新しい Steam ゲームの...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Steam 週間の振り返りは、2027 年から 2028 年にかけてリリースされる新しい Steam ゲームを紹介します。このレビュー記事では、新作ゲームの評価ポイントとしてグラフィックの品質やプレイ性、ストーリーの面白さなどを取り上げています。また、各ゲームの特徴や魅力を解説し、ユーザーがどのゲームに注目すべきかを明確に示しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
+        "date": "2026-07-20",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-20T03:36:52.419156"
+  "last_updated": "2026-07-20T11:43:56.372666"
 }
