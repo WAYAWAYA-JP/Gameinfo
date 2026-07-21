@@ -194,6 +194,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/squadgoals_bundle",
         "date": "2026-07-20"
+      },
+      {
+        "title": "Let's Go Gambling!...aw dang it.",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、「Let's Go Gambling!...aw dang it.」を含むバンドルが現在販売中です。このバンドルには、主要タイトルとして「Let's Go Gambling!...aw dang it.」やその他のゲームが含まれており、シミュレーションやアクションなどのジャンルが幅広くカバーされています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/letsgogamblingawdangit_bundle",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "Sensual Clinic Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Sensual Clinic BundleというバンドルがIndieGalaで販売中です。このバンドルには、Sensual Adventures、Clinic Simulation、Hospital Loveなどのタイトルが含まれており、シミュレーションやアドベンチャーを楽しむことができます。ジャンルはシミュレーションやアドベンチャーに分類され、大まかな価格帯は10ドル前後です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/sensual-clinic-bundle",
+        "date": "2026-07-21"
       }
     ],
     "sale": [
@@ -495,6 +519,30 @@
         "discount": "-70%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/pacific-drive/info/",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "Monster Hunter Rise + Sunbreak",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションパックアドベンチャーゲームの「Monster Hunter Rise + Sunbreak」がSteamで84%オフのセール中です。このゲームは、モンスターハンターシリーズの最新作であり、多くのユーザーから高評価を得ています。通常価格から大幅に割引されたこの価格で、興味がある方はぜひチェックしてみてください。",
+        "price": "¥958",
+        "originalPrice": "¥5,990",
+        "discount": "84% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/692569",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "Luto",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Lutoは、Variousで現在100%オフのセール中です。このゲームは、ユニークなゲーム性と美しいグラフィックで知られており、多くのプレイヤーから好評価を得ています。セール中の価格は完全無料となり、ぜひこの機会に試してみてください。高い評価と人気度を誇るこのゲームを絶対に逃すなかれ、無料で体験することができるこのチャンスを活用しましょう。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/luto/info/",
         "date": "2026-07-21"
       }
     ],
@@ -875,8 +923,47 @@
         "url": "https://doope.jp/2026/07168838.html",
         "date": "2026-07-20",
         "is_translated": false
+      },
+      {
+        "title": "【悪霊清掃ホラーコメディ『100均除霊師』11月12日配信へ。格安アイテムで挑む高額報酬アルバイ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『100均除霊師』は、悪霊を退治するホラーコメディゲームです。格安アイテムを使用して、高額報酬の仕事に挑む内容が特徴です。このゲームの評価ポイントとしては、ユーモアのあるストーリーや、システムの面白さがあります。レビューの内容概要としては、ゲームの楽しさや、アイテムの使い方が重要になる点が挙げられます。このゲームは、ホラーやコメディが好きな人や、ユニークなゲームを探している人に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260721-455945/",
+        "date": "2026-07-21",
+        "is_translated": false
+      },
+      {
+        "title": "【“圧倒的に好評”書店経営シム『Bookshop Simulator』正式リリースされ、待望の「...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Bookshop Simulatorは書店経営シムゲームです。このゲームは圧倒的に好評で、正式にリリースされました。ゲームの評価ポイントとしては、ユーザーが書店を自由に設計でき、様々な本を販売することができる点があげられます。また、ゲーム内のイベントやキャラクターも評価されています。このゲームのレビューでは、ゲームの自由度や魅力的なゲーム世界が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260721-455923/",
+        "date": "2026-07-21",
+        "is_translated": false
+      },
+      {
+        "title": "【ベトナム戦争をテーマに描く50vs50シューター「Hell Let Loose: Vietna...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、ベトナム戦争をテーマに描く50vs50のシューティングゲーム「Hell Let Loose: Vietnam」の評価ポイントについて紹介しています。ゲームの評価ポイントとして、リアルな戦場の描写や、戦略的なチームプレイの重要性が高く評価されています。また、レビューでは、ゲームのグラフィックやサウンドデザインも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168853.html",
+        "date": "2026-07-21",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-21T02:31:14.432894"
+  "last_updated": "2026-07-21T11:06:59.598306"
 }
