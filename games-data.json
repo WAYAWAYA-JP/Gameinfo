@@ -544,6 +544,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/luto/info/",
         "date": "2026-07-21"
+      },
+      {
+        "title": "Dispatch",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DispatchがVariousで開催されているセールでは、20%割引で購入できます。このゲームは、ストラテジー要素と協力プレイを特徴とするタワーディフェンスゲームです。ユーザーの評価は非常に高く、人気度も高いゲームのひとつです。",
+        "price": "$23.99",
+        "originalPrice": "",
+        "discount": "-20%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dispatch--1/info/",
+        "date": "2026-07-21"
       }
     ],
     "review": [
@@ -962,8 +974,47 @@
         "url": "https://doope.jp/2026/07168853.html",
         "date": "2026-07-21",
         "is_translated": false
+      },
+      {
+        "title": "【MSI Claw 8 EX AI+ CG3EM レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "MSI Claw 8 EX AI+ CG3EM レビュー記事では、ゲーミングマウスの性能や機能面で評価しています。この記事では、マウスの感度やレスポンスの速さ、ボタンの配置や操作性などが評価ポイントとして取り上げられています。また、AI技術を搭載した独自の機能やカスタマイズ性もレビューの内容に含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/msi-claw-8-ex-ai-cg3em-review/",
+        "date": "2026-07-21",
+        "is_translated": true
+      },
+      {
+        "title": "【輝かしいGHS InfinitePlayレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、人気ゲーム「GHS InfinitePlay」の魅力を紹介しています。評価ポイントとしては、ゲームのグラフィックやサウンドデザイン、そしてユーザーフレンドリーな操作性が高く評価されています。また、レビューの内容では、ゲームのストーリーやキャラクターの深み、そしてリピートプレイ性も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-headsets/glorious-ghs-infiniteplay-review/",
+        "date": "2026-07-21",
+        "is_translated": true
+      },
+      {
+        "title": "【『スプラトゥーン レイダース』レビュー：任天堂の『ボーダーランズ』に対する見方は楽しい混乱だ】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "任天堂の新作ゲーム「スプラトゥーン レイダース」のレビュー記事では、ゲームの評価ポイントとして、ユニークなゲームプレイスタイルやコラボレーションの楽しさが挙げられています。また、レビューの内容概要として、ゲームのストーリーやグラフィックの高さが評価されています。対象読者は、任天堂のファンやアクションゲーム好きの方にこのレビュー記事はお勧めです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/splatoon-raiders-review/",
+        "date": "2026-07-21",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-21T11:06:59.598306"
+  "last_updated": "2026-07-21T14:06:56.961544"
 }
