@@ -222,42 +222,6 @@
     ],
     "sale": [
       {
-        "title": "幻想水滸伝 I&II HDリマスター 門の紋章戦争 / デュナン統一戦争",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "幻想水滸伝 I&II HDリマスターは、門の紋章戦争とデュナン統一戦争を収録した、ロールプレイングゲームです。このゲームは、魅力的なストーリーや深いキャラクター設定が特徴です。現在、Steamで50% OFFセール中で、通常価格よりも大幅に安くなっています。幻想水滸伝シリーズは、ファンから高い評価を受けており、人気度も非常に高く、多くのプレイヤーに愛されているゲームです。",
-        "price": "¥2,750",
-        "originalPrice": "¥5,500",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1932640",
-        "date": "2026-07-15"
-      },
-      {
-        "title": "SILENT HILL f",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "SILENT HILL fがSteamで50% OFFセール中です。これは、サバイバルホラーゲームであり、恐怖とサスペンスを体験できるゲームです。通常価格から半額になるこのチャンスは、ホラーゲームファンにとって見逃せないものです。Steamユーザーの評価は非常に高く、人気度も高いゲームです。",
-        "price": "¥4,290",
-        "originalPrice": "¥8,580",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2947440",
-        "date": "2026-07-15"
-      },
-      {
-        "title": "Kingdom Come: Deliverance II",
-        "platform": "Various",
-        "type": "sale",
-        "description": "中世を舞台にしたオープンワールドアクションRPGゲーム『Kingdom Come: Deliverance II』が、現在Variousで65%オフのセール中です。このゲームはリアルな戦闘システムと深いストーリーで人気を博しており、多くのユーザーから高評価を得ています。セール期間中は通常価格よりも大幅に安く購入できるので、ゲームファンにはお勧めのチャンスです。",
-        "price": "$20.99",
-        "originalPrice": "",
-        "discount": "-65%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
-        "date": "2026-07-15"
-      },
-      {
         "title": "Outer Wilds",
         "platform": "Various",
         "type": "sale",
@@ -556,113 +520,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dispatch--1/info/",
         "date": "2026-07-21"
+      },
+      {
+        "title": "Resident Evil 4 (2023)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Resident Evil 4というゲームが現在、75%OFFのセール中です。このゲームはバイオハザードシリーズの1つで、サバイバルホラーのジャンルに分類され、恐怖とスリルの要素が強いです。グラフィックやサウンドも非常にリアルで、臨場感があります。評価も非常に高く、人気のゲームです。",
+        "price": "$9.99",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "SIGNALIS",
+        "platform": "Various",
+        "type": "sale",
+        "description": "SIGNALISがVariousで30%オフのセール中です。このゲームはアクションアドベンチャーとサバイバルホラーを融合させたユニークなジャンルで、プレイヤーは不気味な惑星でさまざまな敵と戦いながら生存を試みます。現在の価格は割引前より30%安くなっています。SIGNALISは、その独特のゲーム性とハイクオリティのグラフィックにより、高評価を獲得しており、ファンから非常に人気があります。",
+        "price": "$13.98",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/signalis/info/",
+        "date": "2026-07-22"
       }
     ],
     "review": [
-      {
-        "title": "【傑作フリーゲーム刷新版『ギャリー邸事件』、好評率97％の圧倒的スタート。過去の「残響」を読み解...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、フリーゲーム『ギャリー邸事件』の評価ポイントについて紹介しています。好評率97％という高評価を得ているこのゲームの特徴や魅力がわかります。ゲームのストーリーやシステム、グラフィックなどについても触れています。さらに、過去の「残響」との関連性も読み解かれています。ゲームファンや新しいゲームを探している人にとって、参考になる情報が得られると思います。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260717-455566/",
-        "date": "2026-07-17",
-        "is_translated": false
-      },
-      {
-        "title": "【愉快な人気パーティゲーム続編「Heave Ho 2」が本日発売、賑やかなゲームプレイを紹介する...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "人気パーティゲームの続編「Heave Ho 2」が発売されました。このゲームは、プレイヤーが協力して目標を達成することを目指し、ユーモアあふれるキャラクターとコミカルなゲームプレイが特徴です。評価ポイントとしては、ゲームの多人数プレイ機能、ユニークなステージデザイン、そして笑いを誘うキャラクターの挙動が挙げられます。パーティゲームやコメディーが好きな方は、ぜひこのゲームを試してみてください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168757.html",
-        "date": "2026-07-17",
-        "is_translated": false
-      },
-      {
-        "title": "【『ゼンレスゾーンゼロ』新バージョンは7月29日リリースへ。満を持して登場の新プレイアブルキャラ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ゼンレスゾーンゼロ』の新バージョンは7月29日にリリースされることが決定しました。この新バージョンには、新しいプレイアブルキャラクターが追加されるなど、多くの更新が行われています。本稿では、この新バージョンのゲームの評価ポイントを3点ほど紹介します。まず、新キャラクターの導入により、プレイヤーはより多様な戦略を立てることができます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260717-455636/",
-        "date": "2026-07-17",
-        "is_translated": false
-      },
-      {
-        "title": "【“Yooka-Laylee”のマリオカート系レースゲーム「Super Yooka-Laylee...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Yooka-Laylee」のマリオカート系レースゲーム「Super Yooka-Laylee...：レビュー」のレビュー記事では、ゲームの評価ポイントとしてグラフィックや操作性が高く評価されています。また、レビューの内容概要として、レースゲームとしての完成度やキャラクターの魅力が述べられています。このレビュー記事は、レースゲームや「Yooka-Laylee」シリーズのファンに特に役立つでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168764.html",
-        "date": "2026-07-17",
-        "is_translated": false
-      },
-      {
-        "title": "【“トップガン”コラボを含む「Battlefield 6」シーズン4の詳細が解禁、開幕は7月21日：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Battlefield 6」のシーズン4の詳細が解禁されました。シーズン4では、「トップガン」コラボも含まれており、開幕は7月21日です。このレビュー記事では、「Battlefield 6」の最新シーズンの評価ポイントを紹介します。記事の内容概要としては、コラボの内容や新機能の説明、またゲームのグラフィックやサウンドの評価などが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168778.html",
-        "date": "2026-07-17",
-        "is_translated": false
-      },
-      {
-        "title": "【「Starfield」の累計プレイヤー数が1,700万人を突破、新コンテンツ“Starborn...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Starfield」の累計プレイヤー数が1,700万人を突破したことを受け、新コンテンツ「Starborn」のレビュー記事があります。このゲームは、広大な宇宙を自由に探索できるオープンワールドゲームとして高い評価を受けています。レビューでは、ゲームのグラフィックやサウンドトラック、そして新しいコンテンツの追加により、ゲームの世界がさらに豊かになったと評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168769.html",
-        "date": "2026-07-17",
-        "is_translated": false
-      },
-      {
-        "title": "【「The Elder Scrolls VI」の開発は計画通りに進行中、Bethesda Gam...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「The Elder Scrolls VI」の開発状況についてのレビュー記事があります。このゲームの評価ポイントとして、グラフィックの質やストーリーの深さが挙げられます。レビューの内容概要としては、開発の進行状況やゲームの期待度について触れています。対象読者は、The Elder Scrollsシリーズのファンや新作ゲームに興味がある人です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168768.html",
-        "date": "2026-07-17",
-        "is_translated": false
-      },
-      {
-        "title": "【Hytale が 22 のビデオと 37 の新しい画像を含む今後のコンテンツの大規模なプレビュ...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Hytale のレビュー記事では、22 のビデオと 37 の新しい画像を含む大規模なコンテンツのプレビューが紹介されています。ゲームの評価ポイントとして、グラフィックやサウンドの質が高く、ゲームプレイが面白いことが挙げられています。さらに、ゲームの世界観やストーリーも評価されています。このレビュー記事は、Hytale に興味がある人や、ゲームの最新情報を知りたい人におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/hytale-releases-massive-preview-of-upcoming-content-including-22-videos-and-37-new-images/",
-        "date": "2026-07-17",
-        "is_translated": true
-      },
       {
         "title": "【高い評価を獲得したナラティブRPG「The Life and Suffering of Sir...】",
         "platform": "doope!",
@@ -1026,8 +910,34 @@
         "url": "https://doope.jp/2026/07168872.html",
         "date": "2026-07-21",
         "is_translated": false
+      },
+      {
+        "title": "【Steam好評消防士シム新作『Firefighters Code Red』発表。マルチプレイで...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで好評を博している消防士シムの新作『Firefighters Code Red』が発表されました。このゲームは、マルチプレイ機能を搭載しており、友達と一緒に消防活動を体験できます。レビューのポイントとしては、マルチプレイ機能の充実さや、リアルな消防シミュレーションが評価されています。また、ゲームのグラフィックやサウンドトラックも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/firefighters-code-red-20260722-456019/",
+        "date": "2026-07-22",
+        "is_translated": false
+      },
+      {
+        "title": "【さらなるボールを導入する「BALL x PIT」最終アップデート“Naturalist”の新情...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「BALL x PIT」の最終アップデート「Naturalist」は、さらなるボールを導入する新しい要素を追加し、ゲームのバリエーションを高めています。このアップデートでは、新しいボールの導入により、ゲームの難易度や遊び方が変化しています。また、グラフィックやサウンドも向上しており、ゲームの全体的なクオリティが上がっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168900.html",
+        "date": "2026-07-22",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-21T22:03:13.011257"
+  "last_updated": "2026-07-22T02:29:42.950315"
 }
