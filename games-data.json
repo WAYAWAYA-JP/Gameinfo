@@ -242,6 +242,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/sensual-clinic-bundle",
         "date": "2026-07-22"
+      },
+      {
+        "title": "Twin Sails Interactive 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Twin Sails Interactive 2026のバンドルがHumble Bundleで販売中です。このバンドルには、同社の主要タイトルである「Diluvian Winds」や「Little Town Hero」、「Monster Crown」などが含まれています。ジャンルはロールプレイングゲームやシミュレーションゲームが中心です。大まかな価格帯は10ドルから30ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/twinsailsinteractive2026_bundle",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Point Click Package",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、ポイント・アンド・クリックアドベンチャーゲームを集めた「Point Click Package」のバンドルが販売中です。このバンドルには、「The Whispered World」や「The Night of the Rabbit」などの人気タイトルが含まれています。アドベンチャーゲームファンにはたまらないお得なバンドルで。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/pointclickpackage_bundle",
+        "date": "2026-07-22"
       }
     ],
     "sale": [
@@ -567,6 +591,18 @@
         "discount": "-30%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/signalis/info/",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Hades",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションパックされたローグライクゲームの名作「Hades」が、Variousで現在70%オフのセール中です。このゲームは、ギリシャ神話をモチーフにした独特の世界観と、快感的なアクションが特徴で、多くのゲーマーから高い評価を得ています。また、Metacriticでは非常に高い人気度を誇り、批評家やユーザーからの評価が非常に高いゲームです。",
+        "price": "$7.49",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hades/info/",
         "date": "2026-07-22"
       }
     ],
@@ -1051,8 +1087,34 @@
         "url": "https://www.polygon.com/avatar-legends-the-fighting-game-review/",
         "date": "2026-07-22",
         "is_translated": true
+      },
+      {
+        "title": "【インディーゲームが Steam で土壇場で遅延、Valve が「お尻とおっぱいを描いた数十のテ...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、Steamでリリース予定だったインディーゲームが遅延した理由を紹介しています。Valve社の審査基準が厳しくなったため、ゲーム内の性的表現が問題となったことが原因です。ゲーム内の性的表現については、たとえば「お尻とおっぱいを描いた数十のテキスト」が削除されることになりました。この記事は、ゲーム開発者やSteamユーザーに興味がある人に向けて。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/indie-game-gets-last-minute-steam-delay-while-valve-reviews-its-dozens-of-untextured-polygons-depicting-ass-and-boobs/",
+        "date": "2026-07-22",
+        "is_translated": true
+      },
+      {
+        "title": "【親愛なるフロストヘブンのボードゲームプレイヤーの皆さん、PC 版のタクティクス RPG にバグ...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、PC版のタクティクスRPG『Frostpunk』のバグの問題を取り上げています。評価ポイントとして、ゲームのバグの頻度や影響度、ゲームのストーリーやキャラクターの魅力、ゲームシステムの深度などが挙げられます。記事では、バグの問題とともに、ゲームのストーリーやキャラクターの魅力についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/dear-frosthaven-boardgame-players-complaining-the-pc-tactics-rpg-adaptation-is-bugged-the-devs-say-its-likely-youve-played-it-wrong",
+        "date": "2026-07-22",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-22T14:09:25.498764"
+  "last_updated": "2026-07-22T22:03:30.298111"
 }
