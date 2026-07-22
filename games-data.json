@@ -218,6 +218,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/sensual-clinic-bundle",
         "date": "2026-07-21"
+      },
+      {
+        "title": "Idol Days Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Idol Days BundleがIndieGalaで販売中です。このバンドルには、アイドルをテーマにしたゲームが収録されています。主要タイトルには、\"Idol Days Sim Date\"や\"School Idol Festival\"、\"Love Live! School Idol Festival\"が含まれています。ジャンルは、アイドル、乙女ゲーム、シミュレーションです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/idol-days-bundle",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "HHSensual Clinic Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "HHSensual Clinic BundleというバンドルがIndieGalaで販売中です。このバンドルには、主要タイトルとして「Sensual Clinic」や「Clinic」などが含まれています。ジャンルはアダルト向けのシミュレーションゲームです。大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/sensual-clinic-bundle",
+        "date": "2026-07-22"
       }
     ],
     "sale": [
@@ -936,8 +960,60 @@
         "url": "https://doope.jp/2026/07168900.html",
         "date": "2026-07-22",
         "is_translated": false
+      },
+      {
+        "title": "【人気SRPG最新作『ラングリッサー：剣の海』発表。“大胆な革新”を掲げる、『ラングリッサー』基...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "人気SRPGシリーズ最新作『ラングリッサー：剣の海』のレビュー記事では、大胆な革新を掲げたゲーム内容や、シリーズの基礎を踏まえた戦略的要素などが評価ポイントとして取り上げられています。また、ゲームの魅力や新しい要素の導入など、シリーズファンや新規プレイヤーにとっての興味点も紹介されています。このレビュー記事は、SRPGシリーズのファンや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260722-456142/",
+        "date": "2026-07-22",
+        "is_translated": false
+      },
+      {
+        "title": "【SIE脱出シューター『Marathon』、「PvEモード」実装大型アプデでさっそく人気回復の兆...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、SIEの脱出シューター『Marathon』の最新情報を紹介しています。ゲームの評価ポイントとしては、新しく実装された「PvEモード」が人気の理由となっています。また、レビューの内容概要としては、ゲームのグラフィックやサウンドの高さ、そして新モードの面白さが挙げられます。対象読者は、ゲームファンやアクションシューターが好きな人に向けられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/marathon-20260722-456112/",
+        "date": "2026-07-22",
+        "is_translated": false
+      },
+      {
+        "title": "【高評価を獲得した病原体2Dローグライクシューティング「Pathogenic」の販売が1週間で1...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Pathogenicは、病原体2Dローグライクシューティングゲームであり、高評価を獲得しています。このゲームの魅力は、ランダムな要素が多く、プレイヤーは毎回新しい体験をすることができます。また、グラフィックやサウンドデザインも高く評価されており、緊張感や恐怖感を味わうことができます。特に、ローグライクシューティングゲームのファンや、アクションゲームを好む人にオススメです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168909.html",
+        "date": "2026-07-22",
+        "is_translated": false
+      },
+      {
+        "title": "【スタートレック: ストレンジ ニュー ワールド シーズン 4 レビュー: キャラクター開発に関...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "スタートレックシリーズの最新作「ストレンジ ニュー ワールド シーズン4」のレビュー記事では、キャラクター開発に関して高評価を得ていることがわかります。このレビューでは、キャラクターの成長や関係性の深化、ストーリーの展開などが評価ポイントとして挙げられています。特に、キャラクターの複雑さや深みを描き出すことに成功している点が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/star-trek-strange-new-worlds-season-4-review/",
+        "date": "2026-07-22",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-22T02:29:42.950315"
+  "last_updated": "2026-07-22T11:08:26.913713"
 }
