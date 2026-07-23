@@ -592,6 +592,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/subnautica/info/",
         "date": "2026-07-23"
+      },
+      {
+        "title": "Disco Elysium - The Final Cut",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Disco Elysium - The Final CutがVariousで-80%のセール中です。このゲームは、オープンワールドのRPGで、ユニークなキャラクターと豊富なストーリーが特徴です。評価も非常に高く、多くのユーザーから好評を博しています。現在、通常価格より80%割引されていますので、ゲーム好きの方にはおすすめのセールです。",
+        "price": "$7.97",
+        "originalPrice": "",
+        "discount": "-80%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
+        "date": "2026-07-23"
       }
     ],
     "review": [
@@ -1114,8 +1126,34 @@
         "url": "https://www.rockpapershotgun.com/indie-open-worlder-future-no-thanks-gets-last-minute-delay-after-steam-content-mods-allegedly-demand-a-watch-the-sex-scene-button",
         "date": "2026-07-23",
         "is_translated": true
+      },
+      {
+        "title": "【The Incident At Galley House レビュー – このジャンルの古典的な...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "The Incident At Galley House レビューの記事では、このゲームがジャンルの古典的な要素をどのように继承しているかが紹介されています。評価ポイントとして、ストーリーの深みやキャラクターの魅力が挙げられます。レビューの内容概要としては、ゲームの雰囲気やサウンドトラックの質も高く評価されています。対象読者は、ジャンルファンやゲーム愛好家であると考えられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-incident-at-galley-house-review-an-enthralling-deduction-game-that-cant-escape-the-genres-classic-problem",
+        "date": "2026-07-23",
+        "is_translated": true
+      },
+      {
+        "title": "【モーターシティレビュー：アラン・リッチソンのほぼ完璧な復讐スリラーはNetflix顔負け】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事は、Netflixのドラマ「モーターシティ」を取り上げています。記事では、作品の評価ポイントとして、アラン・リッチソンの復讐スリラーがほぼ完璧であると評価されています。また、記事の内容は、ストーリーの面白さや登場人物の深み、そして監督の手腕などについて触れています。対象読者は、Netflixのドラマファンやスリラー好きの方などです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/motor-city-review/",
+        "date": "2026-07-23",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-23T11:07:59.110671"
+  "last_updated": "2026-07-23T14:17:03.470871"
 }
