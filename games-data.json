@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Luto",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Lutoは、家から出られない人の役を演じる心理的ホラー体験です。プレイヤーは、逃げ出そうとするたびに未知の世界へとさらに深く導かれます。見かけどおりのものは何もなく、すべてがプレイヤーの感覚を試すことになります。このゲームの特徴は、その独自のストーリーテリングと、プレイヤーを不安に陥れる音響効果です。また、グラフィックの恐ろしさも印象的です。Lutoは、PC向けに配布されています。",
+        "price": "無料",
+        "originalPrice": "¥23",
+        "discount": "100% OFF",
+        "deadline": "2026年07月23日まで",
+        "url": "https://store.epicgames.com/ja/p/67459b70a96e40ca96d5676d8a4fd8c5",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "Echo Generation: Midnight Edition",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Echo Generation: Midnight EditionがEpic Gamesで無料配布中です。このゲームは、ロールプレイングゲームとして知られており、特徴的なグラフィックや魅力的なストーリーが楽しめます。プレイヤーは、さまざまなキャラクターを操作して、モンスターと戦ったり、アイテムを集めたりすることができます。",
+        "price": "無料",
+        "originalPrice": "¥24",
+        "discount": "100% OFF",
+        "deadline": "2026年07月23日まで",
+        "url": "https://store.epicgames.com/ja/p/cbf3f5857ec241bab03dbb7eb03efad8",
+        "date": "2026-07-23"
+      }
+    ],
     "bundle": [
       {
         "title": "Going Rogue: A Lite Heavy Bundle",
@@ -205,6 +230,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/pointclickpackage_bundle",
         "date": "2026-07-22"
+      },
+      {
+        "title": "Summer Games Done Quick 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Summer Games Done Quick 2026のバンドルが現在販売中です。このバンドルには、主要タイトルとして「Cuphead」や「Hollow Knight」などのインディーゲームが含まれています。アクションゲームやプラットフォーマーを中心としたジャンルが特徴的です。大まかな価格帯は10ドルから30ドル程度と幅広い選択肢があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/summergamesdonequick2026_bundle",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "Horror Station Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Horror Station Bundleが販売中です。このバンドルには、Amnesia: Rebirth、SOMA、Outlastなどの人気ホラータイトルが含まれています。ホラーゲームファンには必見のバンドルで、数千円程度で購入できます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/horror-station-bundle",
+        "date": "2026-07-23"
       }
     ],
     "sale": [
@@ -530,6 +579,18 @@
         "discount": "-41%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ai-limit/info/",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "Subnautica",
+        "platform": "Various",
+        "type": "sale",
+        "description": "SubnauticaがVariousで現在75%オフのセール中です。このゲームはオープンワールドのサバイバルジャンルであり、海底での探索や資源の収集、海洋生物との遭遇が特徴です。評価も非常に高く人気があり、多くのプレイヤーから好評価を得ていますので、興味がある方はこの機会にぜひお試しください。",
+        "price": "$7.49",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/subnautica/info/",
         "date": "2026-07-23"
       }
     ],
@@ -1014,8 +1075,47 @@
         "url": "https://www.pcgamer.com/gaming-industry/indie-game-gets-last-minute-steam-delay-while-valve-reviews-its-dozens-of-untextured-polygons-depicting-ass-and-boobs/",
         "date": "2026-07-22",
         "is_translated": true
+      },
+      {
+        "title": "【ボスラッシュ・見切り＆必殺アクション『ルビナイト』、デモ版「圧倒的に好評」の勢いそのまま盛況リ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、ボスラッシュゲームの『ルビナイト』のデモ版の評価ポイントを紹介しています。ゲームの評価ポイントとして、見切り＆必殺アクションの爽快感や難易度の良さが挙げられています。また、レビューの内容概要としては、デモ版の評判が良かったことや、ゲームの世界観の魅力が述べられています。この記事は、ボスラッシュゲームのファンや、アクションゲームが好きな人に読んでいただける内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260723-456365/",
+        "date": "2026-07-23",
+        "is_translated": false
+      },
+      {
+        "title": "【最大3人協力・限界ガソスタ夜勤ホラー『Shift At Midnight』、体験版の勢いそのま...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Shift At Midnightは、最大3人で協力プレイが可能なホラーゲームです。このゲームは、夜のガソリンスタンドを舞台に、プレイヤーは恐怖を感じながら進めていく必要があります。レビューでは、このゲームの評価ポイントとして、緊張感のあるゲームプレイや、協力プレイによるチームワークの重要性が挙げられています。また、グラフィックやサウンドデザインも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260723-456252/",
+        "date": "2026-07-23",
+        "is_translated": false
+      },
+      {
+        "title": "【インディーのオープンワールドゲームの未来?結構です！ Steam コンテンツ MOD が「セッ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、インディーのオープンワールドゲームの未来について結構肯定的な評価をしています。SteamコンテンツMODが「セッ...：レビュー」のゲームについて、グラフィックやサウンド、ゲーム性などの面で評価しています。対象読者は、インディーゲームやオープンワールドゲームに興味がある人や、MODコンテンツを楽しむ人に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/indie-open-worlder-future-no-thanks-gets-last-minute-delay-after-steam-content-mods-allegedly-demand-a-watch-the-sex-scene-button",
+        "date": "2026-07-23",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-23T02:34:47.652769"
+  "last_updated": "2026-07-23T11:07:59.110671"
 }
