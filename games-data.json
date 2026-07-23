@@ -1,68 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Nova Lands",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Nova Landsは、オープンワールドゲームであり、工場建設、探検、島の開発が楽しめるゲームです。このゲームの特徴は、惑星を探索しながら産業を自動管理することや、クエストに挑戦することです。また、ボットを活用して効果的に資源を管理することもできます。ゲームを進める中で、武力による解決や交渉によって困難な状況を乗り越える必要があります。",
-        "price": "無料",
-        "originalPrice": "¥23",
-        "discount": "100% OFF",
-        "deadline": "2026年07月16日まで",
-        "url": "https://store.epicgames.com/ja/p/acb83bd813054e599598de9e76f6d95d",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Tattoo Tycoon",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "このゲームは、シミュレーションジャンルのゲームです。タトゥーアーティストとして、自分だけのタトゥースタジオを経営し、変わった好みの客に完璧なデザインを提案することが特徴です。フワっとした注文からボディアートの素晴らしさを考えながら、ささやかな個人スタジオから大成功を目指すことが魅力です。さらに、タトゥガ・ベイの様々な地域に系列店を展開することができます。",
-        "price": "無料",
-        "originalPrice": "¥34",
-        "discount": "100% OFF",
-        "deadline": "2026年07月16日まで",
-        "url": "https://store.epicgames.com/ja/p/tattoo-tycoon",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Luto",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Lutoは、家から出られない人の役を演じる心理的ホラー体験です。逃げようとするたびに、未知の世界へとさらに深く導かれます。見た目とはまったく異なるものが待っており、すべてがあなたの感覚を試すことになります。ルートや選択肢が複数あり、プレイヤーの選択によって物語が展開します。サウンドやグラフィックもホラーな雰囲気を醸し出しており、恐怖を体験することができます。",
-        "price": "無料",
-        "originalPrice": "¥23",
-        "discount": "100% OFF",
-        "deadline": "2026年07月23日まで",
-        "url": "https://store.epicgames.com/ja/p/67459b70a96e40ca96d5676d8a4fd8c5",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Echo Generation: Midnight Edition",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Echo Generation: Midnight Editionは、現在Epic Gamesで無料配布中のゲームです。このゲームは、RPG要素とアクション要素を兼ね備えた、ユニークなゲームジャンルを持っています。特徴としては、独自のグラフィックと、キャラクターの成長システムが魅力です。また、ストーリーは、90年代の雰囲気を感じることができ、ノスタルジックな要素もあります。",
-        "price": "無料",
-        "originalPrice": "¥24",
-        "discount": "100% OFF",
-        "deadline": "2026年07月23日まで",
-        "url": "https://store.epicgames.com/ja/p/cbf3f5857ec241bab03dbb7eb03efad8",
-        "date": "2026-07-16"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Summer Games Done Quick 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Summer Games Done Quick 2026のバンドルが現在販売中です。このバンドルには、さまざまなゲームが収録されており、代表的なタイトルとして「Celeste」や「Hyper Light Drifter」、「Cuphead」などが含まれています。ジャンルはアクションゲームやプラットフォーマーなど多様で。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/summergamesdonequick2026_bundle",
-        "date": "2026-07-13"
-      },
       {
         "title": "Going Rogue: A Lite Heavy Bundle",
         "platform": "Humble Bundle",
@@ -269,42 +208,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Outer Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Outer Wildsは、宇宙を舞台にしたアドベンチャーゲームです。プレイヤーは、タイムループの中で宇宙を探索し、謎を解き明かしていきます。現在、Variousで40%割引されていて、非常に魅力的です。このゲームは、独特のゲームプレイと深いストーリーによって、高い評価を獲得しています。多くのゲーマーから高い人気を博しており、絶対に試してみるべきゲームのひとつです。",
-        "price": "$14.99",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Denshattack!",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲーム「Densha de Attack!」がVariousで32%オフのセール中です。このゲームは、ユニークな鉄道をテーマにしたアクション要素が特徴で、ユーザーの評価は非常に高い人気ゲームとなっています。現在の価格は割引前の価格より大幅に安くなっており、興味がある方にはおすすめのセールです。",
-        "price": "$13.57",
-        "originalPrice": "",
-        "discount": "-32%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/denshattack/info/",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サイバーパンク2077は、オープンワールドRPGとして知られており、豊富なストーリーやキャラクターが特徴です。現在、Variousで70%割引のセール中で、大幅に価格が下がっています。このゲームは、革新的なグラフィックスや深いストーリーテリングで高く評価されており、人気ゲームとして多くのプレイヤーから支持されています。",
-        "price": "$17.99",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-07-16"
-      },
       {
         "title": "Lies Of P",
         "platform": "Various",
@@ -604,61 +507,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/hades/info/",
         "date": "2026-07-22"
+      },
+      {
+        "title": "Hades II",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲームの《Hades II》が、現在Variousで30％割引されています。このゲームは、神話的なキャラクターと難関のステージが特徴で、プレイヤーは様々な神話の武器を駆使して、多数の敵を倒していく必要があります。ユーザーからの評価は非常に高く、人気度も高いとされています。セール期間中は、通常よりも安価に購入することができますので、興味がある方はぜひこの機会にチェックしてみてください。",
+        "price": "$20.99",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hades-ii/info/",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "AI Limit",
+        "platform": "Various",
+        "type": "sale",
+        "description": "AI Limitは、ストラテジー要素を取り入れたアクションゲームで、AIの制限をテーマにしています。現在、Variousストアで41%割引のセール中です。このゲームは、ユニークなゲームプレイと挑戦的なステージで知られており、ファンから高く評価されています。人気度も高く、多くのプレイヤーから支持されています。セール期間中にこの魅力的なゲームを手に入れる機会を逃さないでください。",
+        "price": "$20.48",
+        "originalPrice": "",
+        "discount": "-41%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ai-limit/info/",
+        "date": "2026-07-23"
       }
     ],
     "review": [
-      {
-        "title": "【高い評価を獲得したナラティブRPG「The Life and Suffering of Sir...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ナラティブRPG「The Life and Suffering of Sir...」は高い評価を獲得しており、レビューではストーリーが深く感動的なものであることや、プレイヤーの選択が重要な役割を果たすことが評価ポイントとして挙げられています。また、ゲームの世界観やキャラクター設定も高く評価されており、RPGファンやストーリー重視のプレイヤーにとっては必見の作品です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168803.html",
-        "date": "2026-07-18",
-        "is_translated": false
-      },
-      {
-        "title": "【モンスターしばきローグライク×オートバトル『Guildrun』、体験版からさっそく大人気の様相...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Guildrunは、モンスターしばきローグライクとオートバトルを組み合わせたゲームで、体験版から人気を博しています。レビューでは、ゲームの評価ポイントとして、戦略的で複雑なゲームシステムや、キャラクターの育成要素、そしてリプレイ性の高さを挙げています。さらに、ゲームの雰囲気やグラフィックの퀄리ティも高く、ローグライクゲームファンやオートバトルゲームファンに人気があると言えるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/guildrun-20260718-455700/",
-        "date": "2026-07-18",
-        "is_translated": false
-      },
-      {
-        "title": "【マルチ対応・鉱石掘りまくり工場自動化シム『Ore Factory Squad』、デモ版の勢いそ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Ore Factory Squadは、マルチプレイ対応の鉱石掘りまくり工場自動化シミュレーションゲームです。このゲームの評価ポイントとしては、工場の自動化システムやマルチプレイの実装が挙げられます。レビューの内容概要としては、ゲームのシステムの深さや、プレイヤー同士の協力プレイの楽しさが評価されています。このゲームは、シミュレーションゲームやマルチプレイゲームが好きな人にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260718-455675/",
-        "date": "2026-07-18",
-        "is_translated": false
-      },
-      {
-        "title": "【人気サバイバルサンドボックス「Necesse」初の大型アップデート“錆とロマンス”の配信が7月...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "人気サバイバルサンドボックスゲーム「Necesse」の大型アップデート「錆とロマンス」が7月に配信されました。このアップデートは、新しい機能やアイテムを追加し、ゲームの世界をより豊かにします。レビューでは、このアップデートがゲームのプレイ性やグラフィックを向上させたと評価しています。また、新しいストーリーやキャラクターの追加も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168808.html",
-        "date": "2026-07-18",
-        "is_translated": false
-      },
       {
         "title": "【『パルワールド』、Steam同接「90万人超え」で勢いさらに加速。正式リリースを迎え、早期アク...：レビュー】",
         "platform": "AUTOMATON",
@@ -1113,8 +988,34 @@
         "url": "https://www.rockpapershotgun.com/dear-frosthaven-boardgame-players-complaining-the-pc-tactics-rpg-adaptation-is-bugged-the-devs-say-its-likely-youve-played-it-wrong",
         "date": "2026-07-22",
         "is_translated": true
+      },
+      {
+        "title": "【“往年のXboxタイトル”がPCで遊べる「XBOX on PC 後方互換機能」発表。『ブリンク...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Xboxの往年のタイトルをPCで遊べる「XBOX on PC 後方互換機能」が発表された。この機能では、過去のXboxゲームをPCでプレイすることが可能になる。レビュー記事では、この機能の評価ポイントとして、互換性の高さやパフォーマンスの向上を挙げている。また、グラフィックやサウンドの向上も評価されている。このレビューは、XboxファンやPCゲーマーに特に興味があると思われる。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/xbox-20260723-456222/",
+        "date": "2026-07-23",
+        "is_translated": false
+      },
+      {
+        "title": "【Valveが「お尻とおっぱいを描いた数十のテクスチャなしポリゴン」をレビューしている間に、イン...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Valveが特定のゲームのレビューを行った際、そのゲームに「お尻とおっぱいを描いた数十のテクスチャなしポリゴン」が含まれていることを指摘していることを取り上げた記事があります。この記事では、ゲームの評価ポイントとしてグラフィックの質やゲーム性の面で評価が下げられている点が紹介されています。また、レビューの内容概要としては、ポリゴンの使用が不適切であると指摘されていることや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/indie-game-gets-last-minute-steam-delay-while-valve-reviews-its-dozens-of-untextured-polygons-depicting-ass-and-boobs/",
+        "date": "2026-07-22",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-22T22:03:30.298111"
+  "last_updated": "2026-07-23T02:34:47.652769"
 }
