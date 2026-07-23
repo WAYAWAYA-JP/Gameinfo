@@ -24,6 +24,18 @@
         "deadline": "2026年07月23日まで",
         "url": "https://store.epicgames.com/ja/p/cbf3f5857ec241bab03dbb7eb03efad8",
         "date": "2026-07-23"
+      },
+      {
+        "title": "Foretales",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Foretalesはストーリー重視のカードゲームで、プレイヤーは世界の運命を選択することができます。このゲームはアドベンチャージャンルに分類され、様々なプレイスタイルとストーリーラインを持っています。特徴としては、自由度の高い選択肢、複数のエンディング、そしてリプレイ性の高さがあります。また、ユニークなカードバトルシステムも魅力の一つです。",
+        "price": "無料",
+        "originalPrice": "¥20",
+        "discount": "100% OFF",
+        "deadline": "2026年07月30日まで",
+        "url": "https://store.epicgames.com/ja/p/a6dcabac79154e218bd3c7d4a8cad8a7",
+        "date": "2026-07-23"
       }
     ],
     "bundle": [
@@ -1152,8 +1164,21 @@
         "url": "https://www.polygon.com/motor-city-review/",
         "date": "2026-07-23",
         "is_translated": true
+      },
+      {
+        "title": "【インディーズ オープンワールドの未来?結構です！ Steam コンテンツ MOD が「セックス...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "本レビュー記事は、インディーズゲームのオープンワールドの未来について触れた内容です。ゲームの評価ポイントとして、自由度の高いゲームプレイやユニークなストーリー展開が挙げられます。レビューの内容概要としては、ゲームの世界観やキャラクターの魅力が高く評価されています。また、MODの導入によるゲームの拡張性も高まっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/indie-open-worlder-future-no-thanks-gets-last-minute-delay-after-steam-content-mods-allegedly-demand-a-watch-the-sex-scene-button",
+        "date": "2026-07-23",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-23T14:17:03.470871"
+  "last_updated": "2026-07-23T22:03:47.040769"
 }
