@@ -40,18 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Going Rogue: A Lite Heavy Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Going Rogue: A Lite Heavy Bundleというバンドルが現在販売中です。このバンドルには、Going RogueやRogue Stateなど、主要なタイトルが2-3本含まれています。ジャンルはアクションやアドベンチャーに属し、大まかな価格帯は数千円から1万円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/goingrogueliteheavybundle_bundle",
-        "date": "2026-07-14"
-      },
-      {
         "title": "Pixel Traditions 3 Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -269,66 +257,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Lies Of P",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Lies Of Pは、Variousで現在50%割引のセール中です。このゲームは、アクションアドベンチャーを融合させた独自のジャンルで人気を博しており、多くのユーザーから高い評価を得ています。現在の価格は割引により大幅に下がっており、魅力的なストーリーや快適なゲームプレイを楽しむ機会です。",
-        "price": "$29.99",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/lies-of-p/info/",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Capcom Arcade Stadium Complete Pack",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "人気のゲームプラットフォームであるSteamで、Capcom Arcade Stadium Complete Packが75%オフのセール中です。このパックは、Capcomの名作アーケードゲームをまとめたもので、クラシックなアクションゲームやシューティングゲームが楽しめます。セール価格で購入することで、大幅な割引を受けることができます。Steamユーザーからは、高評価を得ています。",
-        "price": "¥1,497",
-        "originalPrice": "¥5,990",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1257696",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "SILENT HILL 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サバイバルホラーゲームであるSILENT HILL 2が、現在61%割引されて販売中です。このゲームは、心を震わすストーリーと、アットモスフィアのあるサウンドデザインで知られており、ホラーゲームファンには必見の作品です。高い評価と人気があるこのゲームを、格安の価格で体験することができます。",
-        "price": "$26.95",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Metaphor: ReFantazio",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Metaphor: ReFantazioは、 Variousで64%割引されています。这はアドベンチャーゲームで、ファンタジーな世界を探索することができます。ユーザーの評価は良好で、人気度も高いゲームです。現在の価格は割引された状態なので、興味がある方はこの機会にチェックしてみてください。",
-        "price": "$24.99",
-        "originalPrice": "",
-        "discount": "-64%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Catch Me",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲーム「Catch Me」が、バラエティ豊かな「Various」でセール中です。このゲームは、スピーディな操作と戦略的な思考が必要な、刺激的なゲームプレイを提供します。通常価格より大幅に割引された価格で購入でき、多くのユーザーから高い評価を得ています。人気度も高く、ファンからは「面白い」と評価されています。",
-        "price": "$1.99",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/catch-me/info/",
-        "date": "2026-07-17"
-      },
       {
         "title": "The Life and Suffering of Sir Brante",
         "platform": "Various",
@@ -616,35 +544,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
         "date": "2026-07-23"
+      },
+      {
+        "title": "Borderlands 4",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Borderlands 4は、フリックショッピングのVariousで現在56%オフのセール中です。このゲームはアクションパックのファーストパーソン・シューティングゲームであり、ユニークなキャラクターと豊富な武器が特徴です。セール中の価格は大幅に値下げされており、ファンや新規プレイヤーにとってお買い得です。Borderlandsシリーズは、高い評価と人気を誇り、プレイヤーから高い評価を得ています。",
+        "price": "$30.79",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/borderlands-4/info/",
+        "date": "2026-07-24"
       }
     ],
     "review": [
-      {
-        "title": "【『パルワールド』、Steam同接「90万人超え」で勢いさらに加速。正式リリースを迎え、早期アク...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『パルワールド』はSteamで大きな人気を博しており、早期アクセス期間中に90万人を超えるプレイヤーが参加している。レビュー記事では、このゲームの評価ポイントとして、独自のゲーム性や魅力的な世界観を挙げている。また、ゲームのグラフィックやサウンドトラックも高く評価されている。対象読者は、このゲームに興味がある人やSteamで新しいゲームを探している人におすすめされる。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260719-455716/",
-        "date": "2026-07-19",
-        "is_translated": false
-      },
-      {
-        "title": "【『亰都ザナドゥ』でペルソナなメトロイドヴァニア学園生活シムを楽しむ。『アーケロン』新モードで色...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "この記事では、『亰都ザナドゥ』と『アーケロン』のレビューを紹介しています。『亰都ザナドゥ』では、ペルソナのようなキャラクターとメトロイドヴァニアスタイルのゲームプレイが特徴的です。また、学園生活シミュレーション要素も含まれています。一方、『アーケロン』では、新しいモードが追加されており、より多様なゲーム体験が楽しめます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260719-455748/",
-        "date": "2026-07-19",
-        "is_translated": false
-      },
       {
         "title": "【恐竜と共生する架空の中世を描く都市建設RTS/アクションRPGハイブリッド「Dinolords...：レビュー】",
         "platform": "doope!",
@@ -1177,8 +1091,34 @@
         "url": "https://www.rockpapershotgun.com/indie-open-worlder-future-no-thanks-gets-last-minute-delay-after-steam-content-mods-allegedly-demand-a-watch-the-sex-scene-button",
         "date": "2026-07-23",
         "is_translated": true
+      },
+      {
+        "title": "【美少女精神崩壊デッキ構築ローグライク『カオスゼロナイトメア』、がっつりナーフ発表からわずか2日...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、ローグライクゲーム『カオスゼロナイトメア』の評価ポイントを紹介しています。ゲームの評価ポイントとして、ゲームの難易度と複雑さ、ゲームのグラフィックとサウンドの品質が挙げられます。また、レビューでは、ゲームのバランス調整と難易度の調整についても言及されています。このレビューは、ローグライクゲームのファンや、新しいゲームを探しているゲーマーにとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260724-456418/",
+        "date": "2026-07-24",
+        "is_translated": false
+      },
+      {
+        "title": "【Nintendo Switch 2向けデジタル版「UNBEATABLE」の発売が延期、新たな発...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Nintendo Switch 2向けのデジタル版「UNBEATABLE」の発売が延期となり、新たな発売日が発表されたと伝えられている。このゲームの評価ポイントとしては、独自のゲームシステムや美しいグラフィックが挙げられる。レビューの内容概要としては、ゲームの世界観やサウンドトラックの素晴らしさが高く評価されており、また、ゲームの難易度の適切さも称賛されている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168975.html",
+        "date": "2026-07-23",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-23T22:03:47.040769"
+  "last_updated": "2026-07-24T02:31:36.845997"
 }
