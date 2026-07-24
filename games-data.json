@@ -254,6 +254,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/horror-station-bundle",
         "date": "2026-07-23"
+      },
+      {
+        "title": "Idlers and Desktop Companions",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Idlers and Desktop Companionsというバンドルが現在販売中です。このバンドルには、Adorables、Egg Inc.、Idle Champions of the Forgotten Realmsなどのタイトルが含まれています。ジャンルは、アイドルゲームやシミュレーションゲームが中心です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/idlersanddesktopcompanions_bundle",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "Animal Style Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Animal Style Bundleというバンドルが現在販売中です。このバンドルには、主にアクションとアドベンチャーを中心としたゲームが収録されており、代表的なタイトルとしては「Okami HD」や「Devil May Cry HD Collection」などがあります。ジャンルはアクションアドベンチャーが中心で、大まかな価格帯は10〜20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/animalstylebundle_bundle",
+        "date": "2026-07-24"
       }
     ],
     "sale": [
@@ -567,6 +591,30 @@
         "discount": "-71%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/risk-of-rain-2/info/",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "Foretales",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Foretalesは、ストラテジーとカードゲームの要素を組み合わせたユニークなゲームです。現在、Variousで100%割引のセール中で、完全無料でプレイできます。プレイヤーは、キャラクターのデッキを構築してバトルに挑み、戦略的な思考力とカードの使い方を駆使して勝利を目指します。このゲームは、ユーザーの評価が高く、ストラテジーゲームファンやカードゲーム好きにはおすすめです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/foretales/info/",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "Dredge",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Dredgeは、 Variousで66%オフのセール中です。このゲームは、ユニークなフィッシングアクションとサバイバル要素を組み合わせた、ファンタジー要素の強いアクションアドベンチャーゲームです。現在の価格は割引により大幅に下がっており、評価も高く人気度が高いゲームとなっています。",
+        "price": "$8.61",
+        "originalPrice": "",
+        "discount": "-66%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dredge/info/",
         "date": "2026-07-24"
       }
     ],
@@ -1220,8 +1268,34 @@
         "url": "https://www.rockpapershotgun.com/lets-make-a-better-world-denshattacks-developers-on-counterculture-biker-gangs-and-the-optimism-of-fighting-a-mecha-with-a-train",
         "date": "2026-07-24",
         "is_translated": true
+      },
+      {
+        "title": "【Asus ROG Azoth Extreme Edition 20 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Asus ROG Azoth Extreme Edition 20のレビュー記事では、ゲーミングパッドの評価ポイントとして、耐久性とレスポンスの速さが高く評価されています。また、デザインと操作性の向上も指摘されています。このレビュー記事は、ゲーミングパッドを購入を検討している方や、ゲーミングに関する情報を探しているゲーマーに役立つ内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/asus-rog-azoth-extreme-edition-20-review/",
+        "date": "2026-07-24",
+        "is_translated": true
+      },
+      {
+        "title": "【HyperX Pulsefire Saga ゲーミング マウスのレビュー: モジュラー パーツ...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "HyperX Pulsefire Saga ゲーミング マウスのレビュー記事では、モジュラー パーツのカスタマイズ性や高精度のセンサー、耐久性の高いスイッチなどが評価ポイントとして取り上げられています。このマウスは、ゲーミング マウスに求められる基本的な機能を兼ね備えながらも、ユーザーのニーズに応じたカスタマイズが可能な点が特徴です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/hyperx-pulsefire-saga-gaming-mouse-review-modular-parts-win-hearts",
+        "date": "2026-07-24",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-24T13:56:52.623110"
+  "last_updated": "2026-07-24T22:04:30.078302"
 }
