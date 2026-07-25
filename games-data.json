@@ -616,6 +616,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/shadows-of-doubt/info/",
         "date": "2026-07-25"
+      },
+      {
+        "title": "Outer Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Outer Wildsは、宇宙を探索するアドベンチャーゲームです。このゲームでは、プレイヤーはタイムループの中で、宇宙の秘密を解き明かしていきます。現在、53%の割引セール中で、非常に魅力的な価格になっています。Outer Wildsは、ユニークなストーリーや深いゲーム性で高く評価されており、多くのゲーマーから人気を博しています。",
+        "price": "$11.84",
+        "originalPrice": "",
+        "discount": "-53%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
+        "date": "2026-07-25"
       }
     ],
     "review": [
@@ -1203,8 +1215,21 @@
         "url": "https://www.polygon.com/black-torch-anime-review-chainsaw-man-shonen-comparison/",
         "date": "2026-07-25",
         "is_translated": true
+      },
+      {
+        "title": "【潜る、拾う、また潜る！『スプラトゥーン レイダース』のハクスラ沼はインクの快感とトレハンの中毒...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "スプラトゥーン レイダースは、インクの快感とトレハンの中毒性が魅力のゲームです。このゲームでは、プレイヤーはハクスラ沼を探索し、インクを拾ったり、戦闘に参加したりします。レビューでは、ゲームのグラフィックやサウンドトラックが高く評価されています。また、プレイヤーはトレハンを繰り返し行うことで、新しいスキルやアイテムを獲得できるため、中毒性も高いと言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/07/26/185157.html",
+        "date": "2026-07-25",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-25T13:47:59.919672"
+  "last_updated": "2026-07-25T21:55:08.981539"
 }
