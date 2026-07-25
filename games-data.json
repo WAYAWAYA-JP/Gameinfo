@@ -1164,8 +1164,47 @@
         "url": "https://automaton-media.com/articles/newsjp/sponge-break-20260725-456640/",
         "date": "2026-07-25",
         "is_translated": false
+      },
+      {
+        "title": "【フリューの新作サバイバルTPS『アノマリス』、8月1日より体験版配信へ。“フリューファン以外”...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "フリューの新作サバイバルTPS『アノマリス』のレビュー記事があります。このゲームは8月1日より体験版が配信される予定です。レビューでは、フリューのファン以外の人も楽しめる内容になっている点、グラフィックやサウンドのクオリティが高い点、そして新しいゲームプレイスタイルを提供している点が評価されています。このレビューは、サバイバルゲームやTPSファンに興味がある人に役立つ内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/anomalith-20260725-456683/",
+        "date": "2026-07-25",
+        "is_translated": false
+      },
+      {
+        "title": "【The Alters Last Variable レビュー: 新しい拡張機能は、基本ゲームの楽...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "The Alters Last Variable のレビュー記事では、新しい拡張機能が基本ゲームの楽しさを高めていると評価されています。このゲームは、ストラテジー要素とアクション要素のバランスが取れた内容で、複数のキャラクターを操作してステージをクリアするというものです。記事では、拡張機能により新しいキャラクターやステージが追加され、ゲームの再生価値が向上したと述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/the-alters-last-variable-review-dlc-expansion/",
+        "date": "2026-07-25",
+        "is_translated": true
+      },
+      {
+        "title": "【ブラックトーチのレビュー: 猫派のためのチェーンソーマン - 忍者と】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム「ブラックトーチ」の魅力を紹介しています。忍者とチェーンソーを使ったアクションゲームとして評価されており、猫派のプレイヤーにも楽しい要素があると言及されています。対象読者は、アクションゲームファンや猫愛好家の方に適していると思われます。総評としては、ユニークなゲーム性と猫キャラクターの魅力が際立つ作品であると言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/black-torch-anime-review-chainsaw-man-shonen-comparison/",
+        "date": "2026-07-25",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-25T10:26:02.246437"
+  "last_updated": "2026-07-25T13:47:59.919672"
 }
