@@ -40,54 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Pixel Traditions 3 Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでPixel Traditions 3 Bundleが販売中です。このバンドルには、Retro Game Challenge、Oniken、Battle Princess Madelynなどの主要タイトルが含まれており、主にアクションやアドベンチャーの要素を持つレトロ風のゲームが多く含まれています。ジャンルは主にアクションやアドベンチャーです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/pixel-traditions3-bundle",
-        "date": "2026-07-15"
-      },
-      {
-        "title": "Twist & Tangle Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Twist & Tangle Bundleというバンドルが販売中です。このバンドルには、Twist、Tangleなどのタイトルが含まれており、パズルやアドベンチャーなどのジャンルを楽しむことができます。大まかな価格帯は、幾らかと言えるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
-        "date": "2026-07-15"
-      },
-      {
-        "title": "Humble Handhelds Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Humble Handhelds Bundleが販売中です。このバンドルには、主要タイトルとしてA Short Hike、Forager、West of Loathingなどが含まれています。ジャンルはアクションアドベンチャーやロールプレイングゲームなど多様で、ファンタジー要素もあります。大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/handheldsbundle_bundle",
-        "date": "2026-07-15"
-      },
-      {
-        "title": "Liminal Spaces",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Liminal Spacesというバンドルが販売中です。これは、不穏な雰囲気を楽しみたい人向けの、アトモスフィア重視のゲームをまとめたバンドルで、主要タイトルには「The Pathless」や「Abzû」、「What Remains of Edith Finch」が含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/liminalspaces_bundle",
-        "date": "2026-07-15"
-      },
-      {
         "title": "Arc System Works: Evo Collection",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -281,42 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "The Life and Suffering of Sir Brante",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Life and Suffering of Sir BranteがVariousで100%割引されています。このゲームは、選択によってストーリーが変化するアドベンチャーゲームで、プレイヤーは中世の貴族の生涯を体験します。評価は非常に高く、多くのユーザーから称賛されており、現在は無料でプレイすることができます。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-life-and-suffering-of-sir-brante/info/",
-        "date": "2026-07-18"
-      },
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストは、オープンワールドアクションアドベンチャーゲームであり、自由に世界を移動してミッションをクリアしたり、様々なアクティビティに参加したりすることができます。現在、Steamで50%OFFのセール中であり、大幅に安くなっています。評価も非常に高く、人気のゲームとして知られています。",
-        "price": "¥2,190",
-        "originalPrice": "¥4,380",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-07-18"
-      },
-      {
-        "title": "Indiana Jones and the Great Circle",
-        "platform": "Various",
-        "type": "sale",
-        "description": "インディアナ・ジョーンズシリーズの新作「Indiana Jones and the Great Circle」が、現在Variousで16%オフのセール中です。このアクションアドベンチャーゲームは、インディアナ・ジョーンズの冒険を通して、ユーザーに興奮とスリルを提供します。高い評価と人気度を誇るこのゲームは、ファンに大いに支持されています。",
-        "price": "$58.79",
-        "originalPrice": "",
-        "discount": "-16%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/indiana-jones-and-the-great-circle/info/",
-        "date": "2026-07-18"
-      },
       {
         "title": "Echo Generation: Midnight Edition",
         "platform": "Various",
@@ -620,175 +536,6 @@
     ],
     "review": [
       {
-        "title": "【恐竜と共生する架空の中世を描く都市建設RTS/アクションRPGハイブリッド「Dinolords...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、恐竜と共生する架空の中世を舞台にした都市建設RTSとアクションRPGが融合したゲーム「Dinolords」の魅力を紹介しています。ゲームの評価ポイントとして、ユニークなゲームシステムや恐竜との共生が挙げられます。レビューの内容概要は、ゲームの世界観やゲームプレイの面白さ、グラフィックの美しさなどを取り上げています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168773.html",
-        "date": "2026-07-20",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam 週間の振り返り: Steam ゲームの半数以上が 2027 ～ 2028 年までに...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Steam 週間の振り返りという記事では、Steam プラットフォームで提供されているゲームの現状について分析しています。記事の主な評価ポイントは、2027年から2028年までの間にリリースされるゲームのラインナップや、Steam ゲームの質の向上などです。レビューの内容としては、ゲームのグラフィックの進化、ゲームプレイの多様性、そしてゲームのストーリー性の深化が取り上げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
-        "date": "2026-07-20",
-        "is_translated": true
-      },
-      {
-        "title": "【基本プレイ無料“欲望開花”美少女RPG『パールインブルー』発表。毎月ヒロイン追加、少女たちと送...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料の美少女RPG「パールインブルー」についてのレビュー記事では、毎月新しいヒロインが追加される点や、少女たちとの会話やイベントを楽しめる点、そして美しいグラフィックや魅力的なストーリーが評価ポイントとして挙げられていることがわかります。このゲームは、美少女RPGファンやキャラクターとの交流を楽しむことを好むユーザーに特にオススメできるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260720-455788/",
-        "date": "2026-07-20",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam病原体ローグライクSTG『Pathogenic』密かな注目、からの人気爆発中。自由に...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamで人気の病原体ローグライクSTG『Pathogenic』は、自由にプレイヤーの戦略を生み出せるため、評価ポイントが高いです。レビューの内容は、ゲームの自由度、戦略的深度、グラフィックの質の高さなどの点が評価されています。また、ローグライクゲームやSTGのファンには必見の作品と言えるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260720-455780/",
-        "date": "2026-07-20",
-        "is_translated": false
-      },
-      {
-        "title": "【話題沸騰中のブサイク人生RPG『活俠傳』日本語Modに「難しい漢字のルビ」実装。書蓉も火閃電も...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、話題沸騰中のブサイク人生RPG『活俠傳』の日本語Modについて取り上げています。評価ポイントとしては、難しい漢字にルビが付与されている点が特筆され、書蓉や火閃電などのキャラクターも紹介されています。レビュー全体の内容は、ゲームの魅力や日本語Modの利点について述べられており、ゲームファンやRPG好きの方々が対象読者となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260720-455773/",
-        "date": "2026-07-20",
-        "is_translated": false
-      },
-      {
-        "title": "【“Astroneer”世界が舞台となる新作「STARSEEKER: Astroneer Exp...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「STARSEEKER: Astroneer Exp...」は、人気ゲーム「Astroneer」の世界を舞台にした新作です。このゲームの評価ポイントとしては、美しいグラフィックや自由度の高いゲームプレイが挙げられます。レビューの内容概要としては、探索や建築の面白さ、そして新しい要素の追加などが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168825.html",
-        "date": "2026-07-20",
-        "is_translated": false
-      },
-      {
-        "title": "【「Call of Duty: Modern Warfare 4」“キルブロック”モードの本格的...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Call of Duty: Modern Warfare 4」のレビュー記事では、ゲームの評価ポイントとして「キルブロック」モードの本格的な導入が紹介されています。このモードでは、プレイヤーはチームを組んで戦い、キルブロックを取得することでゲームを有利に進めることができます。レビューの内容概要としては、ゲームのグラフィックの高さやサウンドデザインの効果的な使用が挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168776.html",
-        "date": "2026-07-20",
-        "is_translated": false
-      },
-      {
-        "title": "【ソニック & オールスター レーシング トランスフォームド レビュー (2018)】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ソニック & オールスター レーシング トランスフォームドは、レースゲームのファン必見の作品です。このゲームの評価ポイントとしては、高速でアクション満載のレースモードや、カスタマイズ可能な車両、豊富なコンテンツなどがあります。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの高品質、そしてプレイヤーのスキルに応じた適切な難易度設定が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/racing/sonic-and-all-stars-racing-transformed-review-2018/",
-        "date": "2026-07-20",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam 週間の振り返り: 2027 年から 2028 年までに新しい Steam ゲームの...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Steam 週間の振り返りは、2027 年から 2028 年にかけてリリースされる新しい Steam ゲームを紹介します。このレビュー記事では、新作ゲームの評価ポイントとしてグラフィックの品質やプレイ性、ストーリーの面白さなどを取り上げています。また、各ゲームの特徴や魅力を解説し、ユーザーがどのゲームに注目すべきかを明確に示しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
-        "date": "2026-07-20",
-        "is_translated": true
-      },
-      {
-        "title": "【「Euro Truck Simulator 2: Coaches」DLCに登場する長距離バスの...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Euro Truck Simulator 2: Coaches」DLCのレビュー記事では、長距離バスの運転ができる新しいコンテンツが登場したことを紹介しています。このゲームの評価ポイントとして、リアルな運転シミュレーションやグラフィックの向上が挙げられます。また、レビューの内容では、新しいバスの種類やルートの追加が好評であると述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168789.html",
-        "date": "2026-07-20",
-        "is_translated": false
-      },
-      {
-        "title": "【カーティス大統領レビュー：『リック・アンド・モーティ』初のスピンオフは、アメリカ建国250周年...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "カーティス大統領レビューは、リック・アンド・モーティの初のスピンオフ作品について紹介しています。このレビュー記事では、作品の内容とアメリカ建国250周年に対する評価ポイントを説明しています。特に、ストーリーの面白さやキャラクターの魅力を高く評価しています。対象読者は、リック・アンド・モーティのファンやアニメ好きの方に適しています。記事では、作品の新鮮なアイデアやユーモアも評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/rick-and-morty-spinoff-president-curtis-review/",
-        "date": "2026-07-20",
-        "is_translated": true
-      },
-      {
-        "title": "【Samsung 990 レビュー: 低スペックの SSD ですが、ゲームには妙に優れています】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、Samsung 990という低スペックのSSDが、ゲームの性能において意外に優れているという点に焦点を当てています。記事では、150GB/sの読み取り速度と130GB/sの書き込み速度を実現するこのSSDの特徴や、ゲームのロード時間の短縮など、ゲームプレイにおける優位性について詳しく説明しています。さらに、ベンチマークテストの結果や、ゲームプレイの実感についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/samsung-990-review-a-lower-spec-ssd-thats-weirdly-great-for-games",
-        "date": "2026-07-20",
-        "is_translated": true
-      },
-      {
-        "title": "【The Mermaid Mask は 2026 年で最もレビューされたゲームの 1 つです。そ...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "The Mermaid Mask は2026年で最もレビューされたゲームの1つです。ゲームの評価ポイントとしては、美しいグラフィックや魅力的なストーリーが挙げられます。レビューの内容概要としては、ゲームの操作性や難易度の適切さが高く評価されており、また、ゲームの世界観やキャラクターのデザインも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/the-mermaid-mask-recommendation/",
-        "date": "2026-07-20",
-        "is_translated": true
-      },
-      {
         "title": "【「Resonance: A Plague Tale Legacy」の多彩なロケーションを紹介す...：レビュー】",
         "platform": "doope!",
         "type": "review",
@@ -799,19 +546,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/07168850.html",
         "date": "2026-07-21",
-        "is_translated": false
-      },
-      {
-        "title": "【レトロフューチャーな宇宙サバイバルアドベンチャー続編「Breathedge 2」の早期アクセス...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "レトロフューチャーな宇宙サバイバルアドベンチャーゲーム「Breathedge 2」の早期アクセス版のレビュー記事があります。このゲームは、ユニークなグラフィックや面白いストーリーが特徴です。レビューでは、ゲームの評価ポイントとして、サバイバル要素の充実度、宇宙空間での探索の自由度、ユーモアのあるストーリーの魅力が挙げられています。ゲームファンやアドベンチャーゲーム好きの方にはおすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168838.html",
-        "date": "2026-07-20",
         "is_translated": false
       },
       {
@@ -1294,8 +1028,34 @@
         "url": "https://www.rockpapershotgun.com/hyperx-pulsefire-saga-gaming-mouse-review-modular-parts-win-hearts",
         "date": "2026-07-24",
         "is_translated": true
+      },
+      {
+        "title": "【「Warhammer 40,000: Dawn of War IV」のマルチプレイヤーに関する...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Warhammer 40,000: Dawn of War IVのレビュー記事では、マルチプレイヤー機能の充実度やゲームバランスの良さ、グラフィックの美しさなどが評価ポイントとして取り上げられています。記事では、戦略的な戦闘やユニークなユニットが魅力的な点として挙げられており、ファンやストラテジーゲーム好きの方に特におすすめしています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168958.html",
+        "date": "2026-07-25",
+        "is_translated": false
+      },
+      {
+        "title": "【CoH3のローグライトスピンオフ「Company of Heroes 3: Final Sta...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Company of Heroes 3のローグライトスピンオフ「Company of Heroes 3: Final Stand」のレビュー記事では、ゲームの評価ポイントとして、ストーリーの引き付け方やゲームプレイのバランスがあげられます。また、レビューの内容概要として、ゲームのグラフィックやサウンドトラックの質にも触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168962.html",
+        "date": "2026-07-25",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-24T22:04:30.078302"
+  "last_updated": "2026-07-25T02:30:06.582085"
 }
