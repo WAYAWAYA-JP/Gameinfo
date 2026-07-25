@@ -230,6 +230,54 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/animalstylebundle_bundle",
         "date": "2026-07-24"
+      },
+      {
+        "title": "Humble Handhelds Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Handhelds BundleというバンドルがHumble Bundleで販売中です。このバンドルには、Undertale、A Short Hike、West of Loathingなどの主要タイトルが含まれています。ジャンルはアクション、ロールプレイングゲーム、インディーゲームなど多様なものが含まれており、大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/handheldsbundle_bundle",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "Liminal Spaces",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Liminal Spacesのバンドルが現在販売中です。このバンドルには、主要タイトルとして「The Pathless」や「The Under Presents」、「What Remains of Edith Finch」などが含まれています。ジャンルはアドベンチャーやパズルゲームが中心です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/liminalspaces_bundle",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "Pixel Traditions 3 Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Pixel Traditions 3 Bundleは、IndieGalaで現在販売中です。このバンドルには、A Short HikeやForager、Stardew Valleyなどの主要タイトルが含まれています。ジャンルは、インディーゲームやシミュレーションゲームが中心です。大まかな価格帯は10ドルから20ドル程度で、150〜200作品以上が収録されたバンドルのため。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/pixel-traditions3-bundle",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "Twist & Tangle Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Twist & Tangle Bundleというバンドルが販売中です。このバンドルには、The Pathless、The Almost Gone、The Swapperなどのタイトルが含まれており、パズルやアドベンチャーなどのジャンルを楽しむことができます。大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
+        "date": "2026-07-25"
       }
     ],
     "sale": [
@@ -532,6 +580,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dredge/info/",
         "date": "2026-07-24"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストがSteamで50%OFFのセール中です。このゲームはオープンワールドアクションアドベンチャーであり、豊富なグラフィックと多彩なミッションでプレイヤーを魅了します。現在の価格は割引前の半額となり、非常に魅力的なオファーです。グランド・セフト・オートシリーズは世界中で人気を博しており、多くのゲームファンから高い評価を受けています。",
+        "price": "¥2,190",
+        "originalPrice": "¥4,380",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "Yet Another Zombie Defense HD",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Yet Another Zombie Defense HDがVariousで100%割引されています。このゲームは、アクションとタワーディフェンスを融合させたゾンビサバイバルゲームで、プレイヤーは無限に湧き出るゾンビから生き残るために戦い続けなければなりません。ユーザーの評価は非常に高く、多くのプレイヤーから人気を博しています。現在は無料でダウンロードできますので、気軽にプレイしてみてください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/yet-another-zombie-defense-hd/info/",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "Shadows of Doubt",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Shadows of Doubtは、Detectiveゲームで、64％の割引を受けています。このゲームは、プレイヤーが探偵となり、事件を解決することを目的とした、捜査アドベンチャーゲームです。評価は非常に高く、人気も高いゲームで、ファンからは高く評価されています。",
+        "price": "$7.20",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/shadows-of-doubt/info/",
+        "date": "2026-07-25"
       }
     ],
     "review": [
@@ -1054,8 +1138,34 @@
         "url": "https://doope.jp/2026/07168962.html",
         "date": "2026-07-25",
         "is_translated": false
+      },
+      {
+        "title": "【Steamユーザーの約半数は、レビューが「賛否両論」以下だと購入をためらうという調査結果。“レ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamユーザーたちの購買決定に影響を与えるレビューの重要性を調査した結果、約半数のユーザーが「賛否両論」以下の評価のゲームには購入をためらうことが明らかになった。このような調査結果は、ゲームの評価においてレビューが果たす役割を浮き彫りにしている。特に、ゲームの評価ポイントとしてグラフィックの質、ゲームプレイの面白さ、ストーリーの深さなどが重要視されている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260725-456647/",
+        "date": "2026-07-25",
+        "is_translated": false
+      },
+      {
+        "title": "【マルチ対応・超危険イカダ川下りゲーム『Sponge Break』7月31日配信へ。落石や“イカ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「Sponge Break」は、7月31日に配信される超危険なイカダ川下りゲームです。このゲームでは、プレイヤーは川を下りながら落石や障害物を避けながら進む必要があり、スリルと緊張感を味わえるでしょう。ゲームの評価ポイントとしては、簡単な操作で誰でも遊べること、様々な障害物が登場し飽きないこと、そしてマルチプレイに対応していることが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/sponge-break-20260725-456640/",
+        "date": "2026-07-25",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-25T02:30:06.582085"
+  "last_updated": "2026-07-25T10:26:02.246437"
 }
