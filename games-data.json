@@ -604,6 +604,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dead-cells/info/",
         "date": "2026-07-26"
+      },
+      {
+        "title": "The Alters",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Altersは、ロールプレイングゲームで、現在Variousで61%割引されています。このゲームは、ユニークなストーリーと深いキャラクターシステムで評価されており、ユーザーからの人気度も高いです。セール中なので、ロールプレイングゲームファンにはお勧めのタイトルです。",
+        "price": "$13.62",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-alters/info/",
+        "date": "2026-07-26"
       }
     ],
     "review": [
@@ -1113,8 +1125,47 @@
         "url": "https://automaton-media.com/articles/reportjp/20260726-456717/",
         "date": "2026-07-26",
         "is_translated": false
+      },
+      {
+        "title": "【『アークナイツ：エンドフィールド』の任務にて、あえて“手作業”を試みる。推理ゲーム『Type ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『アークナイツ：エンドフィールド』の任務を手作業で試みた経験から、推理ゲーム『Type：』のレビュー記事を読む機会がありました。このゲームの評価ポイントとしては、ストーリーの深み、ゲームシステムの独創性、そしてグラフィックの美しさが挙げられます。レビューの内容は、ゲームの魅力をより深く理解するためのヒントを提供し。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260726-456802/",
+        "date": "2026-07-26",
+        "is_translated": false
+      },
+      {
+        "title": "【『雀魂 -じゃんたま-』Steam版いきなり配信開始。“脳筋プレイ”推奨のホラーコメディ『10...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『雀魂 -じゃんたま-』のSteam版が突然配信開始されたというニュースに続き、「脳筋プレイ」が推奨されるホラーコメディゲーム『10...』のレビュー記事が登場しています。この記事では、ゲームの評価ポイントとして、ユニークなゲームプレイやホラー要素の組み合わせが高く評価されています。また、ストーリーやキャラクターの魅力もレビューの内容の中で重要なポイントとして언급されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260726-456666/",
+        "date": "2026-07-26",
+        "is_translated": false
+      },
+      {
+        "title": "【W杯の熱が冷めないので『サカつく2026』で日本代表を世界一に。やり込みプレイヤーが新要素「イ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『サカつく2026』はW杯の熱が冷めないので、日本代表を世界一に導くゲームで、最新の要素も盛り込まれています。やり込みプレイヤーが新要素「イベントシナリオ」の魅力を紹介しています。対象読者は、このゲームの新要素や魅力を知りたい人や、サッカーを愛する人にお勧めです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260726-456738/",
+        "date": "2026-07-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-26T02:36:54.873182"
+  "last_updated": "2026-07-26T10:43:59.915867"
 }
