@@ -40,18 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Arc System Works: Evo Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、人気ゲームメーカーのArc System Worksが提供する「Arc System Works: Evo Collection」のバンドルが販売中です。このバンドルには、主要タイトルとして「GUILTY GEAR XX ACCENT CORE PLUS R」や「BLAZBLUE CENTRALFICTION」などのファイティングゲームが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/arcsystemworksevocollection_bundle",
-        "date": "2026-07-16"
-      },
-      {
         "title": "July 2026 Humble Choice",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -281,42 +269,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Echo Generation: Midnight Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Echo Generation: Midnight Editionは、ロールプレイングゲームとアクションゲームの要素を組み合わせたユニークなゲームで、現在Variousで100%割引されていて、完全無料で遊ぶことができます。このゲームは、ストーリーテリングとキャラクターデザインが高く評価されており、ファンから人気を博しています。無料でプレイできるこの機会を逃さないでください。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/echo-generation-midnight-edition/info/",
-        "date": "2026-07-19"
-      },
-      {
-        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-        "platform": "Various",
-        "type": "sale",
-        "description": "S.T.A.L.K.E.R. 2: Heart of Chornobylは、ファーストパーソン・シューティングゲームに分類されるオープンワールドのサバイバルホラーゲームです。このゲームは、グラフィックやサウンドデザインが高く評価されており、プレイヤーは放射能に汚染されたチェルノブイル原子力発電所周辺の地域を探索しながら、さまざまなミッションをこなしていきます。",
-        "price": "$49.79",
-        "originalPrice": "",
-        "discount": "-17%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
-        "date": "2026-07-19"
-      },
-      {
-        "title": "Palworld",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Palworldは、ユニークなキャラクターと広大な世界を特徴とする、オープンワールドアドベンチャーゲームです。このゲームでは、様々なパルを集め、育て、冒険のパートナーとして活用することができます。現在、Variousで30%割引のセール中であり、大幅に安価な価格で購入することが可能です。Palworldは、ユーザーから高い評価を得ており、多くのゲーマーに支持されています。",
-        "price": "$20.99",
-        "originalPrice": "",
-        "discount": "-30%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/palworld/info/",
-        "date": "2026-07-19"
-      },
       {
         "title": "Warhammer 40,000: Space Marine 2",
         "platform": "Steam",
@@ -628,113 +580,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/outer-wilds/info/",
         "date": "2026-07-25"
+      },
+      {
+        "title": "DayZ",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サバイバルゲームのDayZがSteamで50%オフのセール中です。このゲームは、ゾンビが跋扈する世界で生き残ることを目指す、オープンワールドのサバイバルアクションゲームで、プレイヤーは食料や水、武器を集めながら、他の生存者との戦いを繰り広げます。高い評価と人気度を誇り、ゲームコミュニティでよく知られています。",
+        "price": "¥3,100",
+        "originalPrice": "¥6,200",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/221100",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "Dead Cells",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションゲームの『Dead Cells』が現在、Variousで48%割引されています。ローグライク要素を取り入れたこのゲームは、難しいがやり込み要素の高い内容で人気を博しています。多くのユーザーから高評価を得ており、価格を割引された今が入手するチャンスです。",
+        "price": "$12.40",
+        "originalPrice": "",
+        "discount": "-48%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dead-cells/info/",
+        "date": "2026-07-26"
       }
     ],
     "review": [
-      {
-        "title": "【「Resonance: A Plague Tale Legacy」の多彩なロケーションを紹介す...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "『Resonance: A Plague Tale Legacy』は、多彩なロケーションを堪能できるゲームであり、レビューではその豊かな世界観やグラフィックの高さを評価しています。さらに、ゲームのストーリーやキャラクターの深みも高く評価されています。特に、ゲームの雰囲気を醸し出すサウンドトラックや、プレイヤーに緊張感を与えるスリル満点のゲームプレイもレビューでは高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168850.html",
-        "date": "2026-07-21",
-        "is_translated": false
-      },
-      {
-        "title": "【悪霊清掃ホラーコメディ『100均除霊師』11月12日配信へ。格安アイテムで挑む高額報酬アルバイ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『100均除霊師』は、悪霊を退治するホラーコメディゲームです。格安アイテムを使用して、高額報酬の仕事に挑む内容が特徴です。このゲームの評価ポイントとしては、ユーモアのあるストーリーや、システムの面白さがあります。レビューの内容概要としては、ゲームの楽しさや、アイテムの使い方が重要になる点が挙げられます。このゲームは、ホラーやコメディが好きな人や、ユニークなゲームを探している人に適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260721-455945/",
-        "date": "2026-07-21",
-        "is_translated": false
-      },
-      {
-        "title": "【“圧倒的に好評”書店経営シム『Bookshop Simulator』正式リリースされ、待望の「...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Bookshop Simulatorは書店経営シムゲームです。このゲームは圧倒的に好評で、正式にリリースされました。ゲームの評価ポイントとしては、ユーザーが書店を自由に設計でき、様々な本を販売することができる点があげられます。また、ゲーム内のイベントやキャラクターも評価されています。このゲームのレビューでは、ゲームの自由度や魅力的なゲーム世界が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260721-455923/",
-        "date": "2026-07-21",
-        "is_translated": false
-      },
-      {
-        "title": "【ベトナム戦争をテーマに描く50vs50シューター「Hell Let Loose: Vietna...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、ベトナム戦争をテーマに描く50vs50のシューティングゲーム「Hell Let Loose: Vietnam」の評価ポイントについて紹介しています。ゲームの評価ポイントとして、リアルな戦場の描写や、戦略的なチームプレイの重要性が高く評価されています。また、レビューでは、ゲームのグラフィックやサウンドデザインも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168853.html",
-        "date": "2026-07-21",
-        "is_translated": false
-      },
-      {
-        "title": "【MSI Claw 8 EX AI+ CG3EM レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "MSI Claw 8 EX AI+ CG3EM レビュー記事では、ゲーミングマウスの性能や機能面で評価しています。この記事では、マウスの感度やレスポンスの速さ、ボタンの配置や操作性などが評価ポイントとして取り上げられています。また、AI技術を搭載した独自の機能やカスタマイズ性もレビューの内容に含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/msi-claw-8-ex-ai-cg3em-review/",
-        "date": "2026-07-21",
-        "is_translated": true
-      },
-      {
-        "title": "【輝かしいGHS InfinitePlayレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事は、人気ゲーム「GHS InfinitePlay」の魅力を紹介しています。評価ポイントとしては、ゲームのグラフィックやサウンドデザイン、そしてユーザーフレンドリーな操作性が高く評価されています。また、レビューの内容では、ゲームのストーリーやキャラクターの深み、そしてリピートプレイ性も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-headsets/glorious-ghs-infiniteplay-review/",
-        "date": "2026-07-21",
-        "is_translated": true
-      },
-      {
-        "title": "【『スプラトゥーン レイダース』レビュー：任天堂の『ボーダーランズ』に対する見方は楽しい混乱だ】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "任天堂の新作ゲーム「スプラトゥーン レイダース」のレビュー記事では、ゲームの評価ポイントとして、ユニークなゲームプレイスタイルやコラボレーションの楽しさが挙げられています。また、レビューの内容概要として、ゲームのストーリーやグラフィックの高さが評価されています。対象読者は、任天堂のファンやアクションゲーム好きの方にこのレビュー記事はお勧めです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/splatoon-raiders-review/",
-        "date": "2026-07-21",
-        "is_translated": true
-      },
-      {
-        "title": "【モバイル版「Don’t Starve Together」が本日発売、ローンチトレーラーも：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "モバイル版「Don’t Starve Together」が発売されました。このゲームはサバイバル要素を含むアクションアドベンチャーゲームで、プレイヤーは荒野で生き残るためにさまざまなアイテムを制作し、キャラクターを成長させていきます。このゲームの評価ポイントとしては、独自のグラフィックやサウンドトラック、そしてローカルコンテンツの充実が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168872.html",
-        "date": "2026-07-21",
-        "is_translated": false
-      },
       {
         "title": "【Steam好評消防士シム新作『Firefighters Code Red』発表。マルチプレイで...】",
         "platform": "AUTOMATON",
@@ -1228,8 +1100,21 @@
         "url": "https://www.inside-games.jp/article/2026/07/26/185157.html",
         "date": "2026-07-25",
         "is_translated": false
+      },
+      {
+        "title": "【ゲームフリーク新作『Beast of Reincarnation』先行プレイ感想。戦闘はゆるめ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ゲームフリークの新作『Beast of Reincarnation』の先行プレイ感想を紹介するレビュー記事です。このゲームの評価ポイントは、戦闘システムやグラフィックのクオリティなどです。記事では、戦闘がゆるめでプレイヤーに優しい点や、グラフィックの美しさなどが評価されています。ゲームファンや新作ゲームに興味のある読者がこの記事を読むと、ゲームの内容や魅力がわかるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260726-456717/",
+        "date": "2026-07-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-25T21:55:08.981539"
+  "last_updated": "2026-07-26T02:36:54.873182"
 }
