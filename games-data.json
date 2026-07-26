@@ -616,6 +616,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-alters/info/",
         "date": "2026-07-26"
+      },
+      {
+        "title": "ICARUS サバイブイカルス",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ICARUS サバイブイカルスがSteamで80% OFFセール中です。このゲームはサバイバルアクションジャンルに属し、独自のグラフィックや広大なマップが特徴です。現在の価格は大幅に割引されており、非常に魅力的な価格帯になっています。ユーザーの評価は総じて高く、人気度も高いゲームとなっています。特にサバイバルゲームファンにはおすすめです。",
+        "price": "¥780",
+        "originalPrice": "¥3,900",
+        "discount": "80% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1149460",
+        "date": "2026-07-26"
       }
     ],
     "review": [
@@ -1164,8 +1176,21 @@
         "url": "https://automaton-media.com/articles/special-column/20260726-456738/",
         "date": "2026-07-26",
         "is_translated": false
+      },
+      {
+        "title": "【レッドファクション：ゲリラ・リ・マーズ・テルドのレビュー（2018）】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "レッドファクション：ゲリラ・リ・マーズ・テルドは、2018年にレビューされたゲームです。このゲームの評価ポイントとしては、スムーズなゲームプレイやグラフィックの美しさなどが挙げられます。レビューの内容概要としては、ゲームのストーリーやキャラクターの魅力、そしてマルチプレイヤー機能の豊富さが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/red-faction-guerrilla-re-mars-tered-review-2018/",
+        "date": "2026-07-26",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-26T13:41:42.419336"
+  "last_updated": "2026-07-26T21:59:19.991125"
 }
