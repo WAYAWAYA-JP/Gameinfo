@@ -40,42 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "July 2026 Humble Choice",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、2022年7月のHumble Choiceバンドルが販売中です。このバンドルには、「Stray」、「The Ascent」、「F1 2021」などのタイトルが含まれており、ジャンルはアクションやレースなど多様です。大まかな価格帯は10ドルから20ドル程度で、バンドル内容や価格は変動する可能性があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/july_2026_choice",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "2K Megahits 2026 Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、2K Megahits 2026 Bundleのバンドルが現在販売中です。このバンドルには、Mafia、WWE 2K、NBA 2Kシリーズなどの主要タイトルが含まれており、ジャンルはアクションやスポーツにわたっています。大まかな価格帯は1000〜2000円程度で購入可能です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/2kmegahits2026bundle_bundle",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Even Steamier Sakura Special",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleで「Even Steamier Sakura Special」のバンドルが販売中です。このバンドルには「Sakura Agent」や「Sakura Nova」などの主要タイトルが含まれており、エロジックアドベンチャーゲームジャンルが中心となっています。大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/evensteamiersakuraspecial_bundle",
-        "date": "2026-07-17"
-      },
-      {
         "title": "Narrative 12 for $10 Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -269,78 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Warhammer 40,000: Space Marine 2",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Warhammer 40,000: Space Marine 2は、人気のアクションゲームで、Steamで現在70%オフのセール中です。このゲームは、未来の宇宙を舞台に、強力な戦士が敵を倒す爽快なアクションが楽しめます。ゲームの評価は非常に高く、人気度も高いです。価格が大幅に下がっているので、興味がある方はぜひこの機会にチェックしてみてください。",
-        "price": "¥2,940",
-        "originalPrice": "¥9,800",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2183900",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Starfield",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Starfieldは、スペースを舞台にしたオープンワールドのアクションアドベンチャーゲームで、現在Variousで17%割引のセール中です。このゲームは、豊富なストーリーと広大な宇宙を自由に探索できることが特徴です。評価も高く、人気度も高いゲームです。",
-        "price": "$41.49",
-        "originalPrice": "",
-        "discount": "-17%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/starfield/info/",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Tainted Grail: The Fall of Avalon",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Tainted Grail: The Fall of Avalonは、ダークファンタジーをテーマにしたローグライクRPGゲームで、現在Steamで50%OFFのセール中です。このゲームは、王国の陥落を描くストーリーと、ランダムに生成されるマップを探索するシステムが特徴です。さらに、複数のキャラクターを操作して戦闘に臨むことができるため、戦略的な面もあります。",
-        "price": "¥2,450",
-        "originalPrice": "¥4,900",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1466060",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Red Dead Redemption 2がSteamで75% OFFのセール中です。このゲームはオープンワールドアクションアドベンチャーで、グラフィックやストーリーが高く評価されています。現在、通常価格より大幅に割引されており、非常に魅力的な価格でプレイすることができます。ゲームの評価は非常に高く、人気度も高いので、ゲームファンにはおすすめのタイトルです。",
-        "price": "¥2,154",
-        "originalPrice": "¥8,618",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1174180",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アドベンチャーゲーム「Clair Obscur: Expedition 33」が現在、Variousで25%オフのセール中です。このゲームは、ユニークなグラフィックと難解なパズルで知られており、多くのプレイヤーから高い評価を受けています。セール期間中は、通常価格よりも安く手に入れることができます。人気度も高く、ファンからの支持が厚いゲームとして知られています。",
-        "price": "$37.49",
-        "originalPrice": "",
-        "discount": "-25%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Gray Zone Warfare",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Gray Zone Warfareは、戦略的なゲームプレイが特徴的な戦術シミュレーションゲームです。このゲームは、現在Variousで33%割引されているため、通常価格よりも安くプレイすることができます。ゲームの評価は高く、ユーザーから好評価を受けており、戦略ゲームファンに人気があります。",
-        "price": "$26.99",
-        "originalPrice": "",
-        "discount": "-33%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/gray-zone-warfare/info/",
-        "date": "2026-07-20"
-      },
       {
         "title": "Street Fighter 6",
         "platform": "Steam",
@@ -628,152 +520,33 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/1149460",
         "date": "2026-07-26"
+      },
+      {
+        "title": "METAL GEAR SOLID Δ: SNAKE EATER",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "METAL GEAR SOLID Δ: SNAKE EATERがSteamで60%の割引を受けて販売中であり、通常の価格よりも大幅に安くなっています。このゲームはステルスアクションジャンルの代表的な作品であり、スネークというキャラクターを操作してミッションを遂行する内容です。高評価を得ているこのゲームは、ステルスアクションファンに人気があり、ストーリーやゲームプレイも高く評価されています。",
+        "price": "¥3,432",
+        "originalPrice": "¥8,580",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2417610",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "No Man's SkyがSteamで60%オフのセール中です。このゲームは、オープンワールドのサンドボックスジャンルに属し、宇宙を自由に探索できる特徴があります。通常価格よりも大幅に安くなっているので、興味がある方はおすすめです。また、このゲームはSteamでの評価が「非常に好評」で人気度も高く、多くのユーザーから高い評価を得ています。",
+        "price": "¥2,600",
+        "originalPrice": "¥6,500",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/275850",
+        "date": "2026-07-27"
       }
     ],
     "review": [
-      {
-        "title": "【Steam好評消防士シム新作『Firefighters Code Red』発表。マルチプレイで...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamで好評を博している消防士シムの新作『Firefighters Code Red』が発表されました。このゲームは、マルチプレイ機能を搭載しており、友達と一緒に消防活動を体験できます。レビューのポイントとしては、マルチプレイ機能の充実さや、リアルな消防シミュレーションが評価されています。また、ゲームのグラフィックやサウンドトラックも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/firefighters-code-red-20260722-456019/",
-        "date": "2026-07-22",
-        "is_translated": false
-      },
-      {
-        "title": "【さらなるボールを導入する「BALL x PIT」最終アップデート“Naturalist”の新情...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「BALL x PIT」の最終アップデート「Naturalist」は、さらなるボールを導入する新しい要素を追加し、ゲームのバリエーションを高めています。このアップデートでは、新しいボールの導入により、ゲームの難易度や遊び方が変化しています。また、グラフィックやサウンドも向上しており、ゲームの全体的なクオリティが上がっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168900.html",
-        "date": "2026-07-22",
-        "is_translated": false
-      },
-      {
-        "title": "【人気SRPG最新作『ラングリッサー：剣の海』発表。“大胆な革新”を掲げる、『ラングリッサー』基...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "人気SRPGシリーズ最新作『ラングリッサー：剣の海』のレビュー記事では、大胆な革新を掲げたゲーム内容や、シリーズの基礎を踏まえた戦略的要素などが評価ポイントとして取り上げられています。また、ゲームの魅力や新しい要素の導入など、シリーズファンや新規プレイヤーにとっての興味点も紹介されています。このレビュー記事は、SRPGシリーズのファンや。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260722-456142/",
-        "date": "2026-07-22",
-        "is_translated": false
-      },
-      {
-        "title": "【SIE脱出シューター『Marathon』、「PvEモード」実装大型アプデでさっそく人気回復の兆...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、SIEの脱出シューター『Marathon』の最新情報を紹介しています。ゲームの評価ポイントとしては、新しく実装された「PvEモード」が人気の理由となっています。また、レビューの内容概要としては、ゲームのグラフィックやサウンドの高さ、そして新モードの面白さが挙げられます。対象読者は、ゲームファンやアクションシューターが好きな人に向けられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/marathon-20260722-456112/",
-        "date": "2026-07-22",
-        "is_translated": false
-      },
-      {
-        "title": "【高評価を獲得した病原体2Dローグライクシューティング「Pathogenic」の販売が1週間で1...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Pathogenicは、病原体2Dローグライクシューティングゲームであり、高評価を獲得しています。このゲームの魅力は、ランダムな要素が多く、プレイヤーは毎回新しい体験をすることができます。また、グラフィックやサウンドデザインも高く評価されており、緊張感や恐怖感を味わうことができます。特に、ローグライクシューティングゲームのファンや、アクションゲームを好む人にオススメです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168909.html",
-        "date": "2026-07-22",
-        "is_translated": false
-      },
-      {
-        "title": "【スタートレック: ストレンジ ニュー ワールド シーズン 4 レビュー: キャラクター開発に関...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "スタートレックシリーズの最新作「ストレンジ ニュー ワールド シーズン4」のレビュー記事では、キャラクター開発に関して高評価を得ていることがわかります。このレビューでは、キャラクターの成長や関係性の深化、ストーリーの展開などが評価ポイントとして挙げられています。特に、キャラクターの複雑さや深みを描き出すことに成功している点が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/star-trek-strange-new-worlds-season-4-review/",
-        "date": "2026-07-22",
-        "is_translated": true
-      },
-      {
-        "title": "【親愛なるフロストヘブンのボードゲームプレイヤーの皆さん、PC 向けタクティクス RPG の適応...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、ボードゲーム「フロストヘブン」をベースにしたPC向けのタクティクスRPGの評価ポイントを紹介しています。記事では、ゲームの戦略的深み、ストーリーの引き付けられるようす、グラフィックの美しさなどについて触れています。ボードゲームのファンやタクティクスRPGが好きな人はもちろん、ストラテジーゲームを楽しむことに興味のある人にも読んでみる価値があるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/dear-frosthaven-boardgame-players-complaining-the-pc-tactics-rpg-adaptation-is-bugged-the-devs-say-its-likely-youve-played-it-wrong",
-        "date": "2026-07-22",
-        "is_translated": true
-      },
-      {
-        "title": "【「ステルスが存在しないように感じ始めた」: 007 ファースト ライトは、IO インタラクティ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、007 ファースト ライトというゲームの評価ポイントとして、ステルス要素の薄さが指摘されています。ゲームのレビューの内容概要は、ステルスが存在しないように感じる場面が多いこと、ゲームのシステムが魅力的ではないことなどです。このレビューは、007 ファースト ライトのプレイヤーまたはファン、またアクションゲームに興味のある人に向けて書かれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/it-started-to-feel-like-there-wasnt-any-stealth-007-first-light-had-to-pull-bonds-punches-to-protect-io-interactives-specialty-sneaking",
-        "date": "2026-07-22",
-        "is_translated": true
-      },
-      {
-        "title": "【アバター レジェンド: 格闘ゲーム レビュー: 2026 年の最高の格闘ゲーム】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "本書「アバター レジェンド: 格闘ゲーム レビュー: 2026 年の最高の格闘ゲーム」は、2026 年の最高の格闘ゲームについてのレビュー記事です。本書では、ゲームのグラフィックや操作性、ストーリーの面白さなどが評価ポイントとして挙げられています。具体的には、ゲームのキャラクターの多様性やステージの豊富さ、また、オンライン対戦のスムーズさなどが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/avatar-legends-the-fighting-game-review/",
-        "date": "2026-07-22",
-        "is_translated": true
-      },
-      {
-        "title": "【インディーゲームが Steam で土壇場で遅延、Valve が「お尻とおっぱいを描いた数十のテ...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事は、Steamでリリース予定だったインディーゲームが遅延した理由を紹介しています。Valve社の審査基準が厳しくなったため、ゲーム内の性的表現が問題となったことが原因です。ゲーム内の性的表現については、たとえば「お尻とおっぱいを描いた数十のテキスト」が削除されることになりました。この記事は、ゲーム開発者やSteamユーザーに興味がある人に向けて。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/indie-game-gets-last-minute-steam-delay-while-valve-reviews-its-dozens-of-untextured-polygons-depicting-ass-and-boobs/",
-        "date": "2026-07-22",
-        "is_translated": true
-      },
-      {
-        "title": "【親愛なるフロストヘブンのボードゲームプレイヤーの皆さん、PC 版のタクティクス RPG にバグ...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、PC版のタクティクスRPG『Frostpunk』のバグの問題を取り上げています。評価ポイントとして、ゲームのバグの頻度や影響度、ゲームのストーリーやキャラクターの魅力、ゲームシステムの深度などが挙げられます。記事では、バグの問題とともに、ゲームのストーリーやキャラクターの魅力についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/dear-frosthaven-boardgame-players-complaining-the-pc-tactics-rpg-adaptation-is-bugged-the-devs-say-its-likely-youve-played-it-wrong",
-        "date": "2026-07-22",
-        "is_translated": true
-      },
       {
         "title": "【“往年のXboxタイトル”がPCで遊べる「XBOX on PC 後方互換機能」発表。『ブリンク...：レビュー】",
         "platform": "AUTOMATON",
@@ -786,19 +559,6 @@
         "url": "https://automaton-media.com/articles/newsjp/xbox-20260723-456222/",
         "date": "2026-07-23",
         "is_translated": false
-      },
-      {
-        "title": "【Valveが「お尻とおっぱいを描いた数十のテクスチャなしポリゴン」をレビューしている間に、イン...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Valveが特定のゲームのレビューを行った際、そのゲームに「お尻とおっぱいを描いた数十のテクスチャなしポリゴン」が含まれていることを指摘していることを取り上げた記事があります。この記事では、ゲームの評価ポイントとしてグラフィックの質やゲーム性の面で評価が下げられている点が紹介されています。また、レビューの内容概要としては、ポリゴンの使用が不適切であると指摘されていることや。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/indie-game-gets-last-minute-steam-delay-while-valve-reviews-its-dozens-of-untextured-polygons-depicting-ass-and-boobs/",
-        "date": "2026-07-22",
-        "is_translated": true
       },
       {
         "title": "【ボスラッシュ・見切り＆必殺アクション『ルビナイト』、デモ版「圧倒的に好評」の勢いそのまま盛況リ...：レビュー】",
@@ -1189,8 +949,21 @@
         "url": "https://www.pcgamer.com/games/action/red-faction-guerrilla-re-mars-tered-review-2018/",
         "date": "2026-07-26",
         "is_translated": true
+      },
+      {
+        "title": "【「Alabaster Dawn」の沼地エリアと新武器を紹介するトレーラーが公開、“CrossC...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Alabaster Dawn」の新しいトレーラーが公開されました。このトレーラーでは、ゲーム内の沼地エリアや新しい武器が紹介されています。レビュー記事では、このゲームの評価ポイントとして、グラフィックやサウンドデザインの高さ、そして新しい武器の導入が挙げられています。さらに、ゲームの世界観やストーリーの深さも評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168957.html",
+        "date": "2026-07-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-26T21:59:19.991125"
+  "last_updated": "2026-07-27T02:45:07.359328"
 }
