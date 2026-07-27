@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
         "date": "2026-07-27"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームのStrayが、Variousで61%割引のセール中です。このゲームは猫の視点から都市を探索するユニークな体験が特徴で、グラフィックやサウンドトラックも高く評価されています。ユーザーの評価も非常に良く、人気度は高いので、セール期間中に購入することがおすすめです。",
+        "price": "$11.65",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-07-27"
       }
     ],
     "review": [
@@ -1050,8 +1062,86 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-a-torrent-of-janky-retail-sims-continues-to-flood-steam-and-theres-no-end-in-sight/",
         "date": "2026-07-27",
         "is_translated": true
+      },
+      {
+        "title": "【聖剣伝説やブレス オブ ファイアにインスパイアされた新作RPG「Forge of the Fa...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、聖剣伝説やブレス オブ ファイアにインスパイアされた新作RPG「Forge of the Fa...」を紹介しています。このゲームの評価ポイントとしては、独自の世界観やキャラクター設定、戦闘システムの奥深さなどが挙げられます。レビューの内容概要としては、ゲームのストーリーやグラフィック、サウンドトラックの質について触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07169039.html",
+        "date": "2026-07-27",
+        "is_translated": false
+      },
+      {
+        "title": "【XCOM系“スター・ウォーズ”ターン制ストラテジー「STAR WARS Zero Compan...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、ターン制ストラテジーゲーム「STAR WARS Zero Company」の魅力を紹介しています。評価ポイントとしては、ゲームの戦略的な深みや、スター・ウォーズの世界観を再現したグラフィックが高く評価されています。レビューの内容概要としては、ゲームのストーリーやキャラクター、戦闘システムなどが詳しく紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07168965.html",
+        "date": "2026-07-27",
+        "is_translated": false
+      },
+      {
+        "title": "【PowerA LucidSound LS500/P レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "PowerA LucidSound LS500/P レビューは、ゲーム音響機器の評価を中心に構成されています。記事では、音質、デザイン、操作性などの評価ポイントを詳しく紹介しています。さらに、レビューではLS500/Pの長所と短所について分析し、使用感やコストパフォーマンスについても触れています。このレビュー記事は、ゲーム愛好家や音響機器に興味のある方に役立つ内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-headsets/powera-lucidsound-ls500-p-review/",
+        "date": "2026-07-27",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam 週間の振り返り: ジャンキーな小売シムの奔流が Steam に溢れ続け、終わりは見...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Steamでの週刊レビュー記事では、ジャンキーな小売シミュレーションゲームが注目を集めています。このゲームは、プレイヤーが小売業者となり、さまざまなアイテムを販売することで利益を上げることを目標とします。記事では、このゲームの評価ポイントとして、ユニークなゲームプレイや魅力的なグラフィックを挙げています。また、レビューの内容として、ゲームの面白さやリプレイ価値の高さを述べています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-a-torrent-of-janky-retail-sims-continues-to-flood-steam-and-theres-no-end-in-sight/",
+        "date": "2026-07-27",
+        "is_translated": true
+      },
+      {
+        "title": "【Dragon Age: Thedas at War は、BioWare RPG にインスピレー...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Dragon Age: Thedas at War は、BioWare RPG にインスピレーションを得た作品であり、そのレビュー記事では、ゲームの評価ポイントとして、ストーリーの深みやキャラクターの魅力が高く評価されています。また、レビューの内容概要として、ゲームの世界観やゲームプレイの自由度が高く評価されており、ファンタジーRPGファンやBioWareのファンにとっては必読の記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/dragon-age-thedas-at-war-is-a-bioware-rpg-inspired-crusader-kings-3-total-conversion-mod-thats-here-to-keep-the-series-alive-while-it-sits-in-ea-limbo",
+        "date": "2026-07-27",
+        "is_translated": true
+      },
+      {
+        "title": "【「なぜクラッシュファルトを選んだのか分からない」: 忘れ去られていたSteamゲームが、プレイ...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、Steamで忘れ去られていたゲーム「クラッシュファルト」の魅力を紹介しています。評価ポイントとしては、ゲームの独自性や面白さが高く評価されています。記事では、ゲームの内容やシステムについて詳細に説明しています。また、ゲームのグラフィックやサウンドトラックも高く評価されています。この記事は、インディーゲームやアクションゲームが好きな人が対象で。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/i-dunno-why-they-chose-crashphalt-forgotten-steam-game-suddenly-becomes-a-hit-after-players-start-using-it-for-undertale-online-multiplayer",
+        "date": "2026-07-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-27T12:21:49.945668"
+  "last_updated": "2026-07-27T14:49:04.979500"
 }
