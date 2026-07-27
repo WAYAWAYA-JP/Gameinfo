@@ -230,6 +230,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
         "date": "2026-07-25"
+      },
+      {
+        "title": "2K Megahits 2026 Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、2K Megahits 2026 Bundleが販売中です。このバンドルには、Borderlands 3、Mafia: Definitive Edition、WWE 2K22などの人気タイトルが含まれています。ジャンルはアクションやスポーツなど多様で、価格帯はおおよそ2,000円から5,000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/2kmegahits2026bundle_bundle",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "Even Steamier Sakura Special",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは「Even Steamier Sakura Special」のバンドルが販売中です。このバンドルには、主要タイトルとして「Sakura Agent」や「Sakura Nova」、「Sakura Dungeon」などが含まれており、アダルトゲームやシミュレーションゲームが中心のバンドルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/evensteamiersakuraspecial_bundle",
+        "date": "2026-07-27"
       }
     ],
     "sale": [
@@ -543,6 +567,18 @@
         "discount": "60% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/275850",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "Ghost of Tsushima DIRECTOR'S CUT",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの「Ghost of Tsushima DIRECTOR'S CUT」が、現在42%割引でのセール中です。このゲームは、美しい日本の風景とスリリングな戦闘シーンが特徴で、プレイヤーは侍となり、日本を侵略する敵と戦います。高い評価と人気度を誇り、多くのゲーマーから支持されています。",
+        "price": "$34.99",
+        "originalPrice": "",
+        "discount": "-42%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
         "date": "2026-07-27"
       }
     ],
@@ -962,8 +998,60 @@
         "url": "https://doope.jp/2026/07168957.html",
         "date": "2026-07-26",
         "is_translated": false
+      },
+      {
+        "title": "【Steamマルチ対応・超自由ドリンク屋シム『Boba Cafe Simulator』人気白熱中...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで人気を博している『Boba Cafe Simulator』は、プレイヤーが自由にドリンク屋を経営することができるシミュレーションゲームです。このゲームの評価ポイントとして、ユーザーはグラフィックやサウンドトラックの可愛らしさを高く評価しています。また、レビューの内容概要として、ゲームの自由度やリラックス効果が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260727-456898/",
+        "date": "2026-07-27",
+        "is_translated": false
+      },
+      {
+        "title": "【とあるSteam無料ゲーム、“『UNDERTALE』非公式オンラインプレイの踏み台”として使わ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本記事は、Steamで無料でプレイできるゲームのレビューです。このゲームは、人気ゲーム『UNDERTALE』の非公式オンラインプレイのためのツールとして利用されています。ゲームの評価ポイントとしては、オンラインプレイの実現やゲームプレイの自由度が高く、ユーザーから高い評価を得ています。また、レビューでは。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260727-456857/",
+        "date": "2026-07-27",
+        "is_translated": false
+      },
+      {
+        "title": "【「流体シム」搭載、壊し放題地中PvP『Dirtnap』発表。最大10人バトル、水や溶岩がドバド...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このゲーム「Dirtnap」は、最大10人でのバトルが楽しめる地中PvPゲームです。「流体シム」という特徴的なシステムを搭載しており、水や溶岩が自由に動くことで、プレイヤーはさまざまな戦略を生み出せます。ゲームの評価ポイントとしては、独自のシステムによる新鮮なゲーム性や、マルチプレイヤーでのバトルの楽しさが評価されます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260727-456858/",
+        "date": "2026-07-27",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam 週間の振り返り: ジャンクな小売シムの奔流が Steam に溢れ続け、終わりは見えません：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Steamの週刊レビューでは、ジャンクな小売シムの流れが終わることがなく、ユーザーからの評価ポイントとしては、ゲームの独自性やユーモアが高く評価され、レビューの内容は主にゲームのユニークなシステムや面白さについて言及されています。また、レビューでは、ユーザーインターフェースの簡単さや、ゲームのリプレイ性についても触れられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-a-torrent-of-janky-retail-sims-continues-to-flood-steam-and-theres-no-end-in-sight/",
+        "date": "2026-07-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-27T02:45:07.359328"
+  "last_updated": "2026-07-27T12:21:49.945668"
 }
