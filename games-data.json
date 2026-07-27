@@ -592,6 +592,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-07-27"
+      },
+      {
+        "title": "サイバーパンク2077",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サイバーパンク2077は、オープンワールドRPGとして知られており、未来的な世界を舞台にプレイヤーが自由に冒険できるゲームです。このゲームは、高度なグラフィックと豊富なストーリーで人気を博しており、多くのプレイヤーから高評価を得ています。現在、Steamで70%の割引セール中であり、通常価格よりも大幅に安くなっています。",
+        "price": "¥2,633",
+        "originalPrice": "¥8,778",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1091500",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "LEGO® Star Wars™: The Skywalker Saga",
+        "platform": "Various",
+        "type": "sale",
+        "description": "LEGO® Star Wars™: The Skywalker Sagaがバラエティー店舗で82%割引されていることを知ったので、紹介します。このゲームはアクションアドベンチャージャンルで、スター・ウォーズの世界をLEGOにしたユニークなゲームです。現在、通常価格より82%割引されており、非常に魅力的です。",
+        "price": "$8.88",
+        "originalPrice": "",
+        "discount": "-82%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/lego-star-wars-the-skywalker-saga/info/",
+        "date": "2026-07-27"
       }
     ],
     "review": [
@@ -1140,8 +1164,21 @@
         "url": "https://www.rockpapershotgun.com/i-dunno-why-they-chose-crashphalt-forgotten-steam-game-suddenly-becomes-a-hit-after-players-start-using-it-for-undertale-online-multiplayer",
         "date": "2026-07-27",
         "is_translated": true
+      },
+      {
+        "title": "【Framework 13 Pro レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Framework 13 Pro レビューでは、ゲームの評価ポイントとして、グラフィックのクオリティ、サウンドデザイン、そしてプレイヤビリティが高く評価されています。レビューの内容概要としては、グラフィックの美しさやサウンドの臨場感が高く、プレイヤーに没入感を与えることができる点が強調されています。また、操作性の良さやストーリーの面白さも評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-laptops/framework-13-pro-review/",
+        "date": "2026-07-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-27T14:49:04.979500"
+  "last_updated": "2026-07-27T22:06:30.715653"
 }
