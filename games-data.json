@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-07-28"
+      },
+      {
+        "title": "Nioh: Complete Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるNioh: Complete Editionが、現在89%割引でのセール中です。このゲームは、ダークファンタジーの世界を舞台に、さまざまな敵と戦いながら進めていく、ハードコアなゲームプレイが特徴です。非常に高い評価と人気度を誇り、多くのゲーマーから支持されています。",
+        "price": "$6.48",
+        "originalPrice": "",
+        "discount": "-89%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/nioh-complete-edition/info/",
+        "date": "2026-07-28"
       }
     ],
     "review": [
@@ -1128,8 +1140,21 @@
         "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-34-aw3426dw-review/",
         "date": "2026-07-28",
         "is_translated": true
+      },
+      {
+        "title": "【『スパイダーマン：ブラン・ニュー・デイ』レビュー：サム・ライミ監督の『スパイダーマン2』以来最...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "スパイダーマン：ブラン・ニュー・デイは、サム・ライミ監督のスパイダーマン2以来の最高のスパイダーマン映画です。このレビュー記事では、ゲームの評価ポイントとしてストーリーの魅力やキャラクターの深みを取り上げています。また、グラフィックやサウンドトラックの質も高く評価されています。ゲームファンやスパイダーマンシリーズの愛好者にとって、是非読むべき記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/spider-man-brand-new-day-review/",
+        "date": "2026-07-28",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-28T11:16:09.634058"
+  "last_updated": "2026-07-28T14:23:42.623543"
 }
