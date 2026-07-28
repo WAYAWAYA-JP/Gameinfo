@@ -258,66 +258,6 @@
     ],
     "sale": [
       {
-        "title": "Street Fighter 6",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "人気格闘ゲームのStreet Fighter 6がSteamで50% OFFのセール中です。このゲームは、シリーズの新たな進化を感じることができる、スピーディでスタイリッシュな格闘アクションを特徴としています。現在、割引価格で購入できるこのゲームは、格闘ゲームファンから高い評価を受けており、非常に人気があります。",
-        "price": "¥2,495",
-        "originalPrice": "¥4,990",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1364780",
-        "date": "2026-07-21"
-      },
-      {
-        "title": "Pacific Drive",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Pacific DriveがVariousで-70%のセール中です。このゲームは、スリリングなドライブとサバイバル要素を組み合わせたアクションアドベンチャーゲームで、強い評価と人気を誇っています。通常価格から70%割引されており、格安でプレイするチャンスです。",
-        "price": "$8.91",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/pacific-drive/info/",
-        "date": "2026-07-21"
-      },
-      {
-        "title": "Monster Hunter Rise + Sunbreak",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションパックアドベンチャーゲームの「Monster Hunter Rise + Sunbreak」がSteamで84%オフのセール中です。このゲームは、モンスターハンターシリーズの最新作であり、多くのユーザーから高評価を得ています。通常価格から大幅に割引されたこの価格で、興味がある方はぜひチェックしてみてください。",
-        "price": "¥958",
-        "originalPrice": "¥5,990",
-        "discount": "84% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/692569",
-        "date": "2026-07-21"
-      },
-      {
-        "title": "Luto",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Lutoは、Variousで現在100%オフのセール中です。このゲームは、ユニークなゲーム性と美しいグラフィックで知られており、多くのプレイヤーから好評価を得ています。セール中の価格は完全無料となり、ぜひこの機会に試してみてください。高い評価と人気度を誇るこのゲームを絶対に逃すなかれ、無料で体験することができるこのチャンスを活用しましょう。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/luto/info/",
-        "date": "2026-07-21"
-      },
-      {
-        "title": "Dispatch",
-        "platform": "Various",
-        "type": "sale",
-        "description": "DispatchがVariousで開催されているセールでは、20%割引で購入できます。このゲームは、ストラテジー要素と協力プレイを特徴とするタワーディフェンスゲームです。ユーザーの評価は非常に高く、人気度も高いゲームのひとつです。",
-        "price": "$23.99",
-        "originalPrice": "",
-        "discount": "-20%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dispatch--1/info/",
-        "date": "2026-07-21"
-      },
-      {
         "title": "Resident Evil 4 (2023)",
         "platform": "Various",
         "type": "sale",
@@ -620,97 +560,6 @@
     ],
     "review": [
       {
-        "title": "【“往年のXboxタイトル”がPCで遊べる「XBOX on PC 後方互換機能」発表。『ブリンク...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Xboxの往年のタイトルをPCで遊べる「XBOX on PC 後方互換機能」が発表された。この機能では、過去のXboxゲームをPCでプレイすることが可能になる。レビュー記事では、この機能の評価ポイントとして、互換性の高さやパフォーマンスの向上を挙げている。また、グラフィックやサウンドの向上も評価されている。このレビューは、XboxファンやPCゲーマーに特に興味があると思われる。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/xbox-20260723-456222/",
-        "date": "2026-07-23",
-        "is_translated": false
-      },
-      {
-        "title": "【ボスラッシュ・見切り＆必殺アクション『ルビナイト』、デモ版「圧倒的に好評」の勢いそのまま盛況リ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、ボスラッシュゲームの『ルビナイト』のデモ版の評価ポイントを紹介しています。ゲームの評価ポイントとして、見切り＆必殺アクションの爽快感や難易度の良さが挙げられています。また、レビューの内容概要としては、デモ版の評判が良かったことや、ゲームの世界観の魅力が述べられています。この記事は、ボスラッシュゲームのファンや、アクションゲームが好きな人に読んでいただける内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260723-456365/",
-        "date": "2026-07-23",
-        "is_translated": false
-      },
-      {
-        "title": "【最大3人協力・限界ガソスタ夜勤ホラー『Shift At Midnight』、体験版の勢いそのま...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Shift At Midnightは、最大3人で協力プレイが可能なホラーゲームです。このゲームは、夜のガソリンスタンドを舞台に、プレイヤーは恐怖を感じながら進めていく必要があります。レビューでは、このゲームの評価ポイントとして、緊張感のあるゲームプレイや、協力プレイによるチームワークの重要性が挙げられています。また、グラフィックやサウンドデザインも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260723-456252/",
-        "date": "2026-07-23",
-        "is_translated": false
-      },
-      {
-        "title": "【インディーのオープンワールドゲームの未来?結構です！ Steam コンテンツ MOD が「セッ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、インディーのオープンワールドゲームの未来について結構肯定的な評価をしています。SteamコンテンツMODが「セッ...：レビュー」のゲームについて、グラフィックやサウンド、ゲーム性などの面で評価しています。対象読者は、インディーゲームやオープンワールドゲームに興味がある人や、MODコンテンツを楽しむ人に適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/indie-open-worlder-future-no-thanks-gets-last-minute-delay-after-steam-content-mods-allegedly-demand-a-watch-the-sex-scene-button",
-        "date": "2026-07-23",
-        "is_translated": true
-      },
-      {
-        "title": "【The Incident At Galley House レビュー – このジャンルの古典的な...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "The Incident At Galley House レビューの記事では、このゲームがジャンルの古典的な要素をどのように继承しているかが紹介されています。評価ポイントとして、ストーリーの深みやキャラクターの魅力が挙げられます。レビューの内容概要としては、ゲームの雰囲気やサウンドトラックの質も高く評価されています。対象読者は、ジャンルファンやゲーム愛好家であると考えられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/the-incident-at-galley-house-review-an-enthralling-deduction-game-that-cant-escape-the-genres-classic-problem",
-        "date": "2026-07-23",
-        "is_translated": true
-      },
-      {
-        "title": "【モーターシティレビュー：アラン・リッチソンのほぼ完璧な復讐スリラーはNetflix顔負け】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事は、Netflixのドラマ「モーターシティ」を取り上げています。記事では、作品の評価ポイントとして、アラン・リッチソンの復讐スリラーがほぼ完璧であると評価されています。また、記事の内容は、ストーリーの面白さや登場人物の深み、そして監督の手腕などについて触れています。対象読者は、Netflixのドラマファンやスリラー好きの方などです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/motor-city-review/",
-        "date": "2026-07-23",
-        "is_translated": true
-      },
-      {
-        "title": "【インディーズ オープンワールドの未来?結構です！ Steam コンテンツ MOD が「セックス...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "本レビュー記事は、インディーズゲームのオープンワールドの未来について触れた内容です。ゲームの評価ポイントとして、自由度の高いゲームプレイやユニークなストーリー展開が挙げられます。レビューの内容概要としては、ゲームの世界観やキャラクターの魅力が高く評価されています。また、MODの導入によるゲームの拡張性も高まっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/indie-open-worlder-future-no-thanks-gets-last-minute-delay-after-steam-content-mods-allegedly-demand-a-watch-the-sex-scene-button",
-        "date": "2026-07-23",
-        "is_translated": true
-      },
-      {
         "title": "【美少女精神崩壊デッキ構築ローグライク『カオスゼロナイトメア』、がっつりナーフ発表からわずか2日...：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -721,19 +570,6 @@
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20260724-456418/",
         "date": "2026-07-24",
-        "is_translated": false
-      },
-      {
-        "title": "【Nintendo Switch 2向けデジタル版「UNBEATABLE」の発売が延期、新たな発...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Nintendo Switch 2向けのデジタル版「UNBEATABLE」の発売が延期となり、新たな発売日が発表されたと伝えられている。このゲームの評価ポイントとしては、独自のゲームシステムや美しいグラフィックが挙げられる。レビューの内容概要としては、ゲームの世界観やサウンドトラックの素晴らしさが高く評価されており、また、ゲームの難易度の適切さも称賛されている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168975.html",
-        "date": "2026-07-23",
         "is_translated": false
       },
       {
@@ -1177,8 +1013,60 @@
         "url": "https://www.pcgamer.com/hardware/gaming-laptops/framework-13-pro-review/",
         "date": "2026-07-27",
         "is_translated": true
+      },
+      {
+        "title": "【『モンスターハンターワイルズ』新アプデと共に「序盤体験版」配信へ、セーブデータ引き継ぎ可能。さ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "モンスターハンターワイルズの新しいアップデートとともに、序盤体験版が配信されました。この体験版では、ゲームの序盤部分をプレイすることができ、セーブデータも引き継ぎが可能です。レビュー記事では、このゲームの評価ポイントとして、壮大な世界観、多彩なモンスター、そして自由度の高いハンティングスタイルが紹介されています。また、ゲームのグラフィックやサウンドトラックも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260728-456935/",
+        "date": "2026-07-28",
+        "is_translated": false
+      },
+      {
+        "title": "【「The Elder Scrolls III: Morrowind」がWebブラウザ上でプレイ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「The Elder Scrolls III: Morrowind」は、Webブラウザ上でプレイできるようになりました。このゲームは、豊富なストーリーや自由度の高いゲームプレイが特徴です。レビューの評価ポイントとしては、グラフィックやサウンドの質の高さ、そしてプレイヤーの選択によって変化するストーリーの深さが挙げられます。また、ゲームの難易度がやや高いため、経験豊富なプレイヤー向けのゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07169030.html",
+        "date": "2026-07-28",
+        "is_translated": false
+      },
+      {
+        "title": "【複数の次元から集まったサムたちが戦うCo-opローグライトシューター「Serious Sam:...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Serious Sam: Tormental」は、複数の次元から集まったサムたちが戦うCo-opローグライトシューターです。このゲームの評価ポイントとしては、快適な協力プレイ、豊富なキャラクターとアイテムの種類、簡単ながらも楽しいゲーム性が挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドデザインの高さ、そして難易度の調整の良さが評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07169023.html",
+        "date": "2026-07-27",
+        "is_translated": false
+      },
+      {
+        "title": "【『モンハンワイルズ』大型DLC「アセンダンス」で気になるプレイヤーに朗報！データ引継ぎ対応の「...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "モンハンワイルズの大型DLC「アセンダンス」が発売されました。このDLCでは、新しいストーリーやキャラクター、ゲームシステムなどが追加されており、シリーズのファンには必見の内容です。特に、データ引継ぎが可能な点が評価されています。ゲーマー向けのレビュー記事では、アセンダンスの新要素やグラフィックの向上などが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/07/28/185269.html",
+        "date": "2026-07-28",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-27T22:06:30.715653"
+  "last_updated": "2026-07-28T02:24:34.903947"
 }
