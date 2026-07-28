@@ -556,6 +556,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/lego-star-wars-the-skywalker-saga/info/",
         "date": "2026-07-27"
+      },
+      {
+        "title": "Street Fighter 6",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気格闘ゲーム「Street Fighter 6」がSteamで50%オフのセール中です。このゲームは、複雑なコンボや対戦モードなど、格闘ゲームファンに人気の特徴を多く備えています。現在の価格は割引前の半額となり、非常に魅力的なオファーです。高い評価と人気度を誇るこのゲームを、この機会にチェックしてみてはいかがでしょうか。",
+        "price": "¥2,495",
+        "originalPrice": "¥4,990",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1364780",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33は、 Various で 25% オフ のセール中です。このゲームは、ユニークなグラフィックと興味深いストーリーを特徴としています。ユーザーからの評価は非常に高く、多くのプレーヤーから人気を博しています。セール中の価格で入手することをお勧めします。",
+        "price": "$37.49",
+        "originalPrice": "",
+        "discount": "-25%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-07-28"
       }
     ],
     "review": [
@@ -1065,8 +1089,47 @@
         "url": "https://www.inside-games.jp/article/2026/07/28/185269.html",
         "date": "2026-07-28",
         "is_translated": false
+      },
+      {
+        "title": "【物理演算“宇宙闇鍋”ローグライク『キニーと名状しがたいおでん屋』さっそく高評価ラッシュ。ブチ込...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ローグライクゲーム「キニーと名状しがたいおでん屋」は、物理演算を取り入れた「宇宙闇鍋」が特徴です。このゲームはさっそく高評価を集めています。評価ポイントとしては、独自のゲームシステムや面白いストーリー、そして自由度の高い物理演算が挙げられます。レビューの内容概要としては、ユニークなゲーム性や楽しさ、そして難易度の高さが言及されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260728-457002/",
+        "date": "2026-07-28",
+        "is_translated": false
+      },
+      {
+        "title": "【“音楽違法世界”リズムゲーム『UNBEATABLE』待望の日本語対応、まずはPC版から。パンク...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "今回紹介するのは、音楽違法世界を舞台にしたリズムゲーム『UNBEATABLE』のレビュー記事です。このゲームはパンク音楽を中心に、ユニークな世界観と難易度の高いリズムゲームプレイが特徴です。まずはPC版から日本語対応が開始され、音楽ゲームファンやパンク音楽好きの方に楽しみを提供しています。ゲームの評価ポイントとしては、独自の世界観、リズムゲームとしての完成度、音楽の質が高い点があります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260728-456970/",
+        "date": "2026-07-28",
+        "is_translated": false
+      },
+      {
+        "title": "【Alienware 34 AW3426DW レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Alienware 34 AW3426DW レビューでは、モニターの性能と機能を評価しています。モニターの解像度やリフレッシュレート、レスポンス時間などの技術的な面を検討し、ゲーミングの実際の使用感やコストパフォーマンスも考えています。さらに、モニターのデザインや接続性も評価しています。このレビュー記事は、ゲーミングモニターを購入を検討している方や。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-34-aw3426dw-review/",
+        "date": "2026-07-28",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-28T02:24:34.903947"
+  "last_updated": "2026-07-28T11:16:09.634058"
 }
