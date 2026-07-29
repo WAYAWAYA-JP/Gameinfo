@@ -258,42 +258,6 @@
     ],
     "sale": [
       {
-        "title": "Resident Evil 4 (2023)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Resident Evil 4というゲームが現在、75%OFFのセール中です。このゲームはバイオハザードシリーズの1つで、サバイバルホラーのジャンルに分類され、恐怖とスリルの要素が強いです。グラフィックやサウンドも非常にリアルで、臨場感があります。評価も非常に高く、人気のゲームです。",
-        "price": "$9.99",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
-        "date": "2026-07-22"
-      },
-      {
-        "title": "SIGNALIS",
-        "platform": "Various",
-        "type": "sale",
-        "description": "SIGNALISがVariousで30%オフのセール中です。このゲームはアクションアドベンチャーとサバイバルホラーを融合させたユニークなジャンルで、プレイヤーは不気味な惑星でさまざまな敵と戦いながら生存を試みます。現在の価格は割引前より30%安くなっています。SIGNALISは、その独特のゲーム性とハイクオリティのグラフィックにより、高評価を獲得しており、ファンから非常に人気があります。",
-        "price": "$13.98",
-        "originalPrice": "",
-        "discount": "-30%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/signalis/info/",
-        "date": "2026-07-22"
-      },
-      {
-        "title": "Hades",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションパックされたローグライクゲームの名作「Hades」が、Variousで現在70%オフのセール中です。このゲームは、ギリシャ神話をモチーフにした独特の世界観と、快感的なアクションが特徴で、多くのゲーマーから高い評価を得ています。また、Metacriticでは非常に高い人気度を誇り、批評家やユーザーからの評価が非常に高いゲームです。",
-        "price": "$7.49",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hades/info/",
-        "date": "2026-07-22"
-      },
-      {
         "title": "Hades II",
         "platform": "Various",
         "type": "sale",
@@ -595,136 +559,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【美少女精神崩壊デッキ構築ローグライク『カオスゼロナイトメア』、がっつりナーフ発表からわずか2日...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、ローグライクゲーム『カオスゼロナイトメア』の評価ポイントを紹介しています。ゲームの評価ポイントとして、ゲームの難易度と複雑さ、ゲームのグラフィックとサウンドの品質が挙げられます。また、レビューでは、ゲームのバランス調整と難易度の調整についても言及されています。このレビューは、ローグライクゲームのファンや、新しいゲームを探しているゲーマーにとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260724-456418/",
-        "date": "2026-07-24",
-        "is_translated": false
-      },
-      {
-        "title": "【あるSteamゲーム開発者、「新規勢の99％が海賊版プレイヤー」と頭を抱える。サーバーを落とさ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、Steamゲーム開発者が海賊版プレイヤーに対して頭を抱える状況について取り上げています。特に新規参入したプレイヤーのうち99％が海賊版を使用していると指摘し、サーバーのダウンなどの影響が懸念されています。この記事は、ゲーム開発における海賊版対策の重要性や、法的な対策の必要性について考えるべき読者に向けて、ゲームの評価ポイントやレビューの内容を概説しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260724-456577/",
-        "date": "2026-07-24",
-        "is_translated": false
-      },
-      {
-        "title": "【“街”オープンワールド『NTE』、新プレイアブルキャラ紹介動画から「“謎の光”が消えた」と話題...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "オープンワールドゲーム『NTE』のレビュー記事では、同ゲームの新プレイアブルキャラ紹介動画から「謎の光」が消えたことについて話題になっている。このゲームは、自由に街を探索できるオープンワールドゲームで、豊富なキャラクターとストーリーが特徴です。ゲームの評価ポイントとしては、グラフィックの美しさやキャラクターの個性、ストーリーの深みなどが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260724-456541/",
-        "date": "2026-07-24",
-        "is_translated": false
-      },
-      {
-        "title": "【本日配信『崩壊：スターレイル』の「Fate」コラボキャラ再現度、第2期も“めっちゃすごい”。『...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本日配信された『崩壊：スターレイル』の「Fate」コラボキャラの再現度は、第2期も非常に高いです。『崩壊：スターレイル』のレビュー記事では、コラボキャラの細かい動作やデザインが原作を忠実に再現していることを評価しています。また、ゲームのグラフィックやサウンドトラックも高く評価されています。このレビュー記事は、ゲームファンや「Fate」シリーズのファンに興味がある方に読んでみることをお勧めします。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/columnjp/starrail-20260724-456500/",
-        "date": "2026-07-24",
-        "is_translated": false
-      },
-      {
-        "title": "【超能力推理ADV『Staffer Retro: 超能力推理クエスト』わずか1日で売上1万本突破...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "超能力推理ADV『Staffer Retro: 超能力推理クエスト』は、発売からわずか1日で売上1万本を突破するほどの人気を博しています。このゲームの評価ポイントとしては、ユニークな超能力システムや、複雑なストーリーの展開が挙げられます。レビューでは、ゲームの魅力的なキャラクター設定や、プレイヤーの選択によって変わる多彩なエンディングも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260724-456594/",
-        "date": "2026-07-24",
-        "is_translated": false
-      },
-      {
-        "title": "【『ライザのアトリエ』クラウディアのASMRが発売決定！C108にコスプレイヤーや音声などで楽し...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "本記事は、ゲーム「ライザのアトリエ」のクラウディアのASMRが発売決定したことを紹介しています。クラウディアのASMRは、C108でコスプレイヤーや音声などで楽しむことができます。本記事は、ゲームの新しいコンテンツの発表やイベントの情報を求める読者に向けて、ゲームの評価ポイントやレビューの内容を簡潔にまとめています。ゲームファンや新しいコンテンツを探している読者は、ぜひチェックしてみてください。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/07/24/185099.html",
-        "date": "2026-07-24",
-        "is_translated": false
-      },
-      {
-        "title": "【『Halo』リメイクのレビューがよろめき、ファンが2026年ゲームリリースの三騎士を嘆く：バグ...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "『Halo』のリメイク版のレビューが不安定な状態にあると伝えられています。ファンの間では、2026年リリース予定のゲームの三騎士、つまり『Halo』『Starfield』『The Legend of Zelda: Tears of the Kingdom』について、バグの問題や不安定なゲーム性などが懸念されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/halo/halo-remake-reviews-totter-as-fans-lament-the-3-horsemen-of-2026-game-releases-bugs-pointless-logins-and-duff-servers/",
-        "date": "2026-07-24",
-        "is_translated": true
-      },
-      {
-        "title": "【「より良い世界を作ろう」: カウンター カルチャー、バイカー ギャング、メカと電車で戦う楽観主...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム「カウンター カルチャー」の魅力を紹介しています。ゲームの評価ポイントは、ユニークな世界観や、バイカー ギャングとの戦い、メカや電車を駆使した戦略的な戦闘などです。レビューの内容概要としては、ゲームのストーリーやキャラクターの魅力、そしてゲームプレイの面白さが高く評価されています。このレビューは、オープン ワールド型ゲームやアクションゲームが好きな人に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/lets-make-a-better-world-denshattacks-developers-on-counterculture-biker-gangs-and-the-optimism-of-fighting-a-mecha-with-a-train",
-        "date": "2026-07-24",
-        "is_translated": true
-      },
-      {
-        "title": "【Asus ROG Azoth Extreme Edition 20 レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Asus ROG Azoth Extreme Edition 20のレビュー記事では、ゲーミングパッドの評価ポイントとして、耐久性とレスポンスの速さが高く評価されています。また、デザインと操作性の向上も指摘されています。このレビュー記事は、ゲーミングパッドを購入を検討している方や、ゲーミングに関する情報を探しているゲーマーに役立つ内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/asus-rog-azoth-extreme-edition-20-review/",
-        "date": "2026-07-24",
-        "is_translated": true
-      },
-      {
-        "title": "【HyperX Pulsefire Saga ゲーミング マウスのレビュー: モジュラー パーツ...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "HyperX Pulsefire Saga ゲーミング マウスのレビュー記事では、モジュラー パーツのカスタマイズ性や高精度のセンサー、耐久性の高いスイッチなどが評価ポイントとして取り上げられています。このマウスは、ゲーミング マウスに求められる基本的な機能を兼ね備えながらも、ユーザーのニーズに応じたカスタマイズが可能な点が特徴です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/hyperx-pulsefire-saga-gaming-mouse-review-modular-parts-win-hearts",
-        "date": "2026-07-24",
-        "is_translated": true
-      },
       {
         "title": "【「Warhammer 40,000: Dawn of War IV」のマルチプレイヤーに関する...】",
         "platform": "doope!",
@@ -1205,8 +1039,47 @@
         "url": "https://www.polygon.com/batman-caped-crusader-season-2-review/",
         "date": "2026-07-28",
         "is_translated": true
+      },
+      {
+        "title": "【「プレイ人数無制限」ファンタジーお片付けゲーム『Tidy Up Together』8月14日配...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「Tidy Up Together」は、プレイ人数に制限のないファンタジー系のお片付けゲームで、8月14日に配信が開始される予定です。このゲームは、協力プレイによるお片付けを楽しむことができます。評価ポイントとしては、ユニークなゲーム性やカラフルなグラフィックが挙げられます。レビューの内容としては、ゲームのアトモスフィアやサウンドトラックの評価が重要なポイントとなります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260729-457123/",
+        "date": "2026-07-29",
+        "is_translated": false
+      },
+      {
+        "title": "【美少女精神崩壊デッキ構築ローグライク『カオスゼロナイトメア』に、新レンジャー「ヒルデ」発表。“...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「カオスゼロナイトメア」は美少女が精神崩壊するデッキ構築ローグライクゲームです。このゲームは、複数のキャラクターを操作してダンジョンを攻略する内容で、戦略的なデッキ構築が重要になっています。新たに発表されたレンジャー「ヒルデ」は、長距離攻撃が得意なキャラクターです。このゲームの評価ポイントとしては、複数のキャラクターをうまく使い分けることや、デッキを効率的に構築する能力が重要です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260729-457109/",
+        "date": "2026-07-29",
+        "is_translated": false
+      },
+      {
+        "title": "【サムライとなった英国人航海士の物語を描く新作ターンベースRPG「Expeditions: Sa...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Expeditions: Samurai」のレビュー記事では、このターンベースRPGがサムライとなった英国人航海士の物語を描く新作ゲームであると紹介しています。このゲームは、戦略的な戦闘システムやキャラクターの成長システムが評価ポイントとなっています。レビューでは、ゲームのストーリーやグラフィックも高く評価されており。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07169087.html",
+        "date": "2026-07-29",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-28T22:04:29.905488"
+  "last_updated": "2026-07-29T02:28:54.819369"
 }
