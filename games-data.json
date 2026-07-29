@@ -266,6 +266,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
         "date": "2026-07-29"
+      },
+      {
+        "title": "Rage Inducing Difficult Games",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、困難なゲームが集まった「Rage Inducing Difficult Games」のバンドルが販売中です。このバンドルには、「Darkest Dungeon」や「Cuphead」などの、挑戦的なタイトルが含まれています。アクションゲームやロールプレイングゲームなどのジャンルが中心で、大まかには2,000円から5,000円程度の価格帯で購入できます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/rageinducingdifficultgames_bundle",
+        "date": "2026-07-29"
       }
     ],
     "sale": [
@@ -568,6 +580,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/nioh-complete-edition/info/",
         "date": "2026-07-28"
+      },
+      {
+        "title": "Rust",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "RustがSteamで50% OFFセール中です。このサンドボックス系サバイバルゲームは、プレイヤーが荒野で生き残るために戦い、資源を集め、建物を建設する必要があります。現在、50%の割引が適用されており、大人気のゲームであり、Steamで非常に高い評価を得ているため、興味がある方はこの機会にチェックしてみてください。",
+        "price": "¥2,300",
+        "originalPrice": "¥4,600",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/252490",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Elden Ring",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Elden Ringは、アクションRPGのジャンルで人気の高いゲームで、現在Variousで14%割引のセール中です。このゲームは、広大なオープンワールドと深いストーリー、多様なキャラクターを作成できるキャラクター制作システムが特徴で、多くのユーザーから高い評価をされています。現在の価格は割引前より安くなっているため、購入する良い機会です。",
+        "price": "$51.59",
+        "originalPrice": "",
+        "discount": "-14%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/elden-ring/info/",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Detroit: Become Human",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Detroit: Become HumanがVariousで90%オフのセール中です。このアドベンチャーゲームは、AIが人間と共存する世界を舞台に、3人のアンドロイドのストーリーを描いています。強いストーリーテリングと美しいグラフィックで注目を集めています。現在の価格は大幅に割引されていますが、評価は非常に高く、人気のゲームです。",
+        "price": "$3.99",
+        "originalPrice": "",
+        "discount": "-90%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
+        "date": "2026-07-29"
       }
     ],
     "review": [
@@ -1142,8 +1190,34 @@
         "url": "https://www.pcgamer.com/hardware/cooling/cooler-master-v8-ace-3dhp-review/",
         "date": "2026-07-29",
         "is_translated": true
+      },
+      {
+        "title": "【サイバーパンクアクションRPG「The Ascent」の発売5周年を祝う最新アップデートがアナ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "サイバーパンクアクションRPG「The Ascent」の発売5周年を記念した最新アップデートがリリースされました。このゲームは、ダークなサイバーパンク世界を舞台に、アクションとRPGの要素を融合させた独自のゲーム性を提供します。評価ポイントとしては、グラフィックの高品質さ、ストーリーの深み、自由度の高いキャラクターカスタマイズが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07169088.html",
+        "date": "2026-07-29",
+        "is_translated": false
+      },
+      {
+        "title": "【人気“クトゥルフ”ホラー続編「The Sinking City 2」の本格的なゲームプレイ映像...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気ホラー続編「The Sinking City 2」のゲームプレイ映像のレビュー記事では、グラフィックの鮮やかさ、ストーリーの深み、サウンドデザインの効果的な使用が評価ポイントとして挙げられています。このゲームは、クトゥルフホラーのファンや、サスペンスと恐怖を求めるゲーマーにとって必見の作品です。ゲームの雰囲気を高めてくれるサウンドトラックや、キャラクターの心理描写も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07169085.html",
+        "date": "2026-07-29",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-29T14:22:51.255191"
+  "last_updated": "2026-07-29T22:00:55.261358"
 }
