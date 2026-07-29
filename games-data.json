@@ -254,6 +254,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/evensteamiersakuraspecial_bundle",
         "date": "2026-07-27"
+      },
+      {
+        "title": "HHTwist & Tangle Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、HHTwist & Tangle Bundleが現在販売中です。このバンドルには、Twist of Fate、Tangle Tower、The Almost Goneなどの主要タイトルが含まれており、パズルやアドベンチャーを楽しむことができます。ジャンルはパズルやアドベンチャーに分類され、大まかな価格帯は10ドル前後です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
+        "date": "2026-07-29"
       }
     ],
     "sale": [
@@ -1078,8 +1090,47 @@
         "url": "https://doope.jp/2026/07169087.html",
         "date": "2026-07-29",
         "is_translated": false
+      },
+      {
+        "title": "【「ダイイングライト2」や「Big Walk」を含む2026年8月分のPS Plusフリープレイ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "2026年8月分のPS Plusフリープレイについてのレビュー記事です。このレビューでは、「ダイイングライト2」や「Big Walk」を含むフリープレイのゲームの評価ポイントを紹介します。具体的には、ゲームのストーリーやグラフィックの質、プレイ性について評価しています。PS Plusのユーザーやゲームファン向けの記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07169103.html",
+        "date": "2026-07-29",
+        "is_translated": false
+      },
+      {
+        "title": "【Silent Hill Townfall プレビュー: すでに 2026 年で最も恐ろしいゲー...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Silent Hill Townfall のプレビュー記事では、すでに2026年の最も恐ろしいゲームとして評価されています。このゲームは、恐怖要素に重点を置いており、プレイヤーを不安にさせるような雰囲気を醸し出しています。ゲームの評価ポイントとしては、恐怖要素の高さやグラフィックの質の高さが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/silent-hill-townfall-preview-demo/",
+        "date": "2026-07-29",
+        "is_translated": true
+      },
+      {
+        "title": "【『The Devil's Mouth』レビュー: Prime Video のキラーサメ映画は予...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Prime Video のキラーサメ映画「The Devil's Mouth」のレビュー記事では、映画の評価ポイントとして、スリルのあるストーリーやキャラクターの深みがあげられます。また、レビューでは、映画の弱点として、予測性の高い展開や、キャラクターの発達不足が指摘されています。このレビューは、ホラー映画やサメ映画のファンにとって、映画の内容を理解するのに役立つでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/devils-mouth-movie-review-amazon-shark-horror/",
+        "date": "2026-07-29",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-29T02:28:54.819369"
+  "last_updated": "2026-07-29T11:25:06.630027"
 }
