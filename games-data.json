@@ -1,6 +1,19 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Foretales",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Foretalesはストーリー重視のカードゲームで、世界の運命を選択することができます。このゲームはアドベンチャージャンルに属し、様々なプレイスタイルとストーリーラインを特徴としています。特徴的な点としては、プレイヤーの選択によってストーリーが変化すること、多種多様なキャラクターとイベントが用意されていること、そして自由度の高いゲームプレイが楽しめることが挙げられます。",
+        "price": "無料",
+        "originalPrice": "¥20",
+        "discount": "100% OFF",
+        "deadline": "2026年07月30日まで",
+        "url": "https://store.epicgames.com/ja/p/a6dcabac79154e218bd3c7d4a8cad8a7",
+        "date": "2026-07-30"
+      }
+    ],
     "bundle": [
       {
         "title": "Let's Go Gambling!...aw dang it.",
@@ -217,6 +230,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/rageinducingdifficultgames_bundle",
         "date": "2026-07-29"
+      },
+      {
+        "title": "Narrative 12 for $10 Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Narrative 12 for $10 Bundleというバンドルが販売中です。このバンドルには、主なタイトルとして「The Walking Dead」や「Life is Strange」などの人気作品が含まれています。ジャンルはナラティブ重視のゲームが中心で、大まかな価格帯は10ドルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/narrative12for10bundle_bundle",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Squad Goals",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、「Squad Goals」というバンドルが現在販売中です。このバンドルには、「For the King」や「Monster Crown」などのタイトルが含まれています。ジャンルはロールプレイングゲームやアクションゲームなどが中心です。大まかな価格帯は10ドルから20ドル程度で、内容によって異なります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/squadgoals_bundle",
+        "date": "2026-07-30"
       }
     ],
     "sale": [
@@ -1040,8 +1077,47 @@
         "url": "https://doope.jp/2026/07169090.html",
         "date": "2026-07-30",
         "is_translated": false
+      },
+      {
+        "title": "【最大3人協力PvPvE脱出ソウルライク『Mistfall Hunter』さっそく人気爆発も、「...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Mistfall Hunterは、最大3人協力のPvPvE脱出ソウルライクゲームです。レビュー記事では、このゲームの評価ポイントとして、激しい戦闘シーンや協力プレイの楽しさが紹介されています。また、グラフィックやサウンドトラックの質も高く評価されています。対象読者は、アクションゲームやソウルライクゲームのファンである人です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260730-457453/",
+        "date": "2026-07-30",
+        "is_translated": false
+      },
+      {
+        "title": "【“死刑囚の食事”料理シム『最後の食事を』発表。希望通りにちゃんと作るか、それとも「タバコの吸い...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「死刑囚の食事」料理シム『最後の食事を』のレビュー記事では、このゲームの評価ポイントとして、プレイヤーの選択によって食事の出来上がりが変化する点や、ユニークなゲームコンセプトが挙げられています。また、レビューでは、プレイヤーが死刑囚の希望通りに食事を作るか、またはそれを無視してタバコの吸い方を教えることのできる自由度が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260730-457411/",
+        "date": "2026-07-30",
+        "is_translated": false
+      },
+      {
+        "title": "【「JDM：ジャパニーズドリフトマスター」にサイドストーリーキャンペーンやマルチプレイイベントを...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「JDM：ジャパニーズドリフトマスター」は、サイドストーリーキャンペーンやマルチプレイイベントを追加した魅力的なレースゲームです。このゲームの評価ポイントとしては、リアルなドリフト走行の再現や、豊富なカスタマイズオプションが挙げられます。レビューでは、ゲームのグラフィックやサウンドデザインも高く評価されています。レースゲームファンやドリフト愛好家にとっては、必見のゲームとなっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07169143.html",
+        "date": "2026-07-30",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-30T02:10:41.452282"
+  "last_updated": "2026-07-30T11:06:25.548733"
 }
