@@ -12,6 +12,30 @@
         "deadline": "2026年07月30日まで",
         "url": "https://store.epicgames.com/ja/p/a6dcabac79154e218bd3c7d4a8cad8a7",
         "date": "2026-07-30"
+      },
+      {
+        "title": "OTXO",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "OTXOは、パズル要素のあるアクションゲームで、プレイヤーがさまざまなステージを攻略し、敵を倒していくという特徴があります。このゲームの魅力は、簡単な操作で複雑なステージをクリアできることと、グラフィックが美しく、雰囲気のあるサウンドトラックがあることです。また、無料で遊べるのも魅力のひとつです。現在、Epic Gamesプラットフォームで無料配布中なので。",
+        "price": "無料",
+        "originalPrice": "¥14",
+        "discount": "100% OFF",
+        "deadline": "2026年08月06日まで",
+        "url": "https://store.epicgames.com/ja/p/63e3482da69d4332bd73ce23706e78eb",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Sol Cesto",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Sol Cestoは、アクションゲームの要素を取り入れた、ロールプレイングゲームです。このゲームの特徴として、美しいグラフィックや、複雑なストーリーライン、そして自由度の高いキャラクターカスタマイズが挙げられます。また、ゲームの世界観はユニークで、プレイヤーを引き込む魅力的な雰囲気を醸し出しています。現在、Epic Gamesプラットフォームで無料配布中なので。",
+        "price": "無料",
+        "originalPrice": "¥16",
+        "discount": "100% OFF",
+        "deadline": "2026年08月06日まで",
+        "url": "https://store.epicgames.com/ja/p/sol-cesto",
+        "date": "2026-07-30"
       }
     ],
     "bundle": [
@@ -579,6 +603,42 @@
         "discount": "-67%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/doom-eternal/info/",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サイバーパンク2077がバリューに登場し、現在70％オフでのセール中です。このゲームはオープンワールドRPGであり、未来的なサイバーパンク世界を舞台に、プレイヤーは自由にキャラクターをカスタマイズし、ストーリーを進めています。現在の価格は大幅に割引されており、非常に魅力的なゲームです。サイバーパンク2077は、グラフィックやゲームプレイの面で非常に高い評価を受けており。",
+        "price": "$17.99",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Marvel's Spider-Man: Miles Morales",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Marvel's Spider-Man: Miles Moralesは、オープンワールドアクションアドベンチャーゲームで、スパイダーマンの新たな主人公マイルズ・モラレスを操作して、ニューヨーク市を探索します。このゲームは、64%割引でセール中で、非常に評価の高いゲームであり、人気度も非常に高いです。",
+        "price": "$17.95",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/marvels-spider-man-miles-morales/info/",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "The Elder Scrolls V: Skyrim Special Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Elder Scrolls V: Skyrim Special Editionが78%割引でセール中です、このオープンワールドアクションRPGは、豊富なストーリーや自由度の高いゲームプレイが特徴で、非常に人気があり、高評価を誇っています。",
+        "price": "$8.60",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-elder-scrolls-v-skyrim-special-edition/info/",
         "date": "2026-07-30"
       }
     ],
@@ -1154,8 +1214,21 @@
         "url": "https://www.polygon.com/gears-of-war-e-day-horde-preview/",
         "date": "2026-07-30",
         "is_translated": true
+      },
+      {
+        "title": "【Midnight Moments は、ネオンサインと霧雨の愛好家のためのサイバーパンク ジオラ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Midnight Moments は、サイバーパンクをテーマにしたジオラマゲームで、ネオンサインと霧雨が好きな人にぴったりです。このゲームの評価ポイントとしては、独自の世界観やグラフィックの美しさが挙げられます。レビューの内容概要としては、ゲームの雰囲気やストーリー、サウンドトラックの品質について触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/midnight-moments-is-a-cyberpunk-diorama-builder-for-the-neon-sign-and-drizzly-rain-lovers",
+        "date": "2026-07-30",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-30T14:17:45.582509"
+  "last_updated": "2026-07-30T22:04:52.860375"
 }
