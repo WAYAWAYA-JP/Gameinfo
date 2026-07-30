@@ -1,68 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Luto",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Lutoは、家から出られない人の役を演じる心理的ホラー体験です。プレイヤーは、逃げ出そうとするたびに未知の世界へとさらに深く導かれます。見かけどおりのものは何もなく、すべてがプレイヤーの感覚を試すことになります。このゲームの特徴は、その独自のストーリーテリングと、プレイヤーを不安に陥れる音響効果です。また、グラフィックの恐ろしさも印象的です。Lutoは、PC向けに配布されています。",
-        "price": "無料",
-        "originalPrice": "¥23",
-        "discount": "100% OFF",
-        "deadline": "2026年07月23日まで",
-        "url": "https://store.epicgames.com/ja/p/67459b70a96e40ca96d5676d8a4fd8c5",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Echo Generation: Midnight Edition",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Echo Generation: Midnight EditionがEpic Gamesで無料配布中です。このゲームは、ロールプレイングゲームとして知られており、特徴的なグラフィックや魅力的なストーリーが楽しめます。プレイヤーは、さまざまなキャラクターを操作して、モンスターと戦ったり、アイテムを集めたりすることができます。",
-        "price": "無料",
-        "originalPrice": "¥24",
-        "discount": "100% OFF",
-        "deadline": "2026年07月23日まで",
-        "url": "https://store.epicgames.com/ja/p/cbf3f5857ec241bab03dbb7eb03efad8",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Foretales",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Foretalesはストーリー重視のカードゲームで、プレイヤーは世界の運命を選択することができます。このゲームはアドベンチャージャンルに分類され、様々なプレイスタイルとストーリーラインを持っています。特徴としては、自由度の高い選択肢、複数のエンディング、そしてリプレイ性の高さがあります。また、ユニークなカードバトルシステムも魅力の一つです。",
-        "price": "無料",
-        "originalPrice": "¥20",
-        "discount": "100% OFF",
-        "deadline": "2026年07月30日まで",
-        "url": "https://store.epicgames.com/ja/p/a6dcabac79154e218bd3c7d4a8cad8a7",
-        "date": "2026-07-23"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Narrative 12 for $10 Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Narrative 12 for $10 Bundleのバンドルが販売中です。このバンドルには、主なタイトルとして「The Council」、「The Infectious Madness of Doctor Dekker」、「The Shapeshifting Detective」などのナラティブ重視のゲームが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/narrative12for10bundle_bundle",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Squad Goals",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Squad Goalsというバンドルが販売中です。このバンドルには、主に『Door Kickers』や『Door Kickers 2: Task Force North』、『Hard West』などのタイトルが含まれており、ストラテジーやシミュレーションジャンルのゲームが中心です。大まかな価格帯は10ドルから20ドル程度とみられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/squadgoals_bundle",
-        "date": "2026-07-20"
-      },
       {
         "title": "Let's Go Gambling!...aw dang it.",
         "platform": "Humble Bundle",
@@ -281,54 +220,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Hades II",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲームの《Hades II》が、現在Variousで30％割引されています。このゲームは、神話的なキャラクターと難関のステージが特徴で、プレイヤーは様々な神話の武器を駆使して、多数の敵を倒していく必要があります。ユーザーからの評価は非常に高く、人気度も高いとされています。セール期間中は、通常よりも安価に購入することができますので、興味がある方はぜひこの機会にチェックしてみてください。",
-        "price": "$20.99",
-        "originalPrice": "",
-        "discount": "-30%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hades-ii/info/",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "AI Limit",
-        "platform": "Various",
-        "type": "sale",
-        "description": "AI Limitは、ストラテジー要素を取り入れたアクションゲームで、AIの制限をテーマにしています。現在、Variousストアで41%割引のセール中です。このゲームは、ユニークなゲームプレイと挑戦的なステージで知られており、ファンから高く評価されています。人気度も高く、多くのプレイヤーから支持されています。セール期間中にこの魅力的なゲームを手に入れる機会を逃さないでください。",
-        "price": "$20.48",
-        "originalPrice": "",
-        "discount": "-41%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ai-limit/info/",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Subnautica",
-        "platform": "Various",
-        "type": "sale",
-        "description": "SubnauticaがVariousで現在75%オフのセール中です。このゲームはオープンワールドのサバイバルジャンルであり、海底での探索や資源の収集、海洋生物との遭遇が特徴です。評価も非常に高く人気があり、多くのプレイヤーから好評価を得ていますので、興味がある方はこの機会にぜひお試しください。",
-        "price": "$7.49",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/subnautica/info/",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Disco Elysium - The Final Cut",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Disco Elysium - The Final CutがVariousで-80%のセール中です。このゲームは、オープンワールドのRPGで、ユニークなキャラクターと豊富なストーリーが特徴です。評価も非常に高く、多くのユーザーから好評を博しています。現在、通常価格より80%割引されていますので、ゲーム好きの方にはおすすめのセールです。",
-        "price": "$7.97",
-        "originalPrice": "",
-        "discount": "-80%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
-        "date": "2026-07-23"
-      },
       {
         "title": "Borderlands 4",
         "platform": "Various",
@@ -616,113 +507,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
         "date": "2026-07-29"
+      },
+      {
+        "title": "オクトパストラベラー",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "オクトパストラベラーは、Steamで現在70%オフのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、独特の戦闘システムと魅力的なキャラクターが特徴です。通常価格より大幅に安くなっているので、ロールプレイングゲームファンにはおすすめです。また、ユーザーの評価は非常に高い人気ゲームであり、多くのプレイヤーから高く評価されています。",
+        "price": "¥1,643",
+        "originalPrice": "¥5,478",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/921570",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "オクトパストラベラー II",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Steamでは、人気のRPGゲーム『オクトパストラベラー II』が60%オフのセール中です。このゲームは、ユニークな戦闘システムと豊富なストーリーが特徴で、ファンタジーと冒険を愛するプレイヤーに人気があります。現在のセール価格で購入すると、通常価格より大幅に安くなります。ゲームの評価も非常に高く、多くのプレイヤーから高く評価されています。",
+        "price": "¥2,191",
+        "originalPrice": "¥5,478",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1971650",
+        "date": "2026-07-30"
       }
     ],
     "review": [
-      {
-        "title": "【「Warhammer 40,000: Dawn of War IV」のマルチプレイヤーに関する...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Warhammer 40,000: Dawn of War IVのレビュー記事では、マルチプレイヤー機能の充実度やゲームバランスの良さ、グラフィックの美しさなどが評価ポイントとして取り上げられています。記事では、戦略的な戦闘やユニークなユニットが魅力的な点として挙げられており、ファンやストラテジーゲーム好きの方に特におすすめしています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168958.html",
-        "date": "2026-07-25",
-        "is_translated": false
-      },
-      {
-        "title": "【CoH3のローグライトスピンオフ「Company of Heroes 3: Final Sta...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Company of Heroes 3のローグライトスピンオフ「Company of Heroes 3: Final Stand」のレビュー記事では、ゲームの評価ポイントとして、ストーリーの引き付け方やゲームプレイのバランスがあげられます。また、レビューの内容概要として、ゲームのグラフィックやサウンドトラックの質にも触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168962.html",
-        "date": "2026-07-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamユーザーの約半数は、レビューが「賛否両論」以下だと購入をためらうという調査結果。“レ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamユーザーたちの購買決定に影響を与えるレビューの重要性を調査した結果、約半数のユーザーが「賛否両論」以下の評価のゲームには購入をためらうことが明らかになった。このような調査結果は、ゲームの評価においてレビューが果たす役割を浮き彫りにしている。特に、ゲームの評価ポイントとしてグラフィックの質、ゲームプレイの面白さ、ストーリーの深さなどが重要視されている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260725-456647/",
-        "date": "2026-07-25",
-        "is_translated": false
-      },
-      {
-        "title": "【マルチ対応・超危険イカダ川下りゲーム『Sponge Break』7月31日配信へ。落石や“イカ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「Sponge Break」は、7月31日に配信される超危険なイカダ川下りゲームです。このゲームでは、プレイヤーは川を下りながら落石や障害物を避けながら進む必要があり、スリルと緊張感を味わえるでしょう。ゲームの評価ポイントとしては、簡単な操作で誰でも遊べること、様々な障害物が登場し飽きないこと、そしてマルチプレイに対応していることが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/sponge-break-20260725-456640/",
-        "date": "2026-07-25",
-        "is_translated": false
-      },
-      {
-        "title": "【フリューの新作サバイバルTPS『アノマリス』、8月1日より体験版配信へ。“フリューファン以外”...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "フリューの新作サバイバルTPS『アノマリス』のレビュー記事があります。このゲームは8月1日より体験版が配信される予定です。レビューでは、フリューのファン以外の人も楽しめる内容になっている点、グラフィックやサウンドのクオリティが高い点、そして新しいゲームプレイスタイルを提供している点が評価されています。このレビューは、サバイバルゲームやTPSファンに興味がある人に役立つ内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/anomalith-20260725-456683/",
-        "date": "2026-07-25",
-        "is_translated": false
-      },
-      {
-        "title": "【The Alters Last Variable レビュー: 新しい拡張機能は、基本ゲームの楽...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "The Alters Last Variable のレビュー記事では、新しい拡張機能が基本ゲームの楽しさを高めていると評価されています。このゲームは、ストラテジー要素とアクション要素のバランスが取れた内容で、複数のキャラクターを操作してステージをクリアするというものです。記事では、拡張機能により新しいキャラクターやステージが追加され、ゲームの再生価値が向上したと述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/the-alters-last-variable-review-dlc-expansion/",
-        "date": "2026-07-25",
-        "is_translated": true
-      },
-      {
-        "title": "【ブラックトーチのレビュー: 猫派のためのチェーンソーマン - 忍者と】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「ブラックトーチ」の魅力を紹介しています。忍者とチェーンソーを使ったアクションゲームとして評価されており、猫派のプレイヤーにも楽しい要素があると言及されています。対象読者は、アクションゲームファンや猫愛好家の方に適していると思われます。総評としては、ユニークなゲーム性と猫キャラクターの魅力が際立つ作品であると言えるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/black-torch-anime-review-chainsaw-man-shonen-comparison/",
-        "date": "2026-07-25",
-        "is_translated": true
-      },
-      {
-        "title": "【潜る、拾う、また潜る！『スプラトゥーン レイダース』のハクスラ沼はインクの快感とトレハンの中毒...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "スプラトゥーン レイダースは、インクの快感とトレハンの中毒性が魅力のゲームです。このゲームでは、プレイヤーはハクスラ沼を探索し、インクを拾ったり、戦闘に参加したりします。レビューでは、ゲームのグラフィックやサウンドトラックが高く評価されています。また、プレイヤーはトレハンを繰り返し行うことで、新しいスキルやアイテムを獲得できるため、中毒性も高いと言えるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/07/26/185157.html",
-        "date": "2026-07-25",
-        "is_translated": false
-      },
       {
         "title": "【ゲームフリーク新作『Beast of Reincarnation』先行プレイ感想。戦闘はゆるめ...】",
         "platform": "AUTOMATON",
@@ -1216,8 +1027,21 @@
         "url": "https://doope.jp/2026/07169085.html",
         "date": "2026-07-29",
         "is_translated": false
+      },
+      {
+        "title": "【「Warhammer 40,000: Dawn of War IV」のネクロン勢力に焦点を当て...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Warhammer 40,000: Dawn of War IVのレビュー記事では、特にネクロン勢力に焦点を当てた評価が行われています。このゲームの評価ポイントとしては、戦略的な戦闘システムや、さまざまな勢力のユニークな能力が挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドデザインの高さ、そしてマルチプレイヤーモードの充実度が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07169090.html",
+        "date": "2026-07-30",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-29T22:00:55.261358"
+  "last_updated": "2026-07-30T02:10:41.452282"
 }
