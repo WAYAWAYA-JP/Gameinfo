@@ -568,6 +568,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/1971650",
         "date": "2026-07-30"
+      },
+      {
+        "title": "DOOM Eternal",
+        "platform": "Various",
+        "type": "sale",
+        "description": "FPSゲームとして知られるDOOM Eternalが、現在67%オフでセール中です。このゲームは、高速なアクションと激しいバトルが特徴で、ファンから高い評価を受けています。価格も割引により大幅に下がっており、ゲーム好きには大変お勧めです。",
+        "price": "$9.89",
+        "originalPrice": "",
+        "discount": "-67%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/doom-eternal/info/",
+        "date": "2026-07-30"
       }
     ],
     "review": [
@@ -1116,8 +1128,34 @@
         "url": "https://doope.jp/2026/07169143.html",
         "date": "2026-07-30",
         "is_translated": false
+      },
+      {
+        "title": "【全ての始まりを描く人気シリーズ最新作「Gears of War: E-Day」のマルチプレイヤ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "人気シリーズ「Gears of War」の最新作「Gears of War: E-Day」のマルチプレイヤー機能を紹介するレビュー記事です。この記事では、マルチプレイヤーの評価ポイントとして、戦略的深度とチームワークの重要性、グラフィックの高さなどが取り上げられます。さらに、シリーズのファンやアクションゲームを楽しむユーザーにとって、最新作の魅力と新要素が紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07169145.html",
+        "date": "2026-07-30",
+        "is_translated": false
+      },
+      {
+        "title": "【Gears of War: E-Day のマルチプレイヤーは確かに Gears of War です】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Gears of War: E-Day のマルチプレイヤーは確かに Gears of War です、このレビュー記事ではゲームのマルチプレイヤーモードの評価ポイントとして、協力プレイの魅力や対戦モードの緊張感を挙げています。また、グラフィックやサウンドデザインの高品質も評価されています。アクションゲームファンやGears of Warシリーズの愛好者であれば。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/gears-of-war-e-day-horde-preview/",
+        "date": "2026-07-30",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-30T11:06:25.548733"
+  "last_updated": "2026-07-30T14:17:45.582509"
 }
