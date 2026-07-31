@@ -254,6 +254,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/squadgoals_bundle",
         "date": "2026-07-30"
+      },
+      {
+        "title": "HHPixel Traditions 3 Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、HHPixel Traditions 3 Bundleが現在販売中です。このバンドルには、主要タイトルとして「Mythic Pearls」、「The Lost Gardens」、「The Secret of Hildegards」の3本が含まれています。ジャンルはアドベンチャーやパズルゲームなどのカジュアルゲームが中心で、大まかな価格帯は10ドル以下ととてもお手頃です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/pixel-traditions3-bundle",
+        "date": "2026-07-31"
       }
     ],
     "sale": [
@@ -1178,8 +1190,34 @@
         "url": "https://www.pcgamer.com/hardware/gaming-mice/mchose-k7-v2-ultra-review/",
         "date": "2026-07-31",
         "is_translated": true
+      },
+      {
+        "title": "【新作“ダンジョンズ＆ドラゴンズ”ゲーム「WARLOCK」のゲームプレイお披露目が2026年8月...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "新作「ダンジョンズ＆ドラゴンズ」ゲーム「WARLOCK」のゲームプレイが2026年8月に初めて公開されました。このゲームは、ユーザーが複数のキャラクターを操作してダンジョンを探索することが特徴です。レビューでは、グラフィックの高さやストーリーの深さが評価されています。また、ゲームの難易度が適切で、初心者でも楽しめる点も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07169211.html",
+        "date": "2026-07-31",
+        "is_translated": false
+      },
+      {
+        "title": "【「JDM：ジャパニーズドリフトマスター」PS5パッケージ版の発売が2026年10月29日に決定：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「JDM：ジャパニーズドリフトマスター」のPS5パッケージ版が2026年10月29日に発売されることが決定しました。レビューでは、ゲームのグラフィックやサウンド、操作性などについて評価しています。具体的には、リアルなグラフィックや臨場感のあるサウンド、そしてスムーズな操作性が高く評価されています。ドリフトレースに興味のある方や、レースゲームファンには特におすすめのゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/07169197.html",
+        "date": "2026-07-31",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-07-31T11:29:00.856343"
+  "last_updated": "2026-07-31T14:22:31.301079"
 }
