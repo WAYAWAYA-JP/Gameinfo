@@ -592,6 +592,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/doom-the-dark-ages/info/",
         "date": "2026-07-31"
+      },
+      {
+        "title": "Marvel's Spider-Man 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Marvel's Spider-Man 2がVariousで40%オフでのセール中です。このアクションアドベンチャーゲームは、スパイダーマンの新しい冒険を描いており、高い評価と人気を誇っています。通常価格より40%割引されたこの魅力的なゲームを今すぐチェックしてみてください。",
+        "price": "$36.13",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/marvels-spider-man-2/info/",
+        "date": "2026-07-31"
       }
     ],
     "review": [
@@ -1101,8 +1113,73 @@
         "url": "https://www.rockpapershotgun.com/midnight-moments-is-a-cyberpunk-diorama-builder-for-the-neon-sign-and-drizzly-rain-lovers",
         "date": "2026-07-30",
         "is_translated": true
+      },
+      {
+        "title": "【『ファイナルファンタジーVII リベレーション』発表後、『FFVII』シリーズは“すごく売れて...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ファイナルファンタジーVII リベレーション』が発表されてから、シリーズは非常に人気となりました。このレビュー記事では、ゲームの評価ポイントとしてグラフィックの高さやストーリーの深み、キャラクターの魅力を挙げています。また、シリーズのファンやアクションRPGファンにとっては必玩のタイトルであると述べられています。全体的に、高い評価をされており、ゲーム好きの方にはおすすめできる作品です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/ffivii-20260731-457653/",
+        "date": "2026-07-31",
+        "is_translated": false
+      },
+      {
+        "title": "【『アサシン クリード オデッセイ』8年目にして突如プレイヤー“倍増”、人気再燃中。オデッセイな...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "アサシン クリード オデッセイは、発売から8年が経過した今でも人気を博しています。ゲームの評価ポイントとしては、広大なオープンワールド、深いストーリー、そして自由度の高いゲームプレイがあげられます。レビューでは、ゲームの長所として、プレイヤーの選択がストーリーに大きな影響を与えることや、キャラクターの成長システムが充実していることが挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260731-457700/",
+        "date": "2026-07-31",
+        "is_translated": false
+      },
+      {
+        "title": "【人気スローライフ島暮らしシム『スターサンド・アイランド』8月18日ついに正式リリースへ。「PS...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "人気スローライフ島暮らしシム『スターサンド・アイランド』は8月18日に正式リリースされます。このゲームは、プレイヤーが島で自由に生活できるユニークなシステムが特徴です。レビューでは、グラフィックの美しさ、ゲームプレイのリラックス効果、自由度の高さが評価されています。特に、ストレスを解消したい人や、ゆったりしたゲームを楽しみたい人にとってはおすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260731-457663/",
+        "date": "2026-07-31",
+        "is_translated": false
+      },
+      {
+        "title": "【観葉植物ショップ運営ゲーム『Leafy Corner』好評率99%、初日からブレイク中。あくま...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Leafy Cornerは、観葉植物ショップを運営するゲームであり、現在好評率99%という高い評価を得ている。プレイヤーはショップを経営し、植物を売買したり、店内を装飾したりすることができる。レビューでは、ゲームの魅力的なグラフィックや、カスタマイズの自由度が高く楽しめる点が評価されている。また、ゲームのペースが適切で、ストレスを感じることなくプレイできることも評価点として挙げられている。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260731-457638/",
+        "date": "2026-07-31",
+        "is_translated": false
+      },
+      {
+        "title": "【Mchose K7 V2 Ultra+ レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "MChose K7 V2 Ultra+は、高性能と優れた操作性を兼ね備えたゲーム機器です。このレビューでは、デバイスの操作感と快適性、ゲームに対する対応性、またコストパフォーマンスについて評価しています。ゲーム好きの方や、ゲーミングデバイスに興味がある方に特にオススメの製品です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/mchose-k7-v2-ultra-review/",
+        "date": "2026-07-31",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-31T02:38:51.050325"
+  "last_updated": "2026-07-31T11:29:00.856343"
 }
