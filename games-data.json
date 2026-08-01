@@ -230,6 +230,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/dungeonsdragonsclassicscollection2026_bundle",
         "date": "2026-07-31"
+      },
+      {
+        "title": "Twin Sails Interactive 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Twin Sails Interactive 2026のバンドルがHumble Bundleで販売中です。このバンドルには、同社の主要タイトルである「Diluvian Ulm」や「Little Town Hero」などのゲームが含まれています。ジャンルはアクションアドベンチャーやRPGに分類され、価格帯はおよそ2,000円から5,000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/twinsailsinteractive2026_bundle",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "Point Click Package",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Point Click Packageのバンドルが販売中です。このバンドルには、The Whispered World、The Night of the Rabbit、Deponiaなどの主要タイトルが含まれています。ポイント・アンド・クリックアドベンチャーが中心のバンドルで、ファンにはおすすめのジャンルです。大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/pointclickpackage_bundle",
+        "date": "2026-08-01"
       }
     ],
     "sale": [
@@ -1026,8 +1050,73 @@
         "url": "https://www.pcgamer.com/games/survival-crafting/palworld-review/",
         "date": "2026-08-01",
         "is_translated": true
+      },
+      {
+        "title": "【東亜プランの系譜を受け継ぐ新作STG『TATSUJIN Extreme』、「好評率100％」キ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "東亜プランの系譜を受け継ぐ新作STG『TATSUJIN Extreme』のレビュー記事では、ゲームの評価ポイントとして、快適なゲームプレイ、グラフィックの質、サウンドトラックの魅力が挙げられています。また、レビューの内容概要として、ゲームの難易度が適切で、プレイヤーが楽しめるよう設計されていること、グラフィックとサウンドが高品質で臨場感があること。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/tatsujin-extreme-20260801-457827/",
+        "date": "2026-08-01",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料「街」オープンワールド『NTE』の新キャラ「イロヒ」は“死んだ仲間をこき使う”ゆ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "基本プレイ無料のオープンワールドゲーム「NTE」には新しいキャラクター「イロヒ」が追加されました。このキャラクターは死んだ仲間をこき使うというユニークな能力を持っています。ゲームの評価ポイントとしては、オープンワールドの自由度が高く、キャラクターの多様性が豊かです。レビューの内容概要としては、ゲームのグラフィックやサウンドが高品質であること。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260801-457773/",
+        "date": "2026-08-01",
+        "is_translated": false
+      },
+      {
+        "title": "【SIE支援の注目大型ソウルライク『Daba: Land of Water Scar』をいち早く...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "SIE支援の注目大型ソウルライクゲーム『Daba: Land of Water Scar』のレビュー記事では、ゲームの評価ポイントとして、難易度の高さやグラフィックの美しさが挙げられています。また、レビューの内容概要としては、ゲームの世界観や操作性について詳細に説明されています。この記事は、ソウルライクゲームファンや新しいゲームを探しているユーザーにとって、参考になる情報を提供しているようです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260801-457757/",
+        "date": "2026-08-01",
+        "is_translated": false
+      },
+      {
+        "title": "【複数の次元から集まったサムたちが戦うCo-opローグライトシューター「Serious Sam:...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、Co-opローグライトシューター「Serious Sam」の評価ポイントを紹介しています。対象読者は、このゲームに興味があるゲーマーです。このゲームでは、複数の次元から集まったサムたちが戦う様子が楽しめます。記事では、ゲームの評価ポイントとして、Co-opプレイの面白さ、ゲームの難易度、グラフィックの質などを取り上げています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169224.html",
+        "date": "2026-07-31",
+        "is_translated": false
+      },
+      {
+        "title": "【パルワールド 1.0 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "パルワールド1.0のレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンド、ゲームプレイの面白さなどが取り上げられているようです。記事では、ゲームのストーリーやキャラクターの魅力、そしてユーザーインターフェースの使い心地についても触れられているようです。対象読者は、パルワールド1.0に興味がある方や、新しいゲームを探している方に適しているようです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/palworld-review/",
+        "date": "2026-08-01",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-01T02:37:34.206433"
+  "last_updated": "2026-08-01T10:39:15.575162"
 }
