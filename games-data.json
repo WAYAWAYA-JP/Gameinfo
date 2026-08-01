@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/sol-cesto/info/",
         "date": "2026-07-31"
+      },
+      {
+        "title": "Vampire: The Masquerade® - Bloodlines™ 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Vampire: The Masquerade - Bloodlines 2は、オープンワールドのアクションRPGです。このゲームは、吸血鬼の世界を舞台に、プレイヤーがさまざまなキャラクターを操作してストーリーを進めていくという特徴があります。現在、56%の割引が適用されており、非常に魅力的です。ユーザーの評価は高く、人気のゲームとして知られています。",
+        "price": "$26.36",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/vampire-the-masquerade-bloodlines-2/info/",
+        "date": "2026-08-01"
       }
     ],
     "review": [
@@ -1118,5 +1130,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-01T10:39:15.575162"
+  "last_updated": "2026-08-01T13:40:37.590041"
 }
