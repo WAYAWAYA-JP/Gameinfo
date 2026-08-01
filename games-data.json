@@ -40,54 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Idol Days Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Idol Days BundleがIndieGalaで販売中です。このバンドルには、アイドルをテーマにしたゲームが収録されています。主要タイトルには、\"Idol Days Sim Date\"や\"School Idol Festival\"、\"Love Live! School Idol Festival\"が含まれています。ジャンルは、アイドル、乙女ゲーム、シミュレーションです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/idol-days-bundle",
-        "date": "2026-07-22"
-      },
-      {
-        "title": "HHSensual Clinic Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "HHSensual Clinic BundleというバンドルがIndieGalaで販売中です。このバンドルには、主要タイトルとして「Sensual Clinic」や「Clinic」などが含まれています。ジャンルはアダルト向けのシミュレーションゲームです。大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/sensual-clinic-bundle",
-        "date": "2026-07-22"
-      },
-      {
-        "title": "Twin Sails Interactive 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Twin Sails Interactive 2026のバンドルがHumble Bundleで販売中です。このバンドルには、同社の主要タイトルである「Diluvian Winds」や「Little Town Hero」、「Monster Crown」などが含まれています。ジャンルはロールプレイングゲームやシミュレーションゲームが中心です。大まかな価格帯は10ドルから30ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/twinsailsinteractive2026_bundle",
-        "date": "2026-07-22"
-      },
-      {
-        "title": "Point Click Package",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、ポイント・アンド・クリックアドベンチャーゲームを集めた「Point Click Package」のバンドルが販売中です。このバンドルには、「The Whispered World」や「The Night of the Rabbit」などの人気タイトルが含まれています。アドベンチャーゲームファンにはたまらないお得なバンドルで。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/pointclickpackage_bundle",
-        "date": "2026-07-22"
-      },
-      {
         "title": "Summer Games Done Quick 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -281,54 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストがSteamで50%OFFのセール中です。このゲームはオープンワールドアクションアドベンチャーであり、豊富なグラフィックと多彩なミッションでプレイヤーを魅了します。現在の価格は割引前の半額となり、非常に魅力的なオファーです。グランド・セフト・オートシリーズは世界中で人気を博しており、多くのゲームファンから高い評価を受けています。",
-        "price": "¥2,190",
-        "originalPrice": "¥4,380",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-07-25"
-      },
-      {
-        "title": "Yet Another Zombie Defense HD",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Yet Another Zombie Defense HDがVariousで100%割引されています。このゲームは、アクションとタワーディフェンスを融合させたゾンビサバイバルゲームで、プレイヤーは無限に湧き出るゾンビから生き残るために戦い続けなければなりません。ユーザーの評価は非常に高く、多くのプレイヤーから人気を博しています。現在は無料でダウンロードできますので、気軽にプレイしてみてください。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/yet-another-zombie-defense-hd/info/",
-        "date": "2026-07-25"
-      },
-      {
-        "title": "Shadows of Doubt",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Shadows of Doubtは、Detectiveゲームで、64％の割引を受けています。このゲームは、プレイヤーが探偵となり、事件を解決することを目的とした、捜査アドベンチャーゲームです。評価は非常に高く、人気も高いゲームで、ファンからは高く評価されています。",
-        "price": "$7.20",
-        "originalPrice": "",
-        "discount": "-64%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/shadows-of-doubt/info/",
-        "date": "2026-07-25"
-      },
-      {
-        "title": "Outer Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Outer Wildsは、宇宙を探索するアドベンチャーゲームです。このゲームでは、プレイヤーはタイムループの中で、宇宙の秘密を解き明かしていきます。現在、53%の割引セール中で、非常に魅力的な価格になっています。Outer Wildsは、ユニークなストーリーや深いゲーム性で高く評価されており、多くのゲーマーから人気を博しています。",
-        "price": "$11.84",
-        "originalPrice": "",
-        "discount": "-53%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
-        "date": "2026-07-25"
-      },
       {
         "title": "DayZ",
         "platform": "Steam",
@@ -656,149 +560,6 @@
     ],
     "review": [
       {
-        "title": "【Steamマルチ対応・超自由ドリンク屋シム『Boba Cafe Simulator』人気白熱中...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamで人気を博している『Boba Cafe Simulator』は、プレイヤーが自由にドリンク屋を経営することができるシミュレーションゲームです。このゲームの評価ポイントとして、ユーザーはグラフィックやサウンドトラックの可愛らしさを高く評価しています。また、レビューの内容概要として、ゲームの自由度やリラックス効果が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260727-456898/",
-        "date": "2026-07-27",
-        "is_translated": false
-      },
-      {
-        "title": "【とあるSteam無料ゲーム、“『UNDERTALE』非公式オンラインプレイの踏み台”として使わ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本記事は、Steamで無料でプレイできるゲームのレビューです。このゲームは、人気ゲーム『UNDERTALE』の非公式オンラインプレイのためのツールとして利用されています。ゲームの評価ポイントとしては、オンラインプレイの実現やゲームプレイの自由度が高く、ユーザーから高い評価を得ています。また、レビューでは。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260727-456857/",
-        "date": "2026-07-27",
-        "is_translated": false
-      },
-      {
-        "title": "【「流体シム」搭載、壊し放題地中PvP『Dirtnap』発表。最大10人バトル、水や溶岩がドバド...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このゲーム「Dirtnap」は、最大10人でのバトルが楽しめる地中PvPゲームです。「流体シム」という特徴的なシステムを搭載しており、水や溶岩が自由に動くことで、プレイヤーはさまざまな戦略を生み出せます。ゲームの評価ポイントとしては、独自のシステムによる新鮮なゲーム性や、マルチプレイヤーでのバトルの楽しさが評価されます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260727-456858/",
-        "date": "2026-07-27",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam 週間の振り返り: ジャンクな小売シムの奔流が Steam に溢れ続け、終わりは見えません：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Steamの週刊レビューでは、ジャンクな小売シムの流れが終わることがなく、ユーザーからの評価ポイントとしては、ゲームの独自性やユーモアが高く評価され、レビューの内容は主にゲームのユニークなシステムや面白さについて言及されています。また、レビューでは、ユーザーインターフェースの簡単さや、ゲームのリプレイ性についても触れられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-a-torrent-of-janky-retail-sims-continues-to-flood-steam-and-theres-no-end-in-sight/",
-        "date": "2026-07-27",
-        "is_translated": true
-      },
-      {
-        "title": "【聖剣伝説やブレス オブ ファイアにインスパイアされた新作RPG「Forge of the Fa...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、聖剣伝説やブレス オブ ファイアにインスパイアされた新作RPG「Forge of the Fa...」を紹介しています。このゲームの評価ポイントとしては、独自の世界観やキャラクター設定、戦闘システムの奥深さなどが挙げられます。レビューの内容概要としては、ゲームのストーリーやグラフィック、サウンドトラックの質について触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07169039.html",
-        "date": "2026-07-27",
-        "is_translated": false
-      },
-      {
-        "title": "【XCOM系“スター・ウォーズ”ターン制ストラテジー「STAR WARS Zero Compan...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、ターン制ストラテジーゲーム「STAR WARS Zero Company」の魅力を紹介しています。評価ポイントとしては、ゲームの戦略的な深みや、スター・ウォーズの世界観を再現したグラフィックが高く評価されています。レビューの内容概要としては、ゲームのストーリーやキャラクター、戦闘システムなどが詳しく紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07168965.html",
-        "date": "2026-07-27",
-        "is_translated": false
-      },
-      {
-        "title": "【PowerA LucidSound LS500/P レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "PowerA LucidSound LS500/P レビューは、ゲーム音響機器の評価を中心に構成されています。記事では、音質、デザイン、操作性などの評価ポイントを詳しく紹介しています。さらに、レビューではLS500/Pの長所と短所について分析し、使用感やコストパフォーマンスについても触れています。このレビュー記事は、ゲーム愛好家や音響機器に興味のある方に役立つ内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-headsets/powera-lucidsound-ls500-p-review/",
-        "date": "2026-07-27",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam 週間の振り返り: ジャンキーな小売シムの奔流が Steam に溢れ続け、終わりは見...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Steamでの週刊レビュー記事では、ジャンキーな小売シミュレーションゲームが注目を集めています。このゲームは、プレイヤーが小売業者となり、さまざまなアイテムを販売することで利益を上げることを目標とします。記事では、このゲームの評価ポイントとして、ユニークなゲームプレイや魅力的なグラフィックを挙げています。また、レビューの内容として、ゲームの面白さやリプレイ価値の高さを述べています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-a-torrent-of-janky-retail-sims-continues-to-flood-steam-and-theres-no-end-in-sight/",
-        "date": "2026-07-27",
-        "is_translated": true
-      },
-      {
-        "title": "【Dragon Age: Thedas at War は、BioWare RPG にインスピレー...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Dragon Age: Thedas at War は、BioWare RPG にインスピレーションを得た作品であり、そのレビュー記事では、ゲームの評価ポイントとして、ストーリーの深みやキャラクターの魅力が高く評価されています。また、レビューの内容概要として、ゲームの世界観やゲームプレイの自由度が高く評価されており、ファンタジーRPGファンやBioWareのファンにとっては必読の記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/dragon-age-thedas-at-war-is-a-bioware-rpg-inspired-crusader-kings-3-total-conversion-mod-thats-here-to-keep-the-series-alive-while-it-sits-in-ea-limbo",
-        "date": "2026-07-27",
-        "is_translated": true
-      },
-      {
-        "title": "【「なぜクラッシュファルトを選んだのか分からない」: 忘れ去られていたSteamゲームが、プレイ...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、Steamで忘れ去られていたゲーム「クラッシュファルト」の魅力を紹介しています。評価ポイントとしては、ゲームの独自性や面白さが高く評価されています。記事では、ゲームの内容やシステムについて詳細に説明しています。また、ゲームのグラフィックやサウンドトラックも高く評価されています。この記事は、インディーゲームやアクションゲームが好きな人が対象で。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/i-dunno-why-they-chose-crashphalt-forgotten-steam-game-suddenly-becomes-a-hit-after-players-start-using-it-for-undertale-online-multiplayer",
-        "date": "2026-07-27",
-        "is_translated": true
-      },
-      {
-        "title": "【Framework 13 Pro レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Framework 13 Pro レビューでは、ゲームの評価ポイントとして、グラフィックのクオリティ、サウンドデザイン、そしてプレイヤビリティが高く評価されています。レビューの内容概要としては、グラフィックの美しさやサウンドの臨場感が高く、プレイヤーに没入感を与えることができる点が強調されています。また、操作性の良さやストーリーの面白さも評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-laptops/framework-13-pro-review/",
-        "date": "2026-07-27",
-        "is_translated": true
-      },
-      {
         "title": "【『モンスターハンターワイルズ』新アプデと共に「序盤体験版」配信へ、セーブデータ引き継ぎ可能。さ...：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -822,19 +583,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/07169030.html",
         "date": "2026-07-28",
-        "is_translated": false
-      },
-      {
-        "title": "【複数の次元から集まったサムたちが戦うCo-opローグライトシューター「Serious Sam:...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Serious Sam: Tormental」は、複数の次元から集まったサムたちが戦うCo-opローグライトシューターです。このゲームの評価ポイントとしては、快適な協力プレイ、豊富なキャラクターとアイテムの種類、簡単ながらも楽しいゲーム性が挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドデザインの高さ、そして難易度の調整の良さが評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07169023.html",
-        "date": "2026-07-27",
         "is_translated": false
       },
       {
@@ -1252,8 +1000,34 @@
         "url": "https://doope.jp/2026/07169197.html",
         "date": "2026-07-31",
         "is_translated": false
+      },
+      {
+        "title": "【「FGO Fes. 2026」開幕！11周年のテーマは「学園祭」、公式コスプレイヤーと着ぐるみ...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "「FGO Fes. 2026」開幕のレビュー記事では、11周年のテーマ「学園祭」に合わせた公式コスプレイヤーや着ぐるみが出演したことを評価ポイントとして挙げています。さらに、イベントの内容や出演者のパフォーマンスについても触れています。ゲームファンやイベント参加者向けの記事で、イベントの雰囲気や出演者の魅力を伝える内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/08/01/185534.html",
+        "date": "2026-08-01",
+        "is_translated": false
+      },
+      {
+        "title": "【Palworld 1.0 レビュー: 軽度のアイデンティティ危機を抱える堅実なクリーチャーコレクター】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "「Palworld 1.0 レビュー: 軽度のアイデンティティ危機を抱える堅実なクリーチャーコレクター」というレビュー記事では、ゲームの評価ポイントとして、クリーチャー収集システムの堅実さやグラフィックの美しさが挙げられています。また、ゲームのストーリーやキャラクターの魅力についても触れています。このレビューは、クリーチャーコレクションゲームのファンや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/palworld-review/",
+        "date": "2026-08-01",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-07-31T22:05:20.006548"
+  "last_updated": "2026-08-01T02:37:34.206433"
 }
