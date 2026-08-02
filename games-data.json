@@ -532,6 +532,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/vampire-the-masquerade-bloodlines-2/info/",
         "date": "2026-08-01"
+      },
+      {
+        "title": "OTXO",
+        "platform": "Various",
+        "type": "sale",
+        "description": "OTXOはパズルゲームであり、ユニークなグラフィックと面白いゲーム性が特徴です。現在、Variousで-100%セール中ということで、完全無料でプレイすることができます。ユーザーの評価は非常に高く、人気度も高いゲームですので、無料でプレイできるこの機会に是非お試しください。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/otxo/info/",
+        "date": "2026-08-02"
       }
     ],
     "review": [
@@ -1005,5 +1017,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-02T10:39:58.099419"
+  "last_updated": "2026-08-02T13:41:03.441136"
 }
