@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Summer Games Done Quick 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Summer Games Done Quick 2026のバンドルが現在販売中です。このバンドルには、主要タイトルとして「Cuphead」や「Hollow Knight」などのインディーゲームが含まれています。アクションゲームやプラットフォーマーを中心としたジャンルが特徴的です。大まかな価格帯は10ドルから30ドル程度と幅広い選択肢があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/summergamesdonequick2026_bundle",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Horror Station Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Horror Station Bundleが販売中です。このバンドルには、Amnesia: Rebirth、SOMA、Outlastなどの人気ホラータイトルが含まれています。ホラーゲームファンには必見のバンドルで、数千円程度で購入できます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/horror-station-bundle",
-        "date": "2026-07-23"
-      },
-      {
         "title": "Idlers and Desktop Companions",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,54 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "DayZ",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サバイバルゲームのDayZがSteamで50%オフのセール中です。このゲームは、ゾンビが跋扈する世界で生き残ることを目指す、オープンワールドのサバイバルアクションゲームで、プレイヤーは食料や水、武器を集めながら、他の生存者との戦いを繰り広げます。高い評価と人気度を誇り、ゲームコミュニティでよく知られています。",
-        "price": "¥3,100",
-        "originalPrice": "¥6,200",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/221100",
-        "date": "2026-07-26"
-      },
-      {
-        "title": "Dead Cells",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲームの『Dead Cells』が現在、Variousで48%割引されています。ローグライク要素を取り入れたこのゲームは、難しいがやり込み要素の高い内容で人気を博しています。多くのユーザーから高評価を得ており、価格を割引された今が入手するチャンスです。",
-        "price": "$12.40",
-        "originalPrice": "",
-        "discount": "-48%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dead-cells/info/",
-        "date": "2026-07-26"
-      },
-      {
-        "title": "The Alters",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Altersは、ロールプレイングゲームで、現在Variousで61%割引されています。このゲームは、ユニークなストーリーと深いキャラクターシステムで評価されており、ユーザーからの人気度も高いです。セール中なので、ロールプレイングゲームファンにはお勧めのタイトルです。",
-        "price": "$13.62",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-alters/info/",
-        "date": "2026-07-26"
-      },
-      {
-        "title": "ICARUS サバイブイカルス",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ICARUS サバイブイカルスがSteamで80% OFFセール中です。このゲームはサバイバルアクションジャンルに属し、独自のグラフィックや広大なマップが特徴です。現在の価格は大幅に割引されており、非常に魅力的な価格帯になっています。ユーザーの評価は総じて高く、人気度も高いゲームとなっています。特にサバイバルゲームファンにはおすすめです。",
-        "price": "¥780",
-        "originalPrice": "¥3,900",
-        "discount": "80% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1149460",
-        "date": "2026-07-26"
-      },
       {
         "title": "METAL GEAR SOLID Δ: SNAKE EATER",
         "platform": "Steam",
@@ -595,149 +523,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【『モンスターハンターワイルズ』新アプデと共に「序盤体験版」配信へ、セーブデータ引き継ぎ可能。さ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "モンスターハンターワイルズの新しいアップデートとともに、序盤体験版が配信されました。この体験版では、ゲームの序盤部分をプレイすることができ、セーブデータも引き継ぎが可能です。レビュー記事では、このゲームの評価ポイントとして、壮大な世界観、多彩なモンスター、そして自由度の高いハンティングスタイルが紹介されています。また、ゲームのグラフィックやサウンドトラックも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260728-456935/",
-        "date": "2026-07-28",
-        "is_translated": false
-      },
-      {
-        "title": "【「The Elder Scrolls III: Morrowind」がWebブラウザ上でプレイ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「The Elder Scrolls III: Morrowind」は、Webブラウザ上でプレイできるようになりました。このゲームは、豊富なストーリーや自由度の高いゲームプレイが特徴です。レビューの評価ポイントとしては、グラフィックやサウンドの質の高さ、そしてプレイヤーの選択によって変化するストーリーの深さが挙げられます。また、ゲームの難易度がやや高いため、経験豊富なプレイヤー向けのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07169030.html",
-        "date": "2026-07-28",
-        "is_translated": false
-      },
-      {
-        "title": "【『モンハンワイルズ』大型DLC「アセンダンス」で気になるプレイヤーに朗報！データ引継ぎ対応の「...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "モンハンワイルズの大型DLC「アセンダンス」が発売されました。このDLCでは、新しいストーリーやキャラクター、ゲームシステムなどが追加されており、シリーズのファンには必見の内容です。特に、データ引継ぎが可能な点が評価されています。ゲーマー向けのレビュー記事では、アセンダンスの新要素やグラフィックの向上などが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/07/28/185269.html",
-        "date": "2026-07-28",
-        "is_translated": false
-      },
-      {
-        "title": "【物理演算“宇宙闇鍋”ローグライク『キニーと名状しがたいおでん屋』さっそく高評価ラッシュ。ブチ込...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ローグライクゲーム「キニーと名状しがたいおでん屋」は、物理演算を取り入れた「宇宙闇鍋」が特徴です。このゲームはさっそく高評価を集めています。評価ポイントとしては、独自のゲームシステムや面白いストーリー、そして自由度の高い物理演算が挙げられます。レビューの内容概要としては、ユニークなゲーム性や楽しさ、そして難易度の高さが言及されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260728-457002/",
-        "date": "2026-07-28",
-        "is_translated": false
-      },
-      {
-        "title": "【“音楽違法世界”リズムゲーム『UNBEATABLE』待望の日本語対応、まずはPC版から。パンク...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "今回紹介するのは、音楽違法世界を舞台にしたリズムゲーム『UNBEATABLE』のレビュー記事です。このゲームはパンク音楽を中心に、ユニークな世界観と難易度の高いリズムゲームプレイが特徴です。まずはPC版から日本語対応が開始され、音楽ゲームファンやパンク音楽好きの方に楽しみを提供しています。ゲームの評価ポイントとしては、独自の世界観、リズムゲームとしての完成度、音楽の質が高い点があります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260728-456970/",
-        "date": "2026-07-28",
-        "is_translated": false
-      },
-      {
-        "title": "【Alienware 34 AW3426DW レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Alienware 34 AW3426DW レビューでは、モニターの性能と機能を評価しています。モニターの解像度やリフレッシュレート、レスポンス時間などの技術的な面を検討し、ゲーミングの実際の使用感やコストパフォーマンスも考えています。さらに、モニターのデザインや接続性も評価しています。このレビュー記事は、ゲーミングモニターを購入を検討している方や。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-34-aw3426dw-review/",
-        "date": "2026-07-28",
-        "is_translated": true
-      },
-      {
-        "title": "【『スパイダーマン：ブラン・ニュー・デイ』レビュー：サム・ライミ監督の『スパイダーマン2』以来最...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "スパイダーマン：ブラン・ニュー・デイは、サム・ライミ監督のスパイダーマン2以来の最高のスパイダーマン映画です。このレビュー記事では、ゲームの評価ポイントとしてストーリーの魅力やキャラクターの深みを取り上げています。また、グラフィックやサウンドトラックの質も高く評価されています。ゲームファンやスパイダーマンシリーズの愛好者にとって、是非読むべき記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/spider-man-brand-new-day-review/",
-        "date": "2026-07-28",
-        "is_translated": true
-      },
-      {
-        "title": "【ブラッドハウンドの刷新やワールズエッジの更新を含む「Apex Legends: Marked」...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Apex Legendsの最新アップデート「Apex Legends: Marked」についてのレビュー記事です。このアップデートではブラッドハウンドの刷新やワールズエッジの更新が行われており、ゲームのバランスが大幅に変わっています。レビューでは、新しいレジェンドやマップの変更点について評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07169082.html",
-        "date": "2026-07-28",
-        "is_translated": false
-      },
-      {
-        "title": "【ファンタジーローグライトFPS「Guns & Dragons」がアナウンス、プレイテストの参加受付も】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Guns & Dragons」はファンタジーローグライトFPSの新作ゲームです。このゲームはユニークな世界観とスピーディなアクションが特徴で、プレイヤーはドラゴンと戦うために様々な武器を駆使します。ゲームの評価ポイントとしては、グラフィックの質とサウンドトラックの印象的な演出が挙げられます。また、レビューではゲームの難易度調整とプレイヤーの自由度も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07169033.html",
-        "date": "2026-07-28",
-        "is_translated": false
-      },
-      {
-        "title": "【伝説的なアーティストViktor Antonov氏の遺作となるソウルライクFPS「Guns o...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "伝説的なアーティストViktor Antonov氏の遺作となるソウルライクFPS「Guns of Boom」のレビュー記事です。このゲームは、ハイクオリティなグラフィックと緊張感のあるゲームプレイが特徴です。レビューの内容としては、ゲームのグラフィックやサウンド、そして難易度の調整などが評価ポイントとなっています。特に、グラフィックの美しさや、サウンドの臨場感が高いと評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07169026.html",
-        "date": "2026-07-28",
-        "is_translated": false
-      },
-      {
-        "title": "【『バットマン: ケープド・クルセイダー』シーズン 2 レビュー: 完璧なジョーカーでもこのショ...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "『バットマン: ケープド・クルセイダー』シーズン2のレビュー記事では、ゲームの評価ポイントとしてジョーカーのキャラクター性やストーリーの深み、ゲームプレイの面白さを挙げています。レビューの内容概要としては、ジョーカーが完璧に再現されていること、ストーリーが複雑で深みがあること、ゲームプレイが変化に富んでいて飽きないことなどが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/batman-caped-crusader-season-2-review/",
-        "date": "2026-07-28",
-        "is_translated": true
-      },
       {
         "title": "【「プレイ人数無制限」ファンタジーお片付けゲーム『Tidy Up Together』8月14日配...】",
         "platform": "AUTOMATON",
@@ -1130,5 +915,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-01T21:55:06.767822"
+  "last_updated": "2026-08-02T02:36:05.362134"
 }
