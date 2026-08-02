@@ -544,6 +544,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/otxo/info/",
         "date": "2026-08-02"
+      },
+      {
+        "title": "Palworld",
+        "platform": "Various",
+        "type": "sale",
+        "description": "PalworldがVariousで30%割引でのセール中です。このゲームは、幻想的な世界を舞台に繰り広げられるアドベンチャーゲームで、ユニークなキャラクターと壮大なストーリーが特徴です。現在の価格は割引前の価格より30%オフになっており、非常にお得です。評価も高く、プレイヤーから人気を博しており、ゲームファンからは高い評価を得ています。",
+        "price": "$20.99",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/palworld/info/",
+        "date": "2026-08-02"
       }
     ],
     "review": [
@@ -1017,5 +1029,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-02T13:41:03.441136"
+  "last_updated": "2026-08-02T21:55:43.750261"
 }
