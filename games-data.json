@@ -532,6 +532,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/risk-of-rain-2/info/",
         "date": "2026-08-03"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Strayは、アクションアドベンチャーゲームで、猫の視点から世界を探索する独特の体験が特徴です。このゲームは現在、Variousで60%割引のセール中で、多くのユーザーから高評価を受けています。人気度も高く、ゲームファンから注目を集めています。",
+        "price": "$12.14",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Borderlands 4",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Borderlands 4は、ファーストパーソン・シューティングゲームのシリーズで知られ、オープンワールドのアクションとユニークなキャラクターが特徴です。現在、Variousで57%の割引セール中で、ファン待望の最新作が手頃な価格で楽しめます。シリーズ全体が高い評価を受けており、ゲームコミュニティでは人気度も高いと言えるでしょう。",
+        "price": "$30.09",
+        "originalPrice": "",
+        "discount": "-57%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/borderlands-4/info/",
+        "date": "2026-08-03"
       }
     ],
     "review": [
@@ -963,8 +987,21 @@
         "url": "https://www.polygon.com/big-walk-review/",
         "date": "2026-08-03",
         "is_translated": true
+      },
+      {
+        "title": "【AMD graphics card price hikes are reportedly fo...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、AMDグラフィックカードの価格上昇について述べた内容です。記事では、価格上昇の理由や影響について分析し、ユーザーへの影響を評価しています。また、グラフィックカードの性能や価格のバランスについても触れています。ゲーム愛好家やグラフィックカードを購入検討中の方にとって、参考になる情報が得られます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/amd-graphics-card-price-hikes-are-reportedly-following-nvidias-as-the-ai-fuelled-ram-shortage-continues-to-set-wallets-alight",
+        "date": "2026-08-03",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-03T14:52:28.703482"
+  "last_updated": "2026-08-03T22:08:47.720806"
 }
