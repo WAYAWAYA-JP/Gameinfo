@@ -520,6 +520,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-08-03"
+      },
+      {
+        "title": "Risk of Rain 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションパッケージゲームであるRisk of Rain 2が、現在Variousで72%OFFのセール中です。このゲームは、ランダムな要素を多数含み、プレイヤーはさまざまなキャラクターを操作して、難易度の高いステージを攻略します。非常に高い評価と人気を誇るこのゲームは、通常よりも大幅に安い価格で手に入れることができますので、おすすみです。",
+        "price": "$7.10",
+        "originalPrice": "",
+        "discount": "-72%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/risk-of-rain-2/info/",
+        "date": "2026-08-03"
       }
     ],
     "review": [
@@ -899,8 +911,60 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-once-positioned-as-mainstream-friendly-pc-gaming-solutions-can-valves-hardware-survive-the-memory-crisis/",
         "date": "2026-08-03",
         "is_translated": true
+      },
+      {
+        "title": "【水中のポケモンってこんなに可愛いの!?　『ぽこ あ ぽけもん エキスパンションパス』で見つけた...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、ゲーム『ぽこ あ ぽけもん エキスパンションパス』について紹介しています。水中のポケモンが非常に可愛らしいことが特徴的です。ゲームの評価ポイントとしては、グラフィックの美しさや新しいポケモンの登場などが挙げられます。レビューの内容概要としては、水中のポケモンの魅力や新しいゲームモードの楽しさなどが紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/08/03/185686.html",
+        "date": "2026-08-03",
+        "is_translated": false
+      },
+      {
+        "title": "【Razer Blade 16 (2026) レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Razer Blade 16 (2026) レビューでは、最新のゲーミングノートパソコンのパフォーマンスやデザインが評価されています。このレビューでは、ノートパソコンのプロセッサやグラフィックカードの性能、バッテリーの持続時間などが詳しく紹介されています。ゲーミングノートパソコンを購入することを検討している方や、最新の技術に興味がある方にはおすすめの記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-laptops/razer-blade-16-2026-review/",
+        "date": "2026-08-03",
+        "is_translated": true
+      },
+      {
+        "title": "【AIを活用したRAM不足で財布が逼迫し続けているため、AMDグラフィックスカードの価格もNvi...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事では、AIを活用したゲームのRAM不足による高コスト問題と、AMDグラフィックスカードの価格の高騰について論じています。記事では、グラフィックスカードの性能と価格の関係、ゲームのプレイ性への影響、またコスト削減策などについて評価しています。グラフィックスカードやゲームの購入を検討している方、またPCのスペックを高めるために情報を集めている方にとって、参考になる記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/amd-graphics-card-price-hikes-are-reportedly-following-nvidias-as-the-ai-fuelled-ram-shortage-continues-to-set-wallets-alight",
+        "date": "2026-08-03",
+        "is_translated": true
+      },
+      {
+        "title": "【Big Walk レビュー: 2026 年の最高のマルチプレイヤー ゲームが私たち全員をテストした】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Big Walk レビュー記事では、2026 年の最高のマルチプレイヤー ゲームとして、プレイヤーの協力と対戦を重視したゲームの評価ポイントが紹介されています。記事では、ゲームのグラフィックやサウンドデザイン、そしてマルチプレイヤー モードの充実度などが評価されており、ゲーム ファンのための貴重な情報を提供しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/big-walk-review/",
+        "date": "2026-08-03",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-03T12:21:17.532856"
+  "last_updated": "2026-08-03T14:52:28.703482"
 }
