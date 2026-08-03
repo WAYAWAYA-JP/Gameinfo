@@ -218,6 +218,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/horror-station-bundle",
         "date": "2026-08-02"
+      },
+      {
+        "title": "Idlers and Desktop Companions",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Idlers and Desktop Companionsというバンドルが販売中です。このバンドルには、Adorable Crush、Idle Champions of the Forgotten Realms、Egg Inc.などのタイトルが含まれています。ジャンルは、アイドルゲームやシミュレーションゲームなどが中心です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/idlersanddesktopcompanions_bundle",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Animal Style Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Animal Style Bundleのバンドルが現在販売中です。このバンドルには、主要タイトルとして「Super Animal Royale」や「Bear and Breakfast」、「Unbearable」などが含まれており、ジャンルはアクションアドベンチャーやシミュレーションなど多様なものが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/animalstylebundle_bundle",
+        "date": "2026-08-03"
       }
     ],
     "sale": [
@@ -460,6 +484,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/palworld/info/",
         "date": "2026-08-02"
+      },
+      {
+        "title": "サイバーパンク2077",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サイバーパンク2077がSteamで70%の割引セール中です。このゲームはサイバーパンクをテーマにしたオープンワールドRPGで、未来的な世界を自由に探索できることが特徴です。ストーリーやキャラクター造形にも定評があり、高い評価を得ています。現在の価格は大幅に割引されており、人気ゲームを安く体験することができます。",
+        "price": "¥2,633",
+        "originalPrice": "¥8,778",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1091500",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Sid Meier’s Civilization® VI",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Sid Meier’s Civilization VIがSteamで90% OFFセール中です。このゲームは、ターン制ストラテジーとして知られる人気ゲームの1つで、プレイヤーは文明を築き上げ、技術を進歩させ、戦略的な戦闘を繰り広げます。評価は非常に高く、Steamでのユーザーレビューは「非常に好評」となっています。",
+        "price": "¥700",
+        "originalPrice": "¥7,000",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/289070",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "No Man's SkyがVariousで67%オフのセール中です。このゲームは、サンドボックスとアドベンチャー要素を組み合わせた、宇宙を探索するオープンワールドゲームです。プレイヤーは、さまざまな惑星を訪れて資源を集め、宇宙船をカスタマイズし、異星人の生命体と遭遇することができます。評価は geralmente が高いですが、価格は通常は高めですが、今回のセールでは非常に安くなりますので。",
+        "price": "$19.95",
+        "originalPrice": "",
+        "discount": "-67%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-08-03"
       }
     ],
     "review": [
@@ -813,8 +873,34 @@
         "url": "https://www.inside-games.jp/article/2026/08/02/185604.html",
         "date": "2026-08-02",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料RPG『幻想水滸伝 STAR LEAP』8月7日配信へ。『幻想水滸伝』シリーズ最...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『幻想水滸伝 STAR LEAP』は、基本プレイ無料のRPGゲームです。このゲームは『幻想水滸伝』シリーズの最新作であり、8月7日より配信が開始されます。レビューでは、ゲームの評価ポイントとして、魅力的なストーリーや美しいグラフィック、自由度の高いキャラクター作成が挙げられています。また、シリーズのファン向けに新しい要素も多数追加されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260803-458097/",
+        "date": "2026-08-03",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam 週間の振り返り: かつて主流に優しい PC ゲーム ソリューションとして位置づけら...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Steam 週間の振り返りレビュー記事では、かつて主流に優しい PC ゲーム ソリューションとして位置付けられていたゲームの現在の評価ポイントを紹介しています。レビューの内容概要としては、ゲームのグラフィックの質、ゲームプレイの面白さ、ストーリーの深さなどが評価されています。特に、グラフィックの向上や新しい機能の追加により、よりリアルなゲーム体験が可能になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-once-positioned-as-mainstream-friendly-pc-gaming-solutions-can-valves-hardware-survive-the-memory-crisis/",
+        "date": "2026-08-03",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-03T02:38:05.532317"
+  "last_updated": "2026-08-03T12:21:17.532856"
 }
