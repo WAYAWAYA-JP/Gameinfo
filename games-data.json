@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Idlers and Desktop Companions",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Idlers and Desktop Companionsというバンドルが現在販売中です。このバンドルには、Adorables、Egg Inc.、Idle Champions of the Forgotten Realmsなどのタイトルが含まれています。ジャンルは、アイドルゲームやシミュレーションゲームが中心です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/idlersanddesktopcompanions_bundle",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Animal Style Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Animal Style Bundleというバンドルが現在販売中です。このバンドルには、主にアクションとアドベンチャーを中心としたゲームが収録されており、代表的なタイトルとしては「Okami HD」や「Devil May Cry HD Collection」などがあります。ジャンルはアクションアドベンチャーが中心で、大まかな価格帯は10〜20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/animalstylebundle_bundle",
-        "date": "2026-07-24"
-      },
-      {
         "title": "Humble Handhelds Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,78 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "METAL GEAR SOLID Δ: SNAKE EATER",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "METAL GEAR SOLID Δ: SNAKE EATERがSteamで60%の割引を受けて販売中であり、通常の価格よりも大幅に安くなっています。このゲームはステルスアクションジャンルの代表的な作品であり、スネークというキャラクターを操作してミッションを遂行する内容です。高評価を得ているこのゲームは、ステルスアクションファンに人気があり、ストーリーやゲームプレイも高く評価されています。",
-        "price": "¥3,432",
-        "originalPrice": "¥8,580",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2417610",
-        "date": "2026-07-27"
-      },
-      {
-        "title": "No Man's Sky",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "No Man's SkyがSteamで60%オフのセール中です。このゲームは、オープンワールドのサンドボックスジャンルに属し、宇宙を自由に探索できる特徴があります。通常価格よりも大幅に安くなっているので、興味がある方はおすすめです。また、このゲームはSteamでの評価が「非常に好評」で人気度も高く、多くのユーザーから高い評価を得ています。",
-        "price": "¥2,600",
-        "originalPrice": "¥6,500",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/275850",
-        "date": "2026-07-27"
-      },
-      {
-        "title": "Ghost of Tsushima DIRECTOR'S CUT",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームの「Ghost of Tsushima DIRECTOR'S CUT」が、現在42%割引でのセール中です。このゲームは、美しい日本の風景とスリリングな戦闘シーンが特徴で、プレイヤーは侍となり、日本を侵略する敵と戦います。高い評価と人気度を誇り、多くのゲーマーから支持されています。",
-        "price": "$34.99",
-        "originalPrice": "",
-        "discount": "-42%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
-        "date": "2026-07-27"
-      },
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームのStrayが、Variousで61%割引のセール中です。このゲームは猫の視点から都市を探索するユニークな体験が特徴で、グラフィックやサウンドトラックも高く評価されています。ユーザーの評価も非常に良く、人気度は高いので、セール期間中に購入することがおすすめです。",
-        "price": "$11.65",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-07-27"
-      },
-      {
-        "title": "サイバーパンク2077",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サイバーパンク2077は、オープンワールドRPGとして知られており、未来的な世界を舞台にプレイヤーが自由に冒険できるゲームです。このゲームは、高度なグラフィックと豊富なストーリーで人気を博しており、多くのプレイヤーから高評価を得ています。現在、Steamで70%の割引セール中であり、通常価格よりも大幅に安くなっています。",
-        "price": "¥2,633",
-        "originalPrice": "¥8,778",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1091500",
-        "date": "2026-07-27"
-      },
-      {
-        "title": "LEGO® Star Wars™: The Skywalker Saga",
-        "platform": "Various",
-        "type": "sale",
-        "description": "LEGO® Star Wars™: The Skywalker Sagaがバラエティー店舗で82%割引されていることを知ったので、紹介します。このゲームはアクションアドベンチャージャンルで、スター・ウォーズの世界をLEGOにしたユニークなゲームです。現在、通常価格より82%割引されており、非常に魅力的です。",
-        "price": "$8.88",
-        "originalPrice": "",
-        "discount": "-82%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/lego-star-wars-the-skywalker-saga/info/",
-        "date": "2026-07-27"
-      },
       {
         "title": "Street Fighter 6",
         "platform": "Steam",
@@ -559,123 +463,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【「プレイ人数無制限」ファンタジーお片付けゲーム『Tidy Up Together』8月14日配...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「Tidy Up Together」は、プレイ人数に制限のないファンタジー系のお片付けゲームで、8月14日に配信が開始される予定です。このゲームは、協力プレイによるお片付けを楽しむことができます。評価ポイントとしては、ユニークなゲーム性やカラフルなグラフィックが挙げられます。レビューの内容としては、ゲームのアトモスフィアやサウンドトラックの評価が重要なポイントとなります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260729-457123/",
-        "date": "2026-07-29",
-        "is_translated": false
-      },
-      {
-        "title": "【美少女精神崩壊デッキ構築ローグライク『カオスゼロナイトメア』に、新レンジャー「ヒルデ」発表。“...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「カオスゼロナイトメア」は美少女が精神崩壊するデッキ構築ローグライクゲームです。このゲームは、複数のキャラクターを操作してダンジョンを攻略する内容で、戦略的なデッキ構築が重要になっています。新たに発表されたレンジャー「ヒルデ」は、長距離攻撃が得意なキャラクターです。このゲームの評価ポイントとしては、複数のキャラクターをうまく使い分けることや、デッキを効率的に構築する能力が重要です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260729-457109/",
-        "date": "2026-07-29",
-        "is_translated": false
-      },
-      {
-        "title": "【サムライとなった英国人航海士の物語を描く新作ターンベースRPG「Expeditions: Sa...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Expeditions: Samurai」のレビュー記事では、このターンベースRPGがサムライとなった英国人航海士の物語を描く新作ゲームであると紹介しています。このゲームは、戦略的な戦闘システムやキャラクターの成長システムが評価ポイントとなっています。レビューでは、ゲームのストーリーやグラフィックも高く評価されており。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07169087.html",
-        "date": "2026-07-29",
-        "is_translated": false
-      },
-      {
-        "title": "【「ダイイングライト2」や「Big Walk」を含む2026年8月分のPS Plusフリープレイ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "2026年8月分のPS Plusフリープレイについてのレビュー記事です。このレビューでは、「ダイイングライト2」や「Big Walk」を含むフリープレイのゲームの評価ポイントを紹介します。具体的には、ゲームのストーリーやグラフィックの質、プレイ性について評価しています。PS Plusのユーザーやゲームファン向けの記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07169103.html",
-        "date": "2026-07-29",
-        "is_translated": false
-      },
-      {
-        "title": "【Silent Hill Townfall プレビュー: すでに 2026 年で最も恐ろしいゲー...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Silent Hill Townfall のプレビュー記事では、すでに2026年の最も恐ろしいゲームとして評価されています。このゲームは、恐怖要素に重点を置いており、プレイヤーを不安にさせるような雰囲気を醸し出しています。ゲームの評価ポイントとしては、恐怖要素の高さやグラフィックの質の高さが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/silent-hill-townfall-preview-demo/",
-        "date": "2026-07-29",
-        "is_translated": true
-      },
-      {
-        "title": "【『The Devil's Mouth』レビュー: Prime Video のキラーサメ映画は予...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Prime Video のキラーサメ映画「The Devil's Mouth」のレビュー記事では、映画の評価ポイントとして、スリルのあるストーリーやキャラクターの深みがあげられます。また、レビューでは、映画の弱点として、予測性の高い展開や、キャラクターの発達不足が指摘されています。このレビューは、ホラー映画やサメ映画のファンにとって、映画の内容を理解するのに役立つでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/devils-mouth-movie-review-amazon-shark-horror/",
-        "date": "2026-07-29",
-        "is_translated": true
-      },
-      {
-        "title": "【Cooler Master V8 Ace 3DHP レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Cooler Master V8 Ace 3DHP レビューでは、この高性能PCケースの評価ポイントとして、優れた冷却性と静かな運転音、そして洗練されたデザインが紹介されています。また、レビューの内容概要としては、ケースの組み立てやすさと内部の広さ、さらに高品質な材料の使用がポイントになっています。このレビューは、ゲーム愛好家やPCエンジニア向けに。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/cooling/cooler-master-v8-ace-3dhp-review/",
-        "date": "2026-07-29",
-        "is_translated": true
-      },
-      {
-        "title": "【サイバーパンクアクションRPG「The Ascent」の発売5周年を祝う最新アップデートがアナ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "サイバーパンクアクションRPG「The Ascent」の発売5周年を記念した最新アップデートがリリースされました。このゲームは、ダークなサイバーパンク世界を舞台に、アクションとRPGの要素を融合させた独自のゲーム性を提供します。評価ポイントとしては、グラフィックの高品質さ、ストーリーの深み、自由度の高いキャラクターカスタマイズが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07169088.html",
-        "date": "2026-07-29",
-        "is_translated": false
-      },
-      {
-        "title": "【人気“クトゥルフ”ホラー続編「The Sinking City 2」の本格的なゲームプレイ映像...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "人気ホラー続編「The Sinking City 2」のゲームプレイ映像のレビュー記事では、グラフィックの鮮やかさ、ストーリーの深み、サウンドデザインの効果的な使用が評価ポイントとして挙げられています。このゲームは、クトゥルフホラーのファンや、サスペンスと恐怖を求めるゲーマーにとって必見の作品です。ゲームの雰囲気を高めてくれるサウンドトラックや、キャラクターの心理描写も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07169085.html",
-        "date": "2026-07-29",
-        "is_translated": false
-      },
       {
         "title": "【「Warhammer 40,000: Dawn of War IV」のネクロン勢力に焦点を当て...：レビュー】",
         "platform": "doope!",
@@ -1029,5 +816,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-02T21:55:43.750261"
+  "last_updated": "2026-08-03T02:38:05.532317"
 }
