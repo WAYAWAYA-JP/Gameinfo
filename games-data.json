@@ -40,54 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Humble Handhelds Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Handhelds BundleというバンドルがHumble Bundleで販売中です。このバンドルには、Undertale、A Short Hike、West of Loathingなどの主要タイトルが含まれています。ジャンルはアクション、ロールプレイングゲーム、インディーゲームなど多様なものが含まれており、大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/handheldsbundle_bundle",
-        "date": "2026-07-25"
-      },
-      {
-        "title": "Liminal Spaces",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Liminal Spacesのバンドルが現在販売中です。このバンドルには、主要タイトルとして「The Pathless」や「The Under Presents」、「What Remains of Edith Finch」などが含まれています。ジャンルはアドベンチャーやパズルゲームが中心です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/liminalspaces_bundle",
-        "date": "2026-07-25"
-      },
-      {
-        "title": "Pixel Traditions 3 Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Pixel Traditions 3 Bundleは、IndieGalaで現在販売中です。このバンドルには、A Short HikeやForager、Stardew Valleyなどの主要タイトルが含まれています。ジャンルは、インディーゲームやシミュレーションゲームが中心です。大まかな価格帯は10ドルから20ドル程度で、150〜200作品以上が収録されたバンドルのため。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/pixel-traditions3-bundle",
-        "date": "2026-07-25"
-      },
-      {
-        "title": "Twist & Tangle Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Twist & Tangle Bundleというバンドルが販売中です。このバンドルには、The Pathless、The Almost Gone、The Swapperなどのタイトルが含まれており、パズルやアドベンチャーなどのジャンルを楽しむことができます。大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
-        "date": "2026-07-25"
-      },
-      {
         "title": "2K Megahits 2026 Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,42 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Street Fighter 6",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "人気格闘ゲーム「Street Fighter 6」がSteamで50%オフのセール中です。このゲームは、複雑なコンボや対戦モードなど、格闘ゲームファンに人気の特徴を多く備えています。現在の価格は割引前の半額となり、非常に魅力的なオファーです。高い評価と人気度を誇るこのゲームを、この機会にチェックしてみてはいかがでしょうか。",
-        "price": "¥2,495",
-        "originalPrice": "¥4,990",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1364780",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33は、 Various で 25% オフ のセール中です。このゲームは、ユニークなグラフィックと興味深いストーリーを特徴としています。ユーザーからの評価は非常に高く、多くのプレーヤーから人気を博しています。セール中の価格で入手することをお勧めします。",
-        "price": "$37.49",
-        "originalPrice": "",
-        "discount": "-25%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Nioh: Complete Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームであるNioh: Complete Editionが、現在89%割引でのセール中です。このゲームは、ダークファンタジーの世界を舞台に、さまざまな敵と戦いながら進めていく、ハードコアなゲームプレイが特徴です。非常に高い評価と人気度を誇り、多くのゲーマーから支持されています。",
-        "price": "$6.48",
-        "originalPrice": "",
-        "discount": "-89%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/nioh-complete-edition/info/",
-        "date": "2026-07-28"
-      },
       {
         "title": "Rust",
         "platform": "Steam",
@@ -556,100 +472,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/borderlands-4/info/",
         "date": "2026-08-03"
+      },
+      {
+        "title": "Resident Evil 4 (2023)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Resident Evil 4は、2023年にリリースされたサバイバルホラー系のゲームで、現在Variousで78%お得なセール中です。このゲームは、ホラー要素とアクションが融合した緊張感漂うゲームプレイが特徴で、グラフィックやサウンドデザインも高く評価されています。多くのゲームファンから高い評価を受けており、非常に人気のあるゲームです。",
+        "price": "$8.79",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
+        "date": "2026-08-04"
       }
     ],
     "review": [
-      {
-        "title": "【「Warhammer 40,000: Dawn of War IV」のネクロン勢力に焦点を当て...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Warhammer 40,000: Dawn of War IVのレビュー記事では、特にネクロン勢力に焦点を当てた評価が行われています。このゲームの評価ポイントとしては、戦略的な戦闘システムや、さまざまな勢力のユニークな能力が挙げられます。レビューの内容概要としては、ゲームのグラフィックやサウンドデザインの高さ、そしてマルチプレイヤーモードの充実度が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07169090.html",
-        "date": "2026-07-30",
-        "is_translated": false
-      },
-      {
-        "title": "【最大3人協力PvPvE脱出ソウルライク『Mistfall Hunter』さっそく人気爆発も、「...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Mistfall Hunterは、最大3人協力のPvPvE脱出ソウルライクゲームです。レビュー記事では、このゲームの評価ポイントとして、激しい戦闘シーンや協力プレイの楽しさが紹介されています。また、グラフィックやサウンドトラックの質も高く評価されています。対象読者は、アクションゲームやソウルライクゲームのファンである人です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260730-457453/",
-        "date": "2026-07-30",
-        "is_translated": false
-      },
-      {
-        "title": "【“死刑囚の食事”料理シム『最後の食事を』発表。希望通りにちゃんと作るか、それとも「タバコの吸い...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「死刑囚の食事」料理シム『最後の食事を』のレビュー記事では、このゲームの評価ポイントとして、プレイヤーの選択によって食事の出来上がりが変化する点や、ユニークなゲームコンセプトが挙げられています。また、レビューでは、プレイヤーが死刑囚の希望通りに食事を作るか、またはそれを無視してタバコの吸い方を教えることのできる自由度が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260730-457411/",
-        "date": "2026-07-30",
-        "is_translated": false
-      },
-      {
-        "title": "【「JDM：ジャパニーズドリフトマスター」にサイドストーリーキャンペーンやマルチプレイイベントを...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「JDM：ジャパニーズドリフトマスター」は、サイドストーリーキャンペーンやマルチプレイイベントを追加した魅力的なレースゲームです。このゲームの評価ポイントとしては、リアルなドリフト走行の再現や、豊富なカスタマイズオプションが挙げられます。レビューでは、ゲームのグラフィックやサウンドデザインも高く評価されています。レースゲームファンやドリフト愛好家にとっては、必見のゲームとなっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07169143.html",
-        "date": "2026-07-30",
-        "is_translated": false
-      },
-      {
-        "title": "【全ての始まりを描く人気シリーズ最新作「Gears of War: E-Day」のマルチプレイヤ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "人気シリーズ「Gears of War」の最新作「Gears of War: E-Day」のマルチプレイヤー機能を紹介するレビュー記事です。この記事では、マルチプレイヤーの評価ポイントとして、戦略的深度とチームワークの重要性、グラフィックの高さなどが取り上げられます。さらに、シリーズのファンやアクションゲームを楽しむユーザーにとって、最新作の魅力と新要素が紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07169145.html",
-        "date": "2026-07-30",
-        "is_translated": false
-      },
-      {
-        "title": "【Gears of War: E-Day のマルチプレイヤーは確かに Gears of War です】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Gears of War: E-Day のマルチプレイヤーは確かに Gears of War です、このレビュー記事ではゲームのマルチプレイヤーモードの評価ポイントとして、協力プレイの魅力や対戦モードの緊張感を挙げています。また、グラフィックやサウンドデザインの高品質も評価されています。アクションゲームファンやGears of Warシリーズの愛好者であれば。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gears-of-war-e-day-horde-preview/",
-        "date": "2026-07-30",
-        "is_translated": true
-      },
-      {
-        "title": "【Midnight Moments は、ネオンサインと霧雨の愛好家のためのサイバーパンク ジオラ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "Midnight Moments は、サイバーパンクをテーマにしたジオラマゲームで、ネオンサインと霧雨が好きな人にぴったりです。このゲームの評価ポイントとしては、独自の世界観やグラフィックの美しさが挙げられます。レビューの内容概要としては、ゲームの雰囲気やストーリー、サウンドトラックの品質について触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/midnight-moments-is-a-cyberpunk-diorama-builder-for-the-neon-sign-and-drizzly-rain-lovers",
-        "date": "2026-07-30",
-        "is_translated": true
-      },
       {
         "title": "【『ファイナルファンタジーVII リベレーション』発表後、『FFVII』シリーズは“すごく売れて...：レビュー】",
         "platform": "AUTOMATON",
@@ -1000,8 +837,47 @@
         "url": "https://www.rockpapershotgun.com/amd-graphics-card-price-hikes-are-reportedly-following-nvidias-as-the-ai-fuelled-ram-shortage-continues-to-set-wallets-alight",
         "date": "2026-08-03",
         "is_translated": true
+      },
+      {
+        "title": "【転生の獣 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は「転生の獣」の魅力を紹介し、ゲームの評価ポイントとしてストーリーやゲームプレイの面白さ、グラフィックの美しさを取り上げています。さらに、レビューの内容はゲームの世界観やキャラクターの深みにも触れており、ゲームファンやファンタジー好きには必読の記事です。この記事は150〜200文字で、ゲームの概要や評価ポイントを簡潔にまとめていますので。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/beast-of-reincarnation-review/",
+        "date": "2026-08-04",
+        "is_translated": true
+      },
+      {
+        "title": "【Razer Blade 16 (2026) review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Razer Blade 16 (2026) reviewのレビュー記事では、ゲームパフォーマンスやグラフィック品質、バッテリーの持続時間などを評価しています。この記事では、最新のゲームを滑らかにプレイするためのハードウェアの能力や、ポータブル設計における使いやすさ、ゲームの快適性を向上させるための各種機能などについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-laptops/razer-blade-16-2026-review/",
+        "date": "2026-08-03",
+        "is_translated": true
+      },
+      {
+        "title": "【Beast of Reincarnation review roundup: Pokémon ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Beast of Reincarnation review roundup: Pokémon ...というレビュー記事では、ゲームの評価ポイントとして、ストーリーの面白さやゲームプレイの幅などが取り上げられています。記事では、ポケモンの新しい試みやゲームシステムの評価などが紹介されています。このレビュー記事は、ポケモンシリーズのファンや新しいゲームを探している人にとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/beast-reincarnation-review-roundup/",
+        "date": "2026-08-04",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-03T22:08:47.720806"
+  "last_updated": "2026-08-04T02:22:42.512842"
 }
