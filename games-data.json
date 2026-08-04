@@ -520,6 +520,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
         "date": "2026-08-04"
+      },
+      {
+        "title": "Blazblue Entropy Effect",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Blazblue Entropy EffectがVariousで49%割引のセール中です。このゲームは、人気の高い2Dファイティングゲームのシリーズ「ブレイブルー」の最新作であり、高速で複雑な戦闘システムが特徴です。Steamで4.7の高い評価を獲得しており、ファンや新規プレイヤーから高い評価を得ています。",
+        "price": "$10.15",
+        "originalPrice": "",
+        "discount": "-49%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/blazblue-entropy-effect/info/",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "RESIDENT EVIL 7 biohazard",
+        "platform": "Various",
+        "type": "sale",
+        "description": "バイオハザードシリーズの最新作であるRESIDENT EVIL 7 biohazardは、バイオハザードシリーズの最新作で、サバイバルホラーのジャンルに属します。このゲームは、従来のシリーズとは違った一人称視点でプレイすることができます。現在、Variousで66%オフのセール中で、通常価格よりも大幅に安くなっています。ゲームの評価は非常に高く、多くのプレイヤーから人気を博しています。",
+        "price": "$6.80",
+        "originalPrice": "",
+        "discount": "-66%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-7-biohazard/info/",
+        "date": "2026-08-04"
       }
     ],
     "review": [
@@ -951,8 +975,21 @@
         "url": "https://automaton-media.com/articles/newsjp/20260804-458342/",
         "date": "2026-08-04",
         "is_translated": false
+      },
+      {
+        "title": "【“Untitled Goose Game”を生んだHouse Houseの新作Co-opゲーム...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Untitled Goose Game」を生み出したHouse Houseの新作コープゲームのレビュー記事は、プレイヤーが協力して目標を達成するゲームプレイや、ユーモアあふれるグラフィック、そして多様なステージデザインが評価ポイントとなっています。記事では、ゲームの面白さや、プレイヤー同士のコミュニケーションが重要になる点などが具体的に紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169264.html",
+        "date": "2026-08-04",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-04T11:22:33.284537"
+  "last_updated": "2026-08-04T14:29:35.580878"
 }
