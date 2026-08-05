@@ -210,42 +210,6 @@
     ],
     "sale": [
       {
-        "title": "Rust",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "RustがSteamで50% OFFセール中です。このサンドボックス系サバイバルゲームは、プレイヤーが荒野で生き残るために戦い、資源を集め、建物を建設する必要があります。現在、50%の割引が適用されており、大人気のゲームであり、Steamで非常に高い評価を得ているため、興味がある方はこの機会にチェックしてみてください。",
-        "price": "¥2,300",
-        "originalPrice": "¥4,600",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/252490",
-        "date": "2026-07-29"
-      },
-      {
-        "title": "Elden Ring",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Elden Ringは、アクションRPGのジャンルで人気の高いゲームで、現在Variousで14%割引のセール中です。このゲームは、広大なオープンワールドと深いストーリー、多様なキャラクターを作成できるキャラクター制作システムが特徴で、多くのユーザーから高い評価をされています。現在の価格は割引前より安くなっているため、購入する良い機会です。",
-        "price": "$51.59",
-        "originalPrice": "",
-        "discount": "-14%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/elden-ring/info/",
-        "date": "2026-07-29"
-      },
-      {
-        "title": "Detroit: Become Human",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Detroit: Become HumanがVariousで90%オフのセール中です。このアドベンチャーゲームは、AIが人間と共存する世界を舞台に、3人のアンドロイドのストーリーを描いています。強いストーリーテリングと美しいグラフィックで注目を集めています。現在の価格は大幅に割引されていますが、評価は非常に高く、人気のゲームです。",
-        "price": "$3.99",
-        "originalPrice": "",
-        "discount": "-90%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
-        "date": "2026-07-29"
-      },
-      {
         "title": "オクトパストラベラー",
         "platform": "Steam",
         "type": "sale",
@@ -544,100 +508,45 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-7-biohazard/info/",
         "date": "2026-08-04"
+      },
+      {
+        "title": "FINAL FANTASY VII REBIRTH",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REBIRTHがSteamで60% OFFセール中です。このゲームは、高度なグラフィックとドラマティックなストーリーが特徴的なロールプレイングゲームです。現在、60%割引の価格で購入でき、ファイナルファンタジーシリーズのファンにはおすすめです。ゲームの評価は非常に高く、人気度も高いので、セールの期間中に購入することをお勧めします。",
+        "price": "¥2,631",
+        "originalPrice": "¥6,578",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2909400",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REMAKE INTERGRADEがSteamで65% OFFセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、特に FINAL FANTASY シリーズのファンには人気があります。現在、Steamでの販売価格が大幅に割引されており、通常時の65%割引になっています。",
+        "price": "¥1,917",
+        "originalPrice": "¥5,478",
+        "discount": "65% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1462040",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "Nier: Automata™ Game Of The Yorha Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションRPGの名作「Nier: Automata™ Game Of The Yorha Edition」がVariousで60%割引セール中です。このゲームは、美しいグラフィックと独特のストーリー、そして激しいアクションで人気を博しています。評価も非常に高く、多くのゲームファンから絶賛されています。通常価格より60%安く購入できるこのセールは、ゲームファンにとって大きなチャンスです。",
+        "price": "$15.99",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/nier-automata-game-of-the-yorha-edition/info/",
+        "date": "2026-08-05"
       }
     ],
     "review": [
-      {
-        "title": "【『ファイナルファンタジーVII リベレーション』発表後、『FFVII』シリーズは“すごく売れて...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ファイナルファンタジーVII リベレーション』が発表されてから、シリーズは非常に人気となりました。このレビュー記事では、ゲームの評価ポイントとしてグラフィックの高さやストーリーの深み、キャラクターの魅力を挙げています。また、シリーズのファンやアクションRPGファンにとっては必玩のタイトルであると述べられています。全体的に、高い評価をされており、ゲーム好きの方にはおすすめできる作品です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/ffivii-20260731-457653/",
-        "date": "2026-07-31",
-        "is_translated": false
-      },
-      {
-        "title": "【『アサシン クリード オデッセイ』8年目にして突如プレイヤー“倍増”、人気再燃中。オデッセイな...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "アサシン クリード オデッセイは、発売から8年が経過した今でも人気を博しています。ゲームの評価ポイントとしては、広大なオープンワールド、深いストーリー、そして自由度の高いゲームプレイがあげられます。レビューでは、ゲームの長所として、プレイヤーの選択がストーリーに大きな影響を与えることや、キャラクターの成長システムが充実していることが挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260731-457700/",
-        "date": "2026-07-31",
-        "is_translated": false
-      },
-      {
-        "title": "【人気スローライフ島暮らしシム『スターサンド・アイランド』8月18日ついに正式リリースへ。「PS...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "人気スローライフ島暮らしシム『スターサンド・アイランド』は8月18日に正式リリースされます。このゲームは、プレイヤーが島で自由に生活できるユニークなシステムが特徴です。レビューでは、グラフィックの美しさ、ゲームプレイのリラックス効果、自由度の高さが評価されています。特に、ストレスを解消したい人や、ゆったりしたゲームを楽しみたい人にとってはおすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260731-457663/",
-        "date": "2026-07-31",
-        "is_translated": false
-      },
-      {
-        "title": "【観葉植物ショップ運営ゲーム『Leafy Corner』好評率99%、初日からブレイク中。あくま...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Leafy Cornerは、観葉植物ショップを運営するゲームであり、現在好評率99%という高い評価を得ている。プレイヤーはショップを経営し、植物を売買したり、店内を装飾したりすることができる。レビューでは、ゲームの魅力的なグラフィックや、カスタマイズの自由度が高く楽しめる点が評価されている。また、ゲームのペースが適切で、ストレスを感じることなくプレイできることも評価点として挙げられている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260731-457638/",
-        "date": "2026-07-31",
-        "is_translated": false
-      },
-      {
-        "title": "【Mchose K7 V2 Ultra+ レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "MChose K7 V2 Ultra+は、高性能と優れた操作性を兼ね備えたゲーム機器です。このレビューでは、デバイスの操作感と快適性、ゲームに対する対応性、またコストパフォーマンスについて評価しています。ゲーム好きの方や、ゲーミングデバイスに興味がある方に特にオススメの製品です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/mchose-k7-v2-ultra-review/",
-        "date": "2026-07-31",
-        "is_translated": true
-      },
-      {
-        "title": "【新作“ダンジョンズ＆ドラゴンズ”ゲーム「WARLOCK」のゲームプレイお披露目が2026年8月...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "新作「ダンジョンズ＆ドラゴンズ」ゲーム「WARLOCK」のゲームプレイが2026年8月に初めて公開されました。このゲームは、ユーザーが複数のキャラクターを操作してダンジョンを探索することが特徴です。レビューでは、グラフィックの高さやストーリーの深さが評価されています。また、ゲームの難易度が適切で、初心者でも楽しめる点も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07169211.html",
-        "date": "2026-07-31",
-        "is_translated": false
-      },
-      {
-        "title": "【「JDM：ジャパニーズドリフトマスター」PS5パッケージ版の発売が2026年10月29日に決定：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「JDM：ジャパニーズドリフトマスター」のPS5パッケージ版が2026年10月29日に発売されることが決定しました。レビューでは、ゲームのグラフィックやサウンド、操作性などについて評価しています。具体的には、リアルなグラフィックや臨場感のあるサウンド、そしてスムーズな操作性が高く評価されています。ドリフトレースに興味のある方や、レースゲームファンには特におすすめのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/07169197.html",
-        "date": "2026-07-31",
-        "is_translated": false
-      },
       {
         "title": "【「FGO Fes. 2026」開幕！11周年のテーマは「学園祭」、公式コスプレイヤーと着ぐるみ...】",
         "platform": "インサイド",
@@ -701,19 +610,6 @@
         "deadline": "",
         "url": "https://automaton-media.com/articles/reportjp/20260801-457757/",
         "date": "2026-08-01",
-        "is_translated": false
-      },
-      {
-        "title": "【複数の次元から集まったサムたちが戦うCo-opローグライトシューター「Serious Sam:...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、Co-opローグライトシューター「Serious Sam」の評価ポイントを紹介しています。対象読者は、このゲームに興味があるゲーマーです。このゲームでは、複数の次元から集まったサムたちが戦う様子が楽しめます。記事では、ゲームの評価ポイントとして、Co-opプレイの面白さ、ゲームの難易度、グラフィックの質などを取り上げています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169224.html",
-        "date": "2026-07-31",
         "is_translated": false
       },
       {
@@ -1001,8 +897,47 @@
         "url": "https://doope.jp/2026/08169256.html",
         "date": "2026-08-04",
         "is_translated": false
+      },
+      {
+        "title": "【ゲーム価格“まとめて比較”国内サイト「Indie Freaks Discovery」開設。St...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「Indie Freaks Discovery」は、国内のゲームの価格をまとめて比較できるサイトです。このサイトでは、各ゲームの魅力を紹介したレビュー記事もあります。レビューの評価ポイントとしては、ゲームのグラフィック、サウンド、ゲームプレイの面白さなどが挙げられます。また、レビューでは、ゲームのストーリー、操作感、難易度なども評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260805-458454/",
+        "date": "2026-08-05",
+        "is_translated": false
+      },
+      {
+        "title": "【ダークゴシックアクションRPG「Crimson Moon」の発売日が2026年9月1日に決定、...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ダークゴシックアクションRPG「Crimson Moon」の発売日が2026年9月1日に決定しました。このゲームの評価ポイントは、ダークファンタジー世界でのアクションと、キャラクターの成長システムです。レビューの内容概要としては、ゲームのグラフィックやサウンドトラックの質の高さ、そしてゲームプレイの奥深さが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169207.html",
+        "date": "2026-08-05",
+        "is_translated": false
+      },
+      {
+        "title": "【“ザ・フッド”の参戦を告げる「Marvel Rivals」シーズン9.5のゲームプレイトレーラ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Marvel Rivalsのシーズン9.5のゲームプレイトレーラーについてのレビュー記事では、ザ・フッドの参戦を含む新シーズンの評価ポイントとして、ゲームバランスの調整や新しいキャラクターの追加などが挙げられています。また、レビューの内容概要として、ゲームのグラフィックやサウンドの向上、そして新しいストーリーラインの導入などが紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169319.html",
+        "date": "2026-08-04",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-04T22:11:06.946998"
+  "last_updated": "2026-08-05T02:22:41.539595"
 }
