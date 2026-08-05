@@ -544,6 +544,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/nier-automata-game-of-the-yorha-edition/info/",
         "date": "2026-08-05"
+      },
+      {
+        "title": "Rust",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "現在、Steamでサンドボックス系サバイバルゲームであるRustが50%オフのセール中です。このゲームは、プレイヤーが荒野で生き残るために戦い、資源を集め、建物を建設する必要があります。Rustは、ユーザーが自由にアイテムを作成し、建物を設計できることが特徴的です。Steamの評価は「非常に好評」で、プレイヤーから高い人気度を誇っています。",
+        "price": "¥2,300",
+        "originalPrice": "¥4,600",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/252490",
+        "date": "2026-08-05"
       }
     ],
     "review": [
@@ -936,8 +948,60 @@
         "url": "https://doope.jp/2026/08169319.html",
         "date": "2026-08-04",
         "is_translated": false
+      },
+      {
+        "title": "【ゲームフリーク新作『Beast of Reincarnation』、相次ぐ指摘受けさっそく改善...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ゲームフリークの新作『Beast of Reincarnation』は、発売直後に多くの指摘を受けました。しかし、開発チームは迅速に対応し、改善を進めています。このゲームの評価ポイントとしては、独創的なゲームデザインや、深いストーリーが挙げられます。レビューでは、ゲームの世界観やキャラクターの魅力に触れられています。特に、RPGファンやアクションゲーム好きの方にはお勧めできる作品です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260805-458601/",
+        "date": "2026-08-05",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料「3分決着」ストリートバスケ『NBAダンクシティ』は、バスケ知識ゼロでもすぐ夢中...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「NBAダンクシティ」は、基本プレイ無料のストリートバスケットボールゲームです。このゲームは、バスケットボールの知識がなくても簡単に始められ、すぐに夢中になる魅力があります。ゲームの評価ポイントとしては、簡単な操作性や、短時間で対戦ができること、そしてグラフィックの質が高い点が挙げられます。レビューの内容概要としては、ゲームのやり込み要素や、オンライン対戦のスムーズさが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260805-458576/",
+        "date": "2026-08-05",
+        "is_translated": false
+      },
+      {
+        "title": "【高評価・地形変動ストラテジー『エンドレス・レジェンド 2』9月17日正式リリースへ。海が干上が...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『エンドレス・レジェンド 2』は、地形変動ストラテジーを特徴とするゲームで、高評価を得ています。9月17日に正式リリースされるこのゲームでは、海が干上がることで新しい土地が現れ、プレイヤーはこれらの変化に適応して戦略を立てる必要があります。レビューの内容としては、地形変動の面白さ、戦略的 глубみ、グラフィックの美しさが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260805-458546/",
+        "date": "2026-08-05",
+        "is_translated": false
+      },
+      {
+        "title": "【『スター・ウォーズ 9人目のジェダイ』レビュー: 予期せぬソースからのフランチャイズへの新たな希望】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "『スター・ウォーズ 9人目のジェダイ』のレビュー記事では、予期せぬソースからのフランチャイズへの新たな希望について触れています。この記事では、ゲームの評価ポイントとして、新しいストーリーやキャラクターの導入、ゲームプレイの変化などを取り上げています。また、レビューの内容概要として、ゲームのグラフィックやサウンドデザインの高さ、そしてシリーズファンのための新たな要素の追加などを紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/the-ninth-jedi-review/",
+        "date": "2026-08-05",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-05T02:22:41.539595"
+  "last_updated": "2026-08-05T11:20:06.886699"
 }
