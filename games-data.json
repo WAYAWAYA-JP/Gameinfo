@@ -206,6 +206,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/handheldsbundle_bundle",
         "date": "2026-08-04"
+      },
+      {
+        "title": "In Your World VR Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、In Your World VR Bundleが販売中です。このバンドルには、主要タイトルとして「CrytekのThe Climb」や「War Thunder」、「Space Junkies」などのVR対応ゲームが含まれています。アクションやシミュレーションを楽しめるバンドルで、ジャンルはVRゲームです。大まかな価格帯は、約2000円から約5000円です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/inyourworldvrbundle_bundle",
+        "date": "2026-08-05"
       }
     ],
     "sale": [
@@ -555,6 +567,18 @@
         "discount": "50% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/252490",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "Project First Contact",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Project First ContactがVariousで-100%のセール中です。このゲームは、ストラテジーとアクションの要素を組み合わせたユニークなゲームで、プレイヤーは宇宙のunknown惑星を探索し、異星人の種族との交流を試みます。セール中の価格は完全に無料となり、興味がある方は絶好の機会です。評価は非常に高い人気ゲームであり、多くのプレイヤーから高く評価されています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/project-first-contact/info/",
         "date": "2026-08-05"
       }
     ],
@@ -1052,8 +1076,34 @@
         "url": "https://www.rockpapershotgun.com/beast-of-reincarnation-review",
         "date": "2026-08-05",
         "is_translated": true
+      },
+      {
+        "title": "【河村勇輝も参戦！NBA公式『NBAダンクシティ』先行試遊で思わず時間を忘れてプレイした―試合も...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "NBA公式のゲーム「NBAダンクシティ」のレビュー記事があります。このゲームは、プロバスケットボール選手の河村勇輝も参戦しているため、注目されています。記事では、ゲームの先行試遊が行われ、面白さのため時間を忘れてプレイしてしまったことが述べられています。試合の魅力やゲーム性などが評価されており、バスケットボールファンやゲーム好きの方に興味を持ってもらえる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/08/06/185797.html",
+        "date": "2026-08-05",
+        "is_translated": false
+      },
+      {
+        "title": "【Beast Of Reインカーネーションレビュー：脳のチューインガムになる簡単に楽しいSEKI...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Beast Of Reインカーネーションは、脳のチューインガムになる簡単に楽しいSEKIローグライクゲームです。レビューでは、ゲームの評価ポイントとして、簡単な操作ながらも奥深い戦略性、ユニークなキャラクターのデザイン、そして豊富なアイテムやエンカウントのバリエーションが挙げられています。さらに、レビュアーは、ゲームの難易度調整や。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/beast-of-reincarnation-review",
+        "date": "2026-08-05",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-05T14:22:19.854372"
+  "last_updated": "2026-08-05T22:12:28.258455"
 }
