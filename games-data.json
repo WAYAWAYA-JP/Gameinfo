@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "OTXO",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "OTXOは、ストラテジー要素を取り入れたパズルゲームです。ユニークなゲームデザインや、複雑なステージを解決するための戦略的な思考が必要な点が特徴です。また、ゲームの進展に合わせて、新しい要素が追加され、プレイヤーに新たな挑戦を提供します。現在、Epic Gamesプラットフォームで無料配布中であり、誰でも簡単にダウンロードして遊ぶことができます。",
+        "price": "無料",
+        "originalPrice": "¥14",
+        "discount": "100% OFF",
+        "deadline": "2026年08月06日まで",
+        "url": "https://store.epicgames.com/ja/p/63e3482da69d4332bd73ce23706e78eb",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "Sol Cesto",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Sol Cestoは、Epic Gamesで現在無料配布中のアクションアドベンチャーゲームです。このゲームの特徴は、美しいグラフィックとスムーズな操作が可能なことで、プレイヤーはさまざまなステージを冒険し、敵と戦うことができます。また、ゲームの難易度は段階的に上がり、プレイヤーは自分のスキルを試すことができます。",
+        "price": "無料",
+        "originalPrice": "¥16",
+        "discount": "100% OFF",
+        "deadline": "2026年08月06日まで",
+        "url": "https://store.epicgames.com/ja/p/sol-cesto",
+        "date": "2026-08-06"
+      }
+    ],
     "bundle": [
       {
         "title": "HHTwist & Tangle Bundle",
@@ -157,6 +182,42 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/inyourworldvrbundle_bundle",
         "date": "2026-08-05"
+      },
+      {
+        "title": "2K Megahits 2026 Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、2K Megahits 2026 Bundleのバンドルが現在販売中です。このバンドルには、Mafia、Borderlands、BioShockなどの主要タイトルが含まれています。ジャンルはアクションアドベンチャーやFPSなど多種多様で、ファンにはたまらない内容となります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/2kmegahits2026bundle_bundle",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "Even Steamier Sakura Special",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、\"Even Steamier Sakura Special\"というバンドルが現在販売中です。このバンドルには、\"Sakura Agent\"や\"Sakura Nova\"などのタイトルが含まれており、エロゲーやビジュアルノベルを楽しむことができます。価格帯はおよそ1,000円から2,000円程度で、大体20本以上のゲームが収録されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/evensteamiersakuraspecial_bundle",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "No More Robots: The Unhinged Indie Anthology",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、No More Robots: The Unhinged Indie Anthologyというバンドルが販売中です。このバンドルには、Not Tonight、Descenders、ゴールドラッシュなどのインディーゲームが収録されています。ジャンルはアクションやアドベンチャーなど多種多様で、インディーゲームファンにはおすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/nomorerobotsunhingedindieanthology_bundle",
+        "date": "2026-08-06"
       }
     ],
     "sale": [
@@ -458,6 +519,42 @@
         "discount": "-50%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/lies-of-p/info/",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "Marvel’s Spider-Man: Miles Morales",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Marvel’s Spider-Man: Miles MoralesがSteamで60% OFFセール中です。このゲームはオープンワールドアクションアドベンチャーゲームで、人気シリーズの新しい章として知られています。プレイヤーはマイルズ・モラレスを操作してニューヨーク市を探索し、スパイダーマンとしての能力を利用して悪者と戦います。Steamでのセールにより、通常価格より大幅に安く購入できます。",
+        "price": "¥2,596",
+        "originalPrice": "¥6,490",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1817190",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Red Dead Redemption 2がVariousで-75%のセール中です。このゲームはオープンワールドアクションアドベンチャーであり、西部開拓時代を舞台にした壮大な物語が特徴です。現在、価格が大幅に割引されており、ファンや新規プレイヤーにとって絶好の購入機会です。レビューや評価も非常に高い人気ゲームであり、多くのプレイヤーから高く評価されています。",
+        "price": "$14.99",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "Disco Elysium - The Final Cut",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Disco Elysium - The Final Cutは、ロールプレイングゲームのジャンルで人気の高いタイトルです。このゲームは、ユニークなゲームシステムと深いストーリーで知られています。また、非常に高い評価を獲得しており、多くのプレイヤーから高い人気を博しています。現在、Variousで78%の割引セール中です。",
+        "price": "$8.87",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
         "date": "2026-08-06"
       }
     ],
@@ -942,8 +1039,21 @@
         "url": "https://doope.jp/2026/08169354.html",
         "date": "2026-08-06",
         "is_translated": false
+      },
+      {
+        "title": "【Beast Of Reインカーネーションレビュー: 脳のチューインガムになる簡単に楽しいSEK...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "Beast Of Reインカーネーションは、プレイヤーに簡単で楽しいSEKを提供するゲームです。このレビュー記事では、このゲームの評価ポイントとして、簡潔で楽しいゲーム性、独自のゲームシステム、そして脳に刺激を与えるパズル要素が紹介されています。特に、パズルゲームやストラテジーゲームが好きな読者、また簡単に楽しいゲームを求めるユーザーにとって、参考になるレビュー内容となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/beast-of-reincarnation-review",
+        "date": "2026-08-05",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-06T02:25:12.994017"
+  "last_updated": "2026-08-06T11:22:22.556527"
 }
