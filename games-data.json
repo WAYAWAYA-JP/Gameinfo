@@ -1,68 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Foretales",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Foretalesはストーリー重視のカードゲームで、世界の運命を選択することができます。このゲームはアドベンチャージャンルに属し、様々なプレイスタイルとストーリーラインを特徴としています。特徴的な点としては、プレイヤーの選択によってストーリーが変化すること、多種多様なキャラクターとイベントが用意されていること、そして自由度の高いゲームプレイが楽しめることが挙げられます。",
-        "price": "無料",
-        "originalPrice": "¥20",
-        "discount": "100% OFF",
-        "deadline": "2026年07月30日まで",
-        "url": "https://store.epicgames.com/ja/p/a6dcabac79154e218bd3c7d4a8cad8a7",
-        "date": "2026-07-30"
-      },
-      {
-        "title": "OTXO",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "OTXOは、パズル要素のあるアクションゲームで、プレイヤーがさまざまなステージを攻略し、敵を倒していくという特徴があります。このゲームの魅力は、簡単な操作で複雑なステージをクリアできることと、グラフィックが美しく、雰囲気のあるサウンドトラックがあることです。また、無料で遊べるのも魅力のひとつです。現在、Epic Gamesプラットフォームで無料配布中なので。",
-        "price": "無料",
-        "originalPrice": "¥14",
-        "discount": "100% OFF",
-        "deadline": "2026年08月06日まで",
-        "url": "https://store.epicgames.com/ja/p/63e3482da69d4332bd73ce23706e78eb",
-        "date": "2026-07-30"
-      },
-      {
-        "title": "Sol Cesto",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Sol Cestoは、アクションゲームの要素を取り入れた、ロールプレイングゲームです。このゲームの特徴として、美しいグラフィックや、複雑なストーリーライン、そして自由度の高いキャラクターカスタマイズが挙げられます。また、ゲームの世界観はユニークで、プレイヤーを引き込む魅力的な雰囲気を醸し出しています。現在、Epic Gamesプラットフォームで無料配布中なので。",
-        "price": "無料",
-        "originalPrice": "¥16",
-        "discount": "100% OFF",
-        "deadline": "2026年08月06日まで",
-        "url": "https://store.epicgames.com/ja/p/sol-cesto",
-        "date": "2026-07-30"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "2K Megahits 2026 Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、2K Megahits 2026 Bundleが販売中です。このバンドルには、Borderlands 3、Mafia: Definitive Edition、WWE 2K22などの人気タイトルが含まれています。ジャンルはアクションやスポーツなど多様で、価格帯はおおよそ2,000円から5,000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/2kmegahits2026bundle_bundle",
-        "date": "2026-07-27"
-      },
-      {
-        "title": "Even Steamier Sakura Special",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは「Even Steamier Sakura Special」のバンドルが販売中です。このバンドルには、主要タイトルとして「Sakura Agent」や「Sakura Nova」、「Sakura Dungeon」などが含まれており、アダルトゲームやシミュレーションゲームが中心のバンドルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/evensteamiersakuraspecial_bundle",
-        "date": "2026-07-27"
-      },
       {
         "title": "HHTwist & Tangle Bundle",
         "platform": "IndieGala",
@@ -221,78 +160,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "オクトパストラベラー",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "オクトパストラベラーは、Steamで現在70%オフのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、独特の戦闘システムと魅力的なキャラクターが特徴です。通常価格より大幅に安くなっているので、ロールプレイングゲームファンにはおすすめです。また、ユーザーの評価は非常に高い人気ゲームであり、多くのプレイヤーから高く評価されています。",
-        "price": "¥1,643",
-        "originalPrice": "¥5,478",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/921570",
-        "date": "2026-07-30"
-      },
-      {
-        "title": "オクトパストラベラー II",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Steamでは、人気のRPGゲーム『オクトパストラベラー II』が60%オフのセール中です。このゲームは、ユニークな戦闘システムと豊富なストーリーが特徴で、ファンタジーと冒険を愛するプレイヤーに人気があります。現在のセール価格で購入すると、通常価格より大幅に安くなります。ゲームの評価も非常に高く、多くのプレイヤーから高く評価されています。",
-        "price": "¥2,191",
-        "originalPrice": "¥5,478",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1971650",
-        "date": "2026-07-30"
-      },
-      {
-        "title": "DOOM Eternal",
-        "platform": "Various",
-        "type": "sale",
-        "description": "FPSゲームとして知られるDOOM Eternalが、現在67%オフでセール中です。このゲームは、高速なアクションと激しいバトルが特徴で、ファンから高い評価を受けています。価格も割引により大幅に下がっており、ゲーム好きには大変お勧めです。",
-        "price": "$9.89",
-        "originalPrice": "",
-        "discount": "-67%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/doom-eternal/info/",
-        "date": "2026-07-30"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サイバーパンク2077がバリューに登場し、現在70％オフでのセール中です。このゲームはオープンワールドRPGであり、未来的なサイバーパンク世界を舞台に、プレイヤーは自由にキャラクターをカスタマイズし、ストーリーを進めています。現在の価格は大幅に割引されており、非常に魅力的なゲームです。サイバーパンク2077は、グラフィックやゲームプレイの面で非常に高い評価を受けており。",
-        "price": "$17.99",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-07-30"
-      },
-      {
-        "title": "Marvel's Spider-Man: Miles Morales",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Marvel's Spider-Man: Miles Moralesは、オープンワールドアクションアドベンチャーゲームで、スパイダーマンの新たな主人公マイルズ・モラレスを操作して、ニューヨーク市を探索します。このゲームは、64%割引でセール中で、非常に評価の高いゲームであり、人気度も非常に高いです。",
-        "price": "$17.95",
-        "originalPrice": "",
-        "discount": "-64%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/marvels-spider-man-miles-morales/info/",
-        "date": "2026-07-30"
-      },
-      {
-        "title": "The Elder Scrolls V: Skyrim Special Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Elder Scrolls V: Skyrim Special Editionが78%割引でセール中です、このオープンワールドアクションRPGは、豊富なストーリーや自由度の高いゲームプレイが特徴で、非常に人気があり、高評価を誇っています。",
-        "price": "$8.60",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-elder-scrolls-v-skyrim-special-edition/info/",
-        "date": "2026-07-30"
-      },
       {
         "title": "Marvel’s Spider-Man Remastered",
         "platform": "Steam",
@@ -580,87 +447,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/project-first-contact/info/",
         "date": "2026-08-05"
+      },
+      {
+        "title": "Lies Of P",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームの「Lies Of P」が現在、Variousで50%割引のセール中です。このゲームは、美しいグラフィックと奥深いストーリーで人気を博しており、多くのユーザーから高い評価を獲得しています。セール価格でこのゲームをプレイすることで、ユーザーは大幅なコスト削減を実感することができると同時に、ゲームの魅力を存分に楽しむことができます。",
+        "price": "$29.99",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/lies-of-p/info/",
+        "date": "2026-08-06"
       }
     ],
     "review": [
-      {
-        "title": "【「FGO Fes. 2026」開幕！11周年のテーマは「学園祭」、公式コスプレイヤーと着ぐるみ...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "「FGO Fes. 2026」開幕のレビュー記事では、11周年のテーマ「学園祭」に合わせた公式コスプレイヤーや着ぐるみが出演したことを評価ポイントとして挙げています。さらに、イベントの内容や出演者のパフォーマンスについても触れています。ゲームファンやイベント参加者向けの記事で、イベントの雰囲気や出演者の魅力を伝える内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/08/01/185534.html",
-        "date": "2026-08-01",
-        "is_translated": false
-      },
-      {
-        "title": "【Palworld 1.0 レビュー: 軽度のアイデンティティ危機を抱える堅実なクリーチャーコレクター】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "「Palworld 1.0 レビュー: 軽度のアイデンティティ危機を抱える堅実なクリーチャーコレクター」というレビュー記事では、ゲームの評価ポイントとして、クリーチャー収集システムの堅実さやグラフィックの美しさが挙げられています。また、ゲームのストーリーやキャラクターの魅力についても触れています。このレビューは、クリーチャーコレクションゲームのファンや。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/palworld-review/",
-        "date": "2026-08-01",
-        "is_translated": true
-      },
-      {
-        "title": "【東亜プランの系譜を受け継ぐ新作STG『TATSUJIN Extreme』、「好評率100％」キ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "東亜プランの系譜を受け継ぐ新作STG『TATSUJIN Extreme』のレビュー記事では、ゲームの評価ポイントとして、快適なゲームプレイ、グラフィックの質、サウンドトラックの魅力が挙げられています。また、レビューの内容概要として、ゲームの難易度が適切で、プレイヤーが楽しめるよう設計されていること、グラフィックとサウンドが高品質で臨場感があること。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/tatsujin-extreme-20260801-457827/",
-        "date": "2026-08-01",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料「街」オープンワールド『NTE』の新キャラ「イロヒ」は“死んだ仲間をこき使う”ゆ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "基本プレイ無料のオープンワールドゲーム「NTE」には新しいキャラクター「イロヒ」が追加されました。このキャラクターは死んだ仲間をこき使うというユニークな能力を持っています。ゲームの評価ポイントとしては、オープンワールドの自由度が高く、キャラクターの多様性が豊かです。レビューの内容概要としては、ゲームのグラフィックやサウンドが高品質であること。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260801-457773/",
-        "date": "2026-08-01",
-        "is_translated": false
-      },
-      {
-        "title": "【SIE支援の注目大型ソウルライク『Daba: Land of Water Scar』をいち早く...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "SIE支援の注目大型ソウルライクゲーム『Daba: Land of Water Scar』のレビュー記事では、ゲームの評価ポイントとして、難易度の高さやグラフィックの美しさが挙げられています。また、レビューの内容概要としては、ゲームの世界観や操作性について詳細に説明されています。この記事は、ソウルライクゲームファンや新しいゲームを探しているユーザーにとって、参考になる情報を提供しているようです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260801-457757/",
-        "date": "2026-08-01",
-        "is_translated": false
-      },
-      {
-        "title": "【パルワールド 1.0 レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "パルワールド1.0のレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンド、ゲームプレイの面白さなどが取り上げられているようです。記事では、ゲームのストーリーやキャラクターの魅力、そしてユーザーインターフェースの使い心地についても触れられているようです。対象読者は、パルワールド1.0に興味がある方や、新しいゲームを探している方に適しているようです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/palworld-review/",
-        "date": "2026-08-01",
-        "is_translated": true
-      },
       {
         "title": "【『スプラトゥーン レイダース』はしばらく「空中フワフワ凍結カチ割りブラスター」ビルドに専念。『...：レビュー】",
         "platform": "AUTOMATON",
@@ -1102,8 +903,47 @@
         "url": "https://www.rockpapershotgun.com/beast-of-reincarnation-review",
         "date": "2026-08-05",
         "is_translated": true
+      },
+      {
+        "title": "【Nintendo Switch 2向け『Lies of P：コンプリート エディション』本日よ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Nintendo Switch向けのゲーム「Lies of P：コンプリート エディション」のレビュー記事があります。このゲームは、ストーリーやキャラクターの深み、グラフィックの美しさなどの点で高く評価されています。また、難易度のバランスやサウンドトラックの素晴らしさもレビューの内容として挙げられています。ゲームファンやアクションアドベンチャーゲームを楽しむ人にはおすすめのタイトルです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260806-458639/",
+        "date": "2026-08-05",
+        "is_translated": false
+      },
+      {
+        "title": "【国内PS5版「ギア・クラブ アンリミテッド3」のゲームプレイトレーラーが公開、発売は2026年...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "国内で発売されるPS5版「ギア・クラブ アンリミテッド3」のゲームプレイトレーラーが公開され、早速レビュー記事も登場しています。ゲームの評価ポイントとしては、グラフィックの高さやスピード感のあるゲーム性が高く評価されています。また、レビューの内容概要としては、レースゲームファンなら必見の作品であることや、操作性の良さが特筆されている点が挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169359.html",
+        "date": "2026-08-06",
+        "is_translated": false
+      },
+      {
+        "title": "【DLCを同梱するNintendo Switch 2向け完全版「Lies of P：コンプリート...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Lies of P：コンプリートエディションは、Nintendo Switch 2向けの完全版であり、DLCを同梱している点が評価される。レビューの内容概要としては、ゲームのグラフィックやサウンドの向上、追加コンテンツの充実などが挙げられ、全体的に高評価である。対象読者は、Nintendo Switch 2のユーザーやアクションゲームファン。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169354.html",
+        "date": "2026-08-06",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-05T22:12:28.258455"
+  "last_updated": "2026-08-06T02:25:12.994017"
 }
