@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
         "date": "2026-08-06"
+      },
+      {
+        "title": "Ready Or Not",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Ready Or NotがVariousで59%引き下げのセール中です。このゲームはタクティカルファーストパーソンシューティングゲームです。プレイヤーは警察の特殊部隊を操作して、犯罪組織と戦います。現在、価格が大幅に下がっているのでおすすめです。また、このゲームはユーザーから高い評価を受けており、人気度も高いと言えるでしょう。",
+        "price": "$20.49",
+        "originalPrice": "",
+        "discount": "-59%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ready-or-not/info/",
+        "date": "2026-08-06"
       }
     ],
     "review": [
@@ -1052,8 +1064,47 @@
         "url": "https://www.rockpapershotgun.com/beast-of-reincarnation-review",
         "date": "2026-08-05",
         "is_translated": true
+      },
+      {
+        "title": "【写真を撮りながら奇妙な世界を旅するアドベンチャー“TOEM”の続編「TOEM 2」の発売日が2...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「TOEM 2」のレビュー記事では、このゲームの評価ポイントとして、ユニークな世界観とキャラクター、自由に写真を撮りながら進める遊び方が高く評価されています。また、ゲームの雰囲気とグラフィックの美しさもレビューの内容として取り上げられています。このレビュー記事は、写真を撮りながら冒険するゲームを楽しむファンや、奇妙な世界観が好きな人にとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169371.html",
+        "date": "2026-08-06",
+        "is_translated": false
+      },
+      {
+        "title": "【チョルノービリ原子力発電所内部を探索する大型DLC「S.T.A.L.K.E.R. 2: Cos...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "S.T.A.L.K.E.R. 2の新しいDLC「Cos」は、ユーザーから高い評価を得ています。このレビュー記事では、ゲームの評価ポイントとして、グラフィックの向上、ストーリーの深化、探索の自由度の高さを取り上げています。さらに、レビューでは、ゲームの雰囲気やサウンドデザインも高く評価されています。特に、放射線の危険性や生物の異常な挙動がリアルに表現されている点が注目されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169304.html",
+        "date": "2026-08-06",
+        "is_translated": false
+      },
+      {
+        "title": "【【コスプレ】チアガールや“夏衣装”が勢ぞろい！ゲームもアニメも熱々な、2025年夏コミケの美女...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事は、2025年夏コミケの美しいコスプレの写真を紹介しているものです。チアガールや夏衣装を着た女性たちが勢ぞろいし、ゲームやアニメのキャラクターを再現しています。記事では、コスプレの多様性や創造性を高く評価しています。ゲームやアニメファン、コスプレに興味のある人には必見の記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/08/06/185853.html",
+        "date": "2026-08-06",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-06T11:22:22.556527"
+  "last_updated": "2026-08-06T14:25:57.169908"
 }
