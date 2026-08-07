@@ -568,6 +568,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/pacific-drive/info/",
         "date": "2026-08-07"
+      },
+      {
+        "title": "Marvel's Spider-Man Remastered",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Marvel's Spider-Man RemasteredがVariousで7%オフのセール中です。このアクションアドベンチャーゲームは、スパイダーマンの魅力を存分に楽しみます。高評価を受けており、多くのユーザーから人気があります。通常価格より7%割引で購入できますので、スパイダーマンの世界に興味がある方はぜひこの機会にチェックしてみてください。",
+        "price": "$55.99",
+        "originalPrice": "",
+        "discount": "-7%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Beacon Pines",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Beacon PinesがVariousで100%割引されています。このゲームはナラティブドライブンのアドベンチャーゲームであり、プレイヤーは物語を進めるために選択をしてストーリーを変化させていくことができます。非常に高い評価を受けており、ユーザーの人気度も高いと言えるでしょう。通常価格で購入するのではなく、現在のセール期間中に100%割引で入手することができます。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/beacon-pines/info/",
+        "date": "2026-08-07"
       }
     ],
     "review": [
@@ -1171,5 +1195,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-07T10:00:10.811591"
+  "last_updated": "2026-08-07T13:16:44.847181"
 }
