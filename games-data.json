@@ -24,6 +24,30 @@
         "deadline": "2026年08月06日まで",
         "url": "https://store.epicgames.com/ja/p/sol-cesto",
         "date": "2026-08-06"
+      },
+      {
+        "title": "Beacon Pines",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Beacon Pinesは、かわいいキャラクターと不気味な雰囲気を持つアドベンチャーゲームです。このゲームの特徴は、秘密を明らかにしたり、運命を変えるキーワードを集めたりすることで物語を進められることです。また、友達を作ったり、夜の町を探索したりすることで新しい発見をすることができます。Beacon Pinesは、PCやゲーム機向けに配布されており、多くのプレイヤーに楽しんでいただけます。",
+        "price": "無料",
+        "originalPrice": "¥19",
+        "discount": "100% OFF",
+        "deadline": "2026年08月13日まで",
+        "url": "https://store.epicgames.com/ja/p/9e9a438c651a49799c3ddd94a0c3f4c0",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "We Were Here Together",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "アドベンチャーゲーム「We Were Here Together」がEpic Gamesで無料配布中です。このゲームの特徴は、協力プレイが楽しめること、パズル要素が豊富で挑戦的なこと、そしてユニークなストーリーが楽しめることです。プレイヤーは、謎の場所で別れた仲間と再会するために協力して進めていきます。無料配布のチャンスを逃さないで、Epic Gamesでダウンロードしましょう。",
+        "price": "無料",
+        "originalPrice": "¥12",
+        "discount": "100% OFF",
+        "deadline": "2026年08月13日まで",
+        "url": "https://store.epicgames.com/ja/p/a4bed38482a44c3d89029b0dbba42087",
+        "date": "2026-08-07"
       }
     ],
     "bundle": [
@@ -221,66 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Marvel’s Spider-Man Remastered",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Marvel’s Spider-Man RemasteredがSteamで60% OFFセール中です。このアクションアドベンチャーゲームは、スパイダーマンの魅力的なストーリーとスムーズなゲームプレイが特徴です。セール価格では大幅な割引が適用されており、非常に魅力的です。ユーザーの評価も非常に高く、人気ゲームとして知られています。",
-        "price": "¥3,036",
-        "originalPrice": "¥7,590",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1817070",
-        "date": "2026-07-31"
-      },
-      {
-        "title": "DOOM: The Dark Ages",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションゲーム『DOOM: The Dark Ages』が現在、Variousで72%割引のセール中です。このゲームは、ファーストパーソン・シューティングのジャンルで人気があり、高速なアクションと激しい戦闘が特徴です。価格は大幅に割引されており、ゲームファンにはおすすめの買い物です。評価も高く、多くのプレイヤーから好評を博しています。",
-        "price": "$19.87",
-        "originalPrice": "",
-        "discount": "-72%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/doom-the-dark-ages/info/",
-        "date": "2026-07-31"
-      },
-      {
-        "title": "Marvel's Spider-Man 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Marvel's Spider-Man 2がVariousで40%オフでのセール中です。このアクションアドベンチャーゲームは、スパイダーマンの新しい冒険を描いており、高い評価と人気を誇っています。通常価格より40%割引されたこの魅力的なゲームを今すぐチェックしてみてください。",
-        "price": "$36.13",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/marvels-spider-man-2/info/",
-        "date": "2026-07-31"
-      },
-      {
-        "title": "Baldur's Gate 3",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ロールプレイングゲームの人気シリーズであるBaldur's Gate 3が、現在30%オフのセール中です。このゲームは、豊富なストーリーと深いキャラクター設定が特徴で、プレイヤーは自分だけのユニークな冒険を楽しむことができます。高い評価と人気度を誇るこのゲームを、割引価格で購入する絶好の機会です。",
-        "price": "$41.99",
-        "originalPrice": "",
-        "discount": "-30%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/baldurs-gate-3/info/",
-        "date": "2026-07-31"
-      },
-      {
-        "title": "Sol Cesto",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Sol CestoがVariousで100%割引のセール中です。このゲームはアクションアドベンチャー系の作品で、特徴的なゲームプレイが楽しめることで知られています。現在、完全に無料でプレイ可能です。また、ユーザーの評価やレビューも良好で、人気のゲームの一つとして支持されています。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/sol-cesto/info/",
-        "date": "2026-07-31"
-      },
       {
         "title": "Vampire: The Masquerade® - Bloodlines™ 2",
         "platform": "Various",
@@ -568,87 +532,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ready-or-not/info/",
         "date": "2026-08-06"
+      },
+      {
+        "title": "Tom Clancy's Ghost Recon® Wildlands",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Tom Clancy's Ghost Recon WildlandsがSteamで大幅なセール中です。このタクティカルサードパーソンシューティングゲームは、ボリビアを舞台にしたオープンワールドで、プレイヤーは特殊部隊の一員として任務を遂行します。現在、Steamでは95%割引された価格で購入できます。このゲームは、ストーリーモードとマルチプレイヤーモードを兼ね備えており。",
+        "price": "¥330",
+        "originalPrice": "¥6,600",
+        "discount": "95% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/460930",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Dead Cells",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるDead CellsがVariousで55%割引のセール中です。このゲームは、独自のアートスタイルと難易度の高いゲームプレイで人気を博しており、レビューでも高評価を得ています。価格も割引されるので、購入するのに好機です。",
+        "price": "$11.15",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dead-cells/info/",
+        "date": "2026-08-07"
       }
     ],
     "review": [
-      {
-        "title": "【『スプラトゥーン レイダース』はしばらく「空中フワフワ凍結カチ割りブラスター」ビルドに専念。『...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "スプラトゥーン レイダースは、空中フワフワ凍結カチ割りブラスタービルドに焦点を当てたゲームです。このレビュー記事では、ゲームの評価ポイントとして、グラフィックの鮮やかさ、ゲームプレイのスピード感、そしてマルチプレイヤーの面白さを取り上げています。特に、空中戦での凍結カチ割りブラスターの使い方や、チームプレイでの戦略的な動きを楽しむことができる点が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260802-458013/",
-        "date": "2026-08-02",
-        "is_translated": false
-      },
-      {
-        "title": "【不穏村暮らしシム『ほの暮しの庭』、不具合が世界観にピッタリで“リアル怪異”扱いされる。“村の掟...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「ほの暮しの庭」は不穏な村暮らしをシミュレートするゲームで、不具合が世界観に合ったリアルな怪異として扱われています。レビュー記事「村の掟...：レビュー」では、このゲームのユニークな世界観や不穏な雰囲気、そして不具合の扱い方が評価されています。特に、このゲームの不具合が意図的なデザインではなく偶発的なバグであるにも関わらず、世界観にピッタリと合っている点が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260802-457959/",
-        "date": "2026-08-02",
-        "is_translated": false
-      },
-      {
-        "title": "【リマスター版『メタルサーガ 鋼の季節』試遊レポート。熱狂的ファンが“権利元に直談判”して20年...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、リマスター版『メタルサーガ 鋼の季節』の試遊レポートです。熱狂的ファンが20年間にわたって権利元に直談判を続けた結果、リメイクが実現しました。この記事では、新しいグラフィックやサウンドの向上、ストーリーやゲームプレイの魅力を紹介しています。特に、ゲームの世界観やキャラクターの深み、そして感動的なストーリーが評価ポイントになっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260802-457939/",
-        "date": "2026-08-02",
-        "is_translated": false
-      },
-      {
-        "title": "【オープンワールドサバイバル『ルーンスケープ：ドラゴンワイルズ』初心者攻略、最初の3時間でやるべ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "オープンワールドサバイバルゲーム『ルーンスケープ：ドラゴンワイルズ』の初心者向け攻略法について紹介するレビュー記事があります。このゲームは、初めてプレイする際に重要なポイントがいくつかあります。まず、最初の3時間で行うべきこと、次にキャラクターの作成と進め方、最後にゲームの世界観と基本的なルールについて理解することが大切です。この記事は、初心者向けにゲームの基礎を整えるのに役立つ内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/guide/20260802-457893/",
-        "date": "2026-08-02",
-        "is_translated": false
-      },
-      {
-        "title": "【『SAEKO: Giantess Dating Sim』「巨大娘」と暮らす日々は、なぜ心が揺さ...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "『SAEKO: Giantess Dating Sim』は、「巨大娘」と暮らす日々を描いたゲームです。このゲームの評価ポイントは、独特の設定とストーリーの面白さです。レビューでは、ゲームの魅力的なキャラクターと興味深いストーリー展開が高く評価されています。また、ゲームのグラフィックも美しく、プレイヤーを引き付ける要素として挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/08/02/185608.html",
-        "date": "2026-08-02",
-        "is_translated": false
-      },
-      {
-        "title": "【『FGO』11周年サーヴァント「ハサン・サッバーハ（アズライール）」発表！“山の翁リリィ”にし...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "『FGO』の11周年を記念したサーヴァント「ハサン・サッバーハ（アズライール）」が発表されました。このサーヴァントは「山の翁リリィ」というキャラクターとも関連しています。ゲームの評価ポイントとして、グラフィックやゲームプレイの魅力が高く評価されています。レビューの内容概要として、サーヴァントの能力やステータス、ゲームのストーリーやキャラクターの関係性が紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/08/02/185604.html",
-        "date": "2026-08-02",
-        "is_translated": false
-      },
       {
         "title": "【基本プレイ無料RPG『幻想水滸伝 STAR LEAP』8月7日配信へ。『幻想水滸伝』シリーズ最...】",
         "platform": "AUTOMATON",
@@ -1103,8 +1013,73 @@
         "url": "https://www.inside-games.jp/article/2026/08/06/185853.html",
         "date": "2026-08-06",
         "is_translated": false
+      },
+      {
+        "title": "【『鬼武者 Way of the Sword』先行プレイ感想。「バッサリ感」を引き立てる”快感防...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『鬼武者 Way of the Sword』の先行プレイレビュー記事では、ゲームの「バッサリ感」を高める要素として「快感防」が紹介されています。この記事では、ゲームの評価ポイントとして、スリルがあるアクションや、ストーリーの展開が挙げられます。また、特にアクションゲームファンや、シリーズのファンにとっては、興味深い内容になっているようです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260807-458825/",
+        "date": "2026-08-07",
+        "is_translated": false
+      },
+      {
+        "title": "【エイリアンCo-opサバイバルシューター続編「Aliens: Fireteam Elite 2...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、エイリアンシリーズのCo-opサバイバルシューター続編「Aliens: Fireteam Elite 2」の評価ポイントを紹介しています。ゲームの評価ポイントとして、グラフィックの質、サウンドデザイン、ゲームプレイの爽快性などが挙げられます。レビューの内容概要としては、ゲームのストーリーやキャラクターの魅力、そしてマルチプレイの楽しさなどが説明されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169397.html",
+        "date": "2026-08-07",
+        "is_translated": false
+      },
+      {
+        "title": "【最初の週が成功した後、ミストフォール ハンターはマップの 1 つで多くの要望があったソロ モー...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "ミストフォール ハンターのレビュー記事では、最初の週が成功した後、マップの 1 つで多くの要望があったソロ モードについて触れています。このゲームは、グラフィックやサウンド、ゲームプレイの面で高く評価されており、特にソロ モードの追加が好評です。また、記事ではゲームの長所や短所についても議論されており、ファンや新規プレイヤーにとって参考になる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/after-a-successful-first-week-mistfall-hunter-gets-a-roadmap-promising-a-much-requested-solo-mode-for-one-of-its-maps",
+        "date": "2026-08-06",
+        "is_translated": true
+      },
+      {
+        "title": "【サムライ マゾヒストの皆さん、恐れることはありません。『鬼武者: Way of the Swo...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "サムライマゾヒストの皆さん、安心してください。このレビュー記事では、『鬼武者：Way of the Sword』の評価ポイントを150〜200字で紹介します。このゲームの評価ポイントは、スリリングなアクションシーン、ストーリーの深み、そしてグラフィックの美しさです。レビューの内容概要としては、ゲームの難易度が高く、プレイヤーに高い集中力を要求するものの、達成感も高いと言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/fear-not-samurai-masochists-onimusha-way-of-the-swords-flashiness-hasnt-replaced-its-challenge",
+        "date": "2026-08-06",
+        "is_translated": true
+      },
+      {
+        "title": "【Marvel Tokon Fighting Souls レビュー進行中: 美しいが破壊されている】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Marvel Tokon Fighting Soulsのレビュー記事では、ゲームの評価ポイントとしてグラフィックの美しさと破壊的な要素が取り上げられています。記事では、ゲームのレビューの内容概要として、美しいグラフィックと破壊的な戦闘システムのバランスが良く、プレイヤーに興奮と満足感を与えることができると評価しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/marvel-tokon-fighting-souls-day-one-review-first-impressions/",
+        "date": "2026-08-06",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-06T14:25:57.169908"
+  "last_updated": "2026-08-07T01:01:22.385101"
 }
