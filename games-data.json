@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dead-cells/info/",
         "date": "2026-08-07"
+      },
+      {
+        "title": "Pacific Drive",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Pacific Driveは、スリリングなドライブと探索が特徴的なゲームで、現在Variousで72%割引のセール中です。このゲームは、ユーザーからの評価が高い人気タイトルであり、多くのプレイヤーに支持されています。価格も割引により大幅に下がっているため、興味のある人はこの機会にチェックしてみることをお勧めします。",
+        "price": "$8.49",
+        "originalPrice": "",
+        "discount": "-72%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/pacific-drive/info/",
+        "date": "2026-08-07"
       }
     ],
     "review": [
@@ -1078,8 +1090,34 @@
         "url": "https://www.polygon.com/marvel-tokon-fighting-souls-day-one-review-first-impressions/",
         "date": "2026-08-06",
         "is_translated": true
+      },
+      {
+        "title": "【硬派SRPG最新作『Dragon’s Chronicles〜双星のレギンレイヴ〜』Steamお...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『Dragon’s Chronicles〜双星のレギンレイヴ〜』は、最新のシミュレーションRPGです。このゲームの評価ポイントとしては、ストーリーの深みやキャラクターの個性が際立つことが挙げられます。レビューの内容概要としては、ゲームの難易度やシステムの複雑さについて触れられています。対象読者は、シミュレーションRPGのファンや、ストーリー重視のゲームを好む人に適しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260807-458987/",
+        "date": "2026-08-07",
+        "is_translated": false
+      },
+      {
+        "title": "【After a successful first week, Mistfall Hunter ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム「Mistfall Hunter」の初週の成功を受けて書かれたものです。記事では、ゲームの評価ポイントを紹介し、グラフィックやゲームプレイの面での強みを強調しています。また、ゲームのストーリーやサウンドトラックについても触れています。この記事は、ゲーム好きの人や「Mistfall Hunter」のファンにとって、ゲームの魅力を再確認するための参考になるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/after-a-successful-first-week-mistfall-hunter-gets-a-roadmap-promising-a-much-requested-solo-mode-for-one-of-its-maps",
+        "date": "2026-08-06",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-07T01:01:22.385101"
+  "last_updated": "2026-08-07T02:34:55.778961"
 }
