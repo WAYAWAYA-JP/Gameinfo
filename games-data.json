@@ -242,6 +242,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/nomorerobotsunhingedindieanthology_bundle",
         "date": "2026-08-06"
+      },
+      {
+        "title": "Awesome Indie Adventures",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Awesome Indie Adventuresというバンドルの販売が行われています。このバンドルには、インディーゲームの名作である「Hyper Light Drifter」や「Night in the Woods」、「Oxenfree」などが含まれています。インディーアドベンチャーゲームファンにとっては、見逃せないオファーです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/awesomeindieadventures_bundle",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Short Games Showcase Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Short Games Showcase Bundleが販売中です。このバンドルには、Time LoaderやThe Case of the Golden Idol、The Pathlessなどの主要タイトルが含まれています。ジャンルはアドベンチャーやパズルが中心です。大まかな価格帯は、約1,000円から約2,000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/shortgamesshowcasebundle_bundle",
+        "date": "2026-08-07"
       }
     ],
     "sale": [
@@ -591,6 +615,18 @@
         "discount": "-100%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/beacon-pines/info/",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "PEAK",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるPEAKがSteamで50%オフのセール中です。このゲームは、ユーザーから非常に高い評価を獲得しており、人気度も高いと言えるでしょう。現在の価格は割引前と比べて大幅に下がっているので、興味がある方はこの機会にチェックしてみてください。",
+        "price": "¥440",
+        "originalPrice": "¥880",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3527290",
         "date": "2026-08-07"
       }
     ],
@@ -1192,8 +1228,34 @@
         "url": "https://www.inside-games.jp/article/2026/08/07/185912.html",
         "date": "2026-08-07",
         "is_translated": false
+      },
+      {
+        "title": "【ベトナム戦争をテーマに描く50vs50シューター「Hell Let Loose: Vietna...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "ベトナム戦争をテーマに描く50vs50シューター「Hell Let Loose: Vietnam」のレビュー記事では、ゲームの評価ポイントとして、リアルな戦場の再現や戦略的なチームプレイが可能な点が高く評価されています。また、レビューの内容概要として、ゲームのグラフィックやサウンドデザインの質が高く、臨場感のある戦闘体験が提供されることも挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169435.html",
+        "date": "2026-08-07",
+        "is_translated": false
+      },
+      {
+        "title": "【Asus ROG Zephyrus G16 (2026) レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Asus ROG Zephyrus G16 (2026) レビューは、最新のゲームラップトップについての評価ポイントを提供しています。このレビューでは、パフォーマンス、グラフィックの品質、バッテリーの持続時間などの点について詳しく説明しています。また、ゲームの快適性や портатив性についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-rog-zephyrus-g16-2026-review/",
+        "date": "2026-08-07",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-07T13:16:44.847181"
+  "last_updated": "2026-08-07T21:38:17.673391"
 }
