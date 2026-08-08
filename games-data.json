@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/shortgamesshowcasebundle_bundle",
         "date": "2026-08-07"
+      },
+      {
+        "title": "Rage Inducing Difficult Games",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、挑戦精神を試す難関ゲームを集めた「Rage Inducing Difficult Games」のバンドルが販売中です。このバンドルには、「Dark Souls」や「Sekiro: Shadows Die Twice」、「Cuphead」などのアクションゲームやアドベンチャーゲームが収録されています。ジャンルはアクションやアドベンチャーです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/rageinducingdifficultgames_bundle",
+        "date": "2026-08-08"
       }
     ],
     "sale": [
@@ -592,6 +604,30 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/3527290",
         "date": "2026-08-07"
+      },
+      {
+        "title": "METAL GEAR SOLID Δ: SNAKE EATER",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "METAL GEAR SOLID Δ: SNAKE EATERがSteamで60% OFFセール中です。このゲームはステルスアクションジャンルで知られており、プレイヤーはスナイパーとしてミッションを遂行します。現在の価格は大幅に割引されており、ファンや新規プレイヤーにとって魅力的なオファーです。このゲームは高評価を受けており、シリーズのファンからは特に人気があります。",
+        "price": "¥3,432",
+        "originalPrice": "¥8,580",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2417610",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "サイバーパンク2077は、オープンワールドRPGの代表的なゲームで、未来的な世界を自由に探索することができます。現在、Variousで70％オフのセール中で、通常価格よりも大幅に安くなっています。このゲームは、ストーリー、グラフィック、ゲームプレイの面で高く評価されており、人気度も非常に高いです。サイバーパンクファンやRPG好きには必見の作品で、セール中のこの機会にぜひプレイしてみてください。",
+        "price": "$17.99",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
+        "date": "2026-08-08"
       }
     ],
     "review": [
@@ -1140,8 +1176,47 @@
         "url": "https://doope.jp/2026/08169428.html",
         "date": "2026-08-08",
         "is_translated": false
+      },
+      {
+        "title": "【ゆずソフトの美少女ゲーム『サノバウィッチ』50万本突破。中国語レビューが多数集まり、Steam...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ゆずソフトの美少女ゲーム『サノバウィッチ』は50万本を突破しました。このゲームはSteamで中国語のレビューが多数集まっており、高い評価を得ています。評価ポイントとしては、魅力的なキャラクター設定や、ストーリーの深み、ゲームシステムの面白さがあります。レビューの内容概要としては、グラフィックやサウンドトラックの質の高さ、プレイヤーの感情を揺さぶるストーリー展開が特に高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260808-459298/",
+        "date": "2026-08-08",
+        "is_translated": false
+      },
+      {
+        "title": "【Steamの低評価レビューは、「短時間プレイかつ長文になりがち」な傾向。高評価との“書かれ方”...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamの低評価レビューは、短時間プレイした後に長文を書くことが多く、その内容が偏っている傾向があります。一方、高評価のレビューは、ゲームの長所や短所を具体的に述べていることが特徴です。この記事では、Steamのレビューの特徴について詳しく紹介しています。ゲームを購入する前に参考にしたい方や、ゲームのレビューを書くことに興味がある方には、役立つ記事になります。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260806-458897/",
+        "date": "2026-08-08",
+        "is_translated": false
+      },
+      {
+        "title": "【フレンドにいたずらし放題協力ホラー『GRAIN ROT』Steamで本日から配信開始。燃える＆...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『GRAIN ROT』は、フレンドにいたずらし放題の協力ホラーです。このゲームの評価ポイントとしては、ユニークなゲームプレイや恐怖要素のあるストーリーがあげられます。レビューの内容概要としては、ゲームの恐怖度やユーモアのある要素が評価されています。また、協力プレイができるため、友人と一緒にプレイすることが推奨されています。対象読者としては、ホラーゲームや協力プレイが好きな人にオススメできます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/grain-rot-20260808-459264/",
+        "date": "2026-08-08",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-08T01:24:09.115596"
+  "last_updated": "2026-08-08T09:35:51.292478"
 }
