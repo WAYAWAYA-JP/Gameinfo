@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "HHTwist & Tangle Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、HHTwist & Tangle Bundleが現在販売中です。このバンドルには、Twist of Fate、Tangle Tower、The Almost Goneなどの主要タイトルが含まれており、パズルやアドベンチャーを楽しむことができます。ジャンルはパズルやアドベンチャーに分類され、大まかな価格帯は10ドル前後です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/twist-and-tangle-bundle",
-        "date": "2026-07-29"
-      },
-      {
-        "title": "Rage Inducing Difficult Games",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、困難なゲームが集まった「Rage Inducing Difficult Games」のバンドルが販売中です。このバンドルには、「Darkest Dungeon」や「Cuphead」などの、挑戦的なタイトルが含まれています。アクションゲームやロールプレイングゲームなどのジャンルが中心で、大まかには2,000円から5,000円程度の価格帯で購入できます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/rageinducingdifficultgames_bundle",
-        "date": "2026-07-29"
-      },
-      {
         "title": "Narrative 12 for $10 Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -269,18 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Vampire: The Masquerade® - Bloodlines™ 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Vampire: The Masquerade - Bloodlines 2は、オープンワールドのアクションRPGです。このゲームは、吸血鬼の世界を舞台に、プレイヤーがさまざまなキャラクターを操作してストーリーを進めていくという特徴があります。現在、56%の割引が適用されており、非常に魅力的です。ユーザーの評価は高く、人気のゲームとして知られています。",
-        "price": "$26.36",
-        "originalPrice": "",
-        "discount": "-56%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/vampire-the-masquerade-bloodlines-2/info/",
-        "date": "2026-08-01"
-      },
       {
         "title": "OTXO",
         "platform": "Various",
@@ -632,97 +596,6 @@
     ],
     "review": [
       {
-        "title": "【基本プレイ無料RPG『幻想水滸伝 STAR LEAP』8月7日配信へ。『幻想水滸伝』シリーズ最...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『幻想水滸伝 STAR LEAP』は、基本プレイ無料のRPGゲームです。このゲームは『幻想水滸伝』シリーズの最新作であり、8月7日より配信が開始されます。レビューでは、ゲームの評価ポイントとして、魅力的なストーリーや美しいグラフィック、自由度の高いキャラクター作成が挙げられています。また、シリーズのファン向けに新しい要素も多数追加されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260803-458097/",
-        "date": "2026-08-03",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam 週間の振り返り: かつて主流に優しい PC ゲーム ソリューションとして位置づけら...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Steam 週間の振り返りレビュー記事では、かつて主流に優しい PC ゲーム ソリューションとして位置付けられていたゲームの現在の評価ポイントを紹介しています。レビューの内容概要としては、ゲームのグラフィックの質、ゲームプレイの面白さ、ストーリーの深さなどが評価されています。特に、グラフィックの向上や新しい機能の追加により、よりリアルなゲーム体験が可能になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-once-positioned-as-mainstream-friendly-pc-gaming-solutions-can-valves-hardware-survive-the-memory-crisis/",
-        "date": "2026-08-03",
-        "is_translated": true
-      },
-      {
-        "title": "【水中のポケモンってこんなに可愛いの!?　『ぽこ あ ぽけもん エキスパンションパス』で見つけた...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム『ぽこ あ ぽけもん エキスパンションパス』について紹介しています。水中のポケモンが非常に可愛らしいことが特徴的です。ゲームの評価ポイントとしては、グラフィックの美しさや新しいポケモンの登場などが挙げられます。レビューの内容概要としては、水中のポケモンの魅力や新しいゲームモードの楽しさなどが紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/08/03/185686.html",
-        "date": "2026-08-03",
-        "is_translated": false
-      },
-      {
-        "title": "【Razer Blade 16 (2026) レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Razer Blade 16 (2026) レビューでは、最新のゲーミングノートパソコンのパフォーマンスやデザインが評価されています。このレビューでは、ノートパソコンのプロセッサやグラフィックカードの性能、バッテリーの持続時間などが詳しく紹介されています。ゲーミングノートパソコンを購入することを検討している方や、最新の技術に興味がある方にはおすすめの記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-laptops/razer-blade-16-2026-review/",
-        "date": "2026-08-03",
-        "is_translated": true
-      },
-      {
-        "title": "【AIを活用したRAM不足で財布が逼迫し続けているため、AMDグラフィックスカードの価格もNvi...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事では、AIを活用したゲームのRAM不足による高コスト問題と、AMDグラフィックスカードの価格の高騰について論じています。記事では、グラフィックスカードの性能と価格の関係、ゲームのプレイ性への影響、またコスト削減策などについて評価しています。グラフィックスカードやゲームの購入を検討している方、またPCのスペックを高めるために情報を集めている方にとって、参考になる記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/amd-graphics-card-price-hikes-are-reportedly-following-nvidias-as-the-ai-fuelled-ram-shortage-continues-to-set-wallets-alight",
-        "date": "2026-08-03",
-        "is_translated": true
-      },
-      {
-        "title": "【Big Walk レビュー: 2026 年の最高のマルチプレイヤー ゲームが私たち全員をテストした】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Big Walk レビュー記事では、2026 年の最高のマルチプレイヤー ゲームとして、プレイヤーの協力と対戦を重視したゲームの評価ポイントが紹介されています。記事では、ゲームのグラフィックやサウンドデザイン、そしてマルチプレイヤー モードの充実度などが評価されており、ゲーム ファンのための貴重な情報を提供しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/big-walk-review/",
-        "date": "2026-08-03",
-        "is_translated": true
-      },
-      {
-        "title": "【AMD graphics card price hikes are reportedly fo...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、AMDグラフィックカードの価格上昇について述べた内容です。記事では、価格上昇の理由や影響について分析し、ユーザーへの影響を評価しています。また、グラフィックカードの性能や価格のバランスについても触れています。ゲーム愛好家やグラフィックカードを購入検討中の方にとって、参考になる情報が得られます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/amd-graphics-card-price-hikes-are-reportedly-following-nvidias-as-the-ai-fuelled-ram-shortage-continues-to-set-wallets-alight",
-        "date": "2026-08-03",
-        "is_translated": true
-      },
-      {
         "title": "【転生の獣 レビュー】",
         "platform": "PC Gamer",
         "type": "review",
@@ -733,19 +606,6 @@
         "deadline": "",
         "url": "https://www.pcgamer.com/games/action/beast-of-reincarnation-review/",
         "date": "2026-08-04",
-        "is_translated": true
-      },
-      {
-        "title": "【Razer Blade 16 (2026) review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Razer Blade 16 (2026) reviewのレビュー記事では、ゲームパフォーマンスやグラフィック品質、バッテリーの持続時間などを評価しています。この記事では、最新のゲームを滑らかにプレイするためのハードウェアの能力や、ポータブル設計における使いやすさ、ゲームの快適性を向上させるための各種機能などについて触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-laptops/razer-blade-16-2026-review/",
-        "date": "2026-08-03",
         "is_translated": true
       },
       {
@@ -1254,8 +1114,34 @@
         "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-rog-zephyrus-g16-2026-review/",
         "date": "2026-08-07",
         "is_translated": true
+      },
+      {
+        "title": "【新タンクヒーロー“D.Mon”のゲームプレイを紹介する「オーバーウォッチ」の吹き替えトレーラー...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事では、「オーバーウォッチ」の新しいタンクヒーロー「D.Mon」のゲームプレイを紹介するトレーラーについて評価しています。記事では、トレーラーの映像や音質、そして新ヒーローの魅力について触れています。さらに、記事では「オーバーウォッチ」のファンやゲーム好きにとって、このトレーラーがどのような魅力があるのかについても説明しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169455.html",
+        "date": "2026-08-08",
+        "is_translated": false
+      },
+      {
+        "title": "【複数の次元から集まったサムたちが戦うCo-opローグライトシューター「Serious Sam:...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Serious Sam」シリーズの最新作は、Co-opローグライトシューターとして注目されています。このゲームでは、複数の次元から集まったサムたちが戦いを繰り広げます。レビューでは、ゲームの評価ポイントとして、快適なCo-opプレイ、多様な敵キャラクター、豊富なアクションが挙げられています。また、ゲームの雰囲気やグラフィックの質も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169428.html",
+        "date": "2026-08-08",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-07T21:38:17.673391"
+  "last_updated": "2026-08-08T01:24:09.115596"
 }
