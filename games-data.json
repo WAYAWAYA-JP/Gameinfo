@@ -1215,8 +1215,34 @@
         "url": "https://automaton-media.com/articles/newsjp/grain-rot-20260808-459264/",
         "date": "2026-08-08",
         "is_translated": false
+      },
+      {
+        "title": "【「街」オープンワールド『NTE』、8月19日到来のアプデでは「車で1周10分以上」の広大新エリ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "本記事は、オープンワールドゲーム『NTE』のレビューで、8月19日のアップデートで追加される広大な新エリアについて紹介しています。ゲームの評価ポイントとして、新エリアの広さやゲーム内の自由度が高く、それがプレイヤーにとって新たな体験を提供することがあげられます。また、レビューではアップデート後のゲームの改善点や新機能についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260808-459346/",
+        "date": "2026-08-08",
+        "is_translated": false
+      },
+      {
+        "title": "【Ambrosia Sky レビュー: Steam の魅力的な SF シューターが難題に取り組む】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Ambrosia Skyは、Steamで配信されている魅力的でSF要素の強いシューティングゲームです。このゲームの評価ポイントとしては、美しいグラフィックやスムーズなゲームプレイが挙げられます。レビューの内容概要としては、ゲームの難易度の高さやストーリーの深さなどが取り上げられています。対象読者としては、シューティングゲームやSFファン向けのゲームを探している人にすすめられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/ambrosia-sky-review/",
+        "date": "2026-08-08",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-08T12:59:49.104186"
+  "last_updated": "2026-08-08T21:29:24.307564"
 }
