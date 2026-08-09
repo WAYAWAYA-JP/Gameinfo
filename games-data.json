@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Narrative 12 for $10 Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Narrative 12 for $10 Bundleというバンドルが販売中です。このバンドルには、主なタイトルとして「The Walking Dead」や「Life is Strange」などの人気作品が含まれています。ジャンルはナラティブ重視のゲームが中心で、大まかな価格帯は10ドルです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/narrative12for10bundle_bundle",
-        "date": "2026-07-30"
-      },
-      {
-        "title": "Squad Goals",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、「Squad Goals」というバンドルが現在販売中です。このバンドルには、「For the King」や「Monster Crown」などのタイトルが含まれています。ジャンルはロールプレイングゲームやアクションゲームなどが中心です。大まかな価格帯は10ドルから20ドル程度で、内容によって異なります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/squadgoals_bundle",
-        "date": "2026-07-30"
-      },
-      {
         "title": "HHPixel Traditions 3 Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -257,30 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "OTXO",
-        "platform": "Various",
-        "type": "sale",
-        "description": "OTXOはパズルゲームであり、ユニークなグラフィックと面白いゲーム性が特徴です。現在、Variousで-100%セール中ということで、完全無料でプレイすることができます。ユーザーの評価は非常に高く、人気度も高いゲームですので、無料でプレイできるこの機会に是非お試しください。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/otxo/info/",
-        "date": "2026-08-02"
-      },
-      {
-        "title": "Palworld",
-        "platform": "Various",
-        "type": "sale",
-        "description": "PalworldがVariousで30%割引でのセール中です。このゲームは、幻想的な世界を舞台に繰り広げられるアドベンチャーゲームで、ユニークなキャラクターと壮大なストーリーが特徴です。現在の価格は割引前の価格より30%オフになっており、非常にお得です。評価も高く、プレイヤーから人気を博しており、ゲームファンからは高い評価を得ています。",
-        "price": "$20.99",
-        "originalPrice": "",
-        "discount": "-30%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/palworld/info/",
-        "date": "2026-08-02"
-      },
       {
         "title": "サイバーパンク2077",
         "platform": "Steam",
@@ -632,97 +584,6 @@
     ],
     "review": [
       {
-        "title": "【転生の獣 レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事は「転生の獣」の魅力を紹介し、ゲームの評価ポイントとしてストーリーやゲームプレイの面白さ、グラフィックの美しさを取り上げています。さらに、レビューの内容はゲームの世界観やキャラクターの深みにも触れており、ゲームファンやファンタジー好きには必読の記事です。この記事は150〜200文字で、ゲームの概要や評価ポイントを簡潔にまとめていますので。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/beast-of-reincarnation-review/",
-        "date": "2026-08-04",
-        "is_translated": true
-      },
-      {
-        "title": "【Beast of Reincarnation review roundup: Pokémon ...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Beast of Reincarnation review roundup: Pokémon ...というレビュー記事では、ゲームの評価ポイントとして、ストーリーの面白さやゲームプレイの幅などが取り上げられています。記事では、ポケモンの新しい試みやゲームシステムの評価などが紹介されています。このレビュー記事は、ポケモンシリーズのファンや新しいゲームを探している人にとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/beast-reincarnation-review-roundup/",
-        "date": "2026-08-04",
-        "is_translated": true
-      },
-      {
-        "title": "【『ライザのアトリエ』AIチャットアプリ先行プレイ感想。「告白」にも「手つなぎお願い」にも向き合...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ライザのアトリエ』のAIチャットアプリの先行プレイ感想を紹介するレビュー記事です。このゲームでは「告白」や「手つなぎお願い」などのシーンにも迫っていきます。ゲームの評価ポイントとしては、ストーリーの深みやキャラクターの魅力、そしてAIチャットアプリの仕様があげられます。このレビューは、ゲームファンやAIチャットアプリに興味がある方に読んでいただけると役に立つでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/ryazai-20260804-458375/",
-        "date": "2026-08-04",
-        "is_translated": false
-      },
-      {
-        "title": "【PS5/PC新たな大型アクションRPG『太古の神：哪吒』は『SEKIRO』ライクかと思いきや“...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "PS5とPCで発売された新作アクションRPG「太古の神：哪吒」は、SEKIROに似ていると思われがちですが、実際には大きな違いがある作品です。このゲームの評価ポイントとしては、スムーズなアクション、壮大なグラフィック、そして中国神話を基にした独自のストーリーがあげられます。レビューでは、ゲームの世界観やキャラクターの造形にも高評価が寄せられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260804-458329/",
-        "date": "2026-08-04",
-        "is_translated": false
-      },
-      {
-        "title": "【最大8人“動物鳴き真似”なりすましゲーム『Moo Who?』8月21日に早期アクセス配信へ。鳴...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "動物鳴き真似をテーマにした「Moo Who?」は、最大8人でプレイできるなりすましゲームです。8月21日から早期アクセス配信が開始され、このゲームの評価ポイントとしては、ユニークなゲームプレイや面白さが高く、家族や友人と楽しく遊べる点が挙げられます。レビューでは、ゲームの魅力やプレイの醍醐味について紹介されています。このレビュー記事は、ゲーマーや家族向けのゲームを探している方に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260804-458342/",
-        "date": "2026-08-04",
-        "is_translated": false
-      },
-      {
-        "title": "【“Untitled Goose Game”を生んだHouse Houseの新作Co-opゲーム...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Untitled Goose Game」を生み出したHouse Houseの新作コープゲームのレビュー記事は、プレイヤーが協力して目標を達成するゲームプレイや、ユーモアあふれるグラフィック、そして多様なステージデザインが評価ポイントとなっています。記事では、ゲームの面白さや、プレイヤー同士のコミュニケーションが重要になる点などが具体的に紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169264.html",
-        "date": "2026-08-04",
-        "is_translated": false
-      },
-      {
-        "title": "【発売が迫る「マフィア：オリジン ～裏切りの祖国」ストーリー拡張パック「名誉の男」初のゲームプレ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "発売が迫る「マフィア：オリジン ～裏切りの祖国」ストーリー拡張パック「名誉の男」のレビュー記事では、ゲームの評価ポイントとして、ストーリーの深みや新しいキャラクターの魅力が高く評価されています。また、ゲームの内容も、プレイヤーが新しいミッションに挑戦できることや、ゲームの世界観がさらに豊かになったことなどが紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169256.html",
-        "date": "2026-08-04",
-        "is_translated": false
-      },
-      {
         "title": "【ゲーム価格“まとめて比較”国内サイト「Indie Freaks Discovery」開設。St...：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -746,19 +607,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/08169207.html",
         "date": "2026-08-05",
-        "is_translated": false
-      },
-      {
-        "title": "【“ザ・フッド”の参戦を告げる「Marvel Rivals」シーズン9.5のゲームプレイトレーラ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Marvel Rivalsのシーズン9.5のゲームプレイトレーラーについてのレビュー記事では、ザ・フッドの参戦を含む新シーズンの評価ポイントとして、ゲームバランスの調整や新しいキャラクターの追加などが挙げられています。また、レビューの内容概要として、ゲームのグラフィックやサウンドの向上、そして新しいストーリーラインの導入などが紹介されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169319.html",
-        "date": "2026-08-04",
         "is_translated": false
       },
       {
@@ -1244,5 +1092,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-08T21:29:24.307564"
+  "last_updated": "2026-08-09T01:29:33.867639"
 }
