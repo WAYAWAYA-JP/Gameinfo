@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-08-08"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33はアドベンチャーゲームで、現在Variousで32%割引のセール中です。このゲームは、ユニークなグラフィックと面白いストーリーが特徴で、ファンから高い評価を得ています。価格も割引によりお得になりましたので、ゲームファンには魅力的な選択肢となっています。",
+        "price": "$33.99",
+        "originalPrice": "",
+        "discount": "-32%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-08-09"
       }
     ],
     "review": [
@@ -1089,8 +1101,60 @@
         "url": "https://www.polygon.com/ambrosia-sky-review/",
         "date": "2026-08-08",
         "is_translated": true
+      },
+      {
+        "title": "【オープンワールド協力ゲーム『Big Walk』はすぐ遭難するから面白い。『Beast of R...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "オープンワールド協力ゲーム『Big Walk』は、プレイヤーがすぐに遭難することから面白さが生まれるユニークなゲームです。『Beast of R...：レビュー』のレビュー記事では、このゲームの評価ポイントとして、チャレンジングなゲーム性や独創的なゲームデザインを挙げています。また、レビューでは、コラボレーション要素やグラフィックの 퀄리ティも高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260809-459421/",
+        "date": "2026-08-09",
+        "is_translated": false
+      },
+      {
+        "title": "【「ソウルライクは難しそう」と感じる初心者も、『Lies of P：コンプリート エディション』...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "ソウルライクゲームが難しそうに感じる初心者も『Lies of P：コンプリート エディション』をプレイしてみる価値があります。このゲームは、ストーリーやキャラクター、ゲームシステムなどが高く評価されています。特に、美しいグラフィックと心地よいサウンドトラックが際立っています。ゲーマー向けのレビュー記事として、ゲームの魅力や難易度、ストーリーの面白さなどが紹介されていますので。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/columnjp/20260809-459318/",
+        "date": "2026-08-09",
+        "is_translated": false
+      },
+      {
+        "title": "【自作ゲームで軽い気持ちで「シングルプレイモード」を実装した開発者、“大失敗した”と激烈後悔。マ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事では、自作ゲームでシングルプレイモードを軽い気持ちで実装した開発者が大失敗したと語り、激烈に後悔している様子が伝わっています。ゲームの評価ポイントとしては、シングルプレイモードの不備やバグの多さが指摘されています。また、レビューの内容概要としては、開発者がシングルプレイモードの実装に無理があったことや、ユーザーのフィードバックがあまり聞き入れられなかったことが挙げられます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260809-459362/",
+        "date": "2026-08-09",
+        "is_translated": false
+      },
+      {
+        "title": "【注目のファンタジーアクションRPG『BRINGER』が第2回目のCBTを募集開始！ゲームプレイ...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "『BRINGER』は、ファンタジー世界を舞台にしたアクションRPGで、プレイヤーは様々なキャラクターを操作して戦闘に挑みます。このゲームの評価ポイントは、スムーズな操作性と豊富なストーリーです。レビューの内容概要としては、ゲームのグラフィックの高さや、キャラクターのバリエーションが評価されています。対象読者は、ファンタジーゲームやアクションRPGが好きな人におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/08/09/185984.html",
+        "date": "2026-08-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-09T01:29:33.867639"
+  "last_updated": "2026-08-09T09:37:42.163678"
 }
