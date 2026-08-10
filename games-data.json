@@ -544,6 +544,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-08-10"
+      },
+      {
+        "title": "Moonlighter",
+        "platform": "Various",
+        "type": "sale",
+        "description": "MoonlighterがVariousで89%オフのセール中です。このゲームは、店を経営しながらダンジョンを冒険するユニークなコンセプトが特徴で、シミュレーションとアクションの要素を兼ね備えています。現在の価格は大幅に割引されており、通常の価格よりも大幅に安くなっています。Moonlighterは、ユーザーからの評価が高く、ゲームコミュニティで人気のタイトルです。",
+        "price": "$2.25",
+        "originalPrice": "",
+        "discount": "-89%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/moonlighter/info/",
+        "date": "2026-08-10"
       }
     ],
     "review": [
@@ -1014,8 +1026,21 @@
         "url": "https://www.polygon.com/mistfall-hunter-1-million-players-negative-reviews/",
         "date": "2026-08-10",
         "is_translated": true
+      },
+      {
+        "title": "【Steam 週間のレビュー: 何千ものありふれた物体を棚に並べるゲームが PC ゲームを席巻す...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、Steamで話題になっている「何千ものありふれた物体を棚に並べる」ゲームについて取り上げています。評価ポイントとしては、ユニークなゲームプレイやグラフィックの美しさが挙げられます。このゲームは、プレイヤーが様々な物体を棚に並べながら、リラックスした気分で遊ぶことができます。レビューの内容としては、ゲームの魅力や操作の感覚について言及されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-games-about-sorting-1000s-of-mundane-objects-onto-shelves-is-the-new-craze-sweeping-pc-gaming/",
+        "date": "2026-08-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-10T10:15:10.768733"
+  "last_updated": "2026-08-10T13:21:31.840548"
 }
