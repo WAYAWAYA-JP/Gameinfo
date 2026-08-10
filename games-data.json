@@ -556,6 +556,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/moonlighter/info/",
         "date": "2026-08-10"
+      },
+      {
+        "title": "ペルソナ３ リロード",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ３ リロードは、Steamで65% OFFのセール中であり、ロールプレイングゲームのジャンルに属する人気ゲームです。このゲームは、深いストーリーと魅力的なキャラクターで知られており、多くのプレイヤーから高い評価を得ています。現在のセール価格では、大幅な割引でプレイすることができ、ゲームファンにはおすすめのタイトルです。",
+        "price": "¥2,687",
+        "originalPrice": "¥7,678",
+        "discount": "65% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2161700",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "ペルソナ５ ザ・ロイヤル",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ５ ザ・ロイヤルがSteamで70％オフのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、深いストーリーや複雑なキャラクターが特徴です。通常価格から大幅に割引されたこのオファーは、ゲームファンにとって絶好の機会です。ペルソナシリーズは、高い評価と人気度を誇り、ザ・ロイヤルも例外ではありません。Steamのセールを活用して、この魅力的なゲームを体験してみてください。",
+        "price": "¥2,303",
+        "originalPrice": "¥7,678",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1687950",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Tom Clancy's Ghost Recon: Future Soldier™",
+        "platform": "Various",
+        "type": "sale",
+        "description": "タクティカルシューティングゲーム「Tom Clancy's Ghost Recon: Future Soldier」が現在、Variousで100%割引されています。このゲームは、先進的な兵器と戦術的チームプレイを特徴としています。プレイヤーは、未来の戦場で戦うエリート部隊「ゴースト」となり、ミッションを遂行します。評価は非常に高く、人気も高いでしょう。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/tom-clancys-ghost-recon-future-soldier/info/",
+        "date": "2026-08-10"
       }
     ],
     "review": [
@@ -1039,8 +1075,21 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-games-about-sorting-1000s-of-mundane-objects-onto-shelves-is-the-new-craze-sweeping-pc-gaming/",
         "date": "2026-08-10",
         "is_translated": true
+      },
+      {
+        "title": "【宇宙的なローグライク The Carcass では、徐々にあなたに気づき始めた神の死体の中にコ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "このレビュー記事は、ローグライクゲーム「The Carcass」の評価を紹介しています。評価ポイントとしては、ゲームの独自の世界観や、神の死体の中での探索が挙げられます。また、レビューでは、ゲームの難易度や、プレイヤーの選択が重要な役割を果たす点も触れています。この記事は、ローグライクゲームやサバイバルゲームのファンに興味を持ってもらえる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/in-cosmic-roguelike-the-carcass-you-build-a-colony-inside-the-corpse-of-a-god-thats-slowly-becoming-aware-of-you",
+        "date": "2026-08-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-10T13:21:31.840548"
+  "last_updated": "2026-08-10T21:40:19.894986"
 }
