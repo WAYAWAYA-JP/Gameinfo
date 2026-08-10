@@ -206,6 +206,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/rageinducingdifficultgames_bundle",
         "date": "2026-08-08"
+      },
+      {
+        "title": "Dungeons & Dragons: Classics Collection 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、Dungeons & Dragons: Classics Collection 2026というバンドルが販売中です。このバンドルには、主要タイトルとして「Baldur's Gate」、「Icewind Dale」、「Planescape: Torment」などの名作ロールプレイングゲームが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/dungeonsdragonsclassicscollection2026_bundle",
+        "date": "2026-08-10"
       }
     ],
     "sale": [
@@ -496,6 +508,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-08-09"
+      },
+      {
+        "title": "サイバーパンク2077",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サイバーパンク2077がSteamで70% OFFセール中です。このゲームは、オープンワールドのRPGジャンルに属し、未来的な世界を舞台に、プレイヤーが自由に探索し、クエストをこなすことができます。サイバーパンク2077は、グラフィックやサウンドトラックが高く評価されており、人気度も非常に高いゲームです。",
+        "price": "¥2,633",
+        "originalPrice": "¥8,778",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1091500",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "The Alters",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Altersは、バラエティ豊かなゲームです。現在、61%オフのセール中で、通常よりも大幅に安い価格で楽しむことができます。このゲームは、ユニークなゲームプレイやグラフィックが特徴で、多くのユーザーから高い評価を得ています。人気度も高く、セール中のこの機会に一度プレイしてみることをお勧めします。",
+        "price": "$13.60",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-alters/info/",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Strayはアクションアドベンチャーゲームで、猫のキャラクターを操作して探索することが特徴です。このゲームは現在、Variousで22%割引セール中で、ファンから高い評価を得ています。価格も手頃なので、ゲームファンにはおすすめのタイトルです。",
+        "price": "$23.42",
+        "originalPrice": "",
+        "discount": "-22%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-08-10"
       }
     ],
     "review": [
@@ -914,8 +962,60 @@
         "url": "https://www.pcgamer.com/games/third-person-shooter/free-to-play-division-game-launches-on-steam-to-mixed-reviews-calling-it-slop-disrespects-actual-slop/",
         "date": "2026-08-10",
         "is_translated": true
+      },
+      {
+        "title": "【あるSteamユーザーが「470時間プレイした『Battlefield 6』の返金申請が通った...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、Steamユーザーが470時間プレイした『Battlefield 6』の返金申請が通ったという出来事を紹介しています。評価ポイントとしては、返金申請の手続きやその結果について触れています。対象読者は、Steamユーザーやゲームファンで、ゲームの評価ポイントや返金申請の手続きに興味がある方です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260810-459530/",
+        "date": "2026-08-10",
+        "is_translated": false
+      },
+      {
+        "title": "【崩壊の危機に瀕する国家で懸命に働く身重の母親を描く「1998: The Toll Keeper...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム「1998: The Toll Keeper...」の評価ポイントを紹介しています。ゲーム内の描写がリアルで感動的であること、ストーリーの展開が予想外で面白いこと、グラフィックの品質が高いことが評価ポイントです。このゲームは、社会的なメッセージを含んだストーリーが特徴で、家族の愛と仕事への情熱をテーマにしています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169427.html",
+        "date": "2026-08-10",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam 週間のレビュー: 何千もの平凡なオブジェクトを棚に並べるゲームは、PC ゲームを席...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事では、Steam で話題になっているゲームについて紹介しています。このゲームは何千もの普通の物体を棚に並べるという、ユニークな内容です。評価ポイントとしては、ゲームのグラフィックやサウンド、そしてユーザーのレビューが上げられています。レビューの内容概要としては、ゲームの独自性やユーザーの参加度の高さが挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-games-about-sorting-1000s-of-mundane-objects-onto-shelves-is-the-new-craze-sweeping-pc-gaming/",
+        "date": "2026-08-10",
+        "is_translated": true
+      },
+      {
+        "title": "【50% が 1 つ星のレビューを獲得した Xbox ゲームは、第 1 週でも 100 万人のプ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事では、Xbox ゲームの評価ポイントを紹介しています。特に、第1週で100万人のプレイヤーを獲得しながらも、50%が1つ星のレビューを獲得したゲームについて焦点を当てています。記事では、このゲームの評価ポイントとして、プレイヤーの反響やゲームの内容、および開発者の対応について取り上げています。また、Xbox ゲームファンやゲーム開発者向けの情報としても役立つ内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/mistfall-hunter-1-million-players-negative-reviews/",
+        "date": "2026-08-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-10T01:39:27.833204"
+  "last_updated": "2026-08-10T10:15:10.768733"
 }
