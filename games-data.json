@@ -568,6 +568,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/sniper-ghost-warrior-contracts-2-complete-edition/info/",
         "date": "2026-08-11"
+      },
+      {
+        "title": "World War Z",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "人気のゾンビアクションゲーム「World War Z」がSteamで75%オフのセール中です。このゲームは、協力プレイを重視したサードパーソン・シューティングゲームで、世界中のさまざまな場所を舞台に、プレイヤーがゾンビの大群と戦います。高い評価と人気度を誇るこのゲームは、通常価格より大幅に安くなっているので、おすすめです。",
+        "price": "¥1,074",
+        "originalPrice": "¥4,299",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/699130",
+        "date": "2026-08-11"
       }
     ],
     "review": [
@@ -1051,8 +1063,47 @@
         "url": "https://www.inside-games.jp/article/2026/08/11/186058.html",
         "date": "2026-08-11",
         "is_translated": false
+      },
+      {
+        "title": "【Steamマルチ対応・細かすぎ宇宙船クラフト『Approximately Up』95%好評で人...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで配信中の「Approximately Up」は、宇宙船を細かくカスタマイズできるゲームで、高い評価を得ています。このゲームの評価ポイントとしては、自由度の高い宇宙船の制作や、複雑なシステムの細かい設定が挙げられます。レビューの内容概要としては、ゲームの独自のシステムや、多人数でのプレイが楽しめる点が高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260810-459585/",
+        "date": "2026-08-11",
+        "is_translated": false
+      },
+      {
+        "title": "【【特集】夏休みの読書感想文に迷ったらゲームの元ネタを読もう！『ポケモン』から『かまいたちの夜』...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "夏休みの読書感想文で何を書こうか迷っている方に、ゲームの元ネタとなる作品を紹介する記事があります。この記事では、人気ゲーム『ポケモン』や『かまいたちの夜』などの原作を読むことを提案しています。読者は、これらのゲームの原作がどのような内容かを知り、ゲームの世界観をより深く理解することができます。さらに、読書感想文の参考にしても活用できる内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/08/11/186066.html",
+        "date": "2026-08-11",
+        "is_translated": false
+      },
+      {
+        "title": "【「リーチャー」シーズン 4 レビュー: プライム ビデオでアラン リッチソンがミッション: イ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "このレビュー記事では、Amazonプライムビデオのドラマ「リーチャー」シーズン4について評価しています。主演のアラン・リッチソンが演じる主役に焦点を当てたストーリー展開や、ミッション：インポッシブルシリーズの要素が取り入れられている点が高く評価されています。また、シーズン4では新しいキャラクターが登場し、ストーリーに新たな深みが加わっていることが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/reacher-season-4-review/",
+        "date": "2026-08-11",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-11T09:59:13.949592"
+  "last_updated": "2026-08-11T13:18:33.648167"
 }
