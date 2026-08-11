@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/699130",
         "date": "2026-08-11"
+      },
+      {
+        "title": "Black Myth: Wukong",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームのBlack Myth: Wukongが、現在Variousで30%割引のセール中です。このゲームは、中国の古典的な物語「西遊記」をベースにした独自のストーリーと、ダイナミックなアクションシーケンスで人気を博しています。多くのユーザーから高い評価を受けており、現在の割引価格で購入するのはよい機会です。",
+        "price": "$41.99",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/black-myth-wukong/info/",
+        "date": "2026-08-11"
       }
     ],
     "review": [
@@ -1102,8 +1114,34 @@
         "url": "https://www.polygon.com/reacher-season-4-review/",
         "date": "2026-08-11",
         "is_translated": true
+      },
+      {
+        "title": "【主人公ソフィアの戦闘に焦点を当てる「Resonance: A Plague Tale Lega...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "本レビュー記事では、ゲーム「Resonance: A Plague Tale Lega...」を紹介しています。このゲームでは、主人公ソフィアの戦闘に焦点が当てられており、彼女の戦闘能力や戦略が重要な要素となっています。レビューでは、ゲームのストーリーやキャラクターの深み、そしてプレイヤーが戦闘で使えるスキルやアイテムの種類などが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169252.html",
+        "date": "2026-08-11",
+        "is_translated": false
+      },
+      {
+        "title": "【大都市を探索する子ネコを描く「Little Kitty, Big City」のモバイル対応がア...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Little Kitty, Big City」のモバイル対応版のレビュー記事では、このゲームの評価ポイントとして、可愛らしい子ネコのキャラクターと大都市の探索要素が高く評価されています。また、ゲームのグラフィックやサウンドトラックも良好な評価を受けています。このレビューは、モバイルゲームファンや子ネコが好きな人に対象としており、ゲームの内容や操作性について詳しく紹介しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169536.html",
+        "date": "2026-08-11",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-11T13:18:33.648167"
+  "last_updated": "2026-08-11T21:44:50.529906"
 }
