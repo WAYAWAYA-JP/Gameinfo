@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Twin Sails Interactive 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Twin Sails Interactive 2026のバンドルがHumble Bundleで販売中です。このバンドルには、同社の主要タイトルである「Diluvian Ulm」や「Little Town Hero」などのゲームが含まれています。ジャンルはアクションアドベンチャーやRPGに分類され、価格帯はおよそ2,000円から5,000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/twinsailsinteractive2026_bundle",
-        "date": "2026-08-01"
-      },
-      {
-        "title": "Point Click Package",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Point Click Packageのバンドルが販売中です。このバンドルには、The Whispered World、The Night of the Rabbit、Deponiaなどの主要タイトルが含まれています。ポイント・アンド・クリックアドベンチャーが中心のバンドルで、ファンにはおすすめのジャンルです。大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/pointclickpackage_bundle",
-        "date": "2026-08-01"
-      },
-      {
         "title": "Horror Station Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -221,66 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Resident Evil 4 (2023)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Resident Evil 4は、2023年にリリースされたサバイバルホラー系のゲームで、現在Variousで78%お得なセール中です。このゲームは、ホラー要素とアクションが融合した緊張感漂うゲームプレイが特徴で、グラフィックやサウンドデザインも高く評価されています。多くのゲームファンから高い評価を受けており、非常に人気のあるゲームです。",
-        "price": "$8.79",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "Resident Evil Requiem",
-        "platform": "Various",
-        "type": "sale",
-        "description": "バイオハザードシリーズの最新作「Resident Evil Re:Verse」ではなく、別のゲーム「Resident Evil Requiem」がVariousで32%割引のセール中です。このゲームは、サバイバルホラーのジャンルに分類され、恐怖とスリルの混合したゲーム内容が特徴です。現在の価格は割引前の価格より32%安くなっています。ユーザーの評価は高く、人気度も高いゲームです。",
-        "price": "$47.59",
-        "originalPrice": "",
-        "discount": "-32%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "God of War Ragnarök",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームである「God of War Ragnarök」が、現在Variousで35%割引のセール中です。このゲームは、北欧神話を題材にし、高速なアクションと壮大な物語で知られています。高い評価と人気を博しており、多くのゲーマーから支持されています。セール期間中にこのゲームを購入することで、通常価格よりも大幅に安く入手できますので。",
-        "price": "$38.99",
-        "originalPrice": "",
-        "discount": "-35%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "Blazblue Entropy Effect",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Blazblue Entropy EffectがVariousで49%割引のセール中です。このゲームは、人気の高い2Dファイティングゲームのシリーズ「ブレイブルー」の最新作であり、高速で複雑な戦闘システムが特徴です。Steamで4.7の高い評価を獲得しており、ファンや新規プレイヤーから高い評価を得ています。",
-        "price": "$10.15",
-        "originalPrice": "",
-        "discount": "-49%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/blazblue-entropy-effect/info/",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "RESIDENT EVIL 7 biohazard",
-        "platform": "Various",
-        "type": "sale",
-        "description": "バイオハザードシリーズの最新作であるRESIDENT EVIL 7 biohazardは、バイオハザードシリーズの最新作で、サバイバルホラーのジャンルに属します。このゲームは、従来のシリーズとは違った一人称視点でプレイすることができます。現在、Variousで66%オフのセール中で、通常価格よりも大幅に安くなっています。ゲームの評価は非常に高く、多くのプレイヤーから人気を博しています。",
-        "price": "$6.80",
-        "originalPrice": "",
-        "discount": "-66%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-7-biohazard/info/",
-        "date": "2026-08-04"
-      },
       {
         "title": "FINAL FANTASY VII REBIRTH",
         "platform": "Steam",
@@ -592,74 +508,45 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/tom-clancys-ghost-recon-future-soldier/info/",
         "date": "2026-08-10"
+      },
+      {
+        "title": "メタファー：リファンタジオ",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "メタファー：リファンタジオは、アクションRPGの要素を兼ね備えた、幻想的な世界を舞台にしたロールプレイングゲームです。このゲームは、美しいグラフィックと深いストーリーで知られています。現在、Steamで60%OFFのセール中であり、通常価格よりも大幅に安くなっています。ユーザーの評価は非常に高く、多くのプレイヤーから人気を博しています。",
+        "price": "¥3,951",
+        "originalPrice": "¥9,878",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2679460",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Detroit: Become Human",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Detroit: Become HumanがSteamで80% OFFセール中です。このゲームは、アドベンチャーゲームのジャンルに属し、プレイヤーがアンドロイドのキャラクターを操作して物語を進めます。通常価格より大幅に安くなっているので、興味がある方は今がチャンスです。評価も高く、人気度が高いゲームなので、多くのプレイヤーに楽しんでもらえることでしょう。",
+        "price": "¥900",
+        "originalPrice": "¥4,500",
+        "discount": "80% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1222140",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Sniper Ghost Warrior Contracts 2 Complete Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "スナイパーゲームのファンにはおすすめの『Sniper Ghost Warrior Contracts 2 Complete Edition』が、現在Variousで85%オフのセール中です。このゲームはスナイパーを操作してミッションを遂行する、ストラテジーとアクションが混在したFPSゲームです。評価も高く、多くのユーザーから好評価を得ています。",
+        "price": "$8.89",
+        "originalPrice": "",
+        "discount": "-85%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/sniper-ghost-warrior-contracts-2-complete-edition/info/",
+        "date": "2026-08-11"
       }
     ],
     "review": [
-      {
-        "title": "【国内PS5版「ギア・クラブ アンリミテッド3」のゲームプレイトレーラーが公開、発売は2026年...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "国内で発売されるPS5版「ギア・クラブ アンリミテッド3」のゲームプレイトレーラーが公開され、早速レビュー記事も登場しています。ゲームの評価ポイントとしては、グラフィックの高さやスピード感のあるゲーム性が高く評価されています。また、レビューの内容概要としては、レースゲームファンなら必見の作品であることや、操作性の良さが特筆されている点が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169359.html",
-        "date": "2026-08-06",
-        "is_translated": false
-      },
-      {
-        "title": "【DLCを同梱するNintendo Switch 2向け完全版「Lies of P：コンプリート...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Lies of P：コンプリートエディションは、Nintendo Switch 2向けの完全版であり、DLCを同梱している点が評価される。レビューの内容概要としては、ゲームのグラフィックやサウンドの向上、追加コンテンツの充実などが挙げられ、全体的に高評価である。対象読者は、Nintendo Switch 2のユーザーやアクションゲームファン。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169354.html",
-        "date": "2026-08-06",
-        "is_translated": false
-      },
-      {
-        "title": "【写真を撮りながら奇妙な世界を旅するアドベンチャー“TOEM”の続編「TOEM 2」の発売日が2...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「TOEM 2」のレビュー記事では、このゲームの評価ポイントとして、ユニークな世界観とキャラクター、自由に写真を撮りながら進める遊び方が高く評価されています。また、ゲームの雰囲気とグラフィックの美しさもレビューの内容として取り上げられています。このレビュー記事は、写真を撮りながら冒険するゲームを楽しむファンや、奇妙な世界観が好きな人にとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169371.html",
-        "date": "2026-08-06",
-        "is_translated": false
-      },
-      {
-        "title": "【チョルノービリ原子力発電所内部を探索する大型DLC「S.T.A.L.K.E.R. 2: Cos...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "S.T.A.L.K.E.R. 2の新しいDLC「Cos」は、ユーザーから高い評価を得ています。このレビュー記事では、ゲームの評価ポイントとして、グラフィックの向上、ストーリーの深化、探索の自由度の高さを取り上げています。さらに、レビューでは、ゲームの雰囲気やサウンドデザインも高く評価されています。特に、放射線の危険性や生物の異常な挙動がリアルに表現されている点が注目されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169304.html",
-        "date": "2026-08-06",
-        "is_translated": false
-      },
-      {
-        "title": "【【コスプレ】チアガールや“夏衣装”が勢ぞろい！ゲームもアニメも熱々な、2025年夏コミケの美女...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事は、2025年夏コミケの美しいコスプレの写真を紹介しているものです。チアガールや夏衣装を着た女性たちが勢ぞろいし、ゲームやアニメのキャラクターを再現しています。記事では、コスプレの多様性や創造性を高く評価しています。ゲームやアニメファン、コスプレに興味のある人には必見の記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/08/06/185853.html",
-        "date": "2026-08-06",
-        "is_translated": false
-      },
       {
         "title": "【『鬼武者 Way of the Sword』先行プレイ感想。「バッサリ感」を引き立てる”快感防...】",
         "platform": "AUTOMATON",
@@ -687,45 +574,6 @@
         "is_translated": false
       },
       {
-        "title": "【最初の週が成功した後、ミストフォール ハンターはマップの 1 つで多くの要望があったソロ モー...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "ミストフォール ハンターのレビュー記事では、最初の週が成功した後、マップの 1 つで多くの要望があったソロ モードについて触れています。このゲームは、グラフィックやサウンド、ゲームプレイの面で高く評価されており、特にソロ モードの追加が好評です。また、記事ではゲームの長所や短所についても議論されており、ファンや新規プレイヤーにとって参考になる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/after-a-successful-first-week-mistfall-hunter-gets-a-roadmap-promising-a-much-requested-solo-mode-for-one-of-its-maps",
-        "date": "2026-08-06",
-        "is_translated": true
-      },
-      {
-        "title": "【サムライ マゾヒストの皆さん、恐れることはありません。『鬼武者: Way of the Swo...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "サムライマゾヒストの皆さん、安心してください。このレビュー記事では、『鬼武者：Way of the Sword』の評価ポイントを150〜200字で紹介します。このゲームの評価ポイントは、スリリングなアクションシーン、ストーリーの深み、そしてグラフィックの美しさです。レビューの内容概要としては、ゲームの難易度が高く、プレイヤーに高い集中力を要求するものの、達成感も高いと言えるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/fear-not-samurai-masochists-onimusha-way-of-the-swords-flashiness-hasnt-replaced-its-challenge",
-        "date": "2026-08-06",
-        "is_translated": true
-      },
-      {
-        "title": "【Marvel Tokon Fighting Souls レビュー進行中: 美しいが破壊されている】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Marvel Tokon Fighting Soulsのレビュー記事では、ゲームの評価ポイントとしてグラフィックの美しさと破壊的な要素が取り上げられています。記事では、ゲームのレビューの内容概要として、美しいグラフィックと破壊的な戦闘システムのバランスが良く、プレイヤーに興奮と満足感を与えることができると評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/marvel-tokon-fighting-souls-day-one-review-first-impressions/",
-        "date": "2026-08-06",
-        "is_translated": true
-      },
-      {
         "title": "【硬派SRPG最新作『Dragon’s Chronicles〜双星のレギンレイヴ〜』Steamお...：レビュー】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -737,19 +585,6 @@
         "url": "https://automaton-media.com/articles/newsjp/20260807-458987/",
         "date": "2026-08-07",
         "is_translated": false
-      },
-      {
-        "title": "【After a successful first week, Mistfall Hunter ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「Mistfall Hunter」の初週の成功を受けて書かれたものです。記事では、ゲームの評価ポイントを紹介し、グラフィックやゲームプレイの面での強みを強調しています。また、ゲームのストーリーやサウンドトラックについても触れています。この記事は、ゲーム好きの人や「Mistfall Hunter」のファンにとって、ゲームの魅力を再確認するための参考になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/after-a-successful-first-week-mistfall-hunter-gets-a-roadmap-promising-a-much-requested-solo-mode-for-one-of-its-maps",
-        "date": "2026-08-06",
-        "is_translated": true
       },
       {
         "title": "【上海ゲームイベント「COREBLAZER Game Fest 2026」は、試遊・就職相談・商...：レビュー】",
@@ -1088,8 +923,47 @@
         "url": "https://www.rockpapershotgun.com/in-cosmic-roguelike-the-carcass-you-build-a-colony-inside-the-corpse-of-a-god-thats-slowly-becoming-aware-of-you",
         "date": "2026-08-10",
         "is_translated": true
+      },
+      {
+        "title": "【『ぽこ あ ポケモン』のブクブクうみぞこの街で「海の水全部抜いた」猛者あらわる。実質グラードン：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム『ぽこ あ ポケモン』の海の水をすべて抜くという挑戦を紹介しています。記事では、グラードンを実質的に使ったこの挑戦の内容と結果について評価しています。ポケモンシリーズのファンやゲームの挑戦に興味がある方に読んでいただきたい内容です。記事では、挑戦の難易度や達成感、ゲーム内のグラードンの役割などについて触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260811-459607/",
+        "date": "2026-08-11",
+        "is_translated": false
+      },
+      {
+        "title": "【D.Monが参戦する「オーバーウォッチ」シーズン4“釜山の英雄たち”の新コンテンツ紹介トレーラ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「オーバーウォッチ」シーズン4“釜山の英雄たち”の新コンテンツ紹介トレーラーのレビュー記事では、ゲームの新しい要素やキャラクターの評価ポイントを介绍しています。記事では、新しいヒーローD.Monの能力や戦闘スタイル、そしてシーズン4のストーリーやゲームモードの更新点などが詳しく解説されています。ゲームファンや「オーバーウォッチ」のプレイヤーにとって。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169496.html",
+        "date": "2026-08-11",
+        "is_translated": false
+      },
+      {
+        "title": "【“Untitled Goose Game”を生んだHouse Houseの新作Co-opゲーム...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "House Houseの新作Co-opゲームのレビュー記事では、ゲームの評価ポイントとして、ユーモアのあるゲームデザインやコラボレーションの必要性が挙げられています。また、レビューの内容概要として、ゲームのグラフィックやサウンドトラックの質の高さや、プレイヤー間のコミュニケーションの重要性が述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169510.html",
+        "date": "2026-08-10",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-10T21:40:19.894986"
+  "last_updated": "2026-08-11T01:28:57.683970"
 }
