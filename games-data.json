@@ -1114,8 +1114,47 @@
         "url": "https://www.inside-games.jp/article/2026/08/12/186102.html",
         "date": "2026-08-12",
         "is_translated": false
+      },
+      {
+        "title": "【ゲーム開発者が「“鍵屋”で買うぐらいなら海賊版で遊んで」と怒りの表明。善意を踏みにじる、Ste...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、ゲーム開発者が「“鍵屋”で買うぐらいなら海賊版で遊んで」と怒りの表明した件について触れています。ゲームの評価ポイントとして、開発者の意図とゲームの内容の乖離、ゲームの魅力が損なわれている点が取り上げられています。また、レビューの内容概要として、ゲームの開発者とプレイヤーの関係の重要性や、海賊版の問題が述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260812-459909/",
+        "date": "2026-08-12",
+        "is_translated": false
+      },
+      {
+        "title": "【Asus ROG Swift PG32UCWM レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Asus ROG Swift PG32UCWM は、高品質なゲーム体験を提供するモニターです。このレビューでは、ゲームの評価ポイントとして、画質、応答速度、コントラスト比などの要素を考慮しています。特に、4K解像度とHDR10の対応により、鮮やかな色彩と深みのある映像を楽しむことができます。また、1msの応答速度により、スムーズなゲームプレイを実現します。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/asus-rog-swift-pg32ucwm-review/",
+        "date": "2026-08-12",
+        "is_translated": true
+      },
+      {
+        "title": "【Phantom Blade Zero、プレイ状況に先立って大規模な発売日の詳細を明らかに】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Phantom Blade Zeroのレビューでは、ゲームの評価ポイントとしてグラフィックの質やストーリーの深みが高く評価されています。また、ゲームプレイのスムーズさや操作のしやすさも強みとして挙げられています。このレビューは、ゲームファンやアクションゲーム好きにとって参考になる内容になっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/phantom-blade-zero-trailer-state-of-play-announcement/",
+        "date": "2026-08-12",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-12T10:01:20.422614"
+  "last_updated": "2026-08-12T13:22:30.400399"
 }
