@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Horror Station Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、ホラーゲームのファン向けに「Horror Station Bundle」が販売中です。このバンドルには、ホラーをテーマにした『Amnesia: Rebirth』や『Outlast』、『Call of Cthulhu』などの人気タイトルが含まれています。ジャンルはホラー・サバイバルゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/horror-station-bundle",
-        "date": "2026-08-02"
-      },
-      {
         "title": "Idlers and Desktop Companions",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -221,66 +209,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "FINAL FANTASY VII REBIRTH",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY VII REBIRTHがSteamで60% OFFセール中です。このゲームは、高度なグラフィックとドラマティックなストーリーが特徴的なロールプレイングゲームです。現在、60%割引の価格で購入でき、ファイナルファンタジーシリーズのファンにはおすすめです。ゲームの評価は非常に高く、人気度も高いので、セールの期間中に購入することをお勧めします。",
-        "price": "¥2,631",
-        "originalPrice": "¥6,578",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2909400",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY VII REMAKE INTERGRADEがSteamで65% OFFセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、特に FINAL FANTASY シリーズのファンには人気があります。現在、Steamでの販売価格が大幅に割引されており、通常時の65%割引になっています。",
-        "price": "¥1,917",
-        "originalPrice": "¥5,478",
-        "discount": "65% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1462040",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Nier: Automata™ Game Of The Yorha Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションRPGの名作「Nier: Automata™ Game Of The Yorha Edition」がVariousで60%割引セール中です。このゲームは、美しいグラフィックと独特のストーリー、そして激しいアクションで人気を博しています。評価も非常に高く、多くのゲームファンから絶賛されています。通常価格より60%安く購入できるこのセールは、ゲームファンにとって大きなチャンスです。",
-        "price": "$15.99",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/nier-automata-game-of-the-yorha-edition/info/",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Rust",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "現在、Steamでサンドボックス系サバイバルゲームであるRustが50%オフのセール中です。このゲームは、プレイヤーが荒野で生き残るために戦い、資源を集め、建物を建設する必要があります。Rustは、ユーザーが自由にアイテムを作成し、建物を設計できることが特徴的です。Steamの評価は「非常に好評」で、プレイヤーから高い人気度を誇っています。",
-        "price": "¥2,300",
-        "originalPrice": "¥4,600",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/252490",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Project First Contact",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Project First ContactがVariousで-100%のセール中です。このゲームは、ストラテジーとアクションの要素を組み合わせたユニークなゲームで、プレイヤーは宇宙のunknown惑星を探索し、異星人の種族との交流を試みます。セール中の価格は完全に無料となり、興味がある方は絶好の機会です。評価は非常に高い人気ゲームであり、多くのプレイヤーから高く評価されています。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/project-first-contact/info/",
-        "date": "2026-08-05"
-      },
       {
         "title": "Lies Of P",
         "platform": "Various",
@@ -592,126 +520,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/black-myth-wukong/info/",
         "date": "2026-08-11"
+      },
+      {
+        "title": "Cult of the Lamb",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Cult of the Lambは、カルトを運営するシミュレーションゲームで、独特のゲーム性とユーモア溢れたグラフィックが特徴です。現在、Variousで60%割引のセール中で、通常価格よりも大幅に安くなっています。ユーザーの評価は非常に高く、多くのプレイヤーから人気を博しています。",
+        "price": "$9.99",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cult-of-the-lamb/info/",
+        "date": "2026-08-12"
       }
     ],
     "review": [
-      {
-        "title": "【『鬼武者 Way of the Sword』先行プレイ感想。「バッサリ感」を引き立てる”快感防...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『鬼武者 Way of the Sword』の先行プレイレビュー記事では、ゲームの「バッサリ感」を高める要素として「快感防」が紹介されています。この記事では、ゲームの評価ポイントとして、スリルがあるアクションや、ストーリーの展開が挙げられます。また、特にアクションゲームファンや、シリーズのファンにとっては、興味深い内容になっているようです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260807-458825/",
-        "date": "2026-08-07",
-        "is_translated": false
-      },
-      {
-        "title": "【エイリアンCo-opサバイバルシューター続編「Aliens: Fireteam Elite 2...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、エイリアンシリーズのCo-opサバイバルシューター続編「Aliens: Fireteam Elite 2」の評価ポイントを紹介しています。ゲームの評価ポイントとして、グラフィックの質、サウンドデザイン、ゲームプレイの爽快性などが挙げられます。レビューの内容概要としては、ゲームのストーリーやキャラクターの魅力、そしてマルチプレイの楽しさなどが説明されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169397.html",
-        "date": "2026-08-07",
-        "is_translated": false
-      },
-      {
-        "title": "【硬派SRPG最新作『Dragon’s Chronicles〜双星のレギンレイヴ〜』Steamお...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Dragon’s Chronicles〜双星のレギンレイヴ〜』は、最新のシミュレーションRPGです。このゲームの評価ポイントとしては、ストーリーの深みやキャラクターの個性が際立つことが挙げられます。レビューの内容概要としては、ゲームの難易度やシステムの複雑さについて触れられています。対象読者は、シミュレーションRPGのファンや、ストーリー重視のゲームを好む人に適しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260807-458987/",
-        "date": "2026-08-07",
-        "is_translated": false
-      },
-      {
-        "title": "【上海ゲームイベント「COREBLAZER Game Fest 2026」は、試遊・就職相談・商...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "上海ゲームイベント「COREBLAZER Game Fest 2026」のレビュー記事では、ゲームの新作発表や試遊会、就職相談会、商業展示など、さまざまなコンテンツが紹介されています。ゲームファンや業界人向けのイベントとして高く評価されています。また、最新のゲーム情報やトレンドを知ることができ、ゲーム業界に入りたい人にとっても有益な記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/coreblazer-game-fest-20260707-459148/",
-        "date": "2026-08-07",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料“美形罪人だらけ”RPG『無期迷途』新バージョンは快適で、濃密。強火ファンが「近...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「無期迷途」は基本プレイ無料のRPGゲームで、美形の罪人が登場することが特徴です。このゲームの新バージョンは快適で、濃密な内容が楽しめます。強いファンからは「近い将来に新しいバージョンがリリースされることを期待する」と評価されています。ゲームの評価ポイントとしては、キャラクターのデザインやストーリーの魅力、ゲームシステムの改善が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260807-459105/",
-        "date": "2026-08-07",
-        "is_translated": false
-      },
-      {
-        "title": "【かつて人気博したバトロワ『Darwin Project』に突如大型アプデ到来、8年越しに日本語...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Darwin Project』はかつて人気を博したバトルロイヤルゲームで、突如として大型アップデートが行われ、8年越しに日本語対応になったという評価ポイントがあります。このレビュー記事では、新しいアップデートの内容や日本語対応の影響について触れています。対象読者は『Darwin Project』のファンやバトルロイヤルゲームを楽しむ人たちです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260807-458976/",
-        "date": "2026-08-07",
-        "is_translated": false
-      },
-      {
-        "title": "【『ほの暮しの庭』は『夜廻』ファン、スローライフ好き、新規ユーザーのすべてに“良し”！ 唯一無二...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "『ほの暮しの庭』は、夜廻のファンやスローライフが好きな人、新規ユーザーなど、幅広い層に楽しんで貰えるゲームです。このゲームは、ユニークな世界観やリラックスした雰囲気で、高い評価を得ています。レビューでは、ゲームのグラフィックやサウンドトラック、ストーリーの魅力が高く評価されています。特に、スローライフゲームを好きな人には、心地よい時間を過ごせるコンテンツであると言えるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/08/07/185912.html",
-        "date": "2026-08-07",
-        "is_translated": false
-      },
-      {
-        "title": "【ベトナム戦争をテーマに描く50vs50シューター「Hell Let Loose: Vietna...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "ベトナム戦争をテーマに描く50vs50シューター「Hell Let Loose: Vietnam」のレビュー記事では、ゲームの評価ポイントとして、リアルな戦場の再現や戦略的なチームプレイが可能な点が高く評価されています。また、レビューの内容概要として、ゲームのグラフィックやサウンドデザインの質が高く、臨場感のある戦闘体験が提供されることも挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169435.html",
-        "date": "2026-08-07",
-        "is_translated": false
-      },
-      {
-        "title": "【Asus ROG Zephyrus G16 (2026) レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Asus ROG Zephyrus G16 (2026) レビューは、最新のゲームラップトップについての評価ポイントを提供しています。このレビューでは、パフォーマンス、グラフィックの品質、バッテリーの持続時間などの点について詳しく説明しています。また、ゲームの快適性や портатив性についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-rog-zephyrus-g16-2026-review/",
-        "date": "2026-08-07",
-        "is_translated": true
-      },
       {
         "title": "【新タンクヒーロー“D.Mon”のゲームプレイを紹介する「オーバーウォッチ」の吹き替えトレーラー...】",
         "platform": "doope!",
@@ -1140,8 +963,60 @@
         "url": "https://doope.jp/2026/08169536.html",
         "date": "2026-08-11",
         "is_translated": false
+      },
+      {
+        "title": "【Steamで話題沸騰3人マルチ爆弾解除ゲーム『BOMBANANA!』9月2日配信へ。「見ざる聞...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Steamで話題沸騰している3人マルチの爆弾解除ゲーム「BOMBANANA!」が9月2日に配信されることが決定しました。このゲームは、プレイヤー同士のコミュニケーションが重要な要素となっており、チームワークを高めることで勝利を目指すことができます。レビュー記事「見ざる聞...：レビュー」では、このゲームの評価ポイントとして、簡単ながらも奥の深いゲーム性や。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260812-459773/",
+        "date": "2026-08-12",
+        "is_translated": false
+      },
+      {
+        "title": "【『The Elder Scrolls VI』、“実際のゲームプレイ”を披露できる段階か。XBO...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "The Elder Scrolls VIの最新情報を紹介するレビュー記事です。この記事では、The Elder Scrolls VIの実際のゲームプレイが披露できる段階に達したかどうかを検討しています。具体的には、Xbox One版のゲームプレイ性やグラフィックの質などを評価しています。The Elder Scrollsシリーズのファンや、新作ゲームを楽しみに待っているゲーマーが対象です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/the-elder-scrolls-vi-20260812-459764/",
+        "date": "2026-08-12",
+        "is_translated": false
+      },
+      {
+        "title": "【歴史ある定番マップを再構築する「Battlefield 6」“ウェーク・アイランド”のゲームプ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Battlefield 6」のウェーク・アイランドマップは歴史ある定番マップを再構築したもので、レビューではグラフィックスやサウンドデザイン、ゲームプレイのバランスが高く評価されています。また、多様なゲームモードやマップデザインも魅力的です。このレビュー記事はファーストパーソン・シューティングゲームを楽しむゲーマーや「バトルフィールド」シリーズのファンに役立つ情報を提供しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169548.html",
+        "date": "2026-08-12",
+        "is_translated": false
+      },
+      {
+        "title": "【「The Elder Scrolls VI: ********」を実際にプレイした、Bethe...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "The Elder Scrolls VIの最新作を実際にプレイしたBethe...によるレビュー記事では、ゲームの評価ポイントとして、グラフィックの高さやゲーム性の向上を挙げています。また、レビューの内容概要として、ストーリーの深さやキャラクターの造形が評価されています。このレビュー記事は、The Elder Scrollsシリーズのファンやオープンワールドゲームを楽しむことを好む読者にぴったり…",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169506.html",
+        "date": "2026-08-12",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-11T21:44:50.529906"
+  "last_updated": "2026-08-12T01:46:49.086279"
 }
