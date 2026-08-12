@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/waifu-love-bundle",
         "date": "2026-08-12"
+      },
+      {
+        "title": "Handsome Husbandos",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Handsome HusbandosのバンドルがHumble Bundleで販売中です。このバンドルには、Amnesia: Memories、Nameless 〜〜と呼ばれる君に〜、Collar x Maliceなどのロマンスゲームが含まれています。ジャンルは乙女ゲームで、大まかな価格帯は500円から2000円程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/handsomehusbandos_bundle",
+        "date": "2026-08-12"
       }
     ],
     "sale": [
@@ -591,6 +603,42 @@
         "discount": "-65%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションRPGゲーム「KINGDOM HEARTS -HD 1.5+2.5 ReMIX-」がSteamで70%オフのセール中です。このゲームは、ディズニーとファイナルファンタジーの世界を融合させたユニークなストーリーが特徴です。現在の価格は大幅に割引されており、ファンや新規プレイヤー alike にとって絶好の機会です。",
+        "price": "¥2,244",
+        "originalPrice": "¥7,480",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2552430",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "KINGDOM HEARTS III + Re Mind (DLC)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションRPGの代表的なゲームであるKINGDOM HEARTS III + Re Mind（DLC）がSteamで70%オフのセール中です。このゲームは、ディズニーの世界とファイナルファンタジーシリーズのキャラクターが共演することで知られており、壮大なストーリーと激しいアクションが特徴です。Steamユーザーからは高い評価を得ており、価格も割引によって大幅に下がっているため。",
+        "price": "¥2,904",
+        "originalPrice": "¥9,680",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2552450",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Cat Named Mojave",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Cat Named Mojaveは、バラエティ豊かなゲームです。現在、Variousで100%割引セール中で、通常価格より大幅に安くなっています。このゲームは、ユニークなゲームプレイと独特のグラフィックで知られており、ユーザーから高い評価を受けています。また、人気度も高く、多くのプレイヤーに支持されています。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cat-named-mojave/info/",
         "date": "2026-08-12"
       }
     ],
@@ -1156,5 +1204,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-12T13:22:30.400399"
+  "last_updated": "2026-08-12T21:43:38.803812"
 }
