@@ -206,6 +206,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/pointclickpackage_bundle",
         "date": "2026-08-11"
+      },
+      {
+        "title": "Horror Station Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Horror Station Bundleが販売中です。このバンドルには、Outlast、Amnesia: The Dark Descent、Five Nights at Freddy'sなどの人気ホラータイトルが収録されています。ホラーゲームファンにはたまらないバンドルです。ジャンルはホラーです。大まかな価格帯は10ドルから20ドル程度です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/horror-station-bundle",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Waifu Love Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "IndieGalaでは、Waifu Love Bundleのバンドルが販売中です。このバンドルには、Harem Mate、Waifu Uncovered、Love Esquireなどの人気タイトルが含まれています。恋愛やアダルトジャンルのゲームを収録したこのバンドルは、約10ドルほどで購入できます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/waifu-love-bundle",
+        "date": "2026-08-12"
       }
     ],
     "sale": [
@@ -531,6 +555,42 @@
         "discount": "-60%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cult-of-the-lamb/info/",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Rust",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "RustがSteamで50% OFFのセール中です。このサバイバルアクションゲームは、荒野の中で生き残るために、他のプレイヤーとの戦い、資源の探索、建物の建設が特徴です。現在、割引により大幅に安くなっています。高い評価と人気度を誇るこのゲームは、多くのプレイヤーに愛されています。",
+        "price": "¥2,300",
+        "originalPrice": "¥4,600",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/252490",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "The Elder Scrolls IV: Oblivion Remastered",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Elder Scrolls IV: Oblivion Remasteredは、オープンワールドRPGの名作で、豊富なストーリーや自由なゲームプレイが特徴です。今回はVariousで40%オフのセール中であり、大幅な割引価格でプレイすることができます。このゲームは、高度なグラフィックや深いストーリーで人気を博しており、ファンからの評価も非常に高いです。",
+        "price": "$30.09",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-elder-scrolls-iv-oblivion-remastered/info/",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Metaphor: ReFantazio",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Metaphor: ReFantazioは、ファンタジー要素を含むアドベンチャーゲームです。このゲームは、ユニークなストーリーラインと美しいグラフィックで知られており、プレイヤーに魅了される体験を提供します。現在、Variousで65%割引されており、非常に魅力的です。ユーザーの評価は高く、人気度も高いゲームの1つです。",
+        "price": "$24.84",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
         "date": "2026-08-12"
       }
     ],
@@ -1015,8 +1075,47 @@
         "url": "https://doope.jp/2026/08169506.html",
         "date": "2026-08-12",
         "is_translated": false
+      },
+      {
+        "title": "【初代の発売10周年を迎えた「Reigns」シリーズの累計プレイヤー数が400万人に到達、PCと...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Reigns」シリーズの累計プレイヤー数が400万人に到達したことを記念して、シリーズの評価ポイントについてレビューしています。シリーズの魅力として、シンプルながらも奥深いゲームシステムや、ユニークなストーリー展開が挙げられます。また、シリーズの進化についても触れており、グラフィックやサウンドの向上により、より没入感のあるゲーム体験ができるようになったことも評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169558.html",
+        "date": "2026-08-12",
+        "is_translated": false
+      },
+      {
+        "title": "【「Call of Duty: Modern Warfare 4」キャンペーンの新たなファースト...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "『Call of Duty: Modern Warfare 4』キャンペーンのレビュー記事では、ゲームの評価ポイントとしてグラフィックの質やサウンドデザインのリアルさ、そしてストーリーの緊張感が高く評価されています。また、レビューの内容概要として、ゲームのプレイアビリティや難易度の調整が適切であること、さらにマルチプレイヤーモードの充実度が高いことが挙げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169507.html",
+        "date": "2026-08-12",
+        "is_translated": false
+      },
+      {
+        "title": "【非情の100m走に全てを賭けろ！シリーズ最大の問題作『がんばれゴエモン 黒船党の謎』をプレイ】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、シリーズの中で最も問題のあるとされる『がんばれゴエモン 黒船党の謎』のプレイ感想や評価ポイントを紹介しています。ゲームの難易度やシステムの面白さ、ストーリーの魅力が評価のポイントになっています。ゲーマー向けの記事であり、特にアクションアドベンチャーゲームのファンにはお勧めできる記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/08/12/186102.html",
+        "date": "2026-08-12",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-12T01:46:49.086279"
+  "last_updated": "2026-08-12T10:01:20.422614"
 }
