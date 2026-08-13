@@ -194,6 +194,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/handsomehusbandos_bundle",
         "date": "2026-08-12"
+      },
+      {
+        "title": "Idlers and Desktop Companions",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleで「Idlers and Desktop Companions」というバンドルが販売中です。このバンドルには、代表的なタイトルとして「Idle Champions of the Forgotten Realms」や「AdVenture Capitalist」、「Egg, Inc.」などのタイトルが含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/idlersanddesktopcompanions_bundle",
+        "date": "2026-08-13"
       }
     ],
     "sale": [
@@ -543,6 +555,18 @@
         "discount": "-60%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "Beyond Two Souls",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Beyond Two SoulsがVariousで95%オフのセール中です。このゲームはアクションアドベンチャーな要素が含まれており、ストーリーが強いことで知られています。現在の価格は大幅に割引されており、非常に魅力的な条件です。ユーザーの評価も高く、多くのプレイヤーに支持されています。ぜひこの機会にチェックしてみてください。",
+        "price": "$0.99",
+        "originalPrice": "",
+        "discount": "-95%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/beyond-two-souls/info/",
         "date": "2026-08-13"
       }
     ],
@@ -1027,8 +1051,60 @@
         "url": "https://www.pcgamer.com/games/puzzle/big-walk-review/",
         "date": "2026-08-12",
         "is_translated": true
+      },
+      {
+        "title": "【「Discord Nitro」加入者なら『CoD: MW4』“最速”先行ベータを無料プレイでき...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Discord Nitro加入者は「CoD: MW4」の最速先行ベータを無料でプレイできます。このゲームの評価ポイントとしては、グラフィックの質やゲームプレイのスムーズさが高いことが挙げられます。また、レビューの内容概要としては、新しいマルチプレイヤーモードの追加や、既存のマップの改良が行われている点が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/discord-nitro-cod-mw4-20260813-460051/",
+        "date": "2026-08-13",
+        "is_translated": false
+      },
+      {
+        "title": "【高評価“暗殺回避”異変探しホラー『Targeted –10 Days』期間限定で無料配布中、E...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "Targeted –10 Daysは、期間限定で無料配布中のホラーゲームです。暗殺回避と異変探しが特徴のこのゲームは、高評価を得ています。具体的には、プレイヤーが10日間の期間中に暗殺を回避して生き残るというミッションを遂行する必要があり、ストーリーが進むにつれて様々な異変が起こります。評価ポイントとして、ゲームのスリリングな展開、ストーリーの深み。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260813-460027/",
+        "date": "2026-08-13",
+        "is_translated": false
+      },
+      {
+        "title": "【『アークナイツ：エンドフィールド』リーノ実装で、“写真部”がますます賑わう。本格フォトモードで...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『アークナイツ：エンドフィールド』の最新アップデートで、リーノというキャラクターが実装され、ゲーム内での写真撮影モードがさらに魅力的なものになりました。本格的なフォトモードの導入により、プレイヤーはより自由に写真を撮ることができ、ゲームのグラフィックやキャラクターのデザインを鑑賞することができます。このアップデートは、写真撮影を楽しむプレイヤーやグラフィックにこだわるゲーマーにとって。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260812-459925/",
+        "date": "2026-08-13",
+        "is_translated": false
+      },
+      {
+        "title": "【【コスプレ】ゴスロリ衣装が可愛い「ミサミサ」、キラッと華やかな「ヴィヴィ」や初音ミクまで、“ア...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "このレビュー記事では、コスプレ衣装の評価ポイントを紹介しています。評価ポイントとして、ゴスロリ衣装の可愛さやキラッと華やかなデザインが取り上げられています。記事では、「ミサミサ」や「ヴィヴィ」などのコスプレ衣装や初音ミクのコスプレも紹介されており、コスプレファンやアイドルファンにとっては必見の記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/08/13/186141.html",
+        "date": "2026-08-13",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-13T01:49:03.596390"
+  "last_updated": "2026-08-13T10:02:57.358486"
 }
