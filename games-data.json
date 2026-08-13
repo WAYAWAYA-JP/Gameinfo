@@ -1103,8 +1103,47 @@
         "url": "https://www.inside-games.jp/article/2026/08/13/186141.html",
         "date": "2026-08-13",
         "is_translated": false
+      },
+      {
+        "title": "【期待されたアメリカ高校オープンワールド『Agefield High: Rock the Sch...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "アメリカ高校を舞台にしたオープンワールドゲーム「Agefield High: Rock the School」のレビュー記事では、ゲームの評価ポイントとして、自由に校内を駆け回ることができるOPENワールドの広さや、友人を増やしていくシステム、そしてクイズバトルのバリエーションが評価されています。また、ゲームのレビューの内容として、ストーリーの面白さやキャラクターの個性。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260813-460066/",
+        "date": "2026-08-13",
+        "is_translated": false
+      },
+      {
+        "title": "【Duskfade レビュー: キングダム ハーツの新しい代替品は今年の最高のマリオ ゲームです】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Duskfade レビュー記事では、キングダム ハーツの新しい代替品として今年の最高のマリオ ゲームと評価されています。このレビューでは、ゲームの評価ポイントとしてグラフィックやサウンド、ゲームプレイの面白さを取り上げています。また、ストーリーやキャラクターの魅力についても言及しています。キングダム ハーツやマリオ ゲームのファンである読者に特にオススメできるレビューです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/duskfade-review/",
+        "date": "2026-08-13",
+        "is_translated": true
+      },
+      {
+        "title": "【ファイアーエムブレム フォーチュンウィーブ プレビュー: 任天堂史上最高の戦略ゲームになる可能性】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "ファイアーエムブレムシリーズの最新作「フォーチュンウィーブ」は、任天堂史上最高の戦略ゲームになる可能性を持っているというレビュー記事があります。このゲームの評価ポイントとしては、ストーリーの深みや新しいキャラクターの魅力が挙げられます。レビューでは、戦略的なゲームプレイやグラフィックの向上も高く評価されています。このゲームは、シリーズのファンや戦略ゲーム好きの方に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-preview/",
+        "date": "2026-08-13",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-13T10:02:57.358486"
+  "last_updated": "2026-08-13T13:24:23.633006"
 }
