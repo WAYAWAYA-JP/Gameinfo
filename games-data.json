@@ -2,30 +2,6 @@
   "pc": {
     "free": [
       {
-        "title": "OTXO",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "OTXOは、ストラテジー要素を取り入れたパズルゲームです。ユニークなゲームデザインや、複雑なステージを解決するための戦略的な思考が必要な点が特徴です。また、ゲームの進展に合わせて、新しい要素が追加され、プレイヤーに新たな挑戦を提供します。現在、Epic Gamesプラットフォームで無料配布中であり、誰でも簡単にダウンロードして遊ぶことができます。",
-        "price": "無料",
-        "originalPrice": "¥14",
-        "discount": "100% OFF",
-        "deadline": "2026年08月06日まで",
-        "url": "https://store.epicgames.com/ja/p/63e3482da69d4332bd73ce23706e78eb",
-        "date": "2026-08-06"
-      },
-      {
-        "title": "Sol Cesto",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Sol Cestoは、Epic Gamesで現在無料配布中のアクションアドベンチャーゲームです。このゲームの特徴は、美しいグラフィックとスムーズな操作が可能なことで、プレイヤーはさまざまなステージを冒険し、敵と戦うことができます。また、ゲームの難易度は段階的に上がり、プレイヤーは自分のスキルを試すことができます。",
-        "price": "無料",
-        "originalPrice": "¥16",
-        "discount": "100% OFF",
-        "deadline": "2026年08月06日まで",
-        "url": "https://store.epicgames.com/ja/p/sol-cesto",
-        "date": "2026-08-06"
-      },
-      {
         "title": "Beacon Pines",
         "platform": "Epic Games",
         "type": "free",
@@ -51,30 +27,6 @@
       }
     ],
     "bundle": [
-      {
-        "title": "Idlers and Desktop Companions",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Idlers and Desktop Companionsというバンドルが販売中です。このバンドルには、Adorable Crush、Idle Champions of the Forgotten Realms、Egg Inc.などのタイトルが含まれています。ジャンルは、アイドルゲームやシミュレーションゲームなどが中心です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/idlersanddesktopcompanions_bundle",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Animal Style Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Animal Style Bundleのバンドルが現在販売中です。このバンドルには、主要タイトルとして「Super Animal Royale」や「Bear and Breakfast」、「Unbearable」などが含まれており、ジャンルはアクションアドベンチャーやシミュレーションなど多様なものが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/animalstylebundle_bundle",
-        "date": "2026-08-03"
-      },
       {
         "title": "Humble Handhelds Bundle",
         "platform": "Humble Bundle",
@@ -245,66 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Lies Of P",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームの「Lies Of P」が現在、Variousで50%割引のセール中です。このゲームは、美しいグラフィックと奥深いストーリーで人気を博しており、多くのユーザーから高い評価を獲得しています。セール価格でこのゲームをプレイすることで、ユーザーは大幅なコスト削減を実感することができると同時に、ゲームの魅力を存分に楽しむことができます。",
-        "price": "$29.99",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/lies-of-p/info/",
-        "date": "2026-08-06"
-      },
-      {
-        "title": "Marvel’s Spider-Man: Miles Morales",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Marvel’s Spider-Man: Miles MoralesがSteamで60% OFFセール中です。このゲームはオープンワールドアクションアドベンチャーゲームで、人気シリーズの新しい章として知られています。プレイヤーはマイルズ・モラレスを操作してニューヨーク市を探索し、スパイダーマンとしての能力を利用して悪者と戦います。Steamでのセールにより、通常価格より大幅に安く購入できます。",
-        "price": "¥2,596",
-        "originalPrice": "¥6,490",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1817190",
-        "date": "2026-08-06"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Red Dead Redemption 2がVariousで-75%のセール中です。このゲームはオープンワールドアクションアドベンチャーであり、西部開拓時代を舞台にした壮大な物語が特徴です。現在、価格が大幅に割引されており、ファンや新規プレイヤーにとって絶好の購入機会です。レビューや評価も非常に高い人気ゲームであり、多くのプレイヤーから高く評価されています。",
-        "price": "$14.99",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-08-06"
-      },
-      {
-        "title": "Disco Elysium - The Final Cut",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Disco Elysium - The Final Cutは、ロールプレイングゲームのジャンルで人気の高いタイトルです。このゲームは、ユニークなゲームシステムと深いストーリーで知られています。また、非常に高い評価を獲得しており、多くのプレイヤーから高い人気を博しています。現在、Variousで78%の割引セール中です。",
-        "price": "$8.87",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
-        "date": "2026-08-06"
-      },
-      {
-        "title": "Ready Or Not",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Ready Or NotがVariousで59%引き下げのセール中です。このゲームはタクティカルファーストパーソンシューティングゲームです。プレイヤーは警察の特殊部隊を操作して、犯罪組織と戦います。現在、価格が大幅に下がっているのでおすすめです。また、このゲームはユーザーから高い評価を受けており、人気度も高いと言えるでしょう。",
-        "price": "$20.49",
-        "originalPrice": "",
-        "discount": "-59%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ready-or-not/info/",
-        "date": "2026-08-06"
-      },
       {
         "title": "Tom Clancy's Ghost Recon® Wildlands",
         "platform": "Steam",
@@ -640,100 +532,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cat-named-mojave/info/",
         "date": "2026-08-12"
+      },
+      {
+        "title": "Kingdom Come: Deliverance II",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Kingdom Come: Deliverance IIがVariousで60％オフのセール中です。このゲームはオープンワールドアクションRPGのジャンルに属し、中世のボヘミアを舞台にしたリアルなゲームプレイが特徴です。価格は大幅に割引されており、ファンや新規プレイヤーにとって引き引きできないチャンスです。評価も高く、ユーザーから高い人気度を誇っています。",
+        "price": "$23.99",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
+        "date": "2026-08-13"
       }
     ],
     "review": [
-      {
-        "title": "【新タンクヒーロー“D.Mon”のゲームプレイを紹介する「オーバーウォッチ」の吹き替えトレーラー...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、「オーバーウォッチ」の新しいタンクヒーロー「D.Mon」のゲームプレイを紹介するトレーラーについて評価しています。記事では、トレーラーの映像や音質、そして新ヒーローの魅力について触れています。さらに、記事では「オーバーウォッチ」のファンやゲーム好きにとって、このトレーラーがどのような魅力があるのかについても説明しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169455.html",
-        "date": "2026-08-08",
-        "is_translated": false
-      },
-      {
-        "title": "【複数の次元から集まったサムたちが戦うCo-opローグライトシューター「Serious Sam:...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Serious Sam」シリーズの最新作は、Co-opローグライトシューターとして注目されています。このゲームでは、複数の次元から集まったサムたちが戦いを繰り広げます。レビューでは、ゲームの評価ポイントとして、快適なCo-opプレイ、多様な敵キャラクター、豊富なアクションが挙げられています。また、ゲームの雰囲気やグラフィックの質も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169428.html",
-        "date": "2026-08-08",
-        "is_translated": false
-      },
-      {
-        "title": "【ゆずソフトの美少女ゲーム『サノバウィッチ』50万本突破。中国語レビューが多数集まり、Steam...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ゆずソフトの美少女ゲーム『サノバウィッチ』は50万本を突破しました。このゲームはSteamで中国語のレビューが多数集まっており、高い評価を得ています。評価ポイントとしては、魅力的なキャラクター設定や、ストーリーの深み、ゲームシステムの面白さがあります。レビューの内容概要としては、グラフィックやサウンドトラックの質の高さ、プレイヤーの感情を揺さぶるストーリー展開が特に高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260808-459298/",
-        "date": "2026-08-08",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamの低評価レビューは、「短時間プレイかつ長文になりがち」な傾向。高評価との“書かれ方”...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamの低評価レビューは、短時間プレイした後に長文を書くことが多く、その内容が偏っている傾向があります。一方、高評価のレビューは、ゲームの長所や短所を具体的に述べていることが特徴です。この記事では、Steamのレビューの特徴について詳しく紹介しています。ゲームを購入する前に参考にしたい方や、ゲームのレビューを書くことに興味がある方には、役立つ記事になります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260806-458897/",
-        "date": "2026-08-08",
-        "is_translated": false
-      },
-      {
-        "title": "【フレンドにいたずらし放題協力ホラー『GRAIN ROT』Steamで本日から配信開始。燃える＆...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『GRAIN ROT』は、フレンドにいたずらし放題の協力ホラーです。このゲームの評価ポイントとしては、ユニークなゲームプレイや恐怖要素のあるストーリーがあげられます。レビューの内容概要としては、ゲームの恐怖度やユーモアのある要素が評価されています。また、協力プレイができるため、友人と一緒にプレイすることが推奨されています。対象読者としては、ホラーゲームや協力プレイが好きな人にオススメできます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/grain-rot-20260808-459264/",
-        "date": "2026-08-08",
-        "is_translated": false
-      },
-      {
-        "title": "【「街」オープンワールド『NTE』、8月19日到来のアプデでは「車で1周10分以上」の広大新エリ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本記事は、オープンワールドゲーム『NTE』のレビューで、8月19日のアップデートで追加される広大な新エリアについて紹介しています。ゲームの評価ポイントとして、新エリアの広さやゲーム内の自由度が高く、それがプレイヤーにとって新たな体験を提供することがあげられます。また、レビューではアップデート後のゲームの改善点や新機能についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260808-459346/",
-        "date": "2026-08-08",
-        "is_translated": false
-      },
-      {
-        "title": "【Ambrosia Sky レビュー: Steam の魅力的な SF シューターが難題に取り組む】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Ambrosia Skyは、Steamで配信されている魅力的でSF要素の強いシューティングゲームです。このゲームの評価ポイントとしては、美しいグラフィックやスムーズなゲームプレイが挙げられます。レビューの内容概要としては、ゲームの難易度の高さやストーリーの深さなどが取り上げられています。対象読者としては、シューティングゲームやSFファン向けのゲームを探している人にすすめられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/ambrosia-sky-review/",
-        "date": "2026-08-08",
-        "is_translated": true
-      },
       {
         "title": "【オープンワールド協力ゲーム『Big Walk』はすぐ遭難するから面白い。『Beast of R...：レビュー】",
         "platform": "AUTOMATON",
@@ -1201,8 +1014,21 @@
         "url": "https://www.polygon.com/phantom-blade-zero-trailer-state-of-play-announcement/",
         "date": "2026-08-12",
         "is_translated": true
+      },
+      {
+        "title": "【ビッグウォークのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "ビッグウォークのレビュー記事では、ゲームの評価ポイントとしてグラフィックの美しさやサウンドトラックの品質が高いことがあげられます。また、レビューの内容概要としては、ゲームのストーリーが面白く、操作性が良いため、プレイヤーが楽しく遊べることが強調されています。対象読者は、ゲーム好きの方や新しいゲームを探している人が対象で、ゲームに対する興味や関心がある方に読んでいただくことをお勧めしています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/puzzle/big-walk-review/",
+        "date": "2026-08-12",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-12T21:43:38.803812"
+  "last_updated": "2026-08-13T01:49:03.596390"
 }
