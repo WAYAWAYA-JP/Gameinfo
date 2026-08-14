@@ -496,6 +496,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dead-cells/info/",
         "date": "2026-08-14"
+      },
+      {
+        "title": "Frostpunk 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Frostpunk 2は、シティビルディングとサバイバル要素を組み合わせた、ユニークなゲームです。現在、 Variousで61%割引されており、非常に魅力的です。このゲームは、高い評価と人気度を誇り、多くのプレイヤーから高い評価を得ています。シティを築きながら、厳しい環境の中で生き残るために、さまざまな戦略を講じることができ、非常に面白いです。",
+        "price": "$17.49",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "No Man's Skyは、オープンワールドのサンドボックスゲームであり、宇宙を自由に探索できる特徴があります。現在、Variousで60%割引のセール中で、ファンにはお得な機会です。このゲームは、グラフィックやサウンドトラックが高く評価されており、ユーザーからの評価も良好です。人気度も高く、多くのプレイヤーが楽しんでいます。",
+        "price": "$23.95",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-08-14"
       }
     ],
     "review": [
@@ -1096,8 +1120,60 @@
         "url": "https://automaton-media.com/articles/newsjp/20260814-460165/",
         "date": "2026-08-14",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料・悪と戦う美少女RPG『パールインブルー』映像お披露目。こだわり垣間見える3Dモ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "パールインブルーは、悪と戦う美少女たちを操作するRPGゲームです。このゲームは基本プレイ無料で、3Dモデルのこだわりが垣間見える映像が特徴です。レビューでは、ゲームのグラフィックやキャラクターのデザイン、ストーリーの面白さなどが高く評価されています。また、簡単な操作でプレイできることも評価ポイントの1つです。美少女RPGファンや、アクションゲームを楽しむ人の対象となるゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260814-460256/",
+        "date": "2026-08-14",
+        "is_translated": false
+      },
+      {
+        "title": "【GameSir T7 Pro Sugar Whirl レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "GameSir T7 Pro Sugar Whirl は、ゲームコントローラーとして高い評価を受けています。このレビューでは、ゲームプレイ時の応答性、デザインの独創性、バッテリーの長寿命などが評価ポイントとして取り上げられています。特に、ゲームの操作性と快適さを重視するゲーマーにはおすすめの製品であると言えるでしょう。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/game-pads/gamesir-t7-pro-sugar-whirl-review/",
+        "date": "2026-08-14",
+        "is_translated": true
+      },
+      {
+        "title": "【Asus ROG Harpe II Extreme Edition 20 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "Asus ROG Harpe II Extreme Edition 20のレビュー記事では、ゲームの評価ポイントとして、ハイスペックPCでの快適なゲーム体験や、優れたグラフィックス性能、そして長時間のプレイに耐える高い耐久性が評価されています。また、レビューの内容概要として、デザインや操作性、パフォーマンスの評価などが具体的に取り上げられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/asus-rog-harpe-ii-extreme-edition-20-review/",
+        "date": "2026-08-14",
+        "is_translated": true
+      },
+      {
+        "title": "【Madden NFL 27 レビュー: フットボールを取り入れたフランチャイズ モード】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "Madden NFL 27のレビュー記事では、フットボールを取り入れたフランチャイズモードの評価ポイントを中心に、ゲームの評価ポイントとしてグラフィックの向上、操作性の改善、そして新しいモードの追加が挙げられます。レビューの内容は、ゲームのリアルさや楽しさを高める要素が多く盛り込まれていることを強調しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/madden-nfl-27-like-umamusume/",
+        "date": "2026-08-14",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-14T09:59:14.900388"
+  "last_updated": "2026-08-14T13:19:05.824059"
 }
