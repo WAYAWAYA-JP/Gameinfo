@@ -182,6 +182,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/idlersanddesktopcompanions_bundle",
         "date": "2026-08-13"
+      },
+      {
+        "title": "Built Differently: Builder Games",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、バンドル名「Built Differently: Builder Games」の販売が行われています。このバンドルには、代表的なゲームとして「Planet Coaster」、「Factorio」、「RimWorld」が含まれており、シミュレーションやストラテジーなどのジャンルが中心となっています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/builtdifferentlybuildergames_bundle",
+        "date": "2026-08-14"
       }
     ],
     "sale": [
@@ -1172,8 +1184,60 @@
         "url": "https://www.polygon.com/madden-nfl-27-like-umamusume/",
         "date": "2026-08-14",
         "is_translated": true
+      },
+      {
+        "title": "【「Battlefield 6」x「トップガン」コラボの見どころを主要キャストと開発者が掘り下げ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Battlefield 6」と「トップガン」のコラボレーションが話題となっているレビュー記事です。この記事では、主要キャストや開発者へのインタビューを通じて、このコラボレーションの特徴や魅力が掘り下げられています。ゲームのグラフィックやサウンドデザイン、戦闘システムなどが評価ポイントとして取り上げられており、ファンやゲーム愛好家にとって興味深い内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169617.html",
+        "date": "2026-08-14",
+        "is_translated": false
+      },
+      {
+        "title": "【“デューン/砂の惑星”サバイバルMMO「Dune: Awakening」に完全なシングルプレイ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Dune: Awakening」は、「デューン/砂の惑星」を舞台にしたサバイバルMMOゲームです。このゲームの評価ポイントとしては、美しいグラフィックや、広大な砂漠でのサバイバル要素が挙げられます。レビューの内容概要としては、シングルプレイモードの充実や、マルチプレイでの協力プレイの面白さが紹介されています。このゲームは、SFファンやサバイバルゲーム好きの方に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169604.html",
+        "date": "2026-08-14",
+        "is_translated": false
+      },
+      {
+        "title": "【XCOM系“スター・ウォーズ”ターン制ストラテジー「STAR WARS Zero Compan...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "STAR WARS Zero Companyは、ターン制ストラテジーゲームとして高く評価されています。このゲームの評価ポイントとしては、戦略的思考を要求するターン制バトルや、キャラクターの育成と管理が挙げられます。レビューの内容概要としては、ゲームのストーリーやグラフィックスの高さ、そして難易度の適切さが述べられています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169619.html",
+        "date": "2026-08-14",
+        "is_translated": false
+      },
+      {
+        "title": "【フィールズ・オブ・ミストリアのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "フィールズ・オブ・ミストリアのレビュー記事では、ゲームの評価ポイントとしてグラフィックやサウンド、ゲームプレイの面白さなどが挙げられています。具体的には、美しいグラフィックや魅力的なキャラクター、そして奥深いストーリーが楽しめる点が高評価されているとのことです。また、ゲームの難易度や操作性も評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/life-sim/fields-of-mistria-review/",
+        "date": "2026-08-14",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-14T13:19:05.824059"
+  "last_updated": "2026-08-14T21:24:11.872935"
 }
