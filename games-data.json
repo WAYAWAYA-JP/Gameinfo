@@ -472,6 +472,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/beyond-two-souls/info/",
         "date": "2026-08-13"
+      },
+      {
+        "title": "PEAK",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "アクションゲームPEAKがSteamで50%OFFのセール中です。高速でダイナミックなプレイが特徴のこのゲームは、非常に評価が高く人気度も高いゲームです。通常価格よりも大幅に割引された価格で購入することができ、ファンや新規プレイヤーにとっては大きなチャンスです。",
+        "price": "¥440",
+        "originalPrice": "¥880",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3527290",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "Dead Cells",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるDead Cellsが、現在Variousで51%割引されて販売中です。このゲームは、ローグライク要素と難しい操作性で知られており、多くのユーザーから高い評価を受けています。特に、ダークファンタジーの世界観と複数の武器やスキルを使用できることが人気の理由となっています。価格も割引により非常に魅力的なものとなっています。",
+        "price": "$12.29",
+        "originalPrice": "",
+        "discount": "-51%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dead-cells/info/",
+        "date": "2026-08-14"
       }
     ],
     "review": [
@@ -1046,8 +1070,34 @@
         "url": "https://www.inside-games.jp/article/2026/08/14/186166.html",
         "date": "2026-08-14",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料美少女RPG『テルビス』、今週末の「コミックマーケット108」に出展へ。“アニメ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『テルビス』は、基本プレイ無料の美少女RPGゲームです。今週末開催される「コミックマーケット108」に出展することを発表しています。レビューでは、ゲームのグラフィックやストーリー、キャラクターの魅力が高く評価されています。特に、アニメーションの質やキャラクターの個性が際立っていることが評価ポイントになっています。このレビューは、美少女ゲームやRPGゲームが好きな人に特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260814-460187/",
+        "date": "2026-08-14",
+        "is_translated": false
+      },
+      {
+        "title": "【クトゥルフPvPvE脱出シューター『Waste the Fallen』発表。正気を蝕まれながら...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "クトゥルフPvPvE脱出シューター『Waste the Fallen』のレビュー記事では、このゲームのユニークなプレイスタイルや、正気を蝕まれながら戦うというコンセプトが高く評価されています。此外、グラフィックやサウンドデザインも実に印象的で、恐怖感を増幅させます。ゲームファンやホラー映画の愛好家が対象読者で、クトゥルフ神話を題材にしたゲームを楽しみたい方には特におすすめです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260814-460165/",
+        "date": "2026-08-14",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-14T01:47:05.168167"
+  "last_updated": "2026-08-14T09:59:14.900388"
 }
