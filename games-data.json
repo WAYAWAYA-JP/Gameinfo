@@ -2,30 +2,6 @@
   "pc": {
     "free": [
       {
-        "title": "Beacon Pines",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Beacon Pinesは、かわいいキャラクターと不気味な雰囲気を持つアドベンチャーゲームです。このゲームの特徴は、秘密を明らかにしたり、運命を変えるキーワードを集めたりすることで物語を進められることです。また、友達を作ったり、夜の町を探索したりすることで新しい発見をすることができます。Beacon Pinesは、PCやゲーム機向けに配布されており、多くのプレイヤーに楽しんでいただけます。",
-        "price": "無料",
-        "originalPrice": "¥19",
-        "discount": "100% OFF",
-        "deadline": "2026年08月13日まで",
-        "url": "https://store.epicgames.com/ja/p/9e9a438c651a49799c3ddd94a0c3f4c0",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "We Were Here Together",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "アドベンチャーゲーム「We Were Here Together」がEpic Gamesで無料配布中です。このゲームの特徴は、協力プレイが楽しめること、パズル要素が豊富で挑戦的なこと、そしてユニークなストーリーが楽しめることです。プレイヤーは、謎の場所で別れた仲間と再会するために協力して進めていきます。無料配布のチャンスを逃さないで、Epic Gamesでダウンロードしましょう。",
-        "price": "無料",
-        "originalPrice": "¥12",
-        "discount": "100% OFF",
-        "deadline": "2026年08月13日まで",
-        "url": "https://store.epicgames.com/ja/p/a4bed38482a44c3d89029b0dbba42087",
-        "date": "2026-08-07"
-      },
-      {
         "title": "Caravan SandWitch",
         "platform": "Epic Games",
         "type": "free",
@@ -39,18 +15,6 @@
       }
     ],
     "bundle": [
-      {
-        "title": "Humble Handhelds Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Humble Handhelds Bundleと呼ばれるバンドルが販売中です。このバンドルには、ポータブルゲーム機向けのタイトルが複数含まれており、主要タイトルとしては「A Short Hike」や「Forager」などが含まれています。ジャンルはアクションやアドベンチャーなどのバラエティに富んでいます。大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/handheldsbundle_bundle",
-        "date": "2026-08-04"
-      },
       {
         "title": "In Your World VR Bundle",
         "platform": "Humble Bundle",
@@ -221,78 +185,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Tom Clancy's Ghost Recon® Wildlands",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Tom Clancy's Ghost Recon WildlandsがSteamで大幅なセール中です。このタクティカルサードパーソンシューティングゲームは、ボリビアを舞台にしたオープンワールドで、プレイヤーは特殊部隊の一員として任務を遂行します。現在、Steamでは95%割引された価格で購入できます。このゲームは、ストーリーモードとマルチプレイヤーモードを兼ね備えており。",
-        "price": "¥330",
-        "originalPrice": "¥6,600",
-        "discount": "95% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/460930",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Dead Cells",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームであるDead CellsがVariousで55%割引のセール中です。このゲームは、独自のアートスタイルと難易度の高いゲームプレイで人気を博しており、レビューでも高評価を得ています。価格も割引されるので、購入するのに好機です。",
-        "price": "$11.15",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dead-cells/info/",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Pacific Drive",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Pacific Driveは、スリリングなドライブと探索が特徴的なゲームで、現在Variousで72%割引のセール中です。このゲームは、ユーザーからの評価が高い人気タイトルであり、多くのプレイヤーに支持されています。価格も割引により大幅に下がっているため、興味のある人はこの機会にチェックしてみることをお勧めします。",
-        "price": "$8.49",
-        "originalPrice": "",
-        "discount": "-72%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/pacific-drive/info/",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Marvel's Spider-Man Remastered",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Marvel's Spider-Man RemasteredがVariousで7%オフのセール中です。このアクションアドベンチャーゲームは、スパイダーマンの魅力を存分に楽しみます。高評価を受けており、多くのユーザーから人気があります。通常価格より7%割引で購入できますので、スパイダーマンの世界に興味がある方はぜひこの機会にチェックしてみてください。",
-        "price": "$55.99",
-        "originalPrice": "",
-        "discount": "-7%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Beacon Pines",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Beacon PinesがVariousで100%割引されています。このゲームはナラティブドライブンのアドベンチャーゲームであり、プレイヤーは物語を進めるために選択をしてストーリーを変化させていくことができます。非常に高い評価を受けており、ユーザーの人気度も高いと言えるでしょう。通常価格で購入するのではなく、現在のセール期間中に100%割引で入手することができます。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/beacon-pines/info/",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "PEAK",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームであるPEAKがSteamで50%オフのセール中です。このゲームは、ユーザーから非常に高い評価を獲得しており、人気度も高いと言えるでしょう。現在の価格は割引前と比べて大幅に下がっているので、興味がある方はこの機会にチェックしてみてください。",
-        "price": "¥440",
-        "originalPrice": "¥880",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3527290",
-        "date": "2026-08-07"
-      },
       {
         "title": "METAL GEAR SOLID Δ: SNAKE EATER",
         "platform": "Steam",
@@ -583,84 +475,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【オープンワールド協力ゲーム『Big Walk』はすぐ遭難するから面白い。『Beast of R...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "オープンワールド協力ゲーム『Big Walk』は、プレイヤーがすぐに遭難することから面白さが生まれるユニークなゲームです。『Beast of R...：レビュー』のレビュー記事では、このゲームの評価ポイントとして、チャレンジングなゲーム性や独創的なゲームデザインを挙げています。また、レビューでは、コラボレーション要素やグラフィックの 퀄리ティも高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260809-459421/",
-        "date": "2026-08-09",
-        "is_translated": false
-      },
-      {
-        "title": "【「ソウルライクは難しそう」と感じる初心者も、『Lies of P：コンプリート エディション』...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "ソウルライクゲームが難しそうに感じる初心者も『Lies of P：コンプリート エディション』をプレイしてみる価値があります。このゲームは、ストーリーやキャラクター、ゲームシステムなどが高く評価されています。特に、美しいグラフィックと心地よいサウンドトラックが際立っています。ゲーマー向けのレビュー記事として、ゲームの魅力や難易度、ストーリーの面白さなどが紹介されていますので。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/columnjp/20260809-459318/",
-        "date": "2026-08-09",
-        "is_translated": false
-      },
-      {
-        "title": "【自作ゲームで軽い気持ちで「シングルプレイモード」を実装した開発者、“大失敗した”と激烈後悔。マ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、自作ゲームでシングルプレイモードを軽い気持ちで実装した開発者が大失敗したと語り、激烈に後悔している様子が伝わっています。ゲームの評価ポイントとしては、シングルプレイモードの不備やバグの多さが指摘されています。また、レビューの内容概要としては、開発者がシングルプレイモードの実装に無理があったことや、ユーザーのフィードバックがあまり聞き入れられなかったことが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260809-459362/",
-        "date": "2026-08-09",
-        "is_translated": false
-      },
-      {
-        "title": "【注目のファンタジーアクションRPG『BRINGER』が第2回目のCBTを募集開始！ゲームプレイ...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "『BRINGER』は、ファンタジー世界を舞台にしたアクションRPGで、プレイヤーは様々なキャラクターを操作して戦闘に挑みます。このゲームの評価ポイントは、スムーズな操作性と豊富なストーリーです。レビューの内容概要としては、ゲームのグラフィックの高さや、キャラクターのバリエーションが評価されています。対象読者は、ファンタジーゲームやアクションRPGが好きな人におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/08/09/185984.html",
-        "date": "2026-08-09",
-        "is_translated": false
-      },
-      {
-        "title": "【「Jurassic World Evolution 3: Crocodilia Coast」D...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Jurassic World Evolution 3: Crocodilia Coast」のレビュー記事では、ゲームのグラフィックやサウンドデザイン、ゲームプレイの自由度などが高く評価されています。また、ワニやカイマンなどの新しい種の登場や、コースティングやサファリパークなどの新しいアトラクションが楽しめることも評価ポイントのひとつです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169475.html",
-        "date": "2026-08-09",
-        "is_translated": false
-      },
-      {
-        "title": "【奇妙なアパートを探索するサバイバルホラーRPG「Look Outside」の販売が50万本のマ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Look Outside」は、奇妙なアパートを探索するサバイバルホラーRPGです。このゲームは、ユニークな世界観と恐怖感を味わえるので、ホラーゲームファンにはお勧めです。ゲームの評価ポイントとしては、探索のスリル、ストーリーの不気味さ、グラフィックのリアルさがあります。レビューの内容概要としては、ゲームの雰囲気、難易度、プレイ時間の長さが挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169465.html",
-        "date": "2026-08-09",
-        "is_translated": false
-      },
       {
         "title": "【基本プレイ無料の『ディビジョン』ゲームが Steam で発売、賛否両論：「スロップと呼ぶのは実...】",
         "platform": "PC Gamer",
@@ -1193,8 +1007,47 @@
         "url": "https://doope.jp/2026/08169627.html",
         "date": "2026-08-13",
         "is_translated": false
+      },
+      {
+        "title": "【「Call of Duty: Black Ops 7|Warzone」シーズン05リローデッド...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Call of Duty: Black Ops 7|Warzoneのシーズン05リローデッドのレビュー記事では、ゲームの新しいシーズンの更新点や追加コンテンツ、バグフィックスなどの評価ポイントを詳しく紹介しています。記事では、新しいマップやゲームモード、武器バランス調整などの変更点についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169650.html",
+        "date": "2026-08-14",
+        "is_translated": false
+      },
+      {
+        "title": "【“Mafia”三部作のDefinitive Editionと“The Old Country”...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "このレビュー記事は、「Mafia」三部作のDefinitive Editionと「The Old Country」の魅力を紹介しています。ゲームの評価ポイントとして、グラフィックの向上やストーリーの深化が注目されています。レビューの内容概要として、ゲームの世界観やキャラクターの設定が詳細に紹介されており、シリーズのファンやオープンワールドゲームが好きな人には必読の記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169616.html",
+        "date": "2026-08-14",
+        "is_translated": false
+      },
+      {
+        "title": "【『ファイナルファンタジー レゾナンス』約15分のゲームプレイ映像が公開。HD-2Dで描かれるシ...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "『ファイナルファンタジー レゾナンス』のレビュー記事では、約15分のゲームプレイ映像の公開や、HD-2Dで描かれる世界観の紹介があります。ゲームの評価ポイントとしては、グラフィックの美しさや、ストーリーの深みなどが挙げられます。また、ゲームの操作性やサウンドトラックの評価も重要なポイントです。この記事は、ファイナルファンタジーシリーズのファンや。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/08/14/186166.html",
+        "date": "2026-08-14",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-13T21:43:39.166899"
+  "last_updated": "2026-08-14T01:47:05.168167"
 }
