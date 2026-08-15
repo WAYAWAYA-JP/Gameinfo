@@ -182,6 +182,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/builtdifferentlybuildergames_bundle",
         "date": "2026-08-14"
+      },
+      {
+        "title": "In Your World VR Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleでは、In Your World VR Bundleのバンドルが販売中です。このバンドルには、主要タイトルとして「All-Star Fruit Racing」や「Crazy Machines VR」、「Gravity Lab - Gravitational Testing Facility & Puzzle」などの作品が含まれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/inyourworldvrbundle_bundle",
+        "date": "2026-08-15"
       }
     ],
     "sale": [
@@ -519,6 +531,18 @@
         "discount": "-74%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/warhammer-40000-rogue-trader/info/",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "Deponia",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DeponiaシリーズがVariousで100%割引で販売中です。このシリーズは、プレイヤーがさまざまなパズルを解いて進めていくポイント・アンド・クリックアドベンチャーゲームです。ユーモア溢れるストーリーと美しく描かれたグラフィックが特徴で、ファンからは高く評価されています。シリーズ全作品が無料で游べるので、ゲームファンにはおすすめです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/deponia/info/",
         "date": "2026-08-15"
       }
     ],
@@ -1159,8 +1183,73 @@
         "url": "https://www.pcgamer.com/games/grand-theft-auto/before-grand-theft-auto-online-gta-4s-multiplayer-added-glorious-chaos-to-the-open-world-sandbox/",
         "date": "2026-08-14",
         "is_translated": true
+      },
+      {
+        "title": "【“10時間”で大量ゾンビに備えるサバイバルゲーム『Survival Log』、Steamでさっ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "このレビュー記事は、Steamで配信されているサバイバルゲーム『Survival Log』の魅力を紹介しています。このゲームでは、プレイヤーは10時間の時間制限の中で、資源を集めながら大量のゾンビに対応する必要があります。ゲームの評価ポイントとしては、緊張感のあるゲームプレイ、ユニークなシステム、グラフィックの美しさが挙げられます。レビューでは、これらの点について詳細に説明しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260815-460344/",
+        "date": "2026-08-15",
+        "is_translated": false
+      },
+      {
+        "title": "【最大4人協力・鉱山防衛ローグライトアクション『Stonewards』前評判どおりの好評スタート...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "「Stonewords」は最大4人で協力して鉱山を防衛するローグライトアクションゲームです。このゲームは前評判どおりに好評を博しており、レビューではその評価ポイントがまとめられています。主な評価ポイントとしては、協力プレイの面白さや、ランダムな要素によって生まれる変化性が挙げられます。また、グラフィックやサウンドトラックの質も高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260815-460327/",
+        "date": "2026-08-15",
+        "is_translated": false
+      },
+      {
+        "title": "【“Road Trip”向けの新機能“Atlas”を紹介する「American Truck Si...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "アメリカン・トラック・シミュレーターは人気のトラック運転ゲームで、最新のアトラス機能が追加されました。このゲームの評価ポイントは、リアルなグラフィックや操作感、そして新しいアトラス機能による自由度の向上です。レビューの内容概要としては、ゲームのグラフィックやサウンドの質の高さ、そして新しい機能の使いやすさが高く評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169670.html",
+        "date": "2026-08-15",
+        "is_translated": false
+      },
+      {
+        "title": "【Bulkheadが開発を手がける100人プレイ大規模シューター「WARDOGS」のウィッシュリ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "Bulkheadが開発した大規模シューティングゲーム「WARDOGS」のレビュー記事では、100人プレイが可能なこのゲームの魅力や評価ポイントについて紹介しています。具体的には、ゲームのグラフィックやサウンドデザイン、プレイアビリティなどの点が評価されています。また、ゲームのストーリーや操作性についても触れています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169508.html",
+        "date": "2026-08-15",
+        "is_translated": false
+      },
+      {
+        "title": "【今週末はみんなで何をしますか？：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "今週末はみんなで何をしますか？のレビュー記事では、ゲームの評価ポイントとしてグラフィックの美しさや、ストーリーの面白さ、操作のしやすさが高く評価されています。また、レビューの内容概要としては、ゲームの雰囲気や、ゲームの長さ、難易度の適切さなどが述べられています。このレビュー記事は、ゲームファンや、新しくゲームを始めたい方など、幅広い層の読者に興味を持って読んでもらえる内容です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-395",
+        "date": "2026-08-15",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-15T01:06:49.907833"
+  "last_updated": "2026-08-15T09:24:02.485991"
 }
