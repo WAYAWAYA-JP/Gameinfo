@@ -544,6 +544,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/deponia/info/",
         "date": "2026-08-15"
+      },
+      {
+        "title": "Targeted -10 Days",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Targeted -10 Daysは、ストラテジーゲームの要素を備えたアクションゲームで、通常の価格から100%割引されています。現在、Variousでセール中で、プレイヤーはこの機会にこのゲームを体験できます。このゲームは、ユーザーの評価が高く人気も高いようです。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/targeted-10-days/info/",
+        "date": "2026-08-15"
       }
     ],
     "review": [
@@ -1264,5 +1276,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-15T12:48:22.587821"
+  "last_updated": "2026-08-15T21:20:13.602770"
 }
