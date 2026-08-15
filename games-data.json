@@ -16,18 +16,6 @@
     ],
     "bundle": [
       {
-        "title": "In Your World VR Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、In Your World VR Bundleが販売中です。このバンドルには、主要タイトルとして「CrytekのThe Climb」や「War Thunder」、「Space Junkies」などのVR対応ゲームが含まれています。アクションやシミュレーションを楽しめるバンドルで、ジャンルはVRゲームです。大まかな価格帯は、約2000円から約5000円です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/inyourworldvrbundle_bundle",
-        "date": "2026-08-05"
-      },
-      {
         "title": "2K Megahits 2026 Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -197,30 +185,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "METAL GEAR SOLID Δ: SNAKE EATER",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "METAL GEAR SOLID Δ: SNAKE EATERがSteamで60% OFFセール中です。このゲームはステルスアクションジャンルで知られており、プレイヤーはスナイパーとしてミッションを遂行します。現在の価格は大幅に割引されており、ファンや新規プレイヤーにとって魅力的なオファーです。このゲームは高評価を受けており、シリーズのファンからは特に人気があります。",
-        "price": "¥3,432",
-        "originalPrice": "¥8,580",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2417610",
-        "date": "2026-08-08"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "サイバーパンク2077は、オープンワールドRPGの代表的なゲームで、未来的な世界を自由に探索することができます。現在、Variousで70％オフのセール中で、通常価格よりも大幅に安くなっています。このゲームは、ストーリー、グラフィック、ゲームプレイの面で高く評価されており、人気度も非常に高いです。サイバーパンクファンやRPG好きには必見の作品で、セール中のこの機会にぜひプレイしてみてください。",
-        "price": "$17.99",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-08-08"
-      },
       {
         "title": "Clair Obscur: Expedition 33",
         "platform": "Various",
@@ -532,100 +496,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-08-14"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "オープンワールドアクションアドベンチャーゲームであるRed Dead Redemption 2が、現在78%の割引で販売中です。このゲームは、広大なオープンワールドとリアルなグラフィック、複雑なストーリーにより高い評価を受けており、ゲームファンから非常に人気です。",
+        "price": "$13.20",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "Warhammer 40,000: Rogue Trader",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Warhammer 40,000: Rogue Traderは、SFとファンタジーが混ざった世界を舞台にしたロールプレイングゲームです。このゲームは、 Variousで74%割引されています。ゲームの評価は高く、ユーザーから人気があり、戦略的な戦闘と豊富なストーリーが楽しめるゲームです。",
+        "price": "$12.85",
+        "originalPrice": "",
+        "discount": "-74%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/warhammer-40000-rogue-trader/info/",
+        "date": "2026-08-15"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料の『ディビジョン』ゲームが Steam で発売、賛否両論：「スロップと呼ぶのは実...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "基本プレイ無料の『ディビジョン』ゲームがSteamで発売され、賛否両論を呼んでいる。ゲームの評価ポイントとしては、グラフィックの質やゲームプレイのスムーズさが高く評価されているが、一方でゲームのバランスやコンテンツの充実度が低いと指摘されている。レビューの内容概要としては、ゲームのストーリーやキャラクターの深み、そしてマルチプレイヤー機能の充実度が評価されている。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/free-to-play-division-game-launches-on-steam-to-mixed-reviews-calling-it-slop-disrespects-actual-slop/",
-        "date": "2026-08-10",
-        "is_translated": true
-      },
-      {
-        "title": "【あるSteamユーザーが「470時間プレイした『Battlefield 6』の返金申請が通った...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、Steamユーザーが470時間プレイした『Battlefield 6』の返金申請が通ったという出来事を紹介しています。評価ポイントとしては、返金申請の手続きやその結果について触れています。対象読者は、Steamユーザーやゲームファンで、ゲームの評価ポイントや返金申請の手続きに興味がある方です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260810-459530/",
-        "date": "2026-08-10",
-        "is_translated": false
-      },
-      {
-        "title": "【崩壊の危機に瀕する国家で懸命に働く身重の母親を描く「1998: The Toll Keeper...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム「1998: The Toll Keeper...」の評価ポイントを紹介しています。ゲーム内の描写がリアルで感動的であること、ストーリーの展開が予想外で面白いこと、グラフィックの品質が高いことが評価ポイントです。このゲームは、社会的なメッセージを含んだストーリーが特徴で、家族の愛と仕事への情熱をテーマにしています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169427.html",
-        "date": "2026-08-10",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam 週間のレビュー: 何千もの平凡なオブジェクトを棚に並べるゲームは、PC ゲームを席...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事では、Steam で話題になっているゲームについて紹介しています。このゲームは何千もの普通の物体を棚に並べるという、ユニークな内容です。評価ポイントとしては、ゲームのグラフィックやサウンド、そしてユーザーのレビューが上げられています。レビューの内容概要としては、ゲームの独自性やユーザーの参加度の高さが挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-games-about-sorting-1000s-of-mundane-objects-onto-shelves-is-the-new-craze-sweeping-pc-gaming/",
-        "date": "2026-08-10",
-        "is_translated": true
-      },
-      {
-        "title": "【50% が 1 つ星のレビューを獲得した Xbox ゲームは、第 1 週でも 100 万人のプ...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事では、Xbox ゲームの評価ポイントを紹介しています。特に、第1週で100万人のプレイヤーを獲得しながらも、50%が1つ星のレビューを獲得したゲームについて焦点を当てています。記事では、このゲームの評価ポイントとして、プレイヤーの反響やゲームの内容、および開発者の対応について取り上げています。また、Xbox ゲームファンやゲーム開発者向けの情報としても役立つ内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/mistfall-hunter-1-million-players-negative-reviews/",
-        "date": "2026-08-10",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam 週間のレビュー: 何千ものありふれた物体を棚に並べるゲームが PC ゲームを席巻す...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "このレビュー記事は、Steamで話題になっている「何千ものありふれた物体を棚に並べる」ゲームについて取り上げています。評価ポイントとしては、ユニークなゲームプレイやグラフィックの美しさが挙げられます。このゲームは、プレイヤーが様々な物体を棚に並べながら、リラックスした気分で遊ぶことができます。レビューの内容としては、ゲームの魅力や操作の感覚について言及されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-games-about-sorting-1000s-of-mundane-objects-onto-shelves-is-the-new-craze-sweeping-pc-gaming/",
-        "date": "2026-08-10",
-        "is_translated": true
-      },
-      {
-        "title": "【宇宙的なローグライク The Carcass では、徐々にあなたに気づき始めた神の死体の中にコ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "このレビュー記事は、ローグライクゲーム「The Carcass」の評価を紹介しています。評価ポイントとしては、ゲームの独自の世界観や、神の死体の中での探索が挙げられます。また、レビューでは、ゲームの難易度や、プレイヤーの選択が重要な役割を果たす点も触れています。この記事は、ローグライクゲームやサバイバルゲームのファンに興味を持ってもらえる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/in-cosmic-roguelike-the-carcass-you-build-a-colony-inside-the-corpse-of-a-god-thats-slowly-becoming-aware-of-you",
-        "date": "2026-08-10",
-        "is_translated": true
-      },
       {
         "title": "【『ぽこ あ ポケモン』のブクブクうみぞこの街で「海の水全部抜いた」猛者あらわる。実質グラードン：レビュー】",
         "platform": "AUTOMATON",
@@ -650,19 +547,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/08169496.html",
         "date": "2026-08-11",
-        "is_translated": false
-      },
-      {
-        "title": "【“Untitled Goose Game”を生んだHouse Houseの新作Co-opゲーム...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "House Houseの新作Co-opゲームのレビュー記事では、ゲームの評価ポイントとして、ユーモアのあるゲームデザインやコラボレーションの必要性が挙げられています。また、レビューの内容概要として、ゲームのグラフィックやサウンドトラックの質の高さや、プレイヤー間のコミュニケーションの重要性が述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169510.html",
-        "date": "2026-08-10",
         "is_translated": false
       },
       {
@@ -1236,8 +1120,47 @@
         "url": "https://www.pcgamer.com/games/life-sim/fields-of-mistria-review/",
         "date": "2026-08-14",
         "is_translated": true
+      },
+      {
+        "title": "【“Deponia”シリーズ初のサバイバルゲーム「Surviving Deponia」のプレイテ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「Surviving Deponia」のレビュー記事では、このゲームの評価ポイントとして、ユニークなサバイバルゲーム要素の導入や、シリーズのファンにとって楽しいストーリーの展開が高く評価されています。また、ゲームのグラフィックやサウンドトラックも高品質であると指摘されています。このレビューは、「Deponia」シリーズのファンや、サバイバルゲームを楽しむ人のために役立つ情報を提供しています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169611.html",
+        "date": "2026-08-15",
+        "is_translated": false
+      },
+      {
+        "title": "【サリエリの過去に焦点を当てる「マフィア：オリジン ～裏切りの祖国」ストーリー拡張パック「名誉の...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "マフィア：オリジン ～裏切りの祖国～のストーリー拡張パック「名誉の...」は、主人公サリエリの過去に焦点を当てた作品です。このレビュー記事では、ゲームの評価ポイントとしてストーリーの深みやキャラクターの成長を取り上げています。また、レビューの内容概要としては、ストーリーの展開やゲームプレイの改善点などが紹介されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169603.html",
+        "date": "2026-08-14",
+        "is_translated": false
+      },
+      {
+        "title": "【グランド セフト オート オンラインの前に、GTA 4 のマルチプレイヤーはオープンワールド ...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "このレビュー記事は、グランドセフトオートオンラインの前に存在したGTA4のマルチプレイヤーについて扱っています。オープンワールドの自由度やゲームプレイの楽しさ、グラフィックの質などの点で評価しています。特に、オープンワールドでのプレイヤー同士の対戦や協力プレイの面白さについて触れています。この記事は、GTAシリーズのファンやオープンワールドゲームに興味がある人に向けて書かれています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/before-grand-theft-auto-online-gta-4s-multiplayer-added-glorious-chaos-to-the-open-world-sandbox/",
+        "date": "2026-08-14",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-14T21:24:11.872935"
+  "last_updated": "2026-08-15T01:06:49.907833"
 }
