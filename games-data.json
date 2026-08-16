@@ -520,6 +520,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/targeted-10-days/info/",
         "date": "2026-08-15"
+      },
+      {
+        "title": "Heavy Rain",
+        "platform": "Various",
+        "type": "sale",
+        "description": "アクションアドベンチャーゲームであるHeavy Rainが、現在Variousで95%の割引率で販売中です。このゲームは、プレイヤーの選択によってストーリーが変化するという特徴があり、批評家やユーザーから高い評価を得ています。",
+        "price": "$0.99",
+        "originalPrice": "",
+        "discount": "-95%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/heavy-rain/info/",
+        "date": "2026-08-16"
       }
     ],
     "review": [
@@ -1110,5 +1122,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-16T09:25:29.613714"
+  "last_updated": "2026-08-16T12:50:33.737771"
 }
