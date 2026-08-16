@@ -16,42 +16,6 @@
     ],
     "bundle": [
       {
-        "title": "2K Megahits 2026 Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、2K Megahits 2026 Bundleのバンドルが現在販売中です。このバンドルには、Mafia、Borderlands、BioShockなどの主要タイトルが含まれています。ジャンルはアクションアドベンチャーやFPSなど多種多様で、ファンにはたまらない内容となります。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/2kmegahits2026bundle_bundle",
-        "date": "2026-08-06"
-      },
-      {
-        "title": "Even Steamier Sakura Special",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、\"Even Steamier Sakura Special\"というバンドルが現在販売中です。このバンドルには、\"Sakura Agent\"や\"Sakura Nova\"などのタイトルが含まれており、エロゲーやビジュアルノベルを楽しむことができます。価格帯はおよそ1,000円から2,000円程度で、大体20本以上のゲームが収録されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/evensteamiersakuraspecial_bundle",
-        "date": "2026-08-06"
-      },
-      {
-        "title": "No More Robots: The Unhinged Indie Anthology",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、No More Robots: The Unhinged Indie Anthologyというバンドルが販売中です。このバンドルには、Not Tonight、Descenders、ゴールドラッシュなどのインディーゲームが収録されています。ジャンルはアクションやアドベンチャーなど多種多様で、インディーゲームファンにはおすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/nomorerobotsunhingedindieanthology_bundle",
-        "date": "2026-08-06"
-      },
-      {
         "title": "Awesome Indie Adventures",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -197,18 +161,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33はアドベンチャーゲームで、現在Variousで32%割引のセール中です。このゲームは、ユニークなグラフィックと面白いストーリーが特徴で、ファンから高い評価を得ています。価格も割引によりお得になりましたので、ゲームファンには魅力的な選択肢となっています。",
-        "price": "$33.99",
-        "originalPrice": "",
-        "discount": "-32%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-08-09"
-      },
       {
         "title": "サイバーパンク2077",
         "platform": "Steam",
@@ -559,162 +511,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【『ぽこ あ ポケモン』のブクブクうみぞこの街で「海の水全部抜いた」猛者あらわる。実質グラードン：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム『ぽこ あ ポケモン』の海の水をすべて抜くという挑戦を紹介しています。記事では、グラードンを実質的に使ったこの挑戦の内容と結果について評価しています。ポケモンシリーズのファンやゲームの挑戦に興味がある方に読んでいただきたい内容です。記事では、挑戦の難易度や達成感、ゲーム内のグラードンの役割などについて触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260811-459607/",
-        "date": "2026-08-11",
-        "is_translated": false
-      },
-      {
-        "title": "【D.Monが参戦する「オーバーウォッチ」シーズン4“釜山の英雄たち”の新コンテンツ紹介トレーラ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「オーバーウォッチ」シーズン4“釜山の英雄たち”の新コンテンツ紹介トレーラーのレビュー記事では、ゲームの新しい要素やキャラクターの評価ポイントを介绍しています。記事では、新しいヒーローD.Monの能力や戦闘スタイル、そしてシーズン4のストーリーやゲームモードの更新点などが詳しく解説されています。ゲームファンや「オーバーウォッチ」のプレイヤーにとって。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169496.html",
-        "date": "2026-08-11",
-        "is_translated": false
-      },
-      {
-        "title": "【新感覚タワーディフェンス『城門を守れ』、無料大型アプデで「2人協力プレイ」実装。“自分も暴れる...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『城門を守れ』は新感覚のタワーディフェンスゲームで、無料の大型アップデートにより2人協力プレイが実装されました。このゲームの評価ポイントは、ユニークなゲームシステムと多様なキャラクターの存在です。レビューの内容概要としては、2人協力プレイの追加や新しいキャラクターの実装が高く評価されています。また、新しいゲームシステムや多人数プレイを楽しむことができるため。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260811-459704/",
-        "date": "2026-08-11",
-        "is_translated": false
-      },
-      {
-        "title": "【『Fate/Grand Order』フェスは、学園祭という名の“モラトリアム”だった。フェスか...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『Fate/Grand Order』のイベント「フェス」についてのレビュー記事では、学園祭を舞台にした「モラトリアム」としてのフェスの内容が評価されています。記事では、フェスの新しい試みやキャラクターの魅力、ストーリーの展開などが高く評価されています。ゲームファンや『Fate』シリーズの愛好者にとって、フェスの魅力を知る良い機会になるでしょう。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/fgo-20260811-459688/",
-        "date": "2026-08-11",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料『NTE』はゲームの中だけでは遊び足りない。青空の下で麻雀して推しとグータッチ、...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事では、基本プレイ無料のゲーム『NTE』について評価しています。特にゲーム内の自由度や、プレイヤー同士の交流の深さなどが評価ポイントとなっています。また、記事ではゲームの中だけで遊び足りない魅力や、青空の下で麻雀をする楽しさ、推しと一緒に楽しむ「グータッチ」の感動などが紹介されています。ゲーム好きやお祭り好きの方に特にオススメの記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260811-459643/",
-        "date": "2026-08-11",
-        "is_translated": false
-      },
-      {
-        "title": "【最大4人協力・オープンワールド荒野探索ゲーム『over the hill』10月15日に発売へ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「over the hill」というオープンワールド荒野探索ゲームが10月15日に発売されるというニュースのレビュー記事があります。このゲームは最大4人での協力プレイが可能で、広大な荒野を探索する内容になっています。レビューでは、このゲームの自由度の高さや、協力プレイでの楽しさが評価されています。荒野探索やオープンワールドゲームが好きな人にはおすすめのゲームであり。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260811-459622/",
-        "date": "2026-08-11",
-        "is_translated": false
-      },
-      {
-        "title": "【【コスプレ】曲線美の芸術がここにあり！『FF7』ティファや『崩スタ』など、真夏に輝く「2025...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、コスプレの魅力を紹介しています。『ファイナルファンタジー7』のティファや『崩壊スタジアム』などのキャラクターのコスプレが真夏に輝く様子が紹介されています。コスプレの技術や表現力が高く評価されており、コスプレファンの方々には必見の記事です。また、真夏のコスプレの魅力を感じ取ることができるため、コスプレに興味がある方にもおすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/08/11/186058.html",
-        "date": "2026-08-11",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamマルチ対応・細かすぎ宇宙船クラフト『Approximately Up』95%好評で人...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamで配信中の「Approximately Up」は、宇宙船を細かくカスタマイズできるゲームで、高い評価を得ています。このゲームの評価ポイントとしては、自由度の高い宇宙船の制作や、複雑なシステムの細かい設定が挙げられます。レビューの内容概要としては、ゲームの独自のシステムや、多人数でのプレイが楽しめる点が高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260810-459585/",
-        "date": "2026-08-11",
-        "is_translated": false
-      },
-      {
-        "title": "【【特集】夏休みの読書感想文に迷ったらゲームの元ネタを読もう！『ポケモン』から『かまいたちの夜』...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "夏休みの読書感想文で何を書こうか迷っている方に、ゲームの元ネタとなる作品を紹介する記事があります。この記事では、人気ゲーム『ポケモン』や『かまいたちの夜』などの原作を読むことを提案しています。読者は、これらのゲームの原作がどのような内容かを知り、ゲームの世界観をより深く理解することができます。さらに、読書感想文の参考にしても活用できる内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/08/11/186066.html",
-        "date": "2026-08-11",
-        "is_translated": false
-      },
-      {
-        "title": "【「リーチャー」シーズン 4 レビュー: プライム ビデオでアラン リッチソンがミッション: イ...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "このレビュー記事では、Amazonプライムビデオのドラマ「リーチャー」シーズン4について評価しています。主演のアラン・リッチソンが演じる主役に焦点を当てたストーリー展開や、ミッション：インポッシブルシリーズの要素が取り入れられている点が高く評価されています。また、シーズン4では新しいキャラクターが登場し、ストーリーに新たな深みが加わっていることが述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/reacher-season-4-review/",
-        "date": "2026-08-11",
-        "is_translated": true
-      },
-      {
-        "title": "【主人公ソフィアの戦闘に焦点を当てる「Resonance: A Plague Tale Lega...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "本レビュー記事では、ゲーム「Resonance: A Plague Tale Lega...」を紹介しています。このゲームでは、主人公ソフィアの戦闘に焦点が当てられており、彼女の戦闘能力や戦略が重要な要素となっています。レビューでは、ゲームのストーリーやキャラクターの深み、そしてプレイヤーが戦闘で使えるスキルやアイテムの種類などが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169252.html",
-        "date": "2026-08-11",
-        "is_translated": false
-      },
-      {
-        "title": "【大都市を探索する子ネコを描く「Little Kitty, Big City」のモバイル対応がア...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Little Kitty, Big City」のモバイル対応版のレビュー記事では、このゲームの評価ポイントとして、可愛らしい子ネコのキャラクターと大都市の探索要素が高く評価されています。また、ゲームのグラフィックやサウンドトラックも良好な評価を受けています。このレビューは、モバイルゲームファンや子ネコが好きな人に対象としており、ゲームの内容や操作性について詳しく紹介しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169536.html",
-        "date": "2026-08-11",
-        "is_translated": false
-      },
       {
         "title": "【Steamで話題沸騰3人マルチ爆弾解除ゲーム『BOMBANANA!』9月2日配信へ。「見ざる聞...：レビュー】",
         "platform": "AUTOMATON",
@@ -1276,5 +1072,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-15T21:20:13.602770"
+  "last_updated": "2026-08-16T01:10:51.530143"
 }
