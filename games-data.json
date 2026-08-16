@@ -158,6 +158,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/inyourworldvrbundle_bundle",
         "date": "2026-08-15"
+      },
+      {
+        "title": "2K Megahits 2026 Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Bundleで2K Megahits 2026 Bundleが販売中です。このバンドルには、Mafia、BioShock、Borderlandsなどの人気タイトルが含まれており、主にアクションアドベンチャーやFPSなどのジャンルのゲームが中心です。大まかな価格帯は変動する可能性がありますが、通常は1,000円から3,000円程度で購入できます。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/2kmegahits2026bundle_bundle",
+        "date": "2026-08-16"
       }
     ],
     "sale": [
@@ -1069,8 +1081,34 @@
         "url": "https://automaton-media.com/articles/newsjp/20260815-460351/",
         "date": "2026-08-15",
         "is_translated": false
+      },
+      {
+        "title": "【『ほの暮しの庭』はホラー苦手でもギリ遊べる。『MARVEL Tōkon: Fighting S...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『ほの暮しの庭』はホラーが苦手な人でもギリギリ遊ぶことができるゲームです。このゲームの評価ポイントとしては、ユニークなゲーム性や、不気味な雰囲気を醸し出すグラフィックなどが挙げられます。レビューの内容概要としては、ゲームのストーリーやサウンドトラックの品質が高く、プレイヤーを引き込むことができる点が評価されています。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260816-460407/",
+        "date": "2026-08-16",
+        "is_translated": false
+      },
+      {
+        "title": "【『龍が如く７外伝』は75％オフで1500円切り。『JUDGE EYES』は745円で買える。高...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "『龍が如く７外伝』や『JUDGE EYES』などのゲームソフトが大幅な値下げで販売されています。特に『龍が如く７外伝』は75％オフで1500円で購入でき、同様に『JUDGE EYES』も745円での購入が可能です。このような大きな割引はゲームファンにとって大変魅力的です。ゲームのストーリー、プレイアビリティ、グラフィックなどの評価ポイントから。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260816-460399/",
+        "date": "2026-08-16",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-16T01:10:51.530143"
+  "last_updated": "2026-08-16T09:25:29.613714"
 }
