@@ -146,6 +146,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/2kmegahits2026bundle_bundle",
         "date": "2026-08-16"
+      },
+      {
+        "title": "Awesome Indie Adventures",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Awesome Indie AdventuresのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/awesomeindieadventures_bundle",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "Short Games Showcase Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Short Games Showcase BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/shortgamesshowcasebundle_bundle",
+        "date": "2026-08-17"
       }
     ],
     "sale": [
@@ -448,6 +472,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/kingdom-hearts-integrum-masterpiece/info/",
         "date": "2026-08-16"
+      },
+      {
+        "title": "ペルソナ５ ザ・ロイヤル",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ５ ザ・ロイヤルがSteamで70% OFFセール中です。",
+        "price": "¥2,303",
+        "originalPrice": "¥7,678",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1687950",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "ペルソナ３ リロード",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ３ リロードがSteamで65% OFFセール中です。",
+        "price": "¥2,687",
+        "originalPrice": "¥7,678",
+        "discount": "65% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2161700",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33がVariousで-29%セール中です。",
+        "price": "$35.39",
+        "originalPrice": "",
+        "discount": "-29%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-08-17"
       }
     ],
     "review": [
@@ -918,8 +978,99 @@
         "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-395",
         "date": "2026-08-15",
         "is_translated": true
+      },
+      {
+        "title": "【Steamではプレイ200時間超えだと「ネガティブなレビューがむしろ増える」との研究結果。何百...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【Steamではプレイ200時間超えだと「ネガティブなレビューがむしろ増える」との研究結果。何百...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260817-460520/",
+        "date": "2026-08-17",
+        "is_translated": false
+      },
+      {
+        "title": "【『キングダム ハーツIV』の発売時期が決まり、みんながSteamで過去作を遊び始める。“追いつ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『キングダム ハーツIV』の発売時期が決まり、みんながSteamで過去作を遊び始める。“追いつ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260817-460462/",
+        "date": "2026-08-17",
+        "is_translated": false
+      },
+      {
+        "title": "【人気サイコホラーアドベンチャーの続編「Sally Face 2」が正式アナウンス、発売10周年...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【人気サイコホラーアドベンチャーの続編「Sally Face 2」が正式アナウンス、発売10周年...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169692.html",
+        "date": "2026-08-17",
+        "is_translated": false
+      },
+      {
+        "title": "【建築・クラフト系ファンタジーオープンワールドサバイバル「Stormforge」のゲームプレイト...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【建築・クラフト系ファンタジーオープンワールドサバイバル「Stormforge」のゲームプレイト...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169691.html",
+        "date": "2026-08-17",
+        "is_translated": false
+      },
+      {
+        "title": "【クトゥルフ神話のドリームランドを探索するダークファンタジーCRPG「Cyclopean II:...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【クトゥルフ神話のドリームランドを探索するダークファンタジーCRPG「Cyclopean II:...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169678.html",
+        "date": "2026-08-17",
+        "is_translated": false
+      },
+      {
+        "title": "【「真ゲッタードラゴン」プラモが再販締切間近！ドリルアーム＆ブースター、ゲッターサイクロン用の腕...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【「真ゲッタードラゴン」プラモが再販締切間近！ドリルアーム＆ブースター、ゲッターサイクロン用の腕...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/08/17/186291.html",
+        "date": "2026-08-17",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam 週間の振り返り: GTA 6 の日にリリースする勇気のある 32 の Steam ...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Steam 週間の振り返り: GTA 6 の日にリリースする勇気のある 32 の Steam ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-here-are-the-32-steam-games-brave-enough-to-release-on-gta-6-day/",
+        "date": "2026-08-17",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-17T01:08:18.259855"
+  "last_updated": "2026-08-17T09:38:35.046996"
 }
