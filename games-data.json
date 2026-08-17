@@ -508,6 +508,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-08-17"
+      },
+      {
+        "title": "Ghost of Tsushima DIRECTOR'S CUT",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Ghost of Tsushima DIRECTOR'S CUTがVariousで-12%セール中です。",
+        "price": "$52.89",
+        "originalPrice": "",
+        "discount": "-12%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "PRAGMATA",
+        "platform": "Various",
+        "type": "sale",
+        "description": "PRAGMATAがVariousで-18%セール中です。",
+        "price": "$49.17",
+        "originalPrice": "",
+        "discount": "-18%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/pragmata/info/",
+        "date": "2026-08-17"
       }
     ],
     "review": [
@@ -1069,8 +1093,47 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-here-are-the-32-steam-games-brave-enough-to-release-on-gta-6-day/",
         "date": "2026-08-17",
         "is_translated": true
+      },
+      {
+        "title": "【最大4人協力・モンスター“救助”シム『Sanctuary of Small Things』正式...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【最大4人協力・モンスター“救助”シム『Sanctuary of Small Things』正式...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260817-460569/",
+        "date": "2026-08-17",
+        "is_translated": false
+      },
+      {
+        "title": "【今週末はみんなで何をして遊ぶのかな？：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【今週末はみんなで何をして遊ぶのかな？：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-395",
+        "date": "2026-08-15",
+        "is_translated": true
+      },
+      {
+        "title": "【『ブレードランナー 2099』クリエイター、ハリソン・フォードがプライム・ビデオ番組に出演する...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【『ブレードランナー 2099』クリエイター、ハリソン・フォードがプライム・ビデオ番組に出演する...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/blade-runner-2099-harrison-ford/",
+        "date": "2026-08-17",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-17T09:38:35.046996"
+  "last_updated": "2026-08-17T12:54:36.049728"
 }
