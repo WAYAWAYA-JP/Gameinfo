@@ -16,30 +16,6 @@
     ],
     "bundle": [
       {
-        "title": "Awesome Indie Adventures",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Awesome Indie Adventuresというバンドルの販売が行われています。このバンドルには、インディーゲームの名作である「Hyper Light Drifter」や「Night in the Woods」、「Oxenfree」などが含まれています。インディーアドベンチャーゲームファンにとっては、見逃せないオファーです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/awesomeindieadventures_bundle",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Short Games Showcase Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Short Games Showcase Bundleが販売中です。このバンドルには、Time LoaderやThe Case of the Golden Idol、The Pathlessなどの主要タイトルが含まれています。ジャンルはアドベンチャーやパズルが中心です。大まかな価格帯は、約1,000円から約2,000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/shortgamesshowcasebundle_bundle",
-        "date": "2026-08-07"
-      },
-      {
         "title": "Rage Inducing Difficult Games",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -173,90 +149,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "サイバーパンク2077",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サイバーパンク2077がSteamで70% OFFセール中です。このゲームは、オープンワールドのRPGジャンルに属し、未来的な世界を舞台に、プレイヤーが自由に探索し、クエストをこなすことができます。サイバーパンク2077は、グラフィックやサウンドトラックが高く評価されており、人気度も非常に高いゲームです。",
-        "price": "¥2,633",
-        "originalPrice": "¥8,778",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1091500",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "The Alters",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Altersは、バラエティ豊かなゲームです。現在、61%オフのセール中で、通常よりも大幅に安い価格で楽しむことができます。このゲームは、ユニークなゲームプレイやグラフィックが特徴で、多くのユーザーから高い評価を得ています。人気度も高く、セール中のこの機会に一度プレイしてみることをお勧めします。",
-        "price": "$13.60",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-alters/info/",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Strayはアクションアドベンチャーゲームで、猫のキャラクターを操作して探索することが特徴です。このゲームは現在、Variousで22%割引セール中で、ファンから高い評価を得ています。価格も手頃なので、ゲームファンにはおすすめのタイトルです。",
-        "price": "$23.42",
-        "originalPrice": "",
-        "discount": "-22%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Moonlighter",
-        "platform": "Various",
-        "type": "sale",
-        "description": "MoonlighterがVariousで89%オフのセール中です。このゲームは、店を経営しながらダンジョンを冒険するユニークなコンセプトが特徴で、シミュレーションとアクションの要素を兼ね備えています。現在の価格は大幅に割引されており、通常の価格よりも大幅に安くなっています。Moonlighterは、ユーザーからの評価が高く、ゲームコミュニティで人気のタイトルです。",
-        "price": "$2.25",
-        "originalPrice": "",
-        "discount": "-89%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/moonlighter/info/",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "ペルソナ３ リロード",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ペルソナ３ リロードは、Steamで65% OFFのセール中であり、ロールプレイングゲームのジャンルに属する人気ゲームです。このゲームは、深いストーリーと魅力的なキャラクターで知られており、多くのプレイヤーから高い評価を得ています。現在のセール価格では、大幅な割引でプレイすることができ、ゲームファンにはおすすめのタイトルです。",
-        "price": "¥2,687",
-        "originalPrice": "¥7,678",
-        "discount": "65% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2161700",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "ペルソナ５ ザ・ロイヤル",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ペルソナ５ ザ・ロイヤルがSteamで70％オフのセール中です。このゲームは、ロールプレイングゲームのジャンルに属し、深いストーリーや複雑なキャラクターが特徴です。通常価格から大幅に割引されたこのオファーは、ゲームファンにとって絶好の機会です。ペルソナシリーズは、高い評価と人気度を誇り、ザ・ロイヤルも例外ではありません。Steamのセールを活用して、この魅力的なゲームを体験してみてください。",
-        "price": "¥2,303",
-        "originalPrice": "¥7,678",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1687950",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Tom Clancy's Ghost Recon: Future Soldier™",
-        "platform": "Various",
-        "type": "sale",
-        "description": "タクティカルシューティングゲーム「Tom Clancy's Ghost Recon: Future Soldier」が現在、Variousで100%割引されています。このゲームは、先進的な兵器と戦術的チームプレイを特徴としています。プレイヤーは、未来の戦場で戦うエリート部隊「ゴースト」となり、ミッションを遂行します。評価は非常に高く、人気も高いでしょう。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/tom-clancys-ghost-recon-future-soldier/info/",
-        "date": "2026-08-10"
-      },
       {
         "title": "メタファー：リファンタジオ",
         "platform": "Steam",
@@ -559,149 +451,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【Steamで話題沸騰3人マルチ爆弾解除ゲーム『BOMBANANA!』9月2日配信へ。「見ざる聞...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamで話題沸騰している3人マルチの爆弾解除ゲーム「BOMBANANA!」が9月2日に配信されることが決定しました。このゲームは、プレイヤー同士のコミュニケーションが重要な要素となっており、チームワークを高めることで勝利を目指すことができます。レビュー記事「見ざる聞...：レビュー」では、このゲームの評価ポイントとして、簡単ながらも奥の深いゲーム性や。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260812-459773/",
-        "date": "2026-08-12",
-        "is_translated": false
-      },
-      {
-        "title": "【『The Elder Scrolls VI』、“実際のゲームプレイ”を披露できる段階か。XBO...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "The Elder Scrolls VIの最新情報を紹介するレビュー記事です。この記事では、The Elder Scrolls VIの実際のゲームプレイが披露できる段階に達したかどうかを検討しています。具体的には、Xbox One版のゲームプレイ性やグラフィックの質などを評価しています。The Elder Scrollsシリーズのファンや、新作ゲームを楽しみに待っているゲーマーが対象です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/the-elder-scrolls-vi-20260812-459764/",
-        "date": "2026-08-12",
-        "is_translated": false
-      },
-      {
-        "title": "【歴史ある定番マップを再構築する「Battlefield 6」“ウェーク・アイランド”のゲームプ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Battlefield 6」のウェーク・アイランドマップは歴史ある定番マップを再構築したもので、レビューではグラフィックスやサウンドデザイン、ゲームプレイのバランスが高く評価されています。また、多様なゲームモードやマップデザインも魅力的です。このレビュー記事はファーストパーソン・シューティングゲームを楽しむゲーマーや「バトルフィールド」シリーズのファンに役立つ情報を提供しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169548.html",
-        "date": "2026-08-12",
-        "is_translated": false
-      },
-      {
-        "title": "【「The Elder Scrolls VI: ********」を実際にプレイした、Bethe...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "The Elder Scrolls VIの最新作を実際にプレイしたBethe...によるレビュー記事では、ゲームの評価ポイントとして、グラフィックの高さやゲーム性の向上を挙げています。また、レビューの内容概要として、ストーリーの深さやキャラクターの造形が評価されています。このレビュー記事は、The Elder Scrollsシリーズのファンやオープンワールドゲームを楽しむことを好む読者にぴったり…",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169506.html",
-        "date": "2026-08-12",
-        "is_translated": false
-      },
-      {
-        "title": "【初代の発売10周年を迎えた「Reigns」シリーズの累計プレイヤー数が400万人に到達、PCと...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Reigns」シリーズの累計プレイヤー数が400万人に到達したことを記念して、シリーズの評価ポイントについてレビューしています。シリーズの魅力として、シンプルながらも奥深いゲームシステムや、ユニークなストーリー展開が挙げられます。また、シリーズの進化についても触れており、グラフィックやサウンドの向上により、より没入感のあるゲーム体験ができるようになったことも評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169558.html",
-        "date": "2026-08-12",
-        "is_translated": false
-      },
-      {
-        "title": "【「Call of Duty: Modern Warfare 4」キャンペーンの新たなファースト...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "『Call of Duty: Modern Warfare 4』キャンペーンのレビュー記事では、ゲームの評価ポイントとしてグラフィックの質やサウンドデザインのリアルさ、そしてストーリーの緊張感が高く評価されています。また、レビューの内容概要として、ゲームのプレイアビリティや難易度の調整が適切であること、さらにマルチプレイヤーモードの充実度が高いことが挙げられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169507.html",
-        "date": "2026-08-12",
-        "is_translated": false
-      },
-      {
-        "title": "【非情の100m走に全てを賭けろ！シリーズ最大の問題作『がんばれゴエモン 黒船党の謎』をプレイ】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、シリーズの中で最も問題のあるとされる『がんばれゴエモン 黒船党の謎』のプレイ感想や評価ポイントを紹介しています。ゲームの難易度やシステムの面白さ、ストーリーの魅力が評価のポイントになっています。ゲーマー向けの記事であり、特にアクションアドベンチャーゲームのファンにはお勧めできる記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/08/12/186102.html",
-        "date": "2026-08-12",
-        "is_translated": false
-      },
-      {
-        "title": "【ゲーム開発者が「“鍵屋”で買うぐらいなら海賊版で遊んで」と怒りの表明。善意を踏みにじる、Ste...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、ゲーム開発者が「“鍵屋”で買うぐらいなら海賊版で遊んで」と怒りの表明した件について触れています。ゲームの評価ポイントとして、開発者の意図とゲームの内容の乖離、ゲームの魅力が損なわれている点が取り上げられています。また、レビューの内容概要として、ゲームの開発者とプレイヤーの関係の重要性や、海賊版の問題が述べられています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260812-459909/",
-        "date": "2026-08-12",
-        "is_translated": false
-      },
-      {
-        "title": "【Asus ROG Swift PG32UCWM レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "Asus ROG Swift PG32UCWM は、高品質なゲーム体験を提供するモニターです。このレビューでは、ゲームの評価ポイントとして、画質、応答速度、コントラスト比などの要素を考慮しています。特に、4K解像度とHDR10の対応により、鮮やかな色彩と深みのある映像を楽しむことができます。また、1msの応答速度により、スムーズなゲームプレイを実現します。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/asus-rog-swift-pg32ucwm-review/",
-        "date": "2026-08-12",
-        "is_translated": true
-      },
-      {
-        "title": "【Phantom Blade Zero、プレイ状況に先立って大規模な発売日の詳細を明らかに】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Phantom Blade Zeroのレビューでは、ゲームの評価ポイントとしてグラフィックの質やストーリーの深みが高く評価されています。また、ゲームプレイのスムーズさや操作のしやすさも強みとして挙げられています。このレビューは、ゲームファンやアクションゲーム好きにとって参考になる内容になっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/phantom-blade-zero-trailer-state-of-play-announcement/",
-        "date": "2026-08-12",
-        "is_translated": true
-      },
-      {
-        "title": "【ビッグウォークのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "ビッグウォークのレビュー記事では、ゲームの評価ポイントとしてグラフィックの美しさやサウンドトラックの品質が高いことがあげられます。また、レビューの内容概要としては、ゲームのストーリーが面白く、操作性が良いため、プレイヤーが楽しく遊べることが強調されています。対象読者は、ゲーム好きの方や新しいゲームを探している人が対象で、ゲームに対する興味や関心がある方に読んでいただくことをお勧めしています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/puzzle/big-walk-review/",
-        "date": "2026-08-12",
-        "is_translated": true
-      },
       {
         "title": "【「Discord Nitro」加入者なら『CoD: MW4』“最速”先行ベータを無料プレイでき...】",
         "platform": "AUTOMATON",
@@ -1143,8 +892,34 @@
         "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260816-460399/",
         "date": "2026-08-16",
         "is_translated": false
+      },
+      {
+        "title": "【人気トレーディングカードショップ経営シム「TCG Card Shop Simulator」のP...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "「TCG Card Shop Simulator」のレビューでは、このゲームの魅力として、トレーディングカードショップを自由に経営できる点や、カードの収集と売買が楽しい点が評価されています。また、ゲームのグラフィックやサウンドも高く評価されており、トレーディングカードゲームのファンやシミュレーションゲームを好む人にとってはおすすめのゲームです。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169687.html",
+        "date": "2026-08-17",
+        "is_translated": false
+      },
+      {
+        "title": "【What are we all playing this weekend?：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "「What are we all playing this weekend?：レビュー」は、最新のゲーム情報を提供するレビュー記事です。この記事では、様々なゲームの評価ポイントを紹介し、グラフィックやゲーム性、ストーリーなどの要素を基にしたレビューの内容概要を2点から3点にまとめています。ゲームファンや新しいゲームを探している人に対象の読者layer向けに、ゲームの魅力を紹介しているので。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-395",
+        "date": "2026-08-15",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-16T21:18:59.204405"
+  "last_updated": "2026-08-17T01:08:18.259855"
 }
