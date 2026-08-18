@@ -16,18 +16,6 @@
     ],
     "bundle": [
       {
-        "title": "Rage Inducing Difficult Games",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、挑戦精神を試す難関ゲームを集めた「Rage Inducing Difficult Games」のバンドルが販売中です。このバンドルには、「Dark Souls」や「Sekiro: Shadows Die Twice」、「Cuphead」などのアクションゲームやアドベンチャーゲームが収録されています。ジャンルはアクションやアドベンチャーです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/rageinducingdifficultgames_bundle",
-        "date": "2026-08-08"
-      },
-      {
         "title": "Dungeons & Dragons: Classics Collection 2026",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -185,66 +173,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "メタファー：リファンタジオ",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "メタファー：リファンタジオは、アクションRPGの要素を兼ね備えた、幻想的な世界を舞台にしたロールプレイングゲームです。このゲームは、美しいグラフィックと深いストーリーで知られています。現在、Steamで60%OFFのセール中であり、通常価格よりも大幅に安くなっています。ユーザーの評価は非常に高く、多くのプレイヤーから人気を博しています。",
-        "price": "¥3,951",
-        "originalPrice": "¥9,878",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2679460",
-        "date": "2026-08-11"
-      },
-      {
-        "title": "Detroit: Become Human",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Detroit: Become HumanがSteamで80% OFFセール中です。このゲームは、アドベンチャーゲームのジャンルに属し、プレイヤーがアンドロイドのキャラクターを操作して物語を進めます。通常価格より大幅に安くなっているので、興味がある方は今がチャンスです。評価も高く、人気度が高いゲームなので、多くのプレイヤーに楽しんでもらえることでしょう。",
-        "price": "¥900",
-        "originalPrice": "¥4,500",
-        "discount": "80% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1222140",
-        "date": "2026-08-11"
-      },
-      {
-        "title": "Sniper Ghost Warrior Contracts 2 Complete Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "スナイパーゲームのファンにはおすすめの『Sniper Ghost Warrior Contracts 2 Complete Edition』が、現在Variousで85%オフのセール中です。このゲームはスナイパーを操作してミッションを遂行する、ストラテジーとアクションが混在したFPSゲームです。評価も高く、多くのユーザーから好評価を得ています。",
-        "price": "$8.89",
-        "originalPrice": "",
-        "discount": "-85%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/sniper-ghost-warrior-contracts-2-complete-edition/info/",
-        "date": "2026-08-11"
-      },
-      {
-        "title": "World War Z",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "人気のゾンビアクションゲーム「World War Z」がSteamで75%オフのセール中です。このゲームは、協力プレイを重視したサードパーソン・シューティングゲームで、世界中のさまざまな場所を舞台に、プレイヤーがゾンビの大群と戦います。高い評価と人気度を誇るこのゲームは、通常価格より大幅に安くなっているので、おすすめです。",
-        "price": "¥1,074",
-        "originalPrice": "¥4,299",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/699130",
-        "date": "2026-08-11"
-      },
-      {
-        "title": "Black Myth: Wukong",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームのBlack Myth: Wukongが、現在Variousで30%割引のセール中です。このゲームは、中国の古典的な物語「西遊記」をベースにした独自のストーリーと、ダイナミックなアクションシーケンスで人気を博しています。多くのユーザーから高い評価を受けており、現在の割引価格で購入するのはよい機会です。",
-        "price": "$41.99",
-        "originalPrice": "",
-        "discount": "-30%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/black-myth-wukong/info/",
-        "date": "2026-08-11"
-      },
       {
         "title": "Cult of the Lamb",
         "platform": "Various",
@@ -568,139 +496,45 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/helldivers-2/info/",
         "date": "2026-08-17"
+      },
+      {
+        "title": "Lossless Scaling",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Lossless ScalingがSteamで50% OFFセール中です。",
+        "price": "¥400",
+        "originalPrice": "¥800",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/993090",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Caravan Sandwitch",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Caravan SandwitchがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/caravan-sandwitch/info/",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Cairn",
+        "platform": "Various",
+        "type": "sale",
+        "description": "CairnがVariousで-40%セール中です。",
+        "price": "$17.99",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cairn/info/",
+        "date": "2026-08-18"
       }
     ],
     "review": [
-      {
-        "title": "【「Discord Nitro」加入者なら『CoD: MW4』“最速”先行ベータを無料プレイでき...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Discord Nitro加入者は「CoD: MW4」の最速先行ベータを無料でプレイできます。このゲームの評価ポイントとしては、グラフィックの質やゲームプレイのスムーズさが高いことが挙げられます。また、レビューの内容概要としては、新しいマルチプレイヤーモードの追加や、既存のマップの改良が行われている点が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/discord-nitro-cod-mw4-20260813-460051/",
-        "date": "2026-08-13",
-        "is_translated": false
-      },
-      {
-        "title": "【高評価“暗殺回避”異変探しホラー『Targeted –10 Days』期間限定で無料配布中、E...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Targeted –10 Daysは、期間限定で無料配布中のホラーゲームです。暗殺回避と異変探しが特徴のこのゲームは、高評価を得ています。具体的には、プレイヤーが10日間の期間中に暗殺を回避して生き残るというミッションを遂行する必要があり、ストーリーが進むにつれて様々な異変が起こります。評価ポイントとして、ゲームのスリリングな展開、ストーリーの深み。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260813-460027/",
-        "date": "2026-08-13",
-        "is_translated": false
-      },
-      {
-        "title": "【『アークナイツ：エンドフィールド』リーノ実装で、“写真部”がますます賑わう。本格フォトモードで...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『アークナイツ：エンドフィールド』の最新アップデートで、リーノというキャラクターが実装され、ゲーム内での写真撮影モードがさらに魅力的なものになりました。本格的なフォトモードの導入により、プレイヤーはより自由に写真を撮ることができ、ゲームのグラフィックやキャラクターのデザインを鑑賞することができます。このアップデートは、写真撮影を楽しむプレイヤーやグラフィックにこだわるゲーマーにとって。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260812-459925/",
-        "date": "2026-08-13",
-        "is_translated": false
-      },
-      {
-        "title": "【【コスプレ】ゴスロリ衣装が可愛い「ミサミサ」、キラッと華やかな「ヴィヴィ」や初音ミクまで、“ア...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "このレビュー記事では、コスプレ衣装の評価ポイントを紹介しています。評価ポイントとして、ゴスロリ衣装の可愛さやキラッと華やかなデザインが取り上げられています。記事では、「ミサミサ」や「ヴィヴィ」などのコスプレ衣装や初音ミクのコスプレも紹介されており、コスプレファンやアイドルファンにとっては必見の記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/08/13/186141.html",
-        "date": "2026-08-13",
-        "is_translated": false
-      },
-      {
-        "title": "【期待されたアメリカ高校オープンワールド『Agefield High: Rock the Sch...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "アメリカ高校を舞台にしたオープンワールドゲーム「Agefield High: Rock the School」のレビュー記事では、ゲームの評価ポイントとして、自由に校内を駆け回ることができるOPENワールドの広さや、友人を増やしていくシステム、そしてクイズバトルのバリエーションが評価されています。また、ゲームのレビューの内容として、ストーリーの面白さやキャラクターの個性。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260813-460066/",
-        "date": "2026-08-13",
-        "is_translated": false
-      },
-      {
-        "title": "【Duskfade レビュー: キングダム ハーツの新しい代替品は今年の最高のマリオ ゲームです】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "Duskfade レビュー記事では、キングダム ハーツの新しい代替品として今年の最高のマリオ ゲームと評価されています。このレビューでは、ゲームの評価ポイントとしてグラフィックやサウンド、ゲームプレイの面白さを取り上げています。また、ストーリーやキャラクターの魅力についても言及しています。キングダム ハーツやマリオ ゲームのファンである読者に特にオススメできるレビューです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/duskfade-review/",
-        "date": "2026-08-13",
-        "is_translated": true
-      },
-      {
-        "title": "【ファイアーエムブレム フォーチュンウィーブ プレビュー: 任天堂史上最高の戦略ゲームになる可能性】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "ファイアーエムブレムシリーズの最新作「フォーチュンウィーブ」は、任天堂史上最高の戦略ゲームになる可能性を持っているというレビュー記事があります。このゲームの評価ポイントとしては、ストーリーの深みや新しいキャラクターの魅力が挙げられます。レビューでは、戦略的なゲームプレイやグラフィックの向上も高く評価されています。このゲームは、シリーズのファンや戦略ゲーム好きの方に特におすすめです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-preview/",
-        "date": "2026-08-13",
-        "is_translated": true
-      },
-      {
-        "title": "【戦闘なしオープンワールド『Caravan SandWitch』が無料配布中、Epic Game...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "本記事では、戦闘なしオープンワールドのゲーム「Caravan SandWitch」のレビューを紹介しています。このゲームはEpic Gamesで無料配布中で、プレイヤーは自由に世界を探索できます。評価ポイントとしては、美しいグラフィックやリラックスした雰囲気、そして自由度の高いゲームプレイが挙げられます。対象読者は、オープンワールドゲームのファンや、リラックスしたゲーム体験を求める人向けです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/caravan-sandwitch-20260813-460099/",
-        "date": "2026-08-13",
-        "is_translated": false
-      },
-      {
-        "title": "【「Battlefield 6」x「トップガン」コラボのゲームプレイトレーラーがお披露目、解禁は...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "このレビュー記事では、ゲーム「Battlefield 6」と「トップガン」のコラボレーションを紹介しています。コラボの内容やゲームプレイの魅力、グラフィックの質などが評価ポイントとなっています。コラボの詳細やゲームの特徴などを知りたい方に興味を持って読むことができるでしょう。記事では、ゲームのストーリーや操作感、コラボの意義などについても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169601.html",
-        "date": "2026-08-13",
-        "is_translated": false
-      },
-      {
-        "title": "【ゲーム・オブ・スローンズRTS「Game of Thrones: War For Wester...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Game of Thrones: War For Westeros」は、人気ドラマシリーズ「ゲーム・オブ・スローンズ」を基にしたリアルタイムストラテジー（RTS）ゲームです。このゲームの評価ポイントとしては、魅力的なグラフィックや、ドラマシリーズの世界観を再現した豊富なストーリーがあげられます。レビューの内容概要としては、ゲームの操作性の高さや、多様なユニットやキャラクターの存在が挙げられます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169627.html",
-        "date": "2026-08-13",
-        "is_translated": false
-      },
       {
         "title": "【「Call of Duty: Black Ops 7|Warzone」シーズン05リローデッド...：レビュー】",
         "platform": "doope!",
@@ -1210,5 +1044,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-17T21:25:00.615995"
+  "last_updated": "2026-08-18T01:05:55.851152"
 }
