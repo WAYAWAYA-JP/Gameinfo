@@ -1092,8 +1092,47 @@
         "url": "https://www.pcgamer.com/hardware/gaming-mice/razer-naga-v3-pro-review/",
         "date": "2026-08-18",
         "is_translated": true
+      },
+      {
+        "title": "【開発14年の大作宇宙MMO『Star Citizen』公式放送の実演プレイが“バグまみれ”で困...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【開発14年の大作宇宙MMO『Star Citizen』公式放送の実演プレイが“バグまみれ”で困...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/star-citizen-20260818-460712/",
+        "date": "2026-08-18",
+        "is_translated": false
+      },
+      {
+        "title": "【クトゥルフサバイバルホラー『シンキング シティ 2』発売直後から「95%好評」。狂気まみれの水...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【クトゥルフサバイバルホラー『シンキング シティ 2』発売直後から「95%好評」。狂気まみれの水...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260818-460828/",
+        "date": "2026-08-18",
+        "is_translated": false
+      },
+      {
+        "title": "【お父さんのゲームレビューまとめ】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【お父さんのゲームレビューまとめ】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/video/dad-game-review-round-up/",
+        "date": "2026-08-18",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-18T09:30:40.938452"
+  "last_updated": "2026-08-18T12:56:16.343260"
 }
