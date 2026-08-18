@@ -532,6 +532,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cairn/info/",
         "date": "2026-08-18"
+      },
+      {
+        "title": "Zombie Army 4: Dead War",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Zombie Army 4: Dead WarがSteamで95% OFFセール中です。",
+        "price": "¥275",
+        "originalPrice": "¥5,500",
+        "discount": "95% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/694280",
+        "date": "2026-08-18"
       }
     ],
     "review": [
@@ -1041,8 +1053,47 @@
         "url": "https://www.rockpapershotgun.com/mortal-shell-2-review-a-monumental-heavy-metal-sequel-with-the-spirit-of-a-90s-pc-game",
         "date": "2026-08-17",
         "is_translated": true
+      },
+      {
+        "title": "【ゲーマー向けの新作ゲームの大規模オフラインプレイテスト募集、東京で実施へ。ゲームプレイ20本以...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【ゲーマー向けの新作ゲームの大規模オフラインプレイテスト募集、東京で実施へ。ゲームプレイ20本以...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/pts-20260818-460667/",
+        "date": "2026-08-18",
+        "is_translated": false
+      },
+      {
+        "title": "【「ヱヴァ新劇場版」より「要人輸送用ネルフ司令官専用垂直離着陸機」プラモデルが予約受付中！主翼部...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【「ヱヴァ新劇場版」より「要人輸送用ネルフ司令官専用垂直離着陸機」プラモデルが予約受付中！主翼部...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/08/18/186355.html",
+        "date": "2026-08-18",
+        "is_translated": false
+      },
+      {
+        "title": "【Razer Naga V3 Pro レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Razer Naga V3 Pro レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/razer-naga-v3-pro-review/",
+        "date": "2026-08-18",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-18T01:05:55.851152"
+  "last_updated": "2026-08-18T09:30:40.938452"
 }
