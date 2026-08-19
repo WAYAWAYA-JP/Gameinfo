@@ -182,6 +182,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/new-signal-bundle",
         "date": "2026-08-19"
+      },
+      {
+        "title": "Yes Chef! - Cooking Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Yes Chef! - Cooking BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/yeschefcookingbundle_bundle",
+        "date": "2026-08-19"
       }
     ],
     "sale": [
@@ -1094,8 +1106,86 @@
         "url": "https://www.polygon.com/wildwood-trailer-laika-movie-coraline/",
         "date": "2026-08-19",
         "is_translated": true
+      },
+      {
+        "title": "【愛らしい捜し物アドベンチャーゲーム「Lost and Found Co.」の販売が10万本を突破：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【愛らしい捜し物アドベンチャーゲーム「Lost and Found Co.」の販売が10万本を突破：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169803.html",
+        "date": "2026-08-19",
+        "is_translated": false
+      },
+      {
+        "title": "【「Call of Duty: Modern Warfare 4」マルチプレイヤーのゲームプレイ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Call of Duty: Modern Warfare 4」マルチプレイヤーのゲームプレイ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169760.html",
+        "date": "2026-08-19",
+        "is_translated": false
+      },
+      {
+        "title": "【ベータ後の難易度上昇が非難される中、Mortal Shell 2の開発者は敵の武器を盗むほど激...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【ベータ後の難易度上昇が非難される中、Mortal Shell 2の開発者は敵の武器を盗むほど激...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/amid-accusations-of-a-post-beta-difficulty-bump-mortal-shell-2-devs-patch-the-new-soulslike-to-stop-players-riposting-so-hard-they-steal-enemy-weapons",
+        "date": "2026-08-19",
+        "is_translated": true
+      },
+      {
+        "title": "【STALKER 2 は 2.0 アップデートでパフォーマンスとビジュアルが大幅にアップグレード...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【STALKER 2 は 2.0 アップデートでパフォーマンスとビジュアルが大幅にアップグレード...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/stalker-2-gets-serious-performance-and-visual-upgrades-with-its-20-update-testing-confirms-polishing-up-one-of-the-biggest-flawed-gems-in-fps-games",
+        "date": "2026-08-19",
+        "is_translated": true
+      },
+      {
+        "title": "【STALKER 2: Cost of Hope レビュー: 派閥争いが暗礁に乗り上げているにも...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【STALKER 2: Cost of Hope レビュー: 派閥争いが暗礁に乗り上げているにも...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/stalker-2-cost-of-hope-review",
+        "date": "2026-08-19",
+        "is_translated": true
+      },
+      {
+        "title": "【Marvel Tokon: Fighting Souls レビュー: 技術的な問題を克服できな...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Marvel Tokon: Fighting Souls レビュー: 技術的な問題を克服できな...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/marvel-tokon-fighting-souls-review/",
+        "date": "2026-08-19",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-19T12:57:21.626475"
+  "last_updated": "2026-08-19T21:24:10.056452"
 }
