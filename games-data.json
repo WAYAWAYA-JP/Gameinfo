@@ -460,6 +460,30 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/694280",
         "date": "2026-08-18"
+      },
+      {
+        "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-がSteamで70% OFFセール中です。",
+        "price": "¥2,244",
+        "originalPrice": "¥7,480",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2552430",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "KINGDOM HEARTS III + Re Mind (DLC)",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "KINGDOM HEARTS III + Re Mind (DLC)がSteamで70% OFFセール中です。",
+        "price": "¥2,904",
+        "originalPrice": "¥9,680",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2552450",
+        "date": "2026-08-19"
       }
     ],
     "review": [
@@ -891,8 +915,73 @@
         "url": "https://www.rockpapershotgun.com/trainwatch-is-a-life-sim-a-horror-game-and-a-time-management-experience-rolled-up-into-a-haunting-story-about-the-eerie-places-you-see-from-a-speeding-carriage",
         "date": "2026-08-18",
         "is_translated": true
+      },
+      {
+        "title": "【『超新時空ゲイム ネプテューヌ∞（アンリミテッド）』プレイレポート。11年ぶりの正統続編でも切...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『超新時空ゲイム ネプテューヌ∞（アンリミテッド）』プレイレポート。11年ぶりの正統続編でも切...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260819-461105/",
+        "date": "2026-08-19",
+        "is_translated": false
+      },
+      {
+        "title": "【“好評なのに売れてない”と嘆かれた『Arco』、2年越しに10万本到達で無事開発費を回収。「新...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【“好評なのに売れてない”と嘆かれた『Arco』、2年越しに10万本到達で無事開発費を回収。「新...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260819-461131/",
+        "date": "2026-08-19",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam忍者隠密ローグライク『Ninja Simulator』4年越しの開発再開、からの早速...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【Steam忍者隠密ローグライク『Ninja Simulator』4年越しの開発再開、からの早速...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260819-461122/",
+        "date": "2026-08-19",
+        "is_translated": false
+      },
+      {
+        "title": "【「Marathon」の新たなPvPvEイベント“オードナンス・ハイスト”が始動、ゲームプレイト...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Marathon」の新たなPvPvEイベント“オードナンス・ハイスト”が始動、ゲームプレイト...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169755.html",
+        "date": "2026-08-19",
+        "is_translated": false
+      },
+      {
+        "title": "【ホロライブの高評価ファンメイドゲーム『ホロキュア』次回アプデで獅白ぼたん、ラプラス・ダークネス...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【ホロライブの高評価ファンメイドゲーム『ホロキュア』次回アプデで獅白ぼたん、ラプラス・ダークネス...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/08/19/186413.html",
+        "date": "2026-08-19",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-19T01:07:01.128950"
+  "last_updated": "2026-08-19T09:31:47.558091"
 }
