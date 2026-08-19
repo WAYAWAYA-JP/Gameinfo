@@ -170,6 +170,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/shantaeheroicheroines_bundle",
         "date": "2026-08-17"
+      },
+      {
+        "title": "New Signal Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "New Signal BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/new-signal-bundle",
+        "date": "2026-08-19"
       }
     ],
     "sale": [
@@ -483,6 +495,30 @@
         "discount": "70% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/2552450",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Minecraft Dungeons",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Minecraft DungeonsがSteamで50% OFFセール中です。",
+        "price": "¥1,320",
+        "originalPrice": "¥2,640",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1672970",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Sid Meier's Civilization® VI",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Sid Meier's Civilization® VIがVariousで-94%セール中です。",
+        "price": "$3.59",
+        "originalPrice": "",
+        "discount": "-94%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/sid-meiers-civilization-vi/info/",
         "date": "2026-08-19"
       }
     ],
@@ -980,8 +1016,86 @@
         "url": "https://www.inside-games.jp/article/2026/08/19/186413.html",
         "date": "2026-08-19",
         "is_translated": false
+      },
+      {
+        "title": "【注目された「怪獣vs人」都市破壊バトル『BeastLink』、不評の目立つ厳しいスタート。開発...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【注目された「怪獣vs人」都市破壊バトル『BeastLink』、不評の目立つ厳しいスタート。開発...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260819-461185/",
+        "date": "2026-08-19",
+        "is_translated": false
+      },
+      {
+        "title": "【AngryMiao AM Infinity.97 マウスのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【AngryMiao AM Infinity.97 マウスのレビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/angrymiao-am-infinity-97-mouse-review/",
+        "date": "2026-08-19",
+        "is_translated": true
+      },
+      {
+        "title": "【Acer Predator Helios NEO 16S AI レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Acer Predator Helios NEO 16S AI レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-laptops/acer-predator-helios-neo-16s-ai-review/",
+        "date": "2026-08-19",
+        "is_translated": true
+      },
+      {
+        "title": "【ブーリーEP200レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【ブーリーEP200レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-chairs/boulies-ep200-review/",
+        "date": "2026-08-19",
+        "is_translated": true
+      },
+      {
+        "title": "【Trainwatch は、ライフ シム、ホラー ゲーム、時間管理の体験を、猛スピードで走る馬車...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Trainwatch は、ライフ シム、ホラー ゲーム、時間管理の体験を、猛スピードで走る馬車...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/trainwatch-is-a-life-sim-a-horror-game-and-a-time-management-experience-rolled-up-into-a-haunting-story-about-the-eerie-places-you-see-from-a-speeding-carriage",
+        "date": "2026-08-18",
+        "is_translated": true
+      },
+      {
+        "title": "【新しい「ワイルドウッド」予告編では、コララインのスタイルと忘れられないおとぎ話の組み合わせが示...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【新しい「ワイルドウッド」予告編では、コララインのスタイルと忘れられないおとぎ話の組み合わせが示...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/wildwood-trailer-laika-movie-coraline/",
+        "date": "2026-08-19",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-19T09:31:47.558091"
+  "last_updated": "2026-08-19T12:57:21.626475"
 }
