@@ -1,6 +1,19 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Caravan SandWitch",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Caravan SandWitchがEpic Gamesで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "¥29",
+        "discount": "100% OFF",
+        "deadline": "2026年08月20日まで",
+        "url": "https://store.epicgames.com/ja/p/70e9a8a90305449a88a38b708399e605",
+        "date": "2026-08-20"
+      }
+    ],
     "bundle": [
       {
         "title": "Twin Sails Interactive 2026",
@@ -169,6 +182,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/yeschefcookingbundle_bundle",
         "date": "2026-08-19"
+      },
+      {
+        "title": "Dungeons & Dragons: Classics Collection 2026",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Dungeons & Dragons: Classics Collection 2026のバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/dungeonsdragonsclassicscollection2026_bundle",
+        "date": "2026-08-20"
       }
     ],
     "sale": [
@@ -506,6 +531,30 @@
         "discount": "-14%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/elden-ring/info/",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "The Alters",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The AltersがVariousで-61%セール中です。",
+        "price": "$13.64",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-alters/info/",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "RimWorld",
+        "platform": "Various",
+        "type": "sale",
+        "description": "RimWorldがVariousで-27%セール中です。",
+        "price": "$25.54",
+        "originalPrice": "",
+        "discount": "-27%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/rimworld/info/",
         "date": "2026-08-20"
       }
     ],
@@ -1094,8 +1143,125 @@
         "url": "https://www.rockpapershotgun.com/amid-accusations-of-a-post-beta-difficulty-bump-mortal-shell-2-devs-patch-the-new-soulslike-to-stop-players-riposting-so-hard-they-steal-enemy-weapons",
         "date": "2026-08-19",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料・戦略防衛RPG『ウォッチャー・オブ・レルム』、『アサシン クリード』シリーズと...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料・戦略防衛RPG『ウォッチャー・オブ・レルム』、『アサシン クリード』シリーズと...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260820-461451/",
+        "date": "2026-08-20",
+        "is_translated": false
+      },
+      {
+        "title": "【国おこしクリック放置ゲーム『小さな領地の繫盛記』配信直後から大人気。キャンプ地がじわじわ「巨大...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【国おこしクリック放置ゲーム『小さな領地の繫盛記』配信直後から大人気。キャンプ地がじわじわ「巨大...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260820-461419/",
+        "date": "2026-08-20",
+        "is_translated": false
+      },
+      {
+        "title": "【因習島ホラーミステリーBL『大穢』Nintendo Switch版発表。スーツ男子“湿度高め”...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【因習島ホラーミステリーBL『大穢』Nintendo Switch版発表。スーツ男子“湿度高め”...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/owen-20260820-461409/",
+        "date": "2026-08-20",
+        "is_translated": false
+      },
+      {
+        "title": "【大ヒット作『黒神話：悟空』開発元の新作『黒神話：鍾馗』いきなり「たっぷり15分ゲームプレイ映像...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【大ヒット作『黒神話：悟空』開発元の新作『黒神話：鍾馗』いきなり「たっぷり15分ゲームプレイ映像...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260820-461394/",
+        "date": "2026-08-20",
+        "is_translated": false
+      },
+      {
+        "title": "【Game Science最新作「黒神話：鍾馗」の驚異的なビジュアルと戦闘が確認できる本格的なゲ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Game Science最新作「黒神話：鍾馗」の驚異的なビジュアルと戦闘が確認できる本格的なゲ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169813.html",
+        "date": "2026-08-20",
+        "is_translated": false
+      },
+      {
+        "title": "【長寿MMOのクラフト系オープンワールドサバイバルスピンオフ「RuneScape: Dragon...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【長寿MMOのクラフト系オープンワールドサバイバルスピンオフ「RuneScape: Dragon...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169810.html",
+        "date": "2026-08-20",
+        "is_translated": false
+      },
+      {
+        "title": "【Noitaにインスパイアされた2D工場自動化シム「Sandustry」の販売が10万本を突破：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Noitaにインスパイアされた2D工場自動化シム「Sandustry」の販売が10万本を突破：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169830.html",
+        "date": "2026-08-20",
+        "is_translated": false
+      },
+      {
+        "title": "【ガンダムUCより「ネェル・アーガマ」のカタパルトデッキがジオラマフィギュア化！HGガンプラのデ...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【ガンダムUCより「ネェル・アーガマ」のカタパルトデッキがジオラマフィギュア化！HGガンプラのデ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/08/20/186484.html",
+        "date": "2026-08-20",
+        "is_translated": false
+      },
+      {
+        "title": "【パッケージ版＆正式版リリースを迎えた『スターサンド・アイランド（Starsand Island...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【パッケージ版＆正式版リリースを迎えた『スターサンド・アイランド（Starsand Island...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/08/20/186483.html",
+        "date": "2026-08-20",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-20T01:06:26.426615"
+  "last_updated": "2026-08-20T09:32:21.093356"
 }
