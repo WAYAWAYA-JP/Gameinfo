@@ -1,32 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Caravan SandWitch",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Epic Gamesでは、現在「Caravan SandWitch」というアドベンチャーゲームが無料で配布されています。このゲームは、ユニークなグラフィックや面白いストーリーが特徴です。さらに、プレイヤーは様々なキャラクターを操作して、さまざまなミッションをクリアする必要があり、チャレンジ精神を引き出す魅力があります。",
-        "price": "無料",
-        "originalPrice": "¥29",
-        "discount": "100% OFF",
-        "deadline": "2026年08月20日まで",
-        "url": "https://store.epicgames.com/ja/p/70e9a8a90305449a88a38b708399e605",
-        "date": "2026-08-13"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Dungeons & Dragons: Classics Collection 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Dungeons & Dragons: Classics Collection 2026というバンドルが販売中です。このバンドルには、主要タイトルとして「Baldur's Gate」、「Icewind Dale」、「Planescape: Torment」などの名作ロールプレイングゲームが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/dungeonsdragonsclassicscollection2026_bundle",
-        "date": "2026-08-10"
-      },
       {
         "title": "Twin Sails Interactive 2026",
         "platform": "Humble Bundle",
@@ -197,30 +172,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Kingdom Come: Deliverance II",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Kingdom Come: Deliverance IIがVariousで60％オフのセール中です。このゲームはオープンワールドアクションRPGのジャンルに属し、中世のボヘミアを舞台にしたリアルなゲームプレイが特徴です。価格は大幅に割引されており、ファンや新規プレイヤーにとって引き引きできないチャンスです。評価も高く、ユーザーから高い人気度を誇っています。",
-        "price": "$23.99",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Beyond Two Souls",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Beyond Two SoulsがVariousで95%オフのセール中です。このゲームはアクションアドベンチャーな要素が含まれており、ストーリーが強いことで知られています。現在の価格は大幅に割引されており、非常に魅力的な条件です。ユーザーの評価も高く、多くのプレイヤーに支持されています。ぜひこの機会にチェックしてみてください。",
-        "price": "$0.99",
-        "originalPrice": "",
-        "discount": "-95%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/beyond-two-souls/info/",
-        "date": "2026-08-13"
-      },
       {
         "title": "PEAK",
         "platform": "Steam",
@@ -532,100 +483,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/sid-meiers-civilization-vi/info/",
         "date": "2026-08-19"
+      },
+      {
+        "title": "Pacific Drive",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Pacific DriveがVariousで-70%セール中です。",
+        "price": "$8.99",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/pacific-drive/info/",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "Elden Ring",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Elden RingがVariousで-14%セール中です。",
+        "price": "$51.59",
+        "originalPrice": "",
+        "discount": "-14%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/elden-ring/info/",
+        "date": "2026-08-20"
       }
     ],
     "review": [
-      {
-        "title": "【“Deponia”シリーズ初のサバイバルゲーム「Surviving Deponia」のプレイテ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「Surviving Deponia」のレビュー記事では、このゲームの評価ポイントとして、ユニークなサバイバルゲーム要素の導入や、シリーズのファンにとって楽しいストーリーの展開が高く評価されています。また、ゲームのグラフィックやサウンドトラックも高品質であると指摘されています。このレビューは、「Deponia」シリーズのファンや、サバイバルゲームを楽しむ人のために役立つ情報を提供しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169611.html",
-        "date": "2026-08-15",
-        "is_translated": false
-      },
-      {
-        "title": "【“10時間”で大量ゾンビに備えるサバイバルゲーム『Survival Log』、Steamでさっ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "このレビュー記事は、Steamで配信されているサバイバルゲーム『Survival Log』の魅力を紹介しています。このゲームでは、プレイヤーは10時間の時間制限の中で、資源を集めながら大量のゾンビに対応する必要があります。ゲームの評価ポイントとしては、緊張感のあるゲームプレイ、ユニークなシステム、グラフィックの美しさが挙げられます。レビューでは、これらの点について詳細に説明しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260815-460344/",
-        "date": "2026-08-15",
-        "is_translated": false
-      },
-      {
-        "title": "【最大4人協力・鉱山防衛ローグライトアクション『Stonewards』前評判どおりの好評スタート...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "「Stonewords」は最大4人で協力して鉱山を防衛するローグライトアクションゲームです。このゲームは前評判どおりに好評を博しており、レビューではその評価ポイントがまとめられています。主な評価ポイントとしては、協力プレイの面白さや、ランダムな要素によって生まれる変化性が挙げられます。また、グラフィックやサウンドトラックの質も高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260815-460327/",
-        "date": "2026-08-15",
-        "is_translated": false
-      },
-      {
-        "title": "【“Road Trip”向けの新機能“Atlas”を紹介する「American Truck Si...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "アメリカン・トラック・シミュレーターは人気のトラック運転ゲームで、最新のアトラス機能が追加されました。このゲームの評価ポイントは、リアルなグラフィックや操作感、そして新しいアトラス機能による自由度の向上です。レビューの内容概要としては、ゲームのグラフィックやサウンドの質の高さ、そして新しい機能の使いやすさが高く評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169670.html",
-        "date": "2026-08-15",
-        "is_translated": false
-      },
-      {
-        "title": "【Bulkheadが開発を手がける100人プレイ大規模シューター「WARDOGS」のウィッシュリ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "Bulkheadが開発した大規模シューティングゲーム「WARDOGS」のレビュー記事では、100人プレイが可能なこのゲームの魅力や評価ポイントについて紹介しています。具体的には、ゲームのグラフィックやサウンドデザイン、プレイアビリティなどの点が評価されています。また、ゲームのストーリーや操作性についても触れています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169508.html",
-        "date": "2026-08-15",
-        "is_translated": false
-      },
-      {
-        "title": "【今週末はみんなで何をしますか？：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "今週末はみんなで何をしますか？のレビュー記事では、ゲームの評価ポイントとしてグラフィックの美しさや、ストーリーの面白さ、操作のしやすさが高く評価されています。また、レビューの内容概要としては、ゲームの雰囲気や、ゲームの長さ、難易度の適切さなどが述べられています。このレビュー記事は、ゲームファンや、新しくゲームを始めたい方など、幅広い層の読者に興味を持って読んでもらえる内容です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-395",
-        "date": "2026-08-15",
-        "is_translated": true
-      },
-      {
-        "title": "【Steamの“生成AI利用ゲーム”に対するプレイヤーの反応を分析した研究。評価を分けるのは“利...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "Steamの「生成AI利用ゲーム」に対するプレイヤーの反応を分析した研究のレビュー記事があります。この記事では、生成AI利用ゲームの評価ポイントとして、ゲームの独自性や新鮮感、そしてAIの性能が重要であると指摘しています。また、プレイヤーはこのようなゲームに対して、創造性や自由度の高さを評価しています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260815-460351/",
-        "date": "2026-08-15",
-        "is_translated": false
-      },
       {
         "title": "【『ほの暮しの庭』はホラー苦手でもギリ遊べる。『MARVEL Tōkon: Fighting S...：レビュー】",
         "platform": "AUTOMATON",
@@ -664,19 +548,6 @@
         "url": "https://doope.jp/2026/08169687.html",
         "date": "2026-08-17",
         "is_translated": false
-      },
-      {
-        "title": "【What are we all playing this weekend?：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "「What are we all playing this weekend?：レビュー」は、最新のゲーム情報を提供するレビュー記事です。この記事では、様々なゲームの評価ポイントを紹介し、グラフィックやゲーム性、ストーリーなどの要素を基にしたレビューの内容概要を2点から3点にまとめています。ゲームファンや新しいゲームを探している人に対象の読者layer向けに、ゲームの魅力を紹介しているので。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-395",
-        "date": "2026-08-15",
-        "is_translated": true
       },
       {
         "title": "【Steamではプレイ200時間超えだと「ネガティブなレビューがむしろ増える」との研究結果。何百...】",
@@ -781,19 +652,6 @@
         "url": "https://automaton-media.com/articles/newsjp/20260817-460569/",
         "date": "2026-08-17",
         "is_translated": false
-      },
-      {
-        "title": "【今週末はみんなで何をして遊ぶのかな？：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【今週末はみんなで何をして遊ぶのかな？：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-395",
-        "date": "2026-08-15",
-        "is_translated": true
       },
       {
         "title": "【『ブレードランナー 2099』クリエイター、ハリソン・フォードがプライム・ビデオ番組に出演する...：レビュー】",
@@ -1184,8 +1042,60 @@
         "url": "https://www.polygon.com/marvel-tokon-fighting-souls-review/",
         "date": "2026-08-19",
         "is_translated": true
+      },
+      {
+        "title": "【海洋惑星サバイバル『サブノーティカ2』新アプデ1.2でマルチプレイがっつり強化。離れると聞こえ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【海洋惑星サバイバル『サブノーティカ2』新アプデ1.2でマルチプレイがっつり強化。離れると聞こえ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260820-461223/",
+        "date": "2026-08-20",
+        "is_translated": false
+      },
+      {
+        "title": "【SCREEN BURNが開発を手がける“サイレントヒル”シリーズ最新作「SILENT HILL...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【SCREEN BURNが開発を手がける“サイレントヒル”シリーズ最新作「SILENT HILL...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169812.html",
+        "date": "2026-08-20",
+        "is_translated": false
+      },
+      {
+        "title": "【「Subnautica 2」にマルチプレイヤー向けの改善を多数導入する早期アクセス1.2アップ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Subnautica 2」にマルチプレイヤー向けの改善を多数導入する早期アクセス1.2アップ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169763.html",
+        "date": "2026-08-19",
+        "is_translated": false
+      },
+      {
+        "title": "【ベータ後の難易度上昇が非難される中、Mortal Shell 2の開発者は、敵の武器を盗むほど...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【ベータ後の難易度上昇が非難される中、Mortal Shell 2の開発者は、敵の武器を盗むほど...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/amid-accusations-of-a-post-beta-difficulty-bump-mortal-shell-2-devs-patch-the-new-soulslike-to-stop-players-riposting-so-hard-they-steal-enemy-weapons",
+        "date": "2026-08-19",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-19T21:24:10.056452"
+  "last_updated": "2026-08-20T01:06:26.426615"
 }
