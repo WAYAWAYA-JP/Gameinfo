@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/rimworld/info/",
         "date": "2026-08-20"
+      },
+      {
+        "title": "Blue Prince",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Blue PrinceがVariousで-45%セール中です。",
+        "price": "$16.62",
+        "originalPrice": "",
+        "discount": "-45%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/blue-prince/info/",
+        "date": "2026-08-20"
       }
     ],
     "review": [
@@ -1263,5 +1275,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-20T09:32:21.093356"
+  "last_updated": "2026-08-20T12:59:21.481500"
 }
