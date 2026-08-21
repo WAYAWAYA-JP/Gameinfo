@@ -194,6 +194,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/dungeonsdragonsclassicscollection2026_bundle",
         "date": "2026-08-20"
+      },
+      {
+        "title": "Love Letter to Lovecraft",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Love Letter to LovecraftのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/lovelettertolovecraft_bundle",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "Humble 15th Anniversary - Ready Player One ... and Two",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble 15th Anniversary - Ready Player One ... and TwoのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/humble15thanniversaryreadyplayeroneandtwo_bundle",
+        "date": "2026-08-21"
       }
     ],
     "sale": [
@@ -1401,8 +1425,60 @@
         "url": "https://www.rockpapershotgun.com/were-going-to-take-things-slow-south-of-midnight-devs-now-own-the-rights-to-all-their-games-again-after-quitting-xbox-and-are-working-on-a-new-game",
         "date": "2026-08-21",
         "is_translated": true
+      },
+      {
+        "title": "【コンソール版「The Blood of Dawnwalker」の詳細なゲームプレイ比較映像が公...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【コンソール版「The Blood of Dawnwalker」の詳細なゲームプレイ比較映像が公...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169890.html",
+        "date": "2026-08-21",
+        "is_translated": false
+      },
+      {
+        "title": "【発売1周年を迎えた「The Rogue Prince of Persia」の累計プレイヤー数が...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【発売1周年を迎えた「The Rogue Prince of Persia」の累計プレイヤー数が...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169883.html",
+        "date": "2026-08-21",
+        "is_translated": false
+      },
+      {
+        "title": "【電子機器修理屋シム「リ・ストーリー: 思い出修理屋」初のコンテンツアップデート配信が9月14日に決定：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【電子機器修理屋シム「リ・ストーリー: 思い出修理屋」初のコンテンツアップデート配信が9月14日に決定：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169884.html",
+        "date": "2026-08-21",
+        "is_translated": false
+      },
+      {
+        "title": "【Sandustry は、私がプレイした中で、かなりうまくいった最初の工場シミュレーション ゲームです】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Sandustry は、私がプレイした中で、かなりうまくいった最初の工場シミュレーション ゲームです】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/sandustry-is-the-first-factory-simulation-game-ive-played-that-gets-heaps-right",
+        "date": "2026-08-21",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-21T12:58:29.270763"
+  "last_updated": "2026-08-21T21:22:40.526339"
 }
