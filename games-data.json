@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Twin Sails Interactive 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Twin Sails Interactive 2026のバンドルがHumble Bundleで販売中です。このバンドルには、同社の主要タイトルである「Distant Thunder」や「Echoes of the Fey」、「The Blind Prophet」などの作品が含まれています。ジャンルはアクションアドベンチャーやRPGが中心となっています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/twinsailsinteractive2026_bundle",
-        "date": "2026-08-11"
-      },
-      {
-        "title": "Point Click Package",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、Point Click Packageのバンドルが販売中です。このバンドルには、人気のポイント・アンド・クリックアドベンチャーゲームである「Broken Age」や「The Secret of Monkey Island: Special Edition」、「The Walking Dead」などが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/pointclickpackage_bundle",
-        "date": "2026-08-11"
-      },
-      {
         "title": "Horror Station Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -221,54 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "PEAK",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "アクションゲームPEAKがSteamで50%OFFのセール中です。高速でダイナミックなプレイが特徴のこのゲームは、非常に評価が高く人気度も高いゲームです。通常価格よりも大幅に割引された価格で購入することができ、ファンや新規プレイヤーにとっては大きなチャンスです。",
-        "price": "¥440",
-        "originalPrice": "¥880",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3527290",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "Dead Cells",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームであるDead Cellsが、現在Variousで51%割引されて販売中です。このゲームは、ローグライク要素と難しい操作性で知られており、多くのユーザーから高い評価を受けています。特に、ダークファンタジーの世界観と複数の武器やスキルを使用できることが人気の理由となっています。価格も割引により非常に魅力的なものとなっています。",
-        "price": "$12.29",
-        "originalPrice": "",
-        "discount": "-51%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dead-cells/info/",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "Frostpunk 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Frostpunk 2は、シティビルディングとサバイバル要素を組み合わせた、ユニークなゲームです。現在、 Variousで61%割引されており、非常に魅力的です。このゲームは、高い評価と人気度を誇り、多くのプレイヤーから高い評価を得ています。シティを築きながら、厳しい環境の中で生き残るために、さまざまな戦略を講じることができ、非常に面白いです。",
-        "price": "$17.49",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "No Man's Skyは、オープンワールドのサンドボックスゲームであり、宇宙を自由に探索できる特徴があります。現在、Variousで60%割引のセール中で、ファンにはお得な機会です。このゲームは、グラフィックやサウンドトラックが高く評価されており、ユーザーからの評価も良好です。人気度も高く、多くのプレイヤーが楽しんでいます。",
-        "price": "$23.95",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-08-14"
-      },
       {
         "title": "Red Dead Redemption 2",
         "platform": "Various",
@@ -616,35 +544,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
         "date": "2026-08-20"
+      },
+      {
+        "title": "Vampire: The Masquerade® - Bloodlines™ 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Vampire: The Masquerade® - Bloodlines™ 2がVariousで-56%セール中です。",
+        "price": "$26.40",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/vampire-the-masquerade-bloodlines-2/info/",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "platform": "Various",
+        "type": "sale",
+        "description": "S.T.A.L.K.E.R. 2: Heart of ChornobylがVariousで-40%セール中です。",
+        "price": "$36.05",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
+        "date": "2026-08-21"
       }
     ],
     "review": [
-      {
-        "title": "【『ほの暮しの庭』はホラー苦手でもギリ遊べる。『MARVEL Tōkon: Fighting S...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『ほの暮しの庭』はホラーが苦手な人でもギリギリ遊ぶことができるゲームです。このゲームの評価ポイントとしては、ユニークなゲーム性や、不気味な雰囲気を醸し出すグラフィックなどが挙げられます。レビューの内容概要としては、ゲームのストーリーやサウンドトラックの品質が高く、プレイヤーを引き込むことができる点が評価されています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260816-460407/",
-        "date": "2026-08-16",
-        "is_translated": false
-      },
-      {
-        "title": "【『龍が如く７外伝』は75％オフで1500円切り。『JUDGE EYES』は745円で買える。高...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "『龍が如く７外伝』や『JUDGE EYES』などのゲームソフトが大幅な値下げで販売されています。特に『龍が如く７外伝』は75％オフで1500円で購入でき、同様に『JUDGE EYES』も745円での購入が可能です。このような大きな割引はゲームファンにとって大変魅力的です。ゲームのストーリー、プレイアビリティ、グラフィックなどの評価ポイントから。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260816-460399/",
-        "date": "2026-08-16",
-        "is_translated": false
-      },
       {
         "title": "【人気トレーディングカードショップ経営シム「TCG Card Shop Simulator」のP...：レビュー】",
         "platform": "doope!",
@@ -1333,8 +1259,21 @@
         "url": "https://automaton-media.com/articles/reportjp/20260820-461510/",
         "date": "2026-08-20",
         "is_translated": false
+      },
+      {
+        "title": "【Steamの「ゲイブ」久々のご尊顔、髭さっぱり“ハンサム化”でファン沸き立つ。痩せてたけどさら...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【Steamの「ゲイブ」久々のご尊顔、髭さっぱり“ハンサム化”でファン沸き立つ。痩せてたけどさら...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260821-461553/",
+        "date": "2026-08-21",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-20T21:26:31.170837"
+  "last_updated": "2026-08-21T01:10:25.676215"
 }
