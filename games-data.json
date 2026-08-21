@@ -568,6 +568,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
         "date": "2026-08-21"
+      },
+      {
+        "title": "Frostpunk 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Frostpunk 2がVariousで-60%セール中です。",
+        "price": "$17.78",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
+        "date": "2026-08-21"
       }
     ],
     "review": [
@@ -1350,8 +1362,47 @@
         "url": "https://www.polygon.com/metal-gear-solid-master-collection-vol-2-review-roundup/",
         "date": "2026-08-21",
         "is_translated": true
+      },
+      {
+        "title": "【街オープンワールド『NTE』の新物件「閑野雅邸」が“立地のわりに高すぎる”となぜか生々しい評価...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【街オープンワールド『NTE』の新物件「閑野雅邸」が“立地のわりに高すぎる”となぜか生々しい評価...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/columnjp/20260821-461794/",
+        "date": "2026-08-21",
+        "is_translated": false
+      },
+      {
+        "title": "【Creative XF1スピーカーレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Creative XF1スピーカーレビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/speakers/creative-xf1-speaker-review/",
+        "date": "2026-08-21",
+        "is_translated": true
+      },
+      {
+        "title": "【「ゆっくりと物事を進めるつもりです」：South of Midnight の開発者は Xbox...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【「ゆっくりと物事を進めるつもりです」：South of Midnight の開発者は Xbox...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/were-going-to-take-things-slow-south-of-midnight-devs-now-own-the-rights-to-all-their-games-again-after-quitting-xbox-and-are-working-on-a-new-game",
+        "date": "2026-08-21",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-21T09:34:23.590639"
+  "last_updated": "2026-08-21T12:58:29.270763"
 }
