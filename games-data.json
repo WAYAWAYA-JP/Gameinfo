@@ -40,42 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Horror Station Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Horror Station Bundleが販売中です。このバンドルには、Outlast、Amnesia: The Dark Descent、Five Nights at Freddy'sなどの人気ホラータイトルが収録されています。ホラーゲームファンにはたまらないバンドルです。ジャンルはホラーです。大まかな価格帯は10ドルから20ドル程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/horror-station-bundle",
-        "date": "2026-08-12"
-      },
-      {
-        "title": "Waifu Love Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "IndieGalaでは、Waifu Love Bundleのバンドルが販売中です。このバンドルには、Harem Mate、Waifu Uncovered、Love Esquireなどの人気タイトルが含まれています。恋愛やアダルトジャンルのゲームを収録したこのバンドルは、約10ドルほどで購入できます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/waifu-love-bundle",
-        "date": "2026-08-12"
-      },
-      {
-        "title": "Handsome Husbandos",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Handsome HusbandosのバンドルがHumble Bundleで販売中です。このバンドルには、Amnesia: Memories、Nameless 〜〜と呼ばれる君に〜、Collar x Maliceなどのロマンスゲームが含まれています。ジャンルは乙女ゲームで、大まかな価格帯は500円から2000円程度です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/handsomehusbandos_bundle",
-        "date": "2026-08-12"
-      },
-      {
         "title": "Idlers and Desktop Companions",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -221,54 +185,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "オープンワールドアクションアドベンチャーゲームであるRed Dead Redemption 2が、現在78%の割引で販売中です。このゲームは、広大なオープンワールドとリアルなグラフィック、複雑なストーリーにより高い評価を受けており、ゲームファンから非常に人気です。",
-        "price": "$13.20",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "Warhammer 40,000: Rogue Trader",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Warhammer 40,000: Rogue Traderは、SFとファンタジーが混ざった世界を舞台にしたロールプレイングゲームです。このゲームは、 Variousで74%割引されています。ゲームの評価は高く、ユーザーから人気があり、戦略的な戦闘と豊富なストーリーが楽しめるゲームです。",
-        "price": "$12.85",
-        "originalPrice": "",
-        "discount": "-74%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/warhammer-40000-rogue-trader/info/",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "Deponia",
-        "platform": "Various",
-        "type": "sale",
-        "description": "DeponiaシリーズがVariousで100%割引で販売中です。このシリーズは、プレイヤーがさまざまなパズルを解いて進めていくポイント・アンド・クリックアドベンチャーゲームです。ユーモア溢れるストーリーと美しく描かれたグラフィックが特徴で、ファンからは高く評価されています。シリーズ全作品が無料で游べるので、ゲームファンにはおすすめです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/deponia/info/",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "Targeted -10 Days",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Targeted -10 Daysは、ストラテジーゲームの要素を備えたアクションゲームで、通常の価格から100%割引されています。現在、Variousでセール中で、プレイヤーはこの機会にこのゲームを体験できます。このゲームは、ユーザーの評価が高く人気も高いようです。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/targeted-10-days/info/",
-        "date": "2026-08-15"
-      },
       {
         "title": "Heavy Rain",
         "platform": "Various",
@@ -607,175 +523,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【人気トレーディングカードショップ経営シム「TCG Card Shop Simulator」のP...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "「TCG Card Shop Simulator」のレビューでは、このゲームの魅力として、トレーディングカードショップを自由に経営できる点や、カードの収集と売買が楽しい点が評価されています。また、ゲームのグラフィックやサウンドも高く評価されており、トレーディングカードゲームのファンやシミュレーションゲームを好む人にとってはおすすめのゲームです。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169687.html",
-        "date": "2026-08-17",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamではプレイ200時間超えだと「ネガティブなレビューがむしろ増える」との研究結果。何百...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【Steamではプレイ200時間超えだと「ネガティブなレビューがむしろ増える」との研究結果。何百...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260817-460520/",
-        "date": "2026-08-17",
-        "is_translated": false
-      },
-      {
-        "title": "【『キングダム ハーツIV』の発売時期が決まり、みんながSteamで過去作を遊び始める。“追いつ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『キングダム ハーツIV』の発売時期が決まり、みんながSteamで過去作を遊び始める。“追いつ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260817-460462/",
-        "date": "2026-08-17",
-        "is_translated": false
-      },
-      {
-        "title": "【人気サイコホラーアドベンチャーの続編「Sally Face 2」が正式アナウンス、発売10周年...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【人気サイコホラーアドベンチャーの続編「Sally Face 2」が正式アナウンス、発売10周年...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169692.html",
-        "date": "2026-08-17",
-        "is_translated": false
-      },
-      {
-        "title": "【建築・クラフト系ファンタジーオープンワールドサバイバル「Stormforge」のゲームプレイト...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【建築・クラフト系ファンタジーオープンワールドサバイバル「Stormforge」のゲームプレイト...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169691.html",
-        "date": "2026-08-17",
-        "is_translated": false
-      },
-      {
-        "title": "【クトゥルフ神話のドリームランドを探索するダークファンタジーCRPG「Cyclopean II:...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【クトゥルフ神話のドリームランドを探索するダークファンタジーCRPG「Cyclopean II:...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169678.html",
-        "date": "2026-08-17",
-        "is_translated": false
-      },
-      {
-        "title": "【「真ゲッタードラゴン」プラモが再販締切間近！ドリルアーム＆ブースター、ゲッターサイクロン用の腕...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【「真ゲッタードラゴン」プラモが再販締切間近！ドリルアーム＆ブースター、ゲッターサイクロン用の腕...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/08/17/186291.html",
-        "date": "2026-08-17",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam 週間の振り返り: GTA 6 の日にリリースする勇気のある 32 の Steam ...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Steam 週間の振り返り: GTA 6 の日にリリースする勇気のある 32 の Steam ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-here-are-the-32-steam-games-brave-enough-to-release-on-gta-6-day/",
-        "date": "2026-08-17",
-        "is_translated": true
-      },
-      {
-        "title": "【最大4人協力・モンスター“救助”シム『Sanctuary of Small Things』正式...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【最大4人協力・モンスター“救助”シム『Sanctuary of Small Things』正式...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260817-460569/",
-        "date": "2026-08-17",
-        "is_translated": false
-      },
-      {
-        "title": "【『ブレードランナー 2099』クリエイター、ハリソン・フォードがプライム・ビデオ番組に出演する...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【『ブレードランナー 2099』クリエイター、ハリソン・フォードがプライム・ビデオ番組に出演する...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/blade-runner-2099-harrison-ford/",
-        "date": "2026-08-17",
-        "is_translated": true
-      },
-      {
-        "title": "【バブル時代の日本が支配した架空のアメリカを描く「昭和米国物語」のさらなるgamescom出展情...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【バブル時代の日本が支配した架空のアメリカを描く「昭和米国物語」のさらなるgamescom出展情...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169688.html",
-        "date": "2026-08-17",
-        "is_translated": false
-      },
-      {
-        "title": "【シンキングシティ2のレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【シンキングシティ2のレビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/horror/the-sinking-city-2-review/",
-        "date": "2026-08-17",
-        "is_translated": true
-      },
-      {
-        "title": "【Mortal Shell 2 レビュー: 90 年代の PC ゲームの精神を備えた記念碑的なヘ...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Mortal Shell 2 レビュー: 90 年代の PC ゲームの精神を備えた記念碑的なヘ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/mortal-shell-2-review-a-monumental-heavy-metal-sequel-with-the-spirit-of-a-90s-pc-game",
-        "date": "2026-08-17",
-        "is_translated": true
-      },
       {
         "title": "【ゲーマー向けの新作ゲームの大規模オフラインプレイテスト募集、東京で実施へ。ゲームプレイ20本以...】",
         "platform": "AUTOMATON",
@@ -1477,8 +1224,21 @@
         "url": "https://www.rockpapershotgun.com/sandustry-is-the-first-factory-simulation-game-ive-played-that-gets-heaps-right",
         "date": "2026-08-21",
         "is_translated": true
+      },
+      {
+        "title": "【ハイスピード電車バトルアクション「電車アタック」のプレイヤーが累計30万人を突破、コンテンツア...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【ハイスピード電車バトルアクション「電車アタック」のプレイヤーが累計30万人を突破、コンテンツア...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169896.html",
+        "date": "2026-08-22",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-21T21:22:40.526339"
+  "last_updated": "2026-08-22T01:06:37.311014"
 }
