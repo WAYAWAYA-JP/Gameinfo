@@ -604,6 +604,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
         "date": "2026-08-22"
+      },
+      {
+        "title": "Persona 3 Reload",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Persona 3 ReloadがVariousで-69%セール中です。",
+        "price": "$18.87",
+        "originalPrice": "",
+        "discount": "-69%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/persona-3-reload/info/",
+        "date": "2026-08-22"
       }
     ],
     "review": [
@@ -1350,5 +1362,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-22T09:25:10.732065"
+  "last_updated": "2026-08-22T12:50:01.187774"
 }
