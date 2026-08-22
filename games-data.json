@@ -616,6 +616,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/persona-3-reload/info/",
         "date": "2026-08-22"
+      },
+      {
+        "title": "メタファー：リファンタジオ",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "メタファー：リファンタジオがSteamで60% OFFセール中です。",
+        "price": "¥3,951",
+        "originalPrice": "¥9,878",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2679460",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Outer Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Outer WildsがVariousで-40%セール中です。",
+        "price": "$14.99",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
+        "date": "2026-08-22"
       }
     ],
     "review": [
@@ -1359,8 +1383,34 @@
         "url": "https://doope.jp/2026/08169897.html",
         "date": "2026-08-22",
         "is_translated": false
+      },
+      {
+        "title": "【色収差は、他人の記憶で作られた城を舞台にしたハイコントラストサバイバルホラー「NECHROMI...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【色収差は、他人の記憶で作られた城を舞台にしたハイコントラストサバイバルホラー「NECHROMI...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/chromatic-aberration-is-made-manifest-in-nechromia-a-high-contrast-survival-horror-set-in-a-castle-made-of-something-elses-memories",
+        "date": "2026-08-22",
+        "is_translated": true
+      },
+      {
+        "title": "【Sandustry is the first factory simulation game ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Sandustry is the first factory simulation game ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/sandustry-is-the-first-factory-simulation-game-ive-played-that-gets-heaps-right",
+        "date": "2026-08-21",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-22T12:50:01.187774"
+  "last_updated": "2026-08-22T21:20:09.690943"
 }
