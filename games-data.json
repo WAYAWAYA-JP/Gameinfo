@@ -40,18 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Idlers and Desktop Companions",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleで「Idlers and Desktop Companions」というバンドルが販売中です。このバンドルには、代表的なタイトルとして「Idle Champions of the Forgotten Realms」や「AdVenture Capitalist」、「Egg, Inc.」などのタイトルが含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/idlersanddesktopcompanions_bundle",
-        "date": "2026-08-13"
-      },
-      {
         "title": "Built Differently: Builder Games",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,42 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Heavy Rain",
-        "platform": "Various",
-        "type": "sale",
-        "description": "アクションアドベンチャーゲームであるHeavy Rainが、現在Variousで95%の割引率で販売中です。このゲームは、プレイヤーの選択によってストーリーが変化するという特徴があり、批評家やユーザーから高い評価を得ています。",
-        "price": "$0.99",
-        "originalPrice": "",
-        "discount": "-95%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/heavy-rain/info/",
-        "date": "2026-08-16"
-      },
-      {
-        "title": "Mafia: The Old Country",
-        "platform": "Various",
-        "type": "sale",
-        "description": "今回は、オープンワールドのアクションアドベンチャーゲームであるMafia: The Old CountryがVariousで50%割引セール中です。このゲームは、1930年代のアメリカを舞台に、犯罪組織のボスとなり権力を争うというストーリーで人気があり、評価も高い作品です。通常価格から50%オフになるので、興味がある方はこの機会にぜひお試しください。",
-        "price": "$24.99",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/mafia-the-old-country/info/",
-        "date": "2026-08-16"
-      },
-      {
-        "title": "KINGDOM HEARTS INTEGRUM MASTERPIECE",
-        "platform": "Various",
-        "type": "sale",
-        "description": "KINGDOM HEARTS INTEGRUM MASTERPIECEがVariousで70%オフのセール中です。このアクションRPGは、ディズニーとファイナルファンタジーのキャラクターが共演する、人気のゲームシリーズです。現在の価格は大幅に割引されており、ファンにはおすすめのチャンスです。ゲームの評価も高く、多くのプレイヤーから好評を博しています。",
-        "price": "$29.99",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/kingdom-hearts-integrum-masterpiece/info/",
-        "date": "2026-08-16"
-      },
       {
         "title": "ペルソナ５ ザ・ロイヤル",
         "platform": "Steam",
@@ -644,123 +596,6 @@
     ],
     "review": [
       {
-        "title": "【ゲーマー向けの新作ゲームの大規模オフラインプレイテスト募集、東京で実施へ。ゲームプレイ20本以...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【ゲーマー向けの新作ゲームの大規模オフラインプレイテスト募集、東京で実施へ。ゲームプレイ20本以...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/pts-20260818-460667/",
-        "date": "2026-08-18",
-        "is_translated": false
-      },
-      {
-        "title": "【「ヱヴァ新劇場版」より「要人輸送用ネルフ司令官専用垂直離着陸機」プラモデルが予約受付中！主翼部...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【「ヱヴァ新劇場版」より「要人輸送用ネルフ司令官専用垂直離着陸機」プラモデルが予約受付中！主翼部...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/08/18/186355.html",
-        "date": "2026-08-18",
-        "is_translated": false
-      },
-      {
-        "title": "【Razer Naga V3 Pro レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Razer Naga V3 Pro レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/razer-naga-v3-pro-review/",
-        "date": "2026-08-18",
-        "is_translated": true
-      },
-      {
-        "title": "【開発14年の大作宇宙MMO『Star Citizen』公式放送の実演プレイが“バグまみれ”で困...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【開発14年の大作宇宙MMO『Star Citizen』公式放送の実演プレイが“バグまみれ”で困...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/star-citizen-20260818-460712/",
-        "date": "2026-08-18",
-        "is_translated": false
-      },
-      {
-        "title": "【クトゥルフサバイバルホラー『シンキング シティ 2』発売直後から「95%好評」。狂気まみれの水...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【クトゥルフサバイバルホラー『シンキング シティ 2』発売直後から「95%好評」。狂気まみれの水...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260818-460828/",
-        "date": "2026-08-18",
-        "is_translated": false
-      },
-      {
-        "title": "【お父さんのゲームレビューまとめ】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【お父さんのゲームレビューまとめ】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/video/dad-game-review-round-up/",
-        "date": "2026-08-18",
-        "is_translated": true
-      },
-      {
-        "title": "【近接音声チャットやエモートを含むマルチプレイ向けの改善を導入する「Subnautica 2」の...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【近接音声チャットやエモートを含むマルチプレイ向けの改善を導入する「Subnautica 2」の...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169753.html",
-        "date": "2026-08-18",
-        "is_translated": false
-      },
-      {
-        "title": "【鮎川麻弥がテーマソングを熱唱する「オービタルズ Orbitals」の素敵なミュージックビデオが...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【鮎川麻弥がテーマソングを熱唱する「オービタルズ Orbitals」の素敵なミュージックビデオが...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169748.html",
-        "date": "2026-08-18",
-        "is_translated": false
-      },
-      {
-        "title": "【Trainwatch は、ライフ シム、ホラー ゲーム、時間管理の体験を、スピードを上げた馬車...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Trainwatch は、ライフ シム、ホラー ゲーム、時間管理の体験を、スピードを上げた馬車...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/trainwatch-is-a-life-sim-a-horror-game-and-a-time-management-experience-rolled-up-into-a-haunting-story-about-the-eerie-places-you-see-from-a-speeding-carriage",
-        "date": "2026-08-18",
-        "is_translated": true
-      },
-      {
         "title": "【『超新時空ゲイム ネプテューヌ∞（アンリミテッド）』プレイレポート。11年ぶりの正統続編でも切...】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -875,19 +710,6 @@
         "deadline": "",
         "url": "https://www.pcgamer.com/hardware/gaming-chairs/boulies-ep200-review/",
         "date": "2026-08-19",
-        "is_translated": true
-      },
-      {
-        "title": "【Trainwatch は、ライフ シム、ホラー ゲーム、時間管理の体験を、猛スピードで走る馬車...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Trainwatch は、ライフ シム、ホラー ゲーム、時間管理の体験を、猛スピードで走る馬車...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/trainwatch-is-a-life-sim-a-horror-game-and-a-time-management-experience-rolled-up-into-a-haunting-story-about-the-eerie-places-you-see-from-a-speeding-carriage",
-        "date": "2026-08-18",
         "is_translated": true
       },
       {
@@ -1412,5 +1234,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-22T21:20:09.690943"
+  "last_updated": "2026-08-23T01:12:07.053735"
 }
