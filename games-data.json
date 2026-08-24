@@ -580,6 +580,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/darkest-dungeon-ii/info/",
         "date": "2026-08-24"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストがSteamで56% OFFセール中です。",
+        "price": "¥2,851",
+        "originalPrice": "¥6,480",
+        "discount": "56% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Balatro",
+        "platform": "Various",
+        "type": "sale",
+        "description": "BalatroがVariousで-24%セール中です。",
+        "price": "$11.34",
+        "originalPrice": "",
+        "discount": "-24%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/balatro/info/",
+        "date": "2026-08-24"
       }
     ],
     "review": [
@@ -1128,8 +1152,47 @@
         "url": "https://automaton-media.com/articles/newsjp/20260824-462250/",
         "date": "2026-08-24",
         "is_translated": false
+      },
+      {
+        "title": "【Rebel Wolvesがコンソール版「The Blood of Dawnwalker」の60...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Rebel Wolvesがコンソール版「The Blood of Dawnwalker」の60...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169895.html",
+        "date": "2026-08-24",
+        "is_translated": false
+      },
+      {
+        "title": "【Blood Dungeon review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Blood Dungeon review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/roguelike/blood-dungeon-review/",
+        "date": "2026-08-24",
+        "is_translated": true
+      },
+      {
+        "title": "【\"We ended up kind of cornered there\": Mortal Sh...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【\"We ended up kind of cornered there\": Mortal Sh...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/we-ended-up-kind-of-cornered-there-mortal-shell-2-devs-say-they-didnt-intend-to-lock-everybody-out-by-disabling-achievements-for-slayer-seal-easy-mode-users",
+        "date": "2026-08-24",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-24T13:00:41.712560"
+  "last_updated": "2026-08-24T21:27:20.612368"
 }
