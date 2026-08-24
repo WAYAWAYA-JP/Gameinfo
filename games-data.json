@@ -206,6 +206,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/waifu-love-bundle",
         "date": "2026-08-22"
+      },
+      {
+        "title": "Built Differently: Builder Games",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Built Differently: Builder GamesのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/builtdifferentlybuildergames_bundle",
+        "date": "2026-08-24"
       }
     ],
     "sale": [
@@ -519,6 +531,42 @@
         "discount": "70% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/1336490",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "ペルソナ３ リロード",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ３ リロードがSteamで65% OFFセール中です。",
+        "price": "¥2,687",
+        "originalPrice": "¥7,678",
+        "discount": "65% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2161700",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "ペルソナ５ ザ・ロイヤル",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ５ ザ・ロイヤルがSteamで70% OFFセール中です。",
+        "price": "¥2,303",
+        "originalPrice": "¥7,678",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1687950",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Disco Elysium - The Final Cut",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Disco Elysium - The Final CutがVariousで-78%セール中です。",
+        "price": "$8.98",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
         "date": "2026-08-24"
       }
     ],
@@ -964,8 +1012,86 @@
         "url": "https://www.rockpapershotgun.com/chromatic-aberration-is-made-manifest-in-nechromia-a-high-contrast-survival-horror-set-in-a-castle-made-of-something-elses-memories",
         "date": "2026-08-22",
         "is_translated": true
+      },
+      {
+        "title": "【自分も敵も“一撃必殺”剣戟アクション『FIRST CUT: SAMURAI DUEL』大型アプ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【自分も敵も“一撃必殺”剣戟アクション『FIRST CUT: SAMURAI DUEL』大型アプ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260824-462235/",
+        "date": "2026-08-24",
+        "is_translated": false
+      },
+      {
+        "title": "【「ケモ耳娘カード」収集シム『KOTAMON』、大盛況で「非常に好評」獲得。ゴミの山からお宝探す...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【「ケモ耳娘カード」収集シム『KOTAMON』、大盛況で「非常に好評」獲得。ゴミの山からお宝探す...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260824-462213/",
+        "date": "2026-08-24",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料・美麗アニメ少女RPG『エピックセブン』がとうとうSteamに来る、年内リリース...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料・美麗アニメ少女RPG『エピックセブン』がとうとうSteamに来る、年内リリース...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260824-462137/",
+        "date": "2026-08-24",
+        "is_translated": false
+      },
+      {
+        "title": "【女子高生2人“ゆるくて重い”ビジュアルノベル『彼女は知らない』発表。高評価尖りゲーム連発クリエ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【女子高生2人“ゆるくて重い”ビジュアルノベル『彼女は知らない』発表。高評価尖りゲーム連発クリエ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260824-462119/",
+        "date": "2026-08-24",
+        "is_translated": false
+      },
+      {
+        "title": "【“スター・ウォーズ”テーマの新作レースゲーム「Star Wars: Galactic Race...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“スター・ウォーズ”テーマの新作レースゲーム「Star Wars: Galactic Race...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08170001.html",
+        "date": "2026-08-24",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam 週間を振り返る: AI を少し加えるだけで反発が起きる、有望な新規インディーズが下...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Steam 週間を振り返る: AI を少し加えるだけで反発が起きる、有望な新規インディーズが下...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-a-touch-of-ai-is-all-it-takes-to-trigger-backlash-as-a-promising-new-indie-falls-afoul-of-slop-skeptics/",
+        "date": "2026-08-24",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-24T01:09:25.977808"
+  "last_updated": "2026-08-24T09:44:41.455778"
 }
