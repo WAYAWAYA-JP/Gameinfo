@@ -568,6 +568,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dredge/info/",
         "date": "2026-08-25"
+      },
+      {
+        "title": "デッドバイデイライト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "デッドバイデイライトがSteamで60% OFFセール中です。",
+        "price": "¥792",
+        "originalPrice": "¥1,980",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/381210",
+        "date": "2026-08-25"
       }
     ],
     "review": [
@@ -1103,8 +1115,99 @@
         "url": "https://www.pcgamer.com/hardware/gaming-keyboards/be-quiet-light-mount-tkl-review/",
         "date": "2026-08-25",
         "is_translated": true
+      },
+      {
+        "title": "【最大4人マルチ対応・二足歩行犬ローグライクシューター『GRAVHOUNDS』発表。エイリアンは...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【最大4人マルチ対応・二足歩行犬ローグライクシューター『GRAVHOUNDS』発表。エイリアンは...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260826-462841/",
+        "date": "2026-08-25",
+        "is_translated": false
+      },
+      {
+        "title": "【ターン制ストラテジー『ヒーローズ・オブ・マイト・アンド・マジックIII リメイク』発表。高く評...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【ターン制ストラテジー『ヒーローズ・オブ・マイト・アンド・マジックIII リメイク』発表。高く評...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260826-462833/",
+        "date": "2026-08-25",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料MMORPG『AION 2』10月5日サービス開始へ。前作の36倍、広大なハイフ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料MMORPG『AION 2』10月5日サービス開始へ。前作の36倍、広大なハイフ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260826-462809/",
+        "date": "2026-08-25",
+        "is_translated": false
+      },
+      {
+        "title": "【AmnesiaシリーズやSOMAを生んだ“Frictional Games”の次回作「ONTO...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【AmnesiaシリーズやSOMAを生んだ“Frictional Games”の次回作「ONTO...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169983.html",
+        "date": "2026-08-25",
+        "is_translated": false
+      },
+      {
+        "title": "【バブル時代の日本が支配した架空のアメリカを描く「昭和米国物語」のゲームプレイトレーラーがお披露目】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【バブル時代の日本が支配した架空のアメリカを描く「昭和米国物語」のゲームプレイトレーラーがお披露目】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169987.html",
+        "date": "2026-08-25",
+        "is_translated": false
+      },
+      {
+        "title": "【Having taken over Cities: Skylines 2's resurrec...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Having taken over Cities: Skylines 2's resurrec...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/having-taken-over-cities-skylines-2s-resurrection-iceflake-studios-are-also-making-a-bricky-city-builder-called-lego-skylines",
+        "date": "2026-08-25",
+        "is_translated": true
+      },
+      {
+        "title": "【After 2 Hours, Gears of War: E-Day's Campaign G...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【After 2 Hours, Gears of War: E-Day's Campaign G...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/gears-war-e-day-campaign-preview/",
+        "date": "2026-08-25",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-25T12:57:01.670509"
+  "last_updated": "2026-08-25T21:26:39.070200"
 }
