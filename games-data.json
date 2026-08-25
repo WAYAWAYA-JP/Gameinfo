@@ -206,6 +206,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/builtdifferentlybuildergames_bundle",
         "date": "2026-08-24"
+      },
+      {
+        "title": "In Your World VR Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "In Your World VR BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/inyourworldvrbundle_bundle",
+        "date": "2026-08-25"
       }
     ],
     "sale": [
@@ -544,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/balatro/info/",
         "date": "2026-08-24"
+      },
+      {
+        "title": "Dredge",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DredgeがVariousで-66%セール中です。",
+        "price": "$8.59",
+        "originalPrice": "",
+        "discount": "-66%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dredge/info/",
+        "date": "2026-08-25"
       }
     ],
     "review": [
@@ -1014,8 +1038,34 @@
         "url": "https://automaton-media.com/articles/reportjp/marv-20260825-462328/",
         "date": "2026-08-24",
         "is_translated": false
+      },
+      {
+        "title": "【期待のSRPG『ラングリッサー：剣の海』は“まるで買い切り型ゲーム”、約20時間どっぷり遊べた...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【期待のSRPG『ラングリッサー：剣の海』は“まるで買い切り型ゲーム”、約20時間どっぷり遊べた...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260825-462588/",
+        "date": "2026-08-25",
+        "is_translated": false
+      },
+      {
+        "title": "【60fpsパフォーマンスモードの動作が確認できるコンソール版「The Blood of Daw...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【60fpsパフォーマンスモードの動作が確認できるコンソール版「The Blood of Daw...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08170012.html",
+        "date": "2026-08-25",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-25T01:08:15.094482"
+  "last_updated": "2026-08-25T09:32:59.276717"
 }
