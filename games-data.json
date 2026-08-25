@@ -40,18 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "In Your World VR Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleでは、In Your World VR Bundleのバンドルが販売中です。このバンドルには、主要タイトルとして「All-Star Fruit Racing」や「Crazy Machines VR」、「Gravity Lab - Gravitational Testing Facility & Puzzle」などの作品が含まれています。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/inyourworldvrbundle_bundle",
-        "date": "2026-08-15"
-      },
-      {
         "title": "2K Megahits 2026 Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -221,54 +209,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Lossless Scaling",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Lossless ScalingがSteamで50% OFFセール中です。",
-        "price": "¥400",
-        "originalPrice": "¥800",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/993090",
-        "date": "2026-08-18"
-      },
-      {
-        "title": "Caravan Sandwitch",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Caravan SandwitchがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/caravan-sandwitch/info/",
-        "date": "2026-08-18"
-      },
-      {
-        "title": "Cairn",
-        "platform": "Various",
-        "type": "sale",
-        "description": "CairnがVariousで-40%セール中です。",
-        "price": "$17.99",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cairn/info/",
-        "date": "2026-08-18"
-      },
-      {
-        "title": "Zombie Army 4: Dead War",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Zombie Army 4: Dead WarがSteamで95% OFFセール中です。",
-        "price": "¥275",
-        "originalPrice": "¥5,500",
-        "discount": "95% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/694280",
-        "date": "2026-08-18"
-      },
       {
         "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
         "platform": "Steam",
@@ -607,162 +547,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【海洋惑星サバイバル『サブノーティカ2』新アプデ1.2でマルチプレイがっつり強化。離れると聞こえ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【海洋惑星サバイバル『サブノーティカ2』新アプデ1.2でマルチプレイがっつり強化。離れると聞こえ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260820-461223/",
-        "date": "2026-08-20",
-        "is_translated": false
-      },
-      {
-        "title": "【SCREEN BURNが開発を手がける“サイレントヒル”シリーズ最新作「SILENT HILL...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【SCREEN BURNが開発を手がける“サイレントヒル”シリーズ最新作「SILENT HILL...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169812.html",
-        "date": "2026-08-20",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料・戦略防衛RPG『ウォッチャー・オブ・レルム』、『アサシン クリード』シリーズと...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料・戦略防衛RPG『ウォッチャー・オブ・レルム』、『アサシン クリード』シリーズと...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260820-461451/",
-        "date": "2026-08-20",
-        "is_translated": false
-      },
-      {
-        "title": "【国おこしクリック放置ゲーム『小さな領地の繫盛記』配信直後から大人気。キャンプ地がじわじわ「巨大...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【国おこしクリック放置ゲーム『小さな領地の繫盛記』配信直後から大人気。キャンプ地がじわじわ「巨大...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260820-461419/",
-        "date": "2026-08-20",
-        "is_translated": false
-      },
-      {
-        "title": "【因習島ホラーミステリーBL『大穢』Nintendo Switch版発表。スーツ男子“湿度高め”...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【因習島ホラーミステリーBL『大穢』Nintendo Switch版発表。スーツ男子“湿度高め”...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/owen-20260820-461409/",
-        "date": "2026-08-20",
-        "is_translated": false
-      },
-      {
-        "title": "【大ヒット作『黒神話：悟空』開発元の新作『黒神話：鍾馗』いきなり「たっぷり15分ゲームプレイ映像...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【大ヒット作『黒神話：悟空』開発元の新作『黒神話：鍾馗』いきなり「たっぷり15分ゲームプレイ映像...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260820-461394/",
-        "date": "2026-08-20",
-        "is_translated": false
-      },
-      {
-        "title": "【Game Science最新作「黒神話：鍾馗」の驚異的なビジュアルと戦闘が確認できる本格的なゲ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【Game Science最新作「黒神話：鍾馗」の驚異的なビジュアルと戦闘が確認できる本格的なゲ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169813.html",
-        "date": "2026-08-20",
-        "is_translated": false
-      },
-      {
-        "title": "【長寿MMOのクラフト系オープンワールドサバイバルスピンオフ「RuneScape: Dragon...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【長寿MMOのクラフト系オープンワールドサバイバルスピンオフ「RuneScape: Dragon...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169810.html",
-        "date": "2026-08-20",
-        "is_translated": false
-      },
-      {
-        "title": "【Noitaにインスパイアされた2D工場自動化シム「Sandustry」の販売が10万本を突破：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【Noitaにインスパイアされた2D工場自動化シム「Sandustry」の販売が10万本を突破：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169830.html",
-        "date": "2026-08-20",
-        "is_translated": false
-      },
-      {
-        "title": "【ガンダムUCより「ネェル・アーガマ」のカタパルトデッキがジオラマフィギュア化！HGガンプラのデ...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【ガンダムUCより「ネェル・アーガマ」のカタパルトデッキがジオラマフィギュア化！HGガンプラのデ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/08/20/186484.html",
-        "date": "2026-08-20",
-        "is_translated": false
-      },
-      {
-        "title": "【パッケージ版＆正式版リリースを迎えた『スターサンド・アイランド（Starsand Island...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【パッケージ版＆正式版リリースを迎えた『スターサンド・アイランド（Starsand Island...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/08/20/186483.html",
-        "date": "2026-08-20",
-        "is_translated": false
-      },
-      {
-        "title": "【フロム・ソフトウェア新作『ダスクブラッド』先行プレイ感想。団結したり、戦ったり恋したり、“フロ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【フロム・ソフトウェア新作『ダスクブラッド』先行プレイ感想。団結したり、戦ったり恋したり、“フロ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260820-461510/",
-        "date": "2026-08-20",
-        "is_translated": false
-      },
       {
         "title": "【Steamの「ゲイブ」久々のご尊顔、髭さっぱり“ハンサム化”でファン沸き立つ。痩せてたけどさら...：レビュー】",
         "platform": "AUTOMATON",
@@ -1191,8 +975,47 @@
         "url": "https://www.rockpapershotgun.com/we-ended-up-kind-of-cornered-there-mortal-shell-2-devs-say-they-didnt-intend-to-lock-everybody-out-by-disabling-achievements-for-slayer-seal-easy-mode-users",
         "date": "2026-08-24",
         "is_translated": true
+      },
+      {
+        "title": "【最大8人マルチ対応・“爆弾虫”パーティーバトル『Blasterbug: Last Bug St...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【最大8人マルチ対応・“爆弾虫”パーティーバトル『Blasterbug: Last Bug St...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260825-462368/",
+        "date": "2026-08-25",
+        "is_translated": false
+      },
+      {
+        "title": "【98年発売高評価サイコホラー『Sanitarium』リマスター版発表。快適性向上、高解像度化で...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【98年発売高評価サイコホラー『Sanitarium』リマスター版発表。快適性向上、高解像度化で...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260825-462359/",
+        "date": "2026-08-24",
+        "is_translated": false
+      },
+      {
+        "title": "【高速決着カードゲーム『MARVEL SNAP』新モード「Draft Mode」先行プレイ感想。...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【高速決着カードゲーム『MARVEL SNAP』新モード「Draft Mode」先行プレイ感想。...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/marv-20260825-462328/",
+        "date": "2026-08-24",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-24T21:27:20.612368"
+  "last_updated": "2026-08-25T01:08:15.094482"
 }
