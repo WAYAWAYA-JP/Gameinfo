@@ -40,18 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "2K Megahits 2026 Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble Bundleで2K Megahits 2026 Bundleが販売中です。このバンドルには、Mafia、BioShock、Borderlandsなどの人気タイトルが含まれており、主にアクションアドベンチャーやFPSなどのジャンルのゲームが中心です。大まかな価格帯は変動する可能性がありますが、通常は1,000円から3,000円程度で購入できます。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/2kmegahits2026bundle_bundle",
-        "date": "2026-08-16"
-      },
-      {
         "title": "Awesome Indie Adventures",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -221,54 +209,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-がSteamで70% OFFセール中です。",
-        "price": "¥2,244",
-        "originalPrice": "¥7,480",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2552430",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "KINGDOM HEARTS III + Re Mind (DLC)",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "KINGDOM HEARTS III + Re Mind (DLC)がSteamで70% OFFセール中です。",
-        "price": "¥2,904",
-        "originalPrice": "¥9,680",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2552450",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Minecraft Dungeons",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Minecraft DungeonsがSteamで50% OFFセール中です。",
-        "price": "¥1,320",
-        "originalPrice": "¥2,640",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1672970",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Sid Meier's Civilization® VI",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Sid Meier's Civilization® VIがVariousで-94%セール中です。",
-        "price": "$3.59",
-        "originalPrice": "",
-        "discount": "-94%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/sid-meiers-civilization-vi/info/",
-        "date": "2026-08-19"
-      },
       {
         "title": "Pacific Drive",
         "platform": "Various",
@@ -584,188 +524,6 @@
     ],
     "review": [
       {
-        "title": "【Steamの「ゲイブ」久々のご尊顔、髭さっぱり“ハンサム化”でファン沸き立つ。痩せてたけどさら...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【Steamの「ゲイブ」久々のご尊顔、髭さっぱり“ハンサム化”でファン沸き立つ。痩せてたけどさら...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260821-461553/",
-        "date": "2026-08-21",
-        "is_translated": false
-      },
-      {
-        "title": "【ITサポート地獄ゲーム『I.T. Never Ends』に「本職エンジニアさながらのバグ報告」...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【ITサポート地獄ゲーム『I.T. Never Ends』に「本職エンジニアさながらのバグ報告」...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260821-461750/",
-        "date": "2026-08-21",
-        "is_translated": false
-      },
-      {
-        "title": "【「Call of Duty: Modern Warfare 4」早期アクセスベータの概要をまと...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Call of Duty: Modern Warfare 4」早期アクセスベータの概要をまと...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169879.html",
-        "date": "2026-08-21",
-        "is_translated": false
-      },
-      {
-        "title": "【Diablo系ダンジョンアクションRPG続編「Minecraft Dungeons II」のゲ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【Diablo系ダンジョンアクションRPG続編「Minecraft Dungeons II」のゲ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169818.html",
-        "date": "2026-08-21",
-        "is_translated": false
-      },
-      {
-        "title": "【AMD の最新ゲーム CPU のレビューを終えたところなので、Intel に戻すことを真剣に検...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【AMD の最新ゲーム CPU のレビューを終えたところなので、Intel に戻すことを真剣に検...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/processors/ive-just-finished-reviewing-amds-latest-gaming-cpu-and-i-would-genuinely-considering-switching-back-to-intel/",
-        "date": "2026-08-21",
-        "is_translated": true
-      },
-      {
-        "title": "【メタルギアソリッド4：ガンズ・オブ・ザ・パトリオッツ レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【メタルギアソリッド4：ガンズ・オブ・ザ・パトリオッツ レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/metal-gear-solid-4-guns-of-the-patriots-review/",
-        "date": "2026-08-21",
-        "is_translated": true
-      },
-      {
-        "title": "【メタルギア ソリッド マスターコレクション Vol. 2 レビューまとめ: MGS4 の復活を万歳】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【メタルギア ソリッド マスターコレクション Vol. 2 レビューまとめ: MGS4 の復活を万歳】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/metal-gear-solid-master-collection-vol-2-review-roundup/",
-        "date": "2026-08-21",
-        "is_translated": true
-      },
-      {
-        "title": "【街オープンワールド『NTE』の新物件「閑野雅邸」が“立地のわりに高すぎる”となぜか生々しい評価...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【街オープンワールド『NTE』の新物件「閑野雅邸」が“立地のわりに高すぎる”となぜか生々しい評価...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/columnjp/20260821-461794/",
-        "date": "2026-08-21",
-        "is_translated": false
-      },
-      {
-        "title": "【Creative XF1スピーカーレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Creative XF1スピーカーレビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/speakers/creative-xf1-speaker-review/",
-        "date": "2026-08-21",
-        "is_translated": true
-      },
-      {
-        "title": "【「ゆっくりと物事を進めるつもりです」：South of Midnight の開発者は Xbox...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【「ゆっくりと物事を進めるつもりです」：South of Midnight の開発者は Xbox...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/were-going-to-take-things-slow-south-of-midnight-devs-now-own-the-rights-to-all-their-games-again-after-quitting-xbox-and-are-working-on-a-new-game",
-        "date": "2026-08-21",
-        "is_translated": true
-      },
-      {
-        "title": "【コンソール版「The Blood of Dawnwalker」の詳細なゲームプレイ比較映像が公...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【コンソール版「The Blood of Dawnwalker」の詳細なゲームプレイ比較映像が公...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169890.html",
-        "date": "2026-08-21",
-        "is_translated": false
-      },
-      {
-        "title": "【発売1周年を迎えた「The Rogue Prince of Persia」の累計プレイヤー数が...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【発売1周年を迎えた「The Rogue Prince of Persia」の累計プレイヤー数が...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169883.html",
-        "date": "2026-08-21",
-        "is_translated": false
-      },
-      {
-        "title": "【電子機器修理屋シム「リ・ストーリー: 思い出修理屋」初のコンテンツアップデート配信が9月14日に決定：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【電子機器修理屋シム「リ・ストーリー: 思い出修理屋」初のコンテンツアップデート配信が9月14日に決定：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169884.html",
-        "date": "2026-08-21",
-        "is_translated": false
-      },
-      {
-        "title": "【Sandustry は、私がプレイした中で、かなりうまくいった最初の工場シミュレーション ゲームです】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Sandustry は、私がプレイした中で、かなりうまくいった最初の工場シミュレーション ゲームです】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/sandustry-is-the-first-factory-simulation-game-ive-played-that-gets-heaps-right",
-        "date": "2026-08-21",
-        "is_translated": true
-      },
-      {
         "title": "【ハイスピード電車バトルアクション「電車アタック」のプレイヤーが累計30万人を突破、コンテンツア...】",
         "platform": "doope!",
         "type": "review",
@@ -815,19 +573,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/chromatic-aberration-is-made-manifest-in-nechromia-a-high-contrast-survival-horror-set-in-a-castle-made-of-something-elses-memories",
         "date": "2026-08-22",
-        "is_translated": true
-      },
-      {
-        "title": "【Sandustry is the first factory simulation game ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Sandustry is the first factory simulation game ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/sandustry-is-the-first-factory-simulation-game-ive-played-that-gets-heaps-right",
-        "date": "2026-08-21",
         "is_translated": true
       },
       {
@@ -1206,8 +951,47 @@
         "url": "https://www.polygon.com/gears-war-e-day-campaign-preview/",
         "date": "2026-08-25",
         "is_translated": true
+      },
+      {
+        "title": "【『昭和米国物語』は“狂ってるのに正統派”。バトルは本格、悪ふざけも本気、脳がついていけない「昭...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『昭和米国物語』は“狂ってるのに正統派”。バトルは本格、悪ふざけも本気、脳がついていけない「昭...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260826-462922/",
+        "date": "2026-08-26",
+        "is_translated": false
+      },
+      {
+        "title": "【Nidhoggを生んだMesshofの新作2Dプラットフォーマーオートシューター「Blood ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Nidhoggを生んだMesshofの新作2Dプラットフォーマーオートシューター「Blood ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08170093.html",
+        "date": "2026-08-26",
+        "is_translated": false
+      },
+      {
+        "title": "【'The Dog Stars Review: Ridley Scott's New Sci-F...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【'The Dog Stars Review: Ridley Scott's New Sci-F...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/the-dog-stars-review-ridley-scott/",
+        "date": "2026-08-26",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-25T21:26:39.070200"
+  "last_updated": "2026-08-26T01:10:40.551441"
 }
