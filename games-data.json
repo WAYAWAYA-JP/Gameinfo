@@ -520,6 +520,30 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/381210",
         "date": "2026-08-25"
+      },
+      {
+        "title": "Dokimon: Quest",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Dokimon: QuestがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dokimon-quest/info/",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Cyberpunk 2077がVariousで-70%セール中です。",
+        "price": "$17.99",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
+        "date": "2026-08-26"
       }
     ],
     "review": [
@@ -990,8 +1014,86 @@
         "url": "https://www.polygon.com/the-dog-stars-review-ridley-scott/",
         "date": "2026-08-26",
         "is_translated": true
+      },
+      {
+        "title": "【『ライザのアトリエ』AIチャットアプリの正体は、「高自由度コマンド型RPG」だった。調合もクエ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ライザのアトリエ』AIチャットアプリの正体は、「高自由度コマンド型RPG」だった。調合もクエ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/ryzachat-20260826-463088/",
+        "date": "2026-08-26",
+        "is_translated": false
+      },
+      {
+        "title": "【『ペルソナ４ リバイバル』先行プレイ感想。オリジナルの要素はそのままに、「今遊ぶ意味」と向き合...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ペルソナ４ リバイバル』先行プレイ感想。オリジナルの要素はそのままに、「今遊ぶ意味」と向き合...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/persona-4-revival-20260826-462472/",
+        "date": "2026-08-26",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料新作『ウィズジェネレーション』発表、今冬配信へ。『黒猫のウィズ』のコロプラが贈る...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料新作『ウィズジェネレーション』発表、今冬配信へ。『黒猫のウィズ』のコロプラが贈る...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260826-463046/",
+        "date": "2026-08-26",
+        "is_translated": false
+      },
+      {
+        "title": "【18年ぶりの復活を果たす“テュロック”シリーズ最新作「Turok: Origins」のストーリ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【18年ぶりの復活を果たす“テュロック”シリーズ最新作「Turok: Origins」のストーリ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08170109.html",
+        "date": "2026-08-26",
+        "is_translated": false
+      },
+      {
+        "title": "【『アオハルカノジョ』自由な会話入力から生まれる「あなたにだけ」向けられる言葉─“AIと紡ぐ”青...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【『アオハルカノジョ』自由な会話入力から生まれる「あなたにだけ」向けられる言葉─“AIと紡ぐ”青...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/08/26/186802.html",
+        "date": "2026-08-26",
+        "is_translated": false
+      },
+      {
+        "title": "【Metro 2039's return to the underground plays li...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Metro 2039's return to the underground plays li...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/metro-2039s-return-to-the-underground-plays-like-the-sneaky-fps-youd-expect-but-there-are-still-good-reasons-to-leave-the-beaten-track",
+        "date": "2026-08-26",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-26T01:10:40.551441"
+  "last_updated": "2026-08-26T09:38:15.799189"
 }
