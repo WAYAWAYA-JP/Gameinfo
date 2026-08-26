@@ -544,6 +544,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-08-26"
+      },
+      {
+        "title": "Monster Hunter: World",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Monster Hunter: WorldがVariousで-77%セール中です。",
+        "price": "$7.02",
+        "originalPrice": "",
+        "discount": "-77%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/monster-hunter-world/info/",
+        "date": "2026-08-26"
       }
     ],
     "review": [
@@ -1092,8 +1104,34 @@
         "url": "https://www.rockpapershotgun.com/metro-2039s-return-to-the-underground-plays-like-the-sneaky-fps-youd-expect-but-there-are-still-good-reasons-to-leave-the-beaten-track",
         "date": "2026-08-26",
         "is_translated": true
+      },
+      {
+        "title": "【リーカーによる『グランド・セフト・オートVI（GTA 6）』映像流出を受けて、Rockstar...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【リーカーによる『グランド・セフト・オートVI（GTA 6）』映像流出を受けて、Rockstar...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260826-463243/",
+        "date": "2026-08-26",
+        "is_translated": false
+      },
+      {
+        "title": "【『ロックマン: デュアル オーバーライド』先行プレイ感想。前作「ダブルギアシステム」から一新、...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ロックマン: デュアル オーバーライド』先行プレイ感想。前作「ダブルギアシステム」から一新、...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/20260826-462291/",
+        "date": "2026-08-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-26T09:38:15.799189"
+  "last_updated": "2026-08-26T13:03:01.005997"
 }
