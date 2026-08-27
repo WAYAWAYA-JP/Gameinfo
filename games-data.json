@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
         "date": "2026-08-27"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "StrayがVariousで-61%セール中です。",
+        "price": "$11.84",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-08-27"
       }
     ],
     "review": [
@@ -1338,8 +1350,60 @@
         "url": "https://www.rockpapershotgun.com/oh-lord-konami-want-yearly-silent-hill-games-alongside-vaguely-described-experiences-just-dont-let-that-be-another-movie",
         "date": "2026-08-27",
         "is_translated": true
+      },
+      {
+        "title": "【『グランド・セフト・オートVI（GTA 6）』約26分の長編新トレイラーでは“あの”ハンマーお...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『グランド・セフト・オートVI（GTA 6）』約26分の長編新トレイラーでは“あの”ハンマーお...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260828-463740/",
+        "date": "2026-08-27",
+        "is_translated": false
+      },
+      {
+        "title": "【「GTA 6」の公開についてどう思いますか?：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【「GTA 6」の公開についてどう思いますか?：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/what-do-you-think-of-the-gta-6-reveal/",
+        "date": "2026-08-27",
+        "is_translated": true
+      },
+      {
+        "title": "【「GTA 6」では、ボタン 1 つで好きな車を盗むことに別れを告げ、WAINK スキャナーが何...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【「GTA 6」では、ボタン 1 つで好きな車を盗むことに別れを告げ、WAINK スキャナーが何...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/say-goodbye-to-stealing-any-car-you-like-with-a-single-button-in-gta-6-and-hello-to-whatever-the-hell-the-waink-scanner-is",
+        "date": "2026-08-27",
+        "is_translated": true
+      },
+      {
+        "title": "【GTA 6 での最大の選択は、ルシアとジェイソンがカップルのままでいられるかどうかですが、中途...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【GTA 6 での最大の選択は、ルシアとジェイソンがカップルのままでいられるかどうかですが、中途...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/your-biggest-choice-in-gta-6-is-whether-lucia-and-jason-stay-a-couple-but-half-arsing-it-wont-stop-them-doing-crimes-together",
+        "date": "2026-08-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-27T19:26:01.997668"
+  "last_updated": "2026-08-27T22:06:13.663147"
 }
