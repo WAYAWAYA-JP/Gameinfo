@@ -1,80 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Caravan SandWitch",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Caravan SandWitchがEpic Gamesで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "¥29",
-        "discount": "100% OFF",
-        "deadline": "2026年08月20日まで",
-        "url": "https://store.epicgames.com/ja/p/70e9a8a90305449a88a38b708399e605",
-        "date": "2026-08-20"
-      },
-      {
-        "title": "『Cardpocalypse』 Standard Edition",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『Cardpocalypse』 Standard EditionがEpic Gamesで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "¥23",
-        "discount": "100% OFF",
-        "deadline": "2026年08月27日まで",
-        "url": "https://store.epicgames.com/ja/p/cardpocalypse/home",
-        "date": "2026-08-20"
-      },
-      {
-        "title": "エピックメイジバンドル",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "エピックメイジバンドルがEpic Gamesで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年08月27日まで",
-        "url": "https://store.epicgames.com/ja/p/epic-mage-bundle",
-        "date": "2026-08-20"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Awesome Indie Adventures",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Awesome Indie AdventuresのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/awesomeindieadventures_bundle",
-        "date": "2026-08-17"
-      },
-      {
-        "title": "Short Games Showcase Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Short Games Showcase BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/shortgamesshowcasebundle_bundle",
-        "date": "2026-08-17"
-      },
-      {
-        "title": "Shantae & Heroic Heroines",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Shantae & Heroic HeroinesのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/shantaeheroicheroines_bundle",
-        "date": "2026-08-17"
-      },
       {
         "title": "New Signal Bundle",
         "platform": "IndieGala",
@@ -209,90 +136,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Pacific Drive",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Pacific DriveがVariousで-70%セール中です。",
-        "price": "$8.99",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/pacific-drive/info/",
-        "date": "2026-08-20"
-      },
-      {
-        "title": "Elden Ring",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Elden RingがVariousで-14%セール中です。",
-        "price": "$51.59",
-        "originalPrice": "",
-        "discount": "-14%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/elden-ring/info/",
-        "date": "2026-08-20"
-      },
-      {
-        "title": "The Alters",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The AltersがVariousで-61%セール中です。",
-        "price": "$13.64",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-alters/info/",
-        "date": "2026-08-20"
-      },
-      {
-        "title": "RimWorld",
-        "platform": "Various",
-        "type": "sale",
-        "description": "RimWorldがVariousで-27%セール中です。",
-        "price": "$25.54",
-        "originalPrice": "",
-        "discount": "-27%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/rimworld/info/",
-        "date": "2026-08-20"
-      },
-      {
-        "title": "Blue Prince",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Blue PrinceがVariousで-45%セール中です。",
-        "price": "$16.62",
-        "originalPrice": "",
-        "discount": "-45%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/blue-prince/info/",
-        "date": "2026-08-20"
-      },
-      {
-        "title": "Hogwarts Legacy",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Hogwarts LegacyがVariousで-86%セール中です。",
-        "price": "$8.10",
-        "originalPrice": "",
-        "discount": "-86%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
-        "date": "2026-08-20"
-      },
-      {
-        "title": "Metaphor: ReFantazio",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Metaphor: ReFantazioがVariousで-64%セール中です。",
-        "price": "$25.20",
-        "originalPrice": "",
-        "discount": "-64%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
-        "date": "2026-08-20"
-      },
       {
         "title": "Vampire: The Masquerade® - Bloodlines™ 2",
         "platform": "Various",
@@ -556,61 +399,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/monster-hunter-world/info/",
         "date": "2026-08-26"
+      },
+      {
+        "title": "Dragon's Dogma 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Dragon's Dogma 2がVariousで-33%セール中です。",
+        "price": "$26.99",
+        "originalPrice": "",
+        "discount": "-33%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33がVariousで-32%セール中です。",
+        "price": "$34.24",
+        "originalPrice": "",
+        "discount": "-32%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-08-27"
       }
     ],
     "review": [
-      {
-        "title": "【ハイスピード電車バトルアクション「電車アタック」のプレイヤーが累計30万人を突破、コンテンツア...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【ハイスピード電車バトルアクション「電車アタック」のプレイヤーが累計30万人を突破、コンテンツア...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169896.html",
-        "date": "2026-08-22",
-        "is_translated": false
-      },
-      {
-        "title": "【「Call of Duty: Modern Warfare 4」の予約購入者向け早期アクセスベ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Call of Duty: Modern Warfare 4」の予約購入者向け早期アクセスベ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169887.html",
-        "date": "2026-08-22",
-        "is_translated": false
-      },
-      {
-        "title": "【Chivalryシリーズを生んだTorn BannerのCo-opゾンビサバイバル「No Mo...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【Chivalryシリーズを生んだTorn BannerのCo-opゾンビサバイバル「No Mo...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169897.html",
-        "date": "2026-08-22",
-        "is_translated": false
-      },
-      {
-        "title": "【色収差は、他人の記憶で作られた城を舞台にしたハイコントラストサバイバルホラー「NECHROMI...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【色収差は、他人の記憶で作られた城を舞台にしたハイコントラストサバイバルホラー「NECHROMI...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/chromatic-aberration-is-made-manifest-in-nechromia-a-high-contrast-survival-horror-set-in-a-castle-made-of-something-elses-memories",
-        "date": "2026-08-22",
-        "is_translated": true
-      },
       {
         "title": "【『シュタインズ・ゲート リブート』は眉毛が動くだけで大分印象変わる。『ほの暮しの庭』は本当にス...：レビュー】",
         "platform": "AUTOMATON",
@@ -636,19 +451,6 @@
         "url": "https://automaton-media.com/articles/special-column/20260823-461987/",
         "date": "2026-08-23",
         "is_translated": false
-      },
-      {
-        "title": "【Chromatic aberration is made manifest in NECHRO...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Chromatic aberration is made manifest in NECHRO...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/chromatic-aberration-is-made-manifest-in-nechromia-a-high-contrast-survival-horror-set-in-a-castle-made-of-something-elses-memories",
-        "date": "2026-08-22",
-        "is_translated": true
       },
       {
         "title": "【自分も敵も“一撃必殺”剣戟アクション『FIRST CUT: SAMURAI DUEL』大型アプ...：レビュー】",
@@ -1130,8 +932,125 @@
         "url": "https://automaton-media.com/articles/impressionjp/20260826-462291/",
         "date": "2026-08-26",
         "is_translated": false
+      },
+      {
+        "title": "【人気タワーディフェンス最新作『PixelJunk Monsters 3』発表。シリーズ累計10...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【人気タワーディフェンス最新作『PixelJunk Monsters 3』発表。シリーズ累計10...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/pixeljunk-monsters-3-20260827-463346/",
+        "date": "2026-08-27",
+        "is_translated": false
+      },
+      {
+        "title": "【『ポピープレイタイム』開発元による最大4人協力ホラー『Escape from Playtime...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ポピープレイタイム』開発元による最大4人協力ホラー『Escape from Playtime...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260827-463287/",
+        "date": "2026-08-26",
+        "is_translated": false
+      },
+      {
+        "title": "【シリーズ最新作「トロピコ 7」のゲームプレイトレーラーが公開、海外版の発売日も】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【シリーズ最新作「トロピコ 7」のゲームプレイトレーラーが公開、海外版の発売日も】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08170127.html",
+        "date": "2026-08-26",
+        "is_translated": false
+      },
+      {
+        "title": "【人気W40kレトロシューター続編「Warhammer 40,000: Boltgun 2」の発...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【人気W40kレトロシューター続編「Warhammer 40,000: Boltgun 2」の発...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08170122.html",
+        "date": "2026-08-26",
+        "is_translated": false
+      },
+      {
+        "title": "【ヒエロニムス・ボスの絵画世界を探索する一人称視点アドベンチャー「Hieronymus」のゲーム...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【ヒエロニムス・ボスの絵画世界を探索する一人称視点アドベンチャー「Hieronymus」のゲーム...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08170125.html",
+        "date": "2026-08-26",
+        "is_translated": false
+      },
+      {
+        "title": "【Gamescom 2026 live hub: The latest news and pre...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Gamescom 2026 live hub: The latest news and pre...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/live/news/gamescom-2026-live-hub-the-latest-news-and-previews-from-the-biggest-gaming-event-of-the-year/",
+        "date": "2026-08-26",
+        "is_translated": true
+      },
+      {
+        "title": "【Resonance: A Plague Tale Legacy review – a comp...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Resonance: A Plague Tale Legacy review – a comp...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/resonance-a-plague-tale-legacy-review-a-competent-action-game-spinoff-that-loses-what-made-its-predecessors-unique",
+        "date": "2026-08-26",
+        "is_translated": true
+      },
+      {
+        "title": "【Metro 2039 のアンダーグラウンドへの復帰は、あなたが期待する卑劣な FPS のように...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Metro 2039 のアンダーグラウンドへの復帰は、あなたが期待する卑劣な FPS のように...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/metro-2039s-return-to-the-underground-plays-like-the-sneaky-fps-youd-expect-but-there-are-still-good-reasons-to-leave-the-beaten-track",
+        "date": "2026-08-26",
+        "is_translated": true
+      },
+      {
+        "title": "【「GTA 6」初の公式プレビューで5つの魅力的な新詳細が明らかに】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【「GTA 6」初の公式プレビューで5つの魅力的な新詳細が明らかに】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/gta-6-dazed-magazine-preview-npc-honor-realism-gameplay/",
+        "date": "2026-08-26",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-26T13:03:01.005997"
+  "last_updated": "2026-08-27T00:28:39.055888"
 }
