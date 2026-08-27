@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "『Cardpocalypse』 Standard Edition",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "10才の女の子ジェスの失敗のせいで、学校で誰もお気に入りのカードゲームが禁止されてます。 さらになんかこれはジェスにとって初めての登校日のことでした！ ところで、ことも危ういゲーム内のミュータントが現実世界に出現する事態が発生。",
+        "price": "無料",
+        "originalPrice": "¥23",
+        "discount": "100% OFF",
+        "deadline": "2026年08月27日まで",
+        "url": "https://store.epicgames.com/ja/p/cardpocalypse/home",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "エピックメイジバンドル",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "エピックメイジバンドルがEpic Gamesで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年08月27日まで",
+        "url": "https://store.epicgames.com/ja/p/epic-mage-bundle",
+        "date": "2026-08-27"
+      }
+    ],
     "bundle": [
       {
         "title": "New Signal Bundle",
@@ -133,6 +158,54 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/inyourworldvrbundle_bundle",
         "date": "2026-08-25"
+      },
+      {
+        "title": "Awesome Indie Adventures",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Awesome Indie AdventuresのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/awesomeindieadventures_bundle",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Shantae & Heroic Heroines",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Shantae & Heroic HeroinesのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/shantaeheroicheroines_bundle",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Short Games Showcase Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Short Games Showcase BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/shortgamesshowcasebundle_bundle",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Beyond the Metroidverse Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Beyond the Metroidverse BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/beyondmetroidversebundle_bundle",
+        "date": "2026-08-27"
       }
     ],
     "sale": [
@@ -422,6 +495,18 @@
         "discount": "-32%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "The Witcher 3: Wild Hunt",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Witcher 3: Wild HuntがVariousでセール中です。",
+        "price": "$39.99",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-witcher-3-wild-hunt/info/",
         "date": "2026-08-27"
       }
     ],
@@ -1049,8 +1134,86 @@
         "url": "https://www.polygon.com/gta-6-dazed-magazine-preview-npc-honor-realism-gameplay/",
         "date": "2026-08-26",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料“タイパ重視”モンスター育成RPG『るぅみマスター』9月17日正式リリースへ。操...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料“タイパ重視”モンスター育成RPG『るぅみマスター』9月17日正式リリースへ。操...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260827-463570/",
+        "date": "2026-08-27",
+        "is_translated": false
+      },
+      {
+        "title": "【“PixelJunk”シリーズ最新作「PixelJunk Monsters 3」がアナウンス、...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“PixelJunk”シリーズ最新作「PixelJunk Monsters 3」がアナウンス、...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08170192.html",
+        "date": "2026-08-27",
+        "is_translated": false
+      },
+      {
+        "title": "【スケイヴンの残虐な暗殺者を描くステルス系アクションプラットフォーマー「Warhammer Ag...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【スケイヴンの残虐な暗殺者を描くステルス系アクションプラットフォーマー「Warhammer Ag...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08170176.html",
+        "date": "2026-08-27",
+        "is_translated": false
+      },
+      {
+        "title": "【Gamescom 2026 ライブ ハブ: 今年最大のゲーム イベントの最新ニュースとプレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Gamescom 2026 ライブ ハブ: 今年最大のゲーム イベントの最新ニュースとプレビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/live/news/gamescom-2026-live-hub-the-latest-news-and-previews-from-the-biggest-gaming-event-of-the-year/",
+        "date": "2026-08-26",
+        "is_translated": true
+      },
+      {
+        "title": "【Resonance: A Plague Tale Legacy レビュー – 前作のユニークさ...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Resonance: A Plague Tale Legacy レビュー – 前作のユニークさ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/resonance-a-plague-tale-legacy-review-a-competent-action-game-spinoff-that-loses-what-made-its-predecessors-unique",
+        "date": "2026-08-26",
+        "is_translated": true
+      },
+      {
+        "title": "【Cities: Skylines 2 の復活を引き継いだ Iceflake Studios は...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Cities: Skylines 2 の復活を引き継いだ Iceflake Studios は...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/having-taken-over-cities-skylines-2s-resurrection-iceflake-studios-are-also-making-a-bricky-city-builder-called-lego-skylines",
+        "date": "2026-08-25",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-27T00:28:39.055888"
+  "last_updated": "2026-08-27T07:20:43.504433"
 }
