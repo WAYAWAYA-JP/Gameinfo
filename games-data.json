@@ -24,6 +24,30 @@
         "deadline": "2026年08月27日まで",
         "url": "https://store.epicgames.com/ja/p/epic-mage-bundle",
         "date": "2026-08-27"
+      },
+      {
+        "title": "Breathedge",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "BreathedgeがEpic Gamesで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "¥28",
+        "discount": "100% OFF",
+        "deadline": "2026年09月03日まで",
+        "url": "https://store.epicgames.com/ja/p/breathedge",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Rival Stars Horse Racing : Desktop Edition",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "見事でリアルな馬、綿密な繁殖システム、さまざまなエキサイティングなゲーム モードを備えたライバル スターズ ホース レーシングは、競馬ファンに究極のレースと乗馬体験を提供します。手綱を握って馬術界の伝説になろう！",
+        "price": "無料",
+        "originalPrice": "¥24",
+        "discount": "100% OFF",
+        "deadline": "2026年09月03日まで",
+        "url": "https://store.epicgames.com/ja/p/c27af3c6ec3a47afb720e580138de63e",
+        "date": "2026-08-27"
       }
     ],
     "bundle": [
@@ -507,6 +531,30 @@
         "discount": "",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-witcher-3-wild-hunt/info/",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Resident Evil 4 (2023)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Resident Evil 4 (2023)がVariousで-78%セール中です。",
+        "price": "$8.96",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Resident Evil Requiem",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Resident Evil RequiemがVariousで-29%セール中です。",
+        "price": "$49.95",
+        "originalPrice": "",
+        "discount": "-29%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
         "date": "2026-08-27"
       }
     ],
@@ -1212,8 +1260,86 @@
         "url": "https://www.rockpapershotgun.com/having-taken-over-cities-skylines-2s-resurrection-iceflake-studios-are-also-making-a-bricky-city-builder-called-lego-skylines",
         "date": "2026-08-25",
         "is_translated": true
+      },
+      {
+        "title": "【『グランド・セフト・オートVI（GTA 6）』新映像は「26分以上」、濃厚ゲームプレイ。犬を撫...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『グランド・セフト・オートVI（GTA 6）』新映像は「26分以上」、濃厚ゲームプレイ。犬を撫...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260828-463715/",
+        "date": "2026-08-27",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料オープンワールド『無限大ANANTA』先行プレイ感想。AAA級の派手演出が降り注...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料オープンワールド『無限大ANANTA』先行プレイ感想。AAA級の派手演出が降り注...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/ananta-20260827-463688/",
+        "date": "2026-08-27",
+        "is_translated": false
+      },
+      {
+        "title": "【「商品は自力調達」ダンジョンハクスラ×店舗経営『Fell & Sell』Steamでさっそく盛...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【「商品は自力調達」ダンジョンハクスラ×店舗経営『Fell & Sell』Steamでさっそく盛...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260827-463657/",
+        "date": "2026-08-27",
+        "is_translated": false
+      },
+      {
+        "title": "【「The Division 2」Year8シーズン3“レッドホライズン”が遂に始動、次期拡張“...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「The Division 2」Year8シーズン3“レッドホライズン”が遂に始動、次期拡張“...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08170212.html",
+        "date": "2026-08-27",
+        "is_translated": false
+      },
+      {
+        "title": "【英Playgroundが開発を手がける新生「Fable」の本格的なゲームプレイ解説映像が公開】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【英Playgroundが開発を手がける新生「Fable」の本格的なゲームプレイ解説映像が公開】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08169966.html",
+        "date": "2026-08-27",
+        "is_translated": false
+      },
+      {
+        "title": "【ああ、主よ、コナミは漠然とした「体験」と並行して毎年サイレントヒルのゲームを望んでいますが、そ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【ああ、主よ、コナミは漠然とした「体験」と並行して毎年サイレントヒルのゲームを望んでいますが、そ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/oh-lord-konami-want-yearly-silent-hill-games-alongside-vaguely-described-experiences-just-dont-let-that-be-another-movie",
+        "date": "2026-08-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-27T07:20:43.504433"
+  "last_updated": "2026-08-27T19:26:01.997668"
 }
