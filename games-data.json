@@ -230,6 +230,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/beyondmetroidversebundle_bundle",
         "date": "2026-08-27"
+      },
+      {
+        "title": "PAX West 2026 Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "PAX West 2026 BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/paxwest2026bundle_bundle",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "HHWaifu Love Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "HHWaifu Love BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/waifu-love-bundle",
+        "date": "2026-08-28"
       }
     ],
     "sale": [
@@ -555,6 +579,30 @@
         "discount": "-100%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/rival-stars-horse-racing-desktop-edition/info/",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Hogwarts Legacy",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Hogwarts LegacyがVariousで-90%セール中です。",
+        "price": "$5.99",
+        "originalPrice": "",
+        "discount": "-90%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "METAL GEAR SOLID: MASTER COLLECTION Vol.2がVariousで-23%セール中です。",
+        "price": "$38.39",
+        "originalPrice": "",
+        "discount": "-23%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/metal-gear-solid-master-collection-vol-2/info/",
         "date": "2026-08-28"
       }
     ],
@@ -1416,8 +1464,34 @@
         "url": "https://www.rockpapershotgun.com/your-biggest-choice-in-gta-6-is-whether-lucia-and-jason-stay-a-couple-but-half-arsing-it-wont-stop-them-doing-crimes-together",
         "date": "2026-08-27",
         "is_translated": true
+      },
+      {
+        "title": "【“エクスパンス”シリーズをビデオゲーム化する「The Expanse: Osiris Rebo...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“エクスパンス”シリーズをビデオゲーム化する「The Expanse: Osiris Rebo...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08170270.html",
+        "date": "2026-08-28",
+        "is_translated": false
+      },
+      {
+        "title": "【Say goodbye to stealing any car you like with a...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Say goodbye to stealing any car you like with a...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/say-goodbye-to-stealing-any-car-you-like-with-a-single-button-in-gta-6-and-hello-to-whatever-the-hell-the-waink-scanner-is",
+        "date": "2026-08-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-28T09:35:01.158951"
+  "last_updated": "2026-08-28T20:42:32.041441"
 }
