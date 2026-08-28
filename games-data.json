@@ -234,42 +234,6 @@
     ],
     "sale": [
       {
-        "title": "Vampire: The Masquerade® - Bloodlines™ 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Vampire: The Masquerade® - Bloodlines™ 2がVariousで-56%セール中です。",
-        "price": "$26.40",
-        "originalPrice": "",
-        "discount": "-56%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/vampire-the-masquerade-bloodlines-2/info/",
-        "date": "2026-08-21"
-      },
-      {
-        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-        "platform": "Various",
-        "type": "sale",
-        "description": "S.T.A.L.K.E.R. 2: Heart of ChornobylがVariousで-40%セール中です。",
-        "price": "$36.05",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
-        "date": "2026-08-21"
-      },
-      {
-        "title": "Frostpunk 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Frostpunk 2がVariousで-60%セール中です。",
-        "price": "$17.78",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
-        "date": "2026-08-21"
-      },
-      {
         "title": "Cardpocalypse",
         "platform": "Various",
         "type": "sale",
@@ -568,35 +532,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-08-27"
+      },
+      {
+        "title": "ホグワーツ・レガシー",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ホグワーツ・レガシーがSteamで90% OFFセール中です。",
+        "price": "¥877",
+        "originalPrice": "¥8,778",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/990080",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Rival Stars Horse Racing: Desktop Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Rival Stars Horse Racing: Desktop EditionがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/rival-stars-horse-racing-desktop-edition/info/",
+        "date": "2026-08-28"
       }
     ],
     "review": [
-      {
-        "title": "【『シュタインズ・ゲート リブート』は眉毛が動くだけで大分印象変わる。『ほの暮しの庭』は本当にス...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『シュタインズ・ゲート リブート』は眉毛が動くだけで大分印象変わる。『ほの暮しの庭』は本当にス...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260823-462056/",
-        "date": "2026-08-23",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料『NTE』の新マップは広いし、なんかずっとテンション高い。車は飛びまくり水上バイ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料『NTE』の新マップは広いし、なんかずっとテンション高い。車は飛びまくり水上バイ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260823-461987/",
-        "date": "2026-08-23",
-        "is_translated": false
-      },
       {
         "title": "【自分も敵も“一撃必殺”剣戟アクション『FIRST CUT: SAMURAI DUEL』大型アプ...：レビュー】",
         "platform": "AUTOMATON",
@@ -1402,8 +1364,47 @@
         "url": "https://www.rockpapershotgun.com/your-biggest-choice-in-gta-6-is-whether-lucia-and-jason-stay-a-couple-but-half-arsing-it-wont-stop-them-doing-crimes-together",
         "date": "2026-08-27",
         "is_translated": true
+      },
+      {
+        "title": "【『グランド・セフト・オートVI（GTA 6）』の「26分以上」のゲームプレイ新映像、ついに一般...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『グランド・セフト・オートVI（GTA 6）』の「26分以上」のゲームプレイ新映像、ついに一般...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260828-463774/",
+        "date": "2026-08-28",
+        "is_translated": false
+      },
+      {
+        "title": "【80時間を超えるボリュームや主人公2人の動的な関係性など、発売が迫る期待作「Grand The...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【80時間を超えるボリュームや主人公2人の動的な関係性など、発売が迫る期待作「Grand The...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08170214.html",
+        "date": "2026-08-28",
+        "is_translated": false
+      },
+      {
+        "title": "【プレビューでは答えられていない GTA 6 の 4 つの主要な質問】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【プレビューでは答えられていない GTA 6 の 4 つの主要な質問】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/gta-6-major-questions/",
+        "date": "2026-08-28",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-27T22:06:13.663147"
+  "last_updated": "2026-08-28T05:07:40.807968"
 }
