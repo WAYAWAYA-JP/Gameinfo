@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-08-29"
+      },
+      {
+        "title": "Starfield",
+        "platform": "Various",
+        "type": "sale",
+        "description": "StarfieldがVariousで-31%セール中です。",
+        "price": "$34.39",
+        "originalPrice": "",
+        "discount": "-31%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/starfield/info/",
+        "date": "2026-08-29"
       }
     ],
     "review": [
@@ -1364,8 +1376,47 @@
         "url": "https://automaton-media.com/articles/newsjp/20260829-463981/",
         "date": "2026-08-29",
         "is_translated": false
+      },
+      {
+        "title": "【Mortal Shell 2 は最初のメジャー アップデートを取得し、追加のビーコン、便利な新...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Mortal Shell 2 は最初のメジャー アップデートを取得し、追加のビーコン、便利な新...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/mortal-shell-2-gets-its-first-major-update-adding-in-extra-beacons-useful-new-items-and-making-riposte-damage-scaling-actually-work",
+        "date": "2026-08-29",
+        "is_translated": true
+      },
+      {
+        "title": "【Gamescom 2026 の最もクールな新作アクション ゲームで Doom と Hades ...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Gamescom 2026 の最もクールな新作アクション ゲームで Doom と Hades ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/murals-gamescom-2026-preview/",
+        "date": "2026-08-29",
+        "is_translated": true
+      },
+      {
+        "title": "【『どうぶつの森』が数年ぶりに本格的なコンテストを開催：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【『どうぶつの森』が数年ぶりに本格的なコンテストを開催：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/petit-planet-gamescom-2026-preview/",
+        "date": "2026-08-29",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-29T16:33:13.657890"
+  "last_updated": "2026-08-29T23:00:21.302357"
 }
