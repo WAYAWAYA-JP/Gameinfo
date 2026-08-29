@@ -544,6 +544,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/breathedge/info/",
         "date": "2026-08-28"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "No Man's SkyがVariousで-60%セール中です。",
+        "price": "$23.70",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-08-29"
       }
     ],
     "review": [
@@ -1326,8 +1338,34 @@
         "url": "https://automaton-media.com/articles/newsjp/20260829-463967/",
         "date": "2026-08-29",
         "is_translated": false
+      },
+      {
+        "title": "【みんなで探検オープンワールド『Big Walk』にて、謎の“助っ人プレイヤー”との遭遇報告相次...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【みんなで探検オープンワールド『Big Walk』にて、謎の“助っ人プレイヤー”との遭遇報告相次...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/big-walk-20260829-464013/",
+        "date": "2026-08-29",
+        "is_translated": false
+      },
+      {
+        "title": "【人気マルチ・ステルスホラー『Secret Neighbor』に“販売停止のみ”を要求する不正ア...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【人気マルチ・ステルスホラー『Secret Neighbor』に“販売停止のみ”を要求する不正ア...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260829-463981/",
+        "date": "2026-08-29",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-29T05:40:41.615572"
+  "last_updated": "2026-08-29T14:10:07.181727"
 }
