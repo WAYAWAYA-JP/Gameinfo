@@ -230,6 +230,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/waifu-love-bundle",
         "date": "2026-08-28"
+      },
+      {
+        "title": "Yes Chef! - Cooking Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Yes Chef! - Cooking BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/yeschefcookingbundle_bundle",
+        "date": "2026-08-29"
+      },
+      {
+        "title": "New Signal Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "New Signal BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/new-signal-bundle",
+        "date": "2026-08-29"
       }
     ],
     "sale": [
@@ -1289,8 +1313,21 @@
         "url": "https://www.rockpapershotgun.com/im-desperately-looking-for-anybody-who-knows-anybody-at-valve-open-world-satire-future-no-thanks-is-still-locked-in-steam-horny-jail",
         "date": "2026-08-28",
         "is_translated": true
+      },
+      {
+        "title": "【最大4人協力・西部劇PvEシューター『Far Far West』、新要素てんこ盛りアプデで同接...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【最大4人協力・西部劇PvEシューター『Far Far West』、新要素てんこ盛りアプデで同接...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260829-463967/",
+        "date": "2026-08-29",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-29T03:05:44.847504"
+  "last_updated": "2026-08-29T05:40:41.615572"
 }
