@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Dungeons & Dragons: Classics Collection 2026",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Dungeons & Dragons: Classics Collection 2026のバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/dungeonsdragonsclassicscollection2026_bundle",
-        "date": "2026-08-20"
-      },
-      {
         "title": "Love Letter to Lovecraft",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,18 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Red Dead Redemption 2がVariousで-75%セール中です。",
-        "price": "$14.99",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-08-23"
-      },
       {
         "title": "Against the Storm アゲインスト・ザ・ストーム",
         "platform": "Steam",
@@ -571,175 +547,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【最大8人マルチ対応・“爆弾虫”パーティーバトル『Blasterbug: Last Bug St...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【最大8人マルチ対応・“爆弾虫”パーティーバトル『Blasterbug: Last Bug St...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260825-462368/",
-        "date": "2026-08-25",
-        "is_translated": false
-      },
-      {
-        "title": "【期待のSRPG『ラングリッサー：剣の海』は“まるで買い切り型ゲーム”、約20時間どっぷり遊べた...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【期待のSRPG『ラングリッサー：剣の海』は“まるで買い切り型ゲーム”、約20時間どっぷり遊べた...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260825-462588/",
-        "date": "2026-08-25",
-        "is_translated": false
-      },
-      {
-        "title": "【60fpsパフォーマンスモードの動作が確認できるコンソール版「The Blood of Daw...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【60fpsパフォーマンスモードの動作が確認できるコンソール版「The Blood of Daw...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08170012.html",
-        "date": "2026-08-25",
-        "is_translated": false
-      },
-      {
-        "title": "【ヒット中アヒル落としゲーム『Project P.I.T.T.』、それでも開発者は「失敗した気分...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【ヒット中アヒル落としゲーム『Project P.I.T.T.』、それでも開発者は「失敗した気分...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260825-462639/",
-        "date": "2026-08-25",
-        "is_translated": false
-      },
-      {
-        "title": "【ディストピア都市パルクール『VHOLUME』Steamでさっそく「圧倒的に好評」スタート。無機...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【ディストピア都市パルクール『VHOLUME』Steamでさっそく「圧倒的に好評」スタート。無機...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260825-462615/",
-        "date": "2026-08-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Be Quiet! Light Mount TKL review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Be Quiet! Light Mount TKL review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/be-quiet-light-mount-tkl-review/",
-        "date": "2026-08-25",
-        "is_translated": true
-      },
-      {
-        "title": "【最大4人マルチ対応・二足歩行犬ローグライクシューター『GRAVHOUNDS』発表。エイリアンは...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【最大4人マルチ対応・二足歩行犬ローグライクシューター『GRAVHOUNDS』発表。エイリアンは...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260826-462841/",
-        "date": "2026-08-25",
-        "is_translated": false
-      },
-      {
-        "title": "【ターン制ストラテジー『ヒーローズ・オブ・マイト・アンド・マジックIII リメイク』発表。高く評...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【ターン制ストラテジー『ヒーローズ・オブ・マイト・アンド・マジックIII リメイク』発表。高く評...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260826-462833/",
-        "date": "2026-08-25",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料MMORPG『AION 2』10月5日サービス開始へ。前作の36倍、広大なハイフ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料MMORPG『AION 2』10月5日サービス開始へ。前作の36倍、広大なハイフ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260826-462809/",
-        "date": "2026-08-25",
-        "is_translated": false
-      },
-      {
-        "title": "【AmnesiaシリーズやSOMAを生んだ“Frictional Games”の次回作「ONTO...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【AmnesiaシリーズやSOMAを生んだ“Frictional Games”の次回作「ONTO...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169983.html",
-        "date": "2026-08-25",
-        "is_translated": false
-      },
-      {
-        "title": "【バブル時代の日本が支配した架空のアメリカを描く「昭和米国物語」のゲームプレイトレーラーがお披露目】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【バブル時代の日本が支配した架空のアメリカを描く「昭和米国物語」のゲームプレイトレーラーがお披露目】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169987.html",
-        "date": "2026-08-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Having taken over Cities: Skylines 2's resurrec...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Having taken over Cities: Skylines 2's resurrec...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/having-taken-over-cities-skylines-2s-resurrection-iceflake-studios-are-also-making-a-bricky-city-builder-called-lego-skylines",
-        "date": "2026-08-25",
-        "is_translated": true
-      },
-      {
-        "title": "【After 2 Hours, Gears of War: E-Day's Campaign G...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【After 2 Hours, Gears of War: E-Day's Campaign G...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gears-war-e-day-campaign-preview/",
-        "date": "2026-08-25",
-        "is_translated": true
-      },
       {
         "title": "【『昭和米国物語』は“狂ってるのに正統派”。バトルは本格、悪ふざけも本気、脳がついていけない「昭...：レビュー】",
         "platform": "AUTOMATON",
@@ -1063,19 +870,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/resonance-a-plague-tale-legacy-review-a-competent-action-game-spinoff-that-loses-what-made-its-predecessors-unique",
         "date": "2026-08-26",
-        "is_translated": true
-      },
-      {
-        "title": "【Cities: Skylines 2 の復活を引き継いだ Iceflake Studios は...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Cities: Skylines 2 の復活を引き継いだ Iceflake Studios は...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/having-taken-over-cities-skylines-2s-resurrection-iceflake-studios-are-also-making-a-bricky-city-builder-called-lego-skylines",
-        "date": "2026-08-25",
         "is_translated": true
       },
       {
@@ -1415,8 +1209,21 @@
         "url": "https://www.polygon.com/petit-planet-gamescom-2026-preview/",
         "date": "2026-08-29",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料『NTE』新実装の「重機仕事」と「ビーチバレー」は、やり込むと結構ガチ。では、“...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料『NTE』新実装の「重機仕事」と「ビーチバレー」は、やり込むと結構ガチ。では、“...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260830-464020/",
+        "date": "2026-08-30",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-29T23:00:21.302357"
+  "last_updated": "2026-08-30T03:41:19.137936"
 }
