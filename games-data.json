@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/lovelettertolovecraft_bundle",
         "date": "2026-08-31"
+      },
+      {
+        "title": "Dread and Dark Fantasies RPG Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Dread and Dark Fantasies RPG CollectionのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/dreadanddarkfantasiesrpgcollection_bundle",
+        "date": "2026-08-31"
       }
     ],
     "sale": [
@@ -1172,8 +1184,34 @@
         "url": "https://www.polygon.com/onimusha-way-of-the-sword-review/",
         "date": "2026-08-31",
         "is_translated": true
+      },
+      {
+        "title": "【The Blood of Dawnwalker review - worthy to sip ...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【The Blood of Dawnwalker review - worthy to sip ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-blood-of-dawnwalker-review-worthy-to-sip-blood-at-the-top-rpgs-table",
+        "date": "2026-08-31",
+        "is_translated": true
+      },
+      {
+        "title": "【Onimusha: Way of the Sword Reviews Say Capcom H...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Onimusha: Way of the Sword Reviews Say Capcom H...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/onimusha-way-of-the-sword-review-roundup-metacritic-score/",
+        "date": "2026-08-31",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-31T16:43:08.754187"
+  "last_updated": "2026-08-31T19:01:00.464964"
 }
