@@ -218,6 +218,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/new-signal-bundle",
         "date": "2026-08-29"
+      },
+      {
+        "title": "Humble 15th Anniversary - Ready Player One ... and Two",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble 15th Anniversary - Ready Player One ... and TwoのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/humble15thanniversaryreadyplayeroneandtwo_bundle",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "Love Letter to Lovecraft",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Love Letter to LovecraftのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/lovelettertolovecraft_bundle",
+        "date": "2026-08-31"
       }
     ],
     "sale": [
@@ -447,6 +471,54 @@
         "discount": "90% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/870780",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストがSteamで56% OFFセール中です。",
+        "price": "¥2,851",
+        "originalPrice": "¥6,480",
+        "discount": "56% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "Microsoft Flight Simulator Suite: Themes Reimagined",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Microsoft Flight Simulator Suite: Themes ReimaginedがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/microsoft-flight-simulator-suite-themes-reimagined/info/",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "Lies Of P",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Lies Of PがVariousで-50%セール中です。",
+        "price": "$30.00",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/lies-of-p/info/",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "Disco Elysium - The Final Cut",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Disco Elysium - The Final CutがVariousで-79%セール中です。",
+        "price": "$8.44",
+        "originalPrice": "",
+        "discount": "-79%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
         "date": "2026-08-31"
       }
     ],
@@ -996,8 +1068,112 @@
         "url": "https://www.polygon.com/nodusfall-preview-gamescom-2026/",
         "date": "2026-08-30",
         "is_translated": true
+      },
+      {
+        "title": "【名門「Housemarque」を設立し、ジャンルの転身を成功させたベテランHarri Tikk...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【名門「Housemarque」を設立し、ジャンルの転身を成功させたベテランHarri Tikk...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/08170279.html",
+        "date": "2026-08-31",
+        "is_translated": false
+      },
+      {
+        "title": "【ドーンウォーカーの血のレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【ドーンウォーカーの血のレビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-review/",
+        "date": "2026-08-31",
+        "is_translated": true
+      },
+      {
+        "title": "【鬼武者 剣の道 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【鬼武者 剣の道 レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/onimusha-way-of-the-sword-review/",
+        "date": "2026-08-31",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam 週間の振り返り: Steam で最も人気のあるジャンルのトップ 10 をご紹介します：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Steam 週間の振り返り: Steam で最も人気のあるジャンルのトップ 10 をご紹介します：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-here-are-the-top-10-most-popular-genres-on-steam/",
+        "date": "2026-08-31",
+        "is_translated": true
+      },
+      {
+        "title": "【『The Blood of Dawnwalker』レビュー - トップ RPG のテーブルで血...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【『The Blood of Dawnwalker』レビュー - トップ RPG のテーブルで血...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-blood-of-dawnwalker-review-worthy-to-sip-blood-at-the-top-rpgs-table",
+        "date": "2026-08-31",
+        "is_translated": true
+      },
+      {
+        "title": "【Mortal Shell 2 gets its first major update, add...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Mortal Shell 2 gets its first major update, add...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/mortal-shell-2-gets-its-first-major-update-adding-in-extra-beacons-useful-new-items-and-making-riposte-damage-scaling-actually-work",
+        "date": "2026-08-29",
+        "is_translated": true
+      },
+      {
+        "title": "【The Blood of Dawnwalker Reviews Say The Witcher...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【The Blood of Dawnwalker Reviews Say The Witcher...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/blood-of-dawnwalker-review-roundup/",
+        "date": "2026-08-31",
+        "is_translated": true
+      },
+      {
+        "title": "【Onimusha: Way of the Sword Review: Capcom’s Sam...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Onimusha: Way of the Sword Review: Capcom’s Sam...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/onimusha-way-of-the-sword-review/",
+        "date": "2026-08-31",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-08-31T03:41:31.961303"
+  "last_updated": "2026-08-31T16:43:08.754187"
 }
