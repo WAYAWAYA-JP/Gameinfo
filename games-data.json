@@ -52,54 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Handsome Husbandos",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Handsome HusbandosのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/handsomehusbandos_bundle",
-        "date": "2026-08-22"
-      },
-      {
-        "title": "Hamble's Summer Island Getaway Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Hamble's Summer Island Getaway BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/hamblessummerislandgetawaybundle_bundle",
-        "date": "2026-08-22"
-      },
-      {
-        "title": "Horror Station Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Horror Station BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/horror-station-bundle",
-        "date": "2026-08-22"
-      },
-      {
-        "title": "Waifu Love Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Waifu Love BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/waifu-love-bundle",
-        "date": "2026-08-22"
-      },
-      {
         "title": "Built Differently: Builder Games",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -254,33 +206,21 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/dreadanddarkfantasiesrpgcollection_bundle",
         "date": "2026-08-31"
+      },
+      {
+        "title": "HHNew Signal Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "HHNew Signal BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/new-signal-bundle",
+        "date": "2026-09-01"
       }
     ],
     "sale": [
-      {
-        "title": "Dredge",
-        "platform": "Various",
-        "type": "sale",
-        "description": "DredgeがVariousで-66%セール中です。",
-        "price": "$8.59",
-        "originalPrice": "",
-        "discount": "-66%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dredge/info/",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "デッドバイデイライト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "デッドバイデイライトがSteamで60% OFFセール中です。",
-        "price": "¥792",
-        "originalPrice": "¥1,980",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/381210",
-        "date": "2026-08-25"
-      },
       {
         "title": "Dokimon: Quest",
         "platform": "Various",
@@ -532,191 +472,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
         "date": "2026-08-31"
+      },
+      {
+        "title": "Terraria",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "TerrariaがSteamで50% OFFセール中です。",
+        "price": "¥600",
+        "originalPrice": "¥1,200",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/105600",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "CRIMSON DESERT",
+        "platform": "Various",
+        "type": "sale",
+        "description": "CRIMSON DESERTがVariousで-26%セール中です。",
+        "price": "$51.79",
+        "originalPrice": "",
+        "discount": "-26%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/crimson-desert/info/",
+        "date": "2026-09-01"
       }
     ],
     "review": [
-      {
-        "title": "【人気タワーディフェンス最新作『PixelJunk Monsters 3』発表。シリーズ累計10...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【人気タワーディフェンス最新作『PixelJunk Monsters 3』発表。シリーズ累計10...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/pixeljunk-monsters-3-20260827-463346/",
-        "date": "2026-08-27",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料“タイパ重視”モンスター育成RPG『るぅみマスター』9月17日正式リリースへ。操...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料“タイパ重視”モンスター育成RPG『るぅみマスター』9月17日正式リリースへ。操...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260827-463570/",
-        "date": "2026-08-27",
-        "is_translated": false
-      },
-      {
-        "title": "【“PixelJunk”シリーズ最新作「PixelJunk Monsters 3」がアナウンス、...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“PixelJunk”シリーズ最新作「PixelJunk Monsters 3」がアナウンス、...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08170192.html",
-        "date": "2026-08-27",
-        "is_translated": false
-      },
-      {
-        "title": "【スケイヴンの残虐な暗殺者を描くステルス系アクションプラットフォーマー「Warhammer Ag...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【スケイヴンの残虐な暗殺者を描くステルス系アクションプラットフォーマー「Warhammer Ag...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08170176.html",
-        "date": "2026-08-27",
-        "is_translated": false
-      },
-      {
-        "title": "【『グランド・セフト・オートVI（GTA 6）』新映像は「26分以上」、濃厚ゲームプレイ。犬を撫...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『グランド・セフト・オートVI（GTA 6）』新映像は「26分以上」、濃厚ゲームプレイ。犬を撫...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260828-463715/",
-        "date": "2026-08-27",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料オープンワールド『無限大ANANTA』先行プレイ感想。AAA級の派手演出が降り注...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料オープンワールド『無限大ANANTA』先行プレイ感想。AAA級の派手演出が降り注...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/ananta-20260827-463688/",
-        "date": "2026-08-27",
-        "is_translated": false
-      },
-      {
-        "title": "【「商品は自力調達」ダンジョンハクスラ×店舗経営『Fell & Sell』Steamでさっそく盛...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【「商品は自力調達」ダンジョンハクスラ×店舗経営『Fell & Sell』Steamでさっそく盛...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260827-463657/",
-        "date": "2026-08-27",
-        "is_translated": false
-      },
-      {
-        "title": "【「The Division 2」Year8シーズン3“レッドホライズン”が遂に始動、次期拡張“...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「The Division 2」Year8シーズン3“レッドホライズン”が遂に始動、次期拡張“...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08170212.html",
-        "date": "2026-08-27",
-        "is_translated": false
-      },
-      {
-        "title": "【英Playgroundが開発を手がける新生「Fable」の本格的なゲームプレイ解説映像が公開】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【英Playgroundが開発を手がける新生「Fable」の本格的なゲームプレイ解説映像が公開】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08169966.html",
-        "date": "2026-08-27",
-        "is_translated": false
-      },
-      {
-        "title": "【ああ、主よ、コナミは漠然とした「体験」と並行して毎年サイレントヒルのゲームを望んでいますが、そ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【ああ、主よ、コナミは漠然とした「体験」と並行して毎年サイレントヒルのゲームを望んでいますが、そ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/oh-lord-konami-want-yearly-silent-hill-games-alongside-vaguely-described-experiences-just-dont-let-that-be-another-movie",
-        "date": "2026-08-27",
-        "is_translated": true
-      },
-      {
-        "title": "【『グランド・セフト・オートVI（GTA 6）』約26分の長編新トレイラーでは“あの”ハンマーお...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『グランド・セフト・オートVI（GTA 6）』約26分の長編新トレイラーでは“あの”ハンマーお...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260828-463740/",
-        "date": "2026-08-27",
-        "is_translated": false
-      },
-      {
-        "title": "【「GTA 6」の公開についてどう思いますか?：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【「GTA 6」の公開についてどう思いますか?：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/what-do-you-think-of-the-gta-6-reveal/",
-        "date": "2026-08-27",
-        "is_translated": true
-      },
-      {
-        "title": "【「GTA 6」では、ボタン 1 つで好きな車を盗むことに別れを告げ、WAINK スキャナーが何...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【「GTA 6」では、ボタン 1 つで好きな車を盗むことに別れを告げ、WAINK スキャナーが何...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/say-goodbye-to-stealing-any-car-you-like-with-a-single-button-in-gta-6-and-hello-to-whatever-the-hell-the-waink-scanner-is",
-        "date": "2026-08-27",
-        "is_translated": true
-      },
-      {
-        "title": "【GTA 6 での最大の選択は、ルシアとジェイソンがカップルのままでいられるかどうかですが、中途...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【GTA 6 での最大の選択は、ルシアとジェイソンがカップルのままでいられるかどうかですが、中途...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/your-biggest-choice-in-gta-6-is-whether-lucia-and-jason-stay-a-couple-but-half-arsing-it-wont-stop-them-doing-crimes-together",
-        "date": "2026-08-27",
-        "is_translated": true
-      },
       {
         "title": "【『グランド・セフト・オートVI（GTA 6）』の「26分以上」のゲームプレイ新映像、ついに一般...】",
         "platform": "AUTOMATON",
@@ -757,19 +539,6 @@
         "is_translated": true
       },
       {
-        "title": "【Your biggest choice in GTA 6 is whether Lucia a...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Your biggest choice in GTA 6 is whether Lucia a...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/your-biggest-choice-in-gta-6-is-whether-lucia-and-jason-stay-a-couple-but-half-arsing-it-wont-stop-them-doing-crimes-together",
-        "date": "2026-08-27",
-        "is_translated": true
-      },
-      {
         "title": "【“エクスパンス”シリーズをビデオゲーム化する「The Expanse: Osiris Rebo...：レビュー】",
         "platform": "doope!",
         "type": "review",
@@ -781,19 +550,6 @@
         "url": "https://doope.jp/2026/08170270.html",
         "date": "2026-08-28",
         "is_translated": false
-      },
-      {
-        "title": "【Say goodbye to stealing any car you like with a...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Say goodbye to stealing any car you like with a...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/say-goodbye-to-stealing-any-car-you-like-with-a-single-button-in-gta-6-and-hello-to-whatever-the-hell-the-waink-scanner-is",
-        "date": "2026-08-27",
-        "is_translated": true
       },
       {
         "title": "【“Rayman Legends”の現世代向けリメイク「Rayman Legends Retol...：レビュー】",
@@ -1210,8 +966,21 @@
         "url": "https://www.polygon.com/onimusha-way-of-the-sword-review-roundup-metacritic-score/",
         "date": "2026-08-31",
         "is_translated": true
+      },
+      {
+        "title": "【発売が迫るダークファンタジー吸血鬼RPG「The Blood of Dawnwalker」のプ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【発売が迫るダークファンタジー吸血鬼RPG「The Blood of Dawnwalker」のプ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170329.html",
+        "date": "2026-08-31",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-08-31T19:01:00.464964"
+  "last_updated": "2026-09-01T00:24:03.249508"
 }
