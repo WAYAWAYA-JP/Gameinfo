@@ -218,6 +218,42 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/new-signal-bundle",
         "date": "2026-09-01"
+      },
+      {
+        "title": "Handsome Husbandos",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Handsome HusbandosのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/handsomehusbandos_bundle",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Hamble's Summer Island Getaway Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Hamble's Summer Island Getaway BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/hamblessummerislandgetawaybundle_bundle",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Horror Station Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Horror Station BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/horror-station-bundle",
+        "date": "2026-09-01"
       }
     ],
     "sale": [
@@ -495,6 +531,18 @@
         "discount": "-26%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/crimson-desert/info/",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "STAR WARS Zero Company™",
+        "platform": "Various",
+        "type": "sale",
+        "description": "STAR WARS Zero Company™がVariousでセール中です。",
+        "price": "$49.99",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/star-wars-zero-company/info/",
         "date": "2026-09-01"
       }
     ],
@@ -979,8 +1027,47 @@
         "url": "https://doope.jp/2026/09170329.html",
         "date": "2026-08-31",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料・“新感覚”映像没入ゲーム『アクティブシネマRPG 369（ミロク）』サービス開...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料・“新感覚”映像没入ゲーム『アクティブシネマRPG 369（ミロク）』サービス開...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260831-464160/",
+        "date": "2026-09-01",
+        "is_translated": false
+      },
+      {
+        "title": "【『グランド・セフト・オートVI（GTA 6）』リーカーの身元特定に向けて大きく進展。Disco...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『グランド・セフト・オートVI（GTA 6）』リーカーの身元特定に向けて大きく進展。Disco...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260901-464296/",
+        "date": "2026-09-01",
+        "is_translated": false
+      },
+      {
+        "title": "【Goodbye Volcano Highを生んだ“KO_OP”の新作Co-opライフシム「Yo...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Goodbye Volcano Highを生んだ“KO_OP”の新作Co-opライフシム「Yo...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170340.html",
+        "date": "2026-09-01",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-01T00:24:03.249508"
+  "last_updated": "2026-09-01T03:36:44.829082"
 }
