@@ -592,6 +592,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
         "date": "2026-09-01"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Red Dead Redemption 2がVariousで-75%セール中です。",
+        "price": "$14.99",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-09-01"
       }
     ],
     "review": [
@@ -1270,8 +1282,34 @@
         "url": "https://www.polygon.com/aliens-fireteam-elite-2-impressions/",
         "date": "2026-09-01",
         "is_translated": true
+      },
+      {
+        "title": "【レゾナンス：ペスト・テイル・レガシーのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【レゾナンス：ペスト・テイル・レガシーのレビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/resonance-a-plague-tale-legacy-review/",
+        "date": "2026-09-01",
+        "is_translated": true
+      },
+      {
+        "title": "【サイバーパンク2077が発売されたのは、開発者が「屋外で」それを望んでいたからだとCD Pro...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【サイバーパンク2077が発売されたのは、開発者が「屋外で」それを望んでいたからだとCD Pro...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/cyberpunk-2077-launched-when-it-did-because-its-devs-wanted-it-out-the-door-says-cd-projekt-red-ceo-but-i-wonder-if-he-forgot-about-that-reported-mandatory-crunch",
+        "date": "2026-09-01",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-01T16:23:56.837874"
+  "last_updated": "2026-09-01T23:02:10.279872"
 }
