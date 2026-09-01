@@ -544,6 +544,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/star-wars-zero-company/info/",
         "date": "2026-09-01"
+      },
+      {
+        "title": "The Alters",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The AltersがVariousで-61%セール中です。",
+        "price": "$13.82",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-alters/info/",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "platform": "Various",
+        "type": "sale",
+        "description": "S.T.A.L.K.E.R. 2: Heart of ChornobylがVariousで-17%セール中です。",
+        "price": "$49.74",
+        "originalPrice": "",
+        "discount": "-17%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
+        "date": "2026-09-01"
       }
     ],
     "review": [
@@ -1066,8 +1090,99 @@
         "url": "https://doope.jp/2026/09170340.html",
         "date": "2026-09-01",
         "is_translated": false
+      },
+      {
+        "title": "【『鬼武者 Way of the Sword』レビュー。武蔵の奇譚時代劇は“火が付く”のがちょっ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『鬼武者 Way of the Sword』レビュー。武蔵の奇譚時代劇は“火が付く”のがちょっ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/20260901-464457/",
+        "date": "2026-09-01",
+        "is_translated": false
+      },
+      {
+        "title": "【2人専用アクションゲーム『オービタルズ Orbitals』レビュー。「友情崩壊協力ゲーム」時代...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【2人専用アクションゲーム『オービタルズ Orbitals』レビュー。「友情崩壊協力ゲーム」時代...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/orbitals-20260901-464392/",
+        "date": "2026-09-01",
+        "is_translated": false
+      },
+      {
+        "title": "【『無限大ANANTA』先行プレイで、多彩な「都市を生きる」体験に触れてきた！ステルスからダイナ...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【『無限大ANANTA』先行プレイで、多彩な「都市を生きる」体験に触れてきた！ステルスからダイナ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/01/187113.html",
+        "date": "2026-09-01",
+        "is_translated": false
+      },
+      {
+        "title": "【人気コスプレイヤーのえなこが麻宮アテナ、南あみが不知火舞に！6vs6ターン制カードデッキRPG...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【人気コスプレイヤーのえなこが麻宮アテナ、南あみが不知火舞に！6vs6ターン制カードデッキRPG...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/01/187112.html",
+        "date": "2026-09-01",
+        "is_translated": false
+      },
+      {
+        "title": "【MSI Crosshair 16 Max HX E2W レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【MSI Crosshair 16 Max HX E2W レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-laptops/msi-crosshair-16-max-hx-e2w-review/",
+        "date": "2026-09-01",
+        "is_translated": true
+      },
+      {
+        "title": "【オンスロート レビュー: 2026 年で最も不快なアクション スリラー、そして最も重要な作品】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【オンスロート レビュー: 2026 年で最も不快なアクション スリラー、そして最も重要な作品】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/onslaught-review-2026/",
+        "date": "2026-09-01",
+        "is_translated": true
+      },
+      {
+        "title": "【「スター・ウォーズ」数年で最も評価の高いゲーム開発チームの最大80％が発売前に一時帰休】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【「スター・ウォーズ」数年で最も評価の高いゲーム開発チームの最大80％が発売前に一時帰休】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/star-wars-zero-company-bit-reactor-furlough/",
+        "date": "2026-09-01",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-01T03:36:44.829082"
+  "last_updated": "2026-09-01T13:56:08.643641"
 }
