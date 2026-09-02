@@ -258,42 +258,6 @@
     ],
     "sale": [
       {
-        "title": "Dokimon: Quest",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Dokimon: QuestがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dokimon-quest/info/",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Cyberpunk 2077がVariousで-70%セール中です。",
-        "price": "$17.99",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Monster Hunter: World",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Monster Hunter: WorldがVariousで-77%セール中です。",
-        "price": "$7.02",
-        "originalPrice": "",
-        "discount": "-77%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/monster-hunter-world/info/",
-        "date": "2026-08-26"
-      },
-      {
         "title": "Dragon's Dogma 2",
         "platform": "Various",
         "type": "sale",
@@ -604,61 +568,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
         "date": "2026-09-01"
+      },
+      {
+        "title": "SILENT HILL f",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "SILENT HILL fがSteamで50% OFFセール中です。",
+        "price": "¥4,290",
+        "originalPrice": "¥8,580",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2947440",
+        "date": "2026-09-02"
       }
     ],
     "review": [
-      {
-        "title": "【『グランド・セフト・オートVI（GTA 6）』の「26分以上」のゲームプレイ新映像、ついに一般...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『グランド・セフト・オートVI（GTA 6）』の「26分以上」のゲームプレイ新映像、ついに一般...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260828-463774/",
-        "date": "2026-08-28",
-        "is_translated": false
-      },
-      {
-        "title": "【80時間を超えるボリュームや主人公2人の動的な関係性など、発売が迫る期待作「Grand The...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【80時間を超えるボリュームや主人公2人の動的な関係性など、発売が迫る期待作「Grand The...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08170214.html",
-        "date": "2026-08-28",
-        "is_translated": false
-      },
-      {
-        "title": "【プレビューでは答えられていない GTA 6 の 4 つの主要な質問】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【プレビューでは答えられていない GTA 6 の 4 つの主要な質問】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gta-6-major-questions/",
-        "date": "2026-08-28",
-        "is_translated": true
-      },
-      {
-        "title": "【“エクスパンス”シリーズをビデオゲーム化する「The Expanse: Osiris Rebo...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“エクスパンス”シリーズをビデオゲーム化する「The Expanse: Osiris Rebo...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08170270.html",
-        "date": "2026-08-28",
-        "is_translated": false
-      },
       {
         "title": "【“Rayman Legends”の現世代向けリメイク「Rayman Legends Retol...：レビュー】",
         "platform": "doope!",
@@ -697,19 +621,6 @@
         "url": "https://doope.jp/2026/08170271.html",
         "date": "2026-08-29",
         "is_translated": false
-      },
-      {
-        "title": "【\"I'm desperately looking for anybody who knows ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【\"I'm desperately looking for anybody who knows ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/im-desperately-looking-for-anybody-who-knows-anybody-at-valve-open-world-satire-future-no-thanks-is-still-locked-in-steam-horny-jail",
-        "date": "2026-08-28",
-        "is_translated": true
       },
       {
         "title": "【最大4人協力・西部劇PvEシューター『Far Far West』、新要素てんこ盛りアプデで同接...：レビュー】",
@@ -1308,8 +1219,73 @@
         "url": "https://www.rockpapershotgun.com/cyberpunk-2077-launched-when-it-did-because-its-devs-wanted-it-out-the-door-says-cd-projekt-red-ceo-but-i-wonder-if-he-forgot-about-that-reported-mandatory-crunch",
         "date": "2026-09-01",
         "is_translated": true
+      },
+      {
+        "title": "【解禁が迫る「ウィッチャー3 ワイルドハント」リマスターは既存のセーブデータでプレイ可能、ウィッ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【解禁が迫る「ウィッチャー3 ワイルドハント」リマスターは既存のセーブデータでプレイ可能、ウィッ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170353.html",
+        "date": "2026-09-02",
+        "is_translated": false
+      },
+      {
+        "title": "【『マリオカート8 デラックス』がスイッチ2に対応！高精細やロード時間短縮、いろいろとカオスな“...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【『マリオカート8 デラックス』がスイッチ2に対応！高精細やロード時間短縮、いろいろとカオスな“...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/02/187125.html",
+        "date": "2026-09-02",
+        "is_translated": false
+      },
+      {
+        "title": "【「HUNTER×HUNTER」G.I.編のアイテム「聖騎士の首飾り」本格アクセサリーが予約実施...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【「HUNTER×HUNTER」G.I.編のアイテム「聖騎士の首飾り」本格アクセサリーが予約実施...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/02/187121.html",
+        "date": "2026-09-02",
+        "is_translated": false
+      },
+      {
+        "title": "【良い評価は「大きな安堵感」だとブラッド・オブ・ドーンウォーカーの監督が語る、CD Projek...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【良い評価は「大きな安堵感」だとブラッド・オブ・ドーンウォーカーの監督が語る、CD Projek...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/good-reviews-are-a-great-relief-says-blood-of-dawnwalker-director-as-former-cd-projekt-coworkers-line-up-to-offer-congratulations/",
+        "date": "2026-09-01",
+        "is_translated": true
+      },
+      {
+        "title": "【レゾナンス: ペスト・テイル・レガシー レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【レゾナンス: ペスト・テイル・レガシー レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/resonance-a-plague-tale-legacy-review/",
+        "date": "2026-09-01",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-01T23:02:10.279872"
+  "last_updated": "2026-09-02T02:55:05.701381"
 }
