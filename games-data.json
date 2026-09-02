@@ -254,6 +254,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/horror-station-bundle",
         "date": "2026-09-01"
+      },
+      {
+        "title": "Mega Man: Recharged Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Mega Man: Recharged CollectionのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/megamanrechargedcollection_bundle",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "CRPG Pack: Isometric Immersion",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "CRPG Pack: Isometric ImmersionのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/crpgpackisometricimmersion_bundle",
+        "date": "2026-09-02"
       }
     ],
     "sale": [
@@ -603,6 +627,18 @@
         "discount": "-20%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/007-first-light/info/",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Street Fighter 6",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Street Fighter 6がSteamで50% OFFセール中です。",
+        "price": "¥2,495",
+        "originalPrice": "¥4,990",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1364780",
         "date": "2026-09-02"
       }
     ],
@@ -1389,5 +1425,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-02T16:21:46.140785"
+  "last_updated": "2026-09-02T22:59:20.018958"
 }
