@@ -592,6 +592,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
         "date": "2026-09-02"
+      },
+      {
+        "title": "007 First Light",
+        "platform": "Various",
+        "type": "sale",
+        "description": "007 First LightがVariousで-20%セール中です。",
+        "price": "$55.99",
+        "originalPrice": "",
+        "discount": "-20%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/007-first-light/info/",
+        "date": "2026-09-02"
       }
     ],
     "review": [
@@ -1335,8 +1347,47 @@
         "url": "https://www.pcgamer.com/games/city-builder/after-playing-a-bit-of-lego-skylines-it-seems-like-a-city-builder-for-people-who-care-less-about-traffic-jams-and-more-about-decorating/",
         "date": "2026-09-02",
         "is_translated": true
+      },
+      {
+        "title": "【Frictional Gamesが開発を手がけるSci-Fi実存ホラー「ONTOS」の10分に...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Frictional Gamesが開発を手がけるSci-Fi実存ホラー「ONTOS」の10分に...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170350.html",
+        "date": "2026-09-02",
+        "is_translated": false
+      },
+      {
+        "title": "【PS5とXBOX Series X|S版「Teardown」のマルチプレイヤーアップデート配信...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【PS5とXBOX Series X|S版「Teardown」のマルチプレイヤーアップデート配信...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170404.html",
+        "date": "2026-09-02",
+        "is_translated": false
+      },
+      {
+        "title": "【『アナザーエデン ビギンズ』無料体験版が配信開始！メインストーリー第6章までプレイでき、セーブ...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【『アナザーエデン ビギンズ』無料体験版が配信開始！メインストーリー第6章までプレイでき、セーブ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/03/187167.html",
+        "date": "2026-09-02",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-02T13:14:28.432288"
+  "last_updated": "2026-09-02T16:21:46.140785"
 }
