@@ -1,68 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "『Cardpocalypse』 Standard Edition",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "10才の女の子ジェスの失敗のせいで、学校で誰もお気に入りのカードゲームが禁止されてます。 さらになんかこれはジェスにとって初めての登校日のことでした！ ところで、ことも危ういゲーム内のミュータントが現実世界に出現する事態が発生。",
-        "price": "無料",
-        "originalPrice": "¥23",
-        "discount": "100% OFF",
-        "deadline": "2026年08月27日まで",
-        "url": "https://store.epicgames.com/ja/p/cardpocalypse/home",
-        "date": "2026-08-27"
-      },
-      {
-        "title": "エピックメイジバンドル",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "エピックメイジバンドルがEpic Gamesで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年08月27日まで",
-        "url": "https://store.epicgames.com/ja/p/epic-mage-bundle",
-        "date": "2026-08-27"
-      },
-      {
-        "title": "Breathedge",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "BreathedgeがEpic Gamesで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "¥28",
-        "discount": "100% OFF",
-        "deadline": "2026年09月03日まで",
-        "url": "https://store.epicgames.com/ja/p/breathedge",
-        "date": "2026-08-27"
-      },
-      {
-        "title": "Rival Stars Horse Racing : Desktop Edition",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "見事でリアルな馬、綿密な繁殖システム、さまざまなエキサイティングなゲーム モードを備えたライバル スターズ ホース レーシングは、競馬ファンに究極のレースと乗馬体験を提供します。手綱を握って馬術界の伝説になろう！",
-        "price": "無料",
-        "originalPrice": "¥24",
-        "discount": "100% OFF",
-        "deadline": "2026年09月03日まで",
-        "url": "https://store.epicgames.com/ja/p/c27af3c6ec3a47afb720e580138de63e",
-        "date": "2026-08-27"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Built Differently: Builder Games",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Built Differently: Builder GamesのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/builtdifferentlybuildergames_bundle",
-        "date": "2026-08-24"
-      },
       {
         "title": "In Your World VR Bundle",
         "platform": "Humble Bundle",
@@ -281,78 +220,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Dragon's Dogma 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Dragon's Dogma 2がVariousで-33%セール中です。",
-        "price": "$26.99",
-        "originalPrice": "",
-        "discount": "-33%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
-        "date": "2026-08-27"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33がVariousで-32%セール中です。",
-        "price": "$34.24",
-        "originalPrice": "",
-        "discount": "-32%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-08-27"
-      },
-      {
-        "title": "The Witcher 3: Wild Hunt",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Witcher 3: Wild HuntがVariousでセール中です。",
-        "price": "$39.99",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-witcher-3-wild-hunt/info/",
-        "date": "2026-08-27"
-      },
-      {
-        "title": "Resident Evil 4 (2023)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Resident Evil 4 (2023)がVariousで-78%セール中です。",
-        "price": "$8.96",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
-        "date": "2026-08-27"
-      },
-      {
-        "title": "Resident Evil Requiem",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Resident Evil RequiemがVariousで-29%セール中です。",
-        "price": "$49.95",
-        "originalPrice": "",
-        "discount": "-29%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
-        "date": "2026-08-27"
-      },
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "StrayがVariousで-61%セール中です。",
-        "price": "$11.84",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-08-27"
-      },
       {
         "title": "ホグワーツ・レガシー",
         "platform": "Steam",
@@ -640,126 +507,21 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/1364780",
         "date": "2026-09-02"
+      },
+      {
+        "title": "Palworld",
+        "platform": "Various",
+        "type": "sale",
+        "description": "PalworldがVariousで-30%セール中です。",
+        "price": "$20.99",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/palworld/info/",
+        "date": "2026-09-03"
       }
     ],
     "review": [
-      {
-        "title": "【“Rayman Legends”の現世代向けリメイク「Rayman Legends Retol...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“Rayman Legends”の現世代向けリメイク「Rayman Legends Retol...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08170298.html",
-        "date": "2026-08-29",
-        "is_translated": false
-      },
-      {
-        "title": "【コンソール版「Grand Theft Auto VI」の30fps動作が確定、高fpsオプショ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【コンソール版「Grand Theft Auto VI」の30fps動作が確定、高fpsオプショ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08170273.html",
-        "date": "2026-08-29",
-        "is_translated": false
-      },
-      {
-        "title": "【人気ゾンビサバイバルシリーズ最新作「State of Decay 3」の本格的なゲームプレイ映...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【人気ゾンビサバイバルシリーズ最新作「State of Decay 3」の本格的なゲームプレイ映...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08170271.html",
-        "date": "2026-08-29",
-        "is_translated": false
-      },
-      {
-        "title": "【最大4人協力・西部劇PvEシューター『Far Far West』、新要素てんこ盛りアプデで同接...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【最大4人協力・西部劇PvEシューター『Far Far West』、新要素てんこ盛りアプデで同接...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260829-463967/",
-        "date": "2026-08-29",
-        "is_translated": false
-      },
-      {
-        "title": "【みんなで探検オープンワールド『Big Walk』にて、謎の“助っ人プレイヤー”との遭遇報告相次...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【みんなで探検オープンワールド『Big Walk』にて、謎の“助っ人プレイヤー”との遭遇報告相次...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/big-walk-20260829-464013/",
-        "date": "2026-08-29",
-        "is_translated": false
-      },
-      {
-        "title": "【人気マルチ・ステルスホラー『Secret Neighbor』に“販売停止のみ”を要求する不正ア...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【人気マルチ・ステルスホラー『Secret Neighbor』に“販売停止のみ”を要求する不正ア...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260829-463981/",
-        "date": "2026-08-29",
-        "is_translated": false
-      },
-      {
-        "title": "【Mortal Shell 2 は最初のメジャー アップデートを取得し、追加のビーコン、便利な新...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Mortal Shell 2 は最初のメジャー アップデートを取得し、追加のビーコン、便利な新...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/mortal-shell-2-gets-its-first-major-update-adding-in-extra-beacons-useful-new-items-and-making-riposte-damage-scaling-actually-work",
-        "date": "2026-08-29",
-        "is_translated": true
-      },
-      {
-        "title": "【Gamescom 2026 の最もクールな新作アクション ゲームで Doom と Hades ...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【Gamescom 2026 の最もクールな新作アクション ゲームで Doom と Hades ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/murals-gamescom-2026-preview/",
-        "date": "2026-08-29",
-        "is_translated": true
-      },
-      {
-        "title": "【『どうぶつの森』が数年ぶりに本格的なコンテストを開催：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【『どうぶつの森』が数年ぶりに本格的なコンテストを開催：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/petit-planet-gamescom-2026-preview/",
-        "date": "2026-08-29",
-        "is_translated": true
-      },
       {
         "title": "【基本プレイ無料『NTE』新実装の「重機仕事」と「ビーチバレー」は、やり込むと結構ガチ。では、“...】",
         "platform": "AUTOMATON",
@@ -979,19 +741,6 @@
         "deadline": "",
         "url": "https://www.rockpapershotgun.com/the-blood-of-dawnwalker-review-worthy-to-sip-blood-at-the-top-rpgs-table",
         "date": "2026-08-31",
-        "is_translated": true
-      },
-      {
-        "title": "【Mortal Shell 2 gets its first major update, add...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Mortal Shell 2 gets its first major update, add...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/mortal-shell-2-gets-its-first-major-update-adding-in-extra-beacons-useful-new-items-and-making-riposte-damage-scaling-actually-work",
-        "date": "2026-08-29",
         "is_translated": true
       },
       {
@@ -1422,8 +1171,47 @@
         "url": "https://www.inside-games.jp/article/2026/09/03/187167.html",
         "date": "2026-09-02",
         "is_translated": false
+      },
+      {
+        "title": "【「デモ版600万プレイ」3人マルチ爆弾解除『BOMBANANA!』、同接1万2000人の大盛況...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【「デモ版600万プレイ」3人マルチ爆弾解除『BOMBANANA!』、同接1万2000人の大盛況...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260903-464731/",
+        "date": "2026-09-03",
+        "is_translated": false
+      },
+      {
+        "title": "【「American Truck Simulator」サウスダコタ州DLCの発売日が2026年9...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「American Truck Simulator」サウスダコタ州DLCの発売日が2026年9...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170430.html",
+        "date": "2026-09-03",
+        "is_translated": false
+      },
+      {
+        "title": "【日本の90年代アニメにインスパイアされたSwitch 2向けCo-opアドベンチャー「オービタ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【日本の90年代アニメにインスパイアされたSwitch 2向けCo-opアドベンチャー「オービタ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170416.html",
+        "date": "2026-09-03",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-02T22:59:20.018958"
+  "last_updated": "2026-09-03T02:58:39.938732"
 }
