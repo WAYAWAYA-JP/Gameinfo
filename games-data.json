@@ -24,6 +24,18 @@
         "deadline": "2026年09月03日まで",
         "url": "https://store.epicgames.com/ja/p/c27af3c6ec3a47afb720e580138de63e",
         "date": "2026-09-03"
+      },
+      {
+        "title": "Alone With You",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "ALONE WITH YOU is a sci-fi point-and-click adventure game that tells a rich story about relationships. You're the last survivor of a doomed space colony, trying to escape a planet before it implodes …",
+        "price": "無料",
+        "originalPrice": "¥9",
+        "discount": "100% OFF",
+        "deadline": "2026年09月10日まで",
+        "url": "https://store.epicgames.com/ja/p/68a0e4e0a68d42ffba405593a89c55ba",
+        "date": "2026-09-03"
       }
     ],
     "bundle": [
@@ -555,6 +567,18 @@
         "discount": "-30%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/palworld/info/",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Moonlighter 2: The Endless Vault",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Moonlighter 2: The Endless VaultがVariousで-43%セール中です。",
+        "price": "$17.21",
+        "originalPrice": "",
+        "discount": "-43%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/moonlighter-2-the-endless-vault/info/",
         "date": "2026-09-03"
       }
     ],
@@ -1312,8 +1336,73 @@
         "url": "https://www.rockpapershotgun.com/the-witcher-remake-is-currently-on-the-back-burner-because-progress-on-it-depends-on-the-witcher-4s-development-cd-projekt-red-confirm",
         "date": "2026-09-03",
         "is_translated": true
+      },
+      {
+        "title": "【爆速成長アクションRPG『ステューピッド・ネバー・ダイズ（Stupid Never Dies）...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【爆速成長アクションRPG『ステューピッド・ネバー・ダイズ（Stupid Never Dies）...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/snd-20260904-465008/",
+        "date": "2026-09-03",
+        "is_translated": false
+      },
+      {
+        "title": "【『ファイナルファンタジー レゾナンス』先行プレイ感想。懐かしいだけじゃない、新しい未来の可能性...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ファイナルファンタジー レゾナンス』先行プレイ感想。懐かしいだけじゃない、新しい未来の可能性...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/final-fantasy-resonance-20260904-464963/",
+        "date": "2026-09-03",
+        "is_translated": false
+      },
+      {
+        "title": "【「Saros」に多彩な新コンテンツを導入する無料大型コンテンツアップデート“Zenith”のゲ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Saros」に多彩な新コンテンツを導入する無料大型コンテンツアップデート“Zenith”のゲ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170424.html",
+        "date": "2026-09-03",
+        "is_translated": false
+      },
+      {
+        "title": "【新主人公を迎え暴政の恐怖と沈黙の対価を描く“Metro”シリーズ最新作「Metro 2039」...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【新主人公を迎え暴政の恐怖と沈黙の対価を描く“Metro”シリーズ最新作「Metro 2039」...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170457.html",
+        "date": "2026-09-03",
+        "is_translated": false
+      },
+      {
+        "title": "【Final Fantasy Resonance Has Killer Combat But G...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Final Fantasy Resonance Has Killer Combat But G...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/final-fantasy-resonance-preview/",
+        "date": "2026-09-03",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-03T13:15:14.036188"
+  "last_updated": "2026-09-03T16:12:01.878803"
 }
