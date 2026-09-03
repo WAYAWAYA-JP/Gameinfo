@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/moonlighter-2-the-endless-vault/info/",
         "date": "2026-09-03"
+      },
+      {
+        "title": "Rain World",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Rain WorldがVariousで-73%セール中です。",
+        "price": "$6.74",
+        "originalPrice": "",
+        "discount": "-73%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/rain-world/info/",
+        "date": "2026-09-03"
       }
     ],
     "review": [
@@ -1401,8 +1413,34 @@
         "url": "https://www.polygon.com/final-fantasy-resonance-preview/",
         "date": "2026-09-03",
         "is_translated": true
+      },
+      {
+        "title": "【『Escape from Tarkov』生みの親が携わる新作FPS『Fragmentary O...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『Escape from Tarkov』生みの親が携わる新作FPS『Fragmentary O...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260904-465030/",
+        "date": "2026-09-03",
+        "is_translated": false
+      },
+      {
+        "title": "【「ボーダーランズ4」に参戦する新ヴォルト・ハンター“ラブレス”の短編アニメとゲームプレイトレー...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「ボーダーランズ4」に参戦する新ヴォルト・ハンター“ラブレス”の短編アニメとゲームプレイトレー...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170426.html",
+        "date": "2026-09-03",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-03T16:12:01.878803"
+  "last_updated": "2026-09-03T22:59:32.131647"
 }
