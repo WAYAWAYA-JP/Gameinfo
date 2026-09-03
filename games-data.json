@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Breathedge",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "BreathedgeがEpic Gamesで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "¥28",
+        "discount": "100% OFF",
+        "deadline": "2026年09月03日まで",
+        "url": "https://store.epicgames.com/ja/p/breathedge",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Rival Stars Horse Racing : Desktop Edition",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "見事でリアルな馬、綿密な繁殖システム、さまざまなエキサイティングなゲーム モードを備えたライバル スターズ ホース レーシングは、競馬ファンに究極のレースと乗馬体験を提供します。手綱を握って馬術界の伝説になろう！",
+        "price": "無料",
+        "originalPrice": "¥24",
+        "discount": "100% OFF",
+        "deadline": "2026年09月03日まで",
+        "url": "https://store.epicgames.com/ja/p/c27af3c6ec3a47afb720e580138de63e",
+        "date": "2026-09-03"
+      }
+    ],
     "bundle": [
       {
         "title": "In Your World VR Bundle",
@@ -217,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/crpgpackisometricimmersion_bundle",
         "date": "2026-09-02"
+      },
+      {
+        "title": "Built Differently: Builder Games",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Built Differently: Builder GamesのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/builtdifferentlybuildergames_bundle",
+        "date": "2026-09-03"
       }
     ],
     "sale": [
@@ -1210,8 +1247,73 @@
         "url": "https://doope.jp/2026/09170416.html",
         "date": "2026-09-03",
         "is_translated": false
+      },
+      {
+        "title": "【Steamの新作ゲームが急増中、「14分に1本」出る超過密ペースに。一方“売れてるゲーム”ばか...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【Steamの新作ゲームが急増中、「14分に1本」出る超過密ペースに。一方“売れてるゲーム”ばか...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260903-464837/",
+        "date": "2026-09-03",
+        "is_translated": false
+      },
+      {
+        "title": "【“リアルすぎ”ボディカム視点FPS『Bodycam』、Steam同接「3万人」に急上昇。塹壕マ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【“リアルすぎ”ボディカム視点FPS『Bodycam』、Steam同接「3万人」に急上昇。塹壕マ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260903-464826/",
+        "date": "2026-09-03",
+        "is_translated": false
+      },
+      {
+        "title": "【Gigabyte GO27Q24A Review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Gigabyte GO27Q24A Review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/gigabyte-go27q24a-review/",
+        "date": "2026-09-03",
+        "is_translated": true
+      },
+      {
+        "title": "【Corsair HS35 v3 review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Corsair HS35 v3 review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-headsets/corsair-hs35-v3-review/",
+        "date": "2026-09-03",
+        "is_translated": true
+      },
+      {
+        "title": "【The Witcher Remake is currently on the back bur...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【The Witcher Remake is currently on the back bur...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-witcher-remake-is-currently-on-the-back-burner-because-progress-on-it-depends-on-the-witcher-4s-development-cd-projekt-red-confirm",
+        "date": "2026-09-03",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-03T02:58:39.938732"
+  "last_updated": "2026-09-03T13:15:14.036188"
 }
