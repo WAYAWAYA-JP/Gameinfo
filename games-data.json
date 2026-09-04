@@ -254,6 +254,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/builtdifferentlybuildergames_bundle",
         "date": "2026-09-03"
+      },
+      {
+        "title": "Narrative Masterpieces",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Narrative MasterpiecesのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/narrativemasterpieces_bundle",
+        "date": "2026-09-04"
       }
     ],
     "sale": [
@@ -1531,8 +1543,21 @@
         "url": "https://www.rockpapershotgun.com/moonlighter-2-the-endless-vault-review-a-pleasant-bout-of-number-go-up-thats-most-remarkable-for-how-much-of-an-improvement-it-is",
         "date": "2026-09-04",
         "is_translated": true
+      },
+      {
+        "title": "【Moonlighter 2: The Endless Vault review – a ple...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Moonlighter 2: The Endless Vault review – a ple...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/moonlighter-2-the-endless-vault-review-a-pleasant-bout-of-number-go-up-thats-most-remarkable-for-how-much-of-an-improvement-it-is",
+        "date": "2026-09-04",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-04T16:06:56.857561"
+  "last_updated": "2026-09-04T22:47:27.164551"
 }
