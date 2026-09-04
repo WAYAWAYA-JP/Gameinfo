@@ -544,6 +544,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-09-04"
+      },
+      {
+        "title": "Hogwarts Legacy",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Hogwarts LegacyがVariousで-92%セール中です。",
+        "price": "$4.80",
+        "originalPrice": "",
+        "discount": "-92%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Onimusha: Way of the Sword",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Onimusha: Way of the SwordがVariousで-18%セール中です。",
+        "price": "$57.37",
+        "originalPrice": "",
+        "discount": "-18%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/onimusha-way-of-the-sword/info/",
+        "date": "2026-09-04"
       }
     ],
     "review": [
@@ -1365,8 +1389,112 @@
         "url": "https://doope.jp/2026/09170496.html",
         "date": "2026-09-03",
         "is_translated": false
+      },
+      {
+        "title": "【人気ゲーム開発者が自ら、“Metacritic対抗”レビューサイトを立ち上げ。「メディアよりユ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【人気ゲーム開発者が自ら、“Metacritic対抗”レビューサイトを立ち上げ。「メディアよりユ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260904-465240/",
+        "date": "2026-09-04",
+        "is_translated": false
+      },
+      {
+        "title": "【『鬼武者 Way of the Sword』、Steam同接「4万超え」で圧倒的盛況の滑り出し...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『鬼武者 Way of the Sword』、Steam同接「4万超え」で圧倒的盛況の滑り出し...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/onimusha-way-of-the-sword-20260904-465220/",
+        "date": "2026-09-04",
+        "is_translated": false
+      },
+      {
+        "title": "【「3人×4チーム」乱戦PvPvEアクション『Project ZETA』、“新プレイテスト”が今...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【「3人×4チーム」乱戦PvPvEアクション『Project ZETA』、“新プレイテスト”が今...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260904-465199/",
+        "date": "2026-09-04",
+        "is_translated": false
+      },
+      {
+        "title": "【独裁国家タワーディフェンス『絶対ロケット防衛主義』着実に評価集める好調スタート。ロケット発射の...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【独裁国家タワーディフェンス『絶対ロケット防衛主義』着実に評価集める好調スタート。ロケット発射の...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260904-465182/",
+        "date": "2026-09-04",
+        "is_translated": false
+      },
+      {
+        "title": "【新作『バンドリ！ アワーノーツ』リリース日決定特番が配信決定！ キャスト陣による実機プレイも】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【新作『バンドリ！ アワーノーツ』リリース日決定特番が配信決定！ キャスト陣による実機プレイも】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/04/187283.html",
+        "date": "2026-09-04",
+        "is_translated": false
+      },
+      {
+        "title": "【Xgimi Titan Noir Max review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Xgimi Titan Noir Max review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/xgimi-titan-noir-max-review/",
+        "date": "2026-09-04",
+        "is_translated": true
+      },
+      {
+        "title": "【I’m an ethical muncher in The Blood of Dawnwalk...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【I’m an ethical muncher in The Blood of Dawnwalk...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/im-an-ethical-muncher-in-the-blood-of-dawnwalker-which-means-ive-forced-poor-coen-to-slurp-up-nine-million-rats",
+        "date": "2026-09-04",
+        "is_translated": true
+      },
+      {
+        "title": "【After 2 Hours, Exodus Feels Like the Second Com...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【After 2 Hours, Exodus Feels Like the Second Com...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/exodus-preview-hands-on/",
+        "date": "2026-09-04",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-04T02:57:34.064695"
+  "last_updated": "2026-09-04T13:09:27.245665"
 }
