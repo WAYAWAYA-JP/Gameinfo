@@ -40,18 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "In Your World VR Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "In Your World VR BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/inyourworldvrbundle_bundle",
-        "date": "2026-08-25"
-      },
-      {
         "title": "Awesome Indie Adventures",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -269,66 +257,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "ホグワーツ・レガシー",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ホグワーツ・レガシーがSteamで90% OFFセール中です。",
-        "price": "¥877",
-        "originalPrice": "¥8,778",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/990080",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Rival Stars Horse Racing: Desktop Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Rival Stars Horse Racing: Desktop EditionがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/rival-stars-horse-racing-desktop-edition/info/",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Hogwarts Legacy",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Hogwarts LegacyがVariousで-90%セール中です。",
-        "price": "$5.99",
-        "originalPrice": "",
-        "discount": "-90%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "METAL GEAR SOLID: MASTER COLLECTION Vol.2がVariousで-23%セール中です。",
-        "price": "$38.39",
-        "originalPrice": "",
-        "discount": "-23%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/metal-gear-solid-master-collection-vol-2/info/",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Breathedge",
-        "platform": "Various",
-        "type": "sale",
-        "description": "BreathedgeがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/breathedge/info/",
-        "date": "2026-08-28"
-      },
       {
         "title": "No Man's Sky",
         "platform": "Various",
@@ -592,87 +520,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/rain-world/info/",
         "date": "2026-09-03"
+      },
+      {
+        "title": "デジモンストーリー サイバースルゥース ハッカーズメモリー",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "デジモンストーリー サイバースルゥース ハッカーズメモリーがSteamで90% OFFセール中です。",
+        "price": "¥748",
+        "originalPrice": "¥7,480",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1042550",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Cyberpunk 2077がVariousで-70%セール中です。",
+        "price": "$17.99",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
+        "date": "2026-09-04"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料『NTE』新実装の「重機仕事」と「ビーチバレー」は、やり込むと結構ガチ。では、“...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料『NTE』新実装の「重機仕事」と「ビーチバレー」は、やり込むと結構ガチ。では、“...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260830-464020/",
-        "date": "2026-08-30",
-        "is_translated": false
-      },
-      {
-        "title": "【『Big Walk』は一瞬一瞬がフレンドとのかけがえない思い出。『Neon Abyss 2』は...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『Big Walk』は一瞬一瞬がフレンドとのかけがえない思い出。『Neon Abyss 2』は...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260830-464113/",
-        "date": "2026-08-30",
-        "is_translated": false
-      },
-      {
-        "title": "【ドラゴンボールMOBA『ドラゴンボール ゲキシン スクアドラ』、年末に「見下ろし」から「三人称...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【ドラゴンボールMOBA『ドラゴンボール ゲキシン スクアドラ』、年末に「見下ろし」から「三人称...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260830-464068/",
-        "date": "2026-08-30",
-        "is_translated": false
-      },
-      {
-        "title": "【白泥温泉に不謹慎サンタ、ジャグジーでゼロ距離…！？体験版とは思えない糖度でお紳士の理性が溶けた...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【白泥温泉に不謹慎サンタ、ジャグジーでゼロ距離…！？体験版とは思えない糖度でお紳士の理性が溶けた...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/08/30/186971.html",
-        "date": "2026-08-30",
-        "is_translated": false
-      },
-      {
-        "title": "【Total War: Warhammer 40,000 が Gamescom で最優秀 PC ...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Total War: Warhammer 40,000 が Gamescom で最優秀 PC ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/strategy/total-war-warhammer-40-000-wins-best-pc-game-at-gamescom/",
-        "date": "2026-08-30",
-        "is_translated": true
-      },
-      {
-        "title": "【HoYoverse's 'Elden Ring Meets Monster Hunter' A...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【HoYoverse's 'Elden Ring Meets Monster Hunter' A...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/nodusfall-preview-gamescom-2026/",
-        "date": "2026-08-30",
-        "is_translated": true
-      },
       {
         "title": "【“P.T.”にインスパイアされた探索セクションを含む「Clive Barker’s Hellr...：レビュー】",
         "platform": "doope!",
@@ -713,19 +587,6 @@
         "is_translated": false
       },
       {
-        "title": "【「ウィッチャー3 ワイルドハント: 追憶の調べ」の本格的な公式プレビュー映像が公開、素敵なサウ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「ウィッチャー3 ワイルドハント: 追憶の調べ」の本格的な公式プレビュー映像が公開、素敵なサウ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/08170275.html",
-        "date": "2026-08-30",
-        "is_translated": false
-      },
-      {
         "title": "【『The Expanse: Osiris Reborn』はビデオゲーム史上最高のアニメ化作品のようだ：レビュー】",
         "platform": "Polygon",
         "type": "review",
@@ -736,19 +597,6 @@
         "deadline": "",
         "url": "https://www.polygon.com/expanse-osiris-reborn-gamescom-preview-2026/",
         "date": "2026-08-31",
-        "is_translated": true
-      },
-      {
-        "title": "【HoYverse の「エルデン リングとモンスター ハンターの融合」は実際にはファイナルファン...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【HoYverse の「エルデン リングとモンスター ハンターの融合」は実際にはファイナルファン...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/nodusfall-preview-gamescom-2026/",
-        "date": "2026-08-30",
         "is_translated": true
       },
       {
@@ -1439,8 +1287,86 @@
         "url": "https://doope.jp/2026/09170426.html",
         "date": "2026-09-03",
         "is_translated": false
+      },
+      {
+        "title": "【基本無料・ブッ飛び戦車PvP『Tyr』、さっそく「非常に好評」の熱い人気。“特殊能力”で瞬間移...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本無料・ブッ飛び戦車PvP『Tyr』、さっそく「非常に好評」の熱い人気。“特殊能力”で瞬間移...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/tyr-20260904-465083/",
+        "date": "2026-09-04",
+        "is_translated": false
+      },
+      {
+        "title": "【XBOXのクラウドゲーミングに「プレイ時間上限」導入へ、Ultimateで月15時間。一方「ゲ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【XBOXのクラウドゲーミングに「プレイ時間上限」導入へ、Ultimateで月15時間。一方「ゲ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260904-465058/",
+        "date": "2026-09-04",
+        "is_translated": false
+      },
+      {
+        "title": "【Update：「ボーダーランズ4」に参戦する新ヴォルト・ハンター“ラブレス”の短編アニメとゲー...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Update：「ボーダーランズ4」に参戦する新ヴォルト・ハンター“ラブレス”の短編アニメとゲー...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170426.html",
+        "date": "2026-09-04",
+        "is_translated": false
+      },
+      {
+        "title": "【「ボーダーランズ4」の最新ウィークリー・アクティビティが解禁：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「ボーダーランズ4」の最新ウィークリー・アクティビティが解禁：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170475.html",
+        "date": "2026-09-04",
+        "is_translated": false
+      },
+      {
+        "title": "【映画“ハロウィン”シリーズをビデオゲーム化する「Halloween: The Game」のロー...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【映画“ハロウィン”シリーズをビデオゲーム化する「Halloween: The Game」のロー...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170485.html",
+        "date": "2026-09-03",
+        "is_translated": false
+      },
+      {
+        "title": "【新チャンピオン“ラックス”のゲームプレイを紹介する「2XKO」の新トレーラーが公開、解禁は9月9日】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【新チャンピオン“ラックス”のゲームプレイを紹介する「2XKO」の新トレーラーが公開、解禁は9月9日】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170496.html",
+        "date": "2026-09-03",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-03T22:59:32.131647"
+  "last_updated": "2026-09-04T02:57:34.064695"
 }
