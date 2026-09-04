@@ -568,6 +568,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/onimusha-way-of-the-sword/info/",
         "date": "2026-09-04"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "StrayがVariousで-50%セール中です。",
+        "price": "$14.95",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-09-04"
       }
     ],
     "review": [
@@ -1493,8 +1505,34 @@
         "url": "https://www.polygon.com/exodus-preview-hands-on/",
         "date": "2026-09-04",
         "is_translated": true
+      },
+      {
+        "title": "【「その批判は正当である」: Gamescom、開発者のハードウェア盗難に対する冷酷な対応を謝罪：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【「その批判は正当である」: Gamescom、開発者のハードウェア盗難に対する冷酷な対応を謝罪：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/events-conferences/that-criticism-is-justified-gamescom-apologizes-for-its-callous-response-to-developer-hardware-thefts/",
+        "date": "2026-09-04",
+        "is_translated": true
+      },
+      {
+        "title": "【Moonlighter 2: The Endless Vault レビュー – 数字が上がる楽...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Moonlighter 2: The Endless Vault レビュー – 数字が上がる楽...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/moonlighter-2-the-endless-vault-review-a-pleasant-bout-of-number-go-up-thats-most-remarkable-for-how-much-of-an-improvement-it-is",
+        "date": "2026-09-04",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-04T13:09:27.245665"
+  "last_updated": "2026-09-04T16:06:56.857561"
 }
