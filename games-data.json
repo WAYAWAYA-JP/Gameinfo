@@ -592,6 +592,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/alone-with-you/info/",
         "date": "2026-09-05"
+      },
+      {
+        "title": "Beach Invasion 1944",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Beach Invasion 1944がVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/beach-invasion-1944/info/",
+        "date": "2026-09-05"
       }
     ],
     "review": [
@@ -1494,5 +1506,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-05T14:56:40.014480"
+  "last_updated": "2026-09-05T22:39:09.350531"
 }
