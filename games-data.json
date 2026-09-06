@@ -218,6 +218,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/narrativemasterpieces_bundle",
         "date": "2026-09-04"
+      },
+      {
+        "title": "Shantae & Heroic Heroines",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Shantae & Heroic HeroinesのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/shantaeheroicheroines_bundle",
+        "date": "2026-09-06"
       }
     ],
     "sale": [
@@ -556,6 +568,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/beach-invasion-1944/info/",
         "date": "2026-09-05"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "No Man's SkyがVariousで-68%セール中です。",
+        "price": "$18.95",
+        "originalPrice": "",
+        "discount": "-68%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-09-06"
       }
     ],
     "review": [
@@ -1208,8 +1232,21 @@
         "url": "https://www.rockpapershotgun.com/im-an-ethical-muncher-in-the-blood-of-dawnwalker-which-means-ive-forced-poor-coen-to-slurp-up-nine-million-rats",
         "date": "2026-09-04",
         "is_translated": true
+      },
+      {
+        "title": "【『ほの暮しの庭』が本当によかった（ネタバレなし）。『ファイナルファンタジー レゾナンス』体験版...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ほの暮しの庭』が本当によかった（ネタバレなし）。『ファイナルファンタジー レゾナンス』体験版...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260906-465443/",
+        "date": "2026-09-06",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-06T02:58:26.685888"
+  "last_updated": "2026-09-06T12:37:22.507871"
 }
