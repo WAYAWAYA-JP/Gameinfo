@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-09-06"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33がVariousで-20%セール中です。",
+        "price": "$39.95",
+        "originalPrice": "",
+        "discount": "-20%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-09-06"
       }
     ],
     "review": [
@@ -1248,5 +1260,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-06T12:37:22.507871"
+  "last_updated": "2026-09-06T15:16:56.646618"
 }
