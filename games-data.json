@@ -544,6 +544,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
         "date": "2026-09-07"
+      },
+      {
+        "title": "PRAGMATA",
+        "platform": "Various",
+        "type": "sale",
+        "description": "PRAGMATAがVariousで-20%セール中です。",
+        "price": "$47.99",
+        "originalPrice": "",
+        "discount": "-20%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/pragmata/info/",
+        "date": "2026-09-07"
       }
     ],
     "review": [
@@ -1183,8 +1195,34 @@
         "url": "https://www.polygon.com/shroom-gloom-new-deckbuilder-2026-preview/",
         "date": "2026-09-07",
         "is_translated": true
+      },
+      {
+        "title": "【アニメ“アバター 伝説の少年アン”の新作格闘ゲーム「Avatar Legends: The F...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【アニメ“アバター 伝説の少年アン”の新作格闘ゲーム「Avatar Legends: The F...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170609.html",
+        "date": "2026-09-07",
+        "is_translated": false
+      },
+      {
+        "title": "【スカフオメガのレビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【スカフオメガのレビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/controllers/scuf-omega-review/",
+        "date": "2026-09-07",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-07T14:47:15.990006"
+  "last_updated": "2026-09-07T17:37:47.545285"
 }
