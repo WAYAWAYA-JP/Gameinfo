@@ -556,6 +556,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/pragmata/info/",
         "date": "2026-09-07"
+      },
+      {
+        "title": "Monster Hunter Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Monster Hunter WildsがVariousで-33%セール中です。",
+        "price": "$26.99",
+        "originalPrice": "",
+        "discount": "-33%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
+        "date": "2026-09-07"
+      },
+      {
+        "title": "Control Ultimate Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Control Ultimate EditionがVariousで-90%セール中です。",
+        "price": "$3.99",
+        "originalPrice": "",
+        "discount": "-90%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/control-ultimate-edition/info/",
+        "date": "2026-09-07"
       }
     ],
     "review": [
@@ -1221,8 +1245,21 @@
         "url": "https://www.pcgamer.com/hardware/controllers/scuf-omega-review/",
         "date": "2026-09-07",
         "is_translated": true
+      },
+      {
+        "title": "【Scuf Omega review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Scuf Omega review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/controllers/scuf-omega-review/",
+        "date": "2026-09-07",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-07T17:37:47.545285"
+  "last_updated": "2026-09-07T23:17:47.424981"
 }
