@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "PAX West 2026 Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "PAX West 2026 BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/paxwest2026bundle_bundle",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "HHWaifu Love Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "HHWaifu Love BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/waifu-love-bundle",
-        "date": "2026-08-28"
-      },
-      {
         "title": "Yes Chef! - Cooking Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,66 +209,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Control Ultimate Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Control Ultimate EditionがSteamで90% OFFセール中です。",
-        "price": "¥450",
-        "originalPrice": "¥4,500",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/870780",
-        "date": "2026-08-31"
-      },
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストがSteamで56% OFFセール中です。",
-        "price": "¥2,851",
-        "originalPrice": "¥6,480",
-        "discount": "56% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-08-31"
-      },
-      {
-        "title": "Microsoft Flight Simulator Suite: Themes Reimagined",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Microsoft Flight Simulator Suite: Themes ReimaginedがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/microsoft-flight-simulator-suite-themes-reimagined/info/",
-        "date": "2026-08-31"
-      },
-      {
-        "title": "Lies Of P",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Lies Of PがVariousで-50%セール中です。",
-        "price": "$30.00",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/lies-of-p/info/",
-        "date": "2026-08-31"
-      },
-      {
-        "title": "Disco Elysium - The Final Cut",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Disco Elysium - The Final CutがVariousで-79%セール中です。",
-        "price": "$8.44",
-        "originalPrice": "",
-        "discount": "-79%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
-        "date": "2026-08-31"
-      },
       {
         "title": "Terraria",
         "platform": "Steam",
@@ -595,123 +511,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【解禁が迫る「ウィッチャー3 ワイルドハント」リマスターは既存のセーブデータでプレイ可能、ウィッ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【解禁が迫る「ウィッチャー3 ワイルドハント」リマスターは既存のセーブデータでプレイ可能、ウィッ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170353.html",
-        "date": "2026-09-02",
-        "is_translated": false
-      },
-      {
-        "title": "【『マリオカート8 デラックス』がスイッチ2に対応！高精細やロード時間短縮、いろいろとカオスな“...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【『マリオカート8 デラックス』がスイッチ2に対応！高精細やロード時間短縮、いろいろとカオスな“...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/09/02/187125.html",
-        "date": "2026-09-02",
-        "is_translated": false
-      },
-      {
-        "title": "【「HUNTER×HUNTER」G.I.編のアイテム「聖騎士の首飾り」本格アクセサリーが予約実施...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【「HUNTER×HUNTER」G.I.編のアイテム「聖騎士の首飾り」本格アクセサリーが予約実施...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/09/02/187121.html",
-        "date": "2026-09-02",
-        "is_translated": false
-      },
-      {
-        "title": "【なんとWikipedia公式の「デジタルカードゲーム」発表、無料公開。ターザンからインド大統領...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【なんとWikipedia公式の「デジタルカードゲーム」発表、無料公開。ターザンからインド大統領...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260902-464691/",
-        "date": "2026-09-02",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料・街オープンワールド『NTE』では、“未開放エリア”にもアプデのヒントあり。みな...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料・街オープンワールド『NTE』では、“未開放エリア”にもアプデのヒントあり。みな...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260902-464617/",
-        "date": "2026-09-02",
-        "is_translated": false
-      },
-      {
-        "title": "【レゴ スカイラインを少しプレイした後では、交通渋滞よりも装飾を重視する人向けの街づくりゲームの...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【レゴ スカイラインを少しプレイした後では、交通渋滞よりも装飾を重視する人向けの街づくりゲームの...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/city-builder/after-playing-a-bit-of-lego-skylines-it-seems-like-a-city-builder-for-people-who-care-less-about-traffic-jams-and-more-about-decorating/",
-        "date": "2026-09-02",
-        "is_translated": true
-      },
-      {
-        "title": "【Frictional Gamesが開発を手がけるSci-Fi実存ホラー「ONTOS」の10分に...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【Frictional Gamesが開発を手がけるSci-Fi実存ホラー「ONTOS」の10分に...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170350.html",
-        "date": "2026-09-02",
-        "is_translated": false
-      },
-      {
-        "title": "【PS5とXBOX Series X|S版「Teardown」のマルチプレイヤーアップデート配信...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【PS5とXBOX Series X|S版「Teardown」のマルチプレイヤーアップデート配信...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170404.html",
-        "date": "2026-09-02",
-        "is_translated": false
-      },
-      {
-        "title": "【『アナザーエデン ビギンズ』無料体験版が配信開始！メインストーリー第6章までプレイでき、セーブ...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【『アナザーエデン ビギンズ』無料体験版が配信開始！メインストーリー第6章までプレイでき、セーブ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/09/03/187167.html",
-        "date": "2026-09-02",
-        "is_translated": false
-      },
       {
         "title": "【「デモ版600万プレイ」3人マルチ爆弾解除『BOMBANANA!』、同接1万2000人の大盛況...】",
         "platform": "AUTOMATON",
@@ -1257,8 +1056,34 @@
         "url": "https://automaton-media.com/articles/now-gaming/20260906-465443/",
         "date": "2026-09-06",
         "is_translated": false
+      },
+      {
+        "title": "【日本語ローカライズの正式実装を含む「Mewgenics」の最新アップデートが遂に配信、コンソー...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【日本語ローカライズの正式実装を含む「Mewgenics」の最新アップデートが遂に配信、コンソー...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170487.html",
+        "date": "2026-09-07",
+        "is_translated": false
+      },
+      {
+        "title": "【F2Pマルチプレイヤー戦車シューティング「Tyr」の早期アクセス版が発売、ローンチトレーラーも】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【F2Pマルチプレイヤー戦車シューティング「Tyr」の早期アクセス版が発売、ローンチトレーラーも】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170551.html",
+        "date": "2026-09-07",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-06T22:42:41.958984"
+  "last_updated": "2026-09-07T02:56:08.610636"
 }
