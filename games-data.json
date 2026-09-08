@@ -520,6 +520,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/monster-hunter-world/info/",
         "date": "2026-09-08"
+      },
+      {
+        "title": "Disco Elysium - The Final Cut",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Disco Elysium - The Final CutがVariousで-76%セール中です。",
+        "price": "$9.69",
+        "originalPrice": "",
+        "discount": "-76%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
+        "date": "2026-09-08"
       }
     ],
     "review": [
@@ -1055,8 +1067,73 @@
         "url": "https://automaton-media.com/articles/newsjp/20260908-465765/",
         "date": "2026-09-08",
         "is_translated": false
+      },
+      {
+        "title": "【『ゼルダの伝説 時のオカリナ』フルリメイク、今年11月5日発売へ。とうとうゲームプレイ披露、「...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ゼルダの伝説 時のオカリナ』フルリメイク、今年11月5日発売へ。とうとうゲームプレイ披露、「...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260908-465851/",
+        "date": "2026-09-08",
+        "is_translated": false
+      },
+      {
+        "title": "【ローグライト横スクロールアクション「Absolum」のモバイル対応がアナウンス、発売は2026...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【ローグライト横スクロールアクション「Absolum」のモバイル対応がアナウンス、発売は2026...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170633.html",
+        "date": "2026-09-08",
+        "is_translated": false
+      },
+      {
+        "title": "【ローグライク採掘サバイバル「Dome Keeper」のモバイル対応がアナウンス、配信はまもなく：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【ローグライク採掘サバイバル「Dome Keeper」のモバイル対応がアナウンス、配信はまもなく：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170628.html",
+        "date": "2026-09-08",
+        "is_translated": false
+      },
+      {
+        "title": "【Valheim 1.0 レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Valheim 1.0 レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/survival-crafting/valheim-review/",
+        "date": "2026-09-08",
+        "is_translated": true
+      },
+      {
+        "title": "【NBA 2K27 は、GPU の LeBron で実行されている限り、DLSS 5 に懸念され...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【NBA 2K27 は、GPU の LeBron で実行されている限り、DLSS 5 に懸念され...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/nba-2k27-gives-dlss-5-a-more-faithful-looking-game-debut-than-feared-provided-its-running-on-the-lebron-of-gpus",
+        "date": "2026-09-08",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-08T13:19:37.860181"
+  "last_updated": "2026-09-08T16:24:39.370667"
 }
