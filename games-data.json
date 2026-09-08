@@ -182,6 +182,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/shantaeheroicheroines_bundle",
         "date": "2026-09-06"
+      },
+      {
+        "title": "Yes Chef! - Cooking Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Yes Chef! - Cooking BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/yeschefcookingbundle_bundle",
+        "date": "2026-09-08"
       }
     ],
     "sale": [
@@ -471,6 +483,42 @@
         "discount": "75% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/2050650",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "Atomic Heart",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Atomic HeartがVariousで-80%セール中です。",
+        "price": "$11.99",
+        "originalPrice": "",
+        "discount": "-80%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/atomic-heart/info/",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "Resident Evil Requiem",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Resident Evil RequiemがVariousで-41%セール中です。",
+        "price": "$41.64",
+        "originalPrice": "",
+        "discount": "-41%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "Monster Hunter: World",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Monster Hunter: WorldがVariousで-77%セール中です。",
+        "price": "$7.02",
+        "originalPrice": "",
+        "discount": "-77%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/monster-hunter-world/info/",
         "date": "2026-09-08"
       }
     ],
@@ -981,8 +1029,34 @@
         "url": "https://doope.jp/2026/09170613.html",
         "date": "2026-09-07",
         "is_translated": false
+      },
+      {
+        "title": "【キャラガチャなし基本プレイ無料『デュエットナイトアビス』新大型アプデは「なんか急に怖い」。廃墟...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【キャラガチャなし基本プレイ無料『デュエットナイトアビス』新大型アプデは「なんか急に怖い」。廃墟...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260908-465747/",
+        "date": "2026-09-08",
+        "is_translated": false
+      },
+      {
+        "title": "【ファンタジー工場自動化シム『Alchemy Factory』正式リリース、効率化の魔の手が「お...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【ファンタジー工場自動化シム『Alchemy Factory』正式リリース、効率化の魔の手が「お...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260908-465765/",
+        "date": "2026-09-08",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-08T03:05:55.796662"
+  "last_updated": "2026-09-08T13:19:37.860181"
 }
