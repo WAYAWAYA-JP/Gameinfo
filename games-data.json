@@ -532,6 +532,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
         "date": "2026-09-08"
+      },
+      {
+        "title": "Ready or Not",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Ready or NotがSteamで50% OFFセール中です。",
+        "price": "¥3,575",
+        "originalPrice": "¥7,150",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1144200",
+        "date": "2026-09-08"
       }
     ],
     "review": [
@@ -1132,8 +1144,21 @@
         "url": "https://www.rockpapershotgun.com/nba-2k27-gives-dlss-5-a-more-faithful-looking-game-debut-than-feared-provided-its-running-on-the-lebron-of-gpus",
         "date": "2026-09-08",
         "is_translated": true
+      },
+      {
+        "title": "【NBA 2K27 gives DLSS 5 a more faithful-looking g...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【NBA 2K27 gives DLSS 5 a more faithful-looking g...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/nba-2k27-gives-dlss-5-a-more-faithful-looking-game-debut-than-feared-provided-its-running-on-the-lebron-of-gpus",
+        "date": "2026-09-08",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-08T16:24:39.370667"
+  "last_updated": "2026-09-08T23:12:29.406623"
 }
