@@ -508,6 +508,30 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/1144200",
         "date": "2026-09-08"
+      },
+      {
+        "title": "The Blood of Dawnwalker",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Blood of DawnwalkerがVariousで-12%セール中です。",
+        "price": "$61.47",
+        "originalPrice": "",
+        "discount": "-12%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-blood-of-dawnwalker/info/",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Deep Rock Galactic",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Deep Rock GalacticがVariousで-70%セール中です。",
+        "price": "$8.99",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/deep-rock-galactic/info/",
+        "date": "2026-09-09"
       }
     ],
     "review": [
@@ -965,8 +989,21 @@
         "url": "https://doope.jp/2026/09170595.html",
         "date": "2026-09-09",
         "is_translated": false
+      },
+      {
+        "title": "【プレイヤーが所有可能な宇宙ステーションや恒星、星系マップを導入する「No Man’s Sky」...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【プレイヤーが所有可能な宇宙ステーションや恒星、星系マップを導入する「No Man’s Sky」...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170601.html",
+        "date": "2026-09-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-09T13:24:21.190120"
+  "last_updated": "2026-09-09T16:20:43.109494"
 }
