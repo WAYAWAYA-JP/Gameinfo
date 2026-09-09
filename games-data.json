@@ -532,6 +532,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/deep-rock-galactic/info/",
         "date": "2026-09-09"
+      },
+      {
+        "title": "Black Myth: Wukong",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Black Myth: WukongがVariousで-33%セール中です。",
+        "price": "$40.19",
+        "originalPrice": "",
+        "discount": "-33%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/black-myth-wukong/info/",
+        "date": "2026-09-09"
       }
     ],
     "review": [
@@ -1005,5 +1017,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-09T16:20:43.109494"
+  "last_updated": "2026-09-09T22:57:01.401413"
 }
