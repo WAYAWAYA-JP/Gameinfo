@@ -194,6 +194,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/yeschefcookingbundle_bundle",
         "date": "2026-09-08"
+      },
+      {
+        "title": "Pixel Traditions Bundle 4",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Pixel Traditions Bundle 4のバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/pixel-traditions4-bundle",
+        "date": "2026-09-09"
       }
     ],
     "sale": [
@@ -927,8 +939,34 @@
         "url": "https://doope.jp/2026/09170643.html",
         "date": "2026-09-08",
         "is_translated": false
+      },
+      {
+        "title": "【オリジナルを再現した『東方紅魔郷: Classic』、なぜか2002年リリースの原作『東方紅魔...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【オリジナルを再現した『東方紅魔郷: Classic』、なぜか2002年リリースの原作『東方紅魔...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260909-466051/",
+        "date": "2026-09-09",
+        "is_translated": false
+      },
+      {
+        "title": "【「ウィッチャー３ ワイルドハント リマスター」と「追憶の調べ」拡張の最新情報を紹介する“TGS...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「ウィッチャー３ ワイルドハント リマスター」と「追憶の調べ」拡張の最新情報を紹介する“TGS...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170595.html",
+        "date": "2026-09-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-09T03:07:19.217105"
+  "last_updated": "2026-09-09T13:24:21.190120"
 }
