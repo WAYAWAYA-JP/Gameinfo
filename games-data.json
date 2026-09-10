@@ -1,80 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Breathedge",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "BreathedgeがEpic Gamesで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "¥28",
-        "discount": "100% OFF",
-        "deadline": "2026年09月03日まで",
-        "url": "https://store.epicgames.com/ja/p/breathedge",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Rival Stars Horse Racing : Desktop Edition",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "見事でリアルな馬、綿密な繁殖システム、さまざまなエキサイティングなゲーム モードを備えたライバル スターズ ホース レーシングは、競馬ファンに究極のレースと乗馬体験を提供します。手綱を握って馬術界の伝説になろう！",
-        "price": "無料",
-        "originalPrice": "¥24",
-        "discount": "100% OFF",
-        "deadline": "2026年09月03日まで",
-        "url": "https://store.epicgames.com/ja/p/c27af3c6ec3a47afb720e580138de63e",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Alone With You",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "ALONE WITH YOU is a sci-fi point-and-click adventure game that tells a rich story about relationships. You're the last survivor of a doomed space colony, trying to escape a planet before it implodes …",
-        "price": "無料",
-        "originalPrice": "¥9",
-        "discount": "100% OFF",
-        "deadline": "2026年09月10日まで",
-        "url": "https://store.epicgames.com/ja/p/68a0e4e0a68d42ffba405593a89c55ba",
-        "date": "2026-09-03"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Humble 15th Anniversary - Ready Player One ... and Two",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble 15th Anniversary - Ready Player One ... and TwoのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/humble15thanniversaryreadyplayeroneandtwo_bundle",
-        "date": "2026-08-31"
-      },
-      {
-        "title": "Love Letter to Lovecraft",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Love Letter to LovecraftのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/lovelettertolovecraft_bundle",
-        "date": "2026-08-31"
-      },
-      {
-        "title": "Dread and Dark Fantasies RPG Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Dread and Dark Fantasies RPG CollectionのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/dreadanddarkfantasiesrpgcollection_bundle",
-        "date": "2026-08-31"
-      },
       {
         "title": "HHNew Signal Bundle",
         "platform": "IndieGala",
@@ -209,42 +136,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Palworld",
-        "platform": "Various",
-        "type": "sale",
-        "description": "PalworldがVariousで-30%セール中です。",
-        "price": "$20.99",
-        "originalPrice": "",
-        "discount": "-30%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/palworld/info/",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Moonlighter 2: The Endless Vault",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Moonlighter 2: The Endless VaultがVariousで-43%セール中です。",
-        "price": "$17.21",
-        "originalPrice": "",
-        "discount": "-43%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/moonlighter-2-the-endless-vault/info/",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Rain World",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Rain WorldがVariousで-73%セール中です。",
-        "price": "$6.74",
-        "originalPrice": "",
-        "discount": "-73%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/rain-world/info/",
-        "date": "2026-09-03"
-      },
       {
         "title": "デジモンストーリー サイバースルゥース ハッカーズメモリー",
         "platform": "Steam",
@@ -547,97 +438,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料オープンワールド『七つの大罪：Origin』、バン実装で“七つの大罪”が揃ってか...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料オープンワールド『七つの大罪：Origin』、バン実装で“七つの大罪”が揃ってか...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/the-seven-deadly-sins-origin-20260905-465276/",
-        "date": "2026-09-05",
-        "is_translated": false
-      },
-      {
-        "title": "【発売1周年を迎えた「Hell Is Us」の累計プレイヤー数が150万人を突破、最新アップデー...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【発売1周年を迎えた「Hell Is Us」の累計プレイヤー数が150万人を突破、最新アップデー...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170533.html",
-        "date": "2026-09-05",
-        "is_translated": false
-      },
-      {
-        "title": "【「Nivalis Nights」のサイバーパンク都市で過ごす1日を追う新トレーラーが公開、発売...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Nivalis Nights」のサイバーパンク都市で過ごす1日を追う新トレーラーが公開、発売...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170479.html",
-        "date": "2026-09-05",
-        "is_translated": false
-      },
-      {
-        "title": "【新たな非対称PvP殺人鬼ホラー『Halloween: The Game』、まだ“先行アクセス限...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【新たな非対称PvP殺人鬼ホラー『Halloween: The Game』、まだ“先行アクセス限...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260905-465359/",
-        "date": "2026-09-05",
-        "is_translated": false
-      },
-      {
-        "title": "【76歳の『Dead by Daylight』プレイヤーが、84歳の夫に遊び方を熱血指導する動画...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【76歳の『Dead by Daylight』プレイヤーが、84歳の夫に遊び方を熱血指導する動画...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260905-465363/",
-        "date": "2026-09-05",
-        "is_translated": false
-      },
-      {
-        "title": "【ダンジョン探索×コロニー運営シム『ダンジョンセトラーズ』、デモ版の盛況そのまま好評スタート。資...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【ダンジョン探索×コロニー運営シム『ダンジョンセトラーズ』、デモ版の盛況そのまま好評スタート。資...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260905-465350/",
-        "date": "2026-09-05",
-        "is_translated": false
-      },
-      {
-        "title": "【東京ゲームショウが開催迫る！昨年の百花繚乱な美女コンパニオンをプレイバック【写真48枚】】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【東京ゲームショウが開催迫る！昨年の百花繚乱な美女コンパニオンをプレイバック【写真48枚】】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/09/05/187306.html",
-        "date": "2026-09-05",
-        "is_translated": false
-      },
       {
         "title": "【『ほの暮しの庭』が本当によかった（ネタバレなし）。『ファイナルファンタジー レゾナンス』体験版...：レビュー】",
         "platform": "AUTOMATON",
@@ -1014,8 +814,86 @@
         "url": "https://doope.jp/2026/09170601.html",
         "date": "2026-09-09",
         "is_translated": false
+      },
+      {
+        "title": "【『No Man’s Sky』大型アプデで「宇宙空間にも」基地建設が可能に。他プレイヤーと“同盟...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『No Man’s Sky』大型アプデで「宇宙空間にも」基地建設が可能に。他プレイヤーと“同盟...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/no-mans-sky-20260910-466399/",
+        "date": "2026-09-10",
+        "is_translated": false
+      },
+      {
+        "title": "【北欧神話サバイバル『Valheim』正式リリースで「同接17万人」の大盛況。新バイオームに大量...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【北欧神話サバイバル『Valheim』正式リリースで「同接17万人」の大盛況。新バイオームに大量...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260910-466384/",
+        "date": "2026-09-10",
+        "is_translated": false
+      },
+      {
+        "title": "【“Overcooked”を生んだGhost Town Gamesの新作Co-op脱出ゲーム「S...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“Overcooked”を生んだGhost Town Gamesの新作Co-op脱出ゲーム「S...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170706.html",
+        "date": "2026-09-10",
+        "is_translated": false
+      },
+      {
+        "title": "【傑作「It Takes Two」のクロスプレイとNintendo Switch 2対応がアナウンス】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【傑作「It Takes Two」のクロスプレイとNintendo Switch 2対応がアナウンス】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170705.html",
+        "date": "2026-09-10",
+        "is_translated": false
+      },
+      {
+        "title": "【Nintendo Switch 2版「ウィッチャー3 ワイルドハント リマスター」のゲームプレ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Nintendo Switch 2版「ウィッチャー3 ワイルドハント リマスター」のゲームプレ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170684.html",
+        "date": "2026-09-10",
+        "is_translated": false
+      },
+      {
+        "title": "【発売が迫るRemedy Entertainment最新作「CONTROL Resonant」の...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【発売が迫るRemedy Entertainment最新作「CONTROL Resonant」の...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170676.html",
+        "date": "2026-09-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-09T22:57:01.401413"
+  "last_updated": "2026-09-10T03:07:38.409890"
 }
