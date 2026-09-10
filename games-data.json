@@ -556,6 +556,30 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/692569",
         "date": "2026-09-10"
+      },
+      {
+        "title": "DEATH STRANDING DIRECTOR'S CUT",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DEATH STRANDING DIRECTOR'S CUTがSteamで75% OFFセール中です。",
+        "price": "¥1,245",
+        "originalPrice": "¥4,980",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1850570",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "Astral Ascent",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Astral AscentがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/astral-ascent/info/",
+        "date": "2026-09-10"
       }
     ],
     "review": [
@@ -1117,8 +1141,21 @@
         "url": "https://www.rockpapershotgun.com/bargain-with-demons-and-boat-with-the-dead-in-joyful-rpg-heist-quest-anthology-thousand-hells",
         "date": "2026-09-10",
         "is_translated": true
+      },
+      {
+        "title": "【Bargain with demons and boat with the dead in j...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Bargain with demons and boat with the dead in j...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/bargain-with-demons-and-boat-with-the-dead-in-joyful-rpg-heist-quest-anthology-thousand-hells",
+        "date": "2026-09-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-10T16:11:28.063406"
+  "last_updated": "2026-09-10T22:57:02.660063"
 }
