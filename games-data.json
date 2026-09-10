@@ -1,6 +1,19 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Alone With You",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "ALONE WITH YOU は、人間関係についての豊かな物語を伝える SF ポイント アンド クリック アドベンチャー ゲームです。あなたは運命のスペース コロニーの最後の生き残りで、周囲で惑星が爆発する前に脱出を試みています。",
+        "price": "無料",
+        "originalPrice": "¥9",
+        "discount": "100% OFF",
+        "deadline": "2026年09月10日まで",
+        "url": "https://store.epicgames.com/ja/p/68a0e4e0a68d42ffba405593a89c55ba",
+        "date": "2026-09-10"
+      }
+    ],
     "bundle": [
       {
         "title": "HHNew Signal Bundle",
@@ -133,6 +146,54 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/pixel-traditions4-bundle",
         "date": "2026-09-09"
+      },
+      {
+        "title": "Dread and Dark Fantasies RPG Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Dread and Dark Fantasies RPG CollectionのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/dreadanddarkfantasiesrpgcollection_bundle",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "Humble 15th Anniversary - Ready Player One ... and Two",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble 15th Anniversary - Ready Player One ... and TwoのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/humble15thanniversaryreadyplayeroneandtwo_bundle",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "Love Letter to Lovecraft",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Love Letter to LovecraftのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/lovelettertolovecraft_bundle",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "Make & Play Games in Godot",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Make & Play Games in GodotのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/makeplaygamesingodot_softwarebundle",
+        "date": "2026-09-10"
       }
     ],
     "sale": [
@@ -435,6 +496,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/black-myth-wukong/info/",
         "date": "2026-09-09"
+      },
+      {
+        "title": "The Alters",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The AltersがVariousで-58%セール中です。",
+        "price": "$14.81",
+        "originalPrice": "",
+        "discount": "-58%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-alters/info/",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "COCOON",
+        "platform": "Various",
+        "type": "sale",
+        "description": "COCOONがVariousで-67%セール中です。",
+        "price": "$8.27",
+        "originalPrice": "",
+        "discount": "-67%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cocoon/info/",
+        "date": "2026-09-10"
       }
     ],
     "review": [
@@ -892,8 +977,73 @@
         "url": "https://doope.jp/2026/09170676.html",
         "date": "2026-09-09",
         "is_translated": false
+      },
+      {
+        "title": "【『ファイナルファンタジーVII リベレーション』先行プレイ感想。自由に空を飛び、降りた先には高...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ファイナルファンタジーVII リベレーション』先行プレイ感想。自由に空を飛び、降りた先には高...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260910-466642/",
+        "date": "2026-09-10",
+        "is_translated": false
+      },
+      {
+        "title": "【『ファイナルファンタジーVII リベレーション』浜口Dが目指した、“RPGが苦しい現代”ゆえの...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ファイナルファンタジーVII リベレーション』浜口Dが目指した、“RPGが苦しい現代”ゆえの...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/20260910-466625/",
+        "date": "2026-09-10",
+        "is_translated": false
+      },
+      {
+        "title": "【獄中命がけ食事ゲーム『満腹脱獄計画』2027年配信へ。白米から目玉、スープからサメ、美味しく完...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【獄中命がけ食事ゲーム『満腹脱獄計画』2027年配信へ。白米から目玉、スープからサメ、美味しく完...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/full-belly-breakout-20260910-466027/",
+        "date": "2026-09-10",
+        "is_translated": false
+      },
+      {
+        "title": "【『FF7 リベレーション』初試遊と侮っていたら、開始早々に嬉しい悲鳴！約1時間で体験しきれない...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【『FF7 リベレーション』初試遊と侮っていたら、開始早々に嬉しい悲鳴！約1時間で体験しきれない...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/10/187574.html",
+        "date": "2026-09-10",
+        "is_translated": false
+      },
+      {
+        "title": "【FF7 RevelationはFF7 Rebirthの約50万倍の規模 |プレビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【FF7 RevelationはFF7 Rebirthの約50万倍の規模 |プレビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/final-fantasy-7-revelation-preview-gamescom-2026/",
+        "date": "2026-09-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-10T03:07:38.409890"
+  "last_updated": "2026-09-10T13:19:40.954141"
 }
