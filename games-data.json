@@ -12,6 +12,30 @@
         "deadline": "2026年09月10日まで",
         "url": "https://store.epicgames.com/ja/p/68a0e4e0a68d42ffba405593a89c55ba",
         "date": "2026-09-10"
+      },
+      {
+        "title": "Luftrausers",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "The skies are aflame and the seas will overflow with wreckage in Vlambeer’s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and r…",
+        "price": "無料",
+        "originalPrice": "¥9",
+        "discount": "100% OFF",
+        "deadline": "2026年09月17日まで",
+        "url": "https://store.epicgames.com/ja/p/luftrausers",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "Astral Ascent",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『アストラルアセント』は、ファンタジーな世界を舞台とした２Ｄローグライク・アクションアドベンチャーゲームです。４人のキャラクターから主人公を選び、強大な12体の守護者「ゾディアック」に守られた境界の監獄「ガーデン」を攻略していきます。",
+        "price": "無料",
+        "originalPrice": "¥25",
+        "discount": "100% OFF",
+        "deadline": "2026年09月17日まで",
+        "url": "https://store.epicgames.com/ja/p/d72ccf025e574bb4a725e3079ea34081",
+        "date": "2026-09-10"
       }
     ],
     "bundle": [
@@ -519,6 +543,18 @@
         "discount": "-67%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cocoon/info/",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "Monster Hunter Rise + Sunbreak",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Monster Hunter Rise + SunbreakがSteamで84% OFFセール中です。",
+        "price": "¥958",
+        "originalPrice": "¥5,990",
+        "discount": "84% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/692569",
         "date": "2026-09-10"
       }
     ],
@@ -1042,8 +1078,47 @@
         "url": "https://www.polygon.com/final-fantasy-7-revelation-preview-gamescom-2026/",
         "date": "2026-09-10",
         "is_translated": true
+      },
+      {
+        "title": "【Double Fineの愉快なバス運転手ゲーム「Thank You Bus Driver」の発...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Double Fineの愉快なバス運転手ゲーム「Thank You Bus Driver」の発...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170686.html",
+        "date": "2026-09-10",
+        "is_translated": false
+      },
+      {
+        "title": "【コオルイ G2741L レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【コオルイ G2741L レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/koorui-g2741l-review/",
+        "date": "2026-09-10",
+        "is_translated": true
+      },
+      {
+        "title": "【楽しい RPG 強盗クエスト アンソロジー「サウザンド ヘルズ」で悪魔と取引し、死者たちとボー...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【楽しい RPG 強盗クエスト アンソロジー「サウザンド ヘルズ」で悪魔と取引し、死者たちとボー...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/bargain-with-demons-and-boat-with-the-dead-in-joyful-rpg-heist-quest-anthology-thousand-hells",
+        "date": "2026-09-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-10T13:19:40.954141"
+  "last_updated": "2026-09-10T16:11:28.063406"
 }
