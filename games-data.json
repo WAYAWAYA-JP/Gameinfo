@@ -40,54 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "HHNew Signal Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "HHNew Signal BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/new-signal-bundle",
-        "date": "2026-09-01"
-      },
-      {
-        "title": "Handsome Husbandos",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Handsome HusbandosのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/handsomehusbandos_bundle",
-        "date": "2026-09-01"
-      },
-      {
-        "title": "Hamble's Summer Island Getaway Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Hamble's Summer Island Getaway BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/hamblessummerislandgetawaybundle_bundle",
-        "date": "2026-09-01"
-      },
-      {
-        "title": "Horror Station Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Horror Station BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/horror-station-bundle",
-        "date": "2026-09-01"
-      },
-      {
         "title": "Mega Man: Recharged Collection",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -221,66 +173,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "デジモンストーリー サイバースルゥース ハッカーズメモリー",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "デジモンストーリー サイバースルゥース ハッカーズメモリーがSteamで90% OFFセール中です。",
-        "price": "¥748",
-        "originalPrice": "¥7,480",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1042550",
-        "date": "2026-09-04"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Cyberpunk 2077がVariousで-70%セール中です。",
-        "price": "$17.99",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-09-04"
-      },
-      {
-        "title": "Hogwarts Legacy",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Hogwarts LegacyがVariousで-92%セール中です。",
-        "price": "$4.80",
-        "originalPrice": "",
-        "discount": "-92%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
-        "date": "2026-09-04"
-      },
-      {
-        "title": "Onimusha: Way of the Sword",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Onimusha: Way of the SwordがVariousで-18%セール中です。",
-        "price": "$57.37",
-        "originalPrice": "",
-        "discount": "-18%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/onimusha-way-of-the-sword/info/",
-        "date": "2026-09-04"
-      },
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "StrayがVariousで-50%セール中です。",
-        "price": "$14.95",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-09-04"
-      },
       {
         "title": "Whiskerwood ウィスカーウッド",
         "platform": "Steam",
@@ -580,22 +472,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/astral-ascent/info/",
         "date": "2026-09-10"
+      },
+      {
+        "title": "Detroit: Become Human",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Detroit: Become HumanがVariousで-84%セール中です。",
+        "price": "$6.59",
+        "originalPrice": "",
+        "discount": "-84%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
+        "date": "2026-09-11"
       }
     ],
     "review": [
-      {
-        "title": "【『ほの暮しの庭』が本当によかった（ネタバレなし）。『ファイナルファンタジー レゾナンス』体験版...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ほの暮しの庭』が本当によかった（ネタバレなし）。『ファイナルファンタジー レゾナンス』体験版...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260906-465443/",
-        "date": "2026-09-06",
-        "is_translated": false
-      },
       {
         "title": "【日本語ローカライズの正式実装を含む「Mewgenics」の最新アップデートが遂に配信、コンソー...：レビュー】",
         "platform": "doope!",
@@ -1154,8 +1045,47 @@
         "url": "https://www.rockpapershotgun.com/bargain-with-demons-and-boat-with-the-dead-in-joyful-rpg-heist-quest-anthology-thousand-hells",
         "date": "2026-09-10",
         "is_translated": true
+      },
+      {
+        "title": "【大注目の100人対戦FPS『WARDOGS』開幕直後からプレイヤー殺到、一時は「20万人待ち」...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【大注目の100人対戦FPS『WARDOGS』開幕直後からプレイヤー殺到、一時は「20万人待ち」...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260911-466715/",
+        "date": "2026-09-11",
+        "is_translated": false
+      },
+      {
+        "title": "【「Project Espresso」と呼ばれる未発表強盗シューターのベータ参加受付が開始、Ha...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Project Espresso」と呼ばれる未発表強盗シューターのベータ参加受付が開始、Ha...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09167365.html",
+        "date": "2026-09-10",
+        "is_translated": false
+      },
+      {
+        "title": "【David Harbour's Santa Goes Full Hunger Games in...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【David Harbour's Santa Goes Full Hunger Games in...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/violent-night-2-exclusive-preview/",
+        "date": "2026-09-11",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-10T22:57:02.660063"
+  "last_updated": "2026-09-11T03:02:43.017047"
 }
