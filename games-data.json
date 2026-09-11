@@ -170,6 +170,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/makeplaygamesingodot_softwarebundle",
         "date": "2026-09-10"
+      },
+      {
+        "title": "Horror Station Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Horror Station BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/horror-station-bundle",
+        "date": "2026-09-11"
       }
     ],
     "sale": [
@@ -483,6 +495,30 @@
         "discount": "-84%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
+        "date": "2026-09-11"
+      },
+      {
+        "title": "LUFTRAUSERS",
+        "platform": "Various",
+        "type": "sale",
+        "description": "LUFTRAUSERSがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/luftrausers/info/",
+        "date": "2026-09-11"
+      },
+      {
+        "title": "Outer Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Outer WildsがVariousで-53%セール中です。",
+        "price": "$11.85",
+        "originalPrice": "",
+        "discount": "-53%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
         "date": "2026-09-11"
       }
     ],
@@ -1084,8 +1120,60 @@
         "url": "https://www.polygon.com/violent-night-2-exclusive-preview/",
         "date": "2026-09-11",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料『NTE』に新実装の「自転車」は下り坂で時速200～300km出るし、急斜面も登...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料『NTE』に新実装の「自転車」は下り坂で時速200～300km出るし、急斜面も登...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260911-466933/",
+        "date": "2026-09-11",
+        "is_translated": false
+      },
+      {
+        "title": "【物理演算ミサイル“自力誘導”ゲーム『Dumbfire』大注目集めブームの兆し。ぶつかれば爆発、...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【物理演算ミサイル“自力誘導”ゲーム『Dumbfire』大注目集めブームの兆し。ぶつかれば爆発、...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260911-466855/",
+        "date": "2026-09-11",
+        "is_translated": false
+      },
+      {
+        "title": "【「Call of Duty: Black Ops 7」シーズン06マルチプレイヤーのマップ紹介...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Call of Duty: Black Ops 7」シーズン06マルチプレイヤーのマップ紹介...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170597.html",
+        "date": "2026-09-11",
+        "is_translated": false
+      },
+      {
+        "title": "【'Blade Runner 2099' Showrunner Reveals the Sci-...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【'Blade Runner 2099' Showrunner Reveals the Sci-...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/blade-runner-2099-showrunner-interview-preview/",
+        "date": "2026-09-11",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-11T03:02:43.017047"
+  "last_updated": "2026-09-11T13:14:14.745073"
 }
