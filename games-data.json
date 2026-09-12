@@ -568,6 +568,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-09-12"
+      },
+      {
+        "title": "Rust",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "RustがSteamで50% OFFセール中です。",
+        "price": "¥2,300",
+        "originalPrice": "¥4,600",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/252490",
+        "date": "2026-09-12"
       }
     ],
     "review": [
@@ -1194,8 +1206,21 @@
         "url": "https://www.polygon.com/shaun-the-sheep-beast-of-mossy-bottom-preview-image/",
         "date": "2026-09-12",
         "is_translated": true
+      },
+      {
+        "title": "【「ディアブロ IV」の新クラス“アマゾネス”が正式アナウンス、最新シーズン“獄遺継承”の詳細も：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「ディアブロ IV」の新クラス“アマゾネス”が正式アナウンス、最新シーズン“獄遺継承”の詳細も：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170773.html",
+        "date": "2026-09-12",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-12T15:21:41.132230"
+  "last_updated": "2026-09-12T22:51:16.048605"
 }
