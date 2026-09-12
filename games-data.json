@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Mega Man: Recharged Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Mega Man: Recharged CollectionのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/megamanrechargedcollection_bundle",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "CRPG Pack: Isometric Immersion",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "CRPG Pack: Isometric ImmersionのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/crpgpackisometricimmersion_bundle",
-        "date": "2026-09-02"
-      },
-      {
         "title": "Built Differently: Builder Games",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -209,42 +185,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Whiskerwood ウィスカーウッド",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Whiskerwood ウィスカーウッドがSteamで50% OFFセール中です。",
-        "price": "¥1,490",
-        "originalPrice": "¥2,980",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2489330",
-        "date": "2026-09-05"
-      },
-      {
-        "title": "Alone With You",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Alone With YouがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/alone-with-you/info/",
-        "date": "2026-09-05"
-      },
-      {
-        "title": "Beach Invasion 1944",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Beach Invasion 1944がVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/beach-invasion-1944/info/",
-        "date": "2026-09-05"
-      },
       {
         "title": "No Man's Sky",
         "platform": "Various",
@@ -580,139 +520,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/diablo-iv/info/",
         "date": "2026-09-11"
+      },
+      {
+        "title": "WARDOGS",
+        "platform": "Various",
+        "type": "sale",
+        "description": "WARDOGSがVariousで-18%セール中です。",
+        "price": "$32.77",
+        "originalPrice": "",
+        "discount": "-18%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/wardogs/info/",
+        "date": "2026-09-12"
       }
     ],
     "review": [
-      {
-        "title": "【日本語ローカライズの正式実装を含む「Mewgenics」の最新アップデートが遂に配信、コンソー...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【日本語ローカライズの正式実装を含む「Mewgenics」の最新アップデートが遂に配信、コンソー...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170487.html",
-        "date": "2026-09-07",
-        "is_translated": false
-      },
-      {
-        "title": "【F2Pマルチプレイヤー戦車シューティング「Tyr」の早期アクセス版が発売、ローンチトレーラーも】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【F2Pマルチプレイヤー戦車シューティング「Tyr」の早期アクセス版が発売、ローンチトレーラーも】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170551.html",
-        "date": "2026-09-07",
-        "is_translated": false
-      },
-      {
-        "title": "【高評価SFミステリー『ステラーコード』コンソール版発表、今秋リリースへ。『イハナシの魔女』開発...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【高評価SFミステリー『ステラーコード』コンソール版発表、今秋リリースへ。『イハナシの魔女』開発...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260907-465557/",
-        "date": "2026-09-07",
-        "is_translated": false
-      },
-      {
-        "title": "【Sony PicturesとStory Kitchenが「The Drifter」の映画化権を...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【Sony PicturesとStory Kitchenが「The Drifter」の映画化権を...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170584.html",
-        "date": "2026-09-07",
-        "is_translated": false
-      },
-      {
-        "title": "【人気超常ミステリーアドベンチャーシリーズ最新作「The Darkside Detective:...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【人気超常ミステリーアドベンチャーシリーズ最新作「The Darkside Detective:...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170566.html",
-        "date": "2026-09-07",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam 週間のレビュー: 先週 Steam でリリースされた 54 のアイドル ゲーム、そ...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Steam 週間のレビュー: 先週 Steam でリリースされた 54 のアイドル ゲーム、そ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-54-idle-games-released-on-steam-last-week-and-many-look-eerily-similar/",
-        "date": "2026-09-07",
-        "is_translated": true
-      },
-      {
-        "title": "【『Slay the Spire』ファンはアートだけを求めてこの新作をむさぼる必要がある：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【『Slay the Spire』ファンはアートだけを求めてこの新作をむさぼる必要がある：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/shroom-gloom-new-deckbuilder-2026-preview/",
-        "date": "2026-09-07",
-        "is_translated": true
-      },
-      {
-        "title": "【アニメ“アバター 伝説の少年アン”の新作格闘ゲーム「Avatar Legends: The F...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【アニメ“アバター 伝説の少年アン”の新作格闘ゲーム「Avatar Legends: The F...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170609.html",
-        "date": "2026-09-07",
-        "is_translated": false
-      },
-      {
-        "title": "【スカフオメガのレビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【スカフオメガのレビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/controllers/scuf-omega-review/",
-        "date": "2026-09-07",
-        "is_translated": true
-      },
-      {
-        "title": "【Scuf Omega review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Scuf Omega review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/controllers/scuf-omega-review/",
-        "date": "2026-09-07",
-        "is_translated": true
-      },
       {
         "title": "【新たな中毒系サイコロローグライク『ダイス・タバーン』で“最強ビルド”を作って、無双して、叩き潰...：レビュー】",
         "platform": "AUTOMATON",
@@ -737,32 +559,6 @@
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20260908-465669/",
         "date": "2026-09-08",
-        "is_translated": false
-      },
-      {
-        "title": "【「ストリートファイター6」Year4第2弾キャラクター“アルジュン”のゲームプレイトレーラーが...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「ストリートファイター6」Year4第2弾キャラクター“アルジュン”のゲームプレイトレーラーが...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170598.html",
-        "date": "2026-09-07",
-        "is_translated": false
-      },
-      {
-        "title": "【PS5版「Forza Horizon 6」の発売は現在も2026年後半を予定、Playgrou...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【PS5版「Forza Horizon 6」の発売は現在も2026年後半を予定、Playgrou...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170613.html",
-        "date": "2026-09-07",
         "is_translated": false
       },
       {
@@ -1245,8 +1041,60 @@
         "url": "https://www.pcgamer.com/games/action/wolverine-review-roundup-frankly-were-starting-to-feel-a-little-better-about-the-whole-playstation-5-exclusive-thing/",
         "date": "2026-09-11",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料『デュエットナイトアビス』は大型アプデを42日周期に高速化、どう実現するのか訊い...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料『デュエットナイトアビス』は大型アプデを42日周期に高速化、どう実現するのか訊い...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/20260912-466954/",
+        "date": "2026-09-12",
+        "is_translated": false
+      },
+      {
+        "title": "【“Moss”シリーズを生んだ「Polyarc」がスタジオの閉鎖を発表：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“Moss”シリーズを生んだ「Polyarc」がスタジオの閉鎖を発表：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170753.html",
+        "date": "2026-09-12",
+        "is_translated": false
+      },
+      {
+        "title": "【【コスプレ】中国屈指の美女レイヤーがミニ丈の衣装で魅せる！「TGS2025」の『無限大ANAN...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【【コスプレ】中国屈指の美女レイヤーがミニ丈の衣装で魅せる！「TGS2025」の『無限大ANAN...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/12/187648.html",
+        "date": "2026-09-12",
+        "is_translated": false
+      },
+      {
+        "title": "【Wolverine review roundup: Frankly, we're starti...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Wolverine review roundup: Frankly, we're starti...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/wolverine-review-roundup-frankly-were-starting-to-feel-a-little-better-about-the-whole-playstation-5-exclusive-thing/",
+        "date": "2026-09-11",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-11T22:59:14.314382"
+  "last_updated": "2026-09-12T03:09:43.322296"
 }
