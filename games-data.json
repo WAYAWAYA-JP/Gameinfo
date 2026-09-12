@@ -182,6 +182,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/runitbackroguelikes_bundle",
         "date": "2026-09-11"
+      },
+      {
+        "title": "Mega Man: Recharged Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Mega Man: Recharged CollectionのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/megamanrechargedcollection_bundle",
+        "date": "2026-09-12"
+      },
+      {
+        "title": "CRPG Pack: Isometric Immersion",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "CRPG Pack: Isometric ImmersionのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/crpgpackisometricimmersion_bundle",
+        "date": "2026-09-12"
       }
     ],
     "sale": [
@@ -531,6 +555,18 @@
         "discount": "-18%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/wardogs/info/",
+        "date": "2026-09-12"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "StrayがVariousで-61%セール中です。",
+        "price": "$11.82",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-09-12"
       }
     ],
@@ -1093,8 +1129,60 @@
         "url": "https://www.pcgamer.com/games/action/wolverine-review-roundup-frankly-were-starting-to-feel-a-little-better-about-the-whole-playstation-5-exclusive-thing/",
         "date": "2026-09-11",
         "is_translated": true
+      },
+      {
+        "title": "【ホラー×スローライフRPG『Welcome to Elderfield』デモ版の勢いそのまま絶...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【ホラー×スローライフRPG『Welcome to Elderfield』デモ版の勢いそのまま絶...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260912-467055/",
+        "date": "2026-09-12",
+        "is_translated": false
+      },
+      {
+        "title": "【最大6人マルチ対応・アライグマの物理演算ゴミ運び『Trash Day』10月14日配信へ。ゴミ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【最大6人マルチ対応・アライグマの物理演算ゴミ運び『Trash Day』10月14日配信へ。ゴミ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/trash-day-20260912-467043/",
+        "date": "2026-09-12",
+        "is_translated": false
+      },
+      {
+        "title": "【PS5『Marvel’s Wolverine（マーベル ウルヴァリン）』レビュー。『Marve...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【PS5『Marvel’s Wolverine（マーベル ウルヴァリン）』レビュー。『Marve...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/ps5marvels-wolverine-20260912-467016/",
+        "date": "2026-09-12",
+        "is_translated": false
+      },
+      {
+        "title": "【Wallace & Gromit's Overlooked Spinoff Is Offici...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Wallace & Gromit's Overlooked Spinoff Is Offici...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/shaun-the-sheep-beast-of-mossy-bottom-preview-image/",
+        "date": "2026-09-12",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-12T03:09:43.322296"
+  "last_updated": "2026-09-12T12:37:57.198662"
 }
