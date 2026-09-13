@@ -40,18 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Built Differently: Builder Games",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Built Differently: Builder GamesのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/builtdifferentlybuildergames_bundle",
-        "date": "2026-09-03"
-      },
-      {
         "title": "Narrative Masterpieces",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -209,30 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "No Man's SkyがVariousで-68%セール中です。",
-        "price": "$18.95",
-        "originalPrice": "",
-        "discount": "-68%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-09-06"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33がVariousで-20%セール中です。",
-        "price": "$39.95",
-        "originalPrice": "",
-        "discount": "-20%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-09-06"
-      },
       {
         "title": "グランド・セフト・オートV エンハンスト",
         "platform": "Steam",
@@ -580,139 +544,21 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/252490",
         "date": "2026-09-12"
+      },
+      {
+        "title": "Borderlands 4",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Borderlands 4がVariousで-55%セール中です。",
+        "price": "$31.50",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/borderlands-4/info/",
+        "date": "2026-09-13"
       }
     ],
     "review": [
-      {
-        "title": "【新たな中毒系サイコロローグライク『ダイス・タバーン』で“最強ビルド”を作って、無双して、叩き潰...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【新たな中毒系サイコロローグライク『ダイス・タバーン』で“最強ビルド”を作って、無双して、叩き潰...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/columnjp/20260908-465677/",
-        "date": "2026-09-08",
-        "is_translated": false
-      },
-      {
-        "title": "【最大4人協力・泥棒シム『Thief Simulator 3: First Loot』発表。今度...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【最大4人協力・泥棒シム『Thief Simulator 3: First Loot』発表。今度...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260908-465669/",
-        "date": "2026-09-08",
-        "is_translated": false
-      },
-      {
-        "title": "【キャラガチャなし基本プレイ無料『デュエットナイトアビス』新大型アプデは「なんか急に怖い」。廃墟...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【キャラガチャなし基本プレイ無料『デュエットナイトアビス』新大型アプデは「なんか急に怖い」。廃墟...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260908-465747/",
-        "date": "2026-09-08",
-        "is_translated": false
-      },
-      {
-        "title": "【ファンタジー工場自動化シム『Alchemy Factory』正式リリース、効率化の魔の手が「お...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【ファンタジー工場自動化シム『Alchemy Factory』正式リリース、効率化の魔の手が「お...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260908-465765/",
-        "date": "2026-09-08",
-        "is_translated": false
-      },
-      {
-        "title": "【『ゼルダの伝説 時のオカリナ』フルリメイク、今年11月5日発売へ。とうとうゲームプレイ披露、「...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ゼルダの伝説 時のオカリナ』フルリメイク、今年11月5日発売へ。とうとうゲームプレイ披露、「...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260908-465851/",
-        "date": "2026-09-08",
-        "is_translated": false
-      },
-      {
-        "title": "【ローグライト横スクロールアクション「Absolum」のモバイル対応がアナウンス、発売は2026...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【ローグライト横スクロールアクション「Absolum」のモバイル対応がアナウンス、発売は2026...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170633.html",
-        "date": "2026-09-08",
-        "is_translated": false
-      },
-      {
-        "title": "【ローグライク採掘サバイバル「Dome Keeper」のモバイル対応がアナウンス、配信はまもなく：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【ローグライク採掘サバイバル「Dome Keeper」のモバイル対応がアナウンス、配信はまもなく：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170628.html",
-        "date": "2026-09-08",
-        "is_translated": false
-      },
-      {
-        "title": "【Valheim 1.0 レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Valheim 1.0 レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/valheim-review/",
-        "date": "2026-09-08",
-        "is_translated": true
-      },
-      {
-        "title": "【NBA 2K27 は、GPU の LeBron で実行されている限り、DLSS 5 に懸念され...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【NBA 2K27 は、GPU の LeBron で実行されている限り、DLSS 5 に懸念され...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/nba-2k27-gives-dlss-5-a-more-faithful-looking-game-debut-than-feared-provided-its-running-on-the-lebron-of-gpus",
-        "date": "2026-09-08",
-        "is_translated": true
-      },
-      {
-        "title": "【NBA 2K27 gives DLSS 5 a more faithful-looking g...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【NBA 2K27 gives DLSS 5 a more faithful-looking g...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/nba-2k27-gives-dlss-5-a-more-faithful-looking-game-debut-than-feared-provided-its-running-on-the-lebron-of-gpus",
-        "date": "2026-09-08",
-        "is_translated": true
-      },
       {
         "title": "【基本プレイ無料『NTE』新キャラ「リンコ（CV小倉唯さん）」は“ぼっち電波少女”かと思いきやチ...】",
         "platform": "AUTOMATON",
@@ -737,19 +583,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/09170592.html",
         "date": "2026-09-09",
-        "is_translated": false
-      },
-      {
-        "title": "【神殺し“ゴア”の参戦を告げる「Marvel Rivals」シーズン10のゲームプレイトレーラー...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【神殺し“ゴア”の参戦を告げる「Marvel Rivals」シーズン10のゲームプレイトレーラー...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170643.html",
-        "date": "2026-09-08",
         "is_translated": false
       },
       {
@@ -1219,8 +1052,34 @@
         "url": "https://doope.jp/2026/09170773.html",
         "date": "2026-09-12",
         "is_translated": false
+      },
+      {
+        "title": "【街オープンワールド『NTE』は「客を殴って追い出すカフェ」が儲かる。狂ってるけど実用的、今こそ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【街オープンワールド『NTE』は「客を殴って追い出すカフェ」が儲かる。狂ってるけど実用的、今こそ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20260913-467087/",
+        "date": "2026-09-13",
+        "is_translated": false
+      },
+      {
+        "title": "【日本一のコスプレイヤー「えなこ」が、美くびれ＆絶対領域を披露！何度でも見たい「TGS2025」...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【日本一のコスプレイヤー「えなこ」が、美くびれ＆絶対領域を披露！何度でも見たい「TGS2025」...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/13/187679.html",
+        "date": "2026-09-13",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-12T22:51:16.048605"
+  "last_updated": "2026-09-13T03:12:20.170063"
 }
