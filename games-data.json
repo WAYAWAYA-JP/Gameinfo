@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/borderlands-4/info/",
         "date": "2026-09-13"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "No Man's SkyがSteamで60% OFFセール中です。",
+        "price": "¥2,600",
+        "originalPrice": "¥6,500",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/275850",
+        "date": "2026-09-13"
       }
     ],
     "review": [
@@ -1078,8 +1090,47 @@
         "url": "https://www.inside-games.jp/article/2026/09/13/187679.html",
         "date": "2026-09-13",
         "is_translated": false
+      },
+      {
+        "title": "【『鬼武者 Way of the Sword』は“プレイヤーを懲らしめる”のが上手。リメイク版『...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『鬼武者 Way of the Sword』は“プレイヤーを懲らしめる”のが上手。リメイク版『...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260913-467147/",
+        "date": "2026-09-13",
+        "is_translated": false
+      },
+      {
+        "title": "【Beneath a Steel Sky review (1994)】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Beneath a Steel Sky review (1994)】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/adventure/beneath-a-steel-sky-review-1994/",
+        "date": "2026-09-13",
+        "is_translated": true
+      },
+      {
+        "title": "【'Godzilla Minus Zero' Director Reveals How Stev...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【'Godzilla Minus Zero' Director Reveals How Stev...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/godzilla-minus-zero-director-interview/",
+        "date": "2026-09-13",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-13T03:12:20.170063"
+  "last_updated": "2026-09-13T13:40:26.641366"
 }
