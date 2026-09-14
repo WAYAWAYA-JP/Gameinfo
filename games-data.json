@@ -544,6 +544,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
         "date": "2026-09-14"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33がVariousで-30%セール中です。",
+        "price": "$34.99",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Cairn",
+        "platform": "Various",
+        "type": "sale",
+        "description": "CairnがVariousで-34%セール中です。",
+        "price": "$19.66",
+        "originalPrice": "",
+        "discount": "-34%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cairn/info/",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Indiana Jones and the Great Circle",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Indiana Jones and the Great CircleがVariousで-46%セール中です。",
+        "price": "$37.79",
+        "originalPrice": "",
+        "discount": "-46%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/indiana-jones-and-the-great-circle/info/",
+        "date": "2026-09-14"
       }
     ],
     "review": [
@@ -1131,8 +1167,73 @@
         "url": "https://www.polygon.com/zack-snyder-last-photograph-reviews-rotten-tomatoes/",
         "date": "2026-09-14",
         "is_translated": true
+      },
+      {
+        "title": "【期待作「Kingmakers」の本格的なゲームプレイを含むショーケース「tinyBuild C...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【期待作「Kingmakers」の本格的なゲームプレイを含むショーケース「tinyBuild C...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170778.html",
+        "date": "2026-09-14",
+        "is_translated": false
+      },
+      {
+        "title": "【Steam Frame review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Steam Frame review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-steam-frame-review/",
+        "date": "2026-09-14",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam Frame review: Another best-in-class VR he...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Steam Frame review: Another best-in-class VR he...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/steam-frame-review",
+        "date": "2026-09-14",
+        "is_translated": true
+      },
+      {
+        "title": "【Valve’s Steam Frame VR headset opens for orders...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Valve’s Steam Frame VR headset opens for orders...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/valves-steam-frame-vr-headset-opens-for-orders-with-the-cheapest-model-priced-at-a-lenswatering-889-1059",
+        "date": "2026-09-14",
+        "is_translated": true
+      },
+      {
+        "title": "【Mahershala Ali’s New Movie From Blade Director ...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Mahershala Ali’s New Movie From Blade Director ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/your-mother-mahershala-ali-bassim-tariq-blade-rotten-tomatoes/",
+        "date": "2026-09-14",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-14T15:39:51.050564"
+  "last_updated": "2026-09-14T17:58:40.209918"
 }
