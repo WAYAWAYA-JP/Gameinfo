@@ -580,6 +580,54 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/indiana-jones-and-the-great-circle/info/",
         "date": "2026-09-14"
+      },
+      {
+        "title": "空の軌跡 the 1st",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "空の軌跡 the 1stがSteamで50% OFFセール中です。",
+        "price": "¥4,400",
+        "originalPrice": "¥8,800",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3375780",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "RimWorld",
+        "platform": "Various",
+        "type": "sale",
+        "description": "RimWorldがVariousで-27%セール中です。",
+        "price": "$25.54",
+        "originalPrice": "",
+        "discount": "-27%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/rimworld/info/",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Crystal Crisis",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Crystal CrisisがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/crystal-crisis/info/",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "SILENT HILL 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "SILENT HILL 2がVariousで-68%セール中です。",
+        "price": "$22.74",
+        "originalPrice": "",
+        "discount": "-68%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
+        "date": "2026-09-14"
       }
     ],
     "review": [
@@ -1232,8 +1280,34 @@
         "url": "https://www.polygon.com/your-mother-mahershala-ali-bassim-tariq-blade-rotten-tomatoes/",
         "date": "2026-09-14",
         "is_translated": true
+      },
+      {
+        "title": "【“Rayman Legends”の現世代向けリメイク「Rayman Legends Retol...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“Rayman Legends”の現世代向けリメイク「Rayman Legends Retol...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170816.html",
+        "date": "2026-09-14",
+        "is_translated": false
+      },
+      {
+        "title": "【Valve decided that cutting the Steam Frame’s sp...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Valve decided that cutting the Steam Frame’s sp...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
+        "date": "2026-09-14",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-14T17:58:40.209918"
+  "last_updated": "2026-09-14T23:42:06.752724"
 }
