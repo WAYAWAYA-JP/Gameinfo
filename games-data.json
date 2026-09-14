@@ -182,6 +182,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/crpgpackisometricimmersion_bundle",
         "date": "2026-09-12"
+      },
+      {
+        "title": "Narrative Masterpieces",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Narrative MasterpiecesのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/narrativemasterpieces_bundle",
+        "date": "2026-09-14"
       }
     ],
     "sale": [
@@ -496,6 +508,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/onimusha-way-of-the-sword/info/",
         "date": "2026-09-13"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストがSteamで50% OFFセール中です。",
+        "price": "¥2,190",
+        "originalPrice": "¥4,380",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "不思議のダンジョン　風来のシレン６　とぐろ島探検録",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "不思議のダンジョン　風来のシレン６　とぐろ島探検録がSteamで50% OFFセール中です。",
+        "price": "¥2,990",
+        "originalPrice": "¥5,980",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2178480",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Kingdom Come: Deliverance II",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Kingdom Come: Deliverance IIがVariousで-60%セール中です。",
+        "price": "$23.79",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
+        "date": "2026-09-14"
       }
     ],
     "review": [
@@ -1044,8 +1092,47 @@
         "url": "https://doope.jp/2026/09170786.html",
         "date": "2026-09-14",
         "is_translated": false
+      },
+      {
+        "title": "【『スター・ウォーズ：ギャラクティック・レーサー』は『バーンアウト』開発者携わる、“攻めすぎれば...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『スター・ウォーズ：ギャラクティック・レーサー』は『バーンアウト』開発者携わる、“攻めすぎれば...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/star-wars-galactic-racer-20260914-466819/",
+        "date": "2026-09-14",
+        "is_translated": false
+      },
+      {
+        "title": "【犬の独裁国家を描いた傑作コミックをビデオゲーム化する「サバキスタン：犬の国」の進捗報告トレーラ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【犬の独裁国家を描いた傑作コミックをビデオゲーム化する「サバキスタン：犬の国」の進捗報告トレーラ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09157265.html",
+        "date": "2026-09-14",
+        "is_translated": false
+      },
+      {
+        "title": "【Zack Snyder’s Lifelong Passion Project Gets Ter...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Zack Snyder’s Lifelong Passion Project Gets Ter...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/zack-snyder-last-photograph-reviews-rotten-tomatoes/",
+        "date": "2026-09-14",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-14T03:25:18.230198"
+  "last_updated": "2026-09-14T15:39:51.050564"
 }
