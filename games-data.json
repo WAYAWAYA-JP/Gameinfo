@@ -40,18 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Narrative Masterpieces",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Narrative MasterpiecesのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/narrativemasterpieces_bundle",
-        "date": "2026-09-04"
-      },
-      {
         "title": "Shantae & Heroic Heroines",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -197,78 +185,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストがSteamで56% OFFセール中です。",
-        "price": "¥2,851",
-        "originalPrice": "¥6,480",
-        "discount": "56% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-09-07"
-      },
-      {
-        "title": "Into the Breach",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Into the BreachがVariousで-80%セール中です。",
-        "price": "$2.99",
-        "originalPrice": "",
-        "discount": "-80%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/into-the-breach/info/",
-        "date": "2026-09-07"
-      },
-      {
-        "title": "Resident Evil 4 (2023)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Resident Evil 4 (2023)がVariousで-77%セール中です。",
-        "price": "$9.00",
-        "originalPrice": "",
-        "discount": "-77%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
-        "date": "2026-09-07"
-      },
-      {
-        "title": "PRAGMATA",
-        "platform": "Various",
-        "type": "sale",
-        "description": "PRAGMATAがVariousで-20%セール中です。",
-        "price": "$47.99",
-        "originalPrice": "",
-        "discount": "-20%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/pragmata/info/",
-        "date": "2026-09-07"
-      },
-      {
-        "title": "Monster Hunter Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Monster Hunter WildsがVariousで-33%セール中です。",
-        "price": "$26.99",
-        "originalPrice": "",
-        "discount": "-33%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
-        "date": "2026-09-07"
-      },
-      {
-        "title": "Control Ultimate Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Control Ultimate EditionがVariousで-90%セール中です。",
-        "price": "$3.99",
-        "originalPrice": "",
-        "discount": "-90%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/control-ultimate-edition/info/",
-        "date": "2026-09-07"
-      },
       {
         "title": "BIOHAZARD RE:4",
         "platform": "Steam",
@@ -584,71 +500,6 @@
     ],
     "review": [
       {
-        "title": "【基本プレイ無料『NTE』新キャラ「リンコ（CV小倉唯さん）」は“ぼっち電波少女”かと思いきやチ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料『NTE』新キャラ「リンコ（CV小倉唯さん）」は“ぼっち電波少女”かと思いきやチ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260909-465923/",
-        "date": "2026-09-09",
-        "is_translated": false
-      },
-      {
-        "title": "【ダークファンタジー吸血鬼RPG“The Blood of Dawnwalker”のローンチを果...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【ダークファンタジー吸血鬼RPG“The Blood of Dawnwalker”のローンチを果...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170592.html",
-        "date": "2026-09-09",
-        "is_translated": false
-      },
-      {
-        "title": "【オリジナルを再現した『東方紅魔郷: Classic』、なぜか2002年リリースの原作『東方紅魔...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【オリジナルを再現した『東方紅魔郷: Classic』、なぜか2002年リリースの原作『東方紅魔...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260909-466051/",
-        "date": "2026-09-09",
-        "is_translated": false
-      },
-      {
-        "title": "【「ウィッチャー３ ワイルドハント リマスター」と「追憶の調べ」拡張の最新情報を紹介する“TGS...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「ウィッチャー３ ワイルドハント リマスター」と「追憶の調べ」拡張の最新情報を紹介する“TGS...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170595.html",
-        "date": "2026-09-09",
-        "is_translated": false
-      },
-      {
-        "title": "【プレイヤーが所有可能な宇宙ステーションや恒星、星系マップを導入する「No Man’s Sky」...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【プレイヤーが所有可能な宇宙ステーションや恒星、星系マップを導入する「No Man’s Sky」...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170601.html",
-        "date": "2026-09-09",
-        "is_translated": false
-      },
-      {
         "title": "【『No Man’s Sky』大型アプデで「宇宙空間にも」基地建設が可能に。他プレイヤーと“同盟...】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -711,19 +562,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/09170684.html",
         "date": "2026-09-10",
-        "is_translated": false
-      },
-      {
-        "title": "【発売が迫るRemedy Entertainment最新作「CONTROL Resonant」の...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【発売が迫るRemedy Entertainment最新作「CONTROL Resonant」の...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170676.html",
-        "date": "2026-09-09",
         "is_translated": false
       },
       {
@@ -1154,8 +992,60 @@
         "url": "https://www.polygon.com/patch-notes-fall-preview-nintendo-sony-bad-guy/",
         "date": "2026-09-13",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料オープンワールド『無限大ANANTA』開発者いわく、本作は「各都市100時間は遊...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料オープンワールド『無限大ANANTA』開発者いわく、本作は「各都市100時間は遊...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/devlog/interview/20260914-467215/",
+        "date": "2026-09-14",
+        "is_translated": false
+      },
+      {
+        "title": "【ゲームフリーク新作『雨のちハレ女』突如発表、スマホ向けに。気持ちを“晴らす”魔法少女たちの物語：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【ゲームフリーク新作『雨のちハレ女』突如発表、スマホ向けに。気持ちを“晴らす”魔法少女たちの物語：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260914-467196/",
+        "date": "2026-09-14",
+        "is_translated": false
+      },
+      {
+        "title": "【人形目線“身体集め”ゲーム『メァリーさん』発表。手足や目玉を取り戻せばできることも増える、高評...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【人形目線“身体集め”ゲーム『メァリーさん』発表。手足や目玉を取り戻せばできることも増える、高評...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260914-467165/",
+        "date": "2026-09-14",
+        "is_translated": false
+      },
+      {
+        "title": "【シリーズ30周年を祝う「ディアブロ IV: 獄遺継承」シーズンの多彩な新情報が解禁、拡張展開の終了も：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【シリーズ30周年を祝う「ディアブロ IV: 獄遺継承」シーズンの多彩な新情報が解禁、拡張展開の終了も：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170786.html",
+        "date": "2026-09-14",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-13T22:54:04.071746"
+  "last_updated": "2026-09-14T03:25:18.230198"
 }
