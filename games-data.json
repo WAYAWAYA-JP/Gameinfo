@@ -556,6 +556,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
         "date": "2026-09-14"
+      },
+      {
+        "title": "Resident Evil Requiem",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Resident Evil RequiemがVariousで-41%セール中です。",
+        "price": "$41.29",
+        "originalPrice": "",
+        "discount": "-41%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Dragon's Dogma 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Dragon's Dogma 2がVariousで-64%セール中です。",
+        "price": "$14.28",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
+        "date": "2026-09-15"
       }
     ],
     "review": [
@@ -1091,8 +1115,86 @@
         "url": "https://www.inside-games.jp/article/2026/09/15/187756.html",
         "date": "2026-09-15",
         "is_translated": false
+      },
+      {
+        "title": "【『トータルウォー：ウォーハンマー40,000』先行プレイ感想。日本語字幕付きで人気ストラテジー...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『トータルウォー：ウォーハンマー40,000』先行プレイ感想。日本語字幕付きで人気ストラテジー...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/tt-20260915-467751/",
+        "date": "2026-09-15",
+        "is_translated": false
+      },
+      {
+        "title": "【『#コンパス』のNHN PlayArtの新作は、Steam/モバイル向け爆速カードバトルRPG...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『#コンパス』のNHN PlayArtの新作は、Steam/モバイル向け爆速カードバトルRPG...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/over-rush-20260915-467678/",
+        "date": "2026-09-15",
+        "is_translated": false
+      },
+      {
+        "title": "【NHN PlayArt新作爆速カードバトルRPG『OVER RUSH』先行プレイ感想。数分間で...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【NHN PlayArt新作爆速カードバトルRPG『OVER RUSH』先行プレイ感想。数分間で...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/over-rush-20260915-467664/",
+        "date": "2026-09-15",
+        "is_translated": false
+      },
+      {
+        "title": "【「007 First Light」のNintendo Switch 2版が延期、新たな発売時期...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「007 First Light」のNintendo Switch 2版が延期、新たな発売時期...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170840.html",
+        "date": "2026-09-15",
+        "is_translated": false
+      },
+      {
+        "title": "【Valve considered making a new VR game for the S...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Valve considered making a new VR game for the S...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/valve-considered-making-a-new-vr-game-for-the-steam-frame-before-tackling-the-ludicrous-task-of-getting-half-life-alyx-running-standalone",
+        "date": "2026-09-15",
+        "is_translated": true
+      },
+      {
+        "title": "【Godzilla Officially Crosses Over With an Iconic...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Godzilla Officially Crosses Over With an Iconic...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/sonic-the-hedgehog-x-godzilla-issue-3-excusive-look/",
+        "date": "2026-09-15",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-15T03:26:36.049555"
+  "last_updated": "2026-09-15T14:10:16.233191"
 }
