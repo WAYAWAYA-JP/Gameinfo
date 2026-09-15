@@ -580,6 +580,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dragons-dogma-2/info/",
         "date": "2026-09-15"
+      },
+      {
+        "title": "SILENT HILL f",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "SILENT HILL fがSteamで50% OFFセール中です。",
+        "price": "¥4,290",
+        "originalPrice": "¥8,580",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2947440",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Dying Light: The Beast Restored Land",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Dying Light: The Beast Restored LandがVariousで-55%セール中です。",
+        "price": "$26.90",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dying-light-the-beast-restored-land/info/",
+        "date": "2026-09-15"
       }
     ],
     "review": [
@@ -1193,8 +1217,21 @@
         "url": "https://www.polygon.com/sonic-the-hedgehog-x-godzilla-issue-3-excusive-look/",
         "date": "2026-09-15",
         "is_translated": true
+      },
+      {
+        "title": "【4XストラテジーRPG「Heart of the Machine」初のDLC“Kinship”...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【4XストラテジーRPG「Heart of the Machine」初のDLC“Kinship”...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170848.html",
+        "date": "2026-09-15",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-15T14:10:16.233191"
+  "last_updated": "2026-09-15T16:42:00.456749"
 }
