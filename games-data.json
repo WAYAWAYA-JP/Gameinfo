@@ -194,6 +194,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/happy-queens-bundle",
         "date": "2026-09-16"
+      },
+      {
+        "title": "Indies in Space",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Indies in SpaceのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/indiesinspace_bundle",
+        "date": "2026-09-16"
       }
     ],
     "sale": [
@@ -591,6 +603,18 @@
         "discount": "-91%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/far-cry-6/info/",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "テイルズ オブ グレイセス エフ リマスター",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "テイルズ オブ グレイセス エフ リマスターがSteamで75% OFFセール中です。",
+        "price": "¥1,622",
+        "originalPrice": "¥6,490",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2530980",
         "date": "2026-09-16"
       }
     ],
@@ -1270,8 +1294,34 @@
         "url": "https://www.polygon.com/resident-evil-review-zach-cregger/",
         "date": "2026-09-16",
         "is_translated": true
+      },
+      {
+        "title": "【Endless Legend 2 review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Endless Legend 2 review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/strategy/endless-legend-2-review/",
+        "date": "2026-09-16",
+        "is_translated": true
+      },
+      {
+        "title": "【'The best videogame movie' ever? The first revi...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【'The best videogame movie' ever? The first revi...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/movies-tv/multiple-reviews-call-resident-evil-the-best-videogame-movie-ever/",
+        "date": "2026-09-16",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-16T16:35:23.356914"
+  "last_updated": "2026-09-16T23:33:19.831748"
 }
