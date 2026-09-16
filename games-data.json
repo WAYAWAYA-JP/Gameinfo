@@ -182,6 +182,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/narrativemasterpieces_bundle",
         "date": "2026-09-14"
+      },
+      {
+        "title": "Happy Queens Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Happy Queens BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/happy-queens-bundle",
+        "date": "2026-09-16"
       }
     ],
     "sale": [
@@ -556,6 +568,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dying-light-the-beast-restored-land/info/",
         "date": "2026-09-15"
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Baldur's Gate 3がVariousで-30%セール中です。",
+        "price": "$41.99",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/baldurs-gate-3/info/",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "Far Cry 6",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Far Cry 6がVariousで-91%セール中です。",
+        "price": "$5.40",
+        "originalPrice": "",
+        "discount": "-91%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/far-cry-6/info/",
+        "date": "2026-09-16"
       }
     ],
     "review": [
@@ -1156,8 +1192,73 @@
         "url": "https://www.inside-games.jp/article/2026/09/16/187807.html",
         "date": "2026-09-16",
         "is_translated": false
+      },
+      {
+        "title": "【最大8人協力“ピクセル冒険“ARPG『ディムレイス』、Steam同接1万人超えの好発進。エルフ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【最大8人協力“ピクセル冒険“ARPG『ディムレイス』、Steam同接1万人超えの好発進。エルフ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260916-468042/",
+        "date": "2026-09-16",
+        "is_translated": false
+      },
+      {
+        "title": "【UNSEENが開発を手がける妖怪憑依アクション「KEMURI」のTGS 2026トレーラーがお披露目：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【UNSEENが開発を手がける妖怪憑依アクション「KEMURI」のTGS 2026トレーラーがお披露目：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170869.html",
+        "date": "2026-09-16",
+        "is_translated": false
+      },
+      {
+        "title": "【\"We're trying to make it easier\": Valve confirm...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【\"We're trying to make it easier\": Valve confirm...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/were-trying-to-make-it-easier-valve-confirm-the-steam-frame-is-just-the-start-of-plans-to-get-steam-games-working-on-compatibility-challenged-arm-pcs",
+        "date": "2026-09-16",
+        "is_translated": true
+      },
+      {
+        "title": "【Fire Emblem: Fortune's Weave Reviews Just Gave ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Fire Emblem: Fortune's Weave Reviews Just Gave ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-review-roundup/",
+        "date": "2026-09-16",
+        "is_translated": true
+      },
+      {
+        "title": "【Fire Emblem Fortune's Weave Review: Nintendo's ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Fire Emblem Fortune's Weave Review: Nintendo's ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-review/",
+        "date": "2026-09-16",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-16T03:22:40.326565"
+  "last_updated": "2026-09-16T14:02:20.968592"
 }
