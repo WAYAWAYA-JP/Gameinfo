@@ -40,18 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Shantae & Heroic Heroines",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Shantae & Heroic HeroinesのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/shantaeheroicheroines_bundle",
-        "date": "2026-09-06"
-      },
-      {
         "title": "Yes Chef! - Cooking Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -197,42 +185,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "The Blood of Dawnwalker",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Blood of DawnwalkerがVariousで-12%セール中です。",
-        "price": "$61.47",
-        "originalPrice": "",
-        "discount": "-12%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-blood-of-dawnwalker/info/",
-        "date": "2026-09-09"
-      },
-      {
-        "title": "Deep Rock Galactic",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Deep Rock GalacticがVariousで-70%セール中です。",
-        "price": "$8.99",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/deep-rock-galactic/info/",
-        "date": "2026-09-09"
-      },
-      {
-        "title": "Black Myth: Wukong",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Black Myth: WukongがVariousで-33%セール中です。",
-        "price": "$40.19",
-        "originalPrice": "",
-        "discount": "-33%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/black-myth-wukong/info/",
-        "date": "2026-09-09"
-      },
       {
         "title": "The Alters",
         "platform": "Various",
@@ -608,97 +560,6 @@
     ],
     "review": [
       {
-        "title": "【大注目の100人対戦FPS『WARDOGS』開幕直後からプレイヤー殺到、一時は「20万人待ち」...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【大注目の100人対戦FPS『WARDOGS』開幕直後からプレイヤー殺到、一時は「20万人待ち」...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260911-466715/",
-        "date": "2026-09-11",
-        "is_translated": false
-      },
-      {
-        "title": "【David Harbour's Santa Goes Full Hunger Games in...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【David Harbour's Santa Goes Full Hunger Games in...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/violent-night-2-exclusive-preview/",
-        "date": "2026-09-11",
-        "is_translated": true
-      },
-      {
-        "title": "【基本プレイ無料『NTE』に新実装の「自転車」は下り坂で時速200～300km出るし、急斜面も登...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料『NTE』に新実装の「自転車」は下り坂で時速200～300km出るし、急斜面も登...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260911-466933/",
-        "date": "2026-09-11",
-        "is_translated": false
-      },
-      {
-        "title": "【物理演算ミサイル“自力誘導”ゲーム『Dumbfire』大注目集めブームの兆し。ぶつかれば爆発、...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【物理演算ミサイル“自力誘導”ゲーム『Dumbfire』大注目集めブームの兆し。ぶつかれば爆発、...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260911-466855/",
-        "date": "2026-09-11",
-        "is_translated": false
-      },
-      {
-        "title": "【「Call of Duty: Black Ops 7」シーズン06マルチプレイヤーのマップ紹介...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Call of Duty: Black Ops 7」シーズン06マルチプレイヤーのマップ紹介...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170597.html",
-        "date": "2026-09-11",
-        "is_translated": false
-      },
-      {
-        "title": "【'Blade Runner 2099' Showrunner Reveals the Sci-...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【'Blade Runner 2099' Showrunner Reveals the Sci-...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/blade-runner-2099-showrunner-interview-preview/",
-        "date": "2026-09-11",
-        "is_translated": true
-      },
-      {
-        "title": "【ウルヴァリンのレビューまとめ: 率直に言って、「PlayStation 5 独占」というもの全...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【ウルヴァリンのレビューまとめ: 率直に言って、「PlayStation 5 独占」というもの全...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/wolverine-review-roundup-frankly-were-starting-to-feel-a-little-better-about-the-whole-playstation-5-exclusive-thing/",
-        "date": "2026-09-11",
-        "is_translated": true
-      },
-      {
         "title": "【基本プレイ無料『デュエットナイトアビス』は大型アプデを42日周期に高速化、どう実現するのか訊い...】",
         "platform": "AUTOMATON",
         "type": "review",
@@ -736,19 +597,6 @@
         "url": "https://www.inside-games.jp/article/2026/09/12/187648.html",
         "date": "2026-09-12",
         "is_translated": false
-      },
-      {
-        "title": "【Wolverine review roundup: Frankly, we're starti...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Wolverine review roundup: Frankly, we're starti...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/wolverine-review-roundup-frankly-were-starting-to-feel-a-little-better-about-the-whole-playstation-5-exclusive-thing/",
-        "date": "2026-09-11",
-        "is_translated": true
       },
       {
         "title": "【ホラー×スローライフRPG『Welcome to Elderfield』デモ版の勢いそのまま絶...：レビュー】",
@@ -1256,8 +1104,60 @@
         "url": "https://www.polygon.com/god-of-war-laufey-marvels-wolverine-analysis/",
         "date": "2026-09-15",
         "is_translated": true
+      },
+      {
+        "title": "【北山宏光さん主演ゲーム『AKIBA LOST』ってどんなゲーム？実写映像いっぱい物語いっぱいバ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【北山宏光さん主演ゲーム『AKIBA LOST』ってどんなゲーム？実写映像いっぱい物語いっぱいバ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/akiba-lost-20260916-467790/",
+        "date": "2026-09-16",
+        "is_translated": false
+      },
+      {
+        "title": "【「Battlefield 6|REDSEC」シーズン4フェーズ3が開幕、無料トライアルウィーク...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Battlefield 6|REDSEC」シーズン4フェーズ3が開幕、無料トライアルウィーク...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170875.html",
+        "date": "2026-09-16",
+        "is_translated": false
+      },
+      {
+        "title": "【爽快な“ガムアクション”が最高に気持ち良い！対戦アクションからオープンワールドへと生まれ変わっ...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【爽快な“ガムアクション”が最高に気持ち良い！対戦アクションからオープンワールドへと生まれ変わっ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/16/187808.html",
+        "date": "2026-09-16",
+        "is_translated": false
+      },
+      {
+        "title": "【『ニンジャラ２ 未知なる惑星』はなぜPvEオープンワールドへ舵を切ったのか？ 前編・後編に分け...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【『ニンジャラ２ 未知なる惑星』はなぜPvEオープンワールドへ舵を切ったのか？ 前編・後編に分け...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/16/187807.html",
+        "date": "2026-09-16",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-15T23:25:03.460125"
+  "last_updated": "2026-09-16T03:22:40.326565"
 }
