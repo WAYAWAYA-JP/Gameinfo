@@ -24,6 +24,30 @@
         "deadline": "2026年09月17日まで",
         "url": "https://store.epicgames.com/ja/p/d72ccf025e574bb4a725e3079ea34081",
         "date": "2026-09-17"
+      },
+      {
+        "title": "マインドコップ",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『マインドコップ』は「犯人捜し」を中心とした非線形の探偵ゲームで、ストーリー主体のアドベンチャーとリアルタイムのマッチ3パズルが融合しています。プレイヤーは「マインドコップ」として容疑者の心の中に入り込み、彼らの秘密を明らかにして、嘘を解明していきます。",
+        "price": "無料",
+        "originalPrice": "¥17",
+        "discount": "100% OFF",
+        "deadline": "2026年09月24日まで",
+        "url": "https://store.epicgames.com/ja/p/1513de80f23f42e584540be749826057",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "Shogun Showdown",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shog…",
+        "price": "無料",
+        "originalPrice": "¥14",
+        "discount": "100% OFF",
+        "deadline": "2026年09月24日まで",
+        "url": "https://store.epicgames.com/ja/p/shogun-showdown",
+        "date": "2026-09-17"
       }
     ],
     "bundle": [
@@ -194,6 +218,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/indiesinspace_bundle",
         "date": "2026-09-16"
+      },
+      {
+        "title": "Assemble Entertainment Cozy Games Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Assemble Entertainment Cozy Games CollectionのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/assembleentertainmentcozygamescollection_bundle",
+        "date": "2026-09-17"
       }
     ],
     "sale": [
@@ -1312,8 +1348,73 @@
         "url": "https://www.inside-games.jp/article/2026/09/17/187913.html",
         "date": "2026-09-17",
         "is_translated": false
+      },
+      {
+        "title": "【『クレイジータクシー：ワールドツアー』先行プレイ感想。ボケ、町並み、キャラ、音楽、テキスト、あ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『クレイジータクシー：ワールドツアー』先行プレイ感想。ボケ、町並み、キャラ、音楽、テキスト、あ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260918-468460/",
+        "date": "2026-09-17",
+        "is_translated": false
+      },
+      {
+        "title": "【“デューン/砂の惑星”サバイバルMMO「Dune: Awakening」のシングルプレイヤーア...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“デューン/砂の惑星”サバイバルMMO「Dune: Awakening」のシングルプレイヤーア...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170860.html",
+        "date": "2026-09-17",
+        "is_translated": false
+      },
+      {
+        "title": "【iBuyPower RDY Scale B06 review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【iBuyPower RDY Scale B06 review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-pcs/ibuypower-rdy-scale-b06-review/",
+        "date": "2026-09-17",
+        "is_translated": true
+      },
+      {
+        "title": "【HP Omen 35L (2026) review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【HP Omen 35L (2026) review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-pcs/hp-omen-35l-2026-review/",
+        "date": "2026-09-17",
+        "is_translated": true
+      },
+      {
+        "title": "【LG UltraGear 25G590B review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【LG UltraGear 25G590B review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-25g590b-review/",
+        "date": "2026-09-17",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-17T14:06:13.882890"
+  "last_updated": "2026-09-17T16:40:53.073705"
 }
