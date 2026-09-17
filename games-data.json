@@ -1,43 +1,6 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Alone With You",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "ALONE WITH YOU は、人間関係についての豊かな物語を伝える SF ポイント アンド クリック アドベンチャー ゲームです。あなたは運命のスペース コロニーの最後の生き残りで、周囲で惑星が爆発する前に脱出を試みています。",
-        "price": "無料",
-        "originalPrice": "¥9",
-        "discount": "100% OFF",
-        "deadline": "2026年09月10日まで",
-        "url": "https://store.epicgames.com/ja/p/68a0e4e0a68d42ffba405593a89c55ba",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Luftrausers",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "The skies are aflame and the seas will overflow with wreckage in Vlambeer’s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and r…",
-        "price": "無料",
-        "originalPrice": "¥9",
-        "discount": "100% OFF",
-        "deadline": "2026年09月17日まで",
-        "url": "https://store.epicgames.com/ja/p/luftrausers",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Astral Ascent",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『アストラルアセント』は、ファンタジーな世界を舞台とした２Ｄローグライク・アクションアドベンチャーゲームです。４人のキャラクターから主人公を選び、強大な12体の守護者「ゾディアック」に守られた境界の監獄「ガーデン」を攻略していきます。",
-        "price": "無料",
-        "originalPrice": "¥25",
-        "discount": "100% OFF",
-        "deadline": "2026年09月17日まで",
-        "url": "https://store.epicgames.com/ja/p/d72ccf025e574bb4a725e3079ea34081",
-        "date": "2026-09-10"
-      }
-    ],
+    "free": [],
     "bundle": [
       {
         "title": "Yes Chef! - Cooking Bundle",
@@ -209,66 +172,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "The Alters",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The AltersがVariousで-58%セール中です。",
-        "price": "$14.81",
-        "originalPrice": "",
-        "discount": "-58%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-alters/info/",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "COCOON",
-        "platform": "Various",
-        "type": "sale",
-        "description": "COCOONがVariousで-67%セール中です。",
-        "price": "$8.27",
-        "originalPrice": "",
-        "discount": "-67%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cocoon/info/",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Monster Hunter Rise + Sunbreak",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Monster Hunter Rise + SunbreakがSteamで84% OFFセール中です。",
-        "price": "¥958",
-        "originalPrice": "¥5,990",
-        "discount": "84% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/692569",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "DEATH STRANDING DIRECTOR'S CUT",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DEATH STRANDING DIRECTOR'S CUTがSteamで75% OFFセール中です。",
-        "price": "¥1,245",
-        "originalPrice": "¥4,980",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1850570",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Astral Ascent",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Astral AscentがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/astral-ascent/info/",
-        "date": "2026-09-10"
-      },
       {
         "title": "Detroit: Become Human",
         "platform": "Various",
@@ -616,126 +519,21 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/2530980",
         "date": "2026-09-16"
+      },
+      {
+        "title": "Cities: Skylines II",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Cities: Skylines IIがVariousで-37%セール中です。",
+        "price": "$31.49",
+        "originalPrice": "",
+        "discount": "-37%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cities-skylines-ii/info/",
+        "date": "2026-09-17"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料『デュエットナイトアビス』は大型アプデを42日周期に高速化、どう実現するのか訊い...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料『デュエットナイトアビス』は大型アプデを42日周期に高速化、どう実現するのか訊い...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/20260912-466954/",
-        "date": "2026-09-12",
-        "is_translated": false
-      },
-      {
-        "title": "【“Moss”シリーズを生んだ「Polyarc」がスタジオの閉鎖を発表：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“Moss”シリーズを生んだ「Polyarc」がスタジオの閉鎖を発表：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170753.html",
-        "date": "2026-09-12",
-        "is_translated": false
-      },
-      {
-        "title": "【【コスプレ】中国屈指の美女レイヤーがミニ丈の衣装で魅せる！「TGS2025」の『無限大ANAN...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【【コスプレ】中国屈指の美女レイヤーがミニ丈の衣装で魅せる！「TGS2025」の『無限大ANAN...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/09/12/187648.html",
-        "date": "2026-09-12",
-        "is_translated": false
-      },
-      {
-        "title": "【ホラー×スローライフRPG『Welcome to Elderfield』デモ版の勢いそのまま絶...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【ホラー×スローライフRPG『Welcome to Elderfield』デモ版の勢いそのまま絶...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260912-467055/",
-        "date": "2026-09-12",
-        "is_translated": false
-      },
-      {
-        "title": "【最大6人マルチ対応・アライグマの物理演算ゴミ運び『Trash Day』10月14日配信へ。ゴミ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【最大6人マルチ対応・アライグマの物理演算ゴミ運び『Trash Day』10月14日配信へ。ゴミ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/trash-day-20260912-467043/",
-        "date": "2026-09-12",
-        "is_translated": false
-      },
-      {
-        "title": "【PS5『Marvel’s Wolverine（マーベル ウルヴァリン）』レビュー。『Marve...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【PS5『Marvel’s Wolverine（マーベル ウルヴァリン）』レビュー。『Marve...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/ps5marvels-wolverine-20260912-467016/",
-        "date": "2026-09-12",
-        "is_translated": false
-      },
-      {
-        "title": "【Wallace & Gromit's Overlooked Spinoff Is Offici...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【Wallace & Gromit's Overlooked Spinoff Is Offici...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/shaun-the-sheep-beast-of-mossy-bottom-preview-image/",
-        "date": "2026-09-12",
-        "is_translated": true
-      },
-      {
-        "title": "【見過ごされていた『ウォレスとグルミット』のスピンオフが次回作で正式にジャンルを変更：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【見過ごされていた『ウォレスとグルミット』のスピンオフが次回作で正式にジャンルを変更：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/shaun-the-sheep-beast-of-mossy-bottom-preview-image/",
-        "date": "2026-09-12",
-        "is_translated": true
-      },
-      {
-        "title": "【「ディアブロ IV」の新クラス“アマゾネス”が正式アナウンス、最新シーズン“獄遺継承”の詳細も：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「ディアブロ IV」の新クラス“アマゾネス”が正式アナウンス、最新シーズン“獄遺継承”の詳細も：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170773.html",
-        "date": "2026-09-12",
-        "is_translated": false
-      },
       {
         "title": "【街オープンワールド『NTE』は「客を殴って追い出すカフェ」が儲かる。狂ってるけど実用的、今こそ...：レビュー】",
         "platform": "AUTOMATON",
@@ -1320,8 +1118,125 @@
         "url": "https://www.pcgamer.com/movies-tv/multiple-reviews-call-resident-evil-the-best-videogame-movie-ever/",
         "date": "2026-09-16",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料・“モンスター捕獲✕育成”冒険RPG『Lumi Master』配信開始。農業もバ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料・“モンスター捕獲✕育成”冒険RPG『Lumi Master』配信開始。農業もバ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/lumi-master-20260917-468226/",
+        "date": "2026-09-17",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料美少女RPG『パールインブルー』では必殺武器が“太もも”や“足裏”から出る。我々...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料美少女RPG『パールインブルー』では必殺武器が“太もも”や“足裏”から出る。我々...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260917-468236/",
+        "date": "2026-09-17",
+        "is_translated": false
+      },
+      {
+        "title": "【『Fate/EXTRA Record』TGS先行プレイ感想。バトルは「3すくみのじゃんけん」か...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『Fate/EXTRA Record』TGS先行プレイ感想。バトルは「3すくみのじゃんけん」か...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/fate-extra-record-20260917-467923/",
+        "date": "2026-09-17",
+        "is_translated": false
+      },
+      {
+        "title": "【『モンスターハンターワイルズ：アセンダンス』の新アクションで初手ガン攻め、便利すぎて「いつ使う...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『モンスターハンターワイルズ：アセンダンス』の新アクションで初手ガン攻め、便利すぎて「いつ使う...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260917-468142/",
+        "date": "2026-09-17",
+        "is_translated": false
+      },
+      {
+        "title": "【未見のボス戦やゲームプレイが確認できる「CONTROL Resonant」の本格的な開発ドキュ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【未見のボス戦やゲームプレイが確認できる「CONTROL Resonant」の本格的な開発ドキュ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170867.html",
+        "date": "2026-09-17",
+        "is_translated": false
+      },
+      {
+        "title": "【PS5版「JDM：ジャパニーズドリフトマスター」にオンラインマルチプレイや新車両を導入する無料...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【PS5版「JDM：ジャパニーズドリフトマスター」にオンラインマルチプレイや新車両を導入する無料...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170905.html",
+        "date": "2026-09-17",
+        "is_translated": false
+      },
+      {
+        "title": "【“Hyper Light Drifter”を生んだ「Heart Machine」がほぼ全ての従...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“Hyper Light Drifter”を生んだ「Heart Machine」がほぼ全ての従...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170866.html",
+        "date": "2026-09-16",
+        "is_translated": false
+      },
+      {
+        "title": "【「月刊ラブコメ」をゲームで味わう！ 美少女たちとの賑やかな日常からバトルまで楽しめる『パールイ...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【「月刊ラブコメ」をゲームで味わう！ 美少女たちとの賑やかな日常からバトルまで楽しめる『パールイ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/17/187879.html",
+        "date": "2026-09-17",
+        "is_translated": false
+      },
+      {
+        "title": "【“誰も知らない27年”をオリジナルストーリーで描く！ 新作『俺だけレベルアップな件：KARMA...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【“誰も知らない27年”をオリジナルストーリーで描く！ 新作『俺だけレベルアップな件：KARMA...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/17/187878.html",
+        "date": "2026-09-17",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-16T23:33:19.831748"
+  "last_updated": "2026-09-17T03:28:16.966894"
 }
