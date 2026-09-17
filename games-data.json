@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Luftrausers",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "The skies are aflame and the seas will overflow with wreckage in Vlambeer’s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and r…",
+        "price": "無料",
+        "originalPrice": "¥9",
+        "discount": "100% OFF",
+        "deadline": "2026年09月17日まで",
+        "url": "https://store.epicgames.com/ja/p/luftrausers",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "Astral Ascent",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『アストラルアセント』は、ファンタジーな世界を舞台とした２Ｄローグライク・アクションアドベンチャーゲームです。４人のキャラクターから主人公を選び、強大な12体の守護者「ゾディアック」に守られた境界の監獄「ガーデン」を攻略していきます。",
+        "price": "無料",
+        "originalPrice": "¥25",
+        "discount": "100% OFF",
+        "deadline": "2026年09月17日まで",
+        "url": "https://store.epicgames.com/ja/p/d72ccf025e574bb4a725e3079ea34081",
+        "date": "2026-09-17"
+      }
+    ],
     "bundle": [
       {
         "title": "Yes Chef! - Cooking Bundle",
@@ -1235,8 +1260,60 @@
         "url": "https://www.inside-games.jp/article/2026/09/17/187878.html",
         "date": "2026-09-17",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料MMORPG『マビノギモバイル』PC・スマホで10月7日リリースへ。バトルもマイ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料MMORPG『マビノギモバイル』PC・スマホで10月7日リリースへ。バトルもマイ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260917-468452/",
+        "date": "2026-09-17",
+        "is_translated": false
+      },
+      {
+        "title": "【最新AI「GPT-6 Astra」が『マインクラフト』でクリーパーの襲撃に遭い“トラウマ化”。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【最新AI「GPT-6 Astra」が『マインクラフト』でクリーパーの襲撃に遭い“トラウマ化”。...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260917-468379/",
+        "date": "2026-09-17",
+        "is_translated": false
+      },
+      {
+        "title": "【「Clive Barker’s Hellraiser: Revival」のSteamデモが配信...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Clive Barker’s Hellraiser: Revival」のSteamデモが配信...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170920.html",
+        "date": "2026-09-17",
+        "is_translated": false
+      },
+      {
+        "title": "【『真・三國無双2 with 猛将伝 Remastered』プレイした当時がよみがえる！推し武将...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【『真・三國無双2 with 猛将伝 Remastered』プレイした当時がよみがえる！推し武将...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/17/187913.html",
+        "date": "2026-09-17",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-17T03:28:16.966894"
+  "last_updated": "2026-09-17T14:06:13.882890"
 }
