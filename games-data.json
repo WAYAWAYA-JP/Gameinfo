@@ -592,6 +592,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cities-skylines-ii/info/",
         "date": "2026-09-17"
+      },
+      {
+        "title": "ENDLESS Legend™ 2 エンドレス・レジェンド 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ENDLESS Legend™ 2 エンドレス・レジェンド 2がSteamで50% OFFセール中です。",
+        "price": "¥2,490",
+        "originalPrice": "¥4,980",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3407390",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "Space Menace",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Space MenaceがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/space-menace/info/",
+        "date": "2026-09-17"
       }
     ],
     "review": [
@@ -1413,8 +1437,21 @@
         "url": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-25g590b-review/",
         "date": "2026-09-17",
         "is_translated": true
+      },
+      {
+        "title": "【円卓の騎士とロマンスが楽しめるファンタジー王国統治RPG「Sovereign Tower」の販...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【円卓の騎士とロマンスが楽しめるファンタジー王国統治RPG「Sovereign Tower」の販...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170931.html",
+        "date": "2026-09-17",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-17T16:40:53.073705"
+  "last_updated": "2026-09-17T23:22:40.659189"
 }
