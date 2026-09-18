@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/shogun-showdown/info/",
         "date": "2026-09-18"
+      },
+      {
+        "title": "MOUSE: P.I. For Hire",
+        "platform": "Various",
+        "type": "sale",
+        "description": "MOUSE: P.I. For HireがVariousで-27%セール中です。",
+        "price": "$21.99",
+        "originalPrice": "",
+        "discount": "-27%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/mouse-pi-for-hire/info/",
+        "date": "2026-09-18"
       }
     ],
     "review": [
@@ -1440,8 +1452,73 @@
         "url": "https://www.polygon.com/control-resonant-review/",
         "date": "2026-09-18",
         "is_translated": true
+      },
+      {
+        "title": "【発売が迫る期待作「CONTROL Resonant」の地域別解禁時刻がアナウンス：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【発売が迫る期待作「CONTROL Resonant」の地域別解禁時刻がアナウンス：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170973.html",
+        "date": "2026-09-18",
+        "is_translated": false
+      },
+      {
+        "title": "【東京ゲームショウで『モンハンワイルズ：アセンダンス』を試遊―整理券はビジネスデイでも1時間以内...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【東京ゲームショウで『モンハンワイルズ：アセンダンス』を試遊―整理券はビジネスデイでも1時間以内...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/18/187985.html",
+        "date": "2026-09-18",
+        "is_translated": false
+      },
+      {
+        "title": "【Tractor-battling teenage road trip RPG Keep Dri...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Tractor-battling teenage road trip RPG Keep Dri...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/tractor-battling-teenage-road-trip-rpg-keep-driving-is-getting-official-mod-support-via-steam-workshop-later-this-month",
+        "date": "2026-09-18",
+        "is_translated": true
+      },
+      {
+        "title": "【Roman Sands RE:Build review: A unique and oblit...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Roman Sands RE:Build review: A unique and oblit...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/roman-sands-rebuild-review",
+        "date": "2026-09-18",
+        "is_translated": true
+      },
+      {
+        "title": "【Control Resonant Reviews Say Remedy Has Another...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Control Resonant Reviews Say Remedy Has Another...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/control-resonant-review-roundup/",
+        "date": "2026-09-18",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-18T13:23:41.140538"
+  "last_updated": "2026-09-18T16:11:50.598009"
 }
