@@ -218,6 +218,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/assembleentertainmentcozygamescollection_bundle",
         "date": "2026-09-17"
+      },
+      {
+        "title": "Garbage Dwellers",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Garbage DwellersのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/garbagedwellers_bundle",
+        "date": "2026-09-18"
       }
     ],
     "sale": [
@@ -591,6 +603,42 @@
         "discount": "-27%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/mouse-pi-for-hire/info/",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "FINAL FANTASY VII REBIRTH",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REBIRTHがSteamで70% OFFセール中です。",
+        "price": "¥1,973",
+        "originalPrice": "¥6,578",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2909400",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "ロマンシング サガ2 リベンジオブザセブン",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ロマンシング サガ2 リベンジオブザセブンがSteamで60% OFFセール中です。",
+        "price": "¥2,728",
+        "originalPrice": "¥6,820",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2455640",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "PRAGMATA",
+        "platform": "Various",
+        "type": "sale",
+        "description": "PRAGMATAがVariousで-33%セール中です。",
+        "price": "$40.15",
+        "originalPrice": "",
+        "discount": "-33%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/pragmata/info/",
         "date": "2026-09-18"
       }
     ],
@@ -1520,5 +1568,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-18T16:11:50.598009"
+  "last_updated": "2026-09-18T23:01:43.800865"
 }
