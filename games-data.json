@@ -556,6 +556,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/mindcop/info/",
         "date": "2026-09-18"
+      },
+      {
+        "title": "Metaphor: ReFantazio",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Metaphor: ReFantazioがVariousで-64%セール中です。",
+        "price": "$24.95",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Shogun Showdown",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Shogun ShowdownがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/shogun-showdown/info/",
+        "date": "2026-09-18"
       }
     ],
     "review": [
@@ -1351,8 +1375,73 @@
         "url": "https://www.inside-games.jp/article/2026/09/18/187941.html",
         "date": "2026-09-18",
         "is_translated": false
+      },
+      {
+        "title": "【協力プレイ対応「ゾンビ災害の後始末」シム『BrainWash: Zombie Cleanup』...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【協力プレイ対応「ゾンビ災害の後始末」シム『BrainWash: Zombie Cleanup』...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260918-468693/",
+        "date": "2026-09-18",
+        "is_translated": false
+      },
+      {
+        "title": "【『ライザのアトリエ』チャットAIアプリ『RyzaChat:AI』では“最大4人マルチプレイ”も...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ライザのアトリエ』チャットAIアプリ『RyzaChat:AI』では“最大4人マルチプレイ”も...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260918-468621/",
+        "date": "2026-09-18",
+        "is_translated": false
+      },
+      {
+        "title": "【Control Resonant review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Control Resonant review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/control-resonant-review/",
+        "date": "2026-09-18",
+        "is_translated": true
+      },
+      {
+        "title": "【Control Resonant review: A superbly strange act...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Control Resonant review: A superbly strange act...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/control-resonant-review",
+        "date": "2026-09-18",
+        "is_translated": true
+      },
+      {
+        "title": "【Control Resonant Fails At Nearly All of Its Amb...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Control Resonant Fails At Nearly All of Its Amb...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/control-resonant-review/",
+        "date": "2026-09-18",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-18T03:14:16.960869"
+  "last_updated": "2026-09-18T13:23:41.140538"
 }
