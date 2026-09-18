@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Yes Chef! - Cooking Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Yes Chef! - Cooking BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/yeschefcookingbundle_bundle",
-        "date": "2026-09-08"
-      },
-      {
         "title": "Pixel Traditions Bundle 4",
         "platform": "IndieGala",
         "type": "bundle",
@@ -233,78 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Detroit: Become Human",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Detroit: Become HumanがVariousで-84%セール中です。",
-        "price": "$6.59",
-        "originalPrice": "",
-        "discount": "-84%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "LUFTRAUSERS",
-        "platform": "Various",
-        "type": "sale",
-        "description": "LUFTRAUSERSがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/luftrausers/info/",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Outer Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Outer WildsがVariousで-53%セール中です。",
-        "price": "$11.85",
-        "originalPrice": "",
-        "discount": "-53%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Red Dead Redemption",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Red Dead RedemptionがVariousで-55%セール中です。",
-        "price": "$22.50",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption/info/",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Red Dead Redemption 2がVariousで-77%セール中です。",
-        "price": "$13.50",
-        "originalPrice": "",
-        "discount": "-77%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Diablo® IV",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Diablo® IVがVariousで-75%セール中です。",
-        "price": "$12.49",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/diablo-iv/info/",
-        "date": "2026-09-11"
-      },
       {
         "title": "WARDOGS",
         "platform": "Various",
@@ -616,87 +532,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/space-menace/info/",
         "date": "2026-09-17"
+      },
+      {
+        "title": "Dune: Awakening デューン：アウェイクニング",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Dune: Awakening デューン：アウェイクニングがSteamで50% OFFセール中です。",
+        "price": "¥2,495",
+        "originalPrice": "¥4,990",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1172710",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Mindcop",
+        "platform": "Various",
+        "type": "sale",
+        "description": "MindcopがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/mindcop/info/",
+        "date": "2026-09-18"
       }
     ],
     "review": [
-      {
-        "title": "【街オープンワールド『NTE』は「客を殴って追い出すカフェ」が儲かる。狂ってるけど実用的、今こそ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【街オープンワールド『NTE』は「客を殴って追い出すカフェ」が儲かる。狂ってるけど実用的、今こそ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20260913-467087/",
-        "date": "2026-09-13",
-        "is_translated": false
-      },
-      {
-        "title": "【日本一のコスプレイヤー「えなこ」が、美くびれ＆絶対領域を披露！何度でも見たい「TGS2025」...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【日本一のコスプレイヤー「えなこ」が、美くびれ＆絶対領域を披露！何度でも見たい「TGS2025」...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/09/13/187679.html",
-        "date": "2026-09-13",
-        "is_translated": false
-      },
-      {
-        "title": "【『鬼武者 Way of the Sword』は“プレイヤーを懲らしめる”のが上手。リメイク版『...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『鬼武者 Way of the Sword』は“プレイヤーを懲らしめる”のが上手。リメイク版『...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260913-467147/",
-        "date": "2026-09-13",
-        "is_translated": false
-      },
-      {
-        "title": "【Beneath a Steel Sky review (1994)】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Beneath a Steel Sky review (1994)】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/adventure/beneath-a-steel-sky-review-1994/",
-        "date": "2026-09-13",
-        "is_translated": true
-      },
-      {
-        "title": "【'Godzilla Minus Zero' Director Reveals How Stev...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【'Godzilla Minus Zero' Director Reveals How Stev...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/godzilla-minus-zero-director-interview/",
-        "date": "2026-09-13",
-        "is_translated": true
-      },
-      {
-        "title": "【Sony is the Bad Guy of 2026, but it’s Going to ...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【Sony is the Bad Guy of 2026, but it’s Going to ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/patch-notes-fall-preview-nintendo-sony-bad-guy/",
-        "date": "2026-09-13",
-        "is_translated": true
-      },
       {
         "title": "【基本プレイ無料オープンワールド『無限大ANANTA』開発者いわく、本作は「各都市100時間は遊...】",
         "platform": "AUTOMATON",
@@ -1450,8 +1312,47 @@
         "url": "https://doope.jp/2026/09170931.html",
         "date": "2026-09-17",
         "is_translated": false
+      },
+      {
+        "title": "【建築・クラフト系ファンタジーオープンワールドサバイバル「Stormforge」の早期アクセスロ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【建築・クラフト系ファンタジーオープンワールドサバイバル「Stormforge」の早期アクセスロ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170963.html",
+        "date": "2026-09-18",
+        "is_translated": false
+      },
+      {
+        "title": "【「The Rogue Prince of Persia」の発売1周年を祝うアニバーサリーアップ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「The Rogue Prince of Persia」の発売1周年を祝うアニバーサリーアップ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170958.html",
+        "date": "2026-09-18",
+        "is_translated": false
+      },
+      {
+        "title": "【ゴーストショットで街中を遊び尽くす！ノリノリのバトルは「属性」を与えて大ダメージを狙おうーレベ...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【ゴーストショットで街中を遊び尽くす！ノリノリのバトルは「属性」を与えて大ダメージを狙おうーレベ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/18/187941.html",
+        "date": "2026-09-18",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-17T23:22:40.659189"
+  "last_updated": "2026-09-18T03:14:16.960869"
 }
