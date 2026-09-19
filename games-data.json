@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Pixel Traditions Bundle 4",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Pixel Traditions Bundle 4のバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/pixel-traditions4-bundle",
-        "date": "2026-09-09"
-      },
-      {
         "title": "Dread and Dark Fantasies RPG Collection",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -233,42 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "WARDOGS",
-        "platform": "Various",
-        "type": "sale",
-        "description": "WARDOGSがVariousで-18%セール中です。",
-        "price": "$32.77",
-        "originalPrice": "",
-        "discount": "-18%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/wardogs/info/",
-        "date": "2026-09-12"
-      },
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "StrayがVariousで-61%セール中です。",
-        "price": "$11.82",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-09-12"
-      },
-      {
-        "title": "Rust",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "RustがSteamで50% OFFセール中です。",
-        "price": "¥2,300",
-        "originalPrice": "¥4,600",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/252490",
-        "date": "2026-09-12"
-      },
       {
         "title": "Borderlands 4",
         "platform": "Various",
@@ -640,191 +592,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/pragmata/info/",
         "date": "2026-09-18"
+      },
+      {
+        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REMAKE INTERGRADEがSteamで75% OFFセール中です。",
+        "price": "¥1,369",
+        "originalPrice": "¥5,478",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1462040",
+        "date": "2026-09-19"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料オープンワールド『無限大ANANTA』開発者いわく、本作は「各都市100時間は遊...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料オープンワールド『無限大ANANTA』開発者いわく、本作は「各都市100時間は遊...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/devlog/interview/20260914-467215/",
-        "date": "2026-09-14",
-        "is_translated": false
-      },
-      {
-        "title": "【ゲームフリーク新作『雨のちハレ女』突如発表、スマホ向けに。気持ちを“晴らす”魔法少女たちの物語：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【ゲームフリーク新作『雨のちハレ女』突如発表、スマホ向けに。気持ちを“晴らす”魔法少女たちの物語：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260914-467196/",
-        "date": "2026-09-14",
-        "is_translated": false
-      },
-      {
-        "title": "【人形目線“身体集め”ゲーム『メァリーさん』発表。手足や目玉を取り戻せばできることも増える、高評...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【人形目線“身体集め”ゲーム『メァリーさん』発表。手足や目玉を取り戻せばできることも増える、高評...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260914-467165/",
-        "date": "2026-09-14",
-        "is_translated": false
-      },
-      {
-        "title": "【シリーズ30周年を祝う「ディアブロ IV: 獄遺継承」シーズンの多彩な新情報が解禁、拡張展開の終了も：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【シリーズ30周年を祝う「ディアブロ IV: 獄遺継承」シーズンの多彩な新情報が解禁、拡張展開の終了も：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170786.html",
-        "date": "2026-09-14",
-        "is_translated": false
-      },
-      {
-        "title": "【『スター・ウォーズ：ギャラクティック・レーサー』は『バーンアウト』開発者携わる、“攻めすぎれば...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『スター・ウォーズ：ギャラクティック・レーサー』は『バーンアウト』開発者携わる、“攻めすぎれば...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/star-wars-galactic-racer-20260914-466819/",
-        "date": "2026-09-14",
-        "is_translated": false
-      },
-      {
-        "title": "【犬の独裁国家を描いた傑作コミックをビデオゲーム化する「サバキスタン：犬の国」の進捗報告トレーラ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【犬の独裁国家を描いた傑作コミックをビデオゲーム化する「サバキスタン：犬の国」の進捗報告トレーラ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09157265.html",
-        "date": "2026-09-14",
-        "is_translated": false
-      },
-      {
-        "title": "【Zack Snyder’s Lifelong Passion Project Gets Ter...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【Zack Snyder’s Lifelong Passion Project Gets Ter...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/zack-snyder-last-photograph-reviews-rotten-tomatoes/",
-        "date": "2026-09-14",
-        "is_translated": true
-      },
-      {
-        "title": "【期待作「Kingmakers」の本格的なゲームプレイを含むショーケース「tinyBuild C...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【期待作「Kingmakers」の本格的なゲームプレイを含むショーケース「tinyBuild C...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170778.html",
-        "date": "2026-09-14",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam Frame review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Steam Frame review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-steam-frame-review/",
-        "date": "2026-09-14",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam Frame review: Another best-in-class VR he...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Steam Frame review: Another best-in-class VR he...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/steam-frame-review",
-        "date": "2026-09-14",
-        "is_translated": true
-      },
-      {
-        "title": "【Valve’s Steam Frame VR headset opens for orders...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Valve’s Steam Frame VR headset opens for orders...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/valves-steam-frame-vr-headset-opens-for-orders-with-the-cheapest-model-priced-at-a-lenswatering-889-1059",
-        "date": "2026-09-14",
-        "is_translated": true
-      },
-      {
-        "title": "【Mahershala Ali’s New Movie From Blade Director ...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【Mahershala Ali’s New Movie From Blade Director ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/your-mother-mahershala-ali-bassim-tariq-blade-rotten-tomatoes/",
-        "date": "2026-09-14",
-        "is_translated": true
-      },
-      {
-        "title": "【“Rayman Legends”の現世代向けリメイク「Rayman Legends Retol...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“Rayman Legends”の現世代向けリメイク「Rayman Legends Retol...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170816.html",
-        "date": "2026-09-14",
-        "is_translated": false
-      },
-      {
-        "title": "【Valve decided that cutting the Steam Frame’s sp...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Valve decided that cutting the Steam Frame’s sp...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
-        "date": "2026-09-14",
-        "is_translated": true
-      },
       {
         "title": "【Steam Frameレビュー。Steamの「VRゲーム」と「VRじゃないゲーム」を遊べるヘッ...】",
         "platform": "AUTOMATON",
@@ -1565,8 +1347,47 @@
         "url": "https://www.polygon.com/control-resonant-review-roundup/",
         "date": "2026-09-18",
         "is_translated": true
+      },
+      {
+        "title": "【高評価”段ボール”FPSの無料ゲーム『PAPERHEAD EP.0』、9月24日配信終了へ。今...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【高評価”段ボール”FPSの無料ゲーム『PAPERHEAD EP.0』、9月24日配信終了へ。今...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260919-468798/",
+        "date": "2026-09-19",
+        "is_translated": false
+      },
+      {
+        "title": "【最大4人マルチ対応・コミカル脱獄ゲーム『Get Us Out』発表。看守は“バナナの皮”で突破...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【最大4人マルチ対応・コミカル脱獄ゲーム『Get Us Out』発表。看守は“バナナの皮”で突破...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/get-us-out-20260919-468791/",
+        "date": "2026-09-19",
+        "is_translated": false
+      },
+      {
+        "title": "【クリア者たった1名!? 「なにそのアクション!!」と“ミリしら”プレイヤーが虜になった「白き鋼...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【クリア者たった1名!? 「なにそのアクション!!」と“ミリしら”プレイヤーが虜になった「白き鋼...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/19/188024.html",
+        "date": "2026-09-19",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-18T23:01:43.800865"
+  "last_updated": "2026-09-19T03:10:37.829630"
 }
