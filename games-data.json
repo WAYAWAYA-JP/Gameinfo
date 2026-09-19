@@ -218,6 +218,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/garbagedwellers_bundle",
         "date": "2026-09-18"
+      },
+      {
+        "title": "IGN 30th Anniversary Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "IGN 30th Anniversary BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/ign30thanniversarybundle_bundle",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "Pixel Traditions Bundle 4",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Pixel Traditions Bundle 4のバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/pixel-traditions4-bundle",
+        "date": "2026-09-19"
       }
     ],
     "sale": [
@@ -603,6 +627,18 @@
         "discount": "75% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/1462040",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅がSteamで80% OFFセール中です。",
+        "price": "¥996",
+        "originalPrice": "¥4,980",
+        "discount": "80% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2175540",
         "date": "2026-09-19"
       }
     ],
@@ -1386,8 +1422,47 @@
         "url": "https://www.inside-games.jp/article/2026/09/19/188024.html",
         "date": "2026-09-19",
         "is_translated": false
+      },
+      {
+        "title": "【『シャングリラ・フロンティア ～七つの最強種～』は本気で「『シャンフロ』没入ゲーム」を目指す。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『シャングリラ・フロンティア ～七つの最強種～』は本気で「『シャンフロ』没入ゲーム」を目指す。...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260919-468875/",
+        "date": "2026-09-19",
+        "is_translated": false
+      },
+      {
+        "title": "【バトロワ乱戦マルチRTS『OpenFront』、Steamでさっそく好評。「月間アクティブ10...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【バトロワ乱戦マルチRTS『OpenFront』、Steamでさっそく好評。「月間アクティブ10...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260919-468841/",
+        "date": "2026-09-19",
+        "is_translated": false
+      },
+      {
+        "title": "【WOLCEN StudioがDiablo系アクションRPG続編「Wolcen 2」の開発に関す...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【WOLCEN StudioがDiablo系アクションRPG続編「Wolcen 2」の開発に関す...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170939.html",
+        "date": "2026-09-19",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-19T03:10:37.829630"
+  "last_updated": "2026-09-19T12:52:47.501363"
 }
