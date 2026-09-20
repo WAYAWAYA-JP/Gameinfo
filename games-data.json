@@ -52,54 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Dread and Dark Fantasies RPG Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Dread and Dark Fantasies RPG CollectionのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/dreadanddarkfantasiesrpgcollection_bundle",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Humble 15th Anniversary - Ready Player One ... and Two",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble 15th Anniversary - Ready Player One ... and TwoのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/humble15thanniversaryreadyplayeroneandtwo_bundle",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Love Letter to Lovecraft",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Love Letter to LovecraftのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/lovelettertolovecraft_bundle",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Make & Play Games in Godot",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Make & Play Games in GodotのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/makeplaygamesingodot_softwarebundle",
-        "date": "2026-09-10"
-      },
-      {
         "title": "Horror Station Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -245,42 +197,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Borderlands 4",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Borderlands 4がVariousで-55%セール中です。",
-        "price": "$31.50",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/borderlands-4/info/",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "No Man's Sky",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "No Man's SkyがSteamで60% OFFセール中です。",
-        "price": "¥2,600",
-        "originalPrice": "¥6,500",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/275850",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "Onimusha: Way of the Sword",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Onimusha: Way of the SwordがVariousで-18%セール中です。",
-        "price": "$57.37",
-        "originalPrice": "",
-        "discount": "-18%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/onimusha-way-of-the-sword/info/",
-        "date": "2026-09-13"
-      },
       {
         "title": "グランド・セフト・オートV エンハンスト",
         "platform": "Steam",
@@ -652,178 +568,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/nier-automata-game-of-the-yorha-edition/info/",
         "date": "2026-09-19"
+      },
+      {
+        "title": "Deadshot",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DeadshotがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/deadshot/info/",
+        "date": "2026-09-20"
       }
     ],
     "review": [
-      {
-        "title": "【Steam Frameレビュー。Steamの「VRゲーム」と「VRじゃないゲーム」を遊べるヘッ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【Steam Frameレビュー。Steamの「VRゲーム」と「VRじゃないゲーム」を遊べるヘッ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/steam-frame-20260915-467529/",
-        "date": "2026-09-15",
-        "is_translated": false
-      },
-      {
-        "title": "【人気トレーディングカードショップ経営シム「TCG Card Shop Simulator」のP...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【人気トレーディングカードショップ経営シム「TCG Card Shop Simulator」のP...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170787.html",
-        "date": "2026-09-15",
-        "is_translated": false
-      },
-      {
-        "title": "【「リ・ストーリー: 思い出修理屋」の販売が50万本を突破、無料アップデートの配信は9月21日：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「リ・ストーリー: 思い出修理屋」の販売が50万本を突破、無料アップデートの配信は9月21日：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170827.html",
-        "date": "2026-09-15",
-        "is_translated": false
-      },
-      {
-        "title": "【コスプレ】踊り子・和服の冒険者がお出迎え！『モンハン』美女レイヤーたちの美貌をプレイバック【写真12枚】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【コスプレ】踊り子・和服の冒険者がお出迎え！『モンハン』美女レイヤーたちの美貌をプレイバック【写真12枚】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/09/15/187756.html",
-        "date": "2026-09-15",
-        "is_translated": false
-      },
-      {
-        "title": "【『トータルウォー：ウォーハンマー40,000』先行プレイ感想。日本語字幕付きで人気ストラテジー...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『トータルウォー：ウォーハンマー40,000』先行プレイ感想。日本語字幕付きで人気ストラテジー...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/tt-20260915-467751/",
-        "date": "2026-09-15",
-        "is_translated": false
-      },
-      {
-        "title": "【『#コンパス』のNHN PlayArtの新作は、Steam/モバイル向け爆速カードバトルRPG...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『#コンパス』のNHN PlayArtの新作は、Steam/モバイル向け爆速カードバトルRPG...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/over-rush-20260915-467678/",
-        "date": "2026-09-15",
-        "is_translated": false
-      },
-      {
-        "title": "【NHN PlayArt新作爆速カードバトルRPG『OVER RUSH』先行プレイ感想。数分間で...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【NHN PlayArt新作爆速カードバトルRPG『OVER RUSH』先行プレイ感想。数分間で...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/over-rush-20260915-467664/",
-        "date": "2026-09-15",
-        "is_translated": false
-      },
-      {
-        "title": "【「007 First Light」のNintendo Switch 2版が延期、新たな発売時期...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「007 First Light」のNintendo Switch 2版が延期、新たな発売時期...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170840.html",
-        "date": "2026-09-15",
-        "is_translated": false
-      },
-      {
-        "title": "【Valve considered making a new VR game for the S...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Valve considered making a new VR game for the S...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/valve-considered-making-a-new-vr-game-for-the-steam-frame-before-tackling-the-ludicrous-task-of-getting-half-life-alyx-running-standalone",
-        "date": "2026-09-15",
-        "is_translated": true
-      },
-      {
-        "title": "【Godzilla Officially Crosses Over With an Iconic...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【Godzilla Officially Crosses Over With an Iconic...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/sonic-the-hedgehog-x-godzilla-issue-3-excusive-look/",
-        "date": "2026-09-15",
-        "is_translated": true
-      },
-      {
-        "title": "【4XストラテジーRPG「Heart of the Machine」初のDLC“Kinship”...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【4XストラテジーRPG「Heart of the Machine」初のDLC“Kinship”...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170848.html",
-        "date": "2026-09-15",
-        "is_translated": false
-      },
-      {
-        "title": "【7 Major GTA 6 Questions the Previews Haven't An...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【7 Major GTA 6 Questions the Previews Haven't An...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gta-6-major-questions/",
-        "date": "2026-09-15",
-        "is_translated": true
-      },
-      {
-        "title": "【God of War Laufey Now Has a Lot To Prove After ...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【God of War Laufey Now Has a Lot To Prove After ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/god-of-war-laufey-marvels-wolverine-analysis/",
-        "date": "2026-09-15",
-        "is_translated": true
-      },
       {
         "title": "【北山宏光さん主演ゲーム『AKIBA LOST』ってどんなゲーム？実写映像いっぱい物語いっぱいバ...：レビュー】",
         "platform": "AUTOMATON",
@@ -1486,8 +1245,34 @@
         "url": "https://automaton-media.com/articles/reportjp/20260919-468900/",
         "date": "2026-09-19",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料『NTE』の田舎一軒家は本当に“690万の価値”ある？本気で考えてみた。畑にベッ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料『NTE』の田舎一軒家は本当に“690万の価値”ある？本気で考えてみた。畑にベッ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260920-468925/",
+        "date": "2026-09-20",
+        "is_translated": false
+      },
+      {
+        "title": "【【TGS2026】カラフルでキュートな2.5DアクションRPG『Edentopia』がホール9...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【【TGS2026】カラフルでキュートな2.5DアクションRPG『Edentopia』がホール9...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/20/188060.html",
+        "date": "2026-09-20",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-19T22:41:17.914145"
+  "last_updated": "2026-09-20T03:27:13.189727"
 }
