@@ -206,6 +206,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/horror-station-bundle",
         "date": "2026-09-21"
+      },
+      {
+        "title": "The Almighty God Games Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "The Almighty God Games BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/almightygodgamesbundle_bundle",
+        "date": "2026-09-21"
       }
     ],
     "sale": [
@@ -555,6 +567,30 @@
         "discount": "-68%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "Balatro",
+        "platform": "Various",
+        "type": "sale",
+        "description": "BalatroがVariousで-24%セール中です。",
+        "price": "$11.34",
+        "originalPrice": "",
+        "discount": "-24%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/balatro/info/",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "Resident Evil 4 (2023)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Resident Evil 4 (2023)がVariousで-79%セール中です。",
+        "price": "$8.46",
+        "originalPrice": "",
+        "discount": "-79%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
         "date": "2026-09-21"
       }
     ],
@@ -1328,5 +1364,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-21T15:40:39.202436"
+  "last_updated": "2026-09-21T18:06:37.559769"
 }
