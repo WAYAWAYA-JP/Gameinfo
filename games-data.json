@@ -170,6 +170,42 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/dreadanddarkfantasiesrpgcollection_bundle",
         "date": "2026-09-20"
+      },
+      {
+        "title": "Decked Out Deckbuilders",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Decked Out DeckbuildersのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/deckedoutdeckbuilders_bundle",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "Run It Back - Roguelikes Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Run It Back - Roguelikes BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/runitbackroguelikes_bundle",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "HHHorror Station Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "HHHorror Station BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/horror-station-bundle",
+        "date": "2026-09-21"
       }
     ],
     "sale": [
@@ -471,6 +507,54 @@
         "discount": "60% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/275850",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "空の軌跡 the 1st",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "空の軌跡 the 1stがSteamで50% OFFセール中です。",
+        "price": "¥4,400",
+        "originalPrice": "¥8,800",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3375780",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストがSteamで50% OFFセール中です。",
+        "price": "¥2,190",
+        "originalPrice": "¥4,380",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "Subnautica",
+        "platform": "Various",
+        "type": "sale",
+        "description": "SubnauticaがVariousで-55%セール中です。",
+        "price": "$13.48",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/subnautica/info/",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "SILENT HILL 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "SILENT HILL 2がVariousで-68%セール中です。",
+        "price": "$22.40",
+        "originalPrice": "",
+        "discount": "-68%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
         "date": "2026-09-21"
       }
     ],
@@ -1111,8 +1195,138 @@
         "url": "https://doope.jp/2026/09171002.html",
         "date": "2026-09-21",
         "is_translated": false
+      },
+      {
+        "title": "【『コントロール レゾナント』、ピンチでも“逃げるより殴る”近接戦が熱い。とっつきやすくて尖って...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『コントロール レゾナント』、ピンチでも“逃げるより殴る”近接戦が熱い。とっつきやすくて尖って...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260921-469226/",
+        "date": "2026-09-21",
+        "is_translated": false
+      },
+      {
+        "title": "【『空の軌跡 the 2nd』いきなり大人気、Steam同接はファルコム史上トップに。『the ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『空の軌跡 the 2nd』いきなり大人気、Steam同接はファルコム史上トップに。『the ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260921-469173/",
+        "date": "2026-09-21",
+        "is_translated": false
+      },
+      {
+        "title": "【『MELTY BLOOD: TWI-LUMINA』試遊&メディアセッションまとめ。簡易操作モー...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『MELTY BLOOD: TWI-LUMINA』試遊&メディアセッションまとめ。簡易操作モー...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/melblo-20260921-469140/",
+        "date": "2026-09-21",
+        "is_translated": false
+      },
+      {
+        "title": "【MMORPG「運営」シム『Let’s Build a Dungeon』では“開発チームを残業地...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【MMORPG「運営」シム『Let’s Build a Dungeon』では“開発チームを残業地...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260921-469131/",
+        "date": "2026-09-21",
+        "is_translated": false
+      },
+      {
+        "title": "【パスファインダーの戦いを描く“Cronos: The New Dawn”DLC「Cronos:...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【パスファインダーの戦いを描く“Cronos: The New Dawn”DLC「Cronos:...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171037.html",
+        "date": "2026-09-21",
+        "is_translated": false
+      },
+      {
+        "title": "【鍛冶屋経営シム「Blacksmith Master」のPC製品版ローンチが2026年11月19...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【鍛冶屋経営シム「Blacksmith Master」のPC製品版ローンチが2026年11月19...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171049.html",
+        "date": "2026-09-21",
+        "is_translated": false
+      },
+      {
+        "title": "【Virtue and a Sledgehammer will begin battering ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Virtue and a Sledgehammer will begin battering ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/virtue-and-a-sledgehammer-will-begin-battering-down-the-walls-and-android-ghosts-of-a-hometown-filled-with-emotional-memories-this-october",
+        "date": "2026-09-21",
+        "is_translated": true
+      },
+      {
+        "title": "【The Steam Frame’s first post-launch update spee...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【The Steam Frame’s first post-launch update spee...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug",
+        "date": "2026-09-21",
+        "is_translated": true
+      },
+      {
+        "title": "【Silent Hill: Townfall review - an often inspire...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Silent Hill: Townfall review - an often inspire...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog",
+        "date": "2026-09-21",
+        "is_translated": true
+      },
+      {
+        "title": "【Silent Hill: Townfall Can't Match the Stellar R...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Silent Hill: Townfall Can't Match the Stellar R...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/silent-hill-townfall-review-roundup/",
+        "date": "2026-09-21",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-21T03:22:19.522090"
+  "last_updated": "2026-09-21T15:40:39.202436"
 }
