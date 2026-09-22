@@ -568,6 +568,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
         "date": "2026-09-22"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Red Dead Redemption 2がVariousで-75%セール中です。",
+        "price": "$14.79",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-09-22"
       }
     ],
     "review": [
@@ -1259,8 +1271,21 @@
         "url": "https://www.rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter",
         "date": "2026-09-22",
         "is_translated": true
+      },
+      {
+        "title": "【映画“DUNE/デューン 砂の惑星”と続編にインスパイアされたコンテンツを導入する「Dune:...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【映画“DUNE/デューン 砂の惑星”と続編にインスパイアされたコンテンツを導入する「Dune:...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171032.html",
+        "date": "2026-09-22",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-22T13:54:53.704059"
+  "last_updated": "2026-09-22T16:41:33.173630"
 }
