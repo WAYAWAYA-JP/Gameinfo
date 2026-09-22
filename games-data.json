@@ -194,6 +194,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/almightygodgamesbundle_bundle",
         "date": "2026-09-21"
+      },
+      {
+        "title": "Mega Man: Recharged Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Mega Man: Recharged CollectionのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/megamanrechargedcollection_bundle",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "CRPG Pack: Isometric Immersion",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "CRPG Pack: Isometric ImmersionのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/crpgpackisometricimmersion_bundle",
+        "date": "2026-09-22"
       }
     ],
     "sale": [
@@ -531,6 +555,18 @@
         "discount": "70% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/2552430",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "Disco Elysium - The Final Cut",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Disco Elysium - The Final CutがVariousで-80%セール中です。",
+        "price": "$7.85",
+        "originalPrice": "",
+        "discount": "-80%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
         "date": "2026-09-22"
       }
     ],
@@ -1145,8 +1181,86 @@
         "url": "https://doope.jp/2026/09171057.html",
         "date": "2026-09-22",
         "is_translated": false
+      },
+      {
+        "title": "【『ファイナルファンタジーVII リベレーション』TGSバトルプレイ感想。最終作のバトルは、自由...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ファイナルファンタジーVII リベレーション』TGSバトルプレイ感想。最終作のバトルは、自由...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/ff7r-20260922-469333/",
+        "date": "2026-09-22",
+        "is_translated": false
+      },
+      {
+        "title": "【『スター・ウォーズ：ギャラクティック・レーサー』はフォースなし、ジェダイなしの濃厚「スター・ウ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『スター・ウォーズ：ギャラクティック・レーサー』はフォースなし、ジェダイなしの濃厚「スター・ウ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20260922-469340/",
+        "date": "2026-09-22",
+        "is_translated": false
+      },
+      {
+        "title": "【美少女ローグライトアクション『Ved：リキュア』は、かわいいキャラを眺める暇がない。待っていた...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【美少女ローグライトアクション『Ved：リキュア』は、かわいいキャラを眺める暇がない。待っていた...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/ved-recure-20260922-469190/",
+        "date": "2026-09-22",
+        "is_translated": false
+      },
+      {
+        "title": "【Kyle Thompson氏の新作メトロイドヴァニア「Well Dweller」が本日発売、ロ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Kyle Thompson氏の新作メトロイドヴァニア「Well Dweller」が本日発売、ロ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171031.html",
+        "date": "2026-09-22",
+        "is_translated": false
+      },
+      {
+        "title": "【カオスなCo-op爆弾解体ゲーム「BOMBANANA!」の販売が累計100万本を突破、モバイル...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【カオスなCo-op爆弾解体ゲーム「BOMBANANA!」の販売が累計100万本を突破、モバイル...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171033.html",
+        "date": "2026-09-22",
+        "is_translated": false
+      },
+      {
+        "title": "【Nighthawks review – a series of vignettes that ...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Nighthawks review – a series of vignettes that ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter",
+        "date": "2026-09-22",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-22T03:21:32.754045"
+  "last_updated": "2026-09-22T13:54:53.704059"
 }
