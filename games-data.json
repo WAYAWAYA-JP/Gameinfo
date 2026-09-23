@@ -218,6 +218,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/crpgpackisometricimmersion_bundle",
         "date": "2026-09-22"
+      },
+      {
+        "title": "Pleasant Intrusion Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Pleasant Intrusion BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/pleasant-intrusion-bundle",
+        "date": "2026-09-23"
       }
     ],
     "sale": [
@@ -555,6 +567,18 @@
         "discount": "-33%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "RESIDENT EVIL 2 (2019)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "RESIDENT EVIL 2 (2019)がVariousで-83%セール中です。",
+        "price": "$6.80",
+        "originalPrice": "",
+        "discount": "-83%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-2-2019/info/",
         "date": "2026-09-23"
       }
     ],
@@ -1117,8 +1141,99 @@
         "url": "https://automaton-media.com/articles/special-column/aniimo-20260923-469420/",
         "date": "2026-09-23",
         "is_translated": false
+      },
+      {
+        "title": "【Steam Machineの“ディスプレイ付き交換用フロントパネル”2種発表、10月発売へ。時...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【Steam Machineの“ディスプレイ付き交換用フロントパネル”2種発表、10月発売へ。時...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260923-469531/",
+        "date": "2026-09-23",
+        "is_translated": false
+      },
+      {
+        "title": "【『風来のシレン６』Steamにて過去最高同接プレイヤー数更新。『トルネコの大冒険』リマスター登...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『風来のシレン６』Steamにて過去最高同接プレイヤー数更新。『トルネコの大冒険』リマスター登...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260923-469521/",
+        "date": "2026-09-23",
+        "is_translated": false
+      },
+      {
+        "title": "【話題の探偵オープンワールド『白銀の城』、新プレイテストの参加者募集開始。街を駆け回る推理アクシ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【話題の探偵オープンワールド『白銀の城』、新プレイテストの参加者募集開始。街を駆け回る推理アクシ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260923-469493/",
+        "date": "2026-09-23",
+        "is_translated": false
+      },
+      {
+        "title": "【「Order of the Sinking Star」のオーバーワールドに焦点を当てる新たなゲ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Order of the Sinking Star」のオーバーワールドに焦点を当てる新たなゲ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171125.html",
+        "date": "2026-09-23",
+        "is_translated": false
+      },
+      {
+        "title": "【「CONTROL Resonant」レビュー、シュレディンガーの猫が目撃するサバイバーの再生と...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「CONTROL Resonant」レビュー、シュレディンガーの猫が目撃するサバイバーの再生と...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171026.html",
+        "date": "2026-09-23",
+        "is_translated": false
+      },
+      {
+        "title": "【進化を続けた『アノマリス／ANOMALITH』は、いよいよ最終形態なのか？ 発売日迫る中、来場...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【進化を続けた『アノマリス／ANOMALITH』は、いよいよ最終形態なのか？ 発売日迫る中、来場...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/23/188162.html",
+        "date": "2026-09-23",
+        "is_translated": false
+      },
+      {
+        "title": "【誰かの何気ない選択が別の誰かの命運を狂わせる…！実写サスペンス『AKIBA LOST』体験版が...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【誰かの何気ない選択が別の誰かの命運を狂わせる…！実写サスペンス『AKIBA LOST』体験版が...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/23/188160.html",
+        "date": "2026-09-23",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-23T03:22:20.237211"
+  "last_updated": "2026-09-23T14:04:36.861563"
 }
