@@ -1232,8 +1232,34 @@
         "url": "https://www.inside-games.jp/article/2026/09/23/188160.html",
         "date": "2026-09-23",
         "is_translated": false
+      },
+      {
+        "title": "【Razer Soma Chroma gaming chair review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Razer Soma Chroma gaming chair review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-chairs/razer-soma-chroma-review/",
+        "date": "2026-09-23",
+        "is_translated": true
+      },
+      {
+        "title": "【The Steam Machine handles Control Resonant capa...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【The Steam Machine handles Control Resonant capa...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
+        "date": "2026-09-23",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-23T14:04:36.861563"
+  "last_updated": "2026-09-23T16:35:21.532466"
 }
