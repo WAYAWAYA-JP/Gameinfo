@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/pleasant-intrusion-bundle",
         "date": "2026-09-23"
+      },
+      {
+        "title": "Trineverse Triple Co-Op Pack",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Trineverse Triple Co-Op PackのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/trineversetriplecooppack_bundle",
+        "date": "2026-09-23"
       }
     ],
     "sale": [
@@ -579,6 +591,18 @@
         "discount": "-83%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-2-2019/info/",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "Rust",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "RustがSteamで50% OFFセール中です。",
+        "price": "¥2,300",
+        "originalPrice": "¥4,600",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/252490",
         "date": "2026-09-23"
       }
     ],
@@ -1258,8 +1282,21 @@
         "url": "https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown",
         "date": "2026-09-23",
         "is_translated": true
+      },
+      {
+        "title": "【90年代レトロサバイバルホラー「Heartworm」のコンソール対応がアナウンス、発売は202...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【90年代レトロサバイバルホラー「Heartworm」のコンソール対応がアナウンス、発売は202...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171123.html",
+        "date": "2026-09-23",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-23T16:35:21.532466"
+  "last_updated": "2026-09-23T23:26:36.168124"
 }
