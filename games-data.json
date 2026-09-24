@@ -24,6 +24,30 @@
         "deadline": "2026年09月24日まで",
         "url": "https://store.epicgames.com/ja/p/shogun-showdown",
         "date": "2026-09-24"
+      },
+      {
+        "title": "Astrea Six Sided Oracles",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Astrea Six Sided OraclesがEpic Gamesで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "¥24",
+        "discount": "100% OFF",
+        "deadline": "2026年10月01日まで",
+        "url": "https://store.epicgames.com/ja/p/915d7181013c40d980e1924513c7b8ec",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Mechabellum",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "大軍のメカを指揮して戦いを繰り広げる壮大なオート戦闘ゲーム。精巧なグラフィックで展開される3Dバトルで、軍隊を編成してユニットをカスタマイズしよう。陣形を熟知して敵を叩き潰せ。クリック連打は不要。戦略だけが物を言う。1対1、2対2、デスマッチ、またはサバイバルモードで相手の頭脳を上回ろう。",
+        "price": "無料",
+        "originalPrice": "¥17",
+        "discount": "100% OFF",
+        "deadline": "2026年10月01日まで",
+        "url": "https://store.epicgames.com/ja/p/6a87570c28144b9cb50eb0ba46a7e19e",
+        "date": "2026-09-24"
       }
     ],
     "bundle": [
@@ -1197,8 +1221,21 @@
         "url": "https://www.pcgamer.com/hardware/gaming-keyboards/razer-reclusa-x-mini-65-percent-review/",
         "date": "2026-09-24",
         "is_translated": true
+      },
+      {
+        "title": "【愛らしい“アメリカマナティー”を紹介する「Planet Zoo 2」のアニマルスポットライト映...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【愛らしい“アメリカマナティー”を紹介する「Planet Zoo 2」のアニマルスポットライト映...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171163.html",
+        "date": "2026-09-24",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-24T14:01:23.665501"
+  "last_updated": "2026-09-24T16:54:45.186344"
 }
