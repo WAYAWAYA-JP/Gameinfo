@@ -1,68 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Luftrausers",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "The skies are aflame and the seas will overflow with wreckage in Vlambeer’s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and r…",
-        "price": "無料",
-        "originalPrice": "¥9",
-        "discount": "100% OFF",
-        "deadline": "2026年09月17日まで",
-        "url": "https://store.epicgames.com/ja/p/luftrausers",
-        "date": "2026-09-17"
-      },
-      {
-        "title": "Astral Ascent",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『アストラルアセント』は、ファンタジーな世界を舞台とした２Ｄローグライク・アクションアドベンチャーゲームです。４人のキャラクターから主人公を選び、強大な12体の守護者「ゾディアック」に守られた境界の監獄「ガーデン」を攻略していきます。",
-        "price": "無料",
-        "originalPrice": "¥25",
-        "discount": "100% OFF",
-        "deadline": "2026年09月17日まで",
-        "url": "https://store.epicgames.com/ja/p/d72ccf025e574bb4a725e3079ea34081",
-        "date": "2026-09-17"
-      },
-      {
-        "title": "マインドコップ",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『マインドコップ』は「犯人捜し」を中心とした非線形の探偵ゲームで、ストーリー主体のアドベンチャーとリアルタイムのマッチ3パズルが融合しています。プレイヤーは「マインドコップ」として容疑者の心の中に入り込み、彼らの秘密を明らかにして、嘘を解明していきます。",
-        "price": "無料",
-        "originalPrice": "¥17",
-        "discount": "100% OFF",
-        "deadline": "2026年09月24日まで",
-        "url": "https://store.epicgames.com/ja/p/1513de80f23f42e584540be749826057",
-        "date": "2026-09-17"
-      },
-      {
-        "title": "Shogun Showdown",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shog…",
-        "price": "無料",
-        "originalPrice": "¥14",
-        "discount": "100% OFF",
-        "deadline": "2026年09月24日まで",
-        "url": "https://store.epicgames.com/ja/p/shogun-showdown",
-        "date": "2026-09-17"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Narrative Masterpieces",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Narrative MasterpiecesのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/narrativemasterpieces_bundle",
-        "date": "2026-09-14"
-      },
       {
         "title": "Happy Queens Bundle",
         "platform": "IndieGala",
@@ -245,42 +184,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Cities: Skylines II",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Cities: Skylines IIがVariousで-37%セール中です。",
-        "price": "$31.49",
-        "originalPrice": "",
-        "discount": "-37%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cities-skylines-ii/info/",
-        "date": "2026-09-17"
-      },
-      {
-        "title": "ENDLESS Legend™ 2 エンドレス・レジェンド 2",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ENDLESS Legend™ 2 エンドレス・レジェンド 2がSteamで50% OFFセール中です。",
-        "price": "¥2,490",
-        "originalPrice": "¥4,980",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3407390",
-        "date": "2026-09-17"
-      },
-      {
-        "title": "Space Menace",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Space MenaceがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/space-menace/info/",
-        "date": "2026-09-17"
-      },
       {
         "title": "Dune: Awakening デューン：アウェイクニング",
         "platform": "Steam",
@@ -607,97 +510,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【高評価”段ボール”FPSの無料ゲーム『PAPERHEAD EP.0』、9月24日配信終了へ。今...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【高評価”段ボール”FPSの無料ゲーム『PAPERHEAD EP.0』、9月24日配信終了へ。今...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260919-468798/",
-        "date": "2026-09-19",
-        "is_translated": false
-      },
-      {
-        "title": "【最大4人マルチ対応・コミカル脱獄ゲーム『Get Us Out』発表。看守は“バナナの皮”で突破...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【最大4人マルチ対応・コミカル脱獄ゲーム『Get Us Out』発表。看守は“バナナの皮”で突破...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/get-us-out-20260919-468791/",
-        "date": "2026-09-19",
-        "is_translated": false
-      },
-      {
-        "title": "【クリア者たった1名!? 「なにそのアクション!!」と“ミリしら”プレイヤーが虜になった「白き鋼...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【クリア者たった1名!? 「なにそのアクション!!」と“ミリしら”プレイヤーが虜になった「白き鋼...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/09/19/188024.html",
-        "date": "2026-09-19",
-        "is_translated": false
-      },
-      {
-        "title": "【『シャングリラ・フロンティア ～七つの最強種～』は本気で「『シャンフロ』没入ゲーム」を目指す。...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『シャングリラ・フロンティア ～七つの最強種～』は本気で「『シャンフロ』没入ゲーム」を目指す。...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260919-468875/",
-        "date": "2026-09-19",
-        "is_translated": false
-      },
-      {
-        "title": "【バトロワ乱戦マルチRTS『OpenFront』、Steamでさっそく好評。「月間アクティブ10...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【バトロワ乱戦マルチRTS『OpenFront』、Steamでさっそく好評。「月間アクティブ10...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260919-468841/",
-        "date": "2026-09-19",
-        "is_translated": false
-      },
-      {
-        "title": "【WOLCEN StudioがDiablo系アクションRPG続編「Wolcen 2」の開発に関す...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【WOLCEN StudioがDiablo系アクションRPG続編「Wolcen 2」の開発に関す...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170939.html",
-        "date": "2026-09-19",
-        "is_translated": false
-      },
-      {
-        "title": "【本郷奏多さんの“『俺レべ』強火ファン”ぶり炸裂、『俺だけレベルアップな件：KARMA』TGS2...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【本郷奏多さんの“『俺レべ』強火ファン”ぶり炸裂、『俺だけレベルアップな件：KARMA』TGS2...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260919-468900/",
-        "date": "2026-09-19",
-        "is_translated": false
-      },
       {
         "title": "【基本プレイ無料『NTE』の田舎一軒家は本当に“690万の価値”ある？本気で考えてみた。畑にベッ...】",
         "platform": "AUTOMATON",
@@ -1295,8 +1107,34 @@
         "url": "https://doope.jp/2026/09171123.html",
         "date": "2026-09-23",
         "is_translated": false
+      },
+      {
+        "title": "【世界丸ごと“MMO風”物流シム『Age of Transport – Blue Marble』...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【世界丸ごと“MMO風”物流シム『Age of Transport – Blue Marble』...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/age-of-transport-20260924-469597/",
+        "date": "2026-09-24",
+        "is_translated": false
+      },
+      {
+        "title": "【「Warhammer 40,000: Dawn of War IV」の2v2チームスカーミッシ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Warhammer 40,000: Dawn of War IV」の2v2チームスカーミッシ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09170868.html",
+        "date": "2026-09-23",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-23T23:26:36.168124"
+  "last_updated": "2026-09-24T03:11:35.722637"
 }
