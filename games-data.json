@@ -556,6 +556,78 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/252490",
         "date": "2026-09-23"
+      },
+      {
+        "title": "ペルソナ３ リロード",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ３ リロードがSteamで70% OFFセール中です。",
+        "price": "¥2,303",
+        "originalPrice": "¥7,678",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2161700",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "DARK SOULS III - The Fire Fades Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DARK SOULS III - The Fire Fades EditionがSteamで50% OFFセール中です。",
+        "price": "¥2,970",
+        "originalPrice": "¥5,940",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/160150",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "ペルソナ５ ザ・ロイヤル",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ５ ザ・ロイヤルがSteamで70% OFFセール中です。",
+        "price": "¥2,303",
+        "originalPrice": "¥7,678",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1687950",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "DARK SOULS™: REMASTERED",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DARK SOULS™: REMASTEREDがSteamで50% OFFセール中です。",
+        "price": "¥2,365",
+        "originalPrice": "¥4,730",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/570940",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "メタファー：リファンタジオ",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "メタファー：リファンタジオがSteamで60% OFFセール中です。",
+        "price": "¥3,951",
+        "originalPrice": "¥9,878",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2679460",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Cyberpunk 2077がVariousで-70%セール中です。",
+        "price": "$17.99",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
+        "date": "2026-09-24"
       }
     ],
     "review": [
@@ -1234,8 +1306,21 @@
         "url": "https://doope.jp/2026/09171163.html",
         "date": "2026-09-24",
         "is_translated": false
+      },
+      {
+        "title": "【Control: Resonant is only just out of the door,...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Control: Resonant is only just out of the door,...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/control-resonant-is-only-just-out-of-the-door-and-remedy-have-already-put-out-a-hotfix-with-some-stun-buffing-combat-tweaks-and-more",
+        "date": "2026-09-24",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-24T16:54:45.186344"
+  "last_updated": "2026-09-24T23:46:31.223945"
 }
