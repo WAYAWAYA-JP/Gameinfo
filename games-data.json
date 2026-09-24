@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "マインドコップ",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『マインドコップ』は「犯人捜し」を中心とした非線形の探偵ゲームで、ストーリー主体のアドベンチャーとリアルタイムのマッチ3パズルが融合しています。プレイヤーは「マインドコップ」として容疑者の心の中に入り込み、彼らの秘密を明らかにして、嘘を解明していきます。",
+        "price": "無料",
+        "originalPrice": "¥17",
+        "discount": "100% OFF",
+        "deadline": "2026年09月24日まで",
+        "url": "https://store.epicgames.com/ja/p/1513de80f23f42e584540be749826057",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Shogun Showdown",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shog…",
+        "price": "無料",
+        "originalPrice": "¥14",
+        "discount": "100% OFF",
+        "deadline": "2026年09月24日まで",
+        "url": "https://store.epicgames.com/ja/p/shogun-showdown",
+        "date": "2026-09-24"
+      }
+    ],
     "bundle": [
       {
         "title": "Happy Queens Bundle",
@@ -1133,8 +1158,47 @@
         "url": "https://doope.jp/2026/09170868.html",
         "date": "2026-09-23",
         "is_translated": false
+      },
+      {
+        "title": "【『Mortal Shell 2』PS5パッケージ版プレイ感想。巨尻ハンターに暴走車いす、正統派...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『Mortal Shell 2』PS5パッケージ版プレイ感想。巨尻ハンターに暴走車いす、正統派...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/mortal-shell-ii-20260924-469695/",
+        "date": "2026-09-24",
+        "is_translated": false
+      },
+      {
+        "title": "【「ウィッチャー3 ワイルドハント リマスター」の地域別配信時刻がアナウンス、国内は9月29日午...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「ウィッチャー3 ワイルドハント リマスター」の地域別配信時刻がアナウンス、国内は9月29日午...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171116.html",
+        "date": "2026-09-24",
+        "is_translated": false
+      },
+      {
+        "title": "【Razer Reclusa X Mini 65% gaming keyboard review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Razer Reclusa X Mini 65% gaming keyboard review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/razer-reclusa-x-mini-65-percent-review/",
+        "date": "2026-09-24",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-24T03:11:35.722637"
+  "last_updated": "2026-09-24T14:01:23.665501"
 }
