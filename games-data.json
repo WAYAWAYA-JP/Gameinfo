@@ -234,102 +234,6 @@
     ],
     "sale": [
       {
-        "title": "Dune: Awakening デューン：アウェイクニング",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Dune: Awakening デューン：アウェイクニングがSteamで50% OFFセール中です。",
-        "price": "¥2,495",
-        "originalPrice": "¥4,990",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1172710",
-        "date": "2026-09-18"
-      },
-      {
-        "title": "Mindcop",
-        "platform": "Various",
-        "type": "sale",
-        "description": "MindcopがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/mindcop/info/",
-        "date": "2026-09-18"
-      },
-      {
-        "title": "Metaphor: ReFantazio",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Metaphor: ReFantazioがVariousで-64%セール中です。",
-        "price": "$24.95",
-        "originalPrice": "",
-        "discount": "-64%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
-        "date": "2026-09-18"
-      },
-      {
-        "title": "Shogun Showdown",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Shogun ShowdownがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/shogun-showdown/info/",
-        "date": "2026-09-18"
-      },
-      {
-        "title": "MOUSE: P.I. For Hire",
-        "platform": "Various",
-        "type": "sale",
-        "description": "MOUSE: P.I. For HireがVariousで-27%セール中です。",
-        "price": "$21.99",
-        "originalPrice": "",
-        "discount": "-27%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/mouse-pi-for-hire/info/",
-        "date": "2026-09-18"
-      },
-      {
-        "title": "FINAL FANTASY VII REBIRTH",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY VII REBIRTHがSteamで70% OFFセール中です。",
-        "price": "¥1,973",
-        "originalPrice": "¥6,578",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2909400",
-        "date": "2026-09-18"
-      },
-      {
-        "title": "ロマンシング サガ2 リベンジオブザセブン",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ロマンシング サガ2 リベンジオブザセブンがSteamで60% OFFセール中です。",
-        "price": "¥2,728",
-        "originalPrice": "¥6,820",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2455640",
-        "date": "2026-09-18"
-      },
-      {
-        "title": "PRAGMATA",
-        "platform": "Various",
-        "type": "sale",
-        "description": "PRAGMATAがVariousで-33%セール中です。",
-        "price": "$40.15",
-        "originalPrice": "",
-        "discount": "-33%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/pragmata/info/",
-        "date": "2026-09-18"
-      },
-      {
         "title": "FINAL FANTASY VII REMAKE INTERGRADE",
         "platform": "Steam",
         "type": "sale",
@@ -628,61 +532,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-09-24"
+      },
+      {
+        "title": "DARK SOULS™ II: Scholar of the First Sin",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DARK SOULS™ II: Scholar of the First SinがSteamで50% OFFセール中です。",
+        "price": "¥2,860",
+        "originalPrice": "¥5,720",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/335300",
+        "date": "2026-09-25"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料『NTE』の田舎一軒家は本当に“690万の価値”ある？本気で考えてみた。畑にベッ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料『NTE』の田舎一軒家は本当に“690万の価値”ある？本気で考えてみた。畑にベッ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260920-468925/",
-        "date": "2026-09-20",
-        "is_translated": false
-      },
-      {
-        "title": "【【TGS2026】カラフルでキュートな2.5DアクションRPG『Edentopia』がホール9...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【【TGS2026】カラフルでキュートな2.5DアクションRPG『Edentopia』がホール9...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/09/20/188060.html",
-        "date": "2026-09-20",
-        "is_translated": false
-      },
-      {
-        "title": "【『ウォーロン2』体験版は軽快に進化した……けどボスの「死にゲーらしさ」も健在。『電車アタック』...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ウォーロン2』体験版は軽快に進化した……けどボスの「死にゲーらしさ」も健在。『電車アタック』...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260920-469002/",
-        "date": "2026-09-20",
-        "is_translated": false
-      },
-      {
-        "title": "【歴史的傑作の現世代リマスター「Thief: The Dark Project Remaster...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【歴史的傑作の現世代リマスター「Thief: The Dark Project Remaster...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09170937.html",
-        "date": "2026-09-20",
-        "is_translated": false
-      },
       {
         "title": "【『ポピープレイタイム』が協力対応ホラーサバイバルに、『Escape from Playtime...】",
         "platform": "AUTOMATON",
@@ -1319,8 +1183,60 @@
         "url": "https://www.rockpapershotgun.com/control-resonant-is-only-just-out-of-the-door-and-remedy-have-already-put-out-a-hotfix-with-some-stun-buffing-combat-tweaks-and-more",
         "date": "2026-09-24",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料どうぶつ大都市ライフシム『WonderPaws』正式発表。動物たちと一緒に暮らし...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料どうぶつ大都市ライフシム『WonderPaws』正式発表。動物たちと一緒に暮らし...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260925-469782/",
+        "date": "2026-09-25",
+        "is_translated": false
+      },
+      {
+        "title": "【『ARC Raiders』にて“PvEモード”をテスト実装へ、10月13日より1週間限定。対人...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ARC Raiders』にて“PvEモード”をテスト実装へ、10月13日より1週間限定。対人...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/arc-raiders-20260925-469864/",
+        "date": "2026-09-25",
+        "is_translated": false
+      },
+      {
+        "title": "【最大4人協力マルチ対応・北極圏オンボロ車サバイバル『Arctic Drive』、11月25日早...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【最大4人協力マルチ対応・北極圏オンボロ車サバイバル『Arctic Drive』、11月25日早...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/arctic-drive-20260925-469835/",
+        "date": "2026-09-25",
+        "is_translated": false
+      },
+      {
+        "title": "【「The Division 2」にホラーテイストのセントラル・パーク探索を導入する“Echoe...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「The Division 2」にホラーテイストのセントラル・パーク探索を導入する“Echoe...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171198.html",
+        "date": "2026-09-25",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-24T23:46:31.223945"
+  "last_updated": "2026-09-25T03:28:47.681805"
 }
