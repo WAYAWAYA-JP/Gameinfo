@@ -592,6 +592,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ori-and-the-will-of-the-wisps/info/",
         "date": "2026-09-25"
+      },
+      {
+        "title": "ウィッチャー３　ワイルドハント　コンプリートエディション",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ウィッチャー３　ワイルドハント　コンプリートエディションがSteamで50% OFFセール中です。",
+        "price": "¥3,245",
+        "originalPrice": "¥6,490",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/292030",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Mechabellum",
+        "platform": "Various",
+        "type": "sale",
+        "description": "MechabellumがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/mechabellum/info/",
+        "date": "2026-09-25"
       }
     ],
     "review": [
@@ -1325,5 +1349,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-25T16:57:52.522304"
+  "last_updated": "2026-09-25T23:50:44.153046"
 }
