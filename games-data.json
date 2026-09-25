@@ -544,6 +544,54 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/335300",
         "date": "2026-09-25"
+      },
+      {
+        "title": "FINAL FANTASY VII REBIRTH",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REBIRTHがSteamで70% OFFセール中です。",
+        "price": "¥1,973",
+        "originalPrice": "¥6,578",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2909400",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "DARK SOULS III",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DARK SOULS IIIがVariousで-56%セール中です。",
+        "price": "$35.59",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dark-souls-iii/info/",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "PRAGMATA",
+        "platform": "Various",
+        "type": "sale",
+        "description": "PRAGMATAがVariousで-33%セール中です。",
+        "price": "$53.59",
+        "originalPrice": "",
+        "discount": "-33%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/pragmata/info/",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Ori and the Will of the Wisps",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Ori and the Will of the WispsがVariousで-90%セール中です。",
+        "price": "$3.99",
+        "originalPrice": "",
+        "discount": "-90%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ori-and-the-will-of-the-wisps/info/",
+        "date": "2026-09-25"
       }
     ],
     "review": [
@@ -1235,8 +1283,34 @@
         "url": "https://doope.jp/2026/09171198.html",
         "date": "2026-09-25",
         "is_translated": false
+      },
+      {
+        "title": "【『ウィッチャー3』新拡張パック「追憶の調べ」は「なんで今さら新DLC」という疑問に答えてくれそ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ウィッチャー3』新拡張パック「追憶の調べ」は「なんで今さら新DLC」という疑問に答えてくれそ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/w3-20260925-469988/",
+        "date": "2026-09-25",
+        "is_translated": false
+      },
+      {
+        "title": "【Ace Combat 8: Wings of Theve review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Ace Combat 8: Wings of Theve review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/ace-combat-8-wings-of-theve-review/",
+        "date": "2026-09-25",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-25T03:28:47.681805"
+  "last_updated": "2026-09-25T14:25:42.544039"
 }
