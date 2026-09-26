@@ -206,6 +206,42 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/trineversetriplecooppack_bundle",
         "date": "2026-09-23"
+      },
+      {
+        "title": "Indies in Space",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Indies in SpaceのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/indiesinspace_bundle",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "Crawling Through the Dungeons",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Crawling Through the DungeonsのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/crawlingthroughdungeons_bundle",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "Happy Queens Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Happy Queens BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/happy-queens-bundle",
+        "date": "2026-09-26"
       }
     ],
     "sale": [
@@ -567,6 +603,18 @@
         "discount": "-30%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "The Last of Us Part II Remastered",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Last of Us Part II RemasteredがVariousで-40%セール中です。",
+        "price": "$29.95",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-last-of-us-part-ii-remastered/info/",
         "date": "2026-09-26"
       }
     ],
@@ -1103,8 +1151,47 @@
         "url": "https://www.inside-games.jp/article/2026/09/26/188299.html",
         "date": "2026-09-26",
         "is_translated": false
+      },
+      {
+        "title": "【1300人の武将で天下統一を目指せる三国志シム『英雄立志伝：三国志』、正式リリースで日本語対応...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【1300人の武将で天下統一を目指せる三国志シム『英雄立志伝：三国志』、正式リリースで日本語対応...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260926-470141/",
+        "date": "2026-09-26",
+        "is_translated": false
+      },
+      {
+        "title": "【「1,000回遊べるRPG」を確立した記念的作品！『トルネコの大冒険 不思議のダンジョン ちょ...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【「1,000回遊べるRPG」を確立した記念的作品！『トルネコの大冒険 不思議のダンジョン ちょ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/26/188311.html",
+        "date": "2026-09-26",
+        "is_translated": false
+      },
+      {
+        "title": "【完璧な連携で絆が深まり、うっかりミスで全員が巻き添えになる…！友情が試される協力プレイアクショ...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【完璧な連携で絆が深まり、うっかりミスで全員が巻き添えになる…！友情が試される協力プレイアクショ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/26/188310.html",
+        "date": "2026-09-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-26T03:34:20.413381"
+  "last_updated": "2026-09-26T13:37:25.618973"
 }
