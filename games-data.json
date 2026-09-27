@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Assemble Entertainment Cozy Games Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Assemble Entertainment Cozy Games CollectionのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/assembleentertainmentcozygamescollection_bundle",
-        "date": "2026-09-17"
-      },
-      {
         "title": "Garbage Dwellers",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,42 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Deadshot",
-        "platform": "Various",
-        "type": "sale",
-        "description": "DeadshotがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/deadshot/info/",
-        "date": "2026-09-20"
-      },
-      {
-        "title": "For Honor",
-        "platform": "Various",
-        "type": "sale",
-        "description": "For HonorがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/for-honor/info/",
-        "date": "2026-09-20"
-      },
-      {
-        "title": "Vanakan",
-        "platform": "Various",
-        "type": "sale",
-        "description": "VanakanがVariousでセール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/vanakan/info/",
-        "date": "2026-09-20"
-      },
       {
         "title": "No Man's Sky",
         "platform": "Steam",
@@ -628,165 +580,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
         "date": "2026-09-26"
+      },
+      {
+        "title": "ロマンシング サガ2 リベンジオブザセブン",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ロマンシング サガ2 リベンジオブザセブンがSteamで60% OFFセール中です。",
+        "price": "¥2,728",
+        "originalPrice": "¥6,820",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2455640",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "The Last of Us™ Part I",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The Last of Us™ Part IがVariousで-56%セール中です。",
+        "price": "$26.65",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-last-of-us-part-i/info/",
+        "date": "2026-09-27"
       }
     ],
     "review": [
-      {
-        "title": "【PS5『地球防衛軍 6.2』は敵が多すぎるが、こっちの火力も暴力的。“画面全部が敵”の絶望を味...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【PS5『地球防衛軍 6.2』は敵が多すぎるが、こっちの火力も暴力的。“画面全部が敵”の絶望を味...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260922-469284/",
-        "date": "2026-09-22",
-        "is_translated": false
-      },
-      {
-        "title": "【『魔法少女ノ因習村』は前作『まのさば』以上に容赦なし、プレイヤーの内面をえぐるかも。御影リズ役...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『魔法少女ノ因習村』は前作『まのさば』以上に容赦なし、プレイヤーの内面をえぐるかも。御影リズ役...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/manomura-20260922-469275/",
-        "date": "2026-09-22",
-        "is_translated": false
-      },
-      {
-        "title": "【Bungieが「『Destiny』を終わらせない」と明言し再出発へ、まずは過去コンテンツ復刻か...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【Bungieが「『Destiny』を終わらせない」と明言し再出発へ、まずは過去コンテンツ復刻か...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260922-469249/",
-        "date": "2026-09-22",
-        "is_translated": false
-      },
-      {
-        "title": "【“金太郎”を導入する「Ravenswatch」新DLCの発売日が2026年10月12日に決定、...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“金太郎”を導入する「Ravenswatch」新DLCの発売日が2026年10月12日に決定、...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09171062.html",
-        "date": "2026-09-22",
-        "is_translated": false
-      },
-      {
-        "title": "【Diablo系ダンジョンアクションRPG続編「Minecraft Dungeons II」のオ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【Diablo系ダンジョンアクションRPG続編「Minecraft Dungeons II」のオ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09171057.html",
-        "date": "2026-09-22",
-        "is_translated": false
-      },
-      {
-        "title": "【『ファイナルファンタジーVII リベレーション』TGSバトルプレイ感想。最終作のバトルは、自由...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ファイナルファンタジーVII リベレーション』TGSバトルプレイ感想。最終作のバトルは、自由...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/ff7r-20260922-469333/",
-        "date": "2026-09-22",
-        "is_translated": false
-      },
-      {
-        "title": "【『スター・ウォーズ：ギャラクティック・レーサー』はフォースなし、ジェダイなしの濃厚「スター・ウ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『スター・ウォーズ：ギャラクティック・レーサー』はフォースなし、ジェダイなしの濃厚「スター・ウ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20260922-469340/",
-        "date": "2026-09-22",
-        "is_translated": false
-      },
-      {
-        "title": "【美少女ローグライトアクション『Ved：リキュア』は、かわいいキャラを眺める暇がない。待っていた...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【美少女ローグライトアクション『Ved：リキュア』は、かわいいキャラを眺める暇がない。待っていた...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/ved-recure-20260922-469190/",
-        "date": "2026-09-22",
-        "is_translated": false
-      },
-      {
-        "title": "【Kyle Thompson氏の新作メトロイドヴァニア「Well Dweller」が本日発売、ロ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【Kyle Thompson氏の新作メトロイドヴァニア「Well Dweller」が本日発売、ロ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09171031.html",
-        "date": "2026-09-22",
-        "is_translated": false
-      },
-      {
-        "title": "【カオスなCo-op爆弾解体ゲーム「BOMBANANA!」の販売が累計100万本を突破、モバイル...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【カオスなCo-op爆弾解体ゲーム「BOMBANANA!」の販売が累計100万本を突破、モバイル...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09171033.html",
-        "date": "2026-09-22",
-        "is_translated": false
-      },
-      {
-        "title": "【Nighthawks review – a series of vignettes that ...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Nighthawks review – a series of vignettes that ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter",
-        "date": "2026-09-22",
-        "is_translated": true
-      },
-      {
-        "title": "【映画“DUNE/デューン 砂の惑星”と続編にインスパイアされたコンテンツを導入する「Dune:...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【映画“DUNE/デューン 砂の惑星”と続編にインスパイアされたコンテンツを導入する「Dune:...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09171032.html",
-        "date": "2026-09-22",
-        "is_translated": false
-      },
       {
         "title": "【コントローラー不要ゲーム機「Nex Playground」日本上陸へ。『ソニック』『パックマン...：レビュー】",
         "platform": "AUTOMATON",
@@ -1202,8 +1022,34 @@
         "url": "https://www.inside-games.jp/article/2026/09/26/188310.html",
         "date": "2026-09-26",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料『NTE』この5か月で街はどう変わった？どんどん妙な進化、“遊べる無法地帯”に。...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料『NTE』この5か月で街はどう変わった？どんどん妙な進化、“遊べる無法地帯”に。...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260926-470167/",
+        "date": "2026-09-27",
+        "is_translated": false
+      },
+      {
+        "title": "【'Godzilla Minus Zero' Review: The Best Godzilla...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【'Godzilla Minus Zero' Review: The Best Godzilla...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/godzilla-minus-zero-review/",
+        "date": "2026-09-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-26T23:23:20.239271"
+  "last_updated": "2026-09-27T03:43:15.386678"
 }
