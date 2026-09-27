@@ -628,6 +628,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/524220",
         "date": "2026-09-27"
+      },
+      {
+        "title": "NieR Replicant™ ver.1.22474487139...",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "NieR Replicant™ ver.1.22474487139...がSteamで60% OFFセール中です。",
+        "price": "¥3,432",
+        "originalPrice": "¥8,580",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1113560",
+        "date": "2026-09-27"
       }
     ],
     "review": [
@@ -1085,8 +1097,21 @@
         "url": "https://automaton-media.com/articles/now-gaming/20260927-470270/",
         "date": "2026-09-27",
         "is_translated": false
+      },
+      {
+        "title": "【コスプレ】『原神』6周年記念！蛍やフリーナなど物語を彩る魅力あふれるキャラクターに扮した美女コスプレイヤーまとめ【写真81枚】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【コスプレ】『原神』6周年記念！蛍やフリーナなど物語を彩る魅力あふれるキャラクターに扮した美女コスプレイヤーまとめ【写真81枚】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/09/28/188348.html",
+        "date": "2026-09-27",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-27T16:45:49.306642"
+  "last_updated": "2026-09-27T23:40:28.288617"
 }
