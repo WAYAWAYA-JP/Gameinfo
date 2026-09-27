@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/happy-queens-bundle",
         "date": "2026-09-26"
+      },
+      {
+        "title": "Assemble Entertainment Cozy Games Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Assemble Entertainment Cozy Games CollectionのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/assembleentertainmentcozygamescollection_bundle",
+        "date": "2026-09-27"
       }
     ],
     "sale": [
@@ -603,6 +615,18 @@
         "discount": "-56%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-last-of-us-part-i/info/",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "NieR:Automata™",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "NieR:Automata™がSteamで60% OFFセール中です。",
+        "price": "¥2,112",
+        "originalPrice": "¥5,280",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/524220",
         "date": "2026-09-27"
       }
     ],
@@ -1048,8 +1072,21 @@
         "url": "https://www.polygon.com/godzilla-minus-zero-review/",
         "date": "2026-09-27",
         "is_translated": true
+      },
+      {
+        "title": "【『ファイアーエムブレム 万紫千紅』はとにかく「カオス」で感想言うの難しすぎる。『神貌（かんばく...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ファイアーエムブレム 万紫千紅』はとにかく「カオス」で感想言うの難しすぎる。『神貌（かんばく...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20260927-470270/",
+        "date": "2026-09-27",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-27T03:43:15.386678"
+  "last_updated": "2026-09-27T14:33:48.217575"
 }
