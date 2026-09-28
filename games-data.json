@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/assembleentertainmentcozygamescollection_bundle",
         "date": "2026-09-27"
+      },
+      {
+        "title": "Garbage Dwellers",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Garbage DwellersのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/garbagedwellers_bundle",
+        "date": "2026-09-28"
       }
     ],
     "sale": [
@@ -948,8 +960,99 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-great-haystack-slop-is-a-thing-now/",
         "date": "2026-09-28",
         "is_translated": true
+      },
+      {
+        "title": "【注目の宇宙RPG『EXODUS』開発者は“プレイヤーを悩ませる気満々”。『Mass Effec...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【注目の宇宙RPG『EXODUS』開発者は“プレイヤーを悩ませる気満々”。『Mass Effec...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/exodus-20260928-470433/",
+        "date": "2026-09-28",
+        "is_translated": false
+      },
+      {
+        "title": "【『ダンジョンズ&ドラゴンズ』のアクションRPG『WARLOCK』は、TRPGの超自由度を「魔法...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ダンジョンズ&ドラゴンズ』のアクションRPG『WARLOCK』は、TRPGの超自由度を「魔法...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/warlock-20260928-470401/",
+        "date": "2026-09-28",
+        "is_translated": false
+      },
+      {
+        "title": "【北欧神話サバイバル『Valheim』にて、『スカイリム』のあの村を再現したプレイヤー現る。あま...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【北欧神話サバイバル『Valheim』にて、『スカイリム』のあの村を再現したプレイヤー現る。あま...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260928-470393/",
+        "date": "2026-09-28",
+        "is_translated": false
+      },
+      {
+        "title": "【人気ストラテジー『Total War: WARHAMMER III』4年ぶりにSteam同接「...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【人気ストラテジー『Total War: WARHAMMER III』4年ぶりにSteam同接「...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260928-470364/",
+        "date": "2026-09-28",
+        "is_translated": false
+      },
+      {
+        "title": "【解禁が迫る「ウィッチャー3 ワイルドハント リマスター」の本格的なゲームプレイ映像が多数登場、...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【解禁が迫る「ウィッチャー3 ワイルドハント リマスター」の本格的なゲームプレイ映像が多数登場、...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171196.html",
+        "date": "2026-09-28",
+        "is_translated": false
+      },
+      {
+        "title": "【\"We clearly handled that responsibility poorly\"...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【\"We clearly handled that responsibility poorly\"...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/we-clearly-handled-that-responsibility-poorly-paradox-ban-discord-profile-pics-of-historical-figures-born-after-1800-after-bust-up-with-hearts-of-iron-4-players-over-ataturk-banning",
+        "date": "2026-09-28",
+        "is_translated": true
+      },
+      {
+        "title": "【'Get Jiro' Review: Adult Swim’s Anthony Bourdai...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【'Get Jiro' Review: Adult Swim’s Anthony Bourdai...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/get-jiro-adult-swim-review/",
+        "date": "2026-09-28",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-28T03:42:47.386472"
+  "last_updated": "2026-09-28T17:21:02.584995"
 }
