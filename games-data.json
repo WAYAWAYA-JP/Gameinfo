@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/garbagedwellers_bundle",
         "date": "2026-09-28"
+      },
+      {
+        "title": "Programming Puzzles Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Programming Puzzles BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/programingpuzzlesbundle_bundle",
+        "date": "2026-09-28"
       }
     ],
     "sale": [
@@ -567,6 +579,42 @@
         "discount": "-100%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/astrea-six-sided-oracles/info/",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REMAKE INTERGRADEがSteamで75% OFFセール中です。",
+        "price": "¥1,369",
+        "originalPrice": "¥5,478",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1462040",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Persona 3 Reload",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Persona 3 ReloadがVariousで-70%セール中です。",
+        "price": "$17.95",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/persona-3-reload/info/",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Metaphor: ReFantazio",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Metaphor: ReFantazioがVariousで-64%セール中です。",
+        "price": "$24.95",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
         "date": "2026-09-28"
       }
     ],
@@ -1054,5 +1102,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-28T17:21:02.584995"
+  "last_updated": "2026-09-28T19:30:37.120705"
 }
