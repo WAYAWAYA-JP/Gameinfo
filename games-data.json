@@ -604,6 +604,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dredge/info/",
         "date": "2026-09-29"
+      },
+      {
+        "title": "REMATCH",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "REMATCHがSteamで60% OFFセール中です。",
+        "price": "¥1,480",
+        "originalPrice": "¥3,700",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2138720",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Disco Elysium - The Final Cut",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Disco Elysium - The Final CutがVariousで-78%セール中です。",
+        "price": "$8.99",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
+        "date": "2026-09-29"
       }
     ],
     "review": [
@@ -1165,8 +1189,34 @@
         "url": "https://www.rockpapershotgun.com/the-witcher-3-remastered-has-scuppered-an-ambitious-cut-plague-quest-restoration-mod-but-therell-be-something-extra-in-the-update-that-gets-it-working-again",
         "date": "2026-09-29",
         "is_translated": true
+      },
+      {
+        "title": "【Diablo系ダンジョンアクションRPG続編「Minecraft Dungeons II」が遂...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Diablo系ダンジョンアクションRPG続編「Minecraft Dungeons II」が遂...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171273.html",
+        "date": "2026-09-29",
+        "is_translated": false
+      },
+      {
+        "title": "【The Witcher 3 Remastered Is Officially the Best...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【The Witcher 3 Remastered Is Officially the Best...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/witcher-3-wild-hunt-remastered-review-roundup/",
+        "date": "2026-09-29",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-29T15:21:55.003346"
+  "last_updated": "2026-09-29T17:57:16.052034"
 }
