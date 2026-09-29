@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/programingpuzzlesbundle_bundle",
         "date": "2026-09-28"
+      },
+      {
+        "title": "Pixel Traditions Bundle 4",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Pixel Traditions Bundle 4のバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/pixel-traditions4-bundle",
+        "date": "2026-09-29"
       }
     ],
     "sale": [
@@ -999,8 +1011,21 @@
         "url": "https://www.polygon.com/keep-driving-switch-recommendation/",
         "date": "2026-09-29",
         "is_translated": true
+      },
+      {
+        "title": "【ゲームの選択肢では「“悪いことをする”と没入感が高まる可能性」が、『デトロイト ビカム ヒュー...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【ゲームの選択肢では「“悪いことをする”と没入感が高まる可能性」が、『デトロイト ビカム ヒュー...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260929-470561/",
+        "date": "2026-09-29",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-09-29T00:50:08.738240"
+  "last_updated": "2026-09-29T04:17:16.908971"
 }
