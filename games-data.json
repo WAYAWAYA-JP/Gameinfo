@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "IGN 30th Anniversary Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "IGN 30th Anniversary BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/ign30thanniversarybundle_bundle",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Pixel Traditions Bundle 4",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Pixel Traditions Bundle 4のバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/pixel-traditions4-bundle",
-        "date": "2026-09-19"
-      },
-      {
         "title": "Dread and Dark Fantasies RPG Collection",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,42 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-がSteamで70% OFFセール中です。",
-        "price": "¥2,244",
-        "originalPrice": "¥7,480",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2552430",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Disco Elysium - The Final Cut",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Disco Elysium - The Final CutがVariousで-80%セール中です。",
-        "price": "$7.85",
-        "originalPrice": "",
-        "discount": "-80%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Red Dead Redemption 2がVariousで-75%セール中です。",
-        "price": "$14.79",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-09-22"
-      },
       {
         "title": "Monster Hunter Wilds",
         "platform": "Various",
@@ -616,87 +556,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
         "date": "2026-09-28"
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Baldur's Gate 3がVariousで-30%セール中です。",
+        "price": "$41.99",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/baldurs-gate-3/info/",
+        "date": "2026-09-29"
       }
     ],
     "review": [
-      {
-        "title": "【世界丸ごと“MMO風”物流シム『Age of Transport – Blue Marble』...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【世界丸ごと“MMO風”物流シム『Age of Transport – Blue Marble』...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/age-of-transport-20260924-469597/",
-        "date": "2026-09-24",
-        "is_translated": false
-      },
-      {
-        "title": "【『Mortal Shell 2』PS5パッケージ版プレイ感想。巨尻ハンターに暴走車いす、正統派...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『Mortal Shell 2』PS5パッケージ版プレイ感想。巨尻ハンターに暴走車いす、正統派...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/mortal-shell-ii-20260924-469695/",
-        "date": "2026-09-24",
-        "is_translated": false
-      },
-      {
-        "title": "【「ウィッチャー3 ワイルドハント リマスター」の地域別配信時刻がアナウンス、国内は9月29日午...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「ウィッチャー3 ワイルドハント リマスター」の地域別配信時刻がアナウンス、国内は9月29日午...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09171116.html",
-        "date": "2026-09-24",
-        "is_translated": false
-      },
-      {
-        "title": "【Razer Reclusa X Mini 65% gaming keyboard review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Razer Reclusa X Mini 65% gaming keyboard review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/razer-reclusa-x-mini-65-percent-review/",
-        "date": "2026-09-24",
-        "is_translated": true
-      },
-      {
-        "title": "【愛らしい“アメリカマナティー”を紹介する「Planet Zoo 2」のアニマルスポットライト映...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【愛らしい“アメリカマナティー”を紹介する「Planet Zoo 2」のアニマルスポットライト映...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09171163.html",
-        "date": "2026-09-24",
-        "is_translated": false
-      },
-      {
-        "title": "【Control: Resonant is only just out of the door,...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Control: Resonant is only just out of the door,...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/control-resonant-is-only-just-out-of-the-door-and-remedy-have-already-put-out-a-hotfix-with-some-stun-buffing-combat-tweaks-and-more",
-        "date": "2026-09-24",
-        "is_translated": true
-      },
       {
         "title": "【基本プレイ無料どうぶつ大都市ライフシム『WonderPaws』正式発表。動物たちと一緒に暮らし...】",
         "platform": "AUTOMATON",
@@ -1099,8 +973,34 @@
         "url": "https://www.polygon.com/get-jiro-adult-swim-review/",
         "date": "2026-09-28",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料『サカつく2026』のロードマップがどどんと公開。12月には育成特化&スカウトマ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料『サカつく2026』のロードマップがどどんと公開。12月には育成特化&スカウトマ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260929-470472/",
+        "date": "2026-09-29",
+        "is_translated": false
+      },
+      {
+        "title": "【Switch Finally Gets One of 2025’s Best-Reviewed...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Switch Finally Gets One of 2025’s Best-Reviewed...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/keep-driving-switch-recommendation/",
+        "date": "2026-09-29",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-28T19:30:37.120705"
+  "last_updated": "2026-09-29T00:50:08.738240"
 }
