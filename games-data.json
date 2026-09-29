@@ -580,6 +580,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/baldurs-gate-3/info/",
         "date": "2026-09-29"
+      },
+      {
+        "title": "ウィッチャー３　ワイルドハント　リマスター",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ウィッチャー３　ワイルドハント　リマスターがSteamで50% OFFセール中です。",
+        "price": "¥3,245",
+        "originalPrice": "¥6,490",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/292030",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Dredge",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DredgeがVariousで-65%セール中です。",
+        "price": "$8.69",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dredge/info/",
+        "date": "2026-09-29"
       }
     ],
     "review": [
@@ -1024,8 +1048,125 @@
         "url": "https://automaton-media.com/articles/newsjp/20260929-470561/",
         "date": "2026-09-29",
         "is_translated": false
+      },
+      {
+        "title": "【『ウィッチャー3 リマスター』さっそく「Steam同接10万人突破」で人気爆発中。“オリジナル...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ウィッチャー3 リマスター』さっそく「Steam同接10万人突破」で人気爆発中。“オリジナル...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260929-470720/",
+        "date": "2026-09-29",
+        "is_translated": false
+      },
+      {
+        "title": "【マルチプレイ「車で椅子取り」対戦『Get Off My Trailer!』発表。トレーラーの荷...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【マルチプレイ「車で椅子取り」対戦『Get Off My Trailer!』発表。トレーラーの荷...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260929-470694/",
+        "date": "2026-09-29",
+        "is_translated": false
+      },
+      {
+        "title": "【新たな放置RPGは本格ハクスラ、『デスクロール：放置ARPG』が“同接2万超え”の大賑わい。『...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【新たな放置RPGは本格ハクスラ、『デスクロール：放置ARPG』が“同接2万超え”の大賑わい。『...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260929-470640/",
+        "date": "2026-09-29",
+        "is_translated": false
+      },
+      {
+        "title": "【ウイルスまみれ“古のPC風”ヴァンサバライク『Antivirus Survivors 2003...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【ウイルスまみれ“古のPC風”ヴァンサバライク『Antivirus Survivors 2003...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260929-470613/",
+        "date": "2026-09-29",
+        "is_translated": false
+      },
+      {
+        "title": "【写真を撮りながら奇妙な世界を旅するアドベンチャー“TOEM”の続編「TOEM 2」が本日発売、...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【写真を撮りながら奇妙な世界を旅するアドベンチャー“TOEM”の続編「TOEM 2」が本日発売、...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171292.html",
+        "date": "2026-09-29",
+        "is_translated": false
+      },
+      {
+        "title": "【傑作RPGが現世代向けに生まれ変わる「ウィッチャー3 ワイルドハント リマスター」が遂にリリー...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【傑作RPGが現世代向けに生まれ変わる「ウィッチャー3 ワイルドハント リマスター」が遂にリリー...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171267.html",
+        "date": "2026-09-29",
+        "is_translated": false
+      },
+      {
+        "title": "【SteelSeries Rival Pro gaming mouse review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【SteelSeries Rival Pro gaming mouse review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/steelseries-rival-pro-gaming-mouse-review/",
+        "date": "2026-09-29",
+        "is_translated": true
+      },
+      {
+        "title": "【\"A quite beautiful compromise\": The LEGO Skylin...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【\"A quite beautiful compromise\": The LEGO Skylin...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/a-quite-beautiful-compromise-the-lego-skylines-devs-did-consider-brick-by-brick-building-but-decided-it-was-too-much-fuss-for-players",
+        "date": "2026-09-29",
+        "is_translated": true
+      },
+      {
+        "title": "【The Witcher 3 Remastered has scuppered an ambit...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【The Witcher 3 Remastered has scuppered an ambit...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-witcher-3-remastered-has-scuppered-an-ambitious-cut-plague-quest-restoration-mod-but-therell-be-something-extra-in-the-update-that-gets-it-working-again",
+        "date": "2026-09-29",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-29T04:17:16.908971"
+  "last_updated": "2026-09-29T15:21:55.003346"
 }
