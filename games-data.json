@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Dread and Dark Fantasies RPG Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Dread and Dark Fantasies RPG CollectionのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/dreadanddarkfantasiesrpgcollection_bundle",
-        "date": "2026-09-20"
-      },
-      {
         "title": "Decked Out Deckbuilders",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,42 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Monster Hunter Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Monster Hunter WildsがVariousで-33%セール中です。",
-        "price": "$26.99",
-        "originalPrice": "",
-        "discount": "-33%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "RESIDENT EVIL 2 (2019)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "RESIDENT EVIL 2 (2019)がVariousで-83%セール中です。",
-        "price": "$6.80",
-        "originalPrice": "",
-        "discount": "-83%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-2-2019/info/",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "Rust",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "RustがSteamで50% OFFセール中です。",
-        "price": "¥2,300",
-        "originalPrice": "¥4,600",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/252490",
-        "date": "2026-09-23"
-      },
       {
         "title": "ペルソナ３ リロード",
         "platform": "Steam",
@@ -631,97 +583,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料どうぶつ大都市ライフシム『WonderPaws』正式発表。動物たちと一緒に暮らし...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料どうぶつ大都市ライフシム『WonderPaws』正式発表。動物たちと一緒に暮らし...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260925-469782/",
-        "date": "2026-09-25",
-        "is_translated": false
-      },
-      {
-        "title": "【『ARC Raiders』にて“PvEモード”をテスト実装へ、10月13日より1週間限定。対人...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ARC Raiders』にて“PvEモード”をテスト実装へ、10月13日より1週間限定。対人...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/arc-raiders-20260925-469864/",
-        "date": "2026-09-25",
-        "is_translated": false
-      },
-      {
-        "title": "【最大4人協力マルチ対応・北極圏オンボロ車サバイバル『Arctic Drive』、11月25日早...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【最大4人協力マルチ対応・北極圏オンボロ車サバイバル『Arctic Drive』、11月25日早...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/arctic-drive-20260925-469835/",
-        "date": "2026-09-25",
-        "is_translated": false
-      },
-      {
-        "title": "【「The Division 2」にホラーテイストのセントラル・パーク探索を導入する“Echoe...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「The Division 2」にホラーテイストのセントラル・パーク探索を導入する“Echoe...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09171198.html",
-        "date": "2026-09-25",
-        "is_translated": false
-      },
-      {
-        "title": "【『ウィッチャー3』新拡張パック「追憶の調べ」は「なんで今さら新DLC」という疑問に答えてくれそ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ウィッチャー3』新拡張パック「追憶の調べ」は「なんで今さら新DLC」という疑問に答えてくれそ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/w3-20260925-469988/",
-        "date": "2026-09-25",
-        "is_translated": false
-      },
-      {
-        "title": "【Ace Combat 8: Wings of Theve review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Ace Combat 8: Wings of Theve review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/action/ace-combat-8-wings-of-theve-review/",
-        "date": "2026-09-25",
-        "is_translated": true
-      },
-      {
-        "title": "【Ace Combat 8 Reviews Officially Make It One of ...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【Ace Combat 8 Reviews Officially Make It One of ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/ace-combat-8-review-roundup/",
-        "date": "2026-09-25",
-        "is_translated": true
-      },
       {
         "title": "【『ロマンシング サガ3 デスティニーユナイテッド』先行プレイ感想。3Dの「ゆきだるま」に感動し...】",
         "platform": "AUTOMATON",
@@ -1215,8 +1076,34 @@
         "url": "https://www.polygon.com/witcher-3-wild-hunt-remastered-review-roundup/",
         "date": "2026-09-29",
         "is_translated": true
+      },
+      {
+        "title": "【Garry Newman adds necks to his neckless charact...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Garry Newman adds necks to his neckless charact...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/software/garry-newman-adds-necks-to-his-neckless-characters-because-the-lack-of-necks-comes-up-consistently-in-our-many-many-many-negative-reviews/",
+        "date": "2026-09-29",
+        "is_translated": true
+      },
+      {
+        "title": "【Ace Combat 8 Steam reviewers are steaming mad a...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Ace Combat 8 Steam reviewers are steaming mad a...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
+        "date": "2026-09-29",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-29T17:57:16.052034"
+  "last_updated": "2026-09-30T00:05:02.507655"
 }
