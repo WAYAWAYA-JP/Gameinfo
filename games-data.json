@@ -230,6 +230,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/pixel-traditions4-bundle",
         "date": "2026-09-29"
+      },
+      {
+        "title": "Hidden Art 3 Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Hidden Art 3 BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/hidden-art3-bundle",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "HHPixel Traditions Bundle 4",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "HHPixel Traditions Bundle 4のバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/pixel-traditions4-bundle",
+        "date": "2026-09-30"
       }
     ],
     "sale": [
@@ -580,6 +604,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
         "date": "2026-09-29"
+      },
+      {
+        "title": "Detroit: Become Human",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Detroit: Become HumanがVariousで-84%セール中です。",
+        "price": "$6.39",
+        "originalPrice": "",
+        "discount": "-84%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
+        "date": "2026-09-30"
       }
     ],
     "review": [
@@ -1167,8 +1203,99 @@
         "url": "https://doope.jp/2026/09171310.html",
         "date": "2026-09-30",
         "is_translated": false
+      },
+      {
+        "title": "【サイバーパンク商売人生活シム『Nivalis Nights』さっそく盛り上がる。厳しい当局はい...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【サイバーパンク商売人生活シム『Nivalis Nights』さっそく盛り上がる。厳しい当局はい...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20260930-470982/",
+        "date": "2026-09-30",
+        "is_translated": false
+      },
+      {
+        "title": "【12人のプレイヤーが戦うレースを導入する「Teardown」の新ゲームモード“Teardown...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【12人のプレイヤーが戦うレースを導入する「Teardown」の新ゲームモード“Teardown...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/09171321.html",
+        "date": "2026-09-30",
+        "is_translated": false
+      },
+      {
+        "title": "【Asus TUF Gaming A16 gaming laptop review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Asus TUF Gaming A16 gaming laptop review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-gaming-a16-review/",
+        "date": "2026-09-30",
+        "is_translated": true
+      },
+      {
+        "title": "【MSI Katana 15 HX B14W gaming laptop review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【MSI Katana 15 HX B14W gaming laptop review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-laptops/msi-katana-15-hx-b14w-review/",
+        "date": "2026-09-30",
+        "is_translated": true
+      },
+      {
+        "title": "【Lenovo Legion 5i Gen 10 gaming laptop review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Lenovo Legion 5i Gen 10 gaming laptop review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-laptops/lenovo-legion-5i-gen-10-review/",
+        "date": "2026-09-30",
+        "is_translated": true
+      },
+      {
+        "title": "【\"NO GAME NO LIFE\": Grasshopper Manufacture have...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【\"NO GAME NO LIFE\": Grasshopper Manufacture have...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/no-game-no-life-grasshopper-manufacture-have-leapt-from-the-jaws-of-netease-and-gone-indie-again",
+        "date": "2026-09-30",
+        "is_translated": true
+      },
+      {
+        "title": "【Secretlab ATLAS Dune+ Review】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Secretlab ATLAS Dune+ Review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/secretlab-atlas-dune-chair-review/",
+        "date": "2026-09-30",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-30T04:01:32.634518"
+  "last_updated": "2026-09-30T15:37:55.041380"
 }
