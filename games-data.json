@@ -1,104 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "マインドコップ",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『マインドコップ』は「犯人捜し」を中心とした非線形の探偵ゲームで、ストーリー主体のアドベンチャーとリアルタイムのマッチ3パズルが融合しています。プレイヤーは「マインドコップ」として容疑者の心の中に入り込み、彼らの秘密を明らかにして、嘘を解明していきます。",
-        "price": "無料",
-        "originalPrice": "¥17",
-        "discount": "100% OFF",
-        "deadline": "2026年09月24日まで",
-        "url": "https://store.epicgames.com/ja/p/1513de80f23f42e584540be749826057",
-        "date": "2026-09-24"
-      },
-      {
-        "title": "Shogun Showdown",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shog…",
-        "price": "無料",
-        "originalPrice": "¥14",
-        "discount": "100% OFF",
-        "deadline": "2026年09月24日まで",
-        "url": "https://store.epicgames.com/ja/p/shogun-showdown",
-        "date": "2026-09-24"
-      },
-      {
-        "title": "Astrea Six Sided Oracles",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Astrea Six Sided OraclesがEpic Gamesで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "¥24",
-        "discount": "100% OFF",
-        "deadline": "2026年10月01日まで",
-        "url": "https://store.epicgames.com/ja/p/915d7181013c40d980e1924513c7b8ec",
-        "date": "2026-09-24"
-      },
-      {
-        "title": "Mechabellum",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "大軍のメカを指揮して戦いを繰り広げる壮大なオート戦闘ゲーム。精巧なグラフィックで展開される3Dバトルで、軍隊を編成してユニットをカスタマイズしよう。陣形を熟知して敵を叩き潰せ。クリック連打は不要。戦略だけが物を言う。1対1、2対2、デスマッチ、またはサバイバルモードで相手の頭脳を上回ろう。",
-        "price": "無料",
-        "originalPrice": "¥17",
-        "discount": "100% OFF",
-        "deadline": "2026年10月01日まで",
-        "url": "https://store.epicgames.com/ja/p/6a87570c28144b9cb50eb0ba46a7e19e",
-        "date": "2026-09-24"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Decked Out Deckbuilders",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Decked Out DeckbuildersのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/deckedoutdeckbuilders_bundle",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Run It Back - Roguelikes Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Run It Back - Roguelikes BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/runitbackroguelikes_bundle",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "HHHorror Station Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "HHHorror Station BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/horror-station-bundle",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "The Almighty God Games Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "The Almighty God Games BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/almightygodgamesbundle_bundle",
-        "date": "2026-09-21"
-      },
       {
         "title": "Mega Man: Recharged Collection",
         "platform": "Humble Bundle",
@@ -254,81 +157,21 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/pixel-traditions4-bundle",
         "date": "2026-09-30"
+      },
+      {
+        "title": "2D Rewind Collection from S2 Games",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "2D Rewind Collection from S2 GamesのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/2drewindcollectionfroms2games_bundle",
+        "date": "2026-10-01"
       }
     ],
     "sale": [
-      {
-        "title": "ペルソナ３ リロード",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ペルソナ３ リロードがSteamで70% OFFセール中です。",
-        "price": "¥2,303",
-        "originalPrice": "¥7,678",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2161700",
-        "date": "2026-09-24"
-      },
-      {
-        "title": "DARK SOULS III - The Fire Fades Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DARK SOULS III - The Fire Fades EditionがSteamで50% OFFセール中です。",
-        "price": "¥2,970",
-        "originalPrice": "¥5,940",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/160150",
-        "date": "2026-09-24"
-      },
-      {
-        "title": "ペルソナ５ ザ・ロイヤル",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ペルソナ５ ザ・ロイヤルがSteamで70% OFFセール中です。",
-        "price": "¥2,303",
-        "originalPrice": "¥7,678",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1687950",
-        "date": "2026-09-24"
-      },
-      {
-        "title": "DARK SOULS™: REMASTERED",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DARK SOULS™: REMASTEREDがSteamで50% OFFセール中です。",
-        "price": "¥2,365",
-        "originalPrice": "¥4,730",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/570940",
-        "date": "2026-09-24"
-      },
-      {
-        "title": "メタファー：リファンタジオ",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "メタファー：リファンタジオがSteamで60% OFFセール中です。",
-        "price": "¥3,951",
-        "originalPrice": "¥9,878",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2679460",
-        "date": "2026-09-24"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Cyberpunk 2077がVariousで-70%セール中です。",
-        "price": "$17.99",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-09-24"
-      },
       {
         "title": "DARK SOULS™ II: Scholar of the First Sin",
         "platform": "Steam",
@@ -616,87 +459,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
         "date": "2026-09-30"
+      },
+      {
+        "title": "CONTROL Resonant",
+        "platform": "Various",
+        "type": "sale",
+        "description": "CONTROL ResonantがVariousで-16%セール中です。",
+        "price": "$50.62",
+        "originalPrice": "",
+        "discount": "-16%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/control-resonant/info/",
+        "date": "2026-10-01"
       }
     ],
     "review": [
-      {
-        "title": "【『ロマンシング サガ3 デスティニーユナイテッド』先行プレイ感想。3Dの「ゆきだるま」に感動し...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ロマンシング サガ3 デスティニーユナイテッド』先行プレイ感想。3Dの「ゆきだるま」に感動し...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/rs3-20260926-470130/",
-        "date": "2026-09-26",
-        "is_translated": false
-      },
-      {
-        "title": "【マッチ1本で「殴り、跳ぶ」ダークメトロイドヴァニア『井戸の鳥』、貫禄の「好評率96％」スタート...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【マッチ1本で「殴り、跳ぶ」ダークメトロイドヴァニア『井戸の鳥』、貫禄の「好評率96％」スタート...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/well-dweller-20260926-470120/",
-        "date": "2026-09-26",
-        "is_translated": false
-      },
-      {
-        "title": "【「HUNTER×HUNTER」G.I.編のアイテム「聖騎士の首飾り」本格アクセが予約販売！プレ...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【「HUNTER×HUNTER」G.I.編のアイテム「聖騎士の首飾り」本格アクセが予約販売！プレ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/09/26/188299.html",
-        "date": "2026-09-26",
-        "is_translated": false
-      },
-      {
-        "title": "【1300人の武将で天下統一を目指せる三国志シム『英雄立志伝：三国志』、正式リリースで日本語対応...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【1300人の武将で天下統一を目指せる三国志シム『英雄立志伝：三国志』、正式リリースで日本語対応...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260926-470141/",
-        "date": "2026-09-26",
-        "is_translated": false
-      },
-      {
-        "title": "【「1,000回遊べるRPG」を確立した記念的作品！『トルネコの大冒険 不思議のダンジョン ちょ...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【「1,000回遊べるRPG」を確立した記念的作品！『トルネコの大冒険 不思議のダンジョン ちょ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/09/26/188311.html",
-        "date": "2026-09-26",
-        "is_translated": false
-      },
-      {
-        "title": "【完璧な連携で絆が深まり、うっかりミスで全員が巻き添えになる…！友情が試される協力プレイアクショ...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【完璧な連携で絆が深まり、うっかりミスで全員が巻き添えになる…！友情が試される協力プレイアクショ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/09/26/188310.html",
-        "date": "2026-09-26",
-        "is_translated": false
-      },
       {
         "title": "【基本プレイ無料『NTE』この5か月で街はどう変わった？どんどん妙な進化、“遊べる無法地帯”に。...】",
         "platform": "AUTOMATON",
@@ -1294,8 +1071,34 @@
         "url": "https://www.polygon.com/secretlab-atlas-dune-chair-review/",
         "date": "2026-09-30",
         "is_translated": true
+      },
+      {
+        "title": "【コスプレ】大人気コスプレイヤー・えなこの真紅のドレスが美しい！『シャングリラ・フロンティア』を先行プレイする笑顔が可愛かった【写真19枚】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【コスプレ】大人気コスプレイヤー・えなこの真紅のドレスが美しい！『シャングリラ・フロンティア』を先行プレイする笑顔が可愛かった【写真19枚】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/10/01/188536.html",
+        "date": "2026-09-30",
+        "is_translated": false
+      },
+      {
+        "title": "【10 Biggest GTA 6 Questions the Previews Haven't...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【10 Biggest GTA 6 Questions the Previews Haven't...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/gta-6-major-questions/",
+        "date": "2026-09-30",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-09-30T17:52:58.336650"
+  "last_updated": "2026-10-01T00:22:20.500232"
 }
