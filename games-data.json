@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Astrea Six Sided Oracles",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Astrea Six Sided OraclesがEpic Gamesで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "¥24",
+        "discount": "100% OFF",
+        "deadline": "2026年10月01日まで",
+        "url": "https://store.epicgames.com/ja/p/915d7181013c40d980e1924513c7b8ec",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Mechabellum",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "大軍のメカを指揮して戦いを繰り広げる壮大なオート戦闘ゲーム。精巧なグラフィックで展開される3Dバトルで、軍隊を編成してユニットをカスタマイズしよう。陣形を熟知して敵を叩き潰せ。クリック連打は不要。戦略だけが物を言う。1対1、2対2、デスマッチ、またはサバイバルモードで相手の頭脳を上回ろう。",
+        "price": "無料",
+        "originalPrice": "¥17",
+        "discount": "100% OFF",
+        "deadline": "2026年10月01日まで",
+        "url": "https://store.epicgames.com/ja/p/6a87570c28144b9cb50eb0ba46a7e19e",
+        "date": "2026-10-01"
+      }
+    ],
     "bundle": [
       {
         "title": "Mega Man: Recharged Collection",
@@ -168,6 +193,42 @@
         "discount": "",
         "deadline": "",
         "url": "https://www.humblebundle.com/games/2drewindcollectionfroms2games_bundle",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "The Almighty God Games Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "The Almighty God Games BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/almightygodgamesbundle_bundle",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Decked Out Deckbuilders",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Decked Out DeckbuildersのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/deckedoutdeckbuilders_bundle",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Run It Back - Roguelikes Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Run It Back - Roguelikes BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/runitbackroguelikes_bundle",
         "date": "2026-10-01"
       }
     ],
@@ -470,6 +531,66 @@
         "discount": "-16%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/control-resonant/info/",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "DARK SOULS III - The Fire Fades Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DARK SOULS III - The Fire Fades EditionがSteamで50% OFFセール中です。",
+        "price": "¥2,970",
+        "originalPrice": "¥5,940",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/160150",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "ペルソナ３ リロード",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ３ リロードがSteamで70% OFFセール中です。",
+        "price": "¥2,303",
+        "originalPrice": "¥7,678",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2161700",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "DARK SOULS™: REMASTERED",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DARK SOULS™: REMASTEREDがSteamで50% OFFセール中です。",
+        "price": "¥2,365",
+        "originalPrice": "¥4,730",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/570940",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "ペルソナ５ ザ・ロイヤル",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ５ ザ・ロイヤルがSteamで70% OFFセール中です。",
+        "price": "¥2,303",
+        "originalPrice": "¥7,678",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1687950",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "メタファー：リファンタジオ",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "メタファー：リファンタジオがSteamで60% OFFセール中です。",
+        "price": "¥3,951",
+        "originalPrice": "¥9,878",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2679460",
         "date": "2026-10-01"
       }
     ],
@@ -1097,8 +1218,34 @@
         "url": "https://www.polygon.com/gta-6-major-questions/",
         "date": "2026-09-30",
         "is_translated": true
+      },
+      {
+        "title": "【PS5/PS4向け「PS Plusフリープレイ」10月はAI学習おじさんステルスホラー『Hel...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【PS5/PS4向け「PS Plusフリープレイ」10月はAI学習おじさんステルスホラー『Hel...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261001-471085/",
+        "date": "2026-10-01",
+        "is_translated": false
+      },
+      {
+        "title": "【「Hello Neighbor」や「F1 25」を含む2026年10月分のPS Plusフリー...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Hello Neighbor」や「F1 25」を含む2026年10月分のPS Plusフリー...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171352.html",
+        "date": "2026-10-01",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-01T00:22:20.500232"
+  "last_updated": "2026-10-01T04:12:42.094102"
 }
