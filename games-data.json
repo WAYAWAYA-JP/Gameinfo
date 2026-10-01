@@ -24,6 +24,30 @@
         "deadline": "2026年10月01日まで",
         "url": "https://store.epicgames.com/ja/p/6a87570c28144b9cb50eb0ba46a7e19e",
         "date": "2026-10-01"
+      },
+      {
+        "title": "System Shock 2: 25th Anniversary Remaster",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "System Shock® 2: 25th Anniversary Remaster is a genre defining experience that established innovative game-play mechanics that are a staple of the FPS and RPG genre today. Survive the wretched corrid…",
+        "price": "無料",
+        "originalPrice": "¥28",
+        "discount": "100% OFF",
+        "deadline": "2026年10月08日まで",
+        "url": "https://store.epicgames.com/ja/p/system-shock-2-25th-anniversary-remaster",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "ベリード・スターズ",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『ベリード・スターズ』は、生放送中のサバイバルオーディション番組の崩壊事故現場を舞台にしたミステリーアドベンチャーゲームです。\n閉じ込められた出演者たちは互いに、そしてSNSを通じて外部と繋がりながら救助を待ちますが、思いがけない事件が発生し、信頼と生存が揺らぎ始めます。",
+        "price": "無料",
+        "originalPrice": "¥41",
+        "discount": "100% OFF",
+        "deadline": "2026年10月08日まで",
+        "url": "https://store.epicgames.com/ja/p/buried-stars",
+        "date": "2026-10-01"
       }
     ],
     "bundle": [
@@ -591,6 +615,30 @@
         "discount": "60% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/2679460",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "DAVE THE DIVER",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DAVE THE DIVERがVariousで-63%セール中です。",
+        "price": "$7.49",
+        "originalPrice": "",
+        "discount": "-63%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Lies Of P",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Lies Of PがVariousで-50%セール中です。",
+        "price": "$29.99",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/lies-of-p/info/",
         "date": "2026-10-01"
       }
     ],
@@ -1244,8 +1292,86 @@
         "url": "https://doope.jp/2026/10171352.html",
         "date": "2026-10-01",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料・期待の新作MMO『AION 2』、正式配信前から「Steam同接17万人超」の...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料・期待の新作MMO『AION 2』、正式配信前から「Steam同接17万人超」の...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261001-471150/",
+        "date": "2026-10-01",
+        "is_translated": false
+      },
+      {
+        "title": "【『エースコンバット』風ローグライク『DELIVERY MUST COMPLETE』は“ビルド盛...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『エースコンバット』風ローグライク『DELIVERY MUST COMPLETE』は“ビルド盛...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20261001-471239/",
+        "date": "2026-10-01",
+        "is_translated": false
+      },
+      {
+        "title": "【『PUBG』のPvPvE脱出シューター『PUBG: Black Budget』ひっそり開発終了...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『PUBG』のPvPvE脱出シューター『PUBG: Black Budget』ひっそり開発終了...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261001-471212/",
+        "date": "2026-10-01",
+        "is_translated": false
+      },
+      {
+        "title": "【“オナガダルマインコ”を紹介する「Planet Zoo 2」のアニマルスポットライト映像が公開：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“オナガダルマインコ”を紹介する「Planet Zoo 2」のアニマルスポットライト映像が公開：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171372.html",
+        "date": "2026-10-01",
+        "is_translated": false
+      },
+      {
+        "title": "【Gears of War: E-Day review in progress — Good s...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Gears of War: E-Day review in progress — Good s...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review-in-progress/",
+        "date": "2026-10-01",
+        "is_translated": true
+      },
+      {
+        "title": "【Gears of War: E-Day Review Scores Are High, but...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Gears of War: E-Day Review Scores Are High, but...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/gears-of-war-e-day-review-roundup/",
+        "date": "2026-10-01",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-01T04:12:42.094102"
+  "last_updated": "2026-10-01T16:00:11.793261"
 }
