@@ -640,6 +640,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/lies-of-p/info/",
         "date": "2026-10-01"
+      },
+      {
+        "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Sekiro™: Shadows Die Twice - GOTY EditionがSteamで50% OFFセール中です。",
+        "price": "¥4,180",
+        "originalPrice": "¥8,360",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/814380",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "platform": "Various",
+        "type": "sale",
+        "description": "S.T.A.L.K.E.R. 2: Heart of ChornobylがVariousで-41%セール中です。",
+        "price": "$35.19",
+        "originalPrice": "",
+        "discount": "-41%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Ready Or Not",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Ready Or NotがVariousで-56%セール中です。",
+        "price": "$21.98",
+        "originalPrice": "",
+        "discount": "-56%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ready-or-not/info/",
+        "date": "2026-10-01"
       }
     ],
     "review": [
@@ -1370,8 +1406,21 @@
         "url": "https://www.polygon.com/gears-of-war-e-day-review-roundup/",
         "date": "2026-10-01",
         "is_translated": true
+      },
+      {
+        "title": "【Reigns and Card Shark developers Nerial are clo...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Reigns and Card Shark developers Nerial are clo...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/reigns-and-card-shark-developers-nerial-are-closing-down-laying-staff-off-while-the-founders-go-back-to-our-roots",
+        "date": "2026-10-01",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-01T16:00:11.793261"
+  "last_updated": "2026-10-01T18:18:22.838573"
 }
