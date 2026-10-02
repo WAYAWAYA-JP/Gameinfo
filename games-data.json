@@ -652,6 +652,30 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/489830",
         "date": "2026-10-02"
+      },
+      {
+        "title": "Monster Hunter Rise + Sunbreak",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Monster Hunter Rise + SunbreakがSteamで84% OFFセール中です。",
+        "price": "¥958",
+        "originalPrice": "¥5,990",
+        "discount": "84% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/692569",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "Ghost of Tsushima DIRECTOR'S CUT",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Ghost of Tsushima DIRECTOR'S CUTがVariousで-46%セール中です。",
+        "price": "$32.38",
+        "originalPrice": "",
+        "discount": "-46%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
+        "date": "2026-10-02"
       }
     ],
     "review": [
@@ -1408,8 +1432,73 @@
         "url": "https://www.inside-games.jp/article/2026/10/02/188634.html",
         "date": "2026-10-02",
         "is_translated": false
+      },
+      {
+        "title": "【高評価チルい海中箱庭シム『Life Below』はサンゴ礁を“都市”のように育てるゲーム。専門...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【高評価チルい海中箱庭シム『Life Below』はサンゴ礁を“都市”のように育てるゲーム。専門...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20261002-471528/",
+        "date": "2026-10-02",
+        "is_translated": false
+      },
+      {
+        "title": "【『真・三國無双２ with 猛将伝 Remastered』さっそく「非常に好評」の好発進。見た...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『真・三國無双２ with 猛将伝 Remastered』さっそく「非常に好評」の好発進。見た...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261002-471468/",
+        "date": "2026-10-02",
+        "is_translated": false
+      },
+      {
+        "title": "【“デューン/砂の惑星”サバイバルMMO「Dune: Awakening」の新規プレイヤー数が1...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“デューン/砂の惑星”サバイバルMMO「Dune: Awakening」の新規プレイヤー数が1...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171426.html",
+        "date": "2026-10-02",
+        "is_translated": false
+      },
+      {
+        "title": "【Star Wars: Galactic Racer review – Run-based ba...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Star Wars: Galactic Racer review – Run-based ba...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racer-review/",
+        "date": "2026-10-02",
+        "is_translated": true
+      },
+      {
+        "title": "【Star Wars: Galactic Racer Reviews Say It’s an A...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Star Wars: Galactic Racer Reviews Say It’s an A...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/star-wars-galactic-racer-review-roundup/",
+        "date": "2026-10-02",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-02T04:06:09.842147"
+  "last_updated": "2026-10-02T15:23:33.243208"
 }
