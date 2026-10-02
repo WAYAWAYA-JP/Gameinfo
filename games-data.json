@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Mega Man: Recharged Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Mega Man: Recharged CollectionのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/megamanrechargedcollection_bundle",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "CRPG Pack: Isometric Immersion",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "CRPG Pack: Isometric ImmersionのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/crpgpackisometricimmersion_bundle",
-        "date": "2026-09-22"
-      },
-      {
         "title": "Pleasant Intrusion Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -257,90 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "DARK SOULS™ II: Scholar of the First Sin",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DARK SOULS™ II: Scholar of the First SinがSteamで50% OFFセール中です。",
-        "price": "¥2,860",
-        "originalPrice": "¥5,720",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/335300",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "FINAL FANTASY VII REBIRTH",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY VII REBIRTHがSteamで70% OFFセール中です。",
-        "price": "¥1,973",
-        "originalPrice": "¥6,578",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2909400",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "DARK SOULS III",
-        "platform": "Various",
-        "type": "sale",
-        "description": "DARK SOULS IIIがVariousで-56%セール中です。",
-        "price": "$35.59",
-        "originalPrice": "",
-        "discount": "-56%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dark-souls-iii/info/",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "PRAGMATA",
-        "platform": "Various",
-        "type": "sale",
-        "description": "PRAGMATAがVariousで-33%セール中です。",
-        "price": "$53.59",
-        "originalPrice": "",
-        "discount": "-33%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/pragmata/info/",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Ori and the Will of the Wisps",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Ori and the Will of the WispsがVariousで-90%セール中です。",
-        "price": "$3.99",
-        "originalPrice": "",
-        "discount": "-90%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ori-and-the-will-of-the-wisps/info/",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "ウィッチャー３　ワイルドハント　コンプリートエディション",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ウィッチャー３　ワイルドハント　コンプリートエディションがSteamで50% OFFセール中です。",
-        "price": "¥3,245",
-        "originalPrice": "¥6,490",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/292030",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Mechabellum",
-        "platform": "Various",
-        "type": "sale",
-        "description": "MechabellumがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/mechabellum/info/",
-        "date": "2026-09-25"
-      },
       {
         "title": "Clair Obscur: Expedition 33",
         "platform": "Various",
@@ -676,61 +568,57 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ready-or-not/info/",
         "date": "2026-10-01"
+      },
+      {
+        "title": "サイバーパンク2077",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サイバーパンク2077がSteamで70% OFFセール中です。",
+        "price": "¥2,633",
+        "originalPrice": "¥8,778",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1091500",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "Pax Autocratica",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Pax AutocraticaがSteamで80% OFFセール中です。",
+        "price": "¥770",
+        "originalPrice": "¥3,850",
+        "discount": "80% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1067360",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "Marvel’s Spider-Man Remastered",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Marvel’s Spider-Man RemasteredがSteamで60% OFFセール中です。",
+        "price": "¥3,036",
+        "originalPrice": "¥7,590",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1817070",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "System Shock 2: 25th Anniversary Remaster",
+        "platform": "Various",
+        "type": "sale",
+        "description": "System Shock 2: 25th Anniversary RemasterがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/system-shock-2-25th-anniversary-remaster/info/",
+        "date": "2026-10-02"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料『NTE』この5か月で街はどう変わった？どんどん妙な進化、“遊べる無法地帯”に。...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料『NTE』この5か月で街はどう変わった？どんどん妙な進化、“遊べる無法地帯”に。...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20260926-470167/",
-        "date": "2026-09-27",
-        "is_translated": false
-      },
-      {
-        "title": "【'Godzilla Minus Zero' Review: The Best Godzilla...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【'Godzilla Minus Zero' Review: The Best Godzilla...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/godzilla-minus-zero-review/",
-        "date": "2026-09-27",
-        "is_translated": true
-      },
-      {
-        "title": "【『ファイアーエムブレム 万紫千紅』はとにかく「カオス」で感想言うの難しすぎる。『神貌（かんばく...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ファイアーエムブレム 万紫千紅』はとにかく「カオス」で感想言うの難しすぎる。『神貌（かんばく...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20260927-470270/",
-        "date": "2026-09-27",
-        "is_translated": false
-      },
-      {
-        "title": "【コスプレ】『原神』6周年記念！蛍やフリーナなど物語を彩る魅力あふれるキャラクターに扮した美女コスプレイヤーまとめ【写真81枚】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【コスプレ】『原神』6周年記念！蛍やフリーナなど物語を彩る魅力あふれるキャラクターに扮した美女コスプレイヤーまとめ【写真81枚】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/09/28/188348.html",
-        "date": "2026-09-27",
-        "is_translated": false
-      },
       {
         "title": "【品薄続くPS5 Pro、ソニーストアで“購入申し込み”開始。ゲームのプレイ時間「60時間以上」...】",
         "platform": "AUTOMATON",
@@ -781,19 +669,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/09171186.html",
         "date": "2026-09-28",
-        "is_translated": false
-      },
-      {
-        "title": "【「Minecraft」の販売が累計4億2,500万本を突破、現在も1日約30万人の新規プレイヤ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Minecraft」の販売が累計4億2,500万本を突破、現在も1日約30万人の新規プレイヤ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/09171185.html",
-        "date": "2026-09-27",
         "is_translated": false
       },
       {
@@ -1419,8 +1294,34 @@
         "url": "https://www.rockpapershotgun.com/reigns-and-card-shark-developers-nerial-are-closing-down-laying-staff-off-while-the-founders-go-back-to-our-roots",
         "date": "2026-10-01",
         "is_translated": true
+      },
+      {
+        "title": "【“Reigns”シリーズで知られる「Nerial」がスタジオの活動中止を発表：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“Reigns”シリーズで知られる「Nerial」がスタジオの活動中止を発表：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171386.html",
+        "date": "2026-10-01",
+        "is_translated": false
+      },
+      {
+        "title": "【仏Sloclapの人気カンフーアクション「Sifu」のモバイル対応がアナウンス、発売は2026...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【仏Sloclapの人気カンフーアクション「Sifu」のモバイル対応がアナウンス、発売は2026...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171384.html",
+        "date": "2026-10-01",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-01T18:18:22.838573"
+  "last_updated": "2026-10-02T00:31:56.979953"
 }
