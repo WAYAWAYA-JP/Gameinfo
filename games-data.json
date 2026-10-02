@@ -676,6 +676,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
         "date": "2026-10-02"
+      },
+      {
+        "title": "God of War",
+        "platform": "Various",
+        "type": "sale",
+        "description": "God of WarがVariousで-64%セール中です。",
+        "price": "$17.95",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/god-of-war/info/",
+        "date": "2026-10-02"
       }
     ],
     "review": [
@@ -1500,5 +1512,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-02T15:23:33.243208"
+  "last_updated": "2026-10-02T17:43:51.527809"
 }
