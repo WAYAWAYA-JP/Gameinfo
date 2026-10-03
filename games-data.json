@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/trineversetriplecooppack_bundle",
         "date": "2026-10-03"
+      },
+      {
+        "title": "Dying Light 2: Stay Human Complete DLC Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Dying Light 2: Stay Human Complete DLC BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/dyinglight2stayhumancompletedlcbundle_bundle",
+        "date": "2026-10-03"
       }
     ],
     "sale": [
@@ -663,6 +675,18 @@
         "discount": "-61%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "The Outlast Trials",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "The Outlast TrialsがSteamで90% OFFセール中です。",
+        "price": "¥450",
+        "originalPrice": "¥4,500",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1304930",
         "date": "2026-10-03"
       }
     ],
@@ -1355,8 +1379,47 @@
         "url": "https://www.inside-games.jp/article/2026/10/03/188699.html",
         "date": "2026-10-03",
         "is_translated": false
+      },
+      {
+        "title": "【「『エースコンバット8』は実質ASMR」とする主張がプレイヤーから相次ぐ。“ささやきツダケン”...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【「『エースコンバット8』は実質ASMR」とする主張がプレイヤーから相次ぐ。“ささやきツダケン”...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261003-471623/",
+        "date": "2026-10-03",
+        "is_translated": false
+      },
+      {
+        "title": "【パラドックス中世ストラテジー『クルセイダーキングス Ⅲ（CK3）』アプデで宗教システム大拡張。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【パラドックス中世ストラテジー『クルセイダーキングス Ⅲ（CK3）』アプデで宗教システム大拡張。...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261003-471614/",
+        "date": "2026-10-03",
+        "is_translated": false
+      },
+      {
+        "title": "【恐竜の骨お片付け＆標本組み立てゲーム『DinoBones』、Steamで好評集める滑り出し。“...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【恐竜の骨お片付け＆標本組み立てゲーム『DinoBones』、Steamで好評集める滑り出し。“...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261003-471595/",
+        "date": "2026-10-03",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-03T03:50:25.130999"
+  "last_updated": "2026-10-03T14:08:53.232818"
 }
