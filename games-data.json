@@ -652,6 +652,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-10-03"
+      },
+      {
+        "title": "PRAGMATA",
+        "platform": "Various",
+        "type": "sale",
+        "description": "PRAGMATAがVariousで-20%セール中です。",
+        "price": "$47.99",
+        "originalPrice": "",
+        "discount": "-20%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/pragmata/info/",
+        "date": "2026-10-04"
       }
     ],
     "review": [
@@ -1226,8 +1238,47 @@
         "url": "https://www.inside-games.jp/article/2026/10/04/188721.html",
         "date": "2026-10-04",
         "is_translated": false
+      },
+      {
+        "title": "【『エースコンバット８』はターシャに釣られてバクスターにハマる。『ウィッチャー3』リマスターは“...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『エースコンバット８』はターシャに釣られてバクスターにハマる。『ウィッチャー3』リマスターは“...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20261004-471711/",
+        "date": "2026-10-04",
+        "is_translated": false
+      },
+      {
+        "title": "【物理と科学で織りなすオープンワールド『未眠野』が実機プレイ映像を公開中。中国発の美少女バスケゲ...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【物理と科学で織りなすオープンワールド『未眠野』が実機プレイ映像を公開中。中国発の美少女バスケゲ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/10/04/188725.html",
+        "date": "2026-10-04",
+        "is_translated": false
+      },
+      {
+        "title": "【Xbox Finally Had a Good Week：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Xbox Finally Had a Good Week：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/patch-notes-xbox-disc-to-digital/",
+        "date": "2026-10-04",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-04T04:21:33.798174"
+  "last_updated": "2026-10-04T14:37:40.987465"
 }
