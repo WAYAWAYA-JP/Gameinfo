@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/dyinglight2stayhumancompletedlcbundle_bundle",
         "date": "2026-10-03"
+      },
+      {
+        "title": "Capcom Classics Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Capcom Classics BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/capcomclassicsbundle_bundle",
+        "date": "2026-10-05"
       }
     ],
     "sale": [
@@ -616,6 +628,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/pragmata/info/",
         "date": "2026-10-04"
+      },
+      {
+        "title": "Marvel's Spider-Man 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Marvel's Spider-Man 2がVariousで-40%セール中です。",
+        "price": "$36.16",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/marvels-spider-man-2/info/",
+        "date": "2026-10-05"
       }
     ],
     "review": [
@@ -1086,8 +1110,73 @@
         "url": "https://doope.jp/2026/10171419.html",
         "date": "2026-10-05",
         "is_translated": false
+      },
+      {
+        "title": "【“4年ぶりに再始動”するモンスター育成MMORPG『イカロスオンライン』を初めて遊ぶとどう見え...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【“4年ぶりに再始動”するモンスター育成MMORPG『イカロスオンライン』を初めて遊ぶとどう見え...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20261005-471886/",
+        "date": "2026-10-05",
+        "is_translated": false
+      },
+      {
+        "title": "【文字を回して戦う無料ゲーム『文字ブレード』、トップメタ「◯」の対策進む。「卍」や「㍿」が“刺さ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【文字を回して戦う無料ゲーム『文字ブレード』、トップメタ「◯」の対策進む。「卍」や「㍿」が“刺さ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261005-471880/",
+        "date": "2026-10-05",
+        "is_translated": false
+      },
+      {
+        "title": "【『鉄拳8』にて“目隠しプレイ”で破壊神になった猛者現る。聴くだけで“見える”『鉄拳』やり込みすぎプロ】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『鉄拳8』にて“目隠しプレイ”で破壊神になった猛者現る。聴くだけで“見える”『鉄拳』やり込みすぎプロ】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261005-471833/",
+        "date": "2026-10-05",
+        "is_translated": false
+      },
+      {
+        "title": "【「PowerWash Simulator 2」のプレイヤー数が累計400万人を突破】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「PowerWash Simulator 2」のプレイヤー数が累計400万人を突破】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171464.html",
+        "date": "2026-10-05",
+        "is_translated": false
+      },
+      {
+        "title": "【「World War Z」に新武器やミューテーターを導入するコンテンツアップデート“Waves...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「World War Z」に新武器やミューテーターを導入するコンテンツアップデート“Waves...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171421.html",
+        "date": "2026-10-05",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-05T04:06:05.507782"
+  "last_updated": "2026-10-05T17:53:23.601980"
 }
