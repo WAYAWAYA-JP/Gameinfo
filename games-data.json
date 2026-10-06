@@ -52,42 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Indies in Space",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Indies in SpaceのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/indiesinspace_bundle",
-        "date": "2026-09-26"
-      },
-      {
-        "title": "Crawling Through the Dungeons",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Crawling Through the DungeonsのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/crawlingthroughdungeons_bundle",
-        "date": "2026-09-26"
-      },
-      {
-        "title": "Happy Queens Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Happy Queens BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/happy-queens-bundle",
-        "date": "2026-09-26"
-      },
-      {
         "title": "Assemble Entertainment Cozy Games Collection",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -257,66 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Baldur's Gate 3",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Baldur's Gate 3がVariousで-30%セール中です。",
-        "price": "$41.99",
-        "originalPrice": "",
-        "discount": "-30%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/baldurs-gate-3/info/",
-        "date": "2026-09-29"
-      },
-      {
-        "title": "ウィッチャー３　ワイルドハント　リマスター",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ウィッチャー３　ワイルドハント　リマスターがSteamで50% OFFセール中です。",
-        "price": "¥3,245",
-        "originalPrice": "¥6,490",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/292030",
-        "date": "2026-09-29"
-      },
-      {
-        "title": "Dredge",
-        "platform": "Various",
-        "type": "sale",
-        "description": "DredgeがVariousで-65%セール中です。",
-        "price": "$8.69",
-        "originalPrice": "",
-        "discount": "-65%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dredge/info/",
-        "date": "2026-09-29"
-      },
-      {
-        "title": "REMATCH",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "REMATCHがSteamで60% OFFセール中です。",
-        "price": "¥1,480",
-        "originalPrice": "¥3,700",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2138720",
-        "date": "2026-09-29"
-      },
-      {
-        "title": "Disco Elysium - The Final Cut",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Disco Elysium - The Final CutがVariousで-78%セール中です。",
-        "price": "$8.99",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
-        "date": "2026-09-29"
-      },
       {
         "title": "Detroit: Become Human",
         "platform": "Various",
@@ -643,149 +547,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【PS5/PS4向け「PS Plusフリープレイ」10月はAI学習おじさんステルスホラー『Hel...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【PS5/PS4向け「PS Plusフリープレイ」10月はAI学習おじさんステルスホラー『Hel...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261001-471085/",
-        "date": "2026-10-01",
-        "is_translated": false
-      },
-      {
-        "title": "【「Hello Neighbor」や「F1 25」を含む2026年10月分のPS Plusフリー...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Hello Neighbor」や「F1 25」を含む2026年10月分のPS Plusフリー...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171352.html",
-        "date": "2026-10-01",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料・期待の新作MMO『AION 2』、正式配信前から「Steam同接17万人超」の...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料・期待の新作MMO『AION 2』、正式配信前から「Steam同接17万人超」の...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261001-471150/",
-        "date": "2026-10-01",
-        "is_translated": false
-      },
-      {
-        "title": "【『エースコンバット』風ローグライク『DELIVERY MUST COMPLETE』は“ビルド盛...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『エースコンバット』風ローグライク『DELIVERY MUST COMPLETE』は“ビルド盛...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20261001-471239/",
-        "date": "2026-10-01",
-        "is_translated": false
-      },
-      {
-        "title": "【『PUBG』のPvPvE脱出シューター『PUBG: Black Budget』ひっそり開発終了...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『PUBG』のPvPvE脱出シューター『PUBG: Black Budget』ひっそり開発終了...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261001-471212/",
-        "date": "2026-10-01",
-        "is_translated": false
-      },
-      {
-        "title": "【“オナガダルマインコ”を紹介する「Planet Zoo 2」のアニマルスポットライト映像が公開：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“オナガダルマインコ”を紹介する「Planet Zoo 2」のアニマルスポットライト映像が公開：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171372.html",
-        "date": "2026-10-01",
-        "is_translated": false
-      },
-      {
-        "title": "【Gears of War: E-Day review in progress — Good s...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Gears of War: E-Day review in progress — Good s...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review-in-progress/",
-        "date": "2026-10-01",
-        "is_translated": true
-      },
-      {
-        "title": "【Gears of War: E-Day Review Scores Are High, but...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【Gears of War: E-Day Review Scores Are High, but...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gears-of-war-e-day-review-roundup/",
-        "date": "2026-10-01",
-        "is_translated": true
-      },
-      {
-        "title": "【Reigns and Card Shark developers Nerial are clo...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Reigns and Card Shark developers Nerial are clo...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/reigns-and-card-shark-developers-nerial-are-closing-down-laying-staff-off-while-the-founders-go-back-to-our-roots",
-        "date": "2026-10-01",
-        "is_translated": true
-      },
-      {
-        "title": "【“Reigns”シリーズで知られる「Nerial」がスタジオの活動中止を発表：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“Reigns”シリーズで知られる「Nerial」がスタジオの活動中止を発表：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171386.html",
-        "date": "2026-10-01",
-        "is_translated": false
-      },
-      {
-        "title": "【仏Sloclapの人気カンフーアクション「Sifu」のモバイル対応がアナウンス、発売は2026...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【仏Sloclapの人気カンフーアクション「Sifu」のモバイル対応がアナウンス、発売は2026...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171384.html",
-        "date": "2026-10-01",
-        "is_translated": false
-      },
       {
         "title": "【『ポピープレイタイム』の協力探索ホラー『Escape from Playtime』オープンベー...】",
         "platform": "AUTOMATON",
@@ -1175,8 +936,21 @@
         "url": "https://doope.jp/2026/10171421.html",
         "date": "2026-10-05",
         "is_translated": false
+      },
+      {
+        "title": "【期待の新作MMORPG『AION2』Steam同接40万人で「Steamで3番目に人気のゲーム...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【期待の新作MMORPG『AION2』Steam同接40万人で「Steamで3番目に人気のゲーム...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261006-471947/",
+        "date": "2026-10-06",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-05T17:53:23.601980"
+  "last_updated": "2026-10-06T01:40:26.403306"
 }
