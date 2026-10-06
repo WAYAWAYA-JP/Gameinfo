@@ -568,6 +568,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/marvels-spider-man-2/info/",
         "date": "2026-10-05"
+      },
+      {
+        "title": "Marvel's Spider-Man: Miles Morales",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Marvel's Spider-Man: Miles MoralesがVariousで-64%セール中です。",
+        "price": "$17.95",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/marvels-spider-man-miles-morales/info/",
+        "date": "2026-10-06"
       }
     ],
     "review": [
@@ -999,8 +1011,73 @@
         "url": "https://www.inside-games.jp/article/2026/10/06/188828.html",
         "date": "2026-10-06",
         "is_translated": false
+      },
+      {
+        "title": "【「基本プレイ無料ゲームは衰退していない」との市場分析。『鳴潮』などRPG系が健闘、ただし“掛け...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【「基本プレイ無料ゲームは衰退していない」との市場分析。『鳴潮』などRPG系が健闘、ただし“掛け...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261006-472037/",
+        "date": "2026-10-06",
+        "is_translated": false
+      },
+      {
+        "title": "【「Battlefield 6」シーズン5のゲームプレイトレーラーがお披露目、“Dead Spa...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Battlefield 6」シーズン5のゲームプレイトレーラーがお披露目、“Dead Spa...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171491.html",
+        "date": "2026-10-06",
+        "is_translated": false
+      },
+      {
+        "title": "【Spiritfarerを生んだ“Thunder Lotus”の新作アクションアドベンチャー「A...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Spiritfarerを生んだ“Thunder Lotus”の新作アクションアドベンチャー「A...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171490.html",
+        "date": "2026-10-06",
+        "is_translated": false
+      },
+      {
+        "title": "【Star Wars Galactic Racer review: now this is fr...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Star Wars Galactic Racer review: now this is fr...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-review-now-this-is-frenetically-fun-podracing-with-a-totally-unforgiving-streak",
+        "date": "2026-10-06",
+        "is_translated": true
+      },
+      {
+        "title": "【PlatinumGames CEO pauses a discussion on Stella...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【PlatinumGames CEO pauses a discussion on Stella...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/platinumgames-ceo-pauses-a-discussion-on-stellar-blades-bayonetta-costume-crossover-to-casually-infer-more-bayonetta-may-be-on-the-way",
+        "date": "2026-10-06",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-06T04:55:03.340959"
+  "last_updated": "2026-10-06T15:41:53.532300"
 }
