@@ -218,6 +218,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/capcomclassicsbundle_bundle",
         "date": "2026-10-05"
+      },
+      {
+        "title": "Indies in Space",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Indies in SpaceのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/indiesinspace_bundle",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Happy Queens Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Happy Queens BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/happy-queens-bundle",
+        "date": "2026-10-06"
       }
     ],
     "sale": [
@@ -949,8 +973,34 @@
         "url": "https://automaton-media.com/articles/newsjp/20261006-471947/",
         "date": "2026-10-06",
         "is_translated": false
+      },
+      {
+        "title": "【“Vampire Survivors”のスピンオフ「Vampire Crawlers」のモバイ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“Vampire Survivors”のスピンオフ「Vampire Crawlers」のモバイ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171477.html",
+        "date": "2026-10-06",
+        "is_translated": false
+      },
+      {
+        "title": "【EDF！EDF！最新仕様で遊びやすくなった『地球防衛軍5 for Nintendo Switc...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【EDF！EDF！最新仕様で遊びやすくなった『地球防衛軍5 for Nintendo Switc...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/10/06/188828.html",
+        "date": "2026-10-06",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-06T01:40:26.403306"
+  "last_updated": "2026-10-06T04:55:03.340959"
 }
