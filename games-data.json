@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Assemble Entertainment Cozy Games Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Assemble Entertainment Cozy Games CollectionのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/assembleentertainmentcozygamescollection_bundle",
-        "date": "2026-09-27"
-      },
-      {
         "title": "Garbage Dwellers",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,18 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Detroit: Become Human",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Detroit: Become HumanがVariousで-84%セール中です。",
-        "price": "$6.39",
-        "originalPrice": "",
-        "discount": "-84%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
-        "date": "2026-09-30"
-      },
       {
         "title": "CONTROL Resonant",
         "platform": "Various",
@@ -592,139 +568,21 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/3240220",
         "date": "2026-10-06"
+      },
+      {
+        "title": "Hogwarts Legacy",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Hogwarts LegacyがVariousで-91%セール中です。",
+        "price": "$5.24",
+        "originalPrice": "",
+        "discount": "-91%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
+        "date": "2026-10-07"
       }
     ],
     "review": [
-      {
-        "title": "【『ポピープレイタイム』の協力探索ホラー『Escape from Playtime』オープンベー...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ポピープレイタイム』の協力探索ホラー『Escape from Playtime』オープンベー...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261002-471346/",
-        "date": "2026-10-02",
-        "is_translated": false
-      },
-      {
-        "title": "【新たなストーリー拡張やサバイバルモードを含む「Ghost of Yōtei」の完全版が発売、ロ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【新たなストーリー拡張やサバイバルモードを含む「Ghost of Yōtei」の完全版が発売、ロ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171396.html",
-        "date": "2026-10-02",
-        "is_translated": false
-      },
-      {
-        "title": "【篤が“イチャつく”意外な一面も…！？ 元恋人と3年ぶりの再会―『Ghost of Yōtei ...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【篤が“イチャつく”意外な一面も…！？ 元恋人と3年ぶりの再会―『Ghost of Yōtei ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/10/02/188637.html",
-        "date": "2026-10-02",
-        "is_translated": false
-      },
-      {
-        "title": "【「除霊はチームプレイ」をどうゲームに？ 『デッドアカウント～二つの蒼い炎～』開発者インタビュー...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【「除霊はチームプレイ」をどうゲームに？ 『デッドアカウント～二つの蒼い炎～』開発者インタビュー...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/10/02/188634.html",
-        "date": "2026-10-02",
-        "is_translated": false
-      },
-      {
-        "title": "【高評価チルい海中箱庭シム『Life Below』はサンゴ礁を“都市”のように育てるゲーム。専門...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【高評価チルい海中箱庭シム『Life Below』はサンゴ礁を“都市”のように育てるゲーム。専門...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20261002-471528/",
-        "date": "2026-10-02",
-        "is_translated": false
-      },
-      {
-        "title": "【『真・三國無双２ with 猛将伝 Remastered』さっそく「非常に好評」の好発進。見た...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『真・三國無双２ with 猛将伝 Remastered』さっそく「非常に好評」の好発進。見た...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261002-471468/",
-        "date": "2026-10-02",
-        "is_translated": false
-      },
-      {
-        "title": "【“デューン/砂の惑星”サバイバルMMO「Dune: Awakening」の新規プレイヤー数が1...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“デューン/砂の惑星”サバイバルMMO「Dune: Awakening」の新規プレイヤー数が1...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171426.html",
-        "date": "2026-10-02",
-        "is_translated": false
-      },
-      {
-        "title": "【Star Wars: Galactic Racer review – Run-based ba...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Star Wars: Galactic Racer review – Run-based ba...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racer-review/",
-        "date": "2026-10-02",
-        "is_translated": true
-      },
-      {
-        "title": "【Star Wars: Galactic Racer Reviews Say It’s an A...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【Star Wars: Galactic Racer Reviews Say It’s an A...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/star-wars-galactic-racer-review-roundup/",
-        "date": "2026-10-02",
-        "is_translated": true
-      },
-      {
-        "title": "【次期アップデートの配信が迫る「ARC Raiders」のフリープレイがアナウンス、実施は10月...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【次期アップデートの配信が迫る「ARC Raiders」のフリープレイがアナウンス、実施は10月...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171435.html",
-        "date": "2026-10-02",
-        "is_translated": false
-      },
       {
         "title": "【『ARC Raiders』、10月8日より期間限定フリープレイを開催へ。新マップも登場する「リ...】",
         "platform": "AUTOMATON",
@@ -1101,8 +959,47 @@
         "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review/",
         "date": "2026-10-06",
         "is_translated": true
+      },
+      {
+        "title": "【配信が迫る「ARC Raiders: Frozen Trail」のローンチトレーラーが公開：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【配信が迫る「ARC Raiders: Frozen Trail」のローンチトレーラーが公開：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171516.html",
+        "date": "2026-10-07",
+        "is_translated": false
+      },
+      {
+        "title": "【「Call of Duty: Modern Warfare 4」“DMZ”モードに多彩な任務を...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Call of Duty: Modern Warfare 4」“DMZ”モードに多彩な任務を...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171486.html",
+        "date": "2026-10-06",
+        "is_translated": false
+      },
+      {
+        "title": "【12 Biggest GTA 6 Questions the Previews Haven't...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【12 Biggest GTA 6 Questions the Previews Haven't...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/gta-6-major-questions/",
+        "date": "2026-10-06",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-06T18:11:02.720373"
+  "last_updated": "2026-10-07T00:22:23.495066"
 }
