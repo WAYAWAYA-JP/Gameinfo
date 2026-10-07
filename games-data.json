@@ -604,6 +604,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-10-07"
+      },
+      {
+        "title": "DEATH STRANDING DIRECTOR'S CUT",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DEATH STRANDING DIRECTOR'S CUTがVariousで-80%セール中です。",
+        "price": "$7.91",
+        "originalPrice": "",
+        "discount": "-80%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/death-stranding-directors-cut/info/",
+        "date": "2026-10-07"
       }
     ],
     "review": [
@@ -1087,8 +1099,34 @@
         "url": "https://www.polygon.com/gta-6-preview-wanted-hollow-stars-shop-exclusives-mission-options/",
         "date": "2026-10-07",
         "is_translated": true
+      },
+      {
+        "title": "【Airborne open world Atmosfar gets an early acce...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Airborne open world Atmosfar gets an early acce...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis",
+        "date": "2026-10-07",
+        "is_translated": true
+      },
+      {
+        "title": "【Anime racer Screamer no longer demands you retr...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Anime racer Screamer no longer demands you retr...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/anime-racer-screamer-no-longer-demands-you-retrain-your-fingers-with-a-fresh-patch-adding-single-stick-drift-controls",
+        "date": "2026-10-07",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-07T16:05:36.730352"
+  "last_updated": "2026-10-07T18:44:39.908013"
 }
