@@ -592,6 +592,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
         "date": "2026-10-07"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Cyberpunk 2077がVariousで-70%セール中です。",
+        "price": "$17.99",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
+        "date": "2026-10-07"
       }
     ],
     "review": [
@@ -1049,8 +1061,34 @@
         "url": "https://www.inside-games.jp/article/2026/10/07/188874.html",
         "date": "2026-10-07",
         "is_translated": false
+      },
+      {
+        "title": "【新ヒーロー“ドクトリン”が参戦する「オーバーウォッチ」シーズン5“不死者の教義”の多彩な新コン...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【新ヒーロー“ドクトリン”が参戦する「オーバーウォッチ」シーズン5“不死者の教義”の多彩な新コン...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171494.html",
+        "date": "2026-10-07",
+        "is_translated": false
+      },
+      {
+        "title": "【5 Key New GTA 6 Details Just Unveiled By Rockst...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【5 Key New GTA 6 Details Just Unveiled By Rockst...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/gta-6-preview-wanted-hollow-stars-shop-exclusives-mission-options/",
+        "date": "2026-10-07",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-07T04:21:51.812155"
+  "last_updated": "2026-10-07T16:05:36.730352"
 }
