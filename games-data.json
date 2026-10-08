@@ -24,6 +24,30 @@
         "deadline": "2026年10月08日まで",
         "url": "https://store.epicgames.com/ja/p/buried-stars",
         "date": "2026-10-08"
+      },
+      {
+        "title": "Out of Sight",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Out of SightがEpic Gamesで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "¥17",
+        "discount": "100% OFF",
+        "deadline": "2026年10月15日まで",
+        "url": "https://store.epicgames.com/ja/p/f350878fcb5242d6851cfe2fa1316e76",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "TerraScape",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "心地よい中世の街づくりパズルで、建物を戦略的に配置しながら浮遊島に美しい王国を築きましょう。秘密の組み合わせを発見し、ウィークリーチャレンジに挑戦し、さまざまなソロおよびマルチプレイモードで自動生成マップを探索できます。",
+        "price": "無料",
+        "originalPrice": "¥16",
+        "discount": "100% OFF",
+        "deadline": "2026年10月15日まで",
+        "url": "https://store.epicgames.com/ja/p/f229ed53ddba40788e0ab62978e9eaf9",
+        "date": "2026-10-08"
       }
     ],
     "bundle": [
@@ -495,6 +519,30 @@
         "discount": "50% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/814380",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "ペルソナ３ リロード",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ３ リロードがSteamで70% OFFセール中です。",
+        "price": "¥2,303",
+        "originalPrice": "¥7,678",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2161700",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "ARC Raiders",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ARC RaidersがSteamで50% OFFセール中です。",
+        "price": "¥3,195",
+        "originalPrice": "¥6,390",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1808500",
         "date": "2026-10-08"
       }
     ],
@@ -1070,8 +1118,73 @@
         "url": "https://www.inside-games.jp/article/2026/10/08/188935.html",
         "date": "2026-10-08",
         "is_translated": false
+      },
+      {
+        "title": "【“4年ぶりに再始動”モンスター育成MMORPG『イカロスオンライン』、10月22日サービス開始...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【“4年ぶりに再始動”モンスター育成MMORPG『イカロスオンライン』、10月22日サービス開始...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261008-472542/",
+        "date": "2026-10-08",
+        "is_translated": false
+      },
+      {
+        "title": "【生まれ変わるFPS『AVA RE:BIRTH』の新たなPvPvE脱出モードは「鬼畜運だめし」だ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【生まれ変わるFPS『AVA RE:BIRTH』の新たなPvPvE脱出モードは「鬼畜運だめし」だ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20261008-472506/",
+        "date": "2026-10-08",
+        "is_translated": false
+      },
+      {
+        "title": "【Steamで昨日まで「100%好評」だった縦STG『X-Force Under Attack』...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【Steamで昨日まで「100%好評」だった縦STG『X-Force Under Attack』...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261008-472531/",
+        "date": "2026-10-08",
+        "is_translated": false
+      },
+      {
+        "title": "【高評価寿司レースゲーム『わびさび寿司ダービー』には、「裏ワザ」がまだ眠ってるらしい。開発者に訊...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【高評価寿司レースゲーム『わびさび寿司ダービー』には、「裏ワザ」がまだ眠ってるらしい。開発者に訊...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/wabisabi-20261008-472492/",
+        "date": "2026-10-08",
+        "is_translated": false
+      },
+      {
+        "title": "【Star Wars Galactic Racer will soon welcome larg...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Star Wars Galactic Racer will soon welcome larg...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-will-soon-welcome-larger-podracing-parties-with-multiplayer-group-size-limits-set-to-double-in-a-future-update",
+        "date": "2026-10-08",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-08T04:33:23.485911"
+  "last_updated": "2026-10-08T16:08:16.260531"
 }
