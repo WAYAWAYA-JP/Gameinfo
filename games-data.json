@@ -266,6 +266,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/beyondrealityscifisurvivalvrcollection_bundle",
         "date": "2026-10-08"
+      },
+      {
+        "title": "The Triple-i Initiative Showcase Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "The Triple-i Initiative Showcase BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/tripleiinitiativeshowcasebundle_bundle",
+        "date": "2026-10-08"
       }
     ],
     "sale": [
@@ -543,6 +555,30 @@
         "discount": "50% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/1808500",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "Terraria",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "TerrariaがSteamで50% OFFセール中です。",
+        "price": "¥600",
+        "originalPrice": "¥1,200",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/105600",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Red Dead Redemption 2がSteamで75% OFFセール中です。",
+        "price": "¥2,154",
+        "originalPrice": "¥8,618",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1174180",
         "date": "2026-10-08"
       }
     ],
@@ -1183,8 +1219,60 @@
         "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-will-soon-welcome-larger-podracing-parties-with-multiplayer-group-size-limits-set-to-double-in-a-future-update",
         "date": "2026-10-08",
         "is_translated": true
+      },
+      {
+        "title": "【過酷オープンワールド“凡人” RPG『Outward 2（アウトワードII）』、来年2月8日早...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【過酷オープンワールド“凡人” RPG『Outward 2（アウトワードII）』、来年2月8日早...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261009-472590/",
+        "date": "2026-10-08",
+        "is_translated": false
+      },
+      {
+        "title": "【哲学的な旅を描く人気パズルシリーズ最終章「The Talos Principle 3」初のゲー...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【哲学的な旅を描く人気パズルシリーズ最終章「The Talos Principle 3」初のゲー...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171579.html",
+        "date": "2026-10-08",
+        "is_translated": false
+      },
+      {
+        "title": "【“Inscryption”を生んだDaniel Mullins氏の新作「Pony Island...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“Inscryption”を生んだDaniel Mullins氏の新作「Pony Island...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171576.html",
+        "date": "2026-10-08",
+        "is_translated": false
+      },
+      {
+        "title": "【ジョセフとベルタの新しい冒険を描く17年ぶりの続編「Machinarium 2」が遂に正式アナ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【ジョセフとベルタの新しい冒険を描く17年ぶりの続編「Machinarium 2」が遂に正式アナ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171573.html",
+        "date": "2026-10-08",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-08T16:08:16.260531"
+  "last_updated": "2026-10-08T18:42:49.888119"
 }
