@@ -1,80 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Astrea Six Sided Oracles",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Astrea Six Sided OraclesがEpic Gamesで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "¥24",
-        "discount": "100% OFF",
-        "deadline": "2026年10月01日まで",
-        "url": "https://store.epicgames.com/ja/p/915d7181013c40d980e1924513c7b8ec",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Mechabellum",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "大軍のメカを指揮して戦いを繰り広げる壮大なオート戦闘ゲーム。精巧なグラフィックで展開される3Dバトルで、軍隊を編成してユニットをカスタマイズしよう。陣形を熟知して敵を叩き潰せ。クリック連打は不要。戦略だけが物を言う。1対1、2対2、デスマッチ、またはサバイバルモードで相手の頭脳を上回ろう。",
-        "price": "無料",
-        "originalPrice": "¥17",
-        "discount": "100% OFF",
-        "deadline": "2026年10月01日まで",
-        "url": "https://store.epicgames.com/ja/p/6a87570c28144b9cb50eb0ba46a7e19e",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "System Shock 2: 25th Anniversary Remaster",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "System Shock® 2: 25th Anniversary Remaster is a genre defining experience that established innovative game-play mechanics that are a staple of the FPS and RPG genre today. Survive the wretched corrid…",
-        "price": "無料",
-        "originalPrice": "¥28",
-        "discount": "100% OFF",
-        "deadline": "2026年10月08日まで",
-        "url": "https://store.epicgames.com/ja/p/system-shock-2-25th-anniversary-remaster",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "ベリード・スターズ",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『ベリード・スターズ』は、生放送中のサバイバルオーディション番組の崩壊事故現場を舞台にしたミステリーアドベンチャーゲームです。\n閉じ込められた出演者たちは互いに、そしてSNSを通じて外部と繋がりながら救助を待ちますが、思いがけない事件が発生し、信頼と生存が揺らぎ始めます。",
-        "price": "無料",
-        "originalPrice": "¥41",
-        "discount": "100% OFF",
-        "deadline": "2026年10月08日まで",
-        "url": "https://store.epicgames.com/ja/p/buried-stars",
-        "date": "2026-10-01"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Garbage Dwellers",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Garbage DwellersのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/garbagedwellers_bundle",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Programming Puzzles Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Programming Puzzles BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/programingpuzzlesbundle_bundle",
-        "date": "2026-09-28"
-      },
       {
         "title": "Pixel Traditions Bundle 4",
         "platform": "IndieGala",
@@ -245,138 +172,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "CONTROL Resonant",
-        "platform": "Various",
-        "type": "sale",
-        "description": "CONTROL ResonantがVariousで-16%セール中です。",
-        "price": "$50.62",
-        "originalPrice": "",
-        "discount": "-16%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/control-resonant/info/",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "DARK SOULS III - The Fire Fades Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DARK SOULS III - The Fire Fades EditionがSteamで50% OFFセール中です。",
-        "price": "¥2,970",
-        "originalPrice": "¥5,940",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/160150",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "ペルソナ３ リロード",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ペルソナ３ リロードがSteamで70% OFFセール中です。",
-        "price": "¥2,303",
-        "originalPrice": "¥7,678",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2161700",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "DARK SOULS™: REMASTERED",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "DARK SOULS™: REMASTEREDがSteamで50% OFFセール中です。",
-        "price": "¥2,365",
-        "originalPrice": "¥4,730",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/570940",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "ペルソナ５ ザ・ロイヤル",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ペルソナ５ ザ・ロイヤルがSteamで70% OFFセール中です。",
-        "price": "¥2,303",
-        "originalPrice": "¥7,678",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1687950",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "メタファー：リファンタジオ",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "メタファー：リファンタジオがSteamで60% OFFセール中です。",
-        "price": "¥3,951",
-        "originalPrice": "¥9,878",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2679460",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "DAVE THE DIVER",
-        "platform": "Various",
-        "type": "sale",
-        "description": "DAVE THE DIVERがVariousで-63%セール中です。",
-        "price": "$7.49",
-        "originalPrice": "",
-        "discount": "-63%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dave-the-diver/info/",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Lies Of P",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Lies Of PがVariousで-50%セール中です。",
-        "price": "$29.99",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/lies-of-p/info/",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Sekiro™: Shadows Die Twice - GOTY EditionがSteamで50% OFFセール中です。",
-        "price": "¥4,180",
-        "originalPrice": "¥8,360",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/814380",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-        "platform": "Various",
-        "type": "sale",
-        "description": "S.T.A.L.K.E.R. 2: Heart of ChornobylがVariousで-41%セール中です。",
-        "price": "$35.19",
-        "originalPrice": "",
-        "discount": "-41%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Ready Or Not",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Ready Or NotがVariousで-56%セール中です。",
-        "price": "$21.98",
-        "originalPrice": "",
-        "discount": "-56%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ready-or-not/info/",
-        "date": "2026-10-01"
-      },
       {
         "title": "サイバーパンク2077",
         "platform": "Steam",
@@ -619,71 +414,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【『ARC Raiders』、10月8日より期間限定フリープレイを開催へ。新マップも登場する「リ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ARC Raiders』、10月8日より期間限定フリープレイを開催へ。新マップも登場する「リ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261003-471575/",
-        "date": "2026-10-03",
-        "is_translated": false
-      },
-      {
-        "title": "【スイッチ2向け『ステラーブレイド』体験版で「難しい」と感じても、諦めるのはまだ早い！ ある意味...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【スイッチ2向け『ステラーブレイド』体験版で「難しい」と感じても、諦めるのはまだ早い！ ある意味...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/10/03/188699.html",
-        "date": "2026-10-03",
-        "is_translated": false
-      },
-      {
-        "title": "【「『エースコンバット8』は実質ASMR」とする主張がプレイヤーから相次ぐ。“ささやきツダケン”...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【「『エースコンバット8』は実質ASMR」とする主張がプレイヤーから相次ぐ。“ささやきツダケン”...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261003-471623/",
-        "date": "2026-10-03",
-        "is_translated": false
-      },
-      {
-        "title": "【パラドックス中世ストラテジー『クルセイダーキングス Ⅲ（CK3）』アプデで宗教システム大拡張。...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【パラドックス中世ストラテジー『クルセイダーキングス Ⅲ（CK3）』アプデで宗教システム大拡張。...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261003-471614/",
-        "date": "2026-10-03",
-        "is_translated": false
-      },
-      {
-        "title": "【恐竜の骨お片付け＆標本組み立てゲーム『DinoBones』、Steamで好評集める滑り出し。“...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【恐竜の骨お片付け＆標本組み立てゲーム『DinoBones』、Steamで好評集める滑り出し。“...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261003-471595/",
-        "date": "2026-10-03",
-        "is_translated": false
-      },
       {
         "title": "【基本プレイ無料『NTE』Ver.1.4で新実装の「遊園地」で“客が入っちゃいけないとこ”めぐり...】",
         "platform": "AUTOMATON",
@@ -1125,8 +855,60 @@
         "url": "https://www.rockpapershotgun.com/anime-racer-screamer-no-longer-demands-you-retrain-your-fingers-with-a-fresh-patch-adding-single-stick-drift-controls",
         "date": "2026-10-07",
         "is_translated": true
+      },
+      {
+        "title": "【「MARVEL Tōkon: Fighting Souls」に参戦する“フェニックス・サイクロ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「MARVEL Tōkon: Fighting Souls」に参戦する“フェニックス・サイクロ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171503.html",
+        "date": "2026-10-07",
+        "is_translated": false
+      },
+      {
+        "title": "【「Core Keeper」が無料でプレイできるSteamフリーウィークエンドがアナウンス、開幕...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Core Keeper」が無料でプレイできるSteamフリーウィークエンドがアナウンス、開幕...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171535.html",
+        "date": "2026-10-07",
+        "is_translated": false
+      },
+      {
+        "title": "【Nivalis Nights review: An avalanche of fascinat...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Nivalis Nights review: An avalanche of fascinat...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/life-sim/nivalis-nights-review/",
+        "date": "2026-10-07",
+        "is_translated": true
+      },
+      {
+        "title": "【FF7 Revelation Sets Up a Rude Awakening for Cloud：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【FF7 Revelation Sets Up a Rude Awakening for Cloud：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/ff7-revelation-preview-impressions-cloud/",
+        "date": "2026-10-07",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-07T18:44:39.908013"
+  "last_updated": "2026-10-08T00:43:41.882827"
 }
