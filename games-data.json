@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Pixel Traditions Bundle 4",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Pixel Traditions Bundle 4のバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/pixel-traditions4-bundle",
-        "date": "2026-09-29"
-      },
-      {
         "title": "Hidden Art 3 Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -282,114 +270,6 @@
     ],
     "sale": [
       {
-        "title": "サイバーパンク2077",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サイバーパンク2077がSteamで70% OFFセール中です。",
-        "price": "¥2,633",
-        "originalPrice": "¥8,778",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1091500",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Pax Autocratica",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Pax AutocraticaがSteamで80% OFFセール中です。",
-        "price": "¥770",
-        "originalPrice": "¥3,850",
-        "discount": "80% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1067360",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Marvel’s Spider-Man Remastered",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Marvel’s Spider-Man RemasteredがSteamで60% OFFセール中です。",
-        "price": "¥3,036",
-        "originalPrice": "¥7,590",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1817070",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "System Shock 2: 25th Anniversary Remaster",
-        "platform": "Various",
-        "type": "sale",
-        "description": "System Shock 2: 25th Anniversary RemasterがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/system-shock-2-25th-anniversary-remaster/info/",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Street Fighter 6",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Street Fighter 6がSteamで60% OFFセール中です。",
-        "price": "¥1,996",
-        "originalPrice": "¥4,990",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1364780",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "The Elder Scrolls V: Skyrim Special Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "The Elder Scrolls V: Skyrim Special EditionがSteamで90% OFFセール中です。",
-        "price": "¥439",
-        "originalPrice": "¥4,399",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/489830",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Monster Hunter Rise + Sunbreak",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Monster Hunter Rise + SunbreakがSteamで84% OFFセール中です。",
-        "price": "¥958",
-        "originalPrice": "¥5,990",
-        "discount": "84% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/692569",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Ghost of Tsushima DIRECTOR'S CUT",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Ghost of Tsushima DIRECTOR'S CUTがVariousで-46%セール中です。",
-        "price": "$32.38",
-        "originalPrice": "",
-        "discount": "-46%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "God of War",
-        "platform": "Various",
-        "type": "sale",
-        "description": "God of WarがVariousで-64%セール中です。",
-        "price": "$17.95",
-        "originalPrice": "",
-        "discount": "-64%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/god-of-war/info/",
-        "date": "2026-10-02"
-      },
-      {
         "title": "God of War Ragnarök",
         "platform": "Various",
         "type": "sale",
@@ -583,97 +463,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料『NTE』Ver.1.4で新実装の「遊園地」で“客が入っちゃいけないとこ”めぐり...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料『NTE』Ver.1.4で新実装の「遊園地」で“客が入っちゃいけないとこ”めぐり...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20261004-471655/",
-        "date": "2026-10-04",
-        "is_translated": false
-      },
-      {
-        "title": "【美少女全国統一SLG『戦国ランス』Steam版、さっそく「好評率94％」の盛り上がり。やりこみ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【美少女全国統一SLG『戦国ランス』Steam版、さっそく「好評率94％」の盛り上がり。やりこみ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/sengoku-rance-20261004-471648/",
-        "date": "2026-10-04",
-        "is_translated": false
-      },
-      {
-        "title": "【協力マルチ対応・巨大戦車建築ローグライク『Tower Tanks』発表。パーツと装備を積み上げ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【協力マルチ対応・巨大戦車建築ローグライク『Tower Tanks』発表。パーツと装備を積み上げ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261004-471629/",
-        "date": "2026-10-04",
-        "is_translated": false
-      },
-      {
-        "title": "【コスプレ】美脚が光るスタイル抜群なコスプレイヤーが集結！TGS2026「DMM GAMES」ブースが美女揃い踏みで華やかすぎた【写真32枚】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【コスプレ】美脚が光るスタイル抜群なコスプレイヤーが集結！TGS2026「DMM GAMES」ブースが美女揃い踏みで華やかすぎた【写真32枚】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/10/04/188721.html",
-        "date": "2026-10-04",
-        "is_translated": false
-      },
-      {
-        "title": "【『エースコンバット８』はターシャに釣られてバクスターにハマる。『ウィッチャー3』リマスターは“...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『エースコンバット８』はターシャに釣られてバクスターにハマる。『ウィッチャー3』リマスターは“...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20261004-471711/",
-        "date": "2026-10-04",
-        "is_translated": false
-      },
-      {
-        "title": "【物理と科学で織りなすオープンワールド『未眠野』が実機プレイ映像を公開中。中国発の美少女バスケゲ...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【物理と科学で織りなすオープンワールド『未眠野』が実機プレイ映像を公開中。中国発の美少女バスケゲ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/10/04/188725.html",
-        "date": "2026-10-04",
-        "is_translated": false
-      },
-      {
-        "title": "【Xbox Finally Had a Good Week：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【Xbox Finally Had a Good Week：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/patch-notes-xbox-disc-to-digital/",
-        "date": "2026-10-04",
-        "is_translated": true
-      },
       {
         "title": "【『鳴潮』、「ファイルサイズがでかすぎて容量圧迫する問題」にコツコツ取り組んでいる模様。前バージ...：レビュー】",
         "platform": "AUTOMATON",
@@ -1274,5 +1063,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-08T18:42:49.888119"
+  "last_updated": "2026-10-09T00:59:38.463813"
 }
