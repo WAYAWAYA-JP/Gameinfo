@@ -254,6 +254,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/twistedtrilogiesandterrorsdarkvisualnovels_bundle",
         "date": "2026-10-09"
+      },
+      {
+        "title": "Hidden Art 3 Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Hidden Art 3 BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/hidden-art3-bundle",
+        "date": "2026-10-10"
       }
     ],
     "sale": [
@@ -1019,8 +1031,60 @@
         "url": "https://www.polygon.com/other-mommy-bad-critics-reviews-premiere-jessica-chastain-horror/",
         "date": "2026-10-09",
         "is_translated": true
+      },
+      {
+        "title": "【PvPvE脱出アクションRPG『Vaultbreakers』無料デモ版が配信開始。最大3人協力...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【PvPvE脱出アクションRPG『Vaultbreakers』無料デモ版が配信開始。最大3人協力...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/vaultbreakers-20261010-472900/",
+        "date": "2026-10-10",
+        "is_translated": false
+      },
+      {
+        "title": "【コンソール版「Valor Mortis」の詳細なゲームプレイ比較映像が公開、発売は10月13日】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【コンソール版「Valor Mortis」の詳細なゲームプレイ比較映像が公開、発売は10月13日】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171677.html",
+        "date": "2026-10-10",
+        "is_translated": false
+      },
+      {
+        "title": "【2016年に発売された初代「Pony Island」の期間限定無料配布がスタート、続編のプレイ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【2016年に発売された初代「Pony Island」の期間限定無料配布がスタート、続編のプレイ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171642.html",
+        "date": "2026-10-10",
+        "is_translated": false
+      },
+      {
+        "title": "【「Battlefield 6|REDSEC」シーズン5の新コンテンツをまとめたロードマップが公...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Battlefield 6|REDSEC」シーズン5の新コンテンツをまとめたロードマップが公...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171673.html",
+        "date": "2026-10-10",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-10T00:30:00.675190"
+  "last_updated": "2026-10-10T04:22:39.675161"
 }
