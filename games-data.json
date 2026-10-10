@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Hidden Art 3 Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Hidden Art 3 BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/hidden-art3-bundle",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "HHPixel Traditions Bundle 4",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "HHPixel Traditions Bundle 4のバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/pixel-traditions4-bundle",
-        "date": "2026-09-30"
-      },
-      {
         "title": "2D Rewind Collection from S2 Games",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -281,54 +257,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "God of War Ragnarök",
-        "platform": "Various",
-        "type": "sale",
-        "description": "God of War RagnarökがVariousで-40%セール中です。",
-        "price": "$35.95",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
-        "date": "2026-10-03"
-      },
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "StrayがVariousで-61%セール中です。",
-        "price": "$11.74",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-10-03"
-      },
-      {
-        "title": "The Outlast Trials",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "The Outlast TrialsがSteamで90% OFFセール中です。",
-        "price": "¥450",
-        "originalPrice": "¥4,500",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1304930",
-        "date": "2026-10-03"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33がVariousで-31%セール中です。",
-        "price": "$34.25",
-        "originalPrice": "",
-        "discount": "-31%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-10-03"
-      },
       {
         "title": "PRAGMATA",
         "platform": "Various",
@@ -544,113 +472,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
         "date": "2026-10-09"
+      },
+      {
+        "title": "Mount & Blade II: Bannerlord",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Mount & Blade II: BannerlordがVariousで-52%セール中です。",
+        "price": "$23.92",
+        "originalPrice": "",
+        "discount": "-52%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/mount-and-blade-ii-bannerlord/info/",
+        "date": "2026-10-10"
       }
     ],
     "review": [
-      {
-        "title": "【『鳴潮』、「ファイルサイズがでかすぎて容量圧迫する問題」にコツコツ取り組んでいる模様。前バージ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『鳴潮』、「ファイルサイズがでかすぎて容量圧迫する問題」にコツコツ取り組んでいる模様。前バージ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/meicho-20261005-471766/",
-        "date": "2026-10-05",
-        "is_translated": false
-      },
-      {
-        "title": "【最大4人協力ホラー『The Outlast Trials』、Steam同接「約10万人」で過去...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【最大4人協力ホラー『The Outlast Trials』、Steam同接「約10万人」で過去...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261005-471765/",
-        "date": "2026-10-05",
-        "is_translated": false
-      },
-      {
-        "title": "【南アフリカのCozy Livesが開発を手がけた本格ドレス仕立て屋ゲーム「Dressmaker...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【南アフリカのCozy Livesが開発を手がけた本格ドレス仕立て屋ゲーム「Dressmaker...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171419.html",
-        "date": "2026-10-05",
-        "is_translated": false
-      },
-      {
-        "title": "【“4年ぶりに再始動”するモンスター育成MMORPG『イカロスオンライン』を初めて遊ぶとどう見え...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【“4年ぶりに再始動”するモンスター育成MMORPG『イカロスオンライン』を初めて遊ぶとどう見え...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20261005-471886/",
-        "date": "2026-10-05",
-        "is_translated": false
-      },
-      {
-        "title": "【文字を回して戦う無料ゲーム『文字ブレード』、トップメタ「◯」の対策進む。「卍」や「㍿」が“刺さ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【文字を回して戦う無料ゲーム『文字ブレード』、トップメタ「◯」の対策進む。「卍」や「㍿」が“刺さ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261005-471880/",
-        "date": "2026-10-05",
-        "is_translated": false
-      },
-      {
-        "title": "【『鉄拳8』にて“目隠しプレイ”で破壊神になった猛者現る。聴くだけで“見える”『鉄拳』やり込みすぎプロ】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『鉄拳8』にて“目隠しプレイ”で破壊神になった猛者現る。聴くだけで“見える”『鉄拳』やり込みすぎプロ】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261005-471833/",
-        "date": "2026-10-05",
-        "is_translated": false
-      },
-      {
-        "title": "【「PowerWash Simulator 2」のプレイヤー数が累計400万人を突破】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「PowerWash Simulator 2」のプレイヤー数が累計400万人を突破】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171464.html",
-        "date": "2026-10-05",
-        "is_translated": false
-      },
-      {
-        "title": "【「World War Z」に新武器やミューテーターを導入するコンテンツアップデート“Waves...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「World War Z」に新武器やミューテーターを導入するコンテンツアップデート“Waves...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171421.html",
-        "date": "2026-10-05",
-        "is_translated": false
-      },
       {
         "title": "【期待の新作MMORPG『AION2』Steam同接40万人で「Steamで3番目に人気のゲーム...：レビュー】",
         "platform": "AUTOMATON",
@@ -1186,5 +1022,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-09T18:13:26.592244"
+  "last_updated": "2026-10-10T00:30:00.675190"
 }
