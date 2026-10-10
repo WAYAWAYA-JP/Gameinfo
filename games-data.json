@@ -496,6 +496,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/mount-and-blade-ii-bannerlord/info/",
         "date": "2026-10-10"
+      },
+      {
+        "title": "Days Gone",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Days GoneがVariousで-50%セール中です。",
+        "price": "$19.99",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/days-gone/info/",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "No Man's SkyがVariousで-69%セール中です。",
+        "price": "$18.85",
+        "originalPrice": "",
+        "discount": "-69%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-10-10"
       }
     ],
     "review": [
@@ -1083,8 +1107,34 @@
         "url": "https://doope.jp/2026/10171673.html",
         "date": "2026-10-10",
         "is_translated": false
+      },
+      {
+        "title": "【「ヱヴァ新劇場版」より「要人輸送用ネルフ司令官専用垂直離着陸機」プラモデルが再生産！主翼部分の...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【「ヱヴァ新劇場版」より「要人輸送用ネルフ司令官専用垂直離着陸機」プラモデルが再生産！主翼部分の...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/10/10/189075.html",
+        "date": "2026-10-10",
+        "is_translated": false
+      },
+      {
+        "title": "【Ray Gunn Review: The Grown-Up Pixar Movie of Br...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Ray Gunn Review: The Grown-Up Pixar Movie of Br...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/ray-gunn-review-netflix-brad-bird/",
+        "date": "2026-10-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-10T04:22:39.675161"
+  "last_updated": "2026-10-10T15:03:05.215196"
 }
