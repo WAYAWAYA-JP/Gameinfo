@@ -496,6 +496,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/fireside-feelings/info/",
         "date": "2026-10-11"
+      },
+      {
+        "title": "STAR WARS: Galactic Racer™",
+        "platform": "Various",
+        "type": "sale",
+        "description": "STAR WARS: Galactic Racer™がVariousで-10%セール中です。",
+        "price": "$53.95",
+        "originalPrice": "",
+        "discount": "-10%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/star-wars-galactic-racer/info/",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "PRAGMATA",
+        "platform": "Various",
+        "type": "sale",
+        "description": "PRAGMATAがVariousで-20%セール中です。",
+        "price": "$47.99",
+        "originalPrice": "",
+        "discount": "-20%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/pragmata/info/",
+        "date": "2026-10-11"
       }
     ],
     "review": [
@@ -1021,5 +1045,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-11T15:20:21.847683"
+  "last_updated": "2026-10-11T17:35:14.897759"
 }
