@@ -52,54 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "2D Rewind Collection from S2 Games",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "2D Rewind Collection from S2 GamesのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/2drewindcollectionfroms2games_bundle",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "The Almighty God Games Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "The Almighty God Games BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/almightygodgamesbundle_bundle",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Decked Out Deckbuilders",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Decked Out DeckbuildersのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/deckedoutdeckbuilders_bundle",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Run It Back - Roguelikes Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Run It Back - Roguelikes BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/runitbackroguelikes_bundle",
-        "date": "2026-10-01"
-      },
-      {
         "title": "CRPG Pack: Isometric Immersion",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -269,18 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "PRAGMATA",
-        "platform": "Various",
-        "type": "sale",
-        "description": "PRAGMATAがVariousで-20%セール中です。",
-        "price": "$47.99",
-        "originalPrice": "",
-        "discount": "-20%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/pragmata/info/",
-        "date": "2026-10-04"
-      },
       {
         "title": "Marvel's Spider-Man 2",
         "platform": "Various",
@@ -520,126 +460,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-10-10"
+      },
+      {
+        "title": "Fireside Feelings",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Fireside FeelingsがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/fireside-feelings/info/",
+        "date": "2026-10-11"
       }
     ],
     "review": [
-      {
-        "title": "【期待の新作MMORPG『AION2』Steam同接40万人で「Steamで3番目に人気のゲーム...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【期待の新作MMORPG『AION2』Steam同接40万人で「Steamで3番目に人気のゲーム...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261006-471947/",
-        "date": "2026-10-06",
-        "is_translated": false
-      },
-      {
-        "title": "【“Vampire Survivors”のスピンオフ「Vampire Crawlers」のモバイ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“Vampire Survivors”のスピンオフ「Vampire Crawlers」のモバイ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171477.html",
-        "date": "2026-10-06",
-        "is_translated": false
-      },
-      {
-        "title": "【EDF！EDF！最新仕様で遊びやすくなった『地球防衛軍5 for Nintendo Switc...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【EDF！EDF！最新仕様で遊びやすくなった『地球防衛軍5 for Nintendo Switc...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/10/06/188828.html",
-        "date": "2026-10-06",
-        "is_translated": false
-      },
-      {
-        "title": "【「基本プレイ無料ゲームは衰退していない」との市場分析。『鳴潮』などRPG系が健闘、ただし“掛け...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【「基本プレイ無料ゲームは衰退していない」との市場分析。『鳴潮』などRPG系が健闘、ただし“掛け...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261006-472037/",
-        "date": "2026-10-06",
-        "is_translated": false
-      },
-      {
-        "title": "【「Battlefield 6」シーズン5のゲームプレイトレーラーがお披露目、“Dead Spa...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Battlefield 6」シーズン5のゲームプレイトレーラーがお披露目、“Dead Spa...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171491.html",
-        "date": "2026-10-06",
-        "is_translated": false
-      },
-      {
-        "title": "【Spiritfarerを生んだ“Thunder Lotus”の新作アクションアドベンチャー「A...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【Spiritfarerを生んだ“Thunder Lotus”の新作アクションアドベンチャー「A...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171490.html",
-        "date": "2026-10-06",
-        "is_translated": false
-      },
-      {
-        "title": "【Star Wars Galactic Racer review: now this is fr...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Star Wars Galactic Racer review: now this is fr...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-review-now-this-is-frenetically-fun-podracing-with-a-totally-unforgiving-streak",
-        "date": "2026-10-06",
-        "is_translated": true
-      },
-      {
-        "title": "【PlatinumGames CEO pauses a discussion on Stella...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【PlatinumGames CEO pauses a discussion on Stella...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/platinumgames-ceo-pauses-a-discussion-on-stellar-blades-bayonetta-costume-crossover-to-casually-infer-more-bayonetta-may-be-on-the-way",
-        "date": "2026-10-06",
-        "is_translated": true
-      },
-      {
-        "title": "【Gears of War: E-Day review — terrific shooting ...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Gears of War: E-Day review — terrific shooting ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review/",
-        "date": "2026-10-06",
-        "is_translated": true
-      },
       {
         "title": "【配信が迫る「ARC Raiders: Frozen Trail」のローンチトレーラーが公開：レビュー】",
         "platform": "doope!",
@@ -652,32 +487,6 @@
         "url": "https://doope.jp/2026/10171516.html",
         "date": "2026-10-07",
         "is_translated": false
-      },
-      {
-        "title": "【「Call of Duty: Modern Warfare 4」“DMZ”モードに多彩な任務を...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Call of Duty: Modern Warfare 4」“DMZ”モードに多彩な任務を...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171486.html",
-        "date": "2026-10-06",
-        "is_translated": false
-      },
-      {
-        "title": "【12 Biggest GTA 6 Questions the Previews Haven't...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【12 Biggest GTA 6 Questions the Previews Haven't...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gta-6-major-questions/",
-        "date": "2026-10-06",
-        "is_translated": true
       },
       {
         "title": "【『スター・ウォーズ：ギャラクティック・レーサー』Steam同接1万5000人突破の大盛況。30...：レビュー】",
@@ -1149,5 +958,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-10T17:12:48.147977"
+  "last_updated": "2026-10-11T00:06:15.728393"
 }
