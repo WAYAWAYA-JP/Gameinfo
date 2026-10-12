@@ -520,6 +520,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cult-of-the-lamb/info/",
         "date": "2026-10-12"
+      },
+      {
+        "title": "SILENT HILL 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "SILENT HILL 2がVariousで-70%セール中です。",
+        "price": "$21.34",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
+        "date": "2026-10-12"
       }
     ],
     "review": [
@@ -1016,8 +1028,34 @@
         "url": "https://www.rockpapershotgun.com/valor-mortis-review",
         "date": "2026-10-12",
         "is_translated": true
+      },
+      {
+        "title": "【Final Fantasy Meets Dragon Quest in Square Enix...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Final Fantasy Meets Dragon Quest in Square Enix...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/romancing-saga-3-preview-nycc/",
+        "date": "2026-10-12",
+        "is_translated": true
+      },
+      {
+        "title": "【'Visionquest' Review: The Brilliant Sendoff Mar...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【'Visionquest' Review: The Brilliant Sendoff Mar...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/visionquest-review-marvel/",
+        "date": "2026-10-12",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-12T18:36:04.278698"
+  "last_updated": "2026-10-12T21:09:04.323640"
 }
