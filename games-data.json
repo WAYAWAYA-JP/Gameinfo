@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "CRPG Pack: Isometric Immersion",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "CRPG Pack: Isometric ImmersionのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/crpgpackisometricimmersion_bundle",
-        "date": "2026-10-02"
-      },
-      {
         "title": "Trineverse Triple Co-Op Pack",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,18 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Marvel's Spider-Man 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Marvel's Spider-Man 2がVariousで-40%セール中です。",
-        "price": "$36.16",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/marvels-spider-man-2/info/",
-        "date": "2026-10-05"
-      },
       {
         "title": "Marvel's Spider-Man: Miles Morales",
         "platform": "Various",
@@ -520,165 +496,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/pragmata/info/",
         "date": "2026-10-11"
+      },
+      {
+        "title": "Pony Island",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Pony IslandがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/pony-island/info/",
+        "date": "2026-10-12"
       }
     ],
     "review": [
-      {
-        "title": "【配信が迫る「ARC Raiders: Frozen Trail」のローンチトレーラーが公開：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【配信が迫る「ARC Raiders: Frozen Trail」のローンチトレーラーが公開：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171516.html",
-        "date": "2026-10-07",
-        "is_translated": false
-      },
-      {
-        "title": "【『スター・ウォーズ：ギャラクティック・レーサー』Steam同接1万5000人突破の大盛況。30...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『スター・ウォーズ：ギャラクティック・レーサー』Steam同接1万5000人突破の大盛況。30...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261007-472157/",
-        "date": "2026-10-07",
-        "is_translated": false
-      },
-      {
-        "title": "【『League of Legends』のアプデで突如“他人のリプレイ確認不可”となりプレイヤー...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『League of Legends』のアプデで突如“他人のリプレイ確認不可”となりプレイヤー...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261007-472143/",
-        "date": "2026-10-07",
-        "is_translated": false
-      },
-      {
-        "title": "【耐久か、それとも―『GUNDAM ROGUE ORBIT』は“組む”ところから戦いが始まってい...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【耐久か、それとも―『GUNDAM ROGUE ORBIT』は“組む”ところから戦いが始まってい...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/10/07/188874.html",
-        "date": "2026-10-07",
-        "is_translated": false
-      },
-      {
-        "title": "【新ヒーロー“ドクトリン”が参戦する「オーバーウォッチ」シーズン5“不死者の教義”の多彩な新コン...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【新ヒーロー“ドクトリン”が参戦する「オーバーウォッチ」シーズン5“不死者の教義”の多彩な新コン...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171494.html",
-        "date": "2026-10-07",
-        "is_translated": false
-      },
-      {
-        "title": "【5 Key New GTA 6 Details Just Unveiled By Rockst...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【5 Key New GTA 6 Details Just Unveiled By Rockst...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gta-6-preview-wanted-hollow-stars-shop-exclusives-mission-options/",
-        "date": "2026-10-07",
-        "is_translated": true
-      },
-      {
-        "title": "【Airborne open world Atmosfar gets an early acce...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Airborne open world Atmosfar gets an early acce...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis",
-        "date": "2026-10-07",
-        "is_translated": true
-      },
-      {
-        "title": "【Anime racer Screamer no longer demands you retr...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Anime racer Screamer no longer demands you retr...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/anime-racer-screamer-no-longer-demands-you-retrain-your-fingers-with-a-fresh-patch-adding-single-stick-drift-controls",
-        "date": "2026-10-07",
-        "is_translated": true
-      },
-      {
-        "title": "【「MARVEL Tōkon: Fighting Souls」に参戦する“フェニックス・サイクロ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「MARVEL Tōkon: Fighting Souls」に参戦する“フェニックス・サイクロ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171503.html",
-        "date": "2026-10-07",
-        "is_translated": false
-      },
-      {
-        "title": "【「Core Keeper」が無料でプレイできるSteamフリーウィークエンドがアナウンス、開幕...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Core Keeper」が無料でプレイできるSteamフリーウィークエンドがアナウンス、開幕...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171535.html",
-        "date": "2026-10-07",
-        "is_translated": false
-      },
-      {
-        "title": "【Nivalis Nights review: An avalanche of fascinat...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Nivalis Nights review: An avalanche of fascinat...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/life-sim/nivalis-nights-review/",
-        "date": "2026-10-07",
-        "is_translated": true
-      },
-      {
-        "title": "【FF7 Revelation Sets Up a Rude Awakening for Cloud：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【FF7 Revelation Sets Up a Rude Awakening for Cloud：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/ff7-revelation-preview-impressions-cloud/",
-        "date": "2026-10-07",
-        "is_translated": true
-      },
       {
         "title": "【『朧村正怪奇譚』先行プレイ感想。ヴァニラウェア和風人気作がリマスター……かと思いきや手触りごと...】",
         "platform": "AUTOMATON",
@@ -1042,8 +874,21 @@
         "url": "https://doope.jp/2026/10171645.html",
         "date": "2026-10-11",
         "is_translated": false
+      },
+      {
+        "title": "【Amplitudeの人類史4xストラテジー続編「HUMANKIND 2」のゲームプレイお披露目...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Amplitudeの人類史4xストラテジー続編「HUMANKIND 2」のゲームプレイお披露目...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171685.html",
+        "date": "2026-10-12",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-11T17:35:14.897759"
+  "last_updated": "2026-10-12T00:14:46.483947"
 }
