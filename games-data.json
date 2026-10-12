@@ -508,6 +508,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/pony-island/info/",
         "date": "2026-10-12"
+      },
+      {
+        "title": "Cult of the Lamb",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Cult of the LambがVariousで-50%セール中です。",
+        "price": "$12.49",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cult-of-the-lamb/info/",
+        "date": "2026-10-12"
       }
     ],
     "review": [
@@ -900,8 +912,112 @@
         "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
         "date": "2026-10-12",
         "is_translated": true
+      },
+      {
+        "title": "【メトロイドヴァニア型探索ホラー『Silver Pines』かなり盛況、「好評率94％」で評価も...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【メトロイドヴァニア型探索ホラー『Silver Pines』かなり盛況、「好評率94％」で評価も...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/silver-pines-20261012-473085/",
+        "date": "2026-10-12",
+        "is_translated": false
+      },
+      {
+        "title": "【最大8人マルチ対応お絵描きタワーディフェンス『まるかいてドカン！』発表。丸は砲台、線は壁、“布...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【最大8人マルチ対応お絵描きタワーディフェンス『まるかいてドカン！』発表。丸は砲台、線は壁、“布...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261012-473076/",
+        "date": "2026-10-12",
+        "is_translated": false
+      },
+      {
+        "title": "【「No Man’s Sky」のiOS版がアナウンス、既存の全コンテンツアップデートを含むモバイ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「No Man’s Sky」のiOS版がアナウンス、既存の全コンテンツアップデートを含むモバイ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171723.html",
+        "date": "2026-10-12",
+        "is_translated": false
+      },
+      {
+        "title": "【愉快な“釣り”ゲーム「How to Fish」が発売から僅か2ヶ月で1,000万プレイヤーを突破】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【愉快な“釣り”ゲーム「How to Fish」が発売から僅か2ヶ月で1,000万プレイヤーを突破】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171709.html",
+        "date": "2026-10-12",
+        "is_translated": false
+      },
+      {
+        "title": "【Pearl Abyss goes easy on us critics for our Cri...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Pearl Abyss goes easy on us critics for our Cri...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rpg/pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-reviews-they-had-to-play-the-build-that-is-not-the-exact-same-version-of-the-launched-game/",
+        "date": "2026-10-12",
+        "is_translated": true
+      },
+      {
+        "title": "【Valor Mortis' system requirements appear to hav...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Valor Mortis' system requirements appear to hav...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/valor-mortis-system-requirements-appear-to-have-been-drastically-cut-just-before-the-fpsoulslike-launches",
+        "date": "2026-10-12",
+        "is_translated": true
+      },
+      {
+        "title": "【Valve have released the Steam Frame's CAD files...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Valve have released the Steam Frame's CAD files...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
+        "date": "2026-10-12",
+        "is_translated": true
+      },
+      {
+        "title": "【Valor Mortis review - this Napoleonic first-per...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Valor Mortis review - this Napoleonic first-per...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/valor-mortis-review",
+        "date": "2026-10-12",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-12T04:23:25.256879"
+  "last_updated": "2026-10-12T18:36:04.278698"
 }
