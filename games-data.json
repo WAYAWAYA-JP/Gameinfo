@@ -556,6 +556,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dead-cells/info/",
         "date": "2026-10-13"
+      },
+      {
+        "title": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Pathfinder: Wrath of the Righteous - Enhanced EditionがVariousで-90%セール中です。",
+        "price": "$2.00",
+        "originalPrice": "",
+        "discount": "-90%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/pathfinder-wrath-of-the-righteous-enhanced-edition/info/",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Castlevania: Belmont's Curse",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Castlevania: Belmont's CurseがVariousで-25%セール中です。",
+        "price": "$22.49",
+        "originalPrice": "",
+        "discount": "-25%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/castlevania-belmonts-curse/info/",
+        "date": "2026-10-13"
       }
     ],
     "review": [
@@ -1052,8 +1076,21 @@
         "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania",
         "date": "2026-10-13",
         "is_translated": true
+      },
+      {
+        "title": "【\"They thought Callisto was a complete failure\":...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【\"They thought Callisto was a complete failure\":...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/they-thought-callisto-was-a-complete-failure-glen-schofield-blames-publishers-krafton-for-the-callisto-protocols-crash-landing",
+        "date": "2026-10-13",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-13T16:43:51.930814"
+  "last_updated": "2026-10-13T19:07:32.987705"
 }
