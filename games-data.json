@@ -604,6 +604,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-10-14"
+      },
+      {
+        "title": "Voidtrain - Big Catch",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Voidtrain - Big CatchがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/voidtrain-big-catch/info/",
+        "date": "2026-10-14"
       }
     ],
     "review": [
@@ -1269,8 +1281,21 @@
         "url": "https://www.rockpapershotgun.com/we-vibe-coded-a-new-epic-games-launcher-because-programming-is-hard-announce-company-were-somehow-supposed-to-see-as-a-serious-steam-competitor",
         "date": "2026-10-14",
         "is_translated": true
+      },
+      {
+        "title": "【Total War Fans Blast New Remaster Over Bugs, AI...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Total War Fans Blast New Remaster Over Bugs, AI...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/total-war-shogun-2-complete-edition/",
+        "date": "2026-10-14",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-14T16:55:54.888125"
+  "last_updated": "2026-10-14T23:42:37.296262"
 }
