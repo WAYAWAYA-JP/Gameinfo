@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/akupara10thanniversarybundle_bundle",
         "date": "2026-10-13"
+      },
+      {
+        "title": "Coffee Break Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Coffee Break BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/coffee-break-bundle",
+        "date": "2026-10-14"
       }
     ],
     "sale": [
@@ -567,6 +579,30 @@
         "discount": "-75%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/fallout-4/info/",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "V Rising",
+        "platform": "Various",
+        "type": "sale",
+        "description": "V RisingがVariousで-80%セール中です。",
+        "price": "$6.90",
+        "originalPrice": "",
+        "discount": "-80%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/v-rising/info/",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33がVariousで-26%セール中です。",
+        "price": "$36.99",
+        "originalPrice": "",
+        "discount": "-26%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-10-14"
       }
     ],
@@ -1103,8 +1139,112 @@
         "url": "https://doope.jp/2026/10169959.html",
         "date": "2026-10-14",
         "is_translated": false
+      },
+      {
+        "title": "【あるゲーム開発者、デモ版を20時間遊び倒す熱心な“チーター”に困惑。嬉しいけどもなぜチート：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【あるゲーム開発者、デモ版を20時間遊び倒す熱心な“チーター”に困惑。嬉しいけどもなぜチート：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261014-473469/",
+        "date": "2026-10-14",
+        "is_translated": false
+      },
+      {
+        "title": "【動物園経営シム『プラネット ズー 2』、Steam同接4万5000人の好発進。前作から鳥と水生...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【動物園経営シム『プラネット ズー 2』、Steam同接4万5000人の好発進。前作から鳥と水生...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261014-473407/",
+        "date": "2026-10-14",
+        "is_translated": false
+      },
+      {
+        "title": "【「車必須社会」目指す都市開発シム『Car Park Capital』邪悪すぎて面白いと「圧倒的...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【「車必須社会」目指す都市開発シム『Car Park Capital』邪悪すぎて面白いと「圧倒的...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261013-473257/",
+        "date": "2026-10-14",
+        "is_translated": false
+      },
+      {
+        "title": "【『Slay the Spire』最高難易度を最新AIモデルにプレイさせると“後半でやたら苦戦す...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『Slay the Spire』最高難易度を最新AIモデルにプレイさせると“後半でやたら苦戦す...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261014-473406/",
+        "date": "2026-10-14",
+        "is_translated": false
+      },
+      {
+        "title": "【発売が迫る日本語PS5版「Dune: Awakening」の字幕入りゲームプレイ解説映像がお披露目】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【発売が迫る日本語PS5版「Dune: Awakening」の字幕入りゲームプレイ解説映像がお披露目】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171801.html",
+        "date": "2026-10-14",
+        "is_translated": false
+      },
+      {
+        "title": "【With the Steam Frame becoming Valve's new favou...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【With the Steam Frame becoming Valve's new favou...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/with-the-steam-frame-becoming-valves-new-favourite-vr-child-theyre-selling-off-their-last-index-headset-stock",
+        "date": "2026-10-14",
+        "is_translated": true
+      },
+      {
+        "title": "【\"My idea of a Netflix for games doesn’t work\": ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【\"My idea of a Netflix for games doesn’t work\": ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-creator-says-struggling-spiritual-successor-sbox-will-go-free-to-play-as-part-of-major-rethink",
+        "date": "2026-10-14",
+        "is_translated": true
+      },
+      {
+        "title": "【The Legend of Zelda: Ocarina of Time Remake Pre...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【The Legend of Zelda: Ocarina of Time Remake Pre...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/legend-of-zelda-ocarina-of-time-remake-preview-switch-2/",
+        "date": "2026-10-14",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-14T03:34:20.904191"
+  "last_updated": "2026-10-14T14:20:13.150452"
 }
