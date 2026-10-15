@@ -24,6 +24,30 @@
         "deadline": "2026年10月15日まで",
         "url": "https://store.epicgames.com/ja/p/f229ed53ddba40788e0ab62978e9eaf9",
         "date": "2026-10-15"
+      },
+      {
+        "title": "Bad Cheese",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Bad Cheese is a psychological horror inspired by the eerie charm of 1920s animation. \nStep into the tiny paws of a mouse spending the weekend at home with a dysfunctional Dad while Mom's away. \nBe on…",
+        "price": "無料",
+        "originalPrice": "¥12",
+        "discount": "100% OFF",
+        "deadline": "2026年10月22日まで",
+        "url": "https://store.epicgames.com/ja/p/ae5d8fc5541f42eea105f64121dba382",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "Agent A - 偽装のパズル",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Agent A - 偽装のパズルがEpic Gamesで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "¥19",
+        "discount": "100% OFF",
+        "deadline": "2026年10月22日まで",
+        "url": "https://store.epicgames.com/ja/p/agent-a-a-puzzle-in-disguise",
+        "date": "2026-10-15"
       }
     ],
     "bundle": [
@@ -591,6 +615,18 @@
         "discount": "-37%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/over-the-hill/info/",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "StrayがVariousで-50%セール中です。",
+        "price": "$14.99",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-10-15"
       }
     ],
@@ -1309,8 +1345,73 @@
         "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/asus-rog-xbox-ally-x20-review/",
         "date": "2026-10-15",
         "is_translated": true
+      },
+      {
+        "title": "【大型アプデ迫る『Warframe』新イベントは“一度きり”、なぜ二度と復刻しないのか？名前登場...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【大型アプデ迫る『Warframe』新イベントは“一度きり”、なぜ二度と復刻しないのか？名前登場...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/warframe-tau-20261015-473692/",
+        "date": "2026-10-15",
+        "is_translated": false
+      },
+      {
+        "title": "【人気王国運営マイクロストラテジー“Kingdom”シリーズ最新作「Kingdom III: R...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【人気王国運営マイクロストラテジー“Kingdom”シリーズ最新作「Kingdom III: R...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171865.html",
+        "date": "2026-10-15",
+        "is_translated": false
+      },
+      {
+        "title": "【人気2DアクションRPG“Drova”のナンバリング続編「Drova II – Torn La...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【人気2DアクションRPG“Drova”のナンバリング続編「Drova II – Torn La...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171812.html",
+        "date": "2026-10-15",
+        "is_translated": false
+      },
+      {
+        "title": "【Monumentally expansive roguelike Caves of Qud i...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Monumentally expansive roguelike Caves of Qud i...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/monumentally-expansive-roguelike-caves-of-qud-is-getting-even-bigger-in-december-with-an-early-access-expansion-that-lets-you-play-as-messed-up-dogs-and-trees",
+        "date": "2026-10-15",
+        "is_translated": true
+      },
+      {
+        "title": "【Street Fighter Review: Even David Dastmalchian ...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Street Fighter Review: Even David Dastmalchian ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/street-fighter-2026-review/",
+        "date": "2026-10-15",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-15T13:57:09.729418"
+  "last_updated": "2026-10-15T16:42:48.092954"
 }
