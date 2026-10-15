@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Out of Sight",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Out of SightがEpic Gamesで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "¥17",
+        "discount": "100% OFF",
+        "deadline": "2026年10月15日まで",
+        "url": "https://store.epicgames.com/ja/p/f350878fcb5242d6851cfe2fa1316e76",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "TerraScape",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "心地よい中世の街づくりパズルで、建物を戦略的に配置しながら浮遊島に美しい王国を築きましょう。秘密の組み合わせを発見し、ウィークリーチャレンジに挑戦し、さまざまなソロおよびマルチプレイモードで自動生成マップを探索できます。",
+        "price": "無料",
+        "originalPrice": "¥16",
+        "discount": "100% OFF",
+        "deadline": "2026年10月15日まで",
+        "url": "https://store.epicgames.com/ja/p/f229ed53ddba40788e0ab62978e9eaf9",
+        "date": "2026-10-15"
+      }
+    ],
     "bundle": [
       {
         "title": "Indies in Space",
@@ -193,6 +218,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/coffee-break-bundle",
         "date": "2026-10-14"
+      },
+      {
+        "title": "Capcom Classics Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Capcom Classics BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/capcomclassicsbundle_bundle",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "Gear & Glory Action RPGs",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Gear & Glory Action RPGsのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/geargloryactionrpgs_bundle",
+        "date": "2026-10-15"
       }
     ],
     "sale": [
@@ -506,6 +555,42 @@
         "discount": "-15%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/valor-mortis/info/",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "ARC Raiders",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ARC RaidersがSteamで50% OFFセール中です。",
+        "price": "¥3,195",
+        "originalPrice": "¥6,390",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1808500",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Sekiro™: Shadows Die Twice - GOTY EditionがSteamで50% OFFセール中です。",
+        "price": "¥4,180",
+        "originalPrice": "¥8,360",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/814380",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "over the hill",
+        "platform": "Various",
+        "type": "sale",
+        "description": "over the hillがVariousで-37%セール中です。",
+        "price": "$15.74",
+        "originalPrice": "",
+        "discount": "-37%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/over-the-hill/info/",
         "date": "2026-10-15"
       }
     ],
@@ -1159,8 +1244,73 @@
         "url": "https://www.polygon.com/garrys-mod-creator-sbox-spiritual-sequel-dire-update/",
         "date": "2026-10-15",
         "is_translated": true
+      },
+      {
+        "title": "【『配信少女ノ裏垢迷宮』ノベル体験版プレイ感想。『まのさば』スタッフによるキャラクター描写は健在...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『配信少女ノ裏垢迷宮』ノベル体験版プレイ感想。『まのさば』スタッフによるキャラクター描写は健在...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/hais-20261015-473674/",
+        "date": "2026-10-15",
+        "is_translated": false
+      },
+      {
+        "title": "【最大4人マルチ・オープンワールドドライブゲーム『over the hill』いきなりSteam...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【最大4人マルチ・オープンワールドドライブゲーム『over the hill』いきなりSteam...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/over-the-hill-20261015-473665/",
+        "date": "2026-10-15",
+        "is_translated": false
+      },
+      {
+        "title": "【「CONTROL Resonant」の国内PS5/XBOX Series X|S向けパッケージ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「CONTROL Resonant」の国内PS5/XBOX Series X|S向けパッケージ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171814.html",
+        "date": "2026-10-15",
+        "is_translated": false
+      },
+      {
+        "title": "【Razer Wolverine V4 Pro wireless gaming controll...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Razer Wolverine V4 Pro wireless gaming controll...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/controllers/razer-wolverine-v4-pro-review/",
+        "date": "2026-10-15",
+        "is_translated": true
+      },
+      {
+        "title": "【Asus ROG Xbox Ally X20 review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Asus ROG Xbox Ally X20 review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/asus-rog-xbox-ally-x20-review/",
+        "date": "2026-10-15",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-15T03:14:21.043550"
+  "last_updated": "2026-10-15T13:57:09.729418"
 }
