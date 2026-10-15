@@ -628,6 +628,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-10-15"
+      },
+      {
+        "title": "Monster Hunter Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Monster Hunter WildsがVariousで-33%セール中です。",
+        "price": "$26.95",
+        "originalPrice": "",
+        "discount": "-33%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "Disco Elysium - The Final Cut",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Disco Elysium - The Final CutがVariousで-80%セール中です。",
+        "price": "$7.95",
+        "originalPrice": "",
+        "discount": "-80%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
+        "date": "2026-10-15"
       }
     ],
     "review": [
@@ -1410,8 +1434,21 @@
         "url": "https://www.polygon.com/street-fighter-2026-review/",
         "date": "2026-10-15",
         "is_translated": true
+      },
+      {
+        "title": "【Street Fighter review roundup: sorry, folks, bu...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Street Fighter review roundup: sorry, folks, bu...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/movies-tv/street-fighter-review-roundup-sorry-folks-but-it-sounds-like-a-mess/",
+        "date": "2026-10-15",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-15T16:42:48.092954"
+  "last_updated": "2026-10-15T23:33:13.350398"
 }
