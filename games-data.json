@@ -266,6 +266,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/galsandpalspqubejapanesegames_bundle",
         "date": "2026-10-16"
+      },
+      {
+        "title": "Power Halt Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Power Halt BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/power-halt-bundle",
+        "date": "2026-10-16"
       }
     ],
     "sale": [
@@ -615,6 +627,18 @@
         "discount": "60% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/1364780",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Voidtrain - Tour de Void",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Voidtrain - Tour de VoidがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/voidtrain-tour-de-void/info/",
         "date": "2026-10-16"
       }
     ],
@@ -1515,8 +1539,34 @@
         "url": "https://doope.jp/2026/10171803.html",
         "date": "2026-10-16",
         "is_translated": false
+      },
+      {
+        "title": "【The Blood of Dawnwalker's update 1.1 adds a \"fo...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【The Blood of Dawnwalker's update 1.1 adds a \"fo...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/the-blood-of-dawnwalkers-update-11-adds-a-forgiving-difficulty-setting-but-i-think-ill-find-it-hard-to-forgive-its-introduction-of-directional-animal-petting",
+        "date": "2026-10-16",
+        "is_translated": true
+      },
+      {
+        "title": "【Penguin Colony review - the least expected Soul...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Penguin Colony review - the least expected Soul...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/penguin-colony-review-the-least-expected-soulslike-youll-play-and-a-cracking-parody-of-lovecraftian-empires",
+        "date": "2026-10-16",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-16T13:44:49.603770"
+  "last_updated": "2026-10-16T16:25:30.843527"
 }
