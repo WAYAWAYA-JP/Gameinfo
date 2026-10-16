@@ -242,6 +242,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/geargloryactionrpgs_bundle",
         "date": "2026-10-15"
+      },
+      {
+        "title": "Humble Indie Fighters Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Indie Fighters BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/indiefighters_bundle",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Gals and Pals: PQube Japanese Games",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Gals and Pals: PQube Japanese GamesのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/galsandpalspqubejapanesegames_bundle",
+        "date": "2026-10-16"
       }
     ],
     "sale": [
@@ -579,6 +603,18 @@
         "discount": "-75%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Street Fighter 6",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Street Fighter 6がSteamで60% OFFセール中です。",
+        "price": "¥1,996",
+        "originalPrice": "¥4,990",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1364780",
         "date": "2026-10-16"
       }
     ],
@@ -1427,8 +1463,60 @@
         "url": "https://www.inside-games.jp/article/2026/10/16/189352.html",
         "date": "2026-10-16",
         "is_translated": false
+      },
+      {
+        "title": "【警察に突如拘束された『Dota 2』のプロゲーマー、その場で「32キル」の超絶プレイを見せつけ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【警察に突如拘束された『Dota 2』のプロゲーマー、その場で「32キル」の超絶プレイを見せつけ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261016-473967/",
+        "date": "2026-10-16",
+        "is_translated": false
+      },
+      {
+        "title": "【CygamesEdge新作『崩落の国』は「Cygames社内ゲームコンテストで高評価」から誕生...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【CygamesEdge新作『崩落の国』は「Cygames社内ゲームコンテストで高評価」から誕生...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/where-the-seeds-fall-20261016-473925/",
+        "date": "2026-10-16",
+        "is_translated": false
+      },
+      {
+        "title": "【Cygames新ブランド第一弾『崩落の国』先行プレイ感想。「降りる」だけの1100円ゲームは、...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【Cygames新ブランド第一弾『崩落の国』先行プレイ感想。「降りる」だけの1100円ゲームは、...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/where-the-seeds-fall-20261016-473917/",
+        "date": "2026-10-16",
+        "is_translated": false
+      },
+      {
+        "title": "【ORIGAME DIGITAL最新作「ペンギン・コロニー」レビュー、ラヴクラフト神話とペンギン...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【ORIGAME DIGITAL最新作「ペンギン・コロニー」レビュー、ラヴクラフト神話とペンギン...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171803.html",
+        "date": "2026-10-16",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-16T03:10:20.142342"
+  "last_updated": "2026-10-16T13:44:49.603770"
 }
