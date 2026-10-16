@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Indies in Space",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Indies in SpaceのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/indiesinspace_bundle",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Happy Queens Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Happy Queens BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/happy-queens-bundle",
-        "date": "2026-10-06"
-      },
-      {
         "title": "Assemble Entertainment Cozy Games Collection",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -269,78 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Street Fighter 6",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Street Fighter 6がSteamで60% OFFセール中です。",
-        "price": "¥1,996",
-        "originalPrice": "¥4,990",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1364780",
-        "date": "2026-10-09"
-      },
-      {
-        "title": "TerraScape",
-        "platform": "Various",
-        "type": "sale",
-        "description": "TerraScapeがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/terrascape/info/",
-        "date": "2026-10-09"
-      },
-      {
-        "title": "Out of Sight",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Out of SightがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/out-of-sight/info/",
-        "date": "2026-10-09"
-      },
-      {
-        "title": "Ghost of Tsushima DIRECTOR'S CUT",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Ghost of Tsushima DIRECTOR'S CUTがVariousで-37%セール中です。",
-        "price": "$37.99",
-        "originalPrice": "",
-        "discount": "-37%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/ghost-of-tsushima-directors-cut/info/",
-        "date": "2026-10-09"
-      },
-      {
-        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-        "platform": "Various",
-        "type": "sale",
-        "description": "S.T.A.L.K.E.R. 2: Heart of ChornobylがVariousで-18%セール中です。",
-        "price": "$49.12",
-        "originalPrice": "",
-        "discount": "-18%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
-        "date": "2026-10-09"
-      },
-      {
-        "title": "Marvel's Spider-Man Remastered",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Marvel's Spider-Man RemasteredがVariousで-17%セール中です。",
-        "price": "$49.74",
-        "originalPrice": "",
-        "discount": "-17%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/marvels-spider-man-remastered/info/",
-        "date": "2026-10-09"
-      },
       {
         "title": "Mount & Blade II: Bannerlord",
         "platform": "Various",
@@ -652,48 +556,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
         "date": "2026-10-15"
+      },
+      {
+        "title": "ホグワーツ・レガシー",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ホグワーツ・レガシーがSteamで90% OFFセール中です。",
+        "price": "¥877",
+        "originalPrice": "¥8,778",
+        "discount": "90% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/990080",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Red Dead Redemption 2がVariousで-75%セール中です。",
+        "price": "$14.99",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-10-16"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料『NTE』新エリア「遊園地」の“汚い遊び方”が流行る。子どもの遊びで暴走する大人...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料『NTE』新エリア「遊園地」の“汚い遊び方”が流行る。子どもの遊びで暴走する大人...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20261009-472781/",
-        "date": "2026-10-11",
-        "is_translated": false
-      },
-      {
-        "title": "【『ドラゴンズドグマ 2：ダークアリズン』の“ポーンごり押し姫プ”で生まれるドラマ。『真・三國無...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ドラゴンズドグマ 2：ダークアリズン』の“ポーンごり押し姫プ”で生まれるドラマ。『真・三國無...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20261011-473024/",
-        "date": "2026-10-11",
-        "is_translated": false
-      },
-      {
-        "title": "【範馬勇次郎のティザーを含む「鉄拳8」の“ロジャーJr.”ゲームプレイトレーラーが公開、早期アク...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【範馬勇次郎のティザーを含む「鉄拳8」の“ロジャーJr.”ゲームプレイトレーラーが公開、早期アク...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171645.html",
-        "date": "2026-10-11",
-        "is_translated": false
-      },
       {
         "title": "【Amplitudeの人類史4xストラテジー続編「HUMANKIND 2」のゲームプレイお披露目...】",
         "platform": "doope!",
@@ -1447,8 +1336,99 @@
         "url": "https://www.pcgamer.com/movies-tv/street-fighter-review-roundup-sorry-folks-but-it-sounds-like-a-mess/",
         "date": "2026-10-15",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料“プレイヤーが乱世を作る”SRPG×SLG『三國志 戦棋版』では急にガチ戦争に巻...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料“プレイヤーが乱世を作る”SRPG×SLG『三國志 戦棋版』では急にガチ戦争に巻...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20261015-473568/",
+        "date": "2026-10-16",
+        "is_translated": false
+      },
+      {
+        "title": "【「監視役と囚われ役」激ムズ協力2人プレイホラー『Beyond the Dark: ナイトウォッ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【「監視役と囚われ役」激ムズ協力2人プレイホラー『Beyond the Dark: ナイトウォッ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261016-473760/",
+        "date": "2026-10-16",
+        "is_translated": false
+      },
+      {
+        "title": "【人気Co-opアドベンチャー「It Takes Two」のNintendo Switch 2版...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【人気Co-opアドベンチャー「It Takes Two」のNintendo Switch 2版...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171903.html",
+        "date": "2026-10-16",
+        "is_translated": false
+      },
+      {
+        "title": "【House Houseが傑作Co-opゲーム「Big Walk」のXBOX非対応に関する声明を...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【House Houseが傑作Co-opゲーム「Big Walk」のXBOX非対応に関する声明を...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171875.html",
+        "date": "2026-10-16",
+        "is_translated": false
+      },
+      {
+        "title": "【中世ヨーロッパ生活シム「Medieval Dynasty」の累計プレイヤー数が350万人を突破】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【中世ヨーロッパ生活シム「Medieval Dynasty」の累計プレイヤー数が350万人を突破】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171898.html",
+        "date": "2026-10-16",
+        "is_translated": false
+      },
+      {
+        "title": "【大規模分隊タクティカルシューター「Squad」のPS5とXBOX Series X|S対応がア...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【大規模分隊タクティカルシューター「Squad」のPS5とXBOX Series X|S対応がア...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171880.html",
+        "date": "2026-10-15",
+        "is_translated": false
+      },
+      {
+        "title": "【『悪魔城ドラキュラ』最新作『Castlevania: Belmont's Curse』賛否両論...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【『悪魔城ドラキュラ』最新作『Castlevania: Belmont's Curse』賛否両論...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/10/16/189352.html",
+        "date": "2026-10-16",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-15T23:33:13.350398"
+  "last_updated": "2026-10-16T03:10:20.142342"
 }
