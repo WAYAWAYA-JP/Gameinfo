@@ -278,6 +278,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/power-halt-bundle",
         "date": "2026-10-16"
+      },
+      {
+        "title": "Hamble's Fright or Fight Halloween Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Hamble's Fright or Fight Halloween BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/hamblesfrightorfighthalloweenbundle_bundle",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Serenity Forge Emotional Impact Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Serenity Forge Emotional Impact BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/serenityforgeemotionalimpactbundle_bundle",
+        "date": "2026-10-16"
       }
     ],
     "sale": [
@@ -1565,8 +1589,21 @@
         "url": "https://www.rockpapershotgun.com/penguin-colony-review-the-least-expected-soulslike-youll-play-and-a-cracking-parody-of-lovecraftian-empires",
         "date": "2026-10-16",
         "is_translated": true
+      },
+      {
+        "title": "【Call of Duty: Modern Warfare 4 review-in-progre...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Call of Duty: Modern Warfare 4 review-in-progre...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
+        "date": "2026-10-16",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-16T16:25:30.843527"
+  "last_updated": "2026-10-16T23:15:57.804156"
 }
