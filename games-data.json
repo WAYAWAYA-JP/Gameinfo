@@ -616,6 +616,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/voidtrain-tour-de-void/info/",
         "date": "2026-10-16"
+      },
+      {
+        "title": "Squad Weapon Skins - Recon Team Pack",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Squad Weapon Skins - Recon Team PackがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/squad-weapon-skins-recon-team-pack/info/",
+        "date": "2026-10-17"
       }
     ],
     "review": [
@@ -1411,8 +1423,34 @@
         "url": "https://automaton-media.com/articles/newsjp/20261017-474053/",
         "date": "2026-10-17",
         "is_translated": false
+      },
+      {
+        "title": "【熱心なSteamユーザーの約40％は「PCだけでゲームを遊ぶ」という調査結果。PC・コンソール...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【熱心なSteamユーザーの約40％は「PCだけでゲームを遊ぶ」という調査結果。PC・コンソール...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261017-474124/",
+        "date": "2026-10-17",
+        "is_translated": false
+      },
+      {
+        "title": "【動物園シム『Planet Zoo』プレイヤーは「リアル動物保護に約2倍寄付する」とのオックスフ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【動物園シム『Planet Zoo』プレイヤーは「リアル動物保護に約2倍寄付する」とのオックスフ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261017-474095/",
+        "date": "2026-10-17",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-17T03:01:35.300748"
+  "last_updated": "2026-10-17T12:41:43.806993"
 }
