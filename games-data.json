@@ -1449,8 +1449,34 @@
         "url": "https://automaton-media.com/articles/newsjp/20261017-474095/",
         "date": "2026-10-17",
         "is_translated": false
+      },
+      {
+        "title": "【As too much of the industry embrace their own d...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【As too much of the industry embrace their own d...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
+        "date": "2026-10-17",
+        "is_translated": true
+      },
+      {
+        "title": "【The Zelda: Ocarina of Time Remake Sounds Meanin...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【The Zelda: Ocarina of Time Remake Sounds Meanin...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/switchboard-zelda-ocarina-of-time-previews/",
+        "date": "2026-10-17",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-17T15:19:58.291017"
+  "last_updated": "2026-10-17T22:54:29.472875"
 }
