@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Assemble Entertainment Cozy Games Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Assemble Entertainment Cozy Games CollectionのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/assembleentertainmentcozygamescollection_bundle",
-        "date": "2026-10-07"
-      },
-      {
         "title": "Garbage Dwellers",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -305,42 +293,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Mount & Blade II: Bannerlord",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Mount & Blade II: BannerlordがVariousで-52%セール中です。",
-        "price": "$23.92",
-        "originalPrice": "",
-        "discount": "-52%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/mount-and-blade-ii-bannerlord/info/",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "Days Gone",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Days GoneがVariousで-50%セール中です。",
-        "price": "$19.99",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/days-gone/info/",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "No Man's SkyがVariousで-69%セール中です。",
-        "price": "$18.85",
-        "originalPrice": "",
-        "discount": "-69%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-10-10"
-      },
       {
         "title": "Fireside Feelings",
         "platform": "Various",
@@ -667,162 +619,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【Amplitudeの人類史4xストラテジー続編「HUMANKIND 2」のゲームプレイお披露目...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【Amplitudeの人類史4xストラテジー続編「HUMANKIND 2」のゲームプレイお披露目...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171685.html",
-        "date": "2026-10-12",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam Week in Review: The curious case of Wonde...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Steam Week in Review: The curious case of Wonde...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
-        "date": "2026-10-12",
-        "is_translated": true
-      },
-      {
-        "title": "【メトロイドヴァニア型探索ホラー『Silver Pines』かなり盛況、「好評率94％」で評価も...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【メトロイドヴァニア型探索ホラー『Silver Pines』かなり盛況、「好評率94％」で評価も...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/silver-pines-20261012-473085/",
-        "date": "2026-10-12",
-        "is_translated": false
-      },
-      {
-        "title": "【最大8人マルチ対応お絵描きタワーディフェンス『まるかいてドカン！』発表。丸は砲台、線は壁、“布...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【最大8人マルチ対応お絵描きタワーディフェンス『まるかいてドカン！』発表。丸は砲台、線は壁、“布...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261012-473076/",
-        "date": "2026-10-12",
-        "is_translated": false
-      },
-      {
-        "title": "【「No Man’s Sky」のiOS版がアナウンス、既存の全コンテンツアップデートを含むモバイ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「No Man’s Sky」のiOS版がアナウンス、既存の全コンテンツアップデートを含むモバイ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171723.html",
-        "date": "2026-10-12",
-        "is_translated": false
-      },
-      {
-        "title": "【愉快な“釣り”ゲーム「How to Fish」が発売から僅か2ヶ月で1,000万プレイヤーを突破】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【愉快な“釣り”ゲーム「How to Fish」が発売から僅か2ヶ月で1,000万プレイヤーを突破】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171709.html",
-        "date": "2026-10-12",
-        "is_translated": false
-      },
-      {
-        "title": "【Pearl Abyss goes easy on us critics for our Cri...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Pearl Abyss goes easy on us critics for our Cri...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/rpg/pearl-abyss-goes-easy-on-us-critics-for-our-crimson-desert-reviews-they-had-to-play-the-build-that-is-not-the-exact-same-version-of-the-launched-game/",
-        "date": "2026-10-12",
-        "is_translated": true
-      },
-      {
-        "title": "【Valor Mortis' system requirements appear to hav...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Valor Mortis' system requirements appear to hav...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/valor-mortis-system-requirements-appear-to-have-been-drastically-cut-just-before-the-fpsoulslike-launches",
-        "date": "2026-10-12",
-        "is_translated": true
-      },
-      {
-        "title": "【Valve have released the Steam Frame's CAD files...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Valve have released the Steam Frame's CAD files...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/valve-have-released-the-steam-frames-cad-files-but-theres-already-a-cottage-industry-of-diy-wrist-straps-and-lifesize-skull-stands",
-        "date": "2026-10-12",
-        "is_translated": true
-      },
-      {
-        "title": "【Valor Mortis review - this Napoleonic first-per...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Valor Mortis review - this Napoleonic first-per...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/valor-mortis-review",
-        "date": "2026-10-12",
-        "is_translated": true
-      },
-      {
-        "title": "【Final Fantasy Meets Dragon Quest in Square Enix...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【Final Fantasy Meets Dragon Quest in Square Enix...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/romancing-saga-3-preview-nycc/",
-        "date": "2026-10-12",
-        "is_translated": true
-      },
-      {
-        "title": "【'Visionquest' Review: The Brilliant Sendoff Mar...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【'Visionquest' Review: The Brilliant Sendoff Mar...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/visionquest-review-marvel/",
-        "date": "2026-10-12",
-        "is_translated": true
-      },
       {
         "title": "【大人気ローグライクACT『Risk of Rain 2』Steam同接4万6000人に達し、一...：レビュー】",
         "platform": "AUTOMATON",
@@ -1602,8 +1398,21 @@
         "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
         "date": "2026-10-16",
         "is_translated": true
+      },
+      {
+        "title": "【最大4人協力・物理演算へっぽこ消防士シム『Flame and Blame』発表。暴れるホースで...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【最大4人協力・物理演算へっぽこ消防士シム『Flame and Blame』発表。暴れるホースで...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261017-474053/",
+        "date": "2026-10-17",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-16T23:15:57.804156"
+  "last_updated": "2026-10-17T03:01:35.300748"
 }
