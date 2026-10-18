@@ -230,6 +230,42 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/serenityforgeemotionalimpactbundle_bundle",
         "date": "2026-10-16"
+      },
+      {
+        "title": "The Triple-i Initiative Showcase Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "The Triple-i Initiative Showcase BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/tripleiinitiativeshowcasebundle_bundle",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "Programming Puzzles Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Programming Puzzles BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/programingpuzzlesbundle_bundle",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "Beyond Reality: Sci-Fi & Survival VR Collection",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Beyond Reality: Sci-Fi & Survival VR CollectionのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/beyondrealityscifisurvivalvrcollection_bundle",
+        "date": "2026-10-18"
       }
     ],
     "sale": [
@@ -532,6 +568,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/squad-weapon-skins-recon-team-pack/info/",
         "date": "2026-10-17"
+      },
+      {
+        "title": "STAR WARS: Galactic Racer™",
+        "platform": "Various",
+        "type": "sale",
+        "description": "STAR WARS: Galactic Racer™がVariousで-20%セール中です。",
+        "price": "$47.95",
+        "originalPrice": "",
+        "discount": "-20%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/star-wars-galactic-racer/info/",
+        "date": "2026-10-18"
       }
     ],
     "review": [
@@ -1236,8 +1284,21 @@
         "url": "https://www.inside-games.jp/article/2026/10/18/189439.html",
         "date": "2026-10-18",
         "is_translated": false
+      },
+      {
+        "title": "【『ARC Raiders』PvEモードはいざ遊んでみると緊張感に欠ける。『クワイエット急行90...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ARC Raiders』PvEモードはいざ遊んでみると緊張感に欠ける。『クワイエット急行90...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20261018-474178/",
+        "date": "2026-10-18",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-18T03:03:59.155092"
+  "last_updated": "2026-10-18T12:58:42.471166"
 }
