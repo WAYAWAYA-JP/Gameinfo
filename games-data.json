@@ -254,6 +254,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/twistedtrilogiesandterrorsdarkvisualnovels_bundle",
         "date": "2026-10-19"
+      },
+      {
+        "title": "Hidden Art 3 Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Hidden Art 3 BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/hidden-art3-bundle",
+        "date": "2026-10-20"
       }
     ],
     "sale": [
@@ -472,6 +484,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/star-wars-galactic-racer/info/",
         "date": "2026-10-18"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストがSteamで56% OFFセール中です。",
+        "price": "¥2,851",
+        "originalPrice": "¥6,480",
+        "discount": "56% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Cyberpunk 2077がVariousで-70%セール中です。",
+        "price": "$17.99",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
+        "date": "2026-10-20"
       }
     ],
     "review": [
@@ -903,8 +939,73 @@
         "url": "https://doope.jp/2026/10171981.html",
         "date": "2026-10-19",
         "is_translated": false
+      },
+      {
+        "title": "【無料デモ一斉配信イベント「Steam Nextフェス」開幕で、空島スローライフや“協力おならボ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【無料デモ一斉配信イベント「Steam Nextフェス」開幕で、空島スローライフや“協力おならボ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261020-474385/",
+        "date": "2026-10-20",
+        "is_translated": false
+      },
+      {
+        "title": "【『Moonlighter』開発元による新作『ReVamp』、公開プレイテストが急遽“Disco...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『Moonlighter』開発元による新作『ReVamp』、公開プレイテストが急遽“Disco...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261020-474377/",
+        "date": "2026-10-20",
+        "is_translated": false
+      },
+      {
+        "title": "【人気コズミックホラー「恐怖の世界」に多数の新コンテンツを導入する1.2アップデートの配信時期が...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【人気コズミックホラー「恐怖の世界」に多数の新コンテンツを導入する1.2アップデートの配信時期が...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171976.html",
+        "date": "2026-10-20",
+        "is_translated": false
+      },
+      {
+        "title": "【ORIGAME DIGITALが最新作「ペンギン・コロニー」のイスラエル向け販売を停止、開発者...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【ORIGAME DIGITALが最新作「ペンギン・コロニー」のイスラエル向け販売を停止、開発者...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171979.html",
+        "date": "2026-10-20",
+        "is_translated": false
+      },
+      {
+        "title": "【大冒険のラスト1時間だけプレイするRPG「The Last Hour of an Epic T...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【大冒険のラスト1時間だけプレイするRPG「The Last Hour of an Epic T...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171977.html",
+        "date": "2026-10-20",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-20T00:07:04.143093"
+  "last_updated": "2026-10-20T03:26:19.031157"
 }
