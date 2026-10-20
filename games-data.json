@@ -508,6 +508,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-10-20"
+      },
+      {
+        "title": "Resident Evil Requiem",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Resident Evil RequiemがVariousで-30%セール中です。",
+        "price": "$48.99",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
+        "date": "2026-10-20"
       }
     ],
     "review": [
@@ -1030,8 +1042,47 @@
         "url": "https://doope.jp/2026/10171978.html",
         "date": "2026-10-20",
         "is_translated": false
+      },
+      {
+        "title": "【「Battlefield 6」の「Dead Space」期間限定イベントがスタート、トレーラー...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Battlefield 6」の「Dead Space」期間限定イベントがスタート、トレーラー...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10171988.html",
+        "date": "2026-10-20",
+        "is_translated": false
+      },
+      {
+        "title": "【Asus ProArt P16 (H7607) RTX Spark laptop review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Asus ProArt P16 (H7607) RTX Spark laptop review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-proart-p16-rtx-spark-review/",
+        "date": "2026-10-20",
+        "is_translated": true
+      },
+      {
+        "title": "【\"It doesn’t have to always be triple-A\": Galact...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【\"It doesn’t have to always be triple-A\": Galact...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/it-doesnt-have-to-always-be-triple-a-galactic-racer-and-zero-companys-success-has-lucasfilms-wanting-more-smaller-scale-star-wars-games",
+        "date": "2026-10-20",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-20T14:06:19.757268"
+  "last_updated": "2026-10-20T16:39:56.241725"
 }
