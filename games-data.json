@@ -242,6 +242,42 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/hidden-art3-bundle",
         "date": "2026-10-20"
+      },
+      {
+        "title": "2D Rewind Collection from S2 Games",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "2D Rewind Collection from S2 GamesのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/2drewindcollectionfroms2games_bundle",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "HHHidden Art 3 Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "HHHidden Art 3 BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/hidden-art3-bundle",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Hentai Balloons 2",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Hentai Balloons 2のバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/hentai-balloons2",
+        "date": "2026-10-21"
       }
     ],
     "sale": [
@@ -459,6 +495,30 @@
         "discount": "-100%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/gear-club-unlimited-3-gear-club-signature-pack/info/",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "サイバーパンク2077",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "サイバーパンク2077がSteamで70% OFFセール中です。",
+        "price": "¥2,633",
+        "originalPrice": "¥8,778",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1091500",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33がVariousで-25%セール中です。",
+        "price": "$37.49",
+        "originalPrice": "",
+        "discount": "-25%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-10-21"
       }
     ],
@@ -969,8 +1029,99 @@
         "url": "https://www.inside-games.jp/article/2026/10/21/189579.html",
         "date": "2026-10-21",
         "is_translated": false
+      },
+      {
+        "title": "【『GTA 6』発売日に“150万人が仕事を休み、約1600億円の経済損失が出る”との結構怪しい...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『GTA 6』発売日に“150万人が仕事を休み、約1600億円の経済損失が出る”との結構怪しい...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261021-474744/",
+        "date": "2026-10-21",
+        "is_translated": false
+      },
+      {
+        "title": "【建物ぶち壊しFPS『THE FINALS』、新シーズン開幕で「Steam同接3万超え」の盛況。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【建物ぶち壊しFPS『THE FINALS』、新シーズン開幕で「Steam同接3万超え」の盛況。...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261021-474722/",
+        "date": "2026-10-21",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料『NTE』、新スキンに“靴下を変更する謎アプデ”が入り脚光浴びる。テカテカソック...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料『NTE』、新スキンに“靴下を変更する謎アプデ”が入り脚光浴びる。テカテカソック...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261021-474702/",
+        "date": "2026-10-21",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料モンスター手懐けARPG『モンギル：STAR DIVE』、最新アプデで新キャラ「...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料モンスター手懐けARPG『モンギル：STAR DIVE』、最新アプデで新キャラ「...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261021-474709/",
+        "date": "2026-10-21",
+        "is_translated": false
+      },
+      {
+        "title": "【ダークファンタジーアクションRPG「Fatekeeper」の早期アクセス版販売が50万本を突破：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【ダークファンタジーアクションRPG「Fatekeeper」の早期アクセス版販売が50万本を突破：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172054.html",
+        "date": "2026-10-21",
+        "is_translated": false
+      },
+      {
+        "title": "【キノコ駆除Co-opシューター「Mycopunk: 俺たちキノコバスターズ」のPC/PS5版が...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【キノコ駆除Co-opシューター「Mycopunk: 俺たちキノコバスターズ」のPC/PS5版が...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172048.html",
+        "date": "2026-10-21",
+        "is_translated": false
+      },
+      {
+        "title": "【MSI Claw 8 EX AI+ review - superlative playing ...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【MSI Claw 8 EX AI+ review - superlative playing ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/msi-claw-8-ex-ai-plus-review",
+        "date": "2026-10-21",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-21T03:21:24.108876"
+  "last_updated": "2026-10-21T14:20:55.002112"
 }
