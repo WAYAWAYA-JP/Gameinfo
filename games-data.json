@@ -520,6 +520,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-10-21"
+      },
+      {
+        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "platform": "Various",
+        "type": "sale",
+        "description": "S.T.A.L.K.E.R. 2: Heart of ChornobylがVariousで-37%セール中です。",
+        "price": "$37.79",
+        "originalPrice": "",
+        "discount": "-37%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
+        "date": "2026-10-21"
       }
     ],
     "review": [
@@ -1120,8 +1132,21 @@
         "url": "https://www.rockpapershotgun.com/msi-claw-8-ex-ai-plus-review",
         "date": "2026-10-21",
         "is_translated": true
+      },
+      {
+        "title": "【日本語PS5版の発売が迫る“デューン/砂の惑星”サバイバルMMO「Dune: Awakenin...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【日本語PS5版の発売が迫る“デューン/砂の惑星”サバイバルMMO「Dune: Awakenin...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172051.html",
+        "date": "2026-10-21",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-21T14:20:55.002112"
+  "last_updated": "2026-10-21T16:58:29.120409"
 }
