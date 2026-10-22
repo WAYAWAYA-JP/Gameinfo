@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Bad Cheese",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Bad Cheese is a psychological horror inspired by the eerie charm of 1920s animation. \nStep into the tiny paws of a mouse spending the weekend at home with a dysfunctional Dad while Mom's away. \nBe on…",
+        "price": "無料",
+        "originalPrice": "¥12",
+        "discount": "100% OFF",
+        "deadline": "2026年10月22日まで",
+        "url": "https://store.epicgames.com/ja/p/ae5d8fc5541f42eea105f64121dba382",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Agent A - 偽装のパズル",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Agent A - 偽装のパズルがEpic Gamesで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "¥19",
+        "discount": "100% OFF",
+        "deadline": "2026年10月22日まで",
+        "url": "https://store.epicgames.com/ja/p/agent-a-a-puzzle-in-disguise",
+        "date": "2026-10-22"
+      }
+    ],
     "bundle": [
       {
         "title": "Trineverse Triple Co-Op Pack",
@@ -423,6 +448,30 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/2050650",
         "date": "2026-10-21"
+      },
+      {
+        "title": "Detroit: Become Human",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Detroit: Become HumanがVariousで-84%セール中です。",
+        "price": "$6.59",
+        "originalPrice": "",
+        "discount": "-84%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "GetHigh.EXE",
+        "platform": "Various",
+        "type": "sale",
+        "description": "GetHigh.EXEがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/gethigh-exe/info/",
+        "date": "2026-10-22"
       }
     ],
     "review": [
@@ -984,8 +1033,47 @@
         "url": "https://automaton-media.com/articles/newsjp/20261022-474882/",
         "date": "2026-10-22",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料着せ替えRPG『シャイニングニキ』が一気に“ホラー化”。足が消えたりもはや怪奇現...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料着せ替えRPG『シャイニングニキ』が一気に“ホラー化”。足が消えたりもはや怪奇現...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20261022-475009/",
+        "date": "2026-10-22",
+        "is_translated": false
+      },
+      {
+        "title": "【『ファイナルファンタジー レゾナンス』レビュー。「昔のファイナルファンタジーという概念」を、令...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ファイナルファンタジー レゾナンス』レビュー。「昔のファイナルファンタジーという概念」を、令...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/impressionjp/final-fantasy-resonance-20261022-474969/",
+        "date": "2026-10-22",
+        "is_translated": false
+      },
+      {
+        "title": "【正式リリースが迫る「Call of Duty: Modern Warfare 4」のマルチプレ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【正式リリースが迫る「Call of Duty: Modern Warfare 4」のマルチプレ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172052.html",
+        "date": "2026-10-22",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-22T03:19:55.449560"
+  "last_updated": "2026-10-22T14:20:45.512809"
 }
