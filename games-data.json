@@ -1,55 +1,6 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Out of Sight",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Out of SightがEpic Gamesで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "¥17",
-        "discount": "100% OFF",
-        "deadline": "2026年10月15日まで",
-        "url": "https://store.epicgames.com/ja/p/f350878fcb5242d6851cfe2fa1316e76",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "TerraScape",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "心地よい中世の街づくりパズルで、建物を戦略的に配置しながら浮遊島に美しい王国を築きましょう。秘密の組み合わせを発見し、ウィークリーチャレンジに挑戦し、さまざまなソロおよびマルチプレイモードで自動生成マップを探索できます。",
-        "price": "無料",
-        "originalPrice": "¥16",
-        "discount": "100% OFF",
-        "deadline": "2026年10月15日まで",
-        "url": "https://store.epicgames.com/ja/p/f229ed53ddba40788e0ab62978e9eaf9",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Bad Cheese",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Bad Cheese is a psychological horror inspired by the eerie charm of 1920s animation. \nStep into the tiny paws of a mouse spending the weekend at home with a dysfunctional Dad while Mom's away. \nBe on…",
-        "price": "無料",
-        "originalPrice": "¥12",
-        "discount": "100% OFF",
-        "deadline": "2026年10月22日まで",
-        "url": "https://store.epicgames.com/ja/p/ae5d8fc5541f42eea105f64121dba382",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Agent A - 偽装のパズル",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Agent A - 偽装のパズルがEpic Gamesで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "¥19",
-        "discount": "100% OFF",
-        "deadline": "2026年10月22日まで",
-        "url": "https://store.epicgames.com/ja/p/agent-a-a-puzzle-in-disguise",
-        "date": "2026-10-15"
-      }
-    ],
+    "free": [],
     "bundle": [
       {
         "title": "Trineverse Triple Co-Op Pack",
@@ -294,90 +245,6 @@
     ],
     "sale": [
       {
-        "title": "Valor Mortis",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Valor MortisがVariousで-15%セール中です。",
-        "price": "$33.95",
-        "originalPrice": "",
-        "discount": "-15%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/valor-mortis/info/",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "ARC Raiders",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ARC RaidersがSteamで50% OFFセール中です。",
-        "price": "¥3,195",
-        "originalPrice": "¥6,390",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1808500",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Sekiro™: Shadows Die Twice - GOTY EditionがSteamで50% OFFセール中です。",
-        "price": "¥4,180",
-        "originalPrice": "¥8,360",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/814380",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "over the hill",
-        "platform": "Various",
-        "type": "sale",
-        "description": "over the hillがVariousで-37%セール中です。",
-        "price": "$15.74",
-        "originalPrice": "",
-        "discount": "-37%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/over-the-hill/info/",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "StrayがVariousで-50%セール中です。",
-        "price": "$14.99",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Monster Hunter Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Monster Hunter WildsがVariousで-33%セール中です。",
-        "price": "$26.95",
-        "originalPrice": "",
-        "discount": "-33%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Disco Elysium - The Final Cut",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Disco Elysium - The Final CutがVariousで-80%セール中です。",
-        "price": "$7.95",
-        "originalPrice": "",
-        "discount": "-80%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
-        "date": "2026-10-15"
-      },
-      {
         "title": "ホグワーツ・レガシー",
         "platform": "Steam",
         "type": "sale",
@@ -559,71 +426,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【最大4人協力・物理演算へっぽこ消防士シム『Flame and Blame』発表。暴れるホースで...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【最大4人協力・物理演算へっぽこ消防士シム『Flame and Blame』発表。暴れるホースで...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261017-474053/",
-        "date": "2026-10-17",
-        "is_translated": false
-      },
-      {
-        "title": "【熱心なSteamユーザーの約40％は「PCだけでゲームを遊ぶ」という調査結果。PC・コンソール...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【熱心なSteamユーザーの約40％は「PCだけでゲームを遊ぶ」という調査結果。PC・コンソール...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261017-474124/",
-        "date": "2026-10-17",
-        "is_translated": false
-      },
-      {
-        "title": "【動物園シム『Planet Zoo』プレイヤーは「リアル動物保護に約2倍寄付する」とのオックスフ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【動物園シム『Planet Zoo』プレイヤーは「リアル動物保護に約2倍寄付する」とのオックスフ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261017-474095/",
-        "date": "2026-10-17",
-        "is_translated": false
-      },
-      {
-        "title": "【As too much of the industry embrace their own d...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【As too much of the industry embrace their own d...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
-        "date": "2026-10-17",
-        "is_translated": true
-      },
-      {
-        "title": "【The Zelda: Ocarina of Time Remake Sounds Meanin...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【The Zelda: Ocarina of Time Remake Sounds Meanin...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/switchboard-zelda-ocarina-of-time-previews/",
-        "date": "2026-10-17",
-        "is_translated": true
-      },
       {
         "title": "【基本プレイ無料『NTE』で最速の移動キャラは誰？車より速い？“小技”もフル活用、新キャラ「クロ...】",
         "platform": "AUTOMATON",
@@ -1169,8 +971,21 @@
         "url": "https://doope.jp/2026/10172051.html",
         "date": "2026-10-21",
         "is_translated": false
+      },
+      {
+        "title": "【リアルサッカー監督シム『Football Manager 27』発売直前に“製品版ほぼそのまま...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【リアルサッカー監督シム『Football Manager 27』発売直前に“製品版ほぼそのまま...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261022-474882/",
+        "date": "2026-10-22",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-21T23:54:59.675126"
+  "last_updated": "2026-10-22T03:19:55.449560"
 }
