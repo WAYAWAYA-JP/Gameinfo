@@ -24,6 +24,30 @@
         "deadline": "2026年10月22日まで",
         "url": "https://store.epicgames.com/ja/p/agent-a-a-puzzle-in-disguise",
         "date": "2026-10-22"
+      },
+      {
+        "title": "Sker Ritual",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "The round-based co-op survival FPS and spin-off to the award-winning British horror, Maid of Sker. Play solo or up to 4 players to survive the supernatural onslaught of the Quiet Ones.",
+        "price": "無料",
+        "originalPrice": "¥24",
+        "discount": "100% OFF",
+        "deadline": "2026年10月29日まで",
+        "url": "https://store.epicgames.com/ja/p/8dbc8d70481d4c0b8412d3aec76a35a1",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Home - A Unique Horror Adventure",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Home is a unique horror adventure set in a beautifully-realized pixel world. It’s a murder mystery with a twist – because you decide what ultimately happens.",
+        "price": "無料",
+        "originalPrice": "¥4",
+        "discount": "100% OFF",
+        "deadline": "2026年10月29日まで",
+        "url": "https://store.epicgames.com/ja/p/ff70f2b02fd842f8961f7729af25cda9",
+        "date": "2026-10-22"
       }
     ],
     "bundle": [
@@ -1072,8 +1096,34 @@
         "url": "https://doope.jp/2026/10172052.html",
         "date": "2026-10-22",
         "is_translated": false
+      },
+      {
+        "title": "【「Subnautica 2」に多数の新コンテンツを導入する“Early Access 2”の開...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Subnautica 2」に多数の新コンテンツを導入する“Early Access 2”の開...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172115.html",
+        "date": "2026-10-22",
+        "is_translated": false
+      },
+      {
+        "title": "【Clive Barker's Hellraiser: Revival review–Rough...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Clive Barker's Hellraiser: Revival review–Rough...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/horror/clive-barkers-hellraiser-revival-review/",
+        "date": "2026-10-22",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-22T14:20:45.512809"
+  "last_updated": "2026-10-22T16:57:37.138795"
 }
