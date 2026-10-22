@@ -496,6 +496,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/gethigh-exe/info/",
         "date": "2026-10-22"
+      },
+      {
+        "title": "Dead Cells",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Dead CellsがVariousで-55%セール中です。",
+        "price": "$11.19",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dead-cells/info/",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "PRAGMATA",
+        "platform": "Various",
+        "type": "sale",
+        "description": "PRAGMATAがVariousで-20%セール中です。",
+        "price": "$47.99",
+        "originalPrice": "",
+        "discount": "-20%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/pragmata/info/",
+        "date": "2026-10-22"
       }
     ],
     "review": [
@@ -1122,8 +1146,21 @@
         "url": "https://www.pcgamer.com/games/horror/clive-barkers-hellraiser-revival-review/",
         "date": "2026-10-22",
         "is_translated": true
+      },
+      {
+        "title": "【My GOTY is $7 and has 253 Steam reviews】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【My GOTY is $7 and has 253 Steam reviews】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
+        "date": "2026-10-22",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-22T16:57:37.138795"
+  "last_updated": "2026-10-22T23:53:41.037620"
 }
