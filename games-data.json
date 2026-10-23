@@ -448,6 +448,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-10-23"
+      },
+      {
+        "title": "Sker Ritual",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Sker RitualがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/sker-ritual/info/",
+        "date": "2026-10-23"
       }
     ],
     "review": [
@@ -1100,8 +1112,73 @@
         "url": "https://doope.jp/2026/10172138.html",
         "date": "2026-10-23",
         "is_translated": false
+      },
+      {
+        "title": "【龍が如く開発元新作『STRANGER THAN HEAVEN』はとにかく治安が悪くてシリアス。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【龍が如く開発元新作『STRANGER THAN HEAVEN』はとにかく治安が悪くてシリアス。...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20261023-475301/",
+        "date": "2026-10-23",
+        "is_translated": false
+      },
+      {
+        "title": "【【動画】Steamで無料“世界で同時に一人しかプレイできない”ゲームが注目集める。順番待ちは仲...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【【動画】Steamで無料“世界で同時に一人しかプレイできない”ゲームが注目集める。順番待ちは仲...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/videos/20261023-475279/",
+        "date": "2026-10-23",
+        "is_translated": false
+      },
+      {
+        "title": "【【動画】25年ぶりの新作『クレイジータクシー：ワールドツアー』先行プレイ映像。蕎麦を運び、力士...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【【動画】25年ぶりの新作『クレイジータクシー：ワールドツアー』先行プレイ映像。蕎麦を運び、力士...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/videos/20261023-475276/",
+        "date": "2026-10-23",
+        "is_translated": false
+      },
+      {
+        "title": "【【動画】『ファイナルファンタジーVII リベレーション』先行プレイ映像。シド＆ヴィンセント参戦...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【【動画】『ファイナルファンタジーVII リベレーション』先行プレイ映像。シド＆ヴィンセント参戦...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/videos/20261023-475274/",
+        "date": "2026-10-23",
+        "is_translated": false
+      },
+      {
+        "title": "【Asus ROG Rapture GT-BN98 router review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Asus ROG Rapture GT-BN98 router review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/networking/asus-rog-rapture-gt-bn98-review/",
+        "date": "2026-10-23",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-23T03:25:11.293414"
+  "last_updated": "2026-10-23T14:03:53.989775"
 }
