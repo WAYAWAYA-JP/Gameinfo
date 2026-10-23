@@ -52,42 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Trineverse Triple Co-Op Pack",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Trineverse Triple Co-Op PackのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/trineversetriplecooppack_bundle",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Dying Light 2: Stay Human Complete DLC Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Dying Light 2: Stay Human Complete DLC BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/dyinglight2stayhumancompletedlcbundle_bundle",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Akupara 10th Anniversary Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Akupara 10th Anniversary BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/akupara10thanniversarybundle_bundle",
-        "date": "2026-10-13"
-      },
-      {
         "title": "Coffee Break Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -294,54 +258,6 @@
     ],
     "sale": [
       {
-        "title": "ホグワーツ・レガシー",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ホグワーツ・レガシーがSteamで90% OFFセール中です。",
-        "price": "¥877",
-        "originalPrice": "¥8,778",
-        "discount": "90% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/990080",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Red Dead Redemption 2がVariousで-75%セール中です。",
-        "price": "$14.99",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Street Fighter 6",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Street Fighter 6がSteamで60% OFFセール中です。",
-        "price": "¥1,996",
-        "originalPrice": "¥4,990",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1364780",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Voidtrain - Tour de Void",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Voidtrain - Tour de VoidがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/voidtrain-tour-de-void/info/",
-        "date": "2026-10-16"
-      },
-      {
         "title": "Squad Weapon Skins - Recon Team Pack",
         "platform": "Various",
         "type": "sale",
@@ -520,61 +436,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/pragmata/info/",
         "date": "2026-10-22"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "No Man's SkyがVariousで-69%セール中です。",
+        "price": "$18.49",
+        "originalPrice": "",
+        "discount": "-69%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-10-23"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料『NTE』で最速の移動キャラは誰？車より速い？“小技”もフル活用、新キャラ「クロ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料『NTE』で最速の移動キャラは誰？車より速い？“小技”もフル活用、新キャラ「クロ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261017-474098/",
-        "date": "2026-10-18",
-        "is_translated": false
-      },
-      {
-        "title": "【「自分がゲーム内の存在と認識する少女」とプレイヤーは友人になれるのか？フィクションキャラと“友...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【「自分がゲーム内の存在と認識する少女」とプレイヤーは友人になれるのか？フィクションキャラと“友...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/ghost-20261018-474150/",
-        "date": "2026-10-18",
-        "is_translated": false
-      },
-      {
-        "title": "【“プレイヤーは呪いを跳ね返すことができる”ー「HUNTER×HUNTER」G.I.編のアイテム...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【“プレイヤーは呪いを跳ね返すことができる”ー「HUNTER×HUNTER」G.I.編のアイテム...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/10/18/189439.html",
-        "date": "2026-10-18",
-        "is_translated": false
-      },
-      {
-        "title": "【『ARC Raiders』PvEモードはいざ遊んでみると緊張感に欠ける。『クワイエット急行90...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ARC Raiders』PvEモードはいざ遊んでみると緊張感に欠ける。『クワイエット急行90...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20261018-474178/",
-        "date": "2026-10-18",
-        "is_translated": false
-      },
       {
         "title": "【人類史4xストラテジー続編「HUMANKIND 2」初のゲームプレイ映像がお披露目、発売は2027年】",
         "platform": "doope!",
@@ -586,19 +462,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/10171889.html",
         "date": "2026-10-19",
-        "is_translated": false
-      },
-      {
-        "title": "【ローマの街並みを導入する「Mini Motorways」の次期アップデート“Rome Map”...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【ローマの街並みを導入する「Mini Motorways」の次期アップデート“Rome Map”...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171944.html",
-        "date": "2026-10-18",
         "is_translated": false
       },
       {
@@ -1159,8 +1022,86 @@
         "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
         "date": "2026-10-22",
         "is_translated": true
+      },
+      {
+        "title": "【新たな基本プレイ無料TPS『B.L.U.E. NOVA』先行試遊感想。「とりあえず一緒に戦おう...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【新たな基本プレイ無料TPS『B.L.U.E. NOVA』先行試遊感想。「とりあえず一緒に戦おう...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/bluenova-20261023-475080/",
+        "date": "2026-10-23",
+        "is_translated": false
+      },
+      {
+        "title": "【Steamで無料“世界で同時に一人しかプレイできない”ゲームが注目集める。順番待ちは仲良く雑談...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【Steamで無料“世界で同時に一人しかプレイできない”ゲームが注目集める。順番待ちは仲良く雑談...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261023-475097/",
+        "date": "2026-10-23",
+        "is_translated": false
+      },
+      {
+        "title": "【『エースコンバット・ゼロ』Steam版、ついに単独起動可能に。“140GBエスコンZERO”か...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『エースコンバット・ゼロ』Steam版、ついに単独起動可能に。“140GBエスコンZERO”か...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261023-475064/",
+        "date": "2026-10-23",
+        "is_translated": false
+      },
+      {
+        "title": "【シリーズ最新作「Call of Duty: Modern Warfare 4」が遂に正式リリース：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【シリーズ最新作「Call of Duty: Modern Warfare 4」が遂に正式リリース：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172113.html",
+        "date": "2026-10-23",
+        "is_translated": false
+      },
+      {
+        "title": "【500万プレイヤー突破や新モード、コンサートを含む「Dispatch」の1周年記念情報が解禁】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【500万プレイヤー突破や新モード、コンサートを含む「Dispatch」の1周年記念情報が解禁】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172112.html",
+        "date": "2026-10-23",
+        "is_translated": false
+      },
+      {
+        "title": "【「Fallout 76」の累計プレイヤー数が2,500万人のマイルストーンを突破、“World...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Fallout 76」の累計プレイヤー数が2,500万人のマイルストーンを突破、“World...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172138.html",
+        "date": "2026-10-23",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-22T23:53:41.037620"
+  "last_updated": "2026-10-23T03:25:11.293414"
 }
