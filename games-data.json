@@ -254,6 +254,30 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/15thanniversaryscifiexposure_bundle",
         "date": "2026-10-21"
+      },
+      {
+        "title": "Phunkier Physics",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Phunkier PhysicsのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/phunkierphysics_bundle",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Puzzlers to Puzzle You",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Puzzlers to Puzzle YouのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/puzzlerstopuzzleyou_bundle",
+        "date": "2026-10-23"
       }
     ],
     "sale": [
@@ -459,6 +483,18 @@
         "discount": "-100%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/sker-ritual/info/",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "StrayがVariousで-61%セール中です。",
+        "price": "$11.75",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-10-23"
       }
     ],
@@ -1190,8 +1226,21 @@
         "url": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-evo-52g930b-review/",
         "date": "2026-10-23",
         "is_translated": true
+      },
+      {
+        "title": "【Factorio's final major update has rolled off th...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Factorio's final major update has rolled off th...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for",
+        "date": "2026-10-23",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-23T16:49:52.036768"
+  "last_updated": "2026-10-23T23:45:30.084862"
 }
