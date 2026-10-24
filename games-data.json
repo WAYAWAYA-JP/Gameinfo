@@ -472,6 +472,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-10-23"
+      },
+      {
+        "title": "Home - A Unique Horror Adventure",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Home - A Unique Horror AdventureがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/home-a-unique-horror-adventure/info/",
+        "date": "2026-10-24"
       }
     ],
     "review": [
@@ -1111,8 +1123,34 @@
         "url": "https://doope.jp/2026/10172109.html",
         "date": "2026-10-24",
         "is_translated": false
+      },
+      {
+        "title": "【『エルデンリング』、“プレイ時間100時間超え”ユーザーが世界に「約980万人」いるとの推計。...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『エルデンリング』、“プレイ時間100時間超え”ユーザーが世界に「約980万人」いるとの推計。...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261024-475404/",
+        "date": "2026-10-24",
+        "is_translated": false
+      },
+      {
+        "title": "【乙女ゲームキャラとプレイヤーの「心の距離」がどう縮まるのかを解き明かす研究。距離が縮まるのは「...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【乙女ゲームキャラとプレイヤーの「心の距離」がどう縮まるのかを解き明かす研究。距離が縮まるのは「...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261024-475391/",
+        "date": "2026-10-24",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-24T03:19:32.018525"
+  "last_updated": "2026-10-24T13:06:29.429461"
 }
