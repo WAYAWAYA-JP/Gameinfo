@@ -484,6 +484,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/home-a-unique-horror-adventure/info/",
         "date": "2026-10-24"
+      },
+      {
+        "title": "Outer Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Outer WildsがVariousで-61%セール中です。",
+        "price": "$9.76",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
+        "date": "2026-10-24"
       }
     ],
     "review": [
@@ -1149,8 +1161,21 @@
         "url": "https://automaton-media.com/articles/newsjp/20261024-475391/",
         "date": "2026-10-24",
         "is_translated": false
+      },
+      {
+        "title": "【Penguin Colony review: A daringly weird horror ...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Penguin Colony review: A daringly weird horror ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/horror/penguin-colony-review/",
+        "date": "2026-10-24",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-24T15:42:30.365225"
+  "last_updated": "2026-10-24T22:55:00.403393"
 }
