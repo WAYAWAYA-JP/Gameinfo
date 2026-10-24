@@ -52,18 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Coffee Break Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Coffee Break BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/coffee-break-bundle",
-        "date": "2026-10-14"
-      },
-      {
         "title": "Capcom Classics Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -282,18 +270,6 @@
     ],
     "sale": [
       {
-        "title": "Squad Weapon Skins - Recon Team Pack",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Squad Weapon Skins - Recon Team PackがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/squad-weapon-skins-recon-team-pack/info/",
-        "date": "2026-10-17"
-      },
-      {
         "title": "STAR WARS: Galactic Racer™",
         "platform": "Various",
         "type": "sale",
@@ -499,136 +475,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【人類史4xストラテジー続編「HUMANKIND 2」初のゲームプレイ映像がお披露目、発売は2027年】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【人類史4xストラテジー続編「HUMANKIND 2」初のゲームプレイ映像がお披露目、発売は2027年】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171889.html",
-        "date": "2026-10-19",
-        "is_translated": false
-      },
-      {
-        "title": "【スイッチ2版『ディアブロ IV』を遊んでいたら、チルすぎて寝落ちしかけた！ ごろ寝で楽しむハク...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【スイッチ2版『ディアブロ IV』を遊んでいたら、チルすぎて寝落ちしかけた！ ごろ寝で楽しむハク...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/10/19/189474.html",
-        "date": "2026-10-19",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam Week in Review: Steam Next Fest has over ...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Steam Week in Review: Steam Next Fest has over ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/",
-        "date": "2026-10-19",
-        "is_translated": true
-      },
-      {
-        "title": "【「クソUI選手権」的ゲーム『Volume.art』無料公開。23人のゲーム開発者がなぜか本気で...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【「クソUI選手権」的ゲーム『Volume.art』無料公開。23人のゲーム開発者がなぜか本気で...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261019-474291/",
-        "date": "2026-10-19",
-        "is_translated": false
-      },
-      {
-        "title": "【「Saros」にボスラッシュや新チャレンジを導入する無料アップデート“Zenith”が配信、ロ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Saros」にボスラッシュや新チャレンジを導入する無料アップデート“Zenith”が配信、ロ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171965.html",
-        "date": "2026-10-19",
-        "is_translated": false
-      },
-      {
-        "title": "【「サイバーパンク: エッジランナーズ2」の地域別解禁時刻がアナウンス、配信開始は明日午後4時：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「サイバーパンク: エッジランナーズ2」の地域別解禁時刻がアナウンス、配信開始は明日午後4時：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171960.html",
-        "date": "2026-10-19",
-        "is_translated": false
-      },
-      {
-        "title": "【「サイバーパンク: エッジランナーズ2」全話レビュー、TRIGGERとCD PROJEKT R...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「サイバーパンク: エッジランナーズ2」全話レビュー、TRIGGERとCD PROJEKT R...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171959.html",
-        "date": "2026-10-19",
-        "is_translated": false
-      },
-      {
-        "title": "【GameSir Nova Lite 2 review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【GameSir Nova Lite 2 review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-2-review/",
-        "date": "2026-10-19",
-        "is_translated": true
-      },
-      {
-        "title": "【水没世界波乗りハクスラアクション『Surfpunk』体験版が大幅進化。最大4人プレイ対応、陽気...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【水没世界波乗りハクスラアクション『Surfpunk』体験版が大幅進化。最大4人プレイ対応、陽気...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261020-474368/",
-        "date": "2026-10-19",
-        "is_translated": false
-      },
-      {
-        "title": "【発表から15年が経過した美しい星座パズルゲーム「FARAWAY」の発売日が2026年11月5日...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【発表から15年が経過した美しい星座パズルゲーム「FARAWAY」の発売日が2026年11月5日...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171981.html",
-        "date": "2026-10-19",
-        "is_translated": false
-      },
       {
         "title": "【無料デモ一斉配信イベント「Steam Nextフェス」開幕で、空島スローライフや“協力おならボ...：レビュー】",
         "platform": "AUTOMATON",
@@ -1239,8 +1085,34 @@
         "url": "https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for",
         "date": "2026-10-23",
         "is_translated": true
+      },
+      {
+        "title": "【Creative Assemblyが「トータルウォー：ショーグン２ コンプリートエディション」...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Creative Assemblyが「トータルウォー：ショーグン２ コンプリートエディション」...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172111.html",
+        "date": "2026-10-24",
+        "is_translated": false
+      },
+      {
+        "title": "【高評価が並ぶ「Call of Duty: Modern Warfare 4」のレビューが解禁、...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【高評価が並ぶ「Call of Duty: Modern Warfare 4」のレビューが解禁、...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172109.html",
+        "date": "2026-10-24",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-23T23:45:30.084862"
+  "last_updated": "2026-10-24T03:19:32.018525"
 }
