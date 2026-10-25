@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/puzzlerstopuzzleyou_bundle",
         "date": "2026-10-23"
+      },
+      {
+        "title": "Capcom Classics Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Capcom Classics BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/capcomclassicsbundle_bundle",
+        "date": "2026-10-25"
       }
     ],
     "sale": [
@@ -471,6 +483,42 @@
         "discount": "-100%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/squad-weapon-skins-recon-team-pack/info/",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "デッドバイデイライト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "デッドバイデイライトがSteamで60% OFFセール中です。",
+        "price": "¥999",
+        "originalPrice": "¥2,499",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/381210",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Popcorn & Premieren - Ausgehviertel",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Popcorn & Premieren - AusgehviertelがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/popcorn-and-premieren-ausgehviertel/info/",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "MAFIA HOTEL",
+        "platform": "Various",
+        "type": "sale",
+        "description": "MAFIA HOTELがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/mafia-hotel/info/",
         "date": "2026-10-25"
       }
     ],
@@ -1007,8 +1055,34 @@
         "url": "https://automaton-media.com/articles/special-column/20261024-475341/",
         "date": "2026-10-25",
         "is_translated": false
+      },
+      {
+        "title": "【『ファイアーエムブレム 万紫千紅』は面白めんどくさい。『ファイナルファンタジー レゾナンス』は...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ファイアーエムブレム 万紫千紅』は面白めんどくさい。『ファイナルファンタジー レゾナンス』は...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20261025-475471/",
+        "date": "2026-10-25",
+        "is_translated": false
+      },
+      {
+        "title": "【『ウマ娘』新育成シナリオ「朋、史解き　―午式駿大祭―」先行プレイ感想。新シナリオは”迷わなくて...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ウマ娘』新育成シナリオ「朋、史解き　―午式駿大祭―」先行プレイ感想。新シナリオは”迷わなくて...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/uma-20261025-475427/",
+        "date": "2026-10-25",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-25T03:14:36.240876"
+  "last_updated": "2026-10-25T13:33:53.187331"
 }
