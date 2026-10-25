@@ -52,30 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "Capcom Classics Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Capcom Classics BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/capcomclassicsbundle_bundle",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Gear & Glory Action RPGs",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Gear & Glory Action RPGsのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/geargloryactionrpgs_bundle",
-        "date": "2026-10-15"
-      },
-      {
         "title": "Humble Indie Fighters Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -269,18 +245,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "STAR WARS: Galactic Racer™",
-        "platform": "Various",
-        "type": "sale",
-        "description": "STAR WARS: Galactic Racer™がVariousで-20%セール中です。",
-        "price": "$47.95",
-        "originalPrice": "",
-        "discount": "-20%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/star-wars-galactic-racer/info/",
-        "date": "2026-10-18"
-      },
       {
         "title": "グランド・セフト・オートV エンハンスト",
         "platform": "Steam",
@@ -496,165 +460,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/outer-wilds/info/",
         "date": "2026-10-24"
+      },
+      {
+        "title": "Squad Weapon Skins - Recon Team Pack",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Squad Weapon Skins - Recon Team PackがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/squad-weapon-skins-recon-team-pack/info/",
+        "date": "2026-10-25"
       }
     ],
     "review": [
-      {
-        "title": "【無料デモ一斉配信イベント「Steam Nextフェス」開幕で、空島スローライフや“協力おならボ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【無料デモ一斉配信イベント「Steam Nextフェス」開幕で、空島スローライフや“協力おならボ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261020-474385/",
-        "date": "2026-10-20",
-        "is_translated": false
-      },
-      {
-        "title": "【『Moonlighter』開発元による新作『ReVamp』、公開プレイテストが急遽“Disco...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『Moonlighter』開発元による新作『ReVamp』、公開プレイテストが急遽“Disco...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261020-474377/",
-        "date": "2026-10-20",
-        "is_translated": false
-      },
-      {
-        "title": "【人気コズミックホラー「恐怖の世界」に多数の新コンテンツを導入する1.2アップデートの配信時期が...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【人気コズミックホラー「恐怖の世界」に多数の新コンテンツを導入する1.2アップデートの配信時期が...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171976.html",
-        "date": "2026-10-20",
-        "is_translated": false
-      },
-      {
-        "title": "【ORIGAME DIGITALが最新作「ペンギン・コロニー」のイスラエル向け販売を停止、開発者...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【ORIGAME DIGITALが最新作「ペンギン・コロニー」のイスラエル向け販売を停止、開発者...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171979.html",
-        "date": "2026-10-20",
-        "is_translated": false
-      },
-      {
-        "title": "【大冒険のラスト1時間だけプレイするRPG「The Last Hour of an Epic T...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【大冒険のラスト1時間だけプレイするRPG「The Last Hour of an Epic T...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171977.html",
-        "date": "2026-10-20",
-        "is_translated": false
-      },
-      {
-        "title": "【キャラガチャなし基本プレイ無料『デュエットナイトアビス』大型アプデで、新キャラ“私服のリズム”...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【キャラガチャなし基本プレイ無料『デュエットナイトアビス』大型アプデで、新キャラ“私服のリズム”...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261020-474483/",
-        "date": "2026-10-20",
-        "is_translated": false
-      },
-      {
-        "title": "【「サイバーパンク: エッジランナーズ2」の配信が遂にスタート、お披露目第1話のTwitchリア...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「サイバーパンク: エッジランナーズ2」の配信が遂にスタート、お披露目第1話のTwitchリア...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171978.html",
-        "date": "2026-10-20",
-        "is_translated": false
-      },
-      {
-        "title": "【「Battlefield 6」の「Dead Space」期間限定イベントがスタート、トレーラー...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Battlefield 6」の「Dead Space」期間限定イベントがスタート、トレーラー...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10171988.html",
-        "date": "2026-10-20",
-        "is_translated": false
-      },
-      {
-        "title": "【Asus ProArt P16 (H7607) RTX Spark laptop review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Asus ProArt P16 (H7607) RTX Spark laptop review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-proart-p16-rtx-spark-review/",
-        "date": "2026-10-20",
-        "is_translated": true
-      },
-      {
-        "title": "【\"It doesn’t have to always be triple-A\": Galact...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【\"It doesn’t have to always be triple-A\": Galact...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/it-doesnt-have-to-always-be-triple-a-galactic-racer-and-zero-companys-success-has-lucasfilms-wanting-more-smaller-scale-star-wars-games",
-        "date": "2026-10-20",
-        "is_translated": true
-      },
-      {
-        "title": "【「Marvel Rivals」の大規模PvEモード“Path to Doomsday – Av...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Marvel Rivals」の大規模PvEモード“Path to Doomsday – Av...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172029.html",
-        "date": "2026-10-20",
-        "is_translated": false
-      },
-      {
-        "title": "【Helldivers 2 studio warns mods may break as it ...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Helldivers 2 studio warns mods may break as it ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/helldivers-2-studio-warns-mods-may-break-as-it-switches-to-new-anti-cheat-and-the-negative-reviews-are-dropping-on-steam-like-hellbombs/",
-        "date": "2026-10-20",
-        "is_translated": true
-      },
       {
         "title": "【基本プレイ無料『NTE』新キャラ「明音凛（CV長谷川育美さん）」はギターを弾くしギターで殴る荒...】",
         "platform": "AUTOMATON",
@@ -1174,8 +994,21 @@
         "url": "https://www.pcgamer.com/games/horror/penguin-colony-review/",
         "date": "2026-10-24",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料『NTE』の新ホラー要素は「怖さの加減」がおかしい。しれっと混ざる別ゲー級ホラー...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料『NTE』の新ホラー要素は「怖さの加減」がおかしい。しれっと混ざる別ゲー級ホラー...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20261024-475341/",
+        "date": "2026-10-25",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-24T22:55:00.403393"
+  "last_updated": "2026-10-25T03:14:36.240876"
 }
