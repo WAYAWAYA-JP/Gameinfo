@@ -194,6 +194,42 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/capcomclassicsbundle_bundle",
         "date": "2026-10-25"
+      },
+      {
+        "title": "Hamble's Fright or Fight Halloween Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Hamble's Fright or Fight Halloween BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/hamblesfrightorfighthalloweenbundle_bundle",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Serenity Forge Emotional Impact Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Serenity Forge Emotional Impact BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/serenityforgeemotionalimpactbundle_bundle",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Power Halt Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Power Halt BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/power-halt-bundle",
+        "date": "2026-10-26"
       }
     ],
     "sale": [
@@ -929,8 +965,60 @@
         "url": "https://www.polygon.com/phantom-blade-zero-review-roundup-score/",
         "date": "2026-10-26",
         "is_translated": true
+      },
+      {
+        "title": "【ゲームのメタスコア、「100点制」メディアと「星5制」メディアで評価一致しない問題が指摘される...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【ゲームのメタスコア、「100点制」メディアと「星5制」メディアで評価一致しない問題が指摘される...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261026-475681/",
+        "date": "2026-10-26",
+        "is_translated": false
+      },
+      {
+        "title": "【PC Steam版「サイバーパンク2077」の同接ピークが18万7,000人を突破、プレイヤー...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【PC Steam版「サイバーパンク2077」の同接ピークが18万7,000人を突破、プレイヤー...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172193.html",
+        "date": "2026-10-26",
+        "is_translated": false
+      },
+      {
+        "title": "【中世都市建設RTS/恐竜アクションRPGハイブリッド「Dinolords」のマルチプレイヤー対...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【中世都市建設RTS/恐竜アクションRPGハイブリッド「Dinolords」のマルチプレイヤー対...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172192.html",
+        "date": "2026-10-26",
+        "is_translated": false
+      },
+      {
+        "title": "【ローグライクFPS「サルファー」のPC製品版1.0とコンソール版が10月28日リリース、早期ア...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【ローグライクFPS「サルファー」のPC製品版1.0とコンソール版が10月28日リリース、早期ア...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172191.html",
+        "date": "2026-10-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-26T03:15:32.778744"
+  "last_updated": "2026-10-26T15:51:06.617488"
 }
