@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/power-halt-bundle",
         "date": "2026-10-26"
+      },
+      {
+        "title": "Marmalade Games: Ultimate Digital Game Night",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Marmalade Games: Ultimate Digital Game NightのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/marmaladegamesultimatedigitalgamenight_bundle",
+        "date": "2026-10-26"
       }
     ],
     "sale": [
@@ -1020,5 +1032,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-26T15:51:06.617488"
+  "last_updated": "2026-10-26T18:33:24.911652"
 }
