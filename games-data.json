@@ -508,6 +508,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/3240220",
         "date": "2026-10-27"
+      },
+      {
+        "title": "Lobotomy Corporation | Monster Management Simulation",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Lobotomy Corporation | Monster Management SimulationがSteamで66% OFFセール中です。",
+        "price": "¥873",
+        "originalPrice": "¥2,570",
+        "discount": "66% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/568220",
+        "date": "2026-10-27"
       }
     ],
     "review": [
@@ -952,8 +964,73 @@
         "url": "https://doope.jp/2026/10172241.html",
         "date": "2026-10-27",
         "is_translated": false
+      },
+      {
+        "title": "【「iPhone Duoの画面をパカパカするだけ」耐久ライブ配信が謎の流行。全自動開閉マシンまで...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【「iPhone Duoの画面をパカパカするだけ」耐久ライブ配信が謎の流行。全自動開閉マシンまで...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261027-475944/",
+        "date": "2026-10-27",
+        "is_translated": false
+      },
+      {
+        "title": "【高評価「二重営業」こすい宿屋ゲーム『ダンジョン・イン』正式リリース。お客は敵同士、両方カモにす...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【高評価「二重営業」こすい宿屋ゲーム『ダンジョン・イン』正式リリース。お客は敵同士、両方カモにす...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261027-475862/",
+        "date": "2026-10-27",
+        "is_translated": false
+      },
+      {
+        "title": "【「The Division」フランチャイズのプレイヤー数が累計5,000万人を突破】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「The Division」フランチャイズのプレイヤー数が累計5,000万人を突破】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172260.html",
+        "date": "2026-10-27",
+        "is_translated": false
+      },
+      {
+        "title": "【リアルタイム株取引MMOシム「Screen Stocks スクリーンストック」が本日リリース、...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【リアルタイム株取引MMOシム「Screen Stocks スクリーンストック」が本日リリース、...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172257.html",
+        "date": "2026-10-27",
+        "is_translated": false
+      },
+      {
+        "title": "【新規プレイヤープロジェクトを導入する「ARC Raiders」のアップデート2.3.0が配信】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【新規プレイヤープロジェクトを導入する「ARC Raiders」のアップデート2.3.0が配信】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172198.html",
+        "date": "2026-10-27",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-27T03:44:54.242372"
+  "last_updated": "2026-10-27T15:07:43.189425"
 }
