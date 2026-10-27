@@ -246,42 +246,6 @@
     ],
     "sale": [
       {
-        "title": "グランド・セフト・オートV エンハンスト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "グランド・セフト・オートV エンハンストがSteamで56% OFFセール中です。",
-        "price": "¥2,851",
-        "originalPrice": "¥6,480",
-        "discount": "56% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3240220",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Cyberpunk 2077がVariousで-70%セール中です。",
-        "price": "$17.99",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Resident Evil Requiem",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Resident Evil RequiemがVariousで-30%セール中です。",
-        "price": "$48.99",
-        "originalPrice": "",
-        "discount": "-30%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-requiem/info/",
-        "date": "2026-10-20"
-      },
-      {
         "title": "Mycopunk: 俺たちキノコバスターズ",
         "platform": "Steam",
         "type": "sale",
@@ -523,97 +487,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【リアルサッカー監督シム『Football Manager 27』発売直前に“製品版ほぼそのまま...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【リアルサッカー監督シム『Football Manager 27』発売直前に“製品版ほぼそのまま...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261022-474882/",
-        "date": "2026-10-22",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料着せ替えRPG『シャイニングニキ』が一気に“ホラー化”。足が消えたりもはや怪奇現...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料着せ替えRPG『シャイニングニキ』が一気に“ホラー化”。足が消えたりもはや怪奇現...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20261022-475009/",
-        "date": "2026-10-22",
-        "is_translated": false
-      },
-      {
-        "title": "【『ファイナルファンタジー レゾナンス』レビュー。「昔のファイナルファンタジーという概念」を、令...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ファイナルファンタジー レゾナンス』レビュー。「昔のファイナルファンタジーという概念」を、令...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/impressionjp/final-fantasy-resonance-20261022-474969/",
-        "date": "2026-10-22",
-        "is_translated": false
-      },
-      {
-        "title": "【正式リリースが迫る「Call of Duty: Modern Warfare 4」のマルチプレ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【正式リリースが迫る「Call of Duty: Modern Warfare 4」のマルチプレ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172052.html",
-        "date": "2026-10-22",
-        "is_translated": false
-      },
-      {
-        "title": "【「Subnautica 2」に多数の新コンテンツを導入する“Early Access 2”の開...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Subnautica 2」に多数の新コンテンツを導入する“Early Access 2”の開...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172115.html",
-        "date": "2026-10-22",
-        "is_translated": false
-      },
-      {
-        "title": "【Clive Barker's Hellraiser: Revival review–Rough...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Clive Barker's Hellraiser: Revival review–Rough...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/horror/clive-barkers-hellraiser-revival-review/",
-        "date": "2026-10-22",
-        "is_translated": true
-      },
-      {
-        "title": "【My GOTY is $7 and has 253 Steam reviews】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【My GOTY is $7 and has 253 Steam reviews】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
-        "date": "2026-10-22",
-        "is_translated": true
-      },
       {
         "title": "【新たな基本プレイ無料TPS『B.L.U.E. NOVA』先行試遊感想。「とりあえず一緒に戦おう...】",
         "platform": "AUTOMATON",
@@ -1032,5 +905,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-26T18:33:24.911652"
+  "last_updated": "2026-10-27T00:14:52.840081"
 }
