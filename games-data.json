@@ -484,6 +484,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
         "date": "2026-10-26"
+      },
+      {
+        "title": "ミメシス",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ミメシスがSteamで60% OFFセール中です。",
+        "price": "¥480",
+        "originalPrice": "¥1,200",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2827200",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストがSteamで50% OFFセール中です。",
+        "price": "¥2,190",
+        "originalPrice": "¥4,380",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-10-27"
       }
     ],
     "review": [
@@ -902,8 +926,34 @@
         "url": "https://doope.jp/2026/10172191.html",
         "date": "2026-10-26",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料『サカつく2026』Ver2.4アプデ10月28日配信へ、「育てた選手をもっと活...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料『サカつく2026』Ver2.4アプデ10月28日配信へ、「育てた選手をもっと活...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261027-475745/",
+        "date": "2026-10-27",
+        "is_translated": false
+      },
+      {
+        "title": "【「Call of Duty」シリーズの累計収益が400億ドルを突破、XBOXのCEO Asha...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Call of Duty」シリーズの累計収益が400億ドルを突破、XBOXのCEO Asha...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172241.html",
+        "date": "2026-10-27",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-27T00:14:52.840081"
+  "last_updated": "2026-10-27T03:44:54.242372"
 }
