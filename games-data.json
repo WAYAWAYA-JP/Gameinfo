@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/beyondrealityscifisurvivalvrcollection_bundle",
         "date": "2026-10-28"
+      },
+      {
+        "title": "Witches & Candy Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Witches & Candy BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/witches-and-candy-bundle",
+        "date": "2026-10-28"
       }
     ],
     "sale": [
@@ -471,6 +483,18 @@
         "discount": "",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/terraspace/info/",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "REPLACED",
+        "platform": "Various",
+        "type": "sale",
+        "description": "REPLACEDがVariousで-35%セール中です。",
+        "price": "$12.99",
+        "originalPrice": "",
+        "discount": "-35%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/replaced/info/",
         "date": "2026-10-28"
       }
     ],
@@ -929,8 +953,60 @@
         "url": "https://www.inside-games.jp/article/2026/10/28/189957.html",
         "date": "2026-10-28",
         "is_translated": false
+      },
+      {
+        "title": "【『NTE』大型アプデVer.1.5では“戦車バトル”開幕へ。おっとり電脳お姉さん「イェルム」に...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『NTE』大型アプデVer.1.5では“戦車バトル”開幕へ。おっとり電脳お姉さん「イェルム」に...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261029-476236/",
+        "date": "2026-10-28",
+        "is_translated": false
+      },
+      {
+        "title": "【打順の概念がない同時進行型バトル“ゴルフ”ゲーム「Super Battle Golf」のコンソ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【打順の概念がない同時進行型バトル“ゴルフ”ゲーム「Super Battle Golf」のコンソ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172317.html",
+        "date": "2026-10-28",
+        "is_translated": false
+      },
+      {
+        "title": "【Dead CellsやNuclear Blazeを生んだSébastien Benard氏の新...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Dead CellsやNuclear Blazeを生んだSébastien Benard氏の新...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172292.html",
+        "date": "2026-10-28",
+        "is_translated": false
+      },
+      {
+        "title": "【ローグライトRPGオートバトラー「He Is Coming」のモバイル対応がアナウンス、発売は...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【ローグライトRPGオートバトラー「He Is Coming」のモバイル対応がアナウンス、発売は...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172306.html",
+        "date": "2026-10-28",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-28T04:01:16.137791"
+  "last_updated": "2026-10-28T15:44:18.740428"
 }
