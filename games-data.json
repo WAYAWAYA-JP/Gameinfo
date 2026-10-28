@@ -52,42 +52,6 @@
     ],
     "bundle": [
       {
-        "title": "The Triple-i Initiative Showcase Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "The Triple-i Initiative Showcase BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/tripleiinitiativeshowcasebundle_bundle",
-        "date": "2026-10-18"
-      },
-      {
-        "title": "Programming Puzzles Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Programming Puzzles BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/programingpuzzlesbundle_bundle",
-        "date": "2026-10-18"
-      },
-      {
-        "title": "Beyond Reality: Sci-Fi & Survival VR Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Beyond Reality: Sci-Fi & Survival VR CollectionのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/beyondrealityscifisurvivalvrcollection_bundle",
-        "date": "2026-10-18"
-      },
-      {
         "title": "Twisted Trilogies and Terrors: Dark Visual Novels",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,78 +209,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Mycopunk: 俺たちキノコバスターズ",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Mycopunk: 俺たちキノコバスターズがSteamで50% OFFセール中です。",
-        "price": "¥850",
-        "originalPrice": "¥1,700",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3247750",
-        "date": "2026-10-21"
-      },
-      {
-        "title": "Gear.Club Unlimited 3 - Gear.Club Signature Pack",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Gear.Club Unlimited 3 - Gear.Club Signature PackがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/gear-club-unlimited-3-gear-club-signature-pack/info/",
-        "date": "2026-10-21"
-      },
-      {
-        "title": "サイバーパンク2077",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "サイバーパンク2077がSteamで70% OFFセール中です。",
-        "price": "¥2,633",
-        "originalPrice": "¥8,778",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1091500",
-        "date": "2026-10-21"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33がVariousで-25%セール中です。",
-        "price": "$37.49",
-        "originalPrice": "",
-        "discount": "-25%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-10-21"
-      },
-      {
-        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-        "platform": "Various",
-        "type": "sale",
-        "description": "S.T.A.L.K.E.R. 2: Heart of ChornobylがVariousで-37%セール中です。",
-        "price": "$37.79",
-        "originalPrice": "",
-        "discount": "-37%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
-        "date": "2026-10-21"
-      },
-      {
-        "title": "BIOHAZARD RE:4",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "BIOHAZARD RE:4がSteamで75% OFFセール中です。",
-        "price": "¥997",
-        "originalPrice": "¥3,990",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2050650",
-        "date": "2026-10-21"
-      },
       {
         "title": "Detroit: Become Human",
         "platform": "Various",
@@ -535,175 +427,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【新たな基本プレイ無料TPS『B.L.U.E. NOVA』先行試遊感想。「とりあえず一緒に戦おう...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【新たな基本プレイ無料TPS『B.L.U.E. NOVA』先行試遊感想。「とりあえず一緒に戦おう...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/bluenova-20261023-475080/",
-        "date": "2026-10-23",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamで無料“世界で同時に一人しかプレイできない”ゲームが注目集める。順番待ちは仲良く雑談...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【Steamで無料“世界で同時に一人しかプレイできない”ゲームが注目集める。順番待ちは仲良く雑談...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261023-475097/",
-        "date": "2026-10-23",
-        "is_translated": false
-      },
-      {
-        "title": "【『エースコンバット・ゼロ』Steam版、ついに単独起動可能に。“140GBエスコンZERO”か...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『エースコンバット・ゼロ』Steam版、ついに単独起動可能に。“140GBエスコンZERO”か...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261023-475064/",
-        "date": "2026-10-23",
-        "is_translated": false
-      },
-      {
-        "title": "【シリーズ最新作「Call of Duty: Modern Warfare 4」が遂に正式リリース：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【シリーズ最新作「Call of Duty: Modern Warfare 4」が遂に正式リリース：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172113.html",
-        "date": "2026-10-23",
-        "is_translated": false
-      },
-      {
-        "title": "【500万プレイヤー突破や新モード、コンサートを含む「Dispatch」の1周年記念情報が解禁】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【500万プレイヤー突破や新モード、コンサートを含む「Dispatch」の1周年記念情報が解禁】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172112.html",
-        "date": "2026-10-23",
-        "is_translated": false
-      },
-      {
-        "title": "【「Fallout 76」の累計プレイヤー数が2,500万人のマイルストーンを突破、“World...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Fallout 76」の累計プレイヤー数が2,500万人のマイルストーンを突破、“World...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172138.html",
-        "date": "2026-10-23",
-        "is_translated": false
-      },
-      {
-        "title": "【龍が如く開発元新作『STRANGER THAN HEAVEN』はとにかく治安が悪くてシリアス。...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【龍が如く開発元新作『STRANGER THAN HEAVEN』はとにかく治安が悪くてシリアス。...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20261023-475301/",
-        "date": "2026-10-23",
-        "is_translated": false
-      },
-      {
-        "title": "【【動画】Steamで無料“世界で同時に一人しかプレイできない”ゲームが注目集める。順番待ちは仲...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【【動画】Steamで無料“世界で同時に一人しかプレイできない”ゲームが注目集める。順番待ちは仲...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/videos/20261023-475279/",
-        "date": "2026-10-23",
-        "is_translated": false
-      },
-      {
-        "title": "【【動画】25年ぶりの新作『クレイジータクシー：ワールドツアー』先行プレイ映像。蕎麦を運び、力士...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【【動画】25年ぶりの新作『クレイジータクシー：ワールドツアー』先行プレイ映像。蕎麦を運び、力士...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/videos/20261023-475276/",
-        "date": "2026-10-23",
-        "is_translated": false
-      },
-      {
-        "title": "【【動画】『ファイナルファンタジーVII リベレーション』先行プレイ映像。シド＆ヴィンセント参戦...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【【動画】『ファイナルファンタジーVII リベレーション』先行プレイ映像。シド＆ヴィンセント参戦...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/videos/20261023-475274/",
-        "date": "2026-10-23",
-        "is_translated": false
-      },
-      {
-        "title": "【Asus ROG Rapture GT-BN98 router review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Asus ROG Rapture GT-BN98 router review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/networking/asus-rog-rapture-gt-bn98-review/",
-        "date": "2026-10-23",
-        "is_translated": true
-      },
-      {
-        "title": "【LG UltraGear Evo 52G930B Evo gaming monitor review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【LG UltraGear Evo 52G930B Evo gaming monitor review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-evo-52g930b-review/",
-        "date": "2026-10-23",
-        "is_translated": true
-      },
-      {
-        "title": "【Factorio's final major update has rolled off th...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Factorio's final major update has rolled off th...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for",
-        "date": "2026-10-23",
-        "is_translated": true
-      },
       {
         "title": "【Creative Assemblyが「トータルウォー：ショーグン２ コンプリートエディション」...：レビュー】",
         "platform": "doope!",
@@ -1067,8 +790,34 @@
         "url": "https://www.rockpapershotgun.com/virtue-and-a-sledgehammer-review",
         "date": "2026-10-27",
         "is_translated": true
+      },
+      {
+        "title": "【2種の新デバイスを導入する「リ・ストーリー: 思い出修理屋」の“Fuzzby”アップデートが配...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【2種の新デバイスを導入する「リ・ストーリー: 思い出修理屋」の“Fuzzby”アップデートが配...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172267.html",
+        "date": "2026-10-27",
+        "is_translated": false
+      },
+      {
+        "title": "【Call of Duty: Modern Warfare 4 review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Call of Duty: Modern Warfare 4 review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
+        "date": "2026-10-27",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-27T17:48:52.491676"
+  "last_updated": "2026-10-28T00:15:18.121019"
 }
