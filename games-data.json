@@ -1,68 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Bad Cheese",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Bad Cheese is a psychological horror inspired by the eerie charm of 1920s animation. \nStep into the tiny paws of a mouse spending the weekend at home with a dysfunctional Dad while Mom's away. \nBe on…",
-        "price": "無料",
-        "originalPrice": "¥12",
-        "discount": "100% OFF",
-        "deadline": "2026年10月22日まで",
-        "url": "https://store.epicgames.com/ja/p/ae5d8fc5541f42eea105f64121dba382",
-        "date": "2026-10-22"
-      },
-      {
-        "title": "Agent A - 偽装のパズル",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Agent A - 偽装のパズルがEpic Gamesで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "¥19",
-        "discount": "100% OFF",
-        "deadline": "2026年10月22日まで",
-        "url": "https://store.epicgames.com/ja/p/agent-a-a-puzzle-in-disguise",
-        "date": "2026-10-22"
-      },
-      {
-        "title": "Sker Ritual",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "The round-based co-op survival FPS and spin-off to the award-winning British horror, Maid of Sker. Play solo or up to 4 players to survive the supernatural onslaught of the Quiet Ones.",
-        "price": "無料",
-        "originalPrice": "¥24",
-        "discount": "100% OFF",
-        "deadline": "2026年10月29日まで",
-        "url": "https://store.epicgames.com/ja/p/8dbc8d70481d4c0b8412d3aec76a35a1",
-        "date": "2026-10-22"
-      },
-      {
-        "title": "Home - A Unique Horror Adventure",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Home is a unique horror adventure set in a beautifully-realized pixel world. It’s a murder mystery with a twist – because you decide what ultimately happens.",
-        "price": "無料",
-        "originalPrice": "¥4",
-        "discount": "100% OFF",
-        "deadline": "2026年10月29日まで",
-        "url": "https://store.epicgames.com/ja/p/ff70f2b02fd842f8961f7729af25cda9",
-        "date": "2026-10-22"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Twisted Trilogies and Terrors: Dark Visual Novels",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Twisted Trilogies and Terrors: Dark Visual NovelsのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/twistedtrilogiesandterrorsdarkvisualnovels_bundle",
-        "date": "2026-10-19"
-      },
       {
         "title": "Hidden Art 3 Bundle",
         "platform": "IndieGala",
@@ -257,54 +196,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Detroit: Become Human",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Detroit: Become HumanがVariousで-84%セール中です。",
-        "price": "$6.59",
-        "originalPrice": "",
-        "discount": "-84%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
-        "date": "2026-10-22"
-      },
-      {
-        "title": "GetHigh.EXE",
-        "platform": "Various",
-        "type": "sale",
-        "description": "GetHigh.EXEがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/gethigh-exe/info/",
-        "date": "2026-10-22"
-      },
-      {
-        "title": "Dead Cells",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Dead CellsがVariousで-55%セール中です。",
-        "price": "$11.19",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dead-cells/info/",
-        "date": "2026-10-22"
-      },
-      {
-        "title": "PRAGMATA",
-        "platform": "Various",
-        "type": "sale",
-        "description": "PRAGMATAがVariousで-20%セール中です。",
-        "price": "$47.99",
-        "originalPrice": "",
-        "discount": "-20%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/pragmata/info/",
-        "date": "2026-10-22"
-      },
       {
         "title": "No Man's Sky",
         "platform": "Various",
@@ -508,74 +399,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
         "date": "2026-10-28"
+      },
+      {
+        "title": "Phantom Blade Zero",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Phantom Blade ZeroがVariousで-12%セール中です。",
+        "price": "$52.79",
+        "originalPrice": "",
+        "discount": "-12%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/phantom-blade-zero/info/",
+        "date": "2026-10-29"
       }
     ],
     "review": [
-      {
-        "title": "【Creative Assemblyが「トータルウォー：ショーグン２ コンプリートエディション」...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【Creative Assemblyが「トータルウォー：ショーグン２ コンプリートエディション」...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172111.html",
-        "date": "2026-10-24",
-        "is_translated": false
-      },
-      {
-        "title": "【高評価が並ぶ「Call of Duty: Modern Warfare 4」のレビューが解禁、...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【高評価が並ぶ「Call of Duty: Modern Warfare 4」のレビューが解禁、...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172109.html",
-        "date": "2026-10-24",
-        "is_translated": false
-      },
-      {
-        "title": "【『エルデンリング』、“プレイ時間100時間超え”ユーザーが世界に「約980万人」いるとの推計。...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『エルデンリング』、“プレイ時間100時間超え”ユーザーが世界に「約980万人」いるとの推計。...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261024-475404/",
-        "date": "2026-10-24",
-        "is_translated": false
-      },
-      {
-        "title": "【乙女ゲームキャラとプレイヤーの「心の距離」がどう縮まるのかを解き明かす研究。距離が縮まるのは「...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【乙女ゲームキャラとプレイヤーの「心の距離」がどう縮まるのかを解き明かす研究。距離が縮まるのは「...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261024-475391/",
-        "date": "2026-10-24",
-        "is_translated": false
-      },
-      {
-        "title": "【Penguin Colony review: A daringly weird horror ...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Penguin Colony review: A daringly weird horror ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/horror/penguin-colony-review/",
-        "date": "2026-10-24",
-        "is_translated": true
-      },
       {
         "title": "【基本プレイ無料『NTE』の新ホラー要素は「怖さの加減」がおかしい。しれっと混ざる別ゲー級ホラー...】",
         "platform": "AUTOMATON",
@@ -1030,8 +868,21 @@
         "url": "https://doope.jp/2026/10172297.html",
         "date": "2026-10-28",
         "is_translated": false
+      },
+      {
+        "title": "【Jonathan Blow氏最新作「Order of the Sinking Star」の日本...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Jonathan Blow氏最新作「Order of the Sinking Star」の日本...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172327.html",
+        "date": "2026-10-29",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-28T18:12:48.610459"
+  "last_updated": "2026-10-29T00:36:56.903424"
 }
