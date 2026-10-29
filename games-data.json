@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Sker Ritual",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "The round-based co-op survival FPS and spin-off to the award-winning British horror, Maid of Sker. Play solo or up to 4 players to survive the supernatural onslaught of the Quiet Ones.",
+        "price": "無料",
+        "originalPrice": "¥24",
+        "discount": "100% OFF",
+        "deadline": "2026年10月29日まで",
+        "url": "https://store.epicgames.com/ja/p/8dbc8d70481d4c0b8412d3aec76a35a1",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "Home - A Unique Horror Adventure",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Home is a unique horror adventure set in a beautifully-realized pixel world. It’s a murder mystery with a twist – because you decide what ultimately happens.",
+        "price": "無料",
+        "originalPrice": "¥4",
+        "discount": "100% OFF",
+        "deadline": "2026年10月29日まで",
+        "url": "https://store.epicgames.com/ja/p/ff70f2b02fd842f8961f7729af25cda9",
+        "date": "2026-10-29"
+      }
+    ],
     "bundle": [
       {
         "title": "Hidden Art 3 Bundle",
@@ -193,6 +218,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/witches-and-candy-bundle",
         "date": "2026-10-28"
+      },
+      {
+        "title": "Twisted Trilogies and Terrors: Dark Visual Novels",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Twisted Trilogies and Terrors: Dark Visual NovelsのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/twistedtrilogiesandterrorsdarkvisualnovels_bundle",
+        "date": "2026-10-29"
       }
     ],
     "sale": [
@@ -410,6 +447,30 @@
         "discount": "-12%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/phantom-blade-zero/info/",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "GetHigh.EXE",
+        "platform": "Various",
+        "type": "sale",
+        "description": "GetHigh.EXEがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/gethigh-exe/info/",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Baldur's Gate 3がVariousで-30%セール中です。",
+        "price": "$41.99",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/baldurs-gate-3/info/",
         "date": "2026-10-29"
       }
     ],
@@ -881,8 +942,60 @@
         "url": "https://doope.jp/2026/10172327.html",
         "date": "2026-10-29",
         "is_translated": false
+      },
+      {
+        "title": "【PS5/PS4向け「PS Plusフリープレイ」11月は“非対称5v1”ステルスホラー『Sec...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【PS5/PS4向け「PS Plusフリープレイ」11月は“非対称5v1”ステルスホラー『Sec...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261029-476345/",
+        "date": "2026-10-29",
+        "is_translated": false
+      },
+      {
+        "title": "【【動画】Appleが発売した新型スマートフォン「iPhone Duo」を極限まで折り畳み続ける...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【【動画】Appleが発売した新型スマートフォン「iPhone Duo」を極限まで折り畳み続ける...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/videos/apple-iphone-duo-20261029-476322/",
+        "date": "2026-10-29",
+        "is_translated": false
+      },
+      {
+        "title": "【「トゥームレイダー IV-VI リマスター」や「Monster Train 2」を含む2026...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「トゥームレイダー IV-VI リマスター」や「Monster Train 2」を含む2026...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172339.html",
+        "date": "2026-10-29",
+        "is_translated": false
+      },
+      {
+        "title": "【「EXODUS」の40分に及ぶ新たなゲームプレイ映像が公開、カエル系アウェイクンたちを解放する...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「EXODUS」の40分に及ぶ新たなゲームプレイ映像が公開、カエル系アウェイクンたちを解放する...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172300.html",
+        "date": "2026-10-29",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-29T00:36:56.903424"
+  "last_updated": "2026-10-29T04:24:58.395371"
 }
