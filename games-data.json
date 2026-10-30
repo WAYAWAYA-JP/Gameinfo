@@ -242,6 +242,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/galsandpalspqubejapanesegames_bundle",
         "date": "2026-10-30"
+      },
+      {
+        "title": "Wicked Stardust Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Wicked Stardust BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/wicked-stardust-bundle",
+        "date": "2026-10-30"
       }
     ],
     "sale": [
@@ -495,6 +507,30 @@
         "discount": "-100%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/hexologic/info/",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Resident Evil 4 (2023)",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Resident Evil 4 (2023)がVariousで-79%セール中です。",
+        "price": "$8.50",
+        "originalPrice": "",
+        "discount": "-79%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Hunting Simulator 3 - Classic American Hunter Pack",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Hunting Simulator 3 - Classic American Hunter PackがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hunting-simulator-3-classic-american-hunter-pack/info/",
         "date": "2026-10-30"
       }
     ],
@@ -1125,5 +1161,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-30T04:24:57.448656"
+  "last_updated": "2026-10-30T15:31:57.142722"
 }
