@@ -1158,8 +1158,21 @@
         "url": "https://automaton-media.com/articles/newsjp/20261030-476592/",
         "date": "2026-10-30",
         "is_translated": false
+      },
+      {
+        "title": "【Edifier G5 Max wireless gaming headset review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Edifier G5 Max wireless gaming headset review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-headsets/edifier-g5-max-review/",
+        "date": "2026-10-30",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-30T15:31:57.142722"
+  "last_updated": "2026-10-30T17:54:11.482692"
 }
