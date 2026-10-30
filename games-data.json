@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/twistedtrilogiesandterrorsdarkvisualnovels_bundle",
         "date": "2026-10-29"
+      },
+      {
+        "title": "Gals and Pals: PQube Japanese Games",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Gals and Pals: PQube Japanese GamesのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/galsandpalspqubejapanesegames_bundle",
+        "date": "2026-10-30"
       }
     ],
     "sale": [
@@ -459,6 +471,30 @@
         "discount": "-30%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Sker Ritual",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Sker RitualがVariousで-66%セール中です。",
+        "price": "$6.79",
+        "originalPrice": "",
+        "discount": "-66%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/sker-ritual/info/",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Hexologic",
+        "platform": "Various",
+        "type": "sale",
+        "description": "HexologicがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hexologic/info/",
         "date": "2026-10-30"
       }
     ],
@@ -1060,8 +1096,34 @@
         "url": "https://www.rockpapershotgun.com/after-the-rough-start-that-was-last-years-entry-football-manager-27-is-looking-to-bring-you-in-with-a-few-free-days-of-play-before-the-games-even-out",
         "date": "2026-10-29",
         "is_translated": true
+      },
+      {
+        "title": "【『STEINS;GATE』など科学ADVチームが放つ“非”科学サスペンス『覗怪』来年2月25日...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『STEINS;GATE』など科学ADVチームが放つ“非”科学サスペンス『覗怪』来年2月25日...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261030-476632/",
+        "date": "2026-10-30",
+        "is_translated": false
+      },
+      {
+        "title": "【『ゼルダの伝説 時のオカリナ』リメイク版には「原作未プレイ世代」の若手も携わる。だからこそ生ま...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ゼルダの伝説 時のオカリナ』リメイク版には「原作未プレイ世代」の若手も携わる。だからこそ生ま...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261030-476592/",
+        "date": "2026-10-30",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-30T00:37:35.225025"
+  "last_updated": "2026-10-30T04:24:57.448656"
 }
