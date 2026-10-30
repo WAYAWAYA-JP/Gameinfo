@@ -40,18 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Hidden Art 3 Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Hidden Art 3 BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/hidden-art3-bundle",
-        "date": "2026-10-20"
-      },
-      {
         "title": "2D Rewind Collection from S2 Games",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,42 +233,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "No Man's SkyがVariousで-69%セール中です。",
-        "price": "$18.49",
-        "originalPrice": "",
-        "discount": "-69%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Sker Ritual",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Sker RitualがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/sker-ritual/info/",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "StrayがVariousで-61%セール中です。",
-        "price": "$11.75",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-10-23"
-      },
       {
         "title": "Home - A Unique Horror Adventure",
         "platform": "Various",
@@ -496,61 +448,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/pragmata/info/",
         "date": "2026-10-29"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33がVariousで-30%セール中です。",
+        "price": "$34.99",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-10-30"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料『NTE』の新ホラー要素は「怖さの加減」がおかしい。しれっと混ざる別ゲー級ホラー...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料『NTE』の新ホラー要素は「怖さの加減」がおかしい。しれっと混ざる別ゲー級ホラー...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20261024-475341/",
-        "date": "2026-10-25",
-        "is_translated": false
-      },
-      {
-        "title": "【『ファイアーエムブレム 万紫千紅』は面白めんどくさい。『ファイナルファンタジー レゾナンス』は...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ファイアーエムブレム 万紫千紅』は面白めんどくさい。『ファイナルファンタジー レゾナンス』は...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20261025-475471/",
-        "date": "2026-10-25",
-        "is_translated": false
-      },
-      {
-        "title": "【『ウマ娘』新育成シナリオ「朋、史解き　―午式駿大祭―」先行プレイ感想。新シナリオは”迷わなくて...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ウマ娘』新育成シナリオ「朋、史解き　―午式駿大祭―」先行プレイ感想。新シナリオは”迷わなくて...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/uma-20261025-475427/",
-        "date": "2026-10-25",
-        "is_translated": false
-      },
-      {
-        "title": "【コスプレ】美脚と圧倒的なスタイルで魅せる『ブルアカ』や「リゼロ」が美しすぎた！台湾コスプレイベント「CCF」美女レイヤー9選【写真35枚】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【コスプレ】美脚と圧倒的なスタイルで魅せる『ブルアカ』や「リゼロ」が美しすぎた！台湾コスプレイベント「CCF」美女レイヤー9選【写真35枚】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/10/26/189811.html",
-        "date": "2026-10-25",
-        "is_translated": false
-      },
       {
         "title": "【ケモミミ少女パン屋アクション『アルタ』がNintendo Switchに来る。もう逃げ場がない...：レビュー】",
         "platform": "AUTOMATON",
@@ -588,19 +500,6 @@
         "deadline": "",
         "url": "https://automaton-media.com/articles/newsjp/20261026-475492/",
         "date": "2026-10-26",
-        "is_translated": false
-      },
-      {
-        "title": "【The PathlessとAbzûを生んだ“Giant Squid”の新作「Sword of ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【The PathlessとAbzûを生んだ“Giant Squid”の新作「Sword of ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172187.html",
-        "date": "2026-10-25",
         "is_translated": false
       },
       {
@@ -1109,8 +1008,60 @@
         "url": "https://www.pcgamer.com/hardware/pc-cases/havn-hs-360-review/",
         "date": "2026-10-29",
         "is_translated": true
+      },
+      {
+        "title": "【最大4人プレイ対応「牛丼屋」シム『牛丼店シミュレーター』発表、11月13日配信へ。“約10年牛...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【最大4人プレイ対応「牛丼屋」シム『牛丼店シミュレーター』発表、11月13日配信へ。“約10年牛...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261030-476558/",
+        "date": "2026-10-29",
+        "is_translated": false
+      },
+      {
+        "title": "【カリン・クサマが監督を務める「Mouthwashing」の映画化がアナウンス：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【カリン・クサマが監督を務める「Mouthwashing」の映画化がアナウンス：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172366.html",
+        "date": "2026-10-29",
+        "is_translated": false
+      },
+      {
+        "title": "【Ubisoftがマルチプレイヤープロジェクトや“HEXE”の続報を含む「Assassin’s ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Ubisoftがマルチプレイヤープロジェクトや“HEXE”の続報を含む「Assassin’s ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/10172365.html",
+        "date": "2026-10-29",
+        "is_translated": false
+      },
+      {
+        "title": "【After the rough start that was last year's entr...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【After the rough start that was last year's entr...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/after-the-rough-start-that-was-last-years-entry-football-manager-27-is-looking-to-bring-you-in-with-a-few-free-days-of-play-before-the-games-even-out",
+        "date": "2026-10-29",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-10-29T18:18:40.343864"
+  "last_updated": "2026-10-30T00:37:35.225025"
 }
