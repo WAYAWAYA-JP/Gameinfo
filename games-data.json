@@ -40,54 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "2D Rewind Collection from S2 Games",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "2D Rewind Collection from S2 GamesのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/2drewindcollectionfroms2games_bundle",
-        "date": "2026-10-21"
-      },
-      {
-        "title": "HHHidden Art 3 Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "HHHidden Art 3 BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/hidden-art3-bundle",
-        "date": "2026-10-21"
-      },
-      {
-        "title": "Hentai Balloons 2",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Hentai Balloons 2のバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/hentai-balloons2",
-        "date": "2026-10-21"
-      },
-      {
-        "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble 15th Anniversary - Sci-Fi Exposure BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/15thanniversaryscifiexposure_bundle",
-        "date": "2026-10-21"
-      },
-      {
         "title": "Phunkier Physics",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -254,33 +206,21 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/wicked-stardust-bundle",
         "date": "2026-10-30"
+      },
+      {
+        "title": "Humble Indie Fighters Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble Indie Fighters BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/indiefighters_bundle",
+        "date": "2026-10-31"
       }
     ],
     "sale": [
-      {
-        "title": "Home - A Unique Horror Adventure",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Home - A Unique Horror AdventureがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/home-a-unique-horror-adventure/info/",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Outer Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Outer WildsがVariousで-61%セール中です。",
-        "price": "$9.76",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
-        "date": "2026-10-24"
-      },
       {
         "title": "Squad Weapon Skins - Recon Team Pack",
         "platform": "Various",
@@ -535,123 +475,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【ケモミミ少女パン屋アクション『アルタ』がNintendo Switchに来る。もう逃げ場がない...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【ケモミミ少女パン屋アクション『アルタ』がNintendo Switchに来る。もう逃げ場がない...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/columnjp/20261026-475531/",
-        "date": "2026-10-26",
-        "is_translated": false
-      },
-      {
-        "title": "【最大16人協力・月まるごと大掃除シム『Moon Sweepers』Steam同接「3万6000...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【最大16人協力・月まるごと大掃除シム『Moon Sweepers』Steam同接「3万6000...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261026-475509/",
-        "date": "2026-10-26",
-        "is_translated": false
-      },
-      {
-        "title": "【初心者でもわかりやすいスチームパンク囲碁『ファクトリ囲碁』が注目集める。周りを囲まれると大爆発...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【初心者でもわかりやすいスチームパンク囲碁『ファクトリ囲碁』が注目集める。周りを囲まれると大爆発...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261026-475492/",
-        "date": "2026-10-26",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam Week in Review: AI disclosures enter the ...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Steam Week in Review: AI disclosures enter the ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/",
-        "date": "2026-10-26",
-        "is_translated": true
-      },
-      {
-        "title": "【Phantom Blade Zero Reviews Just Beat Every Soul...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【Phantom Blade Zero Reviews Just Beat Every Soul...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/phantom-blade-zero-review-roundup-score/",
-        "date": "2026-10-26",
-        "is_translated": true
-      },
-      {
-        "title": "【ゲームのメタスコア、「100点制」メディアと「星5制」メディアで評価一致しない問題が指摘される...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【ゲームのメタスコア、「100点制」メディアと「星5制」メディアで評価一致しない問題が指摘される...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261026-475681/",
-        "date": "2026-10-26",
-        "is_translated": false
-      },
-      {
-        "title": "【PC Steam版「サイバーパンク2077」の同接ピークが18万7,000人を突破、プレイヤー...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【PC Steam版「サイバーパンク2077」の同接ピークが18万7,000人を突破、プレイヤー...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172193.html",
-        "date": "2026-10-26",
-        "is_translated": false
-      },
-      {
-        "title": "【中世都市建設RTS/恐竜アクションRPGハイブリッド「Dinolords」のマルチプレイヤー対...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【中世都市建設RTS/恐竜アクションRPGハイブリッド「Dinolords」のマルチプレイヤー対...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172192.html",
-        "date": "2026-10-26",
-        "is_translated": false
-      },
-      {
-        "title": "【ローグライクFPS「サルファー」のPC製品版1.0とコンソール版が10月28日リリース、早期ア...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【ローグライクFPS「サルファー」のPC製品版1.0とコンソール版が10月28日リリース、早期ア...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172191.html",
-        "date": "2026-10-26",
-        "is_translated": false
-      },
       {
         "title": "【基本プレイ無料『サカつく2026』Ver2.4アプデ10月28日配信へ、「育てた選手をもっと活...】",
         "platform": "AUTOMATON",
@@ -1174,5 +997,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-30T17:54:11.482692"
+  "last_updated": "2026-10-31T00:24:03.437539"
 }
