@@ -218,6 +218,90 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/indiefighters_bundle",
         "date": "2026-10-31"
+      },
+      {
+        "title": "Tactical Mindset Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Tactical Mindset BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/tacticalmindsetbundle_bundle",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Horror Trifectas",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Horror TrifectasのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/horrortrifectas_bundle",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Maximum Entertainment Indie Hits",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Maximum Entertainment Indie HitsのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/maximumentertainmentindiehits_bundle",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble 15th Anniversary - Sci-Fi Exposure BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/15thanniversaryscifiexposure_bundle",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Flat2VR Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Flat2VR BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/flat2vrbundle_bundle",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Double Fine Publisher Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Double Fine Publisher BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/doublefinepublisherbundle_bundle",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Hentai Balloons 2",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Hentai Balloons 2のバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/hentai-balloons2",
+        "date": "2026-10-31"
       }
     ],
     "sale": [
@@ -994,8 +1078,21 @@
         "url": "https://www.pcgamer.com/hardware/gaming-headsets/edifier-g5-max-review/",
         "date": "2026-10-30",
         "is_translated": true
+      },
+      {
+        "title": "【基本プレイ無料“地形ぶっ壊し”STG『カオス★スマッシュ』リリース、「DL不要」ですぐ遊べる。...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料“地形ぶっ壊し”STG『カオス★スマッシュ』リリース、「DL不要」ですぐ遊べる。...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261031-476857/",
+        "date": "2026-10-31",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-31T00:24:03.437539"
+  "last_updated": "2026-10-31T04:04:39.414407"
 }
