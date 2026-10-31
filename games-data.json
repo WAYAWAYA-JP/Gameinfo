@@ -556,6 +556,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/hunting-simulator-3-classic-american-hunter-pack/info/",
         "date": "2026-10-30"
+      },
+      {
+        "title": "Asleep - Ato 1",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Asleep - Ato 1がVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/asleep-ato-1/info/",
+        "date": "2026-10-31"
       }
     ],
     "review": [
@@ -1091,8 +1103,34 @@
         "url": "https://automaton-media.com/articles/newsjp/20261031-476857/",
         "date": "2026-10-31",
         "is_translated": false
+      },
+      {
+        "title": "【人気ブラック墓守スローライフ『Graveyard Keeper 2』、最新アプデで改善進むもま...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【人気ブラック墓守スローライフ『Graveyard Keeper 2』、最新アプデで改善進むもま...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/graveyard-keeper-2-20261031-476908/",
+        "date": "2026-10-31",
+        "is_translated": false
+      },
+      {
+        "title": "【ヤ・シュトラ実装！遠距離から敵を焼き尽くせ『ディシディア デュエルム ファイナルファンタジー』...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【ヤ・シュトラ実装！遠距離から敵を焼き尽くせ『ディシディア デュエルム ファイナルファンタジー』...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/10/31/190152.html",
+        "date": "2026-10-31",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-10-31T04:04:39.414407"
+  "last_updated": "2026-10-31T15:02:00.682835"
 }
