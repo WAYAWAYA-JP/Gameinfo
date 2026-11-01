@@ -520,6 +520,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/asleep-ato-1/info/",
         "date": "2026-10-31"
+      },
+      {
+        "title": "デッドバイデイライト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "デッドバイデイライトがSteamで60% OFFセール中です。",
+        "price": "¥999",
+        "originalPrice": "¥2,499",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/381210",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "Gladiator: Blades of Fury",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Gladiator: Blades of FuryがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/gladiator-blades-of-fury/info/",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "Quiztopia : The Ultimate Trivia",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Quiztopia : The Ultimate TriviaがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/quiztopia-the-ultimate-trivia/info/",
+        "date": "2026-11-01"
       }
     ],
     "review": [
@@ -964,8 +1000,47 @@
         "url": "https://automaton-media.com/articles/special-column/20261101-476958/",
         "date": "2026-11-01",
         "is_translated": false
+      },
+      {
+        "title": "【『Phantom Blade Zero』はいろんなエッセンスも感じて面白い……けどルビが欲しい...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『Phantom Blade Zero』はいろんなエッセンスも感じて面白い……けどルビが欲しい...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/now-gaming/20261101-477034/",
+        "date": "2026-11-01",
+        "is_translated": false
+      },
+      {
+        "title": "【自分の推理、自分の“言葉”で因果律と彼女のあり方を変える。ジャンルを横断する衒学的ADV『In...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【自分の推理、自分の“言葉”で因果律と彼女のあり方を変える。ジャンルを横断する衒学的ADV『In...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20261101-477006/",
+        "date": "2026-11-01",
+        "is_translated": false
+      },
+      {
+        "title": "【人気カバン整理サバイバー系ローグライク『デッドリーデイズ：ロードトリップ』Steam正式リリー...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【人気カバン整理サバイバー系ローグライク『デッドリーデイズ：ロードトリップ』Steam正式リリー...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261101-476986/",
+        "date": "2026-11-01",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-01T04:27:33.627220"
+  "last_updated": "2026-11-01T15:45:16.483573"
 }
