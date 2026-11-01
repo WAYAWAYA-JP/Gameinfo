@@ -556,6 +556,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/quiztopia-the-ultimate-trivia/info/",
         "date": "2026-11-01"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Red Dead Redemption 2がVariousで-78%セール中です。",
+        "price": "$13.46",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "Outer Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Outer WildsがVariousで-61%セール中です。",
+        "price": "$9.75",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
+        "date": "2026-11-01"
       }
     ],
     "review": [
@@ -1042,5 +1066,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-01T15:45:16.483573"
+  "last_updated": "2026-11-01T17:49:33.833620"
 }
