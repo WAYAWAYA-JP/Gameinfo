@@ -628,6 +628,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/252490",
         "date": "2026-11-02"
+      },
+      {
+        "title": "Epic World - Hunt For Quest",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Epic World - Hunt For QuestがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/epic-world-hunt-for-quest/info/",
+        "date": "2026-11-02"
       }
     ],
     "review": [
@@ -1075,5 +1087,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-02T19:11:14.655459"
+  "last_updated": "2026-11-02T21:36:27.645285"
 }
