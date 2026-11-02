@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Phunkier Physics",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Phunkier PhysicsのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/phunkierphysics_bundle",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Puzzlers to Puzzle You",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Puzzlers to Puzzle YouのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/puzzlerstopuzzleyou_bundle",
-        "date": "2026-10-23"
-      },
-      {
         "title": "Capcom Classics Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -305,18 +281,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "SILENT HILL 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "SILENT HILL 2がVariousで-68%セール中です。",
-        "price": "$22.40",
-        "originalPrice": "",
-        "discount": "-68%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
-        "date": "2026-10-26"
-      },
       {
         "title": "ミメシス",
         "platform": "Steam",
@@ -580,139 +544,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/outer-wilds/info/",
         "date": "2026-11-01"
+      },
+      {
+        "title": "BIOHAZARD RE:4",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "BIOHAZARD RE:4がSteamで75% OFFセール中です。",
+        "price": "¥997",
+        "originalPrice": "¥3,990",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2050650",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "MAFIA HOTEL",
+        "platform": "Various",
+        "type": "sale",
+        "description": "MAFIA HOTELがVariousでセール中です。",
+        "price": "$1.99",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/mafia-hotel/info/",
+        "date": "2026-11-02"
       }
     ],
     "review": [
-      {
-        "title": "【『ほの暮しの庭』ネタバレあり開発者インタビュー。エンディングの意図は？高好感度のあのイベントの...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ほの暮しの庭』ネタバレあり開発者インタビュー。エンディングの意図は？高好感度のあのイベントの...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/interviewsjp/hono-20261028-476010/",
-        "date": "2026-10-28",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料『クリスタル・オブ・アトラン』に「攻殻機動隊S.A.C.」コラボ大型アプデが本日...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料『クリスタル・オブ・アトラン』に「攻殻機動隊S.A.C.」コラボ大型アプデが本日...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261028-476001/",
-        "date": "2026-10-28",
-        "is_translated": false
-      },
-      {
-        "title": "【ハロウィンテーマのコンテンツを導入する「Halloween: The Game」の“Tower...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【ハロウィンテーマのコンテンツを導入する「Halloween: The Game」の“Tower...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172278.html",
-        "date": "2026-10-28",
-        "is_translated": false
-      },
-      {
-        "title": "【「Call of Duty: Modern Warfare 4」のマルチプレイヤーに“シップメ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Call of Duty: Modern Warfare 4」のマルチプレイヤーに“シップメ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172280.html",
-        "date": "2026-10-28",
-        "is_translated": false
-      },
-      {
-        "title": "【放置と育成がクセになる！新作『ラグナロク：アドベンチャーズ』は、職業・ステータス・スキルの振り...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【放置と育成がクセになる！新作『ラグナロク：アドベンチャーズ』は、職業・ステータス・スキルの振り...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/10/28/189957.html",
-        "date": "2026-10-28",
-        "is_translated": false
-      },
-      {
-        "title": "【『NTE』大型アプデVer.1.5では“戦車バトル”開幕へ。おっとり電脳お姉さん「イェルム」に...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『NTE』大型アプデVer.1.5では“戦車バトル”開幕へ。おっとり電脳お姉さん「イェルム」に...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261029-476236/",
-        "date": "2026-10-28",
-        "is_translated": false
-      },
-      {
-        "title": "【打順の概念がない同時進行型バトル“ゴルフ”ゲーム「Super Battle Golf」のコンソ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【打順の概念がない同時進行型バトル“ゴルフ”ゲーム「Super Battle Golf」のコンソ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172317.html",
-        "date": "2026-10-28",
-        "is_translated": false
-      },
-      {
-        "title": "【Dead CellsやNuclear Blazeを生んだSébastien Benard氏の新...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【Dead CellsやNuclear Blazeを生んだSébastien Benard氏の新...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172292.html",
-        "date": "2026-10-28",
-        "is_translated": false
-      },
-      {
-        "title": "【ローグライトRPGオートバトラー「He Is Coming」のモバイル対応がアナウンス、発売は...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【ローグライトRPGオートバトラー「He Is Coming」のモバイル対応がアナウンス、発売は...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172306.html",
-        "date": "2026-10-28",
-        "is_translated": false
-      },
-      {
-        "title": "【「Titan Quest II」の早期アクセスプレイヤー限定特典と価格改定がアナウンス、豪華な...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Titan Quest II」の早期アクセスプレイヤー限定特典と価格改定がアナウンス、豪華な...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/10172297.html",
-        "date": "2026-10-28",
-        "is_translated": false
-      },
       {
         "title": "【Jonathan Blow氏最新作「Order of the Sinking Star」の日本...：レビュー】",
         "platform": "doope!",
@@ -1066,5 +924,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-01T17:49:33.833620"
+  "last_updated": "2026-11-02T00:15:28.719923"
 }
