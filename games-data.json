@@ -302,6 +302,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/phunkierphysics_bundle",
         "date": "2026-11-02"
+      },
+      {
+        "title": "Crimes and Curiosity Bundle by S2 Games",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Crimes and Curiosity Bundle by S2 GamesのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/crimesandcuriositybundles2games_bundle",
+        "date": "2026-11-02"
       }
     ],
     "sale": [
@@ -603,6 +615,18 @@
         "discount": "-61%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "Rust",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "RustがSteamで50% OFFセール中です。",
+        "price": "¥2,300",
+        "originalPrice": "¥4,600",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/252490",
         "date": "2026-11-02"
       }
     ],
@@ -1009,8 +1033,47 @@
         "url": "https://www.inside-games.jp/article/2026/11/02/190234.html",
         "date": "2026-11-02",
         "is_translated": false
+      },
+      {
+        "title": "【“AIサムネ詐欺ワールド問題”に揺れる『VRChat』、AI除外フィルターは設けない方針発表。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【“AIサムネ詐欺ワールド問題”に揺れる『VRChat』、AI除外フィルターは設けない方針発表。...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261102-477090/",
+        "date": "2026-11-02",
+        "is_translated": false
+      },
+      {
+        "title": "【「PowerWash Simulator 2」の“バービー”コラボコンテンツを導入する新DLC...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「PowerWash Simulator 2」の“バービー”コラボコンテンツを導入する新DLC...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172442.html",
+        "date": "2026-11-02",
+        "is_translated": false
+      },
+      {
+        "title": "【Turtle Beach Command Series MC7 review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Turtle Beach Command Series MC7 review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-command-series-mc7-review/",
+        "date": "2026-11-02",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-02T04:28:53.792264"
+  "last_updated": "2026-11-02T19:11:14.655459"
 }
