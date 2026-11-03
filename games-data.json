@@ -616,6 +616,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-11-03"
+      },
+      {
+        "title": "The Alters",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The AltersがVariousで-65%セール中です。",
+        "price": "$12.24",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-alters/info/",
+        "date": "2026-11-03"
       }
     ],
     "review": [
@@ -904,8 +916,47 @@
         "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-1-0-review/",
         "date": "2026-11-02",
         "is_translated": true
+      },
+      {
+        "title": "【ZA/UMの新作「ZERO PARADES: For Dead Spies」のコンソール向けD...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【ZA/UMの新作「ZERO PARADES: For Dead Spies」のコンソール向けD...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172486.html",
+        "date": "2026-11-03",
+        "is_translated": false
+      },
+      {
+        "title": "【“Remedy Entertainment”の収益が急増、「CONTROL Resonant」...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“Remedy Entertainment”の収益が急増、「CONTROL Resonant」...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172487.html",
+        "date": "2026-11-03",
+        "is_translated": false
+      },
+      {
+        "title": "【Workers & Resources: Soviet Republic's next DLC...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Workers & Resources: Soviet Republic's next DLC...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/workers-resources-soviet-republics-next-dlc-is-set-to-expand-the-city-building-sim-into-the-one-place-not-corrupted-by-capitalism-space",
+        "date": "2026-11-03",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-03T05:23:39.234804"
+  "last_updated": "2026-11-03T16:49:59.286658"
 }
