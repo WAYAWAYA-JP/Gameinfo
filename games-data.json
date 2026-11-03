@@ -592,6 +592,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/epic-world-hunt-for-quest/info/",
         "date": "2026-11-02"
+      },
+      {
+        "title": "グランド・セフト・オートV エンハンスト",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "グランド・セフト・オートV エンハンストがSteamで50% OFFセール中です。",
+        "price": "¥2,190",
+        "originalPrice": "¥4,380",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3240220",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "No Man's SkyがVariousで-64%セール中です。",
+        "price": "$21.59",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-11-03"
       }
     ],
     "review": [
@@ -883,5 +907,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-03T02:46:38.278923"
+  "last_updated": "2026-11-03T05:23:39.234804"
 }
