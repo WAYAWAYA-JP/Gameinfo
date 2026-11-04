@@ -314,6 +314,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/pixel-traditions5-bundle",
         "date": "2026-11-04"
+      },
+      {
+        "title": "Resident Evil: Biohazard Unleashed",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Resident Evil: Biohazard UnleashedのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/residentevilbiohazardunleashed2026_bundle",
+        "date": "2026-11-04"
       }
     ],
     "sale": [
@@ -627,6 +639,18 @@
         "discount": "-64%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/age-of-wonders-4/info/",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "EVERSPACE™ 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "EVERSPACE™ 2がVariousで-82%セール中です。",
+        "price": "$8.87",
+        "originalPrice": "",
+        "discount": "-82%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/everspace-2/info/",
         "date": "2026-11-04"
       }
     ],
@@ -1049,5 +1073,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-04T16:50:14.054010"
+  "last_updated": "2026-11-04T19:37:04.454049"
 }
