@@ -40,18 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Capcom Classics Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Capcom Classics BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/capcomclassicsbundle_bundle",
-        "date": "2026-10-25"
-      },
-      {
         "title": "Hamble's Fright or Fight Halloween Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -317,42 +305,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Terraspace",
-        "platform": "Various",
-        "type": "sale",
-        "description": "TerraspaceがVariousでセール中です。",
-        "price": "$6.99",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/terraspace/info/",
-        "date": "2026-10-28"
-      },
-      {
-        "title": "REPLACED",
-        "platform": "Various",
-        "type": "sale",
-        "description": "REPLACEDがVariousで-35%セール中です。",
-        "price": "$12.99",
-        "originalPrice": "",
-        "discount": "-35%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/replaced/info/",
-        "date": "2026-10-28"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Cyberpunk 2077がVariousで-70%セール中です。",
-        "price": "$17.99",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-10-28"
-      },
       {
         "title": "Phantom Blade Zero",
         "platform": "Various",
@@ -640,48 +592,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/highway-driving/info/",
         "date": "2026-11-03"
+      },
+      {
+        "title": "Maze-The Amazing Labyrinth",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Maze-The Amazing LabyrinthがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/maze-the-amazing-labyrinth/info/",
+        "date": "2026-11-04"
       }
     ],
     "review": [
-      {
-        "title": "【『STEINS;GATE』など科学ADVチームが放つ“非”科学サスペンス『覗怪』来年2月25日...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『STEINS;GATE』など科学ADVチームが放つ“非”科学サスペンス『覗怪』来年2月25日...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261030-476632/",
-        "date": "2026-10-30",
-        "is_translated": false
-      },
-      {
-        "title": "【『ゼルダの伝説 時のオカリナ』リメイク版には「原作未プレイ世代」の若手も携わる。だからこそ生ま...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ゼルダの伝説 時のオカリナ』リメイク版には「原作未プレイ世代」の若手も携わる。だからこそ生ま...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261030-476592/",
-        "date": "2026-10-30",
-        "is_translated": false
-      },
-      {
-        "title": "【Edifier G5 Max wireless gaming headset review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Edifier G5 Max wireless gaming headset review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-headsets/edifier-g5-max-review/",
-        "date": "2026-10-30",
-        "is_translated": true
-      },
       {
         "title": "【基本プレイ無料“地形ぶっ壊し”STG『カオス★スマッシュ』リリース、「DL不要」ですぐ遊べる。...】",
         "platform": "AUTOMATON",
@@ -967,8 +892,47 @@
         "url": "https://www.rockpapershotgun.com/workers-resources-soviet-republics-next-dlc-is-set-to-expand-the-city-building-sim-into-the-one-place-not-corrupted-by-capitalism-space",
         "date": "2026-11-03",
         "is_translated": true
+      },
+      {
+        "title": "【Unreal Engine 6では「ブループリント」が一転して“削除”へ。C++ゲームプレイフ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【Unreal Engine 6では「ブループリント」が一転して“削除”へ。C++ゲームプレイフ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261104-477270/",
+        "date": "2026-11-03",
+        "is_translated": false
+      },
+      {
+        "title": "【Valve admits it's 'running behind' on approving...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Valve admits it's 'running behind' on approving...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/",
+        "date": "2026-11-03",
+        "is_translated": true
+      },
+      {
+        "title": "【\"Steam's review queue is clogged up by AI slop\"...】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【\"Steam's review queue is clogged up by AI slop\"...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
+        "date": "2026-11-03",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-03T19:19:52.306162"
+  "last_updated": "2026-11-04T01:03:08.163657"
 }
