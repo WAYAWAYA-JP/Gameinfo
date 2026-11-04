@@ -302,6 +302,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/crimesandcuriositybundles2games_bundle",
         "date": "2026-11-02"
+      },
+      {
+        "title": "Pixel Traditions 5 Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Pixel Traditions 5 BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/pixel-traditions5-bundle",
+        "date": "2026-11-04"
       }
     ],
     "sale": [
@@ -603,6 +615,18 @@
         "discount": "-100%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/maze-the-amazing-labyrinth/info/",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "Age of Wonders 4",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Age of Wonders 4がVariousで-64%セール中です。",
+        "price": "$18.00",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/age-of-wonders-4/info/",
         "date": "2026-11-04"
       }
     ],
@@ -957,8 +981,73 @@
         "url": "https://automaton-media.com/articles/newsjp/20261104-477288/",
         "date": "2026-11-04",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料「美形罪人だらけ」RPG『無期迷途』新バージョンで、4年遊び続けた強火オタクが“...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料「美形罪人だらけ」RPG『無期迷途』新バージョンで、4年遊び続けた強火オタクが“...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20261103-477192/",
+        "date": "2026-11-04",
+        "is_translated": false
+      },
+      {
+        "title": "【オンラインマルチプレイヤーミニゴルフの続編「Golf With Your Friends 2」...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【オンラインマルチプレイヤーミニゴルフの続編「Golf With Your Friends 2」...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172537.html",
+        "date": "2026-11-04",
+        "is_translated": false
+      },
+      {
+        "title": "【“Deponia”シリーズ初のサバイバルゲーム「Surviving Deponia」の発売時期...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“Deponia”シリーズ初のサバイバルゲーム「Surviving Deponia」の発売時期...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172491.html",
+        "date": "2026-11-04",
+        "is_translated": false
+      },
+      {
+        "title": "【銃はいらない？ 移動が遅い？ 回避ないの？『アノマリス』を序盤で見限るのは早い！ プレイを続け...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【銃はいらない？ 移動が遅い？ 回避ないの？『アノマリス』を序盤で見限るのは早い！ プレイを続け...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/11/04/190368.html",
+        "date": "2026-11-04",
+        "is_translated": false
+      },
+      {
+        "title": "【Formula V Line Air Power G10 review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Formula V Line Air Power G10 review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/pc-cases/formula-v-line-air-power-g10-review/",
+        "date": "2026-11-04",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-04T04:52:35.401806"
+  "last_updated": "2026-11-04T16:50:14.054010"
 }
