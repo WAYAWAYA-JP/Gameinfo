@@ -640,6 +640,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stellar-blade/info/",
         "date": "2026-11-05"
+      },
+      {
+        "title": "Absolum",
+        "platform": "Various",
+        "type": "sale",
+        "description": "AbsolumがVariousで-44%セール中です。",
+        "price": "$13.95",
+        "originalPrice": "",
+        "discount": "-44%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/absolum/info/",
+        "date": "2026-11-05"
       }
     ],
     "review": [
@@ -1227,8 +1239,21 @@
         "url": "https://www.polygon.com/exoplanet-andy-weir-exclusive-excerpt/",
         "date": "2026-11-05",
         "is_translated": true
+      },
+      {
+        "title": "【Phantom Blade Zero review: Feel gud, not git gud】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Phantom Blade Zero review: Feel gud, not git gud】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-review/",
+        "date": "2026-11-05",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-05T17:06:11.006190"
+  "last_updated": "2026-11-05T19:46:06.148245"
 }
