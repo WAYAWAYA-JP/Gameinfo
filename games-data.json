@@ -1,6 +1,19 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Sorry We're Closed",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『Sorry We're Closed』は、豊かな設定、奥深いキャラクター描写、そして複数のエンディングを備えた、ノスタルジックなシングルプレイ用サバイバルホラーゲームです。固定カメラアングルによる不気味な場所の探索に加え、第三の目を開いて世界の狭間を見つめ、秘密を暴き、謎を解き明かしましょう。",
+        "price": "無料",
+        "originalPrice": "¥24",
+        "discount": "100% OFF",
+        "deadline": "2026年11月05日まで",
+        "url": "https://store.epicgames.com/ja/p/f2dae10b3c45425ba1e91b4604262283",
+        "date": "2026-11-05"
+      }
+    ],
     "bundle": [
       {
         "title": "The Triple-i Initiative Showcase Bundle",
@@ -241,6 +254,42 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/residentevilbiohazardunleashed2026_bundle",
         "date": "2026-11-04"
+      },
+      {
+        "title": "Hamble's Fright or Fight Halloween Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Hamble's Fright or Fight Halloween BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/hamblesfrightorfighthalloweenbundle_bundle",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Serenity Forge Emotional Impact Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Serenity Forge Emotional Impact BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/serenityforgeemotionalimpactbundle_bundle",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Power Halt Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Power Halt BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/power-halt-bundle",
+        "date": "2026-11-05"
       }
     ],
     "sale": [
@@ -961,8 +1010,73 @@
         "url": "https://doope.jp/2026/11172541.html",
         "date": "2026-11-04",
         "is_translated": false
+      },
+      {
+        "title": "【「お色気ゲームだろう」とスルーしていた自分が、Nintendo Switch 2版『Stell...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【「お色気ゲームだろう」とスルーしていた自分が、Nintendo Switch 2版『Stell...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/stellar-blade-switch2-477576/",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
+        "title": "【『ポピープレイタイム』の協力探索ホラー『Escape from Playtime』、開発元で「...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ポピープレイタイム』の協力探索ホラー『Escape from Playtime』、開発元で「...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261105-477569/",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
+        "title": "【Steamもちもち猫放置釣りゲーム『ニャンびり釣り日和』リリース。最大6人プレイ対応、ゆるく繋...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【Steamもちもち猫放置釣りゲーム『ニャンびり釣り日和』リリース。最大6人プレイ対応、ゆるく繋...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261105-477547/",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
+        "title": "【ソ連テーマの都市建設シム「Workers & Resources: Soviet Republ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【ソ連テーマの都市建設シム「Workers & Resources: Soviet Republ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172576.html",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
+        "title": "【罪を背負った少女たちが死後の世界で殺し合う、ダークな物語とポーカーを取り入れたバトルが魅力のロ...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【罪を背負った少女たちが死後の世界で殺し合う、ダークな物語とポーカーを取り入れたバトルが魅力のロ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/11/05/190392.html",
+        "date": "2026-11-05",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-05T01:18:33.693286"
+  "last_updated": "2026-11-05T05:09:11.234814"
 }
