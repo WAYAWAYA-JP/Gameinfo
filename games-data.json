@@ -12,6 +12,30 @@
         "deadline": "2026年11月05日まで",
         "url": "https://store.epicgames.com/ja/p/f2dae10b3c45425ba1e91b4604262283",
         "date": "2026-11-05"
+      },
+      {
+        "title": "Idle Champions of the Forgotten Realms",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Idle Champions of the Forgotten RealmsがEpic Gamesで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年11月12日まで",
+        "url": "https://store.epicgames.com/ja/p/idle-champions-of-the-forgotten-realms",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Flotsam 漂流ガラクタウン",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Flotsam 漂流ガラクタウンがEpic Gamesで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "¥25",
+        "discount": "100% OFF",
+        "deadline": "2026年11月12日まで",
+        "url": "https://store.epicgames.com/ja/p/7ca01ab906ad4eff92d4ed1efa5fbfcb",
+        "date": "2026-11-05"
       }
     ],
     "bundle": [
@@ -592,6 +616,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
         "date": "2026-11-05"
+      },
+      {
+        "title": "Detroit: Become Human",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Detroit: Become HumanがVariousで-81%セール中です。",
+        "price": "$7.52",
+        "originalPrice": "",
+        "discount": "-81%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Stellar Blade",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Stellar BladeがVariousで-40%セール中です。",
+        "price": "$35.99",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stellar-blade/info/",
+        "date": "2026-11-05"
       }
     ],
     "review": [
@@ -1075,8 +1123,112 @@
         "url": "https://www.inside-games.jp/article/2026/11/05/190392.html",
         "date": "2026-11-05",
         "is_translated": false
+      },
+      {
+        "title": "【ロバート山本博さんの『ファイアーエムブレム 万紫千紅』実況プレイが“仲間死にすぎて悲惨”とブー...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【ロバート山本博さんの『ファイアーエムブレム 万紫千紅』実況プレイが“仲間死にすぎて悲惨”とブー...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261105-477811/",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
+        "title": "【リアルサッカー監督シム『Football Manager』シリーズは、「5000時間以上」プレ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【リアルサッカー監督シム『Football Manager』シリーズは、「5000時間以上」プレ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20261105-477730/",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
+        "title": "【『NTE』のキャラに会いに行ったら、人気で人が多すぎて撮影にひと苦労。表情がコロコロ変わるタギ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『NTE』のキャラに会いに行ったら、人気で人が多すぎて撮影にひと苦労。表情がコロコロ変わるタギ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20261105-477706/",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
+        "title": "【自宅のあらゆる家電・家具と恋愛できるデートシム「Date Everything!」の販売が遂に...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【自宅のあらゆる家電・家具と恋愛できるデートシム「Date Everything!」の販売が遂に...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172551.html",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
+        "title": "【ローグライト横スクロールアクション「Absolum」のモバイル版が本日発売、リリーストレーラーも：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【ローグライト横スクロールアクション「Absolum」のモバイル版が本日発売、リリーストレーラーも：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172586.html",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
+        "title": "【Diablo系アクションRPG続編「Wolcen 2」の第2弾クローズドアルファテスト解禁が1...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Diablo系アクションRPG続編「Wolcen 2」の第2弾クローズドアルファテスト解禁が1...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172550.html",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
+        "title": "【「Heroes of Might and Magic III Remake」のクローズドプレイ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Heroes of Might and Magic III Remake」のクローズドプレイ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172547.html",
+        "date": "2026-11-05",
+        "is_translated": false
+      },
+      {
+        "title": "【Andy Weir's New Sci-Fi Epic is ‘The Martian’ Me...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Andy Weir's New Sci-Fi Epic is ‘The Martian’ Me...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/exoplanet-andy-weir-exclusive-excerpt/",
+        "date": "2026-11-05",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-05T05:09:11.234814"
+  "last_updated": "2026-11-05T17:06:11.006190"
 }
