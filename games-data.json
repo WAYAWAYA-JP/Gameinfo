@@ -318,66 +318,6 @@
     ],
     "sale": [
       {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33がVariousで-30%セール中です。",
-        "price": "$34.99",
-        "originalPrice": "",
-        "discount": "-30%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-10-30"
-      },
-      {
-        "title": "Sker Ritual",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Sker RitualがVariousで-66%セール中です。",
-        "price": "$6.79",
-        "originalPrice": "",
-        "discount": "-66%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/sker-ritual/info/",
-        "date": "2026-10-30"
-      },
-      {
-        "title": "Hexologic",
-        "platform": "Various",
-        "type": "sale",
-        "description": "HexologicがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hexologic/info/",
-        "date": "2026-10-30"
-      },
-      {
-        "title": "Resident Evil 4 (2023)",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Resident Evil 4 (2023)がVariousで-79%セール中です。",
-        "price": "$8.50",
-        "originalPrice": "",
-        "discount": "-79%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-4-2023/info/",
-        "date": "2026-10-30"
-      },
-      {
-        "title": "Hunting Simulator 3 - Classic American Hunter Pack",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Hunting Simulator 3 - Classic American Hunter PackがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hunting-simulator-3-classic-american-hunter-pack/info/",
-        "date": "2026-10-30"
-      },
-      {
         "title": "Asleep - Ato 1",
         "platform": "Various",
         "type": "sale",
@@ -655,58 +595,6 @@
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料『NTE』新キャラ「明音凛」のギターを“やたら本気で弾く”猛者たち出現。真似して...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料『NTE』新キャラ「明音凛」のギターを“やたら本気で弾く”猛者たち出現。真似して...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20261101-476958/",
-        "date": "2026-11-01",
-        "is_translated": false
-      },
-      {
-        "title": "【『Phantom Blade Zero』はいろんなエッセンスも感じて面白い……けどルビが欲しい...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『Phantom Blade Zero』はいろんなエッセンスも感じて面白い……けどルビが欲しい...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20261101-477034/",
-        "date": "2026-11-01",
-        "is_translated": false
-      },
-      {
-        "title": "【自分の推理、自分の“言葉”で因果律と彼女のあり方を変える。ジャンルを横断する衒学的ADV『In...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【自分の推理、自分の“言葉”で因果律と彼女のあり方を変える。ジャンルを横断する衒学的ADV『In...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20261101-477006/",
-        "date": "2026-11-01",
-        "is_translated": false
-      },
-      {
-        "title": "【人気カバン整理サバイバー系ローグライク『デッドリーデイズ：ロードトリップ』Steam正式リリー...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【人気カバン整理サバイバー系ローグライク『デッドリーデイズ：ロードトリップ』Steam正式リリー...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261101-476986/",
-        "date": "2026-11-01",
-        "is_translated": false
-      },
       {
         "title": "【マルチ月面掃除シム『Moon Sweepers』マッハで60万本売れていた。はてしなく過酷で気...：レビュー】",
         "platform": "AUTOMATON",
@@ -1252,8 +1140,21 @@
         "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-review/",
         "date": "2026-11-05",
         "is_translated": true
+      },
+      {
+        "title": "【XCOM系西部劇ターンベースストラテジー続編「Hard West 2」のコンソール版ローンチが...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【XCOM系西部劇ターンベースストラテジー続編「Hard West 2」のコンソール版ローンチが...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172604.html",
+        "date": "2026-11-06",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-05T19:46:06.148245"
+  "last_updated": "2026-11-06T01:23:02.439278"
 }
