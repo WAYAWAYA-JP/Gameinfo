@@ -592,6 +592,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/absolum/info/",
         "date": "2026-11-05"
+      },
+      {
+        "title": "PRAGMATA",
+        "platform": "Various",
+        "type": "sale",
+        "description": "PRAGMATAがVariousで-31%セール中です。",
+        "price": "$41.39",
+        "originalPrice": "",
+        "discount": "-31%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/pragmata/info/",
+        "date": "2026-11-06"
       }
     ],
     "review": [
@@ -1192,8 +1204,47 @@
         "url": "https://doope.jp/2026/11172618.html",
         "date": "2026-11-06",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料・地形破壊STG『カオス★スマッシュ』に北海道から“歩くホッキ貝寿司”参戦。攻め...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料・地形破壊STG『カオス★スマッシュ』に北海道から“歩くホッキ貝寿司”参戦。攻め...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261106-477891/",
+        "date": "2026-11-06",
+        "is_translated": false
+      },
+      {
+        "title": "【「Warhammer 40,000: Dawn of War IV」の“ラストスタンド”モード...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Warhammer 40,000: Dawn of War IV」の“ラストスタンド”モード...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172612.html",
+        "date": "2026-11-06",
+        "is_translated": false
+      },
+      {
+        "title": "【Epomaker HE75 V2 TMR review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Epomaker HE75 V2 TMR review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/",
+        "date": "2026-11-06",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-06T05:08:47.970113"
+  "last_updated": "2026-11-06T16:35:57.839354"
 }
