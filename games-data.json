@@ -40,54 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "The Triple-i Initiative Showcase Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "The Triple-i Initiative Showcase BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/tripleiinitiativeshowcasebundle_bundle",
-        "date": "2026-10-28"
-      },
-      {
-        "title": "Marmalade Game Studio: Ultimate Digital Game Night",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Marmalade Game Studio: Ultimate Digital Game NightのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/marmaladegamesultimatedigitalgamenight_bundle",
-        "date": "2026-10-28"
-      },
-      {
-        "title": "Beyond Reality: Sci-Fi & Survival VR Collection",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Beyond Reality: Sci-Fi & Survival VR CollectionのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/beyondrealityscifisurvivalvrcollection_bundle",
-        "date": "2026-10-28"
-      },
-      {
-        "title": "Witches & Candy Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Witches & Candy BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/witches-and-candy-bundle",
-        "date": "2026-10-28"
-      },
-      {
         "title": "Twisted Trilogies and Terrors: Dark Visual Novels",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -317,18 +269,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Asleep - Ato 1",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Asleep - Ato 1がVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/asleep-ato-1/info/",
-        "date": "2026-10-31"
-      },
       {
         "title": "デッドバイデイライト",
         "platform": "Steam",
@@ -604,100 +544,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/pragmata/info/",
         "date": "2026-11-06"
+      },
+      {
+        "title": "Phantom Blade Zero",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Phantom Blade ZeroがVariousで-12%セール中です。",
+        "price": "$52.99",
+        "originalPrice": "",
+        "discount": "-12%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/phantom-blade-zero/info/",
+        "date": "2026-11-07"
       }
     ],
     "review": [
-      {
-        "title": "【マルチ月面掃除シム『Moon Sweepers』マッハで60万本売れていた。はてしなく過酷で気...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【マルチ月面掃除シム『Moon Sweepers』マッハで60万本売れていた。はてしなく過酷で気...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261102-477061/",
-        "date": "2026-11-02",
-        "is_translated": false
-      },
-      {
-        "title": "【何らかの新コンテンツを予告する「Apex Legends」のティザートレーラーが公開、“ゴジラ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【何らかの新コンテンツを予告する「Apex Legends」のティザートレーラーが公開、“ゴジラ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172428.html",
-        "date": "2026-11-02",
-        "is_translated": false
-      },
-      {
-        "title": "【最大16人で楽しめる月面まるごとお掃除ゲーム「Moon Sweepers」のプレイヤーが僅か1...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【最大16人で楽しめる月面まるごとお掃除ゲーム「Moon Sweepers」のプレイヤーが僅か1...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172434.html",
-        "date": "2026-11-02",
-        "is_translated": false
-      },
-      {
-        "title": "【初代PS版『テイルズ オブ デスティニー』発売29年目にして「リリス」が通常プレイで仲間入りす...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【初代PS版『テイルズ オブ デスティニー』発売29年目にして「リリス」が通常プレイで仲間入りす...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/11/02/190234.html",
-        "date": "2026-11-02",
-        "is_translated": false
-      },
-      {
-        "title": "【“AIサムネ詐欺ワールド問題”に揺れる『VRChat』、AI除外フィルターは設けない方針発表。...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【“AIサムネ詐欺ワールド問題”に揺れる『VRChat』、AI除外フィルターは設けない方針発表。...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261102-477090/",
-        "date": "2026-11-02",
-        "is_translated": false
-      },
-      {
-        "title": "【「PowerWash Simulator 2」の“バービー”コラボコンテンツを導入する新DLC...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「PowerWash Simulator 2」の“バービー”コラボコンテンツを導入する新DLC...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172442.html",
-        "date": "2026-11-02",
-        "is_translated": false
-      },
-      {
-        "title": "【Turtle Beach Command Series MC7 review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Turtle Beach Command Series MC7 review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-command-series-mc7-review/",
-        "date": "2026-11-02",
-        "is_translated": true
-      },
       {
         "title": "【最大4人協力・デッキ構築ローグライク『HARMA 亡国のエデン』11月17日早期アクセス配信へ...：レビュー】",
         "platform": "AUTOMATON",
@@ -723,32 +584,6 @@
         "url": "https://doope.jp/2026/11172473.html",
         "date": "2026-11-03",
         "is_translated": false
-      },
-      {
-        "title": "【傑作の現世代リマスター「Thief: The Dark Project Remastered」...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【傑作の現世代リマスター「Thief: The Dark Project Remastered」...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172470.html",
-        "date": "2026-11-02",
-        "is_translated": false
-      },
-      {
-        "title": "【Enshrouded 1.0 review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Enshrouded 1.0 review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-1-0-review/",
-        "date": "2026-11-02",
-        "is_translated": true
       },
       {
         "title": "【ZA/UMの新作「ZERO PARADES: For Dead Spies」のコンソール向けD...：レビュー】",
@@ -1246,5 +1081,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-06T19:09:29.628631"
+  "last_updated": "2026-11-07T00:38:14.051169"
 }
