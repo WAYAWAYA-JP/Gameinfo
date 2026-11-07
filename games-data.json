@@ -278,6 +278,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/marmaladegamesultimatedigitalgamenight_bundle",
         "date": "2026-11-07"
+      },
+      {
+        "title": "Unhinged & Unsettling Visual Novels",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Unhinged & Unsettling Visual NovelsのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/unhingedunsettlingvisualnovels_bundle",
+        "date": "2026-11-07"
       }
     ],
     "sale": [
@@ -579,6 +591,18 @@
         "discount": "-30%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "餓狼伝説 City of the Wolves",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "餓狼伝説 City of the WolvesがSteamで75% OFFセール中です。",
+        "price": "¥745",
+        "originalPrice": "¥2,980",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2492040",
         "date": "2026-11-07"
       }
     ],
@@ -1154,8 +1178,21 @@
         "url": "https://www.inside-games.jp/article/2026/11/07/190503.html",
         "date": "2026-11-07",
         "is_translated": false
+      },
+      {
+        "title": "【約24年越しに蘇った『ゴジラ 怪獣大乱闘』リマスター版、Steamで「圧倒的に好評」の大人気。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【約24年越しに蘇った『ゴジラ 怪獣大乱闘』リマスター版、Steamで「圧倒的に好評」の大人気。...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261107-478035/",
+        "date": "2026-11-07",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-07T04:41:34.808993"
+  "last_updated": "2026-11-07T15:24:57.707018"
 }
