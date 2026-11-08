@@ -568,6 +568,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/dead-cells/info/",
         "date": "2026-11-08"
+      },
+      {
+        "title": "ASTRONEER",
+        "platform": "Various",
+        "type": "sale",
+        "description": "ASTRONEERがVariousで-75%セール中です。",
+        "price": "$7.49",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/astroneer/info/",
+        "date": "2026-11-08"
       }
     ],
     "review": [
@@ -1093,5 +1105,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-08T15:47:58.371823"
+  "last_updated": "2026-11-08T17:49:35.710629"
 }
