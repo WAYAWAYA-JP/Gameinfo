@@ -40,18 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Twisted Trilogies and Terrors: Dark Visual Novels",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Twisted Trilogies and Terrors: Dark Visual NovelsのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/twistedtrilogiesandterrorsdarkvisualnovels_bundle",
-        "date": "2026-10-29"
-      },
-      {
         "title": "Gals and Pals: PQube Japanese Games",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -293,66 +281,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "デッドバイデイライト",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "デッドバイデイライトがSteamで60% OFFセール中です。",
-        "price": "¥999",
-        "originalPrice": "¥2,499",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/381210",
-        "date": "2026-11-01"
-      },
-      {
-        "title": "Gladiator: Blades of Fury",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Gladiator: Blades of FuryがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/gladiator-blades-of-fury/info/",
-        "date": "2026-11-01"
-      },
-      {
-        "title": "Quiztopia : The Ultimate Trivia",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Quiztopia : The Ultimate TriviaがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/quiztopia-the-ultimate-trivia/info/",
-        "date": "2026-11-01"
-      },
-      {
-        "title": "Red Dead Redemption 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Red Dead Redemption 2がVariousで-78%セール中です。",
-        "price": "$13.46",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
-        "date": "2026-11-01"
-      },
-      {
-        "title": "Outer Wilds",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Outer WildsがVariousで-61%セール中です。",
-        "price": "$9.75",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
-        "date": "2026-11-01"
-      },
       {
         "title": "BIOHAZARD RE:4",
         "platform": "Steam",
@@ -604,113 +532,33 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/2492040",
         "date": "2026-11-07"
+      },
+      {
+        "title": "FINAL FANTASY VII REBIRTH",
+        "platform": "Various",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REBIRTHがVariousで-85%セール中です。",
+        "price": "$7.49",
+        "originalPrice": "",
+        "discount": "-85%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/final-fantasy-vii-rebirth/info/",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "Dune: Awakening",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Dune: AwakeningがVariousで-55%セール中です。",
+        "price": "$22.49",
+        "originalPrice": "",
+        "discount": "-55%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dune-awakening/info/",
+        "date": "2026-11-08"
       }
     ],
     "review": [
-      {
-        "title": "【最大4人協力・デッキ構築ローグライク『HARMA 亡国のエデン』11月17日早期アクセス配信へ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【最大4人協力・デッキ構築ローグライク『HARMA 亡国のエデン』11月17日早期アクセス配信へ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261103-477178/",
-        "date": "2026-11-03",
-        "is_translated": false
-      },
-      {
-        "title": "【新シナリオや革新的な技術を導入する「Frostpunk 2」第3弾DLC“The Surge”...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【新シナリオや革新的な技術を導入する「Frostpunk 2」第3弾DLC“The Surge”...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172473.html",
-        "date": "2026-11-03",
-        "is_translated": false
-      },
-      {
-        "title": "【ZA/UMの新作「ZERO PARADES: For Dead Spies」のコンソール向けD...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【ZA/UMの新作「ZERO PARADES: For Dead Spies」のコンソール向けD...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172486.html",
-        "date": "2026-11-03",
-        "is_translated": false
-      },
-      {
-        "title": "【“Remedy Entertainment”の収益が急増、「CONTROL Resonant」...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“Remedy Entertainment”の収益が急増、「CONTROL Resonant」...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172487.html",
-        "date": "2026-11-03",
-        "is_translated": false
-      },
-      {
-        "title": "【Workers & Resources: Soviet Republic's next DLC...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Workers & Resources: Soviet Republic's next DLC...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/workers-resources-soviet-republics-next-dlc-is-set-to-expand-the-city-building-sim-into-the-one-place-not-corrupted-by-capitalism-space",
-        "date": "2026-11-03",
-        "is_translated": true
-      },
-      {
-        "title": "【Unreal Engine 6では「ブループリント」が一転して“削除”へ。C++ゲームプレイフ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【Unreal Engine 6では「ブループリント」が一転して“削除”へ。C++ゲームプレイフ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261104-477270/",
-        "date": "2026-11-03",
-        "is_translated": false
-      },
-      {
-        "title": "【Valve admits it's 'running behind' on approving...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Valve admits it's 'running behind' on approving...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/",
-        "date": "2026-11-03",
-        "is_translated": true
-      },
-      {
-        "title": "【\"Steam's review queue is clogged up by AI slop\"...】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【\"Steam's review queue is clogged up by AI slop\"...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
-        "date": "2026-11-03",
-        "is_translated": true
-      },
       {
         "title": "【Steamにて「新作ゲームの審査が遅い」と悲鳴続出するなか、“1発合格を増やす”新審査プロセス...：レビュー】",
         "platform": "AUTOMATON",
@@ -1194,5 +1042,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-07T17:40:06.319942"
+  "last_updated": "2026-11-08T00:12:57.545310"
 }
