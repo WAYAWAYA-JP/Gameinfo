@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Gals and Pals: PQube Japanese Games",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Gals and Pals: PQube Japanese GamesのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/galsandpalspqubejapanesegames_bundle",
-        "date": "2026-10-30"
-      },
-      {
-        "title": "Wicked Stardust Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Wicked Stardust BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/wicked-stardust-bundle",
-        "date": "2026-10-30"
-      },
-      {
         "title": "Humble Indie Fighters Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -281,66 +257,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "BIOHAZARD RE:4",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "BIOHAZARD RE:4がSteamで75% OFFセール中です。",
-        "price": "¥997",
-        "originalPrice": "¥3,990",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2050650",
-        "date": "2026-11-02"
-      },
-      {
-        "title": "MAFIA HOTEL",
-        "platform": "Various",
-        "type": "sale",
-        "description": "MAFIA HOTELがVariousでセール中です。",
-        "price": "$1.99",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/mafia-hotel/info/",
-        "date": "2026-11-02"
-      },
-      {
-        "title": "Stray",
-        "platform": "Various",
-        "type": "sale",
-        "description": "StrayがVariousで-61%セール中です。",
-        "price": "$11.74",
-        "originalPrice": "",
-        "discount": "-61%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stray/info/",
-        "date": "2026-11-02"
-      },
-      {
-        "title": "Rust",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "RustがSteamで50% OFFセール中です。",
-        "price": "¥2,300",
-        "originalPrice": "¥4,600",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/252490",
-        "date": "2026-11-02"
-      },
-      {
-        "title": "Epic World - Hunt For Quest",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Epic World - Hunt For QuestがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/epic-world-hunt-for-quest/info/",
-        "date": "2026-11-02"
-      },
       {
         "title": "グランド・セフト・オートV エンハンスト",
         "platform": "Steam",
@@ -580,113 +496,33 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/astroneer/info/",
         "date": "2026-11-08"
+      },
+      {
+        "title": "CONTROL Resonant",
+        "platform": "Various",
+        "type": "sale",
+        "description": "CONTROL ResonantがVariousで-28%セール中です。",
+        "price": "$42.95",
+        "originalPrice": "",
+        "discount": "-28%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/control-resonant/info/",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "Good Morning Human",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Good Morning HumanがVariousでセール中です。",
+        "price": "$9.99",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/good-morning-human/info/",
+        "date": "2026-11-09"
       }
     ],
     "review": [
-      {
-        "title": "【Steamにて「新作ゲームの審査が遅い」と悲鳴続出するなか、“1発合格を増やす”新審査プロセス...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【Steamにて「新作ゲームの審査が遅い」と悲鳴続出するなか、“1発合格を増やす”新審査プロセス...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261104-477286/",
-        "date": "2026-11-04",
-        "is_translated": false
-      },
-      {
-        "title": "【ファンタジー動乱SLG『ブリガンダイン アビス』初の無料アプデ配信。厳しい評価のバランスと遊び...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【ファンタジー動乱SLG『ブリガンダイン アビス』初の無料アプデ配信。厳しい評価のバランスと遊び...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261104-477288/",
-        "date": "2026-11-04",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料「美形罪人だらけ」RPG『無期迷途』新バージョンで、4年遊び続けた強火オタクが“...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料「美形罪人だらけ」RPG『無期迷途』新バージョンで、4年遊び続けた強火オタクが“...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20261103-477192/",
-        "date": "2026-11-04",
-        "is_translated": false
-      },
-      {
-        "title": "【オンラインマルチプレイヤーミニゴルフの続編「Golf With Your Friends 2」...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【オンラインマルチプレイヤーミニゴルフの続編「Golf With Your Friends 2」...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172537.html",
-        "date": "2026-11-04",
-        "is_translated": false
-      },
-      {
-        "title": "【“Deponia”シリーズ初のサバイバルゲーム「Surviving Deponia」の発売時期...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“Deponia”シリーズ初のサバイバルゲーム「Surviving Deponia」の発売時期...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172491.html",
-        "date": "2026-11-04",
-        "is_translated": false
-      },
-      {
-        "title": "【銃はいらない？ 移動が遅い？ 回避ないの？『アノマリス』を序盤で見限るのは早い！ プレイを続け...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【銃はいらない？ 移動が遅い？ 回避ないの？『アノマリス』を序盤で見限るのは早い！ プレイを続け...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/11/04/190368.html",
-        "date": "2026-11-04",
-        "is_translated": false
-      },
-      {
-        "title": "【Formula V Line Air Power G10 review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Formula V Line Air Power G10 review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/pc-cases/formula-v-line-air-power-g10-review/",
-        "date": "2026-11-04",
-        "is_translated": true
-      },
-      {
-        "title": "【『Escape from Tarkov』生みの親による新作『Fragmentary Order...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『Escape from Tarkov』生みの親による新作『Fragmentary Order...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261105-477526/",
-        "date": "2026-11-04",
-        "is_translated": false
-      },
       {
         "title": "【SIEが2026年10月北米/欧州のPS Storeダウンロードランキングを発表、「Call ...：レビュー】",
         "platform": "doope!",
@@ -711,19 +547,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/11172542.html",
         "date": "2026-11-05",
-        "is_translated": false
-      },
-      {
-        "title": "【ディストピアなサイバーパンク店舗経営シム「Probably Stolen」の販売が僅か6日で7...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【ディストピアなサイバーパンク店舗経営シム「Probably Stolen」の販売が僅か6日で7...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172541.html",
-        "date": "2026-11-04",
         "is_translated": false
       },
       {
@@ -1102,8 +925,21 @@
         "url": "https://automaton-media.com/articles/now-gaming/20261108-478148/",
         "date": "2026-11-08",
         "is_translated": false
+      },
+      {
+        "title": "【アイ・オブ・ザ・ビホルダーやダンマスにオマージュを捧げるダンジョンクロウラー「Underkee...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【アイ・オブ・ザ・ビホルダーやダンマスにオマージュを捧げるダンジョンクロウラー「Underkee...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172653.html",
+        "date": "2026-11-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-08T17:49:35.710629"
+  "last_updated": "2026-11-09T00:33:07.380733"
 }
