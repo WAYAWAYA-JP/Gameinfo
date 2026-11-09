@@ -592,6 +592,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/borderlands-4/info/",
         "date": "2026-11-09"
+      },
+      {
+        "title": "Kingdom Come: Deliverance II",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Kingdom Come: Deliverance IIがVariousで-60%セール中です。",
+        "price": "$23.89",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
+        "date": "2026-11-09"
       }
     ],
     "review": [
@@ -1101,8 +1113,21 @@
         "url": "https://www.inside-games.jp/article/2026/11/09/190622.html",
         "date": "2026-11-09",
         "is_translated": false
+      },
+      {
+        "title": "【Zelda: Ocarina of Time’s Best Replacement Has 1...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Zelda: Ocarina of Time’s Best Replacement Has 1...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/deaths-door-five-year-anniversary-retrospective/",
+        "date": "2026-11-09",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-09T19:29:49.355891"
+  "last_updated": "2026-11-09T22:10:01.942476"
 }
