@@ -568,6 +568,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/slime-rancher-2/info/",
         "date": "2026-11-09"
+      },
+      {
+        "title": "Resident Evil Village",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Resident Evil VillageがVariousで-17%セール中です。",
+        "price": "$33.14",
+        "originalPrice": "",
+        "discount": "-17%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/resident-evil-village/info/",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "Borderlands 4",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Borderlands 4がVariousで-50%セール中です。",
+        "price": "$34.99",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/borderlands-4/info/",
+        "date": "2026-11-09"
       }
     ],
     "review": [
@@ -1025,8 +1049,60 @@
         "url": "https://doope.jp/2026/11172650.html",
         "date": "2026-11-09",
         "is_translated": false
+      },
+      {
+        "title": "【『スカイリム』を「まるごとMMORPG化」する野心的Modが出現。冒険して、組織を作って働いて...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『スカイリム』を「まるごとMMORPG化」する野心的Modが出現。冒険して、組織を作って働いて...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261109-478278/",
+        "date": "2026-11-09",
+        "is_translated": false
+      },
+      {
+        "title": "【イケメン元カレ100人がどんどん死ぬ、“乙女復讐”ゲーム『元カレ×デスゲーム』発表。生かすも殺...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【イケメン元カレ100人がどんどん死ぬ、“乙女復讐”ゲーム『元カレ×デスゲーム』発表。生かすも殺...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261109-478237/",
+        "date": "2026-11-09",
+        "is_translated": false
+      },
+      {
+        "title": "【“Tarkov”系SFタクティカルシューター「Fragmentary Order」の公式FAQ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“Tarkov”系SFタクティカルシューター「Fragmentary Order」の公式FAQ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172654.html",
+        "date": "2026-11-09",
+        "is_translated": false
+      },
+      {
+        "title": "【『GTA6』が待ち遠しいのはプレイヤーのみならず！アメリカの警察公式X「早く出てほしい。お前ら...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【『GTA6』が待ち遠しいのはプレイヤーのみならず！アメリカの警察公式X「早く出てほしい。お前ら...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/11/09/190622.html",
+        "date": "2026-11-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-09T04:42:17.714464"
+  "last_updated": "2026-11-09T19:29:49.355891"
 }
