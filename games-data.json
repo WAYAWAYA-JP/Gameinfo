@@ -254,6 +254,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/unhingedunsettlingvisualnovels_bundle",
         "date": "2026-11-07"
+      },
+      {
+        "title": "Wicked Stardust Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Wicked Stardust BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/wicked-stardust-bundle",
+        "date": "2026-11-09"
       }
     ],
     "sale": [
@@ -519,6 +531,42 @@
         "discount": "",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/good-morning-human/info/",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "Rust",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "RustがSteamで50% OFFセール中です。",
+        "price": "¥2,300",
+        "originalPrice": "¥4,600",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/252490",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "Dark Souls Remastered",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Dark Souls RemasteredがVariousで-31%セール中です。",
+        "price": "$27.79",
+        "originalPrice": "",
+        "discount": "-31%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/dark-souls-remastered/info/",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "Slime Rancher 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Slime Rancher 2がVariousで-40%セール中です。",
+        "price": "$17.99",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/slime-rancher-2/info/",
         "date": "2026-11-09"
       }
     ],
@@ -938,8 +986,47 @@
         "url": "https://doope.jp/2026/11172653.html",
         "date": "2026-11-09",
         "is_translated": false
+      },
+      {
+        "title": "【『バトルフィールド6』で突然“何もしてないのに誤BANされた”プレイヤー、EAを訴えて勝訴。ア...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『バトルフィールド6』で突然“何もしてないのに誤BANされた”プレイヤー、EAを訴えて勝訴。ア...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261109-478212/",
+        "date": "2026-11-09",
+        "is_translated": false
+      },
+      {
+        "title": "【「STAR WARS Zero Company」の成功により一時解雇中の従業員復帰を進めていた...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「STAR WARS Zero Company」の成功により一時解雇中の従業員復帰を進めていた...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172656.html",
+        "date": "2026-11-09",
+        "is_translated": false
+      },
+      {
+        "title": "【“N7 Day”の到来を祝う「Mass Effect Universe」の新スコアや“Lege...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“N7 Day”の到来を祝う「Mass Effect Universe」の新スコアや“Lege...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172650.html",
+        "date": "2026-11-09",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-09T00:33:07.380733"
+  "last_updated": "2026-11-09T04:42:17.714464"
 }
