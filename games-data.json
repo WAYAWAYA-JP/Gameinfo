@@ -520,6 +520,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
         "date": "2026-11-10"
+      },
+      {
+        "title": "Hunting Simulator 3 - Classic American Hunter Pack",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Hunting Simulator 3 - Classic American Hunter PackがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hunting-simulator-3-classic-american-hunter-pack/info/",
+        "date": "2026-11-10"
       }
     ],
     "review": [
@@ -860,8 +872,112 @@
         "url": "https://doope.jp/2026/11172693.html",
         "date": "2026-11-10",
         "is_translated": false
+      },
+      {
+        "title": "【AI機能フル投入の「Unreal Engine 5.9」プレビュー版が配信開始。「UE6」を前...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【AI機能フル投入の「Unreal Engine 5.9」プレビュー版が配信開始。「UE6」を前...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261110-478512/",
+        "date": "2026-11-10",
+        "is_translated": false
+      },
+      {
+        "title": "【『ドラゴンクエストRPG　魔界樹と導かれし島』正式発表。堀井雄二氏が“あえてRPGと付けた”、...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『ドラゴンクエストRPG　魔界樹と導かれし島』正式発表。堀井雄二氏が“あえてRPGと付けた”、...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261110-478473/",
+        "date": "2026-11-10",
+        "is_translated": false
+      },
+      {
+        "title": "【Nintendo Switch 2向け2人協力プレイホラー『Beyond the Dark: ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【Nintendo Switch 2向け2人協力プレイホラー『Beyond the Dark: ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/beyondthedark-20261110-478481/",
+        "date": "2026-11-10",
+        "is_translated": false
+      },
+      {
+        "title": "【ケモノ過酷すぎ死にゲー『Casualties: Unknown』いきなり圧倒的な人気。骨折・出...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【ケモノ過酷すぎ死にゲー『Casualties: Unknown』いきなり圧倒的な人気。骨折・出...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261110-478434/",
+        "date": "2026-11-10",
+        "is_translated": false
+      },
+      {
+        "title": "【ブラッドボウル最新作「Warhammer Blood Bowl」のリリース時期が2027年初頭...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【ブラッドボウル最新作「Warhammer Blood Bowl」のリリース時期が2027年初頭...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172717.html",
+        "date": "2026-11-10",
+        "is_translated": false
+      },
+      {
+        "title": "【『Apex Legends』×『ゴジラ』コラボ先行プレイレポ: 強ポジごと熱線で焼き払われる「...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【『Apex Legends』×『ゴジラ』コラボ先行プレイレポ: 強ポジごと熱線で焼き払われる「...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/11/10/190696.html",
+        "date": "2026-11-10",
+        "is_translated": false
+      },
+      {
+        "title": "【Alienware AW3226Q OLED gaming monitor review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Alienware AW3226Q OLED gaming monitor review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw3226q-review/",
+        "date": "2026-11-10",
+        "is_translated": true
+      },
+      {
+        "title": "【Steam's new Steam Deck framerate graphs are goo...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Steam's new Steam Deck framerate graphs are goo...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet",
+        "date": "2026-11-10",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-10T05:58:18.506955"
+  "last_updated": "2026-11-10T16:47:22.219327"
 }
