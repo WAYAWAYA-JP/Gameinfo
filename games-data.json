@@ -170,6 +170,54 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/wicked-stardust-bundle",
         "date": "2026-11-09"
+      },
+      {
+        "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Humble 15th Anniversary - Sci-Fi Exposure BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/15thanniversaryscifiexposure_bundle",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Tactical Mindset Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Tactical Mindset BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/tacticalmindsetbundle_bundle",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Flat2VR Bundle",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Flat2VR BundleのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/flat2vrbundle_bundle",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Hentai Balloons 2",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Hentai Balloons 2のバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/hentai-balloons2",
+        "date": "2026-11-10"
       }
     ],
     "sale": [
@@ -815,5 +863,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-10T03:10:52.293281"
+  "last_updated": "2026-11-10T05:58:18.506955"
 }
