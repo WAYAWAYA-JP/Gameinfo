@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-elder-scrolls-v-skyrim-special-edition/info/",
         "date": "2026-11-11"
+      },
+      {
+        "title": "EVERSPACE™ 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "EVERSPACE™ 2がVariousで-83%セール中です。",
+        "price": "$8.59",
+        "originalPrice": "",
+        "discount": "-83%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/everspace-2/info/",
+        "date": "2026-11-11"
       }
     ],
     "review": [
@@ -1063,8 +1075,21 @@
         "url": "https://www.pcgamer.com/hardware/gaming-keyboards/glorious-gmmk-eternal-review/",
         "date": "2026-11-11",
         "is_translated": true
+      },
+      {
+        "title": "【Antec C6 Curve Air review】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Antec C6 Curve Air review】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/hardware/pc-cases/antec-c6-curve-air-review/",
+        "date": "2026-11-11",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-11T16:53:10.279519"
+  "last_updated": "2026-11-11T19:27:14.141228"
 }
