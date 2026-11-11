@@ -222,42 +222,6 @@
     ],
     "sale": [
       {
-        "title": "Maze-The Amazing Labyrinth",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Maze-The Amazing LabyrinthがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/maze-the-amazing-labyrinth/info/",
-        "date": "2026-11-04"
-      },
-      {
-        "title": "Age of Wonders 4",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Age of Wonders 4がVariousで-64%セール中です。",
-        "price": "$18.00",
-        "originalPrice": "",
-        "discount": "-64%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/age-of-wonders-4/info/",
-        "date": "2026-11-04"
-      },
-      {
-        "title": "EVERSPACE™ 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "EVERSPACE™ 2がVariousで-82%セール中です。",
-        "price": "$8.87",
-        "originalPrice": "",
-        "discount": "-82%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/everspace-2/info/",
-        "date": "2026-11-04"
-      },
-      {
         "title": "空の軌跡 the 1st",
         "platform": "Steam",
         "type": "sale",
@@ -532,100 +496,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/hunting-simulator-3-classic-american-hunter-pack/info/",
         "date": "2026-11-10"
+      },
+      {
+        "title": "Darkest Dungeon® II",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Darkest Dungeon® IIがVariousで-78%セール中です。",
+        "price": "$8.94",
+        "originalPrice": "",
+        "discount": "-78%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/darkest-dungeon-ii/info/",
+        "date": "2026-11-11"
       }
     ],
     "review": [
-      {
-        "title": "【XCOM系西部劇ターンベースストラテジー続編「Hard West 2」のコンソール版ローンチが...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【XCOM系西部劇ターンベースストラテジー続編「Hard West 2」のコンソール版ローンチが...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172604.html",
-        "date": "2026-11-06",
-        "is_translated": false
-      },
-      {
-        "title": "【閉鎖したBioWareの共同創設者、『Mass Effect』を“救う”には320億円以上必要...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【閉鎖したBioWareの共同創設者、『Mass Effect』を“救う”には320億円以上必要...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261106-477869/",
-        "date": "2026-11-06",
-        "is_translated": false
-      },
-      {
-        "title": "【EAを買収したサウジ系ファンドなどの、次なる狙いはゲームエンジン「Unity」か。評価額約4兆...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【EAを買収したサウジ系ファンドなどの、次なる狙いはゲームエンジン「Unity」か。評価額約4兆...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261106-477853/",
-        "date": "2026-11-06",
-        "is_translated": false
-      },
-      {
-        "title": "【「007 First Light」の導入ミッションがプレイできる“無料スターターパック”がリリース】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「007 First Light」の導入ミッションがプレイできる“無料スターターパック”がリリース】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172618.html",
-        "date": "2026-11-06",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料・地形破壊STG『カオス★スマッシュ』に北海道から“歩くホッキ貝寿司”参戦。攻め...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料・地形破壊STG『カオス★スマッシュ』に北海道から“歩くホッキ貝寿司”参戦。攻め...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261106-477891/",
-        "date": "2026-11-06",
-        "is_translated": false
-      },
-      {
-        "title": "【「Warhammer 40,000: Dawn of War IV」の“ラストスタンド”モード...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Warhammer 40,000: Dawn of War IV」の“ラストスタンド”モード...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172612.html",
-        "date": "2026-11-06",
-        "is_translated": false
-      },
-      {
-        "title": "【Epomaker HE75 V2 TMR review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Epomaker HE75 V2 TMR review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/",
-        "date": "2026-11-06",
-        "is_translated": true
-      },
       {
         "title": "【最大8人対戦・武装スキーレースバトル『Snow Panic』発表、2027年初頭配信へ。銃撃、...：レビュー】",
         "platform": "AUTOMATON",
@@ -989,8 +874,21 @@
         "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-predator-atlas-8-g3-extreme-review/",
         "date": "2026-11-10",
         "is_translated": true
+      },
+      {
+        "title": "【“ナイトクローラー”の参戦を告げる「Marvel Rivals」シーズン11のゲームプレイトレ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“ナイトクローラー”の参戦を告げる「Marvel Rivals」シーズン11のゲームプレイトレ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172738.html",
+        "date": "2026-11-11",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-10T19:31:45.635617"
+  "last_updated": "2026-11-11T01:01:02.859626"
 }
