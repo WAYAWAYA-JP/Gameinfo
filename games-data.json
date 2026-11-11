@@ -508,6 +508,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/darkest-dungeon-ii/info/",
         "date": "2026-11-11"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Cyberpunk 2077がVariousで-70%セール中です。",
+        "price": "$17.99",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
+        "date": "2026-11-11"
       }
     ],
     "review": [
@@ -887,8 +899,60 @@
         "url": "https://doope.jp/2026/11172738.html",
         "date": "2026-11-11",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料『NTE』新キャラ「イェルム（CV雨宮天さん）」はサポートなのに、誰よりも派手に...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料『NTE』新キャラ「イェルム（CV雨宮天さん）」はサポートなのに、誰よりも派手に...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/special-column/20261111-478535/",
+        "date": "2026-11-11",
+        "is_translated": false
+      },
+      {
+        "title": "【人気タワーディフェンスRTS「Diplomacy is Not an Option」に新キャン...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【人気タワーディフェンスRTS「Diplomacy is Not an Option」に新キャン...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172712.html",
+        "date": "2026-11-11",
+        "is_translated": false
+      },
+      {
+        "title": "【Embark Studiosのヒット作「ARC Raiders」の世界的な累計販売が1,700...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Embark Studiosのヒット作「ARC Raiders」の世界的な累計販売が1,700...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172747.html",
+        "date": "2026-11-11",
+        "is_translated": false
+      },
+      {
+        "title": "【新型シェルやPvPデスマッチを導入する「Marathon」“共生”アップデートのゲームプレイト...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【新型シェルやPvPデスマッチを導入する「Marathon」“共生”アップデートのゲームプレイト...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172715.html",
+        "date": "2026-11-11",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-11T01:01:02.859626"
+  "last_updated": "2026-11-11T04:44:42.444102"
 }
