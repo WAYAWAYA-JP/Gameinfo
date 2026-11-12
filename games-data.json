@@ -1,80 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Sorry We're Closed",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『Sorry We're Closed』は、豊かな設定、奥深いキャラクター描写、そして複数のエンディングを備えた、ノスタルジックなシングルプレイ用サバイバルホラーゲームです。固定カメラアングルによる不気味な場所の探索に加え、第三の目を開いて世界の狭間を見つめ、秘密を暴き、謎を解き明かしましょう。",
-        "price": "無料",
-        "originalPrice": "¥24",
-        "discount": "100% OFF",
-        "deadline": "2026年11月05日まで",
-        "url": "https://store.epicgames.com/ja/p/f2dae10b3c45425ba1e91b4604262283",
-        "date": "2026-11-05"
-      },
-      {
-        "title": "Idle Champions of the Forgotten Realms",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Idle Champions of the Forgotten RealmsがEpic Gamesで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年11月12日まで",
-        "url": "https://store.epicgames.com/ja/p/idle-champions-of-the-forgotten-realms",
-        "date": "2026-11-05"
-      },
-      {
-        "title": "Flotsam 漂流ガラクタウン",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Flotsam 漂流ガラクタウンがEpic Gamesで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "¥25",
-        "discount": "100% OFF",
-        "deadline": "2026年11月12日まで",
-        "url": "https://store.epicgames.com/ja/p/7ca01ab906ad4eff92d4ed1efa5fbfcb",
-        "date": "2026-11-05"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Puzzlers to Puzzle You",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Puzzlers to Puzzle YouのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/puzzlerstopuzzleyou_bundle",
-        "date": "2026-11-02"
-      },
-      {
-        "title": "Phunkier Physics",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Phunkier PhysicsのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/phunkierphysics_bundle",
-        "date": "2026-11-02"
-      },
-      {
-        "title": "Crimes and Curiosity Bundle by S2 Games",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Crimes and Curiosity Bundle by S2 GamesのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/crimesandcuriositybundles2games_bundle",
-        "date": "2026-11-02"
-      },
       {
         "title": "Pixel Traditions 5 Bundle",
         "platform": "IndieGala",
@@ -269,66 +196,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "空の軌跡 the 1st",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "空の軌跡 the 1stがSteamで50% OFFセール中です。",
-        "price": "¥4,400",
-        "originalPrice": "¥8,800",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3375780",
-        "date": "2026-11-05"
-      },
-      {
-        "title": "Disco Elysium - The Final Cut",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Disco Elysium - The Final CutがVariousで-80%セール中です。",
-        "price": "$7.89",
-        "originalPrice": "",
-        "discount": "-80%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/disco-elysium-the-final-cut/info/",
-        "date": "2026-11-05"
-      },
-      {
-        "title": "Detroit: Become Human",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Detroit: Become HumanがVariousで-81%セール中です。",
-        "price": "$7.52",
-        "originalPrice": "",
-        "discount": "-81%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
-        "date": "2026-11-05"
-      },
-      {
-        "title": "Stellar Blade",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Stellar BladeがVariousで-40%セール中です。",
-        "price": "$35.99",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/stellar-blade/info/",
-        "date": "2026-11-05"
-      },
-      {
-        "title": "Absolum",
-        "platform": "Various",
-        "type": "sale",
-        "description": "AbsolumがVariousで-44%セール中です。",
-        "price": "$13.95",
-        "originalPrice": "",
-        "discount": "-44%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/absolum/info/",
-        "date": "2026-11-05"
-      },
       {
         "title": "PRAGMATA",
         "platform": "Various",
@@ -592,74 +459,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/everspace-2/info/",
         "date": "2026-11-11"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "No Man's SkyがVariousで-69%セール中です。",
+        "price": "$18.79",
+        "originalPrice": "",
+        "discount": "-69%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-11-12"
       }
     ],
     "review": [
-      {
-        "title": "【最大8人対戦・武装スキーレースバトル『Snow Panic』発表、2027年初頭配信へ。銃撃、...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【最大8人対戦・武装スキーレースバトル『Snow Panic』発表、2027年初頭配信へ。銃撃、...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/snow-panic-20261107-477963/",
-        "date": "2026-11-07",
-        "is_translated": false
-      },
-      {
-        "title": "【新作『Football Manager 27』を100時間先行プレイして“前作で批判の多かった...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【新作『Football Manager 27』を100時間先行プレイして“前作で批判の多かった...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20261107-477962/",
-        "date": "2026-11-07",
-        "is_translated": false
-      },
-      {
-        "title": "【コスプレ】コンビニも信号機もない長野の秘境で撮影してきた！人口940人の天龍村が初コスプレイベントに選んだ絶景がすごい【写真20枚】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【コスプレ】コンビニも信号機もない長野の秘境で撮影してきた！人口940人の天龍村が初コスプレイベントに選んだ絶景がすごい【写真20枚】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/11/07/190506.html",
-        "date": "2026-11-07",
-        "is_translated": false
-      },
-      {
-        "title": "【リメイク版『ゼルダの伝説 時のオカリナ』だけじゃない！ スイッチ2なら“20本超え”のシリーズ...：レビュー】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【リメイク版『ゼルダの伝説 時のオカリナ』だけじゃない！ スイッチ2なら“20本超え”のシリーズ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/11/07/190503.html",
-        "date": "2026-11-07",
-        "is_translated": false
-      },
-      {
-        "title": "【約24年越しに蘇った『ゴジラ 怪獣大乱闘』リマスター版、Steamで「圧倒的に好評」の大人気。...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【約24年越しに蘇った『ゴジラ 怪獣大乱闘』リマスター版、Steamで「圧倒的に好評」の大人気。...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261107-478035/",
-        "date": "2026-11-07",
-        "is_translated": false
-      },
       {
         "title": "【基本プレイ無料『NTE』新バージョンに「戦車」が来る。乗り物の“治安悪すぎる遊び方”を試しまくった】",
         "platform": "AUTOMATON",
@@ -1088,8 +902,47 @@
         "url": "https://www.pcgamer.com/hardware/pc-cases/antec-c6-curve-air-review/",
         "date": "2026-11-11",
         "is_translated": true
+      },
+      {
+        "title": "【「Grand Theft Auto VI」のものと思われる一人称視点のマーケティング映像が登場...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Grand Theft Auto VI」のものと思われる一人称視点のマーケティング映像が登場...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172727.html",
+        "date": "2026-11-12",
+        "is_translated": false
+      },
+      {
+        "title": "【After cracking down on 'cheat' mods in Helldive...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【After cracking down on 'cheat' mods in Helldive...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/after-cracking-down-on-cheat-mods-in-helldivers-2-and-taking-another-steam-review-beating-arrowhead-plans-hotfix-that-should-allow-harmless-cosmetics/",
+        "date": "2026-11-11",
+        "is_translated": true
+      },
+      {
+        "title": "【Queen’s Domain Review: The Perfect Skyrim Repla...】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【Queen’s Domain Review: The Perfect Skyrim Repla...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/queens-domain-review/",
+        "date": "2026-11-12",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-11T19:27:14.141228"
+  "last_updated": "2026-11-12T02:07:43.932088"
 }
