@@ -1,6 +1,31 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Idle Champions of the Forgotten Realms",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Idle Champions of the Forgotten RealmsがEpic Gamesで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年11月12日まで",
+        "url": "https://store.epicgames.com/ja/p/idle-champions-of-the-forgotten-realms",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Flotsam 漂流ガラクタウン",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Flotsam 漂流ガラクタウンがEpic Gamesで無料配布中です。",
+        "price": "無料",
+        "originalPrice": "¥25",
+        "discount": "100% OFF",
+        "deadline": "2026年11月12日まで",
+        "url": "https://store.epicgames.com/ja/p/7ca01ab906ad4eff92d4ed1efa5fbfcb",
+        "date": "2026-11-12"
+      }
+    ],
     "bundle": [
       {
         "title": "Pixel Traditions 5 Bundle",
@@ -470,6 +495,30 @@
         "discount": "-69%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "空の軌跡 the 1st",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "空の軌跡 the 1stがSteamで50% OFFセール中です。",
+        "price": "¥4,400",
+        "originalPrice": "¥8,800",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3375780",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "The Alters",
+        "platform": "Various",
+        "type": "sale",
+        "description": "The AltersがVariousで-65%セール中です。",
+        "price": "$12.20",
+        "originalPrice": "",
+        "discount": "-65%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/the-alters/info/",
         "date": "2026-11-12"
       }
     ],
@@ -941,8 +990,21 @@
         "url": "https://www.polygon.com/queens-domain-review/",
         "date": "2026-11-12",
         "is_translated": true
+      },
+      {
+        "title": "【“エクスパンス”ビデオゲーム「The Expanse: Osiris Reborn」の新ミッシ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“エクスパンス”ビデオゲーム「The Expanse: Osiris Reborn」の新ミッシ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172779.html",
+        "date": "2026-11-12",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-12T02:07:43.932088"
+  "last_updated": "2026-11-12T05:47:24.009473"
 }
