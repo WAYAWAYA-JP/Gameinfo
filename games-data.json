@@ -24,6 +24,18 @@
         "deadline": "2026年11月12日まで",
         "url": "https://store.epicgames.com/ja/p/7ca01ab906ad4eff92d4ed1efa5fbfcb",
         "date": "2026-11-12"
+      },
+      {
+        "title": "Knightica",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "強力なユニットを戦略的に配置して、シナジーを得るローグライク・オートバトラー。\n目的は戦隊を率いて数々の敵に挑み、王国を解放すること。\n部隊の最適な組み合わせを見つけ、強力な魔法を編み出し、危険なモンスターと対決して、自軍を勝利に導こう！",
+        "price": "無料",
+        "originalPrice": "¥14",
+        "discount": "100% OFF",
+        "deadline": "2026年11月19日まで",
+        "url": "https://store.epicgames.com/ja/p/72b46f5d95624fd5b7e7d81b7dcaead1",
+        "date": "2026-11-12"
       }
     ],
     "bundle": [
@@ -520,6 +532,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-alters/info/",
         "date": "2026-11-12"
+      },
+      {
+        "title": "Risk of Rain 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Risk of Rain 2がVariousで-68%セール中です。",
+        "price": "$7.90",
+        "originalPrice": "",
+        "discount": "-68%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/risk-of-rain-2/info/",
+        "date": "2026-11-12"
       }
     ],
     "review": [
@@ -1003,8 +1027,47 @@
         "url": "https://doope.jp/2026/11172779.html",
         "date": "2026-11-12",
         "is_translated": false
+      },
+      {
+        "title": "【高評価サバイバー×バッグ整理ローグライト『デッドリーデイズ：ロードトリップ』は、ゾンビの大群よ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【高評価サバイバー×バッグ整理ローグライト『デッドリーデイズ：ロードトリップ』は、ゾンビの大群よ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/deadly-days-roadtrip-20261112-478630/",
+        "date": "2026-11-12",
+        "is_translated": false
+      },
+      {
+        "title": "【最大6人対戦“視界ゼロ”ホラーFPS『BLIND x FOLD』発表。環境音や足音を頼りにする...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【最大6人対戦“視界ゼロ”ホラーFPS『BLIND x FOLD』発表。環境音や足音を頼りにする...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261112-478916/",
+        "date": "2026-11-12",
+        "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料“地形ぶっ壊し”STG『カオス★スマッシュ』いきなり公式が暴走、怪しいゆるキャラ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料“地形ぶっ壊し”STG『カオス★スマッシュ』いきなり公式が暴走、怪しいゆるキャラ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261112-478885/",
+        "date": "2026-11-12",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-12T05:47:24.009473"
+  "last_updated": "2026-11-12T17:21:07.834518"
 }
