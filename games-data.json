@@ -544,6 +544,18 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/2062430",
         "date": "2026-11-13"
+      },
+      {
+        "title": "Flotsam",
+        "platform": "Various",
+        "type": "sale",
+        "description": "FlotsamがVariousでセール中です。",
+        "price": "$24.98",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/flotsam/info/",
+        "date": "2026-11-13"
       }
     ],
     "review": [
@@ -1079,8 +1091,34 @@
         "url": "https://doope.jp/2026/11172806.html",
         "date": "2026-11-13",
         "is_translated": false
+      },
+      {
+        "title": "【マダガスカル人が作ったゲーム『Kalanoro（カラノロ）』で“知らない南国”大量摂取、純度1...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【マダガスカル人が作ったゲーム『Kalanoro（カラノロ）』で“知らない南国”大量摂取、純度1...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/kalanoro-20261113-479060/",
+        "date": "2026-11-13",
+        "is_translated": false
+      },
+      {
+        "title": "【「ガルパン」新作ゲーム『ガールズ＆パンツァー オールスター・タンク・カーニバル』来年3月25日...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【「ガルパン」新作ゲーム『ガールズ＆パンツァー オールスター・タンク・カーニバル』来年3月25日...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261113-479064/",
+        "date": "2026-11-13",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-13T01:41:55.636526"
+  "last_updated": "2026-11-13T05:06:17.400408"
 }
