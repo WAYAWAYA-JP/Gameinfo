@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/1111-singles-day-celebration-chinese-gaming",
         "date": "2026-11-11"
+      },
+      {
+        "title": "HHHentai Balloons 2",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "HHHentai Balloons 2のバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/hentai-balloons2",
+        "date": "2026-11-13"
       }
     ],
     "sale": [
@@ -1117,8 +1129,73 @@
         "url": "https://automaton-media.com/articles/newsjp/20261113-479064/",
         "date": "2026-11-13",
         "is_translated": false
+      },
+      {
+        "title": "【『マインクラフト』には15年以上続く“ピストンドア研究学会”があるし、まだ技術革新している。も...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『マインクラフト』には15年以上続く“ピストンドア研究学会”があるし、まだ技術革新している。も...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261113-479203/",
+        "date": "2026-11-13",
+        "is_translated": false
+      },
+      {
+        "title": "【高評価・無料ミステリーゲーム『The Red Pearls Of Borneo』アプデで日本語...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【高評価・無料ミステリーゲーム『The Red Pearls Of Borneo』アプデで日本語...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261113-479184/",
+        "date": "2026-11-13",
+        "is_translated": false
+      },
+      {
+        "title": "【自由度高めスキー場建設シム『ゲレンデ社長！伝説のスキーリゾート経営』初日から高評価続々。「リア...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【自由度高めスキー場建設シム『ゲレンデ社長！伝説のスキーリゾート経営』初日から高評価続々。「リア...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261113-479144/",
+        "date": "2026-11-13",
+        "is_translated": false
+      },
+      {
+        "title": "【「Warhammer 40,000: Dawn of War IV」の最小・推奨動作要件がアナ...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Warhammer 40,000: Dawn of War IV」の最小・推奨動作要件がアナ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172833.html",
+        "date": "2026-11-13",
+        "is_translated": false
+      },
+      {
+        "title": "【Reddit tells me it’s not going to make a penny ...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Reddit tells me it’s not going to make a penny ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/software/reddit-tells-me-its-not-going-to-make-a-penny-in-affiliates-from-reddit-reviews-and-is-working-hard-to-avoid-inauthentic-content/",
+        "date": "2026-11-13",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-13T05:06:17.400408"
+  "last_updated": "2026-11-13T16:57:05.010375"
 }
