@@ -234,18 +234,6 @@
     ],
     "sale": [
       {
-        "title": "PRAGMATA",
-        "platform": "Various",
-        "type": "sale",
-        "description": "PRAGMATAがVariousで-31%セール中です。",
-        "price": "$41.39",
-        "originalPrice": "",
-        "discount": "-31%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/pragmata/info/",
-        "date": "2026-11-06"
-      },
-      {
         "title": "Phantom Blade Zero",
         "platform": "Various",
         "type": "sale",
@@ -544,48 +532,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/risk-of-rain-2/info/",
         "date": "2026-11-12"
+      },
+      {
+        "title": "BALL x PIT",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "BALL x PITがSteamで50% OFFセール中です。",
+        "price": "¥850",
+        "originalPrice": "¥1,700",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2062430",
+        "date": "2026-11-13"
       }
     ],
     "review": [
-      {
-        "title": "【基本プレイ無料『NTE』新バージョンに「戦車」が来る。乗り物の“治安悪すぎる遊び方”を試しまくった】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料『NTE』新バージョンに「戦車」が来る。乗り物の“治安悪すぎる遊び方”を試しまくった】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20261108-478084/",
-        "date": "2026-11-08",
-        "is_translated": false
-      },
-      {
-        "title": "【インタビュー】コスプレを楽しむなら台湾へ！撮って、語って、ともにつくる—コスプレイヤーを“主役”に据えた新イベント「CCF」が面白い【写真11枚】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【インタビュー】コスプレを楽しむなら台湾へ！撮って、語って、ともにつくる—コスプレイヤーを“主役”に据えた新イベント「CCF」が面白い【写真11枚】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/11/08/190549.html",
-        "date": "2026-11-08",
-        "is_translated": false
-      },
-      {
-        "title": "【『ゼルダの伝説 時のオカリナ』リメイク版のグラフィックは想像以上にハマってる。『ホグワーツ・レ...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ゼルダの伝説 時のオカリナ』リメイク版のグラフィックは想像以上にハマってる。『ホグワーツ・レ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20261108-478148/",
-        "date": "2026-11-08",
-        "is_translated": false
-      },
       {
         "title": "【アイ・オブ・ザ・ビホルダーやダンマスにオマージュを捧げるダンジョンクロウラー「Underkee...：レビュー】",
         "platform": "doope!",
@@ -1079,8 +1040,47 @@
         "url": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
         "date": "2026-11-12",
         "is_translated": true
+      },
+      {
+        "title": "【XBOXの「広告を見れば無料で遊べる」クラウドゲーミングサービス、正式発表。3分間広告を見れば...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【XBOXの「広告を見れば無料で遊べる」クラウドゲーミングサービス、正式発表。3分間広告を見れば...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261113-479008/",
+        "date": "2026-11-12",
+        "is_translated": false
+      },
+      {
+        "title": "【英Playgroundが開発を手がける新生「Fable」のクエストゲームプレイ映像がお披露目、...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【英Playgroundが開発を手がける新生「Fable」のクエストゲームプレイ映像がお披露目、...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172819.html",
+        "date": "2026-11-13",
+        "is_translated": false
+      },
+      {
+        "title": "【弓で戦う音楽家“フール”が参戦する「Slay the Spire 2」のベータアップデートが配...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【弓で戦う音楽家“フール”が参戦する「Slay the Spire 2」のベータアップデートが配...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172806.html",
+        "date": "2026-11-13",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-12T19:45:01.938692"
+  "last_updated": "2026-11-13T01:41:55.636526"
 }
