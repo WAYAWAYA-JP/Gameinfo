@@ -230,6 +230,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/pixel-traditions5-bundle",
         "date": "2026-11-14"
+      },
+      {
+        "title": "Pay What You WantGet Roboquest VR, I AM YOUR BEAST VR, VRace",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Pay What You WantGet Roboquest VR, I AM YOUR BEAST VR, VRaceのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/flat2vr-bundle",
+        "date": "2026-11-14"
       }
     ],
     "sale": [
@@ -531,6 +543,18 @@
         "discount": "-75%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "餓狼伝説 City of the Wolves",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "餓狼伝説 City of the WolvesがSteamで75% OFFセール中です。",
+        "price": "¥745",
+        "originalPrice": "¥2,980",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2492040",
         "date": "2026-11-14"
       }
     ],
@@ -1080,8 +1104,21 @@
         "url": "https://doope.jp/2026/11172850.html",
         "date": "2026-11-14",
         "is_translated": false
+      },
+      {
+        "title": "【This 3D Pet SIM You Never Played Has Over 12,00...：レビュー】",
+        "platform": "Polygon",
+        "type": "review",
+        "description": "【This 3D Pet SIM You Never Played Has Over 12,00...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.polygon.com/wobbledogs-3d-pet-sim-steam-overwhelmingly-positive/",
+        "date": "2026-11-14",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-14T04:57:31.976943"
+  "last_updated": "2026-11-14T15:33:31.866359"
 }
