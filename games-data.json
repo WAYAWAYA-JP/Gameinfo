@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Pixel Traditions 5 Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Pixel Traditions 5 BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/pixel-traditions5-bundle",
-        "date": "2026-11-04"
-      },
-      {
-        "title": "Resident Evil: Biohazard Unleashed",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Resident Evil: Biohazard UnleashedのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/residentevilbiohazardunleashed2026_bundle",
-        "date": "2026-11-04"
-      },
-      {
         "title": "Hamble's Fright or Fight Halloween Bundle",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,42 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Phantom Blade Zero",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Phantom Blade ZeroがVariousで-12%セール中です。",
-        "price": "$52.99",
-        "originalPrice": "",
-        "discount": "-12%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/phantom-blade-zero/info/",
-        "date": "2026-11-07"
-      },
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33がVariousで-30%セール中です。",
-        "price": "$34.99",
-        "originalPrice": "",
-        "discount": "-30%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-11-07"
-      },
-      {
-        "title": "餓狼伝説 City of the Wolves",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "餓狼伝説 City of the WolvesがSteamで75% OFFセール中です。",
-        "price": "¥745",
-        "originalPrice": "¥2,980",
-        "discount": "75% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2492040",
-        "date": "2026-11-07"
-      },
       {
         "title": "FINAL FANTASY VII REBIRTH",
         "platform": "Various",
@@ -568,126 +508,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/flotsam/info/",
         "date": "2026-11-13"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Red Dead Redemption 2がVariousで-75%セール中です。",
+        "price": "$14.96",
+        "originalPrice": "",
+        "discount": "-75%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/red-dead-redemption-2/info/",
+        "date": "2026-11-14"
       }
     ],
     "review": [
-      {
-        "title": "【アイ・オブ・ザ・ビホルダーやダンマスにオマージュを捧げるダンジョンクロウラー「Underkee...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【アイ・オブ・ザ・ビホルダーやダンマスにオマージュを捧げるダンジョンクロウラー「Underkee...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172653.html",
-        "date": "2026-11-09",
-        "is_translated": false
-      },
-      {
-        "title": "【『バトルフィールド6』で突然“何もしてないのに誤BANされた”プレイヤー、EAを訴えて勝訴。ア...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『バトルフィールド6』で突然“何もしてないのに誤BANされた”プレイヤー、EAを訴えて勝訴。ア...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261109-478212/",
-        "date": "2026-11-09",
-        "is_translated": false
-      },
-      {
-        "title": "【「STAR WARS Zero Company」の成功により一時解雇中の従業員復帰を進めていた...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「STAR WARS Zero Company」の成功により一時解雇中の従業員復帰を進めていた...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172656.html",
-        "date": "2026-11-09",
-        "is_translated": false
-      },
-      {
-        "title": "【“N7 Day”の到来を祝う「Mass Effect Universe」の新スコアや“Lege...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“N7 Day”の到来を祝う「Mass Effect Universe」の新スコアや“Lege...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172650.html",
-        "date": "2026-11-09",
-        "is_translated": false
-      },
-      {
-        "title": "【『スカイリム』を「まるごとMMORPG化」する野心的Modが出現。冒険して、組織を作って働いて...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『スカイリム』を「まるごとMMORPG化」する野心的Modが出現。冒険して、組織を作って働いて...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261109-478278/",
-        "date": "2026-11-09",
-        "is_translated": false
-      },
-      {
-        "title": "【イケメン元カレ100人がどんどん死ぬ、“乙女復讐”ゲーム『元カレ×デスゲーム』発表。生かすも殺...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【イケメン元カレ100人がどんどん死ぬ、“乙女復讐”ゲーム『元カレ×デスゲーム』発表。生かすも殺...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261109-478237/",
-        "date": "2026-11-09",
-        "is_translated": false
-      },
-      {
-        "title": "【“Tarkov”系SFタクティカルシューター「Fragmentary Order」の公式FAQ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“Tarkov”系SFタクティカルシューター「Fragmentary Order」の公式FAQ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172654.html",
-        "date": "2026-11-09",
-        "is_translated": false
-      },
-      {
-        "title": "【『GTA6』が待ち遠しいのはプレイヤーのみならず！アメリカの警察公式X「早く出てほしい。お前ら...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【『GTA6』が待ち遠しいのはプレイヤーのみならず！アメリカの警察公式X「早く出てほしい。お前ら...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/11/09/190622.html",
-        "date": "2026-11-09",
-        "is_translated": false
-      },
-      {
-        "title": "【Zelda: Ocarina of Time’s Best Replacement Has 1...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【Zelda: Ocarina of Time’s Best Replacement Has 1...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/deaths-door-five-year-anniversary-retrospective/",
-        "date": "2026-11-09",
-        "is_translated": true
-      },
       {
         "title": "【「手札が動き回る」デッキ構築ローグライク『鳥斗突破！バード・アリーナ』公開プレイテストを開始。...】",
         "platform": "AUTOMATON",
@@ -1207,8 +1042,21 @@
         "url": "https://www.pcgamer.com/hardware/controllers/8bitdo-ultimate-3e-review/",
         "date": "2026-11-13",
         "is_translated": true
+      },
+      {
+        "title": "【“スター・ウォーズ”レースゲーム「Star Wars: Galactic Racer」のプレイ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“スター・ウォーズ”レースゲーム「Star Wars: Galactic Racer」のプレイ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172867.html",
+        "date": "2026-11-14",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-13T19:27:26.080790"
+  "last_updated": "2026-11-14T01:17:53.369881"
 }
