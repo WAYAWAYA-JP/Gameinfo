@@ -206,6 +206,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/flat2vr-bundle",
         "date": "2026-11-14"
+      },
+      {
+        "title": "Power Halt Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Power Halt BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/power-halt-bundle",
+        "date": "2026-11-15"
       }
     ],
     "sale": [
@@ -483,6 +495,18 @@
         "discount": "-83%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "Persona 3 Reload",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Persona 3 ReloadがVariousで-68%セール中です。",
+        "price": "$19.49",
+        "originalPrice": "",
+        "discount": "-68%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/persona-3-reload/info/",
         "date": "2026-11-15"
       }
     ],
@@ -915,8 +939,21 @@
         "url": "https://automaton-media.com/articles/newsjp/league-of-legends-20261115-479316/",
         "date": "2026-11-14",
         "is_translated": false
+      },
+      {
+        "title": "【20年越しに“幻のポケモン釣りゲーム”が見つかるも、その「保存方法」で大議論巻き起こる。プレイ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【20年越しに“幻のポケモン釣りゲーム”が見つかるも、その「保存方法」で大議論巻き起こる。プレイ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261115-479333/",
+        "date": "2026-11-15",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-15T00:46:09.645739"
+  "last_updated": "2026-11-15T04:51:01.273966"
 }
