@@ -40,42 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Hamble's Fright or Fight Halloween Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Hamble's Fright or Fight Halloween BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/hamblesfrightorfighthalloweenbundle_bundle",
-        "date": "2026-11-05"
-      },
-      {
-        "title": "Serenity Forge Emotional Impact Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Serenity Forge Emotional Impact BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/serenityforgeemotionalimpactbundle_bundle",
-        "date": "2026-11-05"
-      },
-      {
-        "title": "Power Halt Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Power Halt BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/power-halt-bundle",
-        "date": "2026-11-05"
-      },
-      {
         "title": "Marmalade Game Studio: Ultimate Digital Game Night",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -245,54 +209,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "FINAL FANTASY VII REBIRTH",
-        "platform": "Various",
-        "type": "sale",
-        "description": "FINAL FANTASY VII REBIRTHがVariousで-85%セール中です。",
-        "price": "$7.49",
-        "originalPrice": "",
-        "discount": "-85%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/final-fantasy-vii-rebirth/info/",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Dune: Awakening",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Dune: AwakeningがVariousで-55%セール中です。",
-        "price": "$22.49",
-        "originalPrice": "",
-        "discount": "-55%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dune-awakening/info/",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "Dead Cells",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Dead CellsがVariousで-60%セール中です。",
-        "price": "$9.99",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dead-cells/info/",
-        "date": "2026-11-08"
-      },
-      {
-        "title": "ASTRONEER",
-        "platform": "Various",
-        "type": "sale",
-        "description": "ASTRONEERがVariousで-75%セール中です。",
-        "price": "$7.49",
-        "originalPrice": "",
-        "discount": "-75%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/astroneer/info/",
-        "date": "2026-11-08"
-      },
       {
         "title": "CONTROL Resonant",
         "platform": "Various",
@@ -556,152 +472,21 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/2492040",
         "date": "2026-11-14"
+      },
+      {
+        "title": "Detroit: Become Human",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Detroit: Become HumanがVariousで-83%セール中です。",
+        "price": "$6.99",
+        "originalPrice": "",
+        "discount": "-83%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
+        "date": "2026-11-15"
       }
     ],
     "review": [
-      {
-        "title": "【「手札が動き回る」デッキ構築ローグライク『鳥斗突破！バード・アリーナ』公開プレイテストを開始。...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【「手札が動き回る」デッキ構築ローグライク『鳥斗突破！バード・アリーナ』公開プレイテストを開始。...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261110-478358/",
-        "date": "2026-11-10",
-        "is_translated": false
-      },
-      {
-        "title": "【「Battlefield 6」“ヨーロピアン・カジノ”マップのゲームプレイトレーラーが公開、実...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Battlefield 6」“ヨーロピアン・カジノ”マップのゲームプレイトレーラーが公開、実...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172693.html",
-        "date": "2026-11-10",
-        "is_translated": false
-      },
-      {
-        "title": "【AI機能フル投入の「Unreal Engine 5.9」プレビュー版が配信開始。「UE6」を前...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【AI機能フル投入の「Unreal Engine 5.9」プレビュー版が配信開始。「UE6」を前...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261110-478512/",
-        "date": "2026-11-10",
-        "is_translated": false
-      },
-      {
-        "title": "【『ドラゴンクエストRPG　魔界樹と導かれし島』正式発表。堀井雄二氏が“あえてRPGと付けた”、...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『ドラゴンクエストRPG　魔界樹と導かれし島』正式発表。堀井雄二氏が“あえてRPGと付けた”、...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261110-478473/",
-        "date": "2026-11-10",
-        "is_translated": false
-      },
-      {
-        "title": "【Nintendo Switch 2向け2人協力プレイホラー『Beyond the Dark: ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【Nintendo Switch 2向け2人協力プレイホラー『Beyond the Dark: ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/beyondthedark-20261110-478481/",
-        "date": "2026-11-10",
-        "is_translated": false
-      },
-      {
-        "title": "【ケモノ過酷すぎ死にゲー『Casualties: Unknown』いきなり圧倒的な人気。骨折・出...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【ケモノ過酷すぎ死にゲー『Casualties: Unknown』いきなり圧倒的な人気。骨折・出...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261110-478434/",
-        "date": "2026-11-10",
-        "is_translated": false
-      },
-      {
-        "title": "【ブラッドボウル最新作「Warhammer Blood Bowl」のリリース時期が2027年初頭...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【ブラッドボウル最新作「Warhammer Blood Bowl」のリリース時期が2027年初頭...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172717.html",
-        "date": "2026-11-10",
-        "is_translated": false
-      },
-      {
-        "title": "【『Apex Legends』×『ゴジラ』コラボ先行プレイレポ: 強ポジごと熱線で焼き払われる「...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【『Apex Legends』×『ゴジラ』コラボ先行プレイレポ: 強ポジごと熱線で焼き払われる「...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/11/10/190696.html",
-        "date": "2026-11-10",
-        "is_translated": false
-      },
-      {
-        "title": "【Alienware AW3226Q OLED gaming monitor review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Alienware AW3226Q OLED gaming monitor review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw3226q-review/",
-        "date": "2026-11-10",
-        "is_translated": true
-      },
-      {
-        "title": "【Steam's new Steam Deck framerate graphs are goo...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Steam's new Steam Deck framerate graphs are goo...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet",
-        "date": "2026-11-10",
-        "is_translated": true
-      },
-      {
-        "title": "【Acer Predator Atlas 8 (G3 Extreme) review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Acer Predator Atlas 8 (G3 Extreme) review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-predator-atlas-8-g3-extreme-review/",
-        "date": "2026-11-10",
-        "is_translated": true
-      },
       {
         "title": "【“ナイトクローラー”の参戦を告げる「Marvel Rivals」シーズン11のゲームプレイトレ...】",
         "platform": "doope!",
@@ -1117,8 +902,21 @@
         "url": "https://www.polygon.com/wobbledogs-3d-pet-sim-steam-overwhelmingly-positive/",
         "date": "2026-11-14",
         "is_translated": true
+      },
+      {
+        "title": "【『League of Legends』大規模アップデートの内容チラ見せ。ビジュアル大刷新&ゲー...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『League of Legends』大規模アップデートの内容チラ見せ。ビジュアル大刷新&ゲー...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/league-of-legends-20261115-479316/",
+        "date": "2026-11-14",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-14T17:51:10.112795"
+  "last_updated": "2026-11-15T00:46:09.645739"
 }
