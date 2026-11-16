@@ -218,6 +218,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/power-halt-bundle",
         "date": "2026-11-15"
+      },
+      {
+        "title": "HHWicked Stardust Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "HHWicked Stardust BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/wicked-stardust-bundle",
+        "date": "2026-11-16"
       }
     ],
     "sale": [
@@ -423,6 +435,30 @@
         "discount": "-20%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/star-wars-galactic-racer/info/",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "CRIMSON DESERT",
+        "platform": "Various",
+        "type": "sale",
+        "description": "CRIMSON DESERTがVariousで-20%セール中です。",
+        "price": "$55.99",
+        "originalPrice": "",
+        "discount": "-20%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/crimson-desert/info/",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "StrayがVariousで-16%セール中です。",
+        "price": "$25.19",
+        "originalPrice": "",
+        "discount": "-16%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-11-16"
       }
     ],
@@ -777,8 +813,86 @@
         "url": "https://doope.jp/2026/11172845.html",
         "date": "2026-11-16",
         "is_translated": false
+      },
+      {
+        "title": "【オープンワールドアクション“JRPG”『エッジ オブ メモリーズ』Steamでデモ版復活。日本...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【オープンワールドアクション“JRPG”『エッジ オブ メモリーズ』Steamでデモ版復活。日本...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261116-479522/",
+        "date": "2026-11-16",
+        "is_translated": false
+      },
+      {
+        "title": "【イケメン悪魔調教ゲーム『Obey Me! Sinner’s Choice: Lucifer』い...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【イケメン悪魔調教ゲーム『Obey Me! Sinner’s Choice: Lucifer』い...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261116-479514/",
+        "date": "2026-11-16",
+        "is_translated": false
+      },
+      {
+        "title": "【『メイプルストーリー』の劇場版アニメは「主役になれない私たち」が世界を救う物語。ファンにも、フ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『メイプルストーリー』の劇場版アニメは「主役になれない私たち」が世界を救う物語。ファンにも、フ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/maplestory-animation-20261116-479454/",
+        "date": "2026-11-16",
+        "is_translated": false
+      },
+      {
+        "title": "【“戦わない”謎解きメトロイドヴァニア『MONOMOON』好評率98%でブームの予感。新たな『A...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【“戦わない”謎解きメトロイドヴァニア『MONOMOON』好評率98%でブームの予感。新たな『A...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261116-479460/",
+        "date": "2026-11-16",
+        "is_translated": false
+      },
+      {
+        "title": "【生死を賭けた地獄のパーティゲーム「Machine Party」のコンソール版発売日が11月26...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【生死を賭けた地獄のパーティゲーム「Machine Party」のコンソール版発売日が11月26...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172913.html",
+        "date": "2026-11-16",
+        "is_translated": false
+      },
+      {
+        "title": "【Ashes of the Singularity 2 review: Some neat id...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Ashes of the Singularity 2 review: Some neat id...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/rts/ashes-of-the-singularity-2-review/",
+        "date": "2026-11-16",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-16T04:47:16.909735"
+  "last_updated": "2026-11-16T19:16:26.856503"
 }
