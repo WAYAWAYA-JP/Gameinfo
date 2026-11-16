@@ -222,102 +222,6 @@
     ],
     "sale": [
       {
-        "title": "CONTROL Resonant",
-        "platform": "Various",
-        "type": "sale",
-        "description": "CONTROL ResonantがVariousで-28%セール中です。",
-        "price": "$42.95",
-        "originalPrice": "",
-        "discount": "-28%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/control-resonant/info/",
-        "date": "2026-11-09"
-      },
-      {
-        "title": "Good Morning Human",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Good Morning HumanがVariousでセール中です。",
-        "price": "$9.99",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/good-morning-human/info/",
-        "date": "2026-11-09"
-      },
-      {
-        "title": "Rust",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "RustがSteamで50% OFFセール中です。",
-        "price": "¥2,300",
-        "originalPrice": "¥4,600",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/252490",
-        "date": "2026-11-09"
-      },
-      {
-        "title": "Dark Souls Remastered",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Dark Souls RemasteredがVariousで-31%セール中です。",
-        "price": "$27.79",
-        "originalPrice": "",
-        "discount": "-31%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/dark-souls-remastered/info/",
-        "date": "2026-11-09"
-      },
-      {
-        "title": "Slime Rancher 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Slime Rancher 2がVariousで-40%セール中です。",
-        "price": "$17.99",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/slime-rancher-2/info/",
-        "date": "2026-11-09"
-      },
-      {
-        "title": "Resident Evil Village",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Resident Evil VillageがVariousで-17%セール中です。",
-        "price": "$33.14",
-        "originalPrice": "",
-        "discount": "-17%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/resident-evil-village/info/",
-        "date": "2026-11-09"
-      },
-      {
-        "title": "Borderlands 4",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Borderlands 4がVariousで-50%セール中です。",
-        "price": "$34.99",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/borderlands-4/info/",
-        "date": "2026-11-09"
-      },
-      {
-        "title": "Kingdom Come: Deliverance II",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Kingdom Come: Deliverance IIがVariousで-60%セール中です。",
-        "price": "$23.89",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
-        "date": "2026-11-09"
-      },
-      {
         "title": "Frostpunk 2",
         "platform": "Various",
         "type": "sale",
@@ -512,136 +416,6 @@
     ],
     "review": [
       {
-        "title": "【“ナイトクローラー”の参戦を告げる「Marvel Rivals」シーズン11のゲームプレイトレ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“ナイトクローラー”の参戦を告げる「Marvel Rivals」シーズン11のゲームプレイトレ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172738.html",
-        "date": "2026-11-11",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料『NTE』新キャラ「イェルム（CV雨宮天さん）」はサポートなのに、誰よりも派手に...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料『NTE』新キャラ「イェルム（CV雨宮天さん）」はサポートなのに、誰よりも派手に...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/special-column/20261111-478535/",
-        "date": "2026-11-11",
-        "is_translated": false
-      },
-      {
-        "title": "【人気タワーディフェンスRTS「Diplomacy is Not an Option」に新キャン...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【人気タワーディフェンスRTS「Diplomacy is Not an Option」に新キャン...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172712.html",
-        "date": "2026-11-11",
-        "is_translated": false
-      },
-      {
-        "title": "【Embark Studiosのヒット作「ARC Raiders」の世界的な累計販売が1,700...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【Embark Studiosのヒット作「ARC Raiders」の世界的な累計販売が1,700...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172747.html",
-        "date": "2026-11-11",
-        "is_translated": false
-      },
-      {
-        "title": "【新型シェルやPvPデスマッチを導入する「Marathon」“共生”アップデートのゲームプレイト...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【新型シェルやPvPデスマッチを導入する「Marathon」“共生”アップデートのゲームプレイト...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172715.html",
-        "date": "2026-11-11",
-        "is_translated": false
-      },
-      {
-        "title": "【『進撃の巨人３』先行プレイ感想。8年ぶりの新作はオープンワールドっぽさあり。広く生々しく恐ろし...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『進撃の巨人３』先行プレイ感想。8年ぶりの新作はオープンワールドっぽさあり。広く生々しく恐ろし...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/shingeki-20261111-478767/",
-        "date": "2026-11-11",
-        "is_translated": false
-      },
-      {
-        "title": "【No more need to slap 'reddit' on the end of you...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【No more need to slap 'reddit' on the end of you...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/no-more-need-to-slap-reddit-on-the-end-of-your-google-searches-as-reddit-reviews-is-here-to-amalgamate-everyones-thoughts/",
-        "date": "2026-11-11",
-        "is_translated": true
-      },
-      {
-        "title": "【Sudokoo SK700V review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Sudokoo SK700V review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/cooling/sudokoo-sk700v-review/",
-        "date": "2026-11-11",
-        "is_translated": true
-      },
-      {
-        "title": "【Glorious GMMK Eternal review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Glorious GMMK Eternal review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/glorious-gmmk-eternal-review/",
-        "date": "2026-11-11",
-        "is_translated": true
-      },
-      {
-        "title": "【Antec C6 Curve Air review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Antec C6 Curve Air review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/pc-cases/antec-c6-curve-air-review/",
-        "date": "2026-11-11",
-        "is_translated": true
-      },
-      {
         "title": "【「Grand Theft Auto VI」のものと思われる一人称視点のマーケティング映像が登場...：レビュー】",
         "platform": "doope!",
         "type": "review",
@@ -653,19 +427,6 @@
         "url": "https://doope.jp/2026/11172727.html",
         "date": "2026-11-12",
         "is_translated": false
-      },
-      {
-        "title": "【After cracking down on 'cheat' mods in Helldive...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【After cracking down on 'cheat' mods in Helldive...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/third-person-shooter/after-cracking-down-on-cheat-mods-in-helldivers-2-and-taking-another-steam-review-beating-arrowhead-plans-hotfix-that-should-allow-harmless-cosmetics/",
-        "date": "2026-11-11",
-        "is_translated": true
       },
       {
         "title": "【Queen’s Domain Review: The Perfect Skyrim Repla...】",
@@ -968,5 +729,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-15T18:41:30.575041"
+  "last_updated": "2026-11-16T00:46:00.261815"
 }
