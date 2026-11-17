@@ -496,6 +496,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/cairn/info/",
         "date": "2026-11-17"
+      },
+      {
+        "title": "DOOM: The Dark Ages",
+        "platform": "Various",
+        "type": "sale",
+        "description": "DOOM: The Dark AgesがVariousで-50%セール中です。",
+        "price": "$24.99",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/doom-the-dark-ages/info/",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "Hell is Us",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Hell is UsがVariousで-76%セール中です。",
+        "price": "$11.99",
+        "originalPrice": "",
+        "discount": "-76%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hell-is-us/info/",
+        "date": "2026-11-17"
       }
     ],
     "review": [
@@ -888,8 +912,47 @@
         "url": "https://doope.jp/2026/11172927.html",
         "date": "2026-11-16",
         "is_translated": false
+      },
+      {
+        "title": "【Steam協力プレイ対応デッキ構築ローグライク『HARMA 亡国のエデン』は、「1ターンの決断...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【Steam協力プレイ対応デッキ構築ローグライク『HARMA 亡国のエデン』は、「1ターンの決断...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20261117-479654/",
+        "date": "2026-11-17",
+        "is_translated": false
+      },
+      {
+        "title": "【『DOOM』を“USBメモリ”で動かす猛者あらわる。USB内部でフル稼働する13fpsの『DO...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『DOOM』を“USBメモリ”で動かす猛者あらわる。USB内部でフル稼働する13fpsの『DO...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261117-479657/",
+        "date": "2026-11-17",
+        "is_translated": false
+      },
+      {
+        "title": "【“生成AI”関連の共同マニフェストを欧州のゲーム労組などが公開―可能な限り使用を避ける＆プレイ...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【“生成AI”関連の共同マニフェストを欧州のゲーム労組などが公開―可能な限り使用を避ける＆プレイ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/11/17/191132.html",
+        "date": "2026-11-17",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-17T06:34:55.166266"
+  "last_updated": "2026-11-17T18:08:19.827703"
 }
