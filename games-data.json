@@ -40,30 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Marmalade Game Studio: Ultimate Digital Game Night",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Marmalade Game Studio: Ultimate Digital Game NightのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/marmaladegamesultimatedigitalgamenight_bundle",
-        "date": "2026-11-07"
-      },
-      {
-        "title": "Unhinged & Unsettling Visual Novels",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Unhinged & Unsettling Visual NovelsのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/unhingedunsettlingvisualnovels_bundle",
-        "date": "2026-11-07"
-      },
-      {
         "title": "Wicked Stardust Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -245,30 +221,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Frostpunk 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Frostpunk 2がVariousで-65%セール中です。",
-        "price": "$15.74",
-        "originalPrice": "",
-        "discount": "-65%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/frostpunk-2/info/",
-        "date": "2026-11-10"
-      },
-      {
-        "title": "Hunting Simulator 3 - Classic American Hunter Pack",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Hunting Simulator 3 - Classic American Hunter PackがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hunting-simulator-3-classic-american-hunter-pack/info/",
-        "date": "2026-11-10"
-      },
       {
         "title": "Darkest Dungeon® II",
         "platform": "Various",
@@ -472,113 +424,81 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stray/info/",
         "date": "2026-11-16"
+      },
+      {
+        "title": "ペルソナ５ ザ・ロイヤル",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ５ ザ・ロイヤルがSteamで70% OFFセール中です。",
+        "price": "¥2,303",
+        "originalPrice": "¥7,678",
+        "discount": "70% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1687950",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "ペルソナ３ リロード",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ペルソナ３ リロードがSteamで65% OFFセール中です。",
+        "price": "¥2,687",
+        "originalPrice": "¥7,678",
+        "discount": "65% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2161700",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "龍が如く０ 誓いの場所 Director's Cut",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "龍が如く０ 誓いの場所 Director's CutがSteamで60% OFFセール中です。",
+        "price": "¥2,376",
+        "originalPrice": "¥5,940",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2988580",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "Kingdom Come: Deliverance II",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Kingdom Come: Deliverance IIがSteamで67% OFFセール中です。",
+        "price": "¥2,669",
+        "originalPrice": "¥8,090",
+        "discount": "67% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1771300",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "Metaphor: ReFantazio",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Metaphor: ReFantazioがVariousで-10%セール中です。",
+        "price": "$35.99",
+        "originalPrice": "",
+        "discount": "-10%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "Cairn",
+        "platform": "Various",
+        "type": "sale",
+        "description": "CairnがVariousで-43%セール中です。",
+        "price": "$17.20",
+        "originalPrice": "",
+        "discount": "-43%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/cairn/info/",
+        "date": "2026-11-17"
       }
     ],
     "review": [
-      {
-        "title": "【「Grand Theft Auto VI」のものと思われる一人称視点のマーケティング映像が登場...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Grand Theft Auto VI」のものと思われる一人称視点のマーケティング映像が登場...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172727.html",
-        "date": "2026-11-12",
-        "is_translated": false
-      },
-      {
-        "title": "【Queen’s Domain Review: The Perfect Skyrim Repla...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【Queen’s Domain Review: The Perfect Skyrim Repla...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/queens-domain-review/",
-        "date": "2026-11-12",
-        "is_translated": true
-      },
-      {
-        "title": "【“エクスパンス”ビデオゲーム「The Expanse: Osiris Reborn」の新ミッシ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“エクスパンス”ビデオゲーム「The Expanse: Osiris Reborn」の新ミッシ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172779.html",
-        "date": "2026-11-12",
-        "is_translated": false
-      },
-      {
-        "title": "【高評価サバイバー×バッグ整理ローグライト『デッドリーデイズ：ロードトリップ』は、ゾンビの大群よ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【高評価サバイバー×バッグ整理ローグライト『デッドリーデイズ：ロードトリップ』は、ゾンビの大群よ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/deadly-days-roadtrip-20261112-478630/",
-        "date": "2026-11-12",
-        "is_translated": false
-      },
-      {
-        "title": "【最大6人対戦“視界ゼロ”ホラーFPS『BLIND x FOLD』発表。環境音や足音を頼りにする...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【最大6人対戦“視界ゼロ”ホラーFPS『BLIND x FOLD』発表。環境音や足音を頼りにする...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261112-478916/",
-        "date": "2026-11-12",
-        "is_translated": false
-      },
-      {
-        "title": "【基本プレイ無料“地形ぶっ壊し”STG『カオス★スマッシュ』いきなり公式が暴走、怪しいゆるキャラ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【基本プレイ無料“地形ぶっ壊し”STG『カオス★スマッシュ』いきなり公式が暴走、怪しいゆるキャラ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261112-478885/",
-        "date": "2026-11-12",
-        "is_translated": false
-      },
-      {
-        "title": "【South Korean game rating board almost blocked G...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【South Korean game rating board almost blocked G...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
-        "date": "2026-11-12",
-        "is_translated": true
-      },
-      {
-        "title": "【XBOXの「広告を見れば無料で遊べる」クラウドゲーミングサービス、正式発表。3分間広告を見れば...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【XBOXの「広告を見れば無料で遊べる」クラウドゲーミングサービス、正式発表。3分間広告を見れば...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261113-479008/",
-        "date": "2026-11-12",
-        "is_translated": false
-      },
       {
         "title": "【英Playgroundが開発を手がける新生「Fable」のクエストゲームプレイ映像がお披露目、...】",
         "platform": "doope!",
@@ -903,8 +823,73 @@
         "url": "https://www.pcgamer.com/games/rts/ashes-of-the-singularity-2-review/",
         "date": "2026-11-16",
         "is_translated": true
+      },
+      {
+        "title": "【協力マルチ対応“やり込み濃厚”デッキ構築ローグライク『HARMA 亡国のエデン』配信開始。カー...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【協力マルチ対応“やり込み濃厚”デッキ構築ローグライク『HARMA 亡国のエデン』配信開始。カー...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261117-479575/",
+        "date": "2026-11-17",
+        "is_translated": false
+      },
+      {
+        "title": "【「Slay the Spire 2」の第3弾大型アップデートが正式配信、多数の改善とバランス調...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Slay the Spire 2」の第3弾大型アップデートが正式配信、多数の改善とバランス調...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172915.html",
+        "date": "2026-11-17",
+        "is_translated": false
+      },
+      {
+        "title": "【独創的な非同期マルチプレイを備えたレトロなオートバトルダンジョンクロウラー「Dungeonbo...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【独創的な非同期マルチプレイを備えたレトロなオートバトルダンジョンクロウラー「Dungeonbo...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172909.html",
+        "date": "2026-11-17",
+        "is_translated": false
+      },
+      {
+        "title": "【初代“POSTAL”のルーツに立ち返る新作シューター「Flesh & Wire」のゲームプレイ...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【初代“POSTAL”のルーツに立ち返る新作シューター「Flesh & Wire」のゲームプレイ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172936.html",
+        "date": "2026-11-17",
+        "is_translated": false
+      },
+      {
+        "title": "【「Star Wars: Galactic Racer」にローカル画面分割マルチプレイヤーを導入...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Star Wars: Galactic Racer」にローカル画面分割マルチプレイヤーを導入...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172927.html",
+        "date": "2026-11-16",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-16T21:51:40.916351"
+  "last_updated": "2026-11-17T03:25:22.045692"
 }
