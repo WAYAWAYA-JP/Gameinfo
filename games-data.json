@@ -520,6 +520,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/hell-is-us/info/",
         "date": "2026-11-17"
+      },
+      {
+        "title": "SILENT HILL 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "SILENT HILL 2がVariousで-72%セール中です。",
+        "price": "$19.59",
+        "originalPrice": "",
+        "discount": "-72%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
+        "date": "2026-11-17"
       }
     ],
     "review": [
@@ -954,5 +966,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-17T18:08:19.827703"
+  "last_updated": "2026-11-17T20:41:53.064226"
 }
