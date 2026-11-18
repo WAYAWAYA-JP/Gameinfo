@@ -222,54 +222,6 @@
     ],
     "sale": [
       {
-        "title": "Darkest Dungeon® II",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Darkest Dungeon® IIがVariousで-78%セール中です。",
-        "price": "$8.94",
-        "originalPrice": "",
-        "discount": "-78%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/darkest-dungeon-ii/info/",
-        "date": "2026-11-11"
-      },
-      {
-        "title": "Cyberpunk 2077",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Cyberpunk 2077がVariousで-70%セール中です。",
-        "price": "$17.99",
-        "originalPrice": "",
-        "discount": "-70%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cyberpunk-2077/info/",
-        "date": "2026-11-11"
-      },
-      {
-        "title": "The Elder Scrolls V: Skyrim Special Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The Elder Scrolls V: Skyrim Special EditionがVariousで-82%セール中です。",
-        "price": "$7.19",
-        "originalPrice": "",
-        "discount": "-82%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-elder-scrolls-v-skyrim-special-edition/info/",
-        "date": "2026-11-11"
-      },
-      {
-        "title": "EVERSPACE™ 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "EVERSPACE™ 2がVariousで-83%セール中です。",
-        "price": "$8.59",
-        "originalPrice": "",
-        "discount": "-83%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/everspace-2/info/",
-        "date": "2026-11-11"
-      },
-      {
         "title": "No Man's Sky",
         "platform": "Various",
         "type": "sale",
@@ -532,139 +484,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
         "date": "2026-11-17"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33がVariousで-20%セール中です。",
+        "price": "$39.95",
+        "originalPrice": "",
+        "discount": "-20%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-11-18"
       }
     ],
     "review": [
-      {
-        "title": "【英Playgroundが開発を手がける新生「Fable」のクエストゲームプレイ映像がお披露目、...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【英Playgroundが開発を手がける新生「Fable」のクエストゲームプレイ映像がお披露目、...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172819.html",
-        "date": "2026-11-13",
-        "is_translated": false
-      },
-      {
-        "title": "【弓で戦う音楽家“フール”が参戦する「Slay the Spire 2」のベータアップデートが配...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【弓で戦う音楽家“フール”が参戦する「Slay the Spire 2」のベータアップデートが配...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172806.html",
-        "date": "2026-11-13",
-        "is_translated": false
-      },
-      {
-        "title": "【マダガスカル人が作ったゲーム『Kalanoro（カラノロ）』で“知らない南国”大量摂取、純度1...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【マダガスカル人が作ったゲーム『Kalanoro（カラノロ）』で“知らない南国”大量摂取、純度1...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/kalanoro-20261113-479060/",
-        "date": "2026-11-13",
-        "is_translated": false
-      },
-      {
-        "title": "【「ガルパン」新作ゲーム『ガールズ＆パンツァー オールスター・タンク・カーニバル』来年3月25日...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【「ガルパン」新作ゲーム『ガールズ＆パンツァー オールスター・タンク・カーニバル』来年3月25日...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261113-479064/",
-        "date": "2026-11-13",
-        "is_translated": false
-      },
-      {
-        "title": "【『マインクラフト』には15年以上続く“ピストンドア研究学会”があるし、まだ技術革新している。も...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『マインクラフト』には15年以上続く“ピストンドア研究学会”があるし、まだ技術革新している。も...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261113-479203/",
-        "date": "2026-11-13",
-        "is_translated": false
-      },
-      {
-        "title": "【高評価・無料ミステリーゲーム『The Red Pearls Of Borneo』アプデで日本語...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【高評価・無料ミステリーゲーム『The Red Pearls Of Borneo』アプデで日本語...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261113-479184/",
-        "date": "2026-11-13",
-        "is_translated": false
-      },
-      {
-        "title": "【自由度高めスキー場建設シム『ゲレンデ社長！伝説のスキーリゾート経営』初日から高評価続々。「リア...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【自由度高めスキー場建設シム『ゲレンデ社長！伝説のスキーリゾート経営』初日から高評価続々。「リア...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261113-479144/",
-        "date": "2026-11-13",
-        "is_translated": false
-      },
-      {
-        "title": "【「Warhammer 40,000: Dawn of War IV」の最小・推奨動作要件がアナ...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Warhammer 40,000: Dawn of War IV」の最小・推奨動作要件がアナ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172833.html",
-        "date": "2026-11-13",
-        "is_translated": false
-      },
-      {
-        "title": "【Reddit tells me it’s not going to make a penny ...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Reddit tells me it’s not going to make a penny ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/software/reddit-tells-me-its-not-going-to-make-a-penny-in-affiliates-from-reddit-reviews-and-is-working-hard-to-avoid-inauthentic-content/",
-        "date": "2026-11-13",
-        "is_translated": true
-      },
-      {
-        "title": "【8BitDo Ultimate 3E wireless controller review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【8BitDo Ultimate 3E wireless controller review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/controllers/8bitdo-ultimate-3e-review/",
-        "date": "2026-11-13",
-        "is_translated": true
-      },
       {
         "title": "【“スター・ウォーズ”レースゲーム「Star Wars: Galactic Racer」のプレイ...】",
         "platform": "doope!",
@@ -963,8 +797,21 @@
         "url": "https://www.inside-games.jp/article/2026/11/17/191132.html",
         "date": "2026-11-17",
         "is_translated": false
+      },
+      {
+        "title": "【『マインクラフト』統合版にて、さっそく“完全版オフハンド”がお試し可能。遠近両対応装備や“なが...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『マインクラフト』統合版にて、さっそく“完全版オフハンド”がお試し可能。遠近両対応装備や“なが...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/minecraft-20261118-479748/",
+        "date": "2026-11-18",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-17T20:41:53.064226"
+  "last_updated": "2026-11-18T02:44:40.403733"
 }
