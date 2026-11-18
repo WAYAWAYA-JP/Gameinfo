@@ -544,6 +544,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/lies-of-p/info/",
         "date": "2026-11-18"
+      },
+      {
+        "title": "FINAL FANTASY VII REBIRTH",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REBIRTHがSteamで85% OFFセール中です。",
+        "price": "¥986",
+        "originalPrice": "¥6,578",
+        "discount": "85% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2909400",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REMAKE INTERGRADEがSteamで82% OFFセール中です。",
+        "price": "¥986",
+        "originalPrice": "¥5,478",
+        "discount": "82% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1462040",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "007 First Light",
+        "platform": "Various",
+        "type": "sale",
+        "description": "007 First LightがVariousで-50%セール中です。",
+        "price": "$39.99",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/007-first-light/info/",
+        "date": "2026-11-18"
       }
     ],
     "review": [
@@ -1069,5 +1105,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-18T17:47:11.710570"
+  "last_updated": "2026-11-18T20:16:28.803392"
 }
