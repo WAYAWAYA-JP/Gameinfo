@@ -218,6 +218,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/survival-fittest",
         "date": "2026-11-16"
+      },
+      {
+        "title": "Lusty Lab Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Lusty Lab BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/lusty-lab-bundle",
+        "date": "2026-11-18"
       }
     ],
     "sale": [
@@ -495,6 +507,42 @@
         "discount": "-20%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "The Elder Scrolls V: Skyrim Special Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "The Elder Scrolls V: Skyrim Special EditionがSteamで80% OFFセール中です。",
+        "price": "¥879",
+        "originalPrice": "¥4,399",
+        "discount": "80% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/489830",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Contractor: The Clean Up Part II",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Contractor: The Clean Up Part IIがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/contractor-the-clean-up-part-ii/info/",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Lies Of P",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Lies Of PがVariousで-50%セール中です。",
+        "price": "$29.99",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/lies-of-p/info/",
         "date": "2026-11-18"
       }
     ],
@@ -862,8 +910,164 @@
         "url": "https://www.inside-games.jp/article/2026/11/18/191168.html",
         "date": "2026-11-18",
         "is_translated": false
+      },
+      {
+        "title": "【『グランド・セフト・オートVI（GTA6）』、「メタスコア99」で今年最高記録。満点レビュー続...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『グランド・セフト・オートVI（GTA6）』、「メタスコア99」で今年最高記録。満点レビュー続...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261118-479925/",
+        "date": "2026-11-18",
+        "is_translated": false
+      },
+      {
+        "title": "【プロトタイプが「YouTube200万再生」でバズったゲーム開発者、初動売上500本弱でちゃん...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【プロトタイプが「YouTube200万再生」でバズったゲーム開発者、初動売上500本弱でちゃん...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261118-479880/",
+        "date": "2026-11-18",
+        "is_translated": false
+      },
+      {
+        "title": "【ゲームプレイ“自動化”ゲーム『Videogame Automation Engineer』発表...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【ゲームプレイ“自動化”ゲーム『Videogame Automation Engineer』発表...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261118-479848/",
+        "date": "2026-11-18",
+        "is_translated": false
+      },
+      {
+        "title": "【Rockstar GamesのSam Houser社長が「Grand Theft Auto V...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Rockstar GamesのSam Houser社長が「Grand Theft Auto V...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172917.html",
+        "date": "2026-11-18",
+        "is_translated": false
+      },
+      {
+        "title": "【新作サバイバルシム「Casualties: Unknown」が初週12万5,000本販売を達成：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【新作サバイバルシム「Casualties: Unknown」が初週12万5,000本販売を達成：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172975.html",
+        "date": "2026-11-18",
+        "is_translated": false
+      },
+      {
+        "title": "【「Grand Theft Auto VI」の驚異的なグラフィックス技術が確認できるDigita...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Grand Theft Auto VI」の驚異的なグラフィックス技術が確認できるDigita...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11172916.html",
+        "date": "2026-11-18",
+        "is_translated": false
+      },
+      {
+        "title": "【スイッチ2版『ゼルダの伝説 時のオカリナ』は「最高」？ それとも「物足りなかった」？ 生まれ変...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【スイッチ2版『ゼルダの伝説 時のオカリナ』は「最高」？ それとも「物足りなかった」？ 生まれ変...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/11/18/191193.html",
+        "date": "2026-11-18",
+        "is_translated": false
+      },
+      {
+        "title": "【Grand Theft Auto 6 review roundup: Rockstar's '...】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【Grand Theft Auto 6 review roundup: Rockstar's '...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds/",
+        "date": "2026-11-18",
+        "is_translated": true
+      },
+      {
+        "title": "【I have double-checked and yes, original 'GTA ki...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【I have double-checked and yes, original 'GTA ki...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/i-have-double-checked-and-yes-original-gta-killer-driv3r-really-was-that-rubbish",
+        "date": "2026-11-18",
+        "is_translated": true
+      },
+      {
+        "title": "【\"It’s hard not to worry\": Even as GTA 6 launche...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【\"It’s hard not to worry\": Even as GTA 6 launche...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/its-hard-not-to-worry-even-as-gta-6-launches-on-console-amid-glowing-reviews-rockstar-devs-are-already-concerned-about-getting-laid-off",
+        "date": "2026-11-18",
+        "is_translated": true
+      },
+      {
+        "title": "【PC remains GTA 6's last hope for 60fps smoothne...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【PC remains GTA 6's last hope for 60fps smoothne...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/pc-remains-gta-6s-last-hope-for-60fps-smoothness-as-rockstar-confirm-such-an-option-isnt-coming-to-even-the-swankiest-consoles",
+        "date": "2026-11-18",
+        "is_translated": true
+      },
+      {
+        "title": "【Despite being £61.7 million in debt, bankrupt M...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Despite being £61.7 million in debt, bankrupt M...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/despite-being-617-million-in-debt-bankrupt-mindseye-devs-build-a-rocket-boy-are-splurging-on-legal-action-against-a-coordinated-campaign-of-negative-online-reviews",
+        "date": "2026-11-18",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-18T05:56:18.032367"
+  "last_updated": "2026-11-18T17:47:11.710570"
 }
