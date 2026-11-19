@@ -580,6 +580,66 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/2052410",
         "date": "2026-11-19"
+      },
+      {
+        "title": "ARC Raiders",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ARC RaidersがSteamで50% OFFセール中です。",
+        "price": "¥3,195",
+        "originalPrice": "¥6,390",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1808500",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Ghost of Tsushima DIRECTOR'S CUT",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Ghost of Tsushima DIRECTOR'S CUTがSteamで50% OFFセール中です。",
+        "price": "¥3,795",
+        "originalPrice": "¥7,590",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2215430",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "God of War",
+        "platform": "Various",
+        "type": "sale",
+        "description": "God of WarがVariousで-64%セール中です。",
+        "price": "$17.95",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/god-of-war/info/",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Marvel's Spider-Man: Miles Morales",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Marvel's Spider-Man: Miles MoralesがVariousで-64%セール中です。",
+        "price": "$17.95",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/marvels-spider-man-miles-morales/info/",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "God of War Ragnarök",
+        "platform": "Various",
+        "type": "sale",
+        "description": "God of War RagnarökがVariousで-40%セール中です。",
+        "price": "$36.13",
+        "originalPrice": "",
+        "discount": "-40%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
+        "date": "2026-11-19"
       }
     ],
     "review": [
@@ -1118,5 +1178,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-19T17:58:24.297160"
+  "last_updated": "2026-11-19T20:20:11.457596"
 }
