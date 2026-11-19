@@ -1,6 +1,19 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Knightica",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "強力なユニットを戦略的に配置して、シナジーを得るローグライク・オートバトラー。\n目的は戦隊を率いて数々の敵に挑み、王国を解放すること。\n部隊の最適な組み合わせを見つけ、強力な魔法を編み出し、危険なモンスターと対決して、自軍を勝利に導こう！",
+        "price": "無料",
+        "originalPrice": "¥14",
+        "discount": "100% OFF",
+        "deadline": "2026年11月19日まで",
+        "url": "https://store.epicgames.com/ja/p/72b46f5d95624fd5b7e7d81b7dcaead1",
+        "date": "2026-11-19"
+      }
+    ],
     "bundle": [
       {
         "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle",
@@ -1013,8 +1026,21 @@
         "url": "https://www.rockpapershotgun.com/despite-being-617-million-in-debt-bankrupt-mindseye-devs-build-a-rocket-boy-are-splurging-on-legal-action-against-a-coordinated-campaign-of-negative-online-reviews",
         "date": "2026-11-18",
         "is_translated": true
+      },
+      {
+        "title": "【『Slay the Spire 2』プレイヤーの25％が「プレイ100時間超え」との調査報告。...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『Slay the Spire 2』プレイヤーの25％が「プレイ100時間超え」との調査報告。...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261119-479985/",
+        "date": "2026-11-19",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-19T02:16:33.089418"
+  "last_updated": "2026-11-19T05:56:27.698797"
 }
