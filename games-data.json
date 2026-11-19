@@ -1,56 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Idle Champions of the Forgotten Realms",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Idle Champions of the Forgotten RealmsがEpic Gamesで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "",
-        "discount": "100% OFF",
-        "deadline": "2026年11月12日まで",
-        "url": "https://store.epicgames.com/ja/p/idle-champions-of-the-forgotten-realms",
-        "date": "2026-11-12"
-      },
-      {
-        "title": "Flotsam 漂流ガラクタウン",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "Flotsam 漂流ガラクタウンがEpic Gamesで無料配布中です。",
-        "price": "無料",
-        "originalPrice": "¥25",
-        "discount": "100% OFF",
-        "deadline": "2026年11月12日まで",
-        "url": "https://store.epicgames.com/ja/p/7ca01ab906ad4eff92d4ed1efa5fbfcb",
-        "date": "2026-11-12"
-      },
-      {
-        "title": "Knightica",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "強力なユニットを戦略的に配置して、シナジーを得るローグライク・オートバトラー。\n目的は戦隊を率いて数々の敵に挑み、王国を解放すること。\n部隊の最適な組み合わせを見つけ、強力な魔法を編み出し、危険なモンスターと対決して、自軍を勝利に導こう！",
-        "price": "無料",
-        "originalPrice": "¥14",
-        "discount": "100% OFF",
-        "deadline": "2026年11月19日まで",
-        "url": "https://store.epicgames.com/ja/p/72b46f5d95624fd5b7e7d81b7dcaead1",
-        "date": "2026-11-12"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "Wicked Stardust Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Wicked Stardust BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/wicked-stardust-bundle",
-        "date": "2026-11-09"
-      },
       {
         "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle",
         "platform": "Humble Bundle",
@@ -233,54 +184,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "No Man's SkyがVariousで-69%セール中です。",
-        "price": "$18.79",
-        "originalPrice": "",
-        "discount": "-69%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-11-12"
-      },
-      {
-        "title": "空の軌跡 the 1st",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "空の軌跡 the 1stがSteamで50% OFFセール中です。",
-        "price": "¥4,400",
-        "originalPrice": "¥8,800",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3375780",
-        "date": "2026-11-12"
-      },
-      {
-        "title": "The Alters",
-        "platform": "Various",
-        "type": "sale",
-        "description": "The AltersがVariousで-65%セール中です。",
-        "price": "$12.20",
-        "originalPrice": "",
-        "discount": "-65%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/the-alters/info/",
-        "date": "2026-11-12"
-      },
-      {
-        "title": "Risk of Rain 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Risk of Rain 2がVariousで-68%セール中です。",
-        "price": "$7.90",
-        "originalPrice": "",
-        "discount": "-68%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/risk-of-rain-2/info/",
-        "date": "2026-11-12"
-      },
       {
         "title": "BALL x PIT",
         "platform": "Steam",
@@ -580,61 +483,69 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/007-first-light/info/",
         "date": "2026-11-18"
+      },
+      {
+        "title": "NieR:Automata™",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "NieR:Automata™がSteamで60% OFFセール中です。",
+        "price": "¥2,112",
+        "originalPrice": "¥5,280",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/524220",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "オクトパストラベラー0",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "オクトパストラベラー0がSteamで50% OFFセール中です。",
+        "price": "¥3,839",
+        "originalPrice": "¥7,678",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/3014320",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "FINAL FANTASY XVI コンプリートエディション",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY XVI コンプリートエディションがSteamで60% OFFセール中です。",
+        "price": "¥3,960",
+        "originalPrice": "¥9,900",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1111230",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "ロマンシング サガ2 リベンジオブザセブン",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "ロマンシング サガ2 リベンジオブザセブンがSteamで60% OFFセール中です。",
+        "price": "¥2,728",
+        "originalPrice": "¥6,820",
+        "discount": "60% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2455640",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Nier: Automata™ Game Of The Yorha Edition",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Nier: Automata™ Game Of The Yorha EditionがVariousで-60%セール中です。",
+        "price": "$15.99",
+        "originalPrice": "",
+        "discount": "-60%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/nier-automata-game-of-the-yorha-edition/info/",
+        "date": "2026-11-19"
       }
     ],
     "review": [
-      {
-        "title": "【“スター・ウォーズ”レースゲーム「Star Wars: Galactic Racer」のプレイ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“スター・ウォーズ”レースゲーム「Star Wars: Galactic Racer」のプレイ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172867.html",
-        "date": "2026-11-14",
-        "is_translated": false
-      },
-      {
-        "title": "【高い評価を得たダンマス系ダンジョンRPG「Underkeep」の改善や新コンテンツを含む今後の...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【高い評価を得たダンマス系ダンジョンRPG「Underkeep」の改善や新コンテンツを含む今後の...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172850.html",
-        "date": "2026-11-14",
-        "is_translated": false
-      },
-      {
-        "title": "【This 3D Pet SIM You Never Played Has Over 12,00...：レビュー】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【This 3D Pet SIM You Never Played Has Over 12,00...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/wobbledogs-3d-pet-sim-steam-overwhelmingly-positive/",
-        "date": "2026-11-14",
-        "is_translated": true
-      },
-      {
-        "title": "【『League of Legends』大規模アップデートの内容チラ見せ。ビジュアル大刷新&ゲー...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『League of Legends』大規模アップデートの内容チラ見せ。ビジュアル大刷新&ゲー...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/league-of-legends-20261115-479316/",
-        "date": "2026-11-14",
-        "is_translated": false
-      },
       {
         "title": "【20年越しに“幻のポケモン釣りゲーム”が見つかるも、その「保存方法」で大議論巻き起こる。プレイ...】",
         "platform": "AUTOMATON",
@@ -1105,5 +1016,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-18T20:16:28.803392"
+  "last_updated": "2026-11-19T02:16:33.089418"
 }
