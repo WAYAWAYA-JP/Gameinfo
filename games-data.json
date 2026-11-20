@@ -28,54 +28,6 @@
     ],
     "bundle": [
       {
-        "title": "Humble 15th Anniversary - Sci-Fi Exposure Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Humble 15th Anniversary - Sci-Fi Exposure BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/15thanniversaryscifiexposure_bundle",
-        "date": "2026-11-10"
-      },
-      {
-        "title": "Tactical Mindset Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Tactical Mindset BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/tacticalmindsetbundle_bundle",
-        "date": "2026-11-10"
-      },
-      {
-        "title": "Flat2VR Bundle",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Flat2VR BundleのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/flat2vrbundle_bundle",
-        "date": "2026-11-10"
-      },
-      {
-        "title": "Hentai Balloons 2",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Hentai Balloons 2のバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/hentai-balloons2",
-        "date": "2026-11-10"
-      },
-      {
         "title": "Pay What You WantGet The 7th Guest Remake, A Monster's Exped",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -209,30 +161,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "BALL x PIT",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "BALL x PITがSteamで50% OFFセール中です。",
-        "price": "¥850",
-        "originalPrice": "¥1,700",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2062430",
-        "date": "2026-11-13"
-      },
-      {
-        "title": "Flotsam",
-        "platform": "Various",
-        "type": "sale",
-        "description": "FlotsamがVariousでセール中です。",
-        "price": "$24.98",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/flotsam/info/",
-        "date": "2026-11-13"
-      },
       {
         "title": "Red Dead Redemption 2",
         "platform": "Various",
@@ -640,35 +568,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
         "date": "2026-11-19"
+      },
+      {
+        "title": "UNCHARTED™: Legacy of Thieves Collection",
+        "platform": "Various",
+        "type": "sale",
+        "description": "UNCHARTED™: Legacy of Thieves CollectionがVariousで-70%セール中です。",
+        "price": "$14.81",
+        "originalPrice": "",
+        "discount": "-70%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/uncharted-legacy-of-thieves-collection/info/",
+        "date": "2026-11-20"
       }
     ],
     "review": [
-      {
-        "title": "【20年越しに“幻のポケモン釣りゲーム”が見つかるも、その「保存方法」で大議論巻き起こる。プレイ...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【20年越しに“幻のポケモン釣りゲーム”が見つかるも、その「保存方法」で大議論巻き起こる。プレイ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261115-479333/",
-        "date": "2026-11-15",
-        "is_translated": false
-      },
-      {
-        "title": "【『テーブルゲームワールド CCFOLIA』は「GM気質」の人には楽しいおもちゃになりそう。『L...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『テーブルゲームワールド CCFOLIA』は「GM気質」の人には楽しいおもちゃになりそう。『L...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/now-gaming/20261115-479380/",
-        "date": "2026-11-15",
-        "is_translated": false
-      },
       {
         "title": "【発売後14年経過の『Euro Truck Simulator 2』、“同接10万人超”の最高記...：レビュー】",
         "platform": "AUTOMATON",
@@ -1175,8 +1089,47 @@
         "url": "https://www.pcgamer.com/games/sports/football-manager-27-review/",
         "date": "2026-11-19",
         "is_translated": true
+      },
+      {
+        "title": "【一人称視点ホラーサバイバル3D釣りゲーム「DREADMOOR」の販売が早くも10万本を突破：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【一人称視点ホラーサバイバル3D釣りゲーム「DREADMOOR」の販売が早くも10万本を突破：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11173016.html",
+        "date": "2026-11-20",
+        "is_translated": false
+      },
+      {
+        "title": "【“Grand Theft Auto VI”を迎え撃つ「Volvy’s Adventure: R...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【“Grand Theft Auto VI”を迎え撃つ「Volvy’s Adventure: R...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11173013.html",
+        "date": "2026-11-19",
+        "is_translated": false
+      },
+      {
+        "title": "【ポケットペアが『GTA6』発売記念パーティの様子を報告！オフィスにフリープレイコーナー常設で遊び放題】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【ポケットペアが『GTA6』発売記念パーティの様子を報告！オフィスにフリープレイコーナー常設で遊び放題】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/11/20/191280.html",
+        "date": "2026-11-20",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-19T20:20:11.457596"
+  "last_updated": "2026-11-20T02:01:28.357525"
 }
