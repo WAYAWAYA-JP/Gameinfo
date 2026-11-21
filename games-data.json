@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-last-of-us-part-i/info/",
         "date": "2026-11-20"
+      },
+      {
+        "title": "No Man's Sky",
+        "platform": "Various",
+        "type": "sale",
+        "description": "No Man's SkyがVariousで-67%セール中です。",
+        "price": "$19.63",
+        "originalPrice": "",
+        "discount": "-67%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
+        "date": "2026-11-21"
       }
     ],
     "review": [
@@ -1040,5 +1052,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-21T05:40:14.645432"
+  "last_updated": "2026-11-21T16:36:32.371113"
 }
