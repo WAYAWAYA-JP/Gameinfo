@@ -580,6 +580,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
         "date": "2026-11-22"
+      },
+      {
+        "title": "Ready Or Not",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Ready Or NotがVariousで-59%セール中です。",
+        "price": "$20.45",
+        "originalPrice": "",
+        "discount": "-59%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/ready-or-not/info/",
+        "date": "2026-11-22"
       }
     ],
     "review": [
@@ -972,8 +984,34 @@
         "url": "https://www.inside-games.jp/article/2026/11/22/191403.html",
         "date": "2026-11-22",
         "is_translated": false
+      },
+      {
+        "title": "【『GTA6』は「善人プレイ」が楽しめるのも良い。『FFレゾナンス』グラフィックの美しさを考える...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『GTA6』は「善人プレイ」が楽しめるのも良い。『FFレゾナンス』グラフィックの美しさを考える...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/ng-20261122-480387/",
+        "date": "2026-11-22",
+        "is_translated": false
+      },
+      {
+        "title": "【28年前発売の初代『メタルギアソリッド』、“ボスの戦車”を2Pで操作できると発見される。たびた...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【28年前発売の初代『メタルギアソリッド』、“ボスの戦車”を2Pで操作できると発見される。たびた...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261122-480357/",
+        "date": "2026-11-22",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-22T05:06:54.305188"
+  "last_updated": "2026-11-22T16:53:40.372188"
 }
