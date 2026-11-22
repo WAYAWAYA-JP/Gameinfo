@@ -592,6 +592,18 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/ready-or-not/info/",
         "date": "2026-11-22"
+      },
+      {
+        "title": "RoboCop: Rogue City",
+        "platform": "Various",
+        "type": "sale",
+        "description": "RoboCop: Rogue CityがVariousで-93%セール中です。",
+        "price": "$2.81",
+        "originalPrice": "",
+        "discount": "-93%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/robocop-rogue-city/info/",
+        "date": "2026-11-22"
       }
     ],
     "review": [
@@ -1013,5 +1025,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-22T16:53:40.372188"
+  "last_updated": "2026-11-22T19:18:12.672124"
 }
