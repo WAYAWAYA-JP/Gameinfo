@@ -150,30 +150,6 @@
     ],
     "sale": [
       {
-        "title": "Detroit: Become Human",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Detroit: Become HumanがVariousで-83%セール中です。",
-        "price": "$6.99",
-        "originalPrice": "",
-        "discount": "-83%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
-        "date": "2026-11-15"
-      },
-      {
-        "title": "Persona 3 Reload",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Persona 3 ReloadがVariousで-68%セール中です。",
-        "price": "$19.49",
-        "originalPrice": "",
-        "discount": "-68%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/persona-3-reload/info/",
-        "date": "2026-11-15"
-      },
-      {
         "title": "STAR WARS: Galactic Racer™",
         "platform": "Various",
         "type": "sale",
@@ -592,100 +568,21 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
         "date": "2026-11-21"
+      },
+      {
+        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "platform": "Various",
+        "type": "sale",
+        "description": "S.T.A.L.K.E.R. 2: Heart of ChornobylがVariousで-43%セール中です。",
+        "price": "$34.39",
+        "originalPrice": "",
+        "discount": "-43%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stalker-2-heart-of-chornobyl/info/",
+        "date": "2026-11-22"
       }
     ],
     "review": [
-      {
-        "title": "【協力マルチ対応“やり込み濃厚”デッキ構築ローグライク『HARMA 亡国のエデン』配信開始。カー...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【協力マルチ対応“やり込み濃厚”デッキ構築ローグライク『HARMA 亡国のエデン』配信開始。カー...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261117-479575/",
-        "date": "2026-11-17",
-        "is_translated": false
-      },
-      {
-        "title": "【「Slay the Spire 2」の第3弾大型アップデートが正式配信、多数の改善とバランス調...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Slay the Spire 2」の第3弾大型アップデートが正式配信、多数の改善とバランス調...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172915.html",
-        "date": "2026-11-17",
-        "is_translated": false
-      },
-      {
-        "title": "【独創的な非同期マルチプレイを備えたレトロなオートバトルダンジョンクロウラー「Dungeonbo...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【独創的な非同期マルチプレイを備えたレトロなオートバトルダンジョンクロウラー「Dungeonbo...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172909.html",
-        "date": "2026-11-17",
-        "is_translated": false
-      },
-      {
-        "title": "【初代“POSTAL”のルーツに立ち返る新作シューター「Flesh & Wire」のゲームプレイ...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【初代“POSTAL”のルーツに立ち返る新作シューター「Flesh & Wire」のゲームプレイ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11172936.html",
-        "date": "2026-11-17",
-        "is_translated": false
-      },
-      {
-        "title": "【Steam協力プレイ対応デッキ構築ローグライク『HARMA 亡国のエデン』は、「1ターンの決断...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【Steam協力プレイ対応デッキ構築ローグライク『HARMA 亡国のエデン』は、「1ターンの決断...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20261117-479654/",
-        "date": "2026-11-17",
-        "is_translated": false
-      },
-      {
-        "title": "【『DOOM』を“USBメモリ”で動かす猛者あらわる。USB内部でフル稼働する13fpsの『DO...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『DOOM』を“USBメモリ”で動かす猛者あらわる。USB内部でフル稼働する13fpsの『DO...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261117-479657/",
-        "date": "2026-11-17",
-        "is_translated": false
-      },
-      {
-        "title": "【“生成AI”関連の共同マニフェストを欧州のゲーム労組などが公開―可能な限り使用を避ける＆プレイ...】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【“生成AI”関連の共同マニフェストを欧州のゲーム労組などが公開―可能な限り使用を避ける＆プレイ...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/11/17/191132.html",
-        "date": "2026-11-17",
-        "is_translated": false
-      },
       {
         "title": "【『マインクラフト』統合版にて、さっそく“完全版オフハンド”がお試し可能。遠近両対応装備や“なが...：レビュー】",
         "platform": "AUTOMATON",
@@ -1049,8 +946,21 @@
         "url": "https://doope.jp/2026/11173040.html",
         "date": "2026-11-20",
         "is_translated": false
+      },
+      {
+        "title": "【Alt Video is a digital, faux Blockbuster video ...：レビュー】",
+        "platform": "Rock Paper Shotgun",
+        "type": "review",
+        "description": "【Alt Video is a digital, faux Blockbuster video ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.rockpapershotgun.com/alt-video-is-a-digital-faux-blockbuster-video-store-that-you-can-fill-with-movies-from-your-letterboxd-watchlist-and-plex-server",
+        "date": "2026-11-21",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-21T18:57:44.859745"
+  "last_updated": "2026-11-22T00:58:18.122381"
 }
