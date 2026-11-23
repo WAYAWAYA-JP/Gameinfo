@@ -580,6 +580,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/pragmata/info/",
         "date": "2026-11-23"
+      },
+      {
+        "title": "Outer Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Outer WildsがVariousで-61%セール中です。",
+        "price": "$9.75",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/outer-wilds/info/",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "Stray",
+        "platform": "Various",
+        "type": "sale",
+        "description": "StrayがVariousで-61%セール中です。",
+        "price": "$11.65",
+        "originalPrice": "",
+        "discount": "-61%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/stray/info/",
+        "date": "2026-11-23"
       }
     ],
     "review": [
@@ -816,8 +840,34 @@
         "url": "https://www.polygon.com/gta-6-review-bombed-legend-of-zelda/",
         "date": "2026-11-23",
         "is_translated": true
+      },
+      {
+        "title": "【オープンワールド『紅の砂漠』初の大型DLC「未知なる旅路」プレイ感想。とにかく詰め込みまくり、...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【オープンワールド『紅の砂漠』初の大型DLC「未知なる旅路」プレイ感想。とにかく詰め込みまくり、...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20261123-480447/",
+        "date": "2026-11-23",
+        "is_translated": false
+      },
+      {
+        "title": "【9年に及んだベータ運用を終える「Serious Sam Fusion」の大型アップデートが配信：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【9年に及んだベータ運用を終える「Serious Sam Fusion」の大型アップデートが配信：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11173057.html",
+        "date": "2026-11-23",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-23T01:25:03.253860"
+  "last_updated": "2026-11-23T05:48:38.880054"
 }
