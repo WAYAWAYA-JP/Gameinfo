@@ -640,6 +640,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/detroit-become-human/info/",
         "date": "2026-11-23"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Red Dead Redemption 2がSteamで75% OFFセール中です。",
+        "price": "¥2,154",
+        "originalPrice": "¥8,618",
+        "discount": "75% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1174180",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "DARK SOULS III - The Fire Fades Edition",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "DARK SOULS III - The Fire Fades EditionがSteamで50% OFFセール中です。",
+        "price": "¥2,970",
+        "originalPrice": "¥5,940",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/160150",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Baldur's Gate 3がVariousで-30%セール中です。",
+        "price": "$41.99",
+        "originalPrice": "",
+        "discount": "-30%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/baldurs-gate-3/info/",
+        "date": "2026-11-23"
       }
     ],
     "review": [
@@ -931,5 +967,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-23T20:52:39.468690"
+  "last_updated": "2026-11-23T23:40:50.986731"
 }
