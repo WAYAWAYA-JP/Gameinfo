@@ -28,30 +28,6 @@
     ],
     "bundle": [
       {
-        "title": "Pixel Traditions 5 Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Pixel Traditions 5 BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/pixel-traditions5-bundle",
-        "date": "2026-11-14"
-      },
-      {
-        "title": "Pay What You WantGet Roboquest VR, I AM YOUR BEAST VR, VRace",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Pay What You WantGet Roboquest VR, I AM YOUR BEAST VR, VRaceのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/flat2vr-bundle",
-        "date": "2026-11-14"
-      },
-      {
         "title": "Power Halt Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -137,114 +113,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "ペルソナ５ ザ・ロイヤル",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ペルソナ５ ザ・ロイヤルがSteamで70% OFFセール中です。",
-        "price": "¥2,303",
-        "originalPrice": "¥7,678",
-        "discount": "70% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1687950",
-        "date": "2026-11-17"
-      },
-      {
-        "title": "ペルソナ３ リロード",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ペルソナ３ リロードがSteamで65% OFFセール中です。",
-        "price": "¥2,687",
-        "originalPrice": "¥7,678",
-        "discount": "65% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2161700",
-        "date": "2026-11-17"
-      },
-      {
-        "title": "龍が如く０ 誓いの場所 Director's Cut",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "龍が如く０ 誓いの場所 Director's CutがSteamで60% OFFセール中です。",
-        "price": "¥2,376",
-        "originalPrice": "¥5,940",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2988580",
-        "date": "2026-11-17"
-      },
-      {
-        "title": "Kingdom Come: Deliverance II",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Kingdom Come: Deliverance IIがSteamで67% OFFセール中です。",
-        "price": "¥2,669",
-        "originalPrice": "¥8,090",
-        "discount": "67% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1771300",
-        "date": "2026-11-17"
-      },
-      {
-        "title": "Metaphor: ReFantazio",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Metaphor: ReFantazioがVariousで-10%セール中です。",
-        "price": "$35.99",
-        "originalPrice": "",
-        "discount": "-10%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/metaphor-refantazio/info/",
-        "date": "2026-11-17"
-      },
-      {
-        "title": "Cairn",
-        "platform": "Various",
-        "type": "sale",
-        "description": "CairnがVariousで-43%セール中です。",
-        "price": "$17.20",
-        "originalPrice": "",
-        "discount": "-43%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/cairn/info/",
-        "date": "2026-11-17"
-      },
-      {
-        "title": "DOOM: The Dark Ages",
-        "platform": "Various",
-        "type": "sale",
-        "description": "DOOM: The Dark AgesがVariousで-50%セール中です。",
-        "price": "$24.99",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/doom-the-dark-ages/info/",
-        "date": "2026-11-17"
-      },
-      {
-        "title": "Hell is Us",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Hell is UsがVariousで-76%セール中です。",
-        "price": "$11.99",
-        "originalPrice": "",
-        "discount": "-76%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/hell-is-us/info/",
-        "date": "2026-11-17"
-      },
-      {
-        "title": "SILENT HILL 2",
-        "platform": "Various",
-        "type": "sale",
-        "description": "SILENT HILL 2がVariousで-72%セール中です。",
-        "price": "$19.59",
-        "originalPrice": "",
-        "discount": "-72%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
-        "date": "2026-11-17"
-      },
       {
         "title": "Clair Obscur: Expedition 33",
         "platform": "Various",
@@ -680,71 +548,6 @@
     ],
     "review": [
       {
-        "title": "【『Slay the Spire 2』プレイヤーの25％が「プレイ100時間超え」との調査報告。...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【『Slay the Spire 2』プレイヤーの25％が「プレイ100時間超え」との調査報告。...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261119-479985/",
-        "date": "2026-11-19",
-        "is_translated": false
-      },
-      {
-        "title": "【“降りたいけど落ちたくない”骨太アクション『崩落の国』、Steamで「非常に好評」に。Cyga...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【“降りたいけど落ちたくない”骨太アクション『崩落の国』、Steamで「非常に好評」に。Cyga...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261119-480066/",
-        "date": "2026-11-19",
-        "is_translated": false
-      },
-      {
-        "title": "【ど田舎牛乳配達ゲーム『Milki Delivery：ミルキィの牛乳屋』好評率99%でめっちゃ好...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【ど田舎牛乳配達ゲーム『Milki Delivery：ミルキィの牛乳屋』好評率99%でめっちゃ好...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261119-480033/",
-        "date": "2026-11-19",
-        "is_translated": false
-      },
-      {
-        "title": "【Corsair Sabre V3 Pro PureVector Ergo review】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Corsair Sabre V3 Pro PureVector Ergo review】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/hardware/gaming-mice/corsair-sabre-v3-pro-purevector-ergo-review/",
-        "date": "2026-11-19",
-        "is_translated": true
-      },
-      {
-        "title": "【Football Manager 27 review: Back on form, but n...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Football Manager 27 review: Back on form, but n...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/sports/football-manager-27-review/",
-        "date": "2026-11-19",
-        "is_translated": true
-      },
-      {
         "title": "【一人称視点ホラーサバイバル3D釣りゲーム「DREADMOOR」の販売が早くも10万本を突破：レビュー】",
         "platform": "doope!",
         "type": "review",
@@ -755,19 +558,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/11173016.html",
         "date": "2026-11-20",
-        "is_translated": false
-      },
-      {
-        "title": "【“Grand Theft Auto VI”を迎え撃つ「Volvy’s Adventure: R...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【“Grand Theft Auto VI”を迎え撃つ「Volvy’s Adventure: R...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11173013.html",
-        "date": "2026-11-19",
         "is_translated": false
       },
       {
@@ -964,8 +754,47 @@
         "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-review/",
         "date": "2026-11-23",
         "is_translated": true
+      },
+      {
+        "title": "【古書店経営ゲーム「Tiny Bookshop」の販売が遂に100万本を突破、初のDLC「Art...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【古書店経営ゲーム「Tiny Bookshop」の販売が遂に100万本を突破、初のDLC「Art...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11173077.html",
+        "date": "2026-11-24",
+        "is_translated": false
+      },
+      {
+        "title": "【PS5版「Grand Theft Auto VI」のプレイヤーが3,900万人を突破、複数の記...】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【PS5版「Grand Theft Auto VI」のプレイヤーが3,900万人を突破、複数の記...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11173078.html",
+        "date": "2026-11-23",
+        "is_translated": false
+      },
+      {
+        "title": "【新作『デジモンアリシオン』を先行プレイ！ 初心者の主人公と一緒に覚えるカードバトル、“進化”と...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【新作『デジモンアリシオン』を先行プレイ！ 初心者の主人公と一緒に覚えるカードバトル、“進化”と...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/11/24/191464.html",
+        "date": "2026-11-24",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-23T23:40:50.986731"
+  "last_updated": "2026-11-24T05:08:21.755328"
 }
