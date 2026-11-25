@@ -110,6 +110,30 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/pixel-traditions5-bundle",
         "date": "2026-11-24"
+      },
+      {
+        "title": "Pay What You WantGet Shadows of Doubt, Gloomwood, Intravenou",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Pay What You WantGet Shadows of Doubt, Gloomwood, IntravenouのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/covert-operations-stealth-bundle",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Power Halt Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Power Halt BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/power-halt-bundle",
+        "date": "2026-11-25"
       }
     ],
     "sale": [
@@ -496,6 +520,42 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/the-blood-of-dawnwalker/info/",
         "date": "2026-11-24"
+      },
+      {
+        "title": "FINAL FANTASY VII REBIRTH",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REBIRTHがSteamで85% OFFセール中です。",
+        "price": "¥986",
+        "originalPrice": "¥6,578",
+        "discount": "85% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2909400",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "FINAL FANTASY VII REMAKE INTERGRADEがSteamで82% OFFセール中です。",
+        "price": "¥986",
+        "originalPrice": "¥5,478",
+        "discount": "82% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1462040",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "CONTROL Resonant",
+        "platform": "Various",
+        "type": "sale",
+        "description": "CONTROL ResonantがVariousで-34%セール中です。",
+        "price": "$39.31",
+        "originalPrice": "",
+        "discount": "-34%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/control-resonant/info/",
+        "date": "2026-11-25"
       }
     ],
     "review": [
@@ -797,8 +857,21 @@
         "url": "https://doope.jp/2026/11173090.html",
         "date": "2026-11-25",
         "is_translated": false
+      },
+      {
+        "title": "【“圧倒的に好評”1万メートル登るローグライト『White Knuckle』大型アプデで過去最高...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【“圧倒的に好評”1万メートル登るローグライト『White Knuckle』大型アプデで過去最高...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261125-480833/",
+        "date": "2026-11-25",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-25T03:57:23.540665"
+  "last_updated": "2026-11-25T07:01:00.338204"
 }
