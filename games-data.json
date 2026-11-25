@@ -134,6 +134,42 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/power-halt-bundle",
         "date": "2026-11-25"
+      },
+      {
+        "title": "Pay What You WantGet Worshippers of Cthulhu, Galacticare, ST",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Pay What You WantGet Worshippers of Cthulhu, Galacticare, STのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/builders-blueprint-bundle",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Pay What You WantGet Zoominoes, Into The Grid, Hungry Horror",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Pay What You WantGet Zoominoes, Into The Grid, Hungry HorrorのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/deck-the-halls-with-deckbuilders",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "Pay What You WantGet Journey To The Savage Planet, Who's You",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Pay What You WantGet Journey To The Savage Planet, Who's YouのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/seriously-unserious-collection",
+        "date": "2026-11-25"
       }
     ],
     "sale": [
@@ -556,6 +592,30 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/control-resonant/info/",
         "date": "2026-11-25"
+      },
+      {
+        "title": "007 First Light",
+        "platform": "Various",
+        "type": "sale",
+        "description": "007 First LightがVariousで-50%セール中です。",
+        "price": "$34.99",
+        "originalPrice": "",
+        "discount": "-50%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/007-first-light/info/",
+        "date": "2026-11-25"
+      },
+      {
+        "title": "STAR WARS: Galactic Racer™",
+        "platform": "Various",
+        "type": "sale",
+        "description": "STAR WARS: Galactic Racer™がVariousで-29%セール中です。",
+        "price": "$42.59",
+        "originalPrice": "",
+        "discount": "-29%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/star-wars-galactic-racer/info/",
+        "date": "2026-11-25"
       }
     ],
     "review": [
@@ -899,5 +959,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-25T18:58:36.930116"
+  "last_updated": "2026-11-25T21:28:14.618339"
 }
