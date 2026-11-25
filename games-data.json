@@ -28,18 +28,6 @@
     ],
     "bundle": [
       {
-        "title": "Power Halt Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Power Halt BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/power-halt-bundle",
-        "date": "2026-11-15"
-      },
-      {
         "title": "HHWicked Stardust Bundle",
         "platform": "IndieGala",
         "type": "bundle",
@@ -125,90 +113,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "Clair Obscur: Expedition 33",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Clair Obscur: Expedition 33がVariousで-20%セール中です。",
-        "price": "$39.95",
-        "originalPrice": "",
-        "discount": "-20%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
-        "date": "2026-11-18"
-      },
-      {
-        "title": "The Elder Scrolls V: Skyrim Special Edition",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "The Elder Scrolls V: Skyrim Special EditionがSteamで80% OFFセール中です。",
-        "price": "¥879",
-        "originalPrice": "¥4,399",
-        "discount": "80% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/489830",
-        "date": "2026-11-18"
-      },
-      {
-        "title": "Contractor: The Clean Up Part II",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Contractor: The Clean Up Part IIがVariousで-100%セール中です。",
-        "price": "$0.00",
-        "originalPrice": "",
-        "discount": "-100%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/contractor-the-clean-up-part-ii/info/",
-        "date": "2026-11-18"
-      },
-      {
-        "title": "Lies Of P",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Lies Of PがVariousで-50%セール中です。",
-        "price": "$29.99",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/lies-of-p/info/",
-        "date": "2026-11-18"
-      },
-      {
-        "title": "FINAL FANTASY VII REBIRTH",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY VII REBIRTHがSteamで85% OFFセール中です。",
-        "price": "¥986",
-        "originalPrice": "¥6,578",
-        "discount": "85% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2909400",
-        "date": "2026-11-18"
-      },
-      {
-        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY VII REMAKE INTERGRADEがSteamで82% OFFセール中です。",
-        "price": "¥986",
-        "originalPrice": "¥5,478",
-        "discount": "82% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1462040",
-        "date": "2026-11-18"
-      },
-      {
-        "title": "007 First Light",
-        "platform": "Various",
-        "type": "sale",
-        "description": "007 First LightがVariousで-50%セール中です。",
-        "price": "$39.99",
-        "originalPrice": "",
-        "discount": "-50%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/007-first-light/info/",
-        "date": "2026-11-18"
-      },
       {
         "title": "NieR:Automata™",
         "platform": "Steam",
@@ -596,71 +500,6 @@
     ],
     "review": [
       {
-        "title": "【一人称視点ホラーサバイバル3D釣りゲーム「DREADMOOR」の販売が早くも10万本を突破：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【一人称視点ホラーサバイバル3D釣りゲーム「DREADMOOR」の販売が早くも10万本を突破：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11173016.html",
-        "date": "2026-11-20",
-        "is_translated": false
-      },
-      {
-        "title": "【ポケットペアが『GTA6』発売記念パーティの様子を報告！オフィスにフリープレイコーナー常設で遊び放題】",
-        "platform": "インサイド",
-        "type": "review",
-        "description": "【ポケットペアが『GTA6』発売記念パーティの様子を報告！オフィスにフリープレイコーナー常設で遊び放題】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.inside-games.jp/article/2026/11/20/191280.html",
-        "date": "2026-11-20",
-        "is_translated": false
-      },
-      {
-        "title": "【Steamでは「AI使用開示作品」の売上が低い傾向あり。でもほんとに開示のせいなのか、“はなか...：レビュー】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【Steamでは「AI使用開示作品」の売上が低い傾向あり。でもほんとに開示のせいなのか、“はなか...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/newsjp/20261120-480176/",
-        "date": "2026-11-20",
-        "is_translated": false
-      },
-      {
-        "title": "【Valve are pausing Steam Machine 2TB orders over...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Valve are pausing Steam Machine 2TB orders over...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/valve-are-pausing-steam-machine-2tb-orders-over-supply-constraints-though-the-512gb-model-is-free-of-its-waitlist",
-        "date": "2026-11-20",
-        "is_translated": true
-      },
-      {
-        "title": "【「Grand Theft Auto VI」の売上げがエンターテインメント史上最大の記録となる初...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Grand Theft Auto VI」の売上げがエンターテインメント史上最大の記録となる初...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11173040.html",
-        "date": "2026-11-20",
-        "is_translated": false
-      },
-      {
         "title": "【Alt Video is a digital, faux Blockbuster video ...：レビュー】",
         "platform": "Rock Paper Shotgun",
         "type": "review",
@@ -919,8 +758,47 @@
         "url": "https://www.inside-games.jp/article/2026/11/24/191495.html",
         "date": "2026-11-24",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料『閃乱カグラ』新作スマホRPG『シノビNEXUS』は、シノビを“愛でる”手段がぎ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料『閃乱カグラ』新作スマホRPG『シノビNEXUS』は、シノビを“愛でる”手段がぎ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/shinovi-nexus-20261125-480798/",
+        "date": "2026-11-25",
+        "is_translated": false
+      },
+      {
+        "title": "【新型ランナーシェル“BISHOP”の勇姿を描く「Marathon」のシネマティックトレーラーが...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【新型ランナーシェル“BISHOP”の勇姿を描く「Marathon」のシネマティックトレーラーが...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11173081.html",
+        "date": "2026-11-25",
+        "is_translated": false
+      },
+      {
+        "title": "【「Terraria」にクロスプレイ機能の第1弾フェーズを導入する1.4.6アップデートが遂に配信】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「Terraria」にクロスプレイ機能の第1弾フェーズを導入する1.4.6アップデートが遂に配信】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11173090.html",
+        "date": "2026-11-25",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-24T22:11:51.660434"
+  "last_updated": "2026-11-25T03:57:23.540665"
 }
