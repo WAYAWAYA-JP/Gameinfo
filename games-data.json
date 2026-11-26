@@ -1,6 +1,19 @@
 {
   "pc": {
-    "free": [],
+    "free": [
+      {
+        "title": "Mark of the Deep",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『Mark of the Deep』は、緻密なストーリー展開と、高く評価されているメトロイドヴァニアやソウルライクゲームの要素を組み合わせた壮大な海賊アドベンチャーです。プレイヤーは海賊ルーキーとして、呪われた島の謎を解き明かし、行方不明の仲間たちを探し出す旅に出ることになります！",
+        "price": "無料",
+        "originalPrice": "¥23",
+        "discount": "100% OFF",
+        "deadline": "2026年11月26日まで",
+        "url": "https://store.epicgames.com/ja/p/2fd257a6cd80405a833f9004ff07993a",
+        "date": "2026-11-26"
+      }
+    ],
     "bundle": [
       {
         "title": "Lusty Lab Bundle",
@@ -121,6 +134,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/seriously-unserious-collection",
         "date": "2026-11-25"
+      },
+      {
+        "title": "Pay What You WantGet Palworld, V Rising, Subnautica: Below Z",
+        "platform": "Humble Bundle",
+        "type": "bundle",
+        "description": "Pay What You WantGet Palworld, V Rising, Subnautica: Below ZのバンドルがHumble Bundleで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.humblebundle.com/games/survival-fittest",
+        "date": "2026-11-26"
       }
     ],
     "sale": [
@@ -470,6 +495,18 @@
         "discount": "-72%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Ghost of Tsushima DIRECTOR'S CUT",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "Ghost of Tsushima DIRECTOR'S CUTがSteamで50% OFFセール中です。",
+        "price": "¥3,795",
+        "originalPrice": "¥7,590",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2215430",
         "date": "2026-11-26"
       }
     ],
@@ -824,8 +861,47 @@
         "url": "https://automaton-media.com/articles/newsjp/20261126-480970/",
         "date": "2026-11-26",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料・最大32人バトロワ『ソニックランブル パーティ』にて『アングリーバード』コラボ...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料・最大32人バトロワ『ソニックランブル パーティ』にて『アングリーバード』コラボ...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261126-481052/",
+        "date": "2026-11-26",
+        "is_translated": false
+      },
+      {
+        "title": "【「トニー・ホーク プロ・スケーター 3+4」や「ドラゴンボール ゼノバース2」を含む2026年...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【「トニー・ホーク プロ・スケーター 3+4」や「ドラゴンボール ゼノバース2」を含む2026年...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11173163.html",
+        "date": "2026-11-26",
+        "is_translated": false
+      },
+      {
+        "title": "【The latest adult game in the Muv-Luv series has...：レビュー】",
+        "platform": "PC Gamer",
+        "type": "review",
+        "description": "【The latest adult game in the Muv-Luv series has...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.pcgamer.com/games/visual-novel/the-latest-adult-game-in-the-muv-luv-series-has-some-woeful-ai-translation-and-players-arent-happy-about-it/",
+        "date": "2026-11-26",
+        "is_translated": true
       }
     ]
   },
-  "last_updated": "2026-11-26T03:22:47.827315"
+  "last_updated": "2026-11-26T06:53:37.979217"
 }
