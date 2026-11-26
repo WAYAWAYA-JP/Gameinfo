@@ -12,6 +12,30 @@
         "deadline": "2026年11月26日まで",
         "url": "https://store.epicgames.com/ja/p/2fd257a6cd80405a833f9004ff07993a",
         "date": "2026-11-26"
+      },
+      {
+        "title": "ファイアストン - 放置クリッカーオンラインRPG",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "『Firestone: Online Idle RPG』は放置系RPGのマルチプレイファンタジーゲーム。ヒーロー🧙‍♂️を集め、装備やスキルを強化し、放置バトルに送り出すか、連続クリッカーで強いボスを倒しましょう！ギルドフレンドとチャットしたり、PvP対戦⚔️もできます。遊び方はあなた次第！",
+        "price": "無料",
+        "originalPrice": "",
+        "discount": "100% OFF",
+        "deadline": "2026年12月03日まで",
+        "url": "https://store.epicgames.com/ja/p/1185abfe7c554a1e8c528aba37bf3d0f",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Bread and Fred",
+        "platform": "Epic Games",
+        "type": "free",
+        "description": "Grab your best bud for help in this new co-op challenge to help two adorable penguins, Bread and Fred, reach the top of the snowy summit. Time your jumps, cling to walls and swing across gaps to see …",
+        "price": "無料",
+        "originalPrice": "¥14",
+        "discount": "100% OFF",
+        "deadline": "2026年12月03日まで",
+        "url": "https://store.epicgames.com/ja/p/3435439bd89847608f5299fb297d1466",
+        "date": "2026-11-26"
       }
     ],
     "bundle": [
@@ -508,6 +532,30 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/2215430",
         "date": "2026-11-26"
+      },
+      {
+        "title": "Contractor: The Clean Up Part II",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Contractor: The Clean Up Part IIがVariousで-100%セール中です。",
+        "price": "$0.00",
+        "originalPrice": "",
+        "discount": "-100%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/contractor-the-clean-up-part-ii/info/",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Monster Hunter Wilds",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Monster Hunter WildsがVariousで-64%セール中です。",
+        "price": "$25.45",
+        "originalPrice": "",
+        "discount": "-64%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/monster-hunter-wilds/info/",
+        "date": "2026-11-26"
       }
     ],
     "review": [
@@ -900,8 +948,60 @@
         "url": "https://www.pcgamer.com/games/visual-novel/the-latest-adult-game-in-the-muv-luv-series-has-some-woeful-ai-translation-and-players-arent-happy-about-it/",
         "date": "2026-11-26",
         "is_translated": true
+      },
+      {
+        "title": "【『モンスターハンターNow』開発者インタビュー。大阪を巡る回遊型リアルイベントの狙いから、電車...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『モンスターハンターNow』開発者インタビュー。大阪を巡る回遊型リアルイベントの狙いから、電車...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/interviewsjp/monster-hunter-now-20261126-481197/",
+        "date": "2026-11-26",
+        "is_translated": false
+      },
+      {
+        "title": "【かなり“わかってる”サイバーパンクゲーム『アセント』の電脳都市はもはやセクシー。絡み合うパイプ...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【かなり“わかってる”サイバーパンクゲーム『アセント』の電脳都市はもはやセクシー。絡み合うパイプ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/theascent-20261126-481099/",
+        "date": "2026-11-26",
+        "is_translated": false
+      },
+      {
+        "title": "【『GTA6』ヒットの裏で、『Call of Duty』プレイヤーが“40％以上”減少。ごっそり...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『GTA6』ヒットの裏で、『Call of Duty』プレイヤーが“40％以上”減少。ごっそり...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261126-481127/",
+        "date": "2026-11-26",
+        "is_translated": false
+      },
+      {
+        "title": "【Diablo系アクションRPG続編「Wolcen 2」の第2弾クローズドアルファテストがスター...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【Diablo系アクションRPG続編「Wolcen 2」の第2弾クローズドアルファテストがスター...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11173174.html",
+        "date": "2026-11-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-26T06:53:37.979217"
+  "last_updated": "2026-11-26T18:49:56.637373"
 }
