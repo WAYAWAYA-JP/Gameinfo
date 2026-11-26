@@ -1,56 +1,7 @@
 {
   "pc": {
-    "free": [
-      {
-        "title": "Knightica",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "強力なユニットを戦略的に配置して、シナジーを得るローグライク・オートバトラー。\n目的は戦隊を率いて数々の敵に挑み、王国を解放すること。\n部隊の最適な組み合わせを見つけ、強力な魔法を編み出し、危険なモンスターと対決して、自軍を勝利に導こう！",
-        "price": "無料",
-        "originalPrice": "¥14",
-        "discount": "100% OFF",
-        "deadline": "2026年11月19日まで",
-        "url": "https://store.epicgames.com/ja/p/72b46f5d95624fd5b7e7d81b7dcaead1",
-        "date": "2026-11-19"
-      },
-      {
-        "title": "Mark of the Deep",
-        "platform": "Epic Games",
-        "type": "free",
-        "description": "『Mark of the Deep』は、緻密なストーリー展開と、高く評価されているメトロイドヴァニアやソウルライクゲームの要素を組み合わせた壮大な海賊アドベンチャーです。プレイヤーは海賊ルーキーとして、呪われた島の謎を解き明かし、行方不明の仲間たちを探し出す旅に出ることになります！",
-        "price": "無料",
-        "originalPrice": "¥23",
-        "discount": "100% OFF",
-        "deadline": "2026年11月26日まで",
-        "url": "https://store.epicgames.com/ja/p/2fd257a6cd80405a833f9004ff07993a",
-        "date": "2026-11-19"
-      }
-    ],
+    "free": [],
     "bundle": [
-      {
-        "title": "HHWicked Stardust Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "HHWicked Stardust BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/wicked-stardust-bundle",
-        "date": "2026-11-16"
-      },
-      {
-        "title": "Pay What You WantGet Palworld, V Rising, Subnautica: Below Z",
-        "platform": "Humble Bundle",
-        "type": "bundle",
-        "description": "Pay What You WantGet Palworld, V Rising, Subnautica: Below ZのバンドルがHumble Bundleで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.humblebundle.com/games/survival-fittest",
-        "date": "2026-11-16"
-      },
       {
         "title": "Lusty Lab Bundle",
         "platform": "IndieGala",
@@ -173,138 +124,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "NieR:Automata™",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "NieR:Automata™がSteamで60% OFFセール中です。",
-        "price": "¥2,112",
-        "originalPrice": "¥5,280",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/524220",
-        "date": "2026-11-19"
-      },
-      {
-        "title": "オクトパストラベラー0",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "オクトパストラベラー0がSteamで50% OFFセール中です。",
-        "price": "¥3,839",
-        "originalPrice": "¥7,678",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/3014320",
-        "date": "2026-11-19"
-      },
-      {
-        "title": "FINAL FANTASY XVI コンプリートエディション",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "FINAL FANTASY XVI コンプリートエディションがSteamで60% OFFセール中です。",
-        "price": "¥3,960",
-        "originalPrice": "¥9,900",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1111230",
-        "date": "2026-11-19"
-      },
-      {
-        "title": "ロマンシング サガ2 リベンジオブザセブン",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ロマンシング サガ2 リベンジオブザセブンがSteamで60% OFFセール中です。",
-        "price": "¥2,728",
-        "originalPrice": "¥6,820",
-        "discount": "60% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2455640",
-        "date": "2026-11-19"
-      },
-      {
-        "title": "Nier: Automata™ Game Of The Yorha Edition",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Nier: Automata™ Game Of The Yorha EditionがVariousで-60%セール中です。",
-        "price": "$15.99",
-        "originalPrice": "",
-        "discount": "-60%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/nier-automata-game-of-the-yorha-edition/info/",
-        "date": "2026-11-19"
-      },
-      {
-        "title": "魔法使いの夜",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "魔法使いの夜がSteamで50% OFFセール中です。",
-        "price": "¥3,300",
-        "originalPrice": "¥6,600",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2052410",
-        "date": "2026-11-19"
-      },
-      {
-        "title": "ARC Raiders",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "ARC RaidersがSteamで50% OFFセール中です。",
-        "price": "¥3,195",
-        "originalPrice": "¥6,390",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/1808500",
-        "date": "2026-11-19"
-      },
-      {
-        "title": "Ghost of Tsushima DIRECTOR'S CUT",
-        "platform": "Steam",
-        "type": "sale",
-        "description": "Ghost of Tsushima DIRECTOR'S CUTがSteamで50% OFFセール中です。",
-        "price": "¥3,795",
-        "originalPrice": "¥7,590",
-        "discount": "50% OFF",
-        "deadline": "",
-        "url": "https://store.steampowered.com/app/2215430",
-        "date": "2026-11-19"
-      },
-      {
-        "title": "God of War",
-        "platform": "Various",
-        "type": "sale",
-        "description": "God of WarがVariousで-64%セール中です。",
-        "price": "$17.95",
-        "originalPrice": "",
-        "discount": "-64%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/god-of-war/info/",
-        "date": "2026-11-19"
-      },
-      {
-        "title": "Marvel's Spider-Man: Miles Morales",
-        "platform": "Various",
-        "type": "sale",
-        "description": "Marvel's Spider-Man: Miles MoralesがVariousで-64%セール中です。",
-        "price": "$17.95",
-        "originalPrice": "",
-        "discount": "-64%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/marvels-spider-man-miles-morales/info/",
-        "date": "2026-11-19"
-      },
-      {
-        "title": "God of War Ragnarök",
-        "platform": "Various",
-        "type": "sale",
-        "description": "God of War RagnarökがVariousで-40%セール中です。",
-        "price": "$36.13",
-        "originalPrice": "",
-        "discount": "-40%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/god-of-war-ragnarok/info/",
-        "date": "2026-11-19"
-      },
       {
         "title": "UNCHARTED™: Legacy of Thieves Collection",
         "platform": "Various",
@@ -616,22 +435,45 @@
         "deadline": "",
         "url": "https://isthereanydeal.com/game/star-wars-galactic-racer/info/",
         "date": "2026-11-25"
+      },
+      {
+        "title": "SILENT HILL f",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "SILENT HILL fがSteamで72% OFFセール中です。",
+        "price": "¥2,402",
+        "originalPrice": "¥8,580",
+        "discount": "72% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2947440",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "SILENT HILL 2 & SILENT HILL f スタンダードデュアルパック",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "SILENT HILL 2 & SILENT HILL f スタンダードデュアルパックがSteamで65% OFFセール中です。",
+        "price": "¥4,312",
+        "originalPrice": "¥12,320",
+        "discount": "65% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/1412913",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "SILENT HILL 2",
+        "platform": "Various",
+        "type": "sale",
+        "description": "SILENT HILL 2がVariousで-72%セール中です。",
+        "price": "$19.59",
+        "originalPrice": "",
+        "discount": "-72%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/silent-hill-2/info/",
+        "date": "2026-11-26"
       }
     ],
     "review": [
-      {
-        "title": "【Alt Video is a digital, faux Blockbuster video ...：レビュー】",
-        "platform": "Rock Paper Shotgun",
-        "type": "review",
-        "description": "【Alt Video is a digital, faux Blockbuster video ...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.rockpapershotgun.com/alt-video-is-a-digital-faux-blockbuster-video-store-that-you-can-fill-with-movies-from-your-letterboxd-watchlist-and-plex-server",
-        "date": "2026-11-21",
-        "is_translated": true
-      },
       {
         "title": "【「夫婦の日」に2人で遊びたい協力プレイゲーム5選！『It Takes Two』や『違う冬のぼく...】",
         "platform": "インサイド",
@@ -956,8 +798,34 @@
         "url": "https://www.rockpapershotgun.com/company-of-heroes-3-operation-torch-review",
         "date": "2026-11-25",
         "is_translated": true
+      },
+      {
+        "title": "【PS5/PS4向け「PS Plusフリープレイ」12月は人気根強い『ドラゴンボール ゼノバース...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【PS5/PS4向け「PS Plusフリープレイ」12月は人気根強い『ドラゴンボール ゼノバース...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261126-481040/",
+        "date": "2026-11-26",
+        "is_translated": false
+      },
+      {
+        "title": "【『グランド・セフト・オートVI（GTA6）』ではプレイヤーも「犯罪される側」、強盗から拉致まで...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【『グランド・セフト・オートVI（GTA6）』ではプレイヤーも「犯罪される側」、強盗から拉致まで...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261126-480970/",
+        "date": "2026-11-26",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-25T21:28:14.618339"
+  "last_updated": "2026-11-26T03:22:47.827315"
 }
