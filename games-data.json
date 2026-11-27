@@ -170,6 +170,18 @@
         "deadline": "",
         "url": "https://www.humblebundle.com/games/survival-fittest",
         "date": "2026-11-26"
+      },
+      {
+        "title": "HHPixel Traditions 5 Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "HHPixel Traditions 5 BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/pixel-traditions5-bundle",
+        "date": "2026-11-27"
       }
     ],
     "sale": [
@@ -543,6 +555,18 @@
         "discount": "70% OFF",
         "deadline": "",
         "url": "https://store.steampowered.com/app/1091500",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "魔法使いの夜",
+        "platform": "Steam",
+        "type": "sale",
+        "description": "魔法使いの夜がSteamで50% OFFセール中です。",
+        "price": "¥3,300",
+        "originalPrice": "¥6,600",
+        "discount": "50% OFF",
+        "deadline": "",
+        "url": "https://store.steampowered.com/app/2052410",
         "date": "2026-11-27"
       }
     ],
@@ -949,8 +973,34 @@
         "url": "https://doope.jp/2026/11173174.html",
         "date": "2026-11-26",
         "is_translated": false
+      },
+      {
+        "title": "【基本プレイ無料着せ替えオープンワールド『インフィニティニキ』大型アプデVer.3.0では「銃を...】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【基本プレイ無料着せ替えオープンワールド『インフィニティニキ』大型アプデVer.3.0では「銃を...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/reportjp/20261127-481372/",
+        "date": "2026-11-27",
+        "is_translated": false
+      },
+      {
+        "title": "【電動エルゴノミクスチェア「LiberNovo Omni Gen」は長時間ゲーマー/ライターを救...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【電動エルゴノミクスチェア「LiberNovo Omni Gen」は長時間ゲーマー/ライターを救...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11173235.html",
+        "date": "2026-11-27",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-27T06:46:06.397408"
+  "last_updated": "2026-11-27T18:41:20.539755"
 }
