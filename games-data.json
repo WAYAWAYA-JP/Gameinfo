@@ -40,18 +40,6 @@
     ],
     "bundle": [
       {
-        "title": "Lusty Lab Bundle",
-        "platform": "IndieGala",
-        "type": "bundle",
-        "description": "Lusty Lab BundleのバンドルがIndieGalaで販売中です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.indiegala.com/bundle/lusty-lab-bundle",
-        "date": "2026-11-18"
-      },
-      {
         "title": "Pay What You WantGet Clue/Cluedo, Clue/Cluedo: Noir Mansion ",
         "platform": "Humble Bundle",
         "type": "bundle",
@@ -185,18 +173,6 @@
       }
     ],
     "sale": [
-      {
-        "title": "No Man's Sky",
-        "platform": "Various",
-        "type": "sale",
-        "description": "No Man's SkyがVariousで-67%セール中です。",
-        "price": "$19.63",
-        "originalPrice": "",
-        "discount": "-67%",
-        "deadline": "",
-        "url": "https://isthereanydeal.com/game/no-mans-sky/info/",
-        "date": "2026-11-21"
-      },
       {
         "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
         "platform": "Various",
@@ -568,100 +544,21 @@
         "deadline": "",
         "url": "https://store.steampowered.com/app/2052410",
         "date": "2026-11-27"
+      },
+      {
+        "title": "Hogwarts Legacy",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Hogwarts LegacyがVariousで-92%セール中です。",
+        "price": "$5.09",
+        "originalPrice": "",
+        "discount": "-92%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
+        "date": "2026-11-28"
       }
     ],
     "review": [
-      {
-        "title": "【「Darkest Dungeon II – The Butcher’s Asylum」DLCの...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Darkest Dungeon II – The Butcher’s Asylum」DLCの...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11173054.html",
-        "date": "2026-11-23",
-        "is_translated": false
-      },
-      {
-        "title": "【Binding of Isaac DLC adds AI music in GTA 6-par...：レビュー】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【Binding of Isaac DLC adds AI music in GTA 6-par...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/",
-        "date": "2026-11-23",
-        "is_translated": true
-      },
-      {
-        "title": "【GTA 6 Is Getting Review Bombed in Zelda vs. GTA...】",
-        "platform": "Polygon",
-        "type": "review",
-        "description": "【GTA 6 Is Getting Review Bombed in Zelda vs. GTA...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.polygon.com/gta-6-review-bombed-legend-of-zelda/",
-        "date": "2026-11-23",
-        "is_translated": true
-      },
-      {
-        "title": "【オープンワールド『紅の砂漠』初の大型DLC「未知なる旅路」プレイ感想。とにかく詰め込みまくり、...】",
-        "platform": "AUTOMATON",
-        "type": "review",
-        "description": "【オープンワールド『紅の砂漠』初の大型DLC「未知なる旅路」プレイ感想。とにかく詰め込みまくり、...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://automaton-media.com/articles/reportjp/20261123-480447/",
-        "date": "2026-11-23",
-        "is_translated": false
-      },
-      {
-        "title": "【9年に及んだベータ運用を終える「Serious Sam Fusion」の大型アップデートが配信：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【9年に及んだベータ運用を終える「Serious Sam Fusion」の大型アップデートが配信：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11173057.html",
-        "date": "2026-11-23",
-        "is_translated": false
-      },
-      {
-        "title": "【「Teardown」に本格的なレースモードを導入する“ラリー”アップデートの配信日が12月8日...：レビュー】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【「Teardown」に本格的なレースモードを導入する“ラリー”アップデートの配信日が12月8日...：レビュー】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11173088.html",
-        "date": "2026-11-23",
-        "is_translated": false
-      },
-      {
-        "title": "【World of Warcraft: Forever review: The first pr...】",
-        "platform": "PC Gamer",
-        "type": "review",
-        "description": "【World of Warcraft: Forever review: The first pr...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-review/",
-        "date": "2026-11-23",
-        "is_translated": true
-      },
       {
         "title": "【古書店経営ゲーム「Tiny Bookshop」の販売が遂に100万本を突破、初のDLC「Art...：レビュー】",
         "platform": "doope!",
@@ -673,19 +570,6 @@
         "deadline": "",
         "url": "https://doope.jp/2026/11173077.html",
         "date": "2026-11-24",
-        "is_translated": false
-      },
-      {
-        "title": "【PS5版「Grand Theft Auto VI」のプレイヤーが3,900万人を突破、複数の記...】",
-        "platform": "doope!",
-        "type": "review",
-        "description": "【PS5版「Grand Theft Auto VI」のプレイヤーが3,900万人を突破、複数の記...】のレビュー記事です。",
-        "price": "",
-        "originalPrice": "",
-        "discount": "",
-        "deadline": "",
-        "url": "https://doope.jp/2026/11173078.html",
-        "date": "2026-11-23",
         "is_translated": false
       },
       {
@@ -999,8 +883,73 @@
         "url": "https://doope.jp/2026/11173235.html",
         "date": "2026-11-27",
         "is_translated": false
+      },
+      {
+        "title": "【MMORPG『メイプルストーリー』大型アプデ「OVERDRIVE」盛りだくさんな詳細お披露目。...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【MMORPG『メイプルストーリー』大型アプデ「OVERDRIVE」盛りだくさんな詳細お披露目。...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/maplestory-20261128-482448/",
+        "date": "2026-11-28",
+        "is_translated": false
+      },
+      {
+        "title": "【元BlizzardのベテランRob Pardo氏率いるBonfire Studiosのデビュー...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【元BlizzardのベテランRob Pardo氏率いるBonfire Studiosのデビュー...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11173249.html",
+        "date": "2026-11-28",
+        "is_translated": false
+      },
+      {
+        "title": "【力を持つ歯を抜き差ししながらダンジョンの最深部を目指すローグライクRPG「Sol Cesto」...：レビュー】",
+        "platform": "doope!",
+        "type": "review",
+        "description": "【力を持つ歯を抜き差ししながらダンジョンの最深部を目指すローグライクRPG「Sol Cesto」...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://doope.jp/2026/11173265.html",
+        "date": "2026-11-28",
+        "is_translated": false
+      },
+      {
+        "title": "【「ジョジョ」印象的な「To Be Continued」矢印がライトに！インテリアとしてはもちろ...：レビュー】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【「ジョジョ」印象的な「To Be Continued」矢印がライトに！インテリアとしてはもちろ...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/11/28/191719.html",
+        "date": "2026-11-28",
+        "is_translated": false
+      },
+      {
+        "title": "【『ゼンゼロ』元NPC「セシリア」がプレイアブル化！伝説の歌姫にして妄想エンジェルの先生、初登場...】",
+        "platform": "インサイド",
+        "type": "review",
+        "description": "【『ゼンゼロ』元NPC「セシリア」がプレイアブル化！伝説の歌姫にして妄想エンジェルの先生、初登場...】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.inside-games.jp/article/2026/11/28/191718.html",
+        "date": "2026-11-28",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-27T20:57:37.863428"
+  "last_updated": "2026-11-28T03:05:50.723659"
 }
