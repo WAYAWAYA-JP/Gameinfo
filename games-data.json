@@ -170,6 +170,18 @@
         "deadline": "",
         "url": "https://www.indiegala.com/bundle/pixel-traditions5-bundle",
         "date": "2026-11-27"
+      },
+      {
+        "title": "Lusty Lab Bundle",
+        "platform": "IndieGala",
+        "type": "bundle",
+        "description": "Lusty Lab BundleのバンドルがIndieGalaで販売中です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://www.indiegala.com/bundle/lusty-lab-bundle",
+        "date": "2026-11-28"
       }
     ],
     "sale": [
@@ -555,6 +567,18 @@
         "discount": "-92%",
         "deadline": "",
         "url": "https://isthereanydeal.com/game/hogwarts-legacy/info/",
+        "date": "2026-11-28"
+      },
+      {
+        "title": "Clair Obscur: Expedition 33",
+        "platform": "Various",
+        "type": "sale",
+        "description": "Clair Obscur: Expedition 33がVariousで-32%セール中です。",
+        "price": "$33.84",
+        "originalPrice": "",
+        "discount": "-32%",
+        "deadline": "",
+        "url": "https://isthereanydeal.com/game/clair-obscur-expedition-33/info/",
         "date": "2026-11-28"
       }
     ],
@@ -948,8 +972,21 @@
         "url": "https://www.inside-games.jp/article/2026/11/28/191718.html",
         "date": "2026-11-28",
         "is_translated": false
+      },
+      {
+        "title": "【PvPvEホラーFPS『HUNGER』、「最後のオープンベータ」が同接1万人超の活況。怪物と生...：レビュー】",
+        "platform": "AUTOMATON",
+        "type": "review",
+        "description": "【PvPvEホラーFPS『HUNGER』、「最後のオープンベータ」が同接1万人超の活況。怪物と生...：レビュー】のレビュー記事です。",
+        "price": "",
+        "originalPrice": "",
+        "discount": "",
+        "deadline": "",
+        "url": "https://automaton-media.com/articles/newsjp/20261128-481458/",
+        "date": "2026-11-28",
+        "is_translated": false
       }
     ]
   },
-  "last_updated": "2026-11-28T03:05:50.723659"
+  "last_updated": "2026-11-28T06:20:26.523587"
 }
